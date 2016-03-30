@@ -1,6 +1,4 @@
-WEN303 Mini Project
-SWEN 303 Mini Project
-
+SWEN303 Mini Project
 
 To run the assignment please follow the following instructions.
 
