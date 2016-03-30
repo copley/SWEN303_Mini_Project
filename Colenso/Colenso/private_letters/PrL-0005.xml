@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0005">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Private Letter: 1835 March 16: to Coates</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Hocken Library Ms Vol 63; ATL qMS 0491.</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71268/">Coates</name>
+        </correspAction>
+      </correspDesc>
+      <creation>
+        <date when="1835-03-16">1835 March 16</date>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>1835 March 16: to Coates<note xml:id="ftn1-6" place="foot" n="6"> Hocken Library Ms Vol 63; ATL qMS 0491.</note></p>
+    </front>
+    <body>
+      <p rend="end">Paihia, Bay of Islands, New<lb/>Zealand, March 16<hi rend="sup ">th</hi>., 35.</p>
+      <p>To Dandeson Coates, Esqr.</p>
+      <p>Dear Sir,</p>
+      <p>The “Vigilant” being about to sail in a few days, I embrace this opportunity of writing you, in order to “report progress”.—</p>
+      <p>Since the date of my last (Jany. 31.) which I trust came to hand in due time, I have been busily engaged in cleaning and setting up the printing press and getting it into working condition:—laying cases, composing and working off 2000 copies of a post 8vo./ tract of 16 pps: containing Paul’s Epistles to the Ephesians and Philippians.—A printer in London cannot form a correct idea of the disadvantages which I laboured under in the getting this up and sending it out. In consequence of not having a single lead I was obliged to substitute paper and spaces for blank lines.—I hope the leads, &amp;c, will speedily arrive.—I have a native assistant, a fine sharp boy of about 15 years of age; if he proves steady he will be a valuable acquisition. He rolled nearly all the 2000 copies, and though he labours under a great disadvantage in my not understanding the language yet he gets on remarkably well.—I trust, dear Sir, that, considering all things you will be pleased with this little “pukapuka,”—12 copies of which you have enclosed for your government. I should have wished to put covers to all of these little silent messengers, but we have no paper for that purpose; the one enclosed with a <hi rend="bold">[2] </hi>pink cover, is covered with blotting papers. I trust that the Society will, (if there is not some already sent) send out a few reams of colored paper for this purpose.</p>
+      <p>This “first fruits” of the New Zealand Press, which the Lord hath been pleased to allow <hi rend="italic">me</hi> to begin and complete, is very much liked by the natives.—May it, being the “Word of <hi rend="smallcaps">God</hi>,” be the means of making thousands “wise unto salvation”—and the preface, as it were, to a more glorious diffusion of Gospel light over these benighted lands!</p>
+      <p>The work of the Lord is going on:—every day shews us, not only negatively but <hi rend="italic">positively</hi>, that Satan’s sway over the hearts of the inhabitants of these islands, is becoming less and less powerful;—for this, “Glory to God in the highest,: shall be our song—and “Thy kingdom come,” our daily prayer.</p>
+      <p>I intimated in my last a hope, that the printing paper would arrive by the time we were ready for it: I am sorry to say, that it has not yet made its appearance; I trust soon to see it, else I shall be led to suppose, (from the circumstance of its being about to follow us immediately from England,) that it is lost. We now await its arrival in order to commence printing the New Testament.—May <hi rend="smallcaps">God</hi> give me strength and ability to do <hi rend="italic">His</hi> work.</p>
+      <p>I have written my Parents by this ship, and <hi rend="bold">[3] </hi>given them directions to purchase several articles for me, you will, therefore, Sir, be pleased to pay in at Sir J.N. Lubbock’s &amp; Co’s. bank, 11, Mansion House Street, the sum of Sixteen Pounds, (on my account,) with instructions to pay it through their Banker at Penzance, to my Father at that place.—</p>
+      <p>We have heard that our Society has received a munificent donation of £9000.— “Truly God is good to Israel”—for this His name shall be praised.—</p>
+      <p>My health is, I am happy to say, pretty good; but I have had such a succession of colds lately that I am not yet exactly settled, but trust through the blessing of <hi rend="smallcaps">God</hi> to be soon.—</p>
+      <p>I have many interesting things to write on, but my brethren will, doubtless, give them in <hi rend="italic">their</hi> communications.—</p>
+      <p>Beseaching you, dear Sir, and all friends, ever to remember us in your prayers; and praying that the blessing of <hi rend="smallcaps">God</hi> may rest on our Society, and on all its laborers,</p>
+      <p>I am, dear Sir,</p>
+      <p>yr: mo: ob: servt.</p>
+      <p>Willm. Colenso, Jr.</p>
+      <p>P.S. You may send, Sir, the £16. to Penzance, through any other Bank,—or by any other way, which you may think proper.</p>
+      <p>Mar. 28<hi rend="sup">th</hi>., pr. “Portsea”—the Vigilant having sailed, earlier than I expected.—</p>
+      <p>Please forward the 2 little Tracts, enclosed in the Bot., to Mr. Vyvyan, when you send down the “Record,” to the West of England, or at your <hi rend="italic">earliest</hi> convenience.</p>
+    </body>
+  </text>
+</TEI>

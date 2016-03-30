@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0541">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1883 July 29: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1883-07-29">1883 July 29</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1883 July 29: to Luff<note xml:id="ftn3-192" place="foot" n="192"> ATL MS-Copy-Micro-0485-4.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, July 29, 1883.</p>
+         <p>A. Luff, Esq.,</p>
+         <p>Dear Sir,</p>
+         <p>Your kind letter of 27<hi rend="sup">th</hi>. inst., came to hand last night:—I was glad to see a letter from <hi rend="italic">you</hi>, not that such is requisite to remind me of you &amp; of days long passed! when we so frequently conversed here—under this roof, &amp; in your own establishment:—no, no: I rarely go into town but I am led to think of you and the past: &amp; often of an evening, or far advanced into the night, I look up from my writing at my old seat, corner of table in sitting-room, &amp; over to the old arm-chair, &amp; I have you directly before me! <hi rend="italic">as of old</hi>, but as silent as an Egyptian Mummy. From yours I learn that my last to you was on 29<hi rend="sup">th</hi>. June: well, here I am again on 29<hi rend="sup">th</hi>. July—but <hi rend="italic">what</hi> shall I say? The telegraph now-a-days, has put an end to much that we formerly could well write about,—&amp; then (I <hi rend="italic">suppose</hi>) you regularly see the “Herald,”—as I do the “N.Z. Mail,” the weekly of your town: I am, however, greatly dissatisfied with the “Mail,” &amp; I think I shall give it up at end of this year; possibly also the “Auckland Wkly. News,”—both, perhaps, well enough (in their way) for the <hi rend="italic">Country</hi> Settlers in those two Provl. Districts, but not for <hi rend="italic">me</hi> &amp; to send home.—Since my last note to you (as above) I have sent you 2 “D. Telegraphs”; I hope they reached you.—–</p>
+         <p>I am pleased to find you were all well: I would rather that your son were at home, under your roof, than in a tent in the Bush during the wet &amp; cold winter season.—</p>
+         <p>You are right (I regret to say) in remarking that “the <hi rend="italic">heavy</hi> portion of our branch Instit. falls on me”:—this, however, must soon be altered. We had <hi rend="italic">no</hi> monthly meeting in June, &amp; I have summoned a meeting of the Council to consider for the approaching one of August: unfortunately our Council do not see things—do not consider probable results, nor care to lay themselves out <hi rend="italic">in any way</hi> for the good of the Inst.,—and you know very well, that where such is the case, (whether in a Council, or a Committee, or a Board, or a Body for any purpose,) that grief must inevitably follow sooner or later. As I have told them, I am still willing to work for them (&amp; hard, too) but in doing so I must be properly &amp; fully supported <hi rend="italic">by them</hi>—or, if not, I drop tools.—Our C. meeting is on Wednesday, 1<hi rend="sup">st</hi>.,—it would have been held before, only I waited for our President’s return from Wairoa.</p>
+         <p>I note what you say of Maney, &amp; agree with you: I cannot help having strange thoughts every time I meet, &amp; speak to, &amp; pass, M. I fear he will never know high water again!—</p>
+         <p>I also agree w. you in your remarks about investing in Land, now,—aye, &amp; in other things too. I should not be surprised if a crisis (in money matters) were to take place before long. I do not like the manner of acting shown by those perked-up gentry at Wairoa, <hi rend="italic">re</hi> lands, sections, rates, &amp;c.; they are isolated, (though they might be much more so,) and all they care for is their own slow-growing town!—or, more truly, their own selves. They have often reminded me of Montgomery’s water-wagtail, singing:</p>
+         <p>“All the world was made for me!”</p>
+         <p>Be careful how you deal—or are <hi rend="italic">dealt</hi>—with these W. fellows.</p>
+         <p>Boyle (as you observe) is out w. some of his Hastings lands, &amp; it is said T. Tanner &amp; J.N. Williams are about to do the same. No doubt Hastings is going ahead <hi rend="italic">fast</hi>: how strange it <hi rend="italic">seems</hi>—that <hi rend="italic">all</hi> our <hi rend="italic">Govt. </hi>townships in H.B. are <hi rend="italic">nil</hi>! ergo Clive, Havelock, Hampden, Wallingford, Porangahau, &amp; <hi rend="italic">Blackhead</hi>! For my part, I prefer the <hi rend="italic">steady</hi> (slow but sure) advance—like Waipawa. I have <hi rend="italic">long ceased</hi> buying land, or speculating in any way: as it is, I find it a heavy tax on my pocket to meet so many demands for rates &amp; taxes on <hi rend="italic">unoccupied</hi> lands. I cannot (for instance) bring the owners of the “Grange” property to do <hi rend="italic">any thing</hi> in the way of an equivalent to my outlays (perennial) on those 21 acres of land over at Te Awanga,—I <hi rend="italic">must pay</hi> ½ divid. fences—rate<hi rend="underline italic">s</hi> &amp; propy. tax; &amp; they quietly reap the benefit: &amp; yet <hi rend="italic">they are Xns</hi>.!!! Some people, when <hi rend="italic">money</hi> is in the scales, cannot possibly act straightforward.—Deliver me from all such! Only last week I was <hi rend="italic">solicited</hi> to endorse (“<hi rend="italic">only</hi> endorse”!) a P.N. for £400. at a high rate of int., no security, &amp; a spec. I could not approve of. Of course, I said, NO!—</p>
+         <p>Kindly ask your son to put up for me a <hi rend="italic">bit</hi> of any flowering Moss, or <hi rend="italic">small</hi> fern that may seem to be a novelty, or unusual:—I am sure there are lots of them in those parts. Sometimes I get a dozen, or more, sent to me in a letter—and all for the 2d. stamp! as they weigh scarcely any thing when dry….</p>
+         <p>Grubb is pretty well now, (he has had a “cold and bilious,”)—I see but <hi rend="italic">little</hi> of him, he does not come here now,—it is winter, &amp; I don’t wonder at it, as I am sure he must be tired when he leaves Office, &amp; that is <hi rend="italic">often late</hi>. Like me of old (when P.T.), G. does not stick to off. hours—almost <hi rend="italic">always beyond </hi>them—besides often Sunday work.</p>
+         <p>This week will be a busy one in your great talking shop! <hi rend="italic">re</hi> the property tax—I hope to hear of the follg. amendments: exemption reduced to £200: improvements exempt: ditto goods &amp; stores and back-debts: ditto Books, personal clothing, &amp; scientific specimens &amp; apparatus.—</p>
+         <p>I hope Terawhiti goldfields may go ahead—if so, good for Wgn.—I suppose you sometimes see, J.N. Wilson, Whitmore, Sutton, B., &amp; Smith. Condie has just let the remr. of his estate to an Otago man:—rent &amp;c., much too high. Burton is not doing well w. his land—at least, <hi rend="italic">they</hi> say so: too much of fruit coming in from abroad, including Wairoa &amp;c., &amp;c.</p>
+         <p>I quite reciprocate your wish, “should much like <hi rend="italic">to see</hi> you”: we <hi rend="italic">may</hi>, yet, this coming summer (D.V.) our winter is nearly over. I am well. And now w. very kind regards</p>
+         <p>Bel. me, Yours truly</p>
+         <p>Wm. Colenso.</p>
+         <p>Don’t forget me with an “Evg. Post” i.e. when any thing good, or worth reading.</p>
+      </body>
+   </text>
+</TEI>

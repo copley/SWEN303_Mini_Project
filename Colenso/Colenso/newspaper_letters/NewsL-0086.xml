@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0086">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1880 Mr. Colenso and the Municipal Council. Hawke’s Bay Herald 9 April.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1880-04-09">1880 April 9</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1880 Mr. Colenso and the Municipal Council.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald </hi>
+                  <hi rend="bold">9 April.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—In your paper of this morning, in your report of M.C. proceedings, you represent Cr. Ashton as saying “that my letter to them respecting town section 316 was as long as the <hi rend="italic">Australasian</hi> newspaper;” and, therefore, it was taken as read, and so passed by. </p>
+         <p>I write now merely to inform you and your readers (especially Town Ratepayers), that my letter referred to is <hi rend="italic">not</hi> a long one,—and would probably occupy about one column of your paper.</p>
+         <p>Of course there was no need to read my two letters a second time before the M.C., assembled as such, they having already, under their other name (Committee of Public Works), both read and considered them, and also decided how to act with them; but it was highly requisite that Cr. Ashton should keep within the bounds of truth respecting them,—especially when the one he so facetiously refers to affects me seriously (and, as I take it, unjustly, yet, perhaps, in ignorance,) to the amount of £300.</p>
+         <p>No doubt it was by far the easier way of dealing with my letters for the M.C. to refer them both to their solicitor. The <hi rend="italic">first</hi> one mentioned probably required this; the <hi rend="italic">second</hi> one did not; it only required a little close attention, and knowledge, of figures sufficient to work a simple sum in cubic measure, (which, at all events, Cr. Large should know something of), and a heart to justice to a complaining ratepayer. Very likely my letter was a highly distasteful one; but I can assure our M.C. that if they do not pay closer attention to matters involving figures and payments of money they will receive many more such letters from the Borough, and that before long.</p>
+         <p>It is not proper to impute motives to a body of public men elected by ourselves but one is almost tempted to think, that the manner of performance last night and the performers, was a matter snugly arranged beforehand in the “Green Room!”—at all events <hi rend="italic">before </hi>the 2nd act commenced. And I should be the more inclined to believe this, if the Chairman, as Manager, Mr Swan (to say nothing of Mr Ashton) knew anything of the “casting of parts.”—I am, &amp;c.,	</p>
+         <p>
+                  <hi rend="smallcaps">William Colenso.</hi>
+               </p>
+         <p> April 8, 1880.</p>
+      </body>
+   </text>
+</TEI>

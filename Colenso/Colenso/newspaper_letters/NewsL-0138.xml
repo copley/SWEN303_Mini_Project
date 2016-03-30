@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0138">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1888 Bis dat qui cito dat. Hawke’s Bay Herald 20 March.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1888-03-20">1888 March 20</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1888 Bis dat qui cito dat.</hi>
+                  <hi rend="bold">
+                     <note xml:id="ftn52" place="foot" n="52"> He gives twice who gives quickly—<hi rend="italic">Ed.</hi>
+                     </note>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 20 March.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—Referring to the very sad news given to us in your paper of this morning, of the extensive and highly calamitous fire and great loss of property at Norsewood three days ago—and thanking you for your prompt and stirring appeal to us (our and their fellow-settlers) to come forward early and assist those unfortunates in this their trying hour of suffering and want and loss:—I have great pleasure in sending you enclosed a cheque for £20 towards raising a subscription fund for that purpose.</p>
+         <p>For I believe in the sterling natural truth of the above quoted ancient motto,— “He gives twice who gives in time.” Moreover, I feel greatly for those poor hardworking patient Scandinavians (whom I have long known), now burnt out of house and home:—having, unfortunately, suffered myself in a similar way,—in 1852,—when I not only lost my dwelling-house and all by fire, but had no sympathising neighbors near me! nor even stores in the district, whence I might have procured common necessaries!!</p>
+         <p>I trust this great and pressing emergency will be at once largely and nobly and cheerfully met. Solitary guineas from gentlemen and well-to-do settlers will scarcely do much good in this extensive and extreme disaster. May it be remembered by Christians of every denomination among us,—as well as by those of the good old Jewish Church,— “He that hath pity upon the poor lendeth unto the Lord:” and, true “Charity ever begins at home.”—Far better (may I be pernutted to remark, without giving offence) <hi rend="italic">to give here to real want </hi>than to Melanesan Missions, or to “Dr. Barnardo’s (distant) Home.”—</p>
+         <p>One stipulation, however, I would venture to make, <hi rend="italic">viz</hi>., that our subscriptions be for the relief of the Scandinavian residents at Norsewood, and <hi rend="italic">not</hi> to aid or recoup losses which <hi rend="italic">may</hi> fall on town and Country Mortgagees of property there.—I am &amp;c.,</p>
+         <p>
+                  <hi rend="smallcaps">					William Colenso.</hi>
+               </p>
+         <p> Napier, March 19, 1888.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0015">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1838 February 6: Octavius Hadfield to his father Joseph</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 28)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 23.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1838-02-06">1838 February 6</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/5754/">London</name>
+               </correspAction>
+               <correspAction type="received">
+                   <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70741/">Joseph Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1838 February 6: Octavius Hadfield to his father Joseph
+         </p>
+      </front>
+      <body>
+      <p>London</p>
+      <p>Feb. 6th. 1838</p>
+      <p>My dear Father,</p>
+      <p>I yesterday received your kind letter and was glad that you were better.  I saw Mr. Warren yesterday and have received altogether &#163;90 from him, which I shall endeavour to repay you as soon as possible.  I shall see Coates and settle something with him before I go that as soon as any money may become due to me you may have it.  In the meantime I am very thankful to you for your kindness in advancing it to me.  I think I mentioned in one of my letters that I called on Lord Glenelg but did not see him.  I then wrote him a few lines, which he yesterday very civilly answered me enclosing two letters, one to the Bishop and another to Sir G. Gipps.  I wrote a few lines to thank him and am glad that I have got them.  I think I shall try to learn the N.Z. language a little on my passage.  A person called on me today, but I was not in, from the N.Z. colonizing association, to ask me to take charge of a New Zealander if they can get him a passage on board the "<hi rend="underline">John</hi>".  This country does not agree with him and they want to send him back again.  They only want me to see that he is not ill treated on board and to take charge of some money to send him on to N.Z.  If he goes out with me I should have an opportunity of learning the language a little on my passage.  We have 13 passengers and a few emigrants.  The ship appears a dull sailing concern by the look of her bows but I think safe.  I was engaged for some hours yesterday putting my cabin into good order.  They have built up a nasty place between the cabins on either side for the sails so that I can scarcely get in and out of it.  It will obstruct the light and air I fear.  There is a bull's eye in the scuttle to give light.  I do not think the ship will sail for a week or more.  I have done my work and shall stay at old Broughton's at the expense of the C.M.S. Old Broughton is an excellent old fellow, very much interested about N.Z.  I saw Captain Duff today.  I am going down to the island next week.  Give my thanks to my mother for her letters and to Octavia etc.  I will write again to some of you before long and may the Lord be with you all.  Give my love to all and believe me my dear Father</p>
+      <p>Your affectionate son,</p>
+      <p>Octavius Hadfield.</p>
+      <p>Tell my mother that I am quite well.  I have not suffered from the coldness of the weather.      
+      </p>
+      </body>
+   </text>
+</TEI>

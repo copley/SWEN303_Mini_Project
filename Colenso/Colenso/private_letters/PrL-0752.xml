@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0752">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1890 November 12: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-1..</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1890-11-12">1890 November 12</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1890 November 12: to Harding<note xml:id="ftn3-490" place="foot" n="490"> ATL MS-Copy-Micro-0485-1..</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">
+            <hi rend="italic">Wednesday night,<lb/>12, XI, 90.</hi>
+         </p>
+         <p>Dear Mr. Harding,</p>
+         <p>I have been hard &amp; closely at work all day on my MS. to go to <hi rend="italic">you</hi> w. this: it is my remarks &amp;c. on that notice in “Evg. Press” you kindly sent me a fortnight ago. I send it to <hi rend="italic">you</hi>—for 2 reasons: 1, I wish <hi rend="italic">you to read it closely &amp; amend if needed</hi>: 2, it <hi rend="italic">may not</hi> be published in “Evg. P.” so I should like for <hi rend="italic">you</hi> at least to know of it. I could have said more, &amp; <hi rend="italic">stronger</hi>, too, but for E.B’s sake—(but only as the son of C.B.) I have refrained.—If published please get me ½ doz. copies, I have given <hi rend="italic">good</hi> press copy but <hi rend="italic">if you could read proof</hi>—then <hi rend="italic">certain</hi> correctness.<note xml:id="ftn3-491" place="foot" n="491"> This refers to the letter to the editor of the Wellington <hi rend="italic">Evening Press </hi>supplement, 22 November 1890.</note>—</p>
+         <p>Since my last to you from Woodville I have recd. 2 letters from you—the 2<hi rend="sup">nd</hi> yesterday: I cannot go into them closely now (for if I do this will not be posted tonight, as Bob. dislikes going late to P.O.) but I will do my best.—</p>
+         <p>I note yr. saying you need an interpr. for my <hi rend="italic">last</hi> (?) letter in “Bush Advoc”.<note xml:id="ftn3-492" place="foot" n="492"> Old ratepayer’s letter <hi rend="italic">Bush Advocate</hi> 6 November 1890.</note> This surprises me—at all events, it was &amp; is <hi rend="italic">well understood</hi> there. <hi rend="italic">Haw-kins</hi> is the name of the saucy forward young Australian <hi rend="italic">Draper</hi> (or cheap John) and it was purposely written in that way (on my return to D. from W.) to raise a laugh—as well as to remind him of serious things, for he poses as a <hi rend="italic">religious</hi> man of first water!!—to me, it is “unstable as water” &amp;c.—formerly he was w. the Methodists.</p>
+         <p>I came to N. on Friday last—by last train. Saty. &amp; Monday I was preparing spns. &amp;c. for the meeting of Inst.—Night very fine—I went, and only 4!! after waiting 20 min. I only knew Large of them all. ’Tother room crowded. Good Templars’ Concert &amp; Ball!!!—passage &amp; stairs almost impassable, so adjd. to Friday next. When if oppy. is afforded me, the members shall have a “bit of my mind”.—</p>
+         <p>I asked L. <hi rend="italic">re </hi>your vol.—he said, &amp; stood to it, you had had it sent; <hi rend="italic">he himself knew that</hi>! at last it came out, he had sent out 2 copies to “Hardings”— “Yes—but there are <hi rend="underline">3</hi> Members of that n.”!! &amp; then L. gave in—&amp; I arranged he shod. give it at once to your brother to enclose in his parcel.</p>
+         <p>I kept my word w. you, &amp; called at the <hi rend="italic">old </hi>&amp; well known Ptg. Office—I saw yr. Bror., he <hi rend="italic">said</hi> he was well, but he did <hi rend="italic">not look</hi> so—he seemed worn &amp; fagged: he told me your Father (above) was <hi rend="italic">very well</hi>.</p>
+         <p>In yesterday’s “Herald” (in news from <hi rend="italic">Dannevirke</hi>
+            <hi rend="italic">re </hi>Smith’s sp.) you will see a remark on the “irrepressible Australn. <hi rend="italic">Draper</hi>” &amp;c.</p>
+         <p>Capt. Russell is here—I saw him in town yesterday. Swan <hi rend="italic">seems </hi>to have come out well last night.<note xml:id="ftn3-493" place="foot" n="493"> George Henry Swan, Mayor of Napier and one of the candidates for the Napier constituency, addressed “one of the largest audiences ever assembled together in the town” at the Theatre Royal. The <hi rend="italic">Hawke’s Bay Herald</hi> of 21 November carried a verse panegyric called “The Swanites’ chant”. </note>—I had a rare laugh <hi rend="italic">re </hi>your hat! &amp; thought you exceedg. fortunate. Am glad to hear again of your dear children improving. I don’t know when I may return to the Bush, <hi rend="italic">expect </hi>to do so on Thursday, 20<hi rend="sup">th</hi>., not earlier. I suppose I shall write to you again from N.—–</p>
+         <p>Excuse this in gt. haste. Very kindest regards, Yours truly </p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

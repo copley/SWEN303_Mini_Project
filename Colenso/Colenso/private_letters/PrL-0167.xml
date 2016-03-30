@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0167">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1863 August 29: to Grey</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Auckland Council Libraries GLNZ C28.2.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/48318/">Grey</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1863-08-29">1863 August 29</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1863 August 29: to Grey<note xml:id="ftn2-79" place="foot" n="79"> Auckland Council Libraries GLNZ C28.2.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>Augt. 29, 1863</p>
+         <p>Sir G. Grey, KCB</p>
+         <p>&amp;c &amp;c &amp;c</p>
+         <p>Auckland.</p>
+         <p>Dear Sir George</p>
+         <p>At length I essay to fulfil my promise made to you at Wellington,—and send you now, by post, a few of the <hi rend="italic">earlier </hi>&amp; scarce publications in the N.Z. language—which I believe you had not in your Library of N.Z. literature at the Cape.—</p>
+         <p>I should have done so before, only I have been delaying in hopes of some more turning up or out of my various old packages of Books, &amp;c. And still I think I may obtain others, and if so will also forward them.—</p>
+         <p>I enclose a memorandum of the various publications, one or two of which, may, I think, interest you. You will see that I have added a Copy of that 8vo. N.Z. New Testament printed at Paihia. I have done this (although I believe you have a Copy in your Cape Library,) because this (a picked) copy was also bound at Paihia by myself with the intention of presenting it to our <hi rend="italic">first </hi>Governor, who, however, died before it was finished.—I have also added Copies of the first two publications in <hi rend="italic">English</hi>, printed in N.Z.—merely because of their being <hi rend="italic">the first.</hi>
+         </p>
+         <p>I am,</p>
+         <p>Dear Sir George,</p>
+         <p>with every respect,</p>
+         <p>Yours faithfully</p>
+         <p>Wm. Colenso.</p>
+         <table rend="frame" xml:id="Table1">
+            <row>
+               <cell cols="3">Memorandum of N.Z. Publications, sent to Sir <lb/>  George Grey, in August 1863.</cell>
+            </row>
+            <row>
+               <cell>Date when Printed</cell>
+               <cell>
+                  <p>No</p>
+               </cell>
+               <cell>
+                  <p>Title &amp; Remarks.</p>
+               </cell>
+            </row>
+            <row>
+               <cell>1832<lb/>  ″</cell>
+               <cell>1<lb/>″</cell>
+               <cell>Letter from Viscount Goderich to N.Z.Chiefs.<lb/>Ditto from British Resident to Ditto.</cell>
+            </row>
+            <row>
+               <cell>1835</cell>
+               <cell>2</cell>
+               <cell>Epistle to Ephesians &amp; Philippians: <hi rend="underline italic">1st. Book<lb/>
+                  </hi>printed in N.Z. (Feby. 1835.)</cell>
+            </row>
+            <row>
+               <cell> ″</cell>
+               <cell>3</cell>
+               <cell>Gospel of St. Luke—containing, also, a copy of preceding.</cell>
+            </row>
+            <row>
+               <cell> ″</cell>
+               <cell>4</cell>
+               <cell>2 Copies N. Chiefs’ Declaration of Independence.</cell>
+            </row>
+            <row>
+               <cell>1837</cell>
+               <cell>5</cell>
+               <cell>Tract (<hi rend="italic">first original</hi>) in N.Z. lang. by W.C.</cell>
+            </row>
+            <row>
+               <cell>1839</cell>
+               <cell>6</cell>
+               <cell>Address from Bp. of Sydney.</cell>
+            </row>
+            <row>
+               <cell> ″</cell>
+               <cell>7</cell>
+               <cell>Tract (ditto) Consecration of Burial Ground at Paihia</cell>
+            </row>
+            <row>
+               <cell> ″</cell>
+               <cell>8</cell>
+               <cell>Small Prayer Book with Hymns.</cell>
+            </row>
+            <row>
+               <cell>1840</cell>
+               <cell>9</cell>
+               <cell>Part 1, of a work on errors of Ch. of Rome, by W.C., printed at Sydney.</cell>
+            </row>
+            <row>
+               <cell> ″</cell>
+               <cell>10</cell>
+               <cell>Part 2, of ditto—printed at Hobarton.</cell>
+            </row>
+            <row>
+               <cell> ″</cell>
+               <cell>11</cell>
+               <cell>Jonah &amp; <hi rend="italic">part </hi>of Daniel, <hi rend="italic">1</hi>
+                  <hi rend="sup italic">st</hi>
+                  <hi rend="italic">. Edition</hi>, transld. by W.C.</cell>
+            </row>
+            <row>
+               <cell> ″</cell>
+               <cell>12</cell>
+               <cell>Writing Copies Lithographed at Sydney for W.C.</cell>
+            </row>
+            <row>
+               <cell>1842</cell>
+               <cell>13</cell>
+               <cell>Tract: reception of 3 Priests of Ch. of Rome into the Ch. of England by Bp. of London: by W.C.</cell>
+            </row>
+            <row>
+               <cell>1844</cell>
+               <cell>14</cell>
+               <cell>Ch. of England Easter Hymn: printed at Waimate at the Bp’s. Press: transld. by W.C.</cell>
+            </row>
+            <row>
+               <cell>1848</cell>
+               <cell>15</cell>
+               <cell>Rules for Ahuriri Schools—by W.C.</cell>
+            </row>
+            <row>
+               <cell> ″</cell>
+               <cell>16</cell>
+               <cell>A Sermon (one of many)—Ditto.</cell>
+            </row>
+            <row>
+               <cell>1849</cell>
+               <cell>17</cell>
+               <cell>A Tract shewing errors of Creed of Pius IV., printed at Ahuriri by W.C.</cell>
+            </row>
+            <row>
+               <cell>1850</cell>
+               <cell>18</cell>
+               <cell>A Curious statement by the Chief Te Hapuku, shewing his title to certain Lands (originally given by <hi rend="italic">one </hi>person). Printed at Ahuriri.</cell>
+            </row>
+            <row>
+               <cell>1852</cell>
+               <cell>19</cell>
+               <cell>A Catechetical Introduction previous to Confirmation: by W.C. also, printed at Ahuriri.</cell>
+            </row>
+            <row>
+               <cell>1837</cell>
+               <cell/>
+               <cell>New Testament, 8vo.</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell>
+                  <hi rend="italic">In English.</hi>
+               </cell>
+            </row>
+            <row>
+               <cell>1836</cell>
+               <cell/>
+               <cell>A Copy of <hi rend="italic">the 1</hi>
+                  <hi rend="sup italic">st</hi>
+                  <hi rend="italic">. Book in the English </hi>language printed in N. Zealand.</cell>
+            </row>
+            <row>
+               <cell>1839</cell>
+               <cell/>
+               <cell>A Copy of <hi rend="italic">the 1</hi>
+                  <hi rend="sup italic">st. </hi>
+                  <hi rend="italic">Placard in </hi>the English Language printed in N.Z.</cell>
+            </row>
+         </table>
+         <p>                                                                             W. Colenso.</p>
+         
+      </body>
+   </text>
+</TEI>

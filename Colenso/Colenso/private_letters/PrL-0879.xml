@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0879">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1893 August 13: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1893-08-13">1893 August 13</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1893 August 13: to Harding<note xml:id="ftn3-656" place="foot" n="656"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Sunday 13<hi rend="sup ">th</hi>
+            <lb/>August, 1893:—<lb/>Dear Mr Harding                                                                         (vii, p.m.</p>
+         <p>As I cannot well go to Ch. this evg. (dark, cloudy, threatg. rain), I will write to you. It is nearly a month since my last—&amp; yours in reply is dated “23 July”!! However I have been very busy (some of my <hi rend="italic">work </hi>you will <hi rend="italic">see</hi>, in book pt., with this). I have so much to say, that I scarcely know where or how to begin.—</p>
+         <p>1.) My Paper (sent) <hi rend="italic">v.</hi> Quatrefage please give this <hi rend="italic">close reading</hi>—it is intended for the <hi rend="italic">Wgn. </hi>Phil. Socy.<hi rend="italic"> </hi>You <hi rend="italic">may </hi>think I am rather severe on Maskell &amp; Travers—but it is time they were <hi rend="italic">stopped</hi>: if Buller were still there I should also be hard on him; as it is I have taken the trouble to point out <hi rend="italic">some </hi>of his errors, &amp;c. And I <hi rend="italic">think </hi>I know the reason<hi rend="underline">s</hi> he is now so set on me!—–</p>
+         <p>I have given an extra margin to my Q. paper for remarks &amp;c—though I confess I would rather <hi rend="italic">not </hi>have to copy it again—<hi rend="italic">i.e. </hi>the whole of it. I have copied <hi rend="italic">verbatim </hi>the letters between von H. &amp; self: there are (in some) a few passages that may be better <hi rend="italic">omitted</hi>, but if I were to do so I cannot say “verbatim”; then, as a matter of course, some would say, “but, ah! <hi rend="italic">what </hi>of portions omitted?” <hi rend="italic">Don’t hurry over it</hi>: and let me know—<hi rend="italic">when </hi>Von H. <hi rend="underline italic">left</hi> N.Z.,—<hi rend="italic">when </hi>he <hi rend="underline italic">returned</hi> to N.Z.,—&amp; <hi rend="underline italic">when</hi>
+            <hi rend="italic"> he died</hi>. It is very likely, with Travers &amp; Maskell in Board of Governors!—my p. will <hi rend="italic">not </hi>be published in “Tr.”—but I don’t greatly care for <hi rend="italic">that</hi>; besides Tregear is one of them, and it is for <hi rend="italic">him</hi> (&amp; <hi rend="italic">Mair, &amp; others</hi>,) that I have thus come out; for T. has been “sat on” by T Maskell! You may let Tregear privately read it—if you like to do so. I shall send you the 2 Nos. “Annals” contg. Q’s. Paper, that you may compare the 2 translations: I cannot help thinking that <hi rend="italic">No 2 </hi>is largely indebted to no. 1.—</p>
+         <p>Having mentioned Tregear, I will call your (&amp; his—thro you) attention to what T. says, XXV/534, of “Rau<hi rend="underline">a</hi>moa”, Is that spelled correctly (ask T.), or does he refer to my Ra<hi rend="underline">um</hi>oa”, XII/95, and see <hi rend="italic">note </hi>there:—if the <hi rend="italic">latter</hi>, T. is <hi rend="italic">wrong</hi>.</p>
+         <p>I also send the No. “Jl. Linn. Socy.” referred to by me—that <hi rend="italic">you </hi>may see it at leisure, and note the cancelled page—the <hi rend="italic">fresh </hi>one came in follg. no.</p>
+         <p>Among the “clippings”—are some Poetry—by British poets:—a remarkable <hi rend="italic">letter </hi>from <hi rend="underline italic">Stead</hi>! (what in the world can <hi rend="italic">he </hi>think of me?) an extract, from Don Ullon’s S. America (found by <hi rend="italic">chance</hi>), and another from a graphic writer in “Herald” on the <hi rend="italic">new </hi>Geyser at Taupo:—your Rainbow p. caused this.</p>
+         <p>I have lately recd. 2 big books:</p>
+         <p>1) “Atti del Congresso Botanico Interregionale di Genova”, eng. 8vo. well ptd. &amp; got up with cloth <hi rend="italic">silver </hi>letterings, &amp;c, without a single stop in Title page!! Unfortunately! it is nearly all <hi rend="italic">Italian</hi>—a small portion only French, &amp; Latin, and 1 paper in Eng. by an American Botanist (delegation from “Am. Club. Assn. Science”,) Dr. Underwood, with whom I have been corresponding. They have done me the honour of enrolling <hi rend="italic">me </hi>’mong Members.</p>
+         <p>2.) a thick “<hi rend="italic">Guillotined</hi>” 8vo., over 1000 pp.— “Report 4<hi rend="sup ">th</hi>. Meeting A.A.A.S.,” (<hi rend="italic">i.e. </hi>
+            <hi rend="underline">A</hi>ustraln. <hi rend="underline">A</hi>ssn. <hi rend="underline">A</hi>dvanct. of <hi rend="underline">S</hi>cience) held at <hi rend="italic">Hobart</hi>, last year: contg. many useful &amp; good papers. I hope you may get to see a copy, &amp; read (at least) a paper by Prof. Morris, M.A., <hi rend="italic">President </hi>“§.1., Literature &amp; fine Arts:”—you would also find at p.8, (Inaugural Address by <hi rend="italic">President of the Society</hi>, the Governor of Tasmania,) pleasing mention made of <hi rend="italic">me</hi>—it appears, that</p>
+         <p>
+            <hi rend="italic">[page(s) </hi>
+            <hi rend="italic">missing]</hi>
+         </p>
+      </body>
+   </text>
+</TEI>

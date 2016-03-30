@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0003">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Undated: To Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1021529</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="-----">Undated</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>Undated McLean to Colenso (#1021529) </p>
+		</front>
+		<body>
+			<p>Wednesday evening </p>
+			<p>My dear Sir, </p>
+			<p>The Rose sails to Muhaka for cargo this week, and will probably call here for letters on her way to Wellington Wednesday next. The Master Grey who seems a quiet decent man says that he will at once give up the cabin to Mrs Colenso entirely if Mr Moore the Charterer agrees to let her go to Uawa next trip. Mr Anketell says the charge for going there would not be much as it might be made a trading trip as well—and he will write to Mr Moore on the subject. I should like very much to go at the same time, but I expect it will be necessary for me to go sooner so as to get back here by the time the natives have their wheat cut. At present I am advising them to look after their crops and let land matters stand over till they have saved their wheat which is likely to be of value to them this year. Flour is up to 20/ a 100lbs at Wellington but that high price is not likely to continue long. </p>
+			<p>Villiers tells me that he will either remove the cow or sell her to the natives. </p>
+			<p>No Wellington papers have come to hand, several letters but no news of importance nothing about the French war. Mr Hadfield’s fall was before I left, unless he has had a second one. Mr Taylor had one also, nothing serious. They are all quiet on the West Coast. </p>
+			<p>May I beg your acceptance of a few bottles of light ale out of a cask which has been sent to me from Wellington. </p>
+			<p>Mr Anketell tells me he has something to send in the morning consequently the bearer will delayed till then. I send the bottles for a little milk, instead of giving Mrs Colenso the trouble of pie making when she has so much to attend to. I shall feel thankful when thinning the trees to get a few apples which William can make up into a pie. </p>
+			<p>I remain yours very sincerely</p>
+			<p> Donald Maclean </p>
+			<p>I have only one Scotch paper which I send. </p>
+		</body>
+	</text>
+</TEI>

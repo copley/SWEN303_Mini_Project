@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0848">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1892 October 24: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1892-10-24">1892 October 24</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1892 October 24: to Harding<note xml:id="ftn3-620" place="foot" n="620"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke<lb/>Octr. 24/92: VIII p.m.</p>
+         <p>Dear Mr. Harding</p>
+         <p>I recd. your kind &amp; welcome letter of yesty. on my return this aftn. from Woodville. I thank you for it, &amp; for cuttings―a rare lot! I put up, at once, for you a paper (or 2 halves) which I had set aside for you last week, &amp; have posted it, to be followed tomorrow with <hi rend="italic">this</hi>. I had very nearly written to you last week, mainly to send on my Ms. <hi rend="italic">re </hi>Maori Dog as <hi rend="italic">against </hi>White, (whom I have not spared, for he has <hi rend="italic">caused </hi>me all this extra writing &amp; another through his fool-hardiness!) However I shall post sd. Ms. tomorrow to you―read it carefully <hi rend="italic">for me</hi>, &amp; correct, &amp;c, &amp;c <hi rend="italic">ad lib</hi>., and return, say, within a week or 10 days, as I may have to copy it again!―or portions of it. At <hi rend="italic">first</hi> I thought of making it a draft copy and so writing on both sides, but it occurred to me, that by giving it an <hi rend="italic">extra </hi>wide margin, &amp; writing on <hi rend="italic">one </hi>side only it might serve for reading, &amp;c.―</p>
+         <p>I have felt disappd. in being away from my Liby., as there are several books there which wod. be (perhaps) of service: I have pencilled some in margin; which―<hi rend="italic">if I go to N. </hi>
+            <hi rend="underline italic">before</hi> our <hi rend="italic">next </hi>meeting―I hope to look into. The 3 Nos. “Review”, you so kindly &amp; promptly sent, did <hi rend="italic">not </hi>give me the informn. I sought: viz. the time (<hi rend="italic">year</hi>) when Barrett &amp; Co. aided the Taranaki natives―but I hope to get this from Brett’s big book. With this Ms. I shall send my small copy of my p. on Mao. Dog―as you may not have a copy of it at hand―you will see how thoroughly exhaustive that was. ―I shall also send the Californian serial―which you can return at leisure. At <hi rend="italic">present </hi>I am not sure of my being at next meeting of Sy. in Napier―because I have voluntarily bound myself <hi rend="italic">to serve Ch. </hi>at Wdv. <hi rend="underline italic">for Eccles</hi>
+            <hi rend="italic"> until he removes hither</hi>, come what may. His 3 mths. notice is up on <hi rend="italic">18</hi>
+            <hi rend="sup italic">th</hi>
+            <hi rend="italic">.</hi> Novr., &amp; our Sy. mtg. is on 14<hi rend="sup ">th</hi>! I have offered him―if he will take Wdv. on 13<hi rend="sup ">th</hi>. (&amp; <hi rend="italic">not</hi> make that day his last at Waip.,―but the 20<hi rend="sup ">th</hi>)―then I can go to N. &amp; would return to Wdv. for the <hi rend="italic">20</hi>
+            <hi rend="sup italic">th</hi>
+            <hi rend="italic">. </hi>I have not yet obtained his definite determination, but expect it this week. Should I not go to N.―then I <hi rend="italic">may </hi>send my Ms. to you (? or to <hi rend="italic">Gore</hi>) for Wgn.―as, I fear, there is small chance of Hill rctg. in time.―I have hastily looked over your <hi rend="italic">last </hi>lot of clippings:—the one of “Miss C., her <hi rend="italic">father</hi>, &amp; <hi rend="italic">polygamy</hi>”, is not new to <hi rend="italic">me</hi>—it was always my firm belief of our N.Z. Chiefs—this I have more than touched on in my “Essay,” vol.I. <hi rend="italic">Trans. </hi>the one of the pet whale I have also seen before only this is <hi rend="italic">enlarged </hi>&amp; <hi rend="italic">decorated</hi>! Lately, I noticed (<hi rend="italic">again</hi>) in a former letter of yours, your remark on Tregear’s “Maori &amp; Moa”—that a good deal of it is in “<hi rend="italic">Shortland’s Mao. relig.</hi>” &amp;c. Hamilton had also mentd. this book to me, thinking I <hi rend="italic">knew </hi>it—<hi rend="italic">not so</hi>—I wrote at once to H. to know where it was pubd.—&amp;, on his replying, Craig sought a copy for me from Auckland—but, “<hi rend="italic">out of print</hi>.” A Capital joke that—the “Kauae <hi rend="underline italic">Moa</hi>”!!</p>
+         <p>Yesterday was a truly fine day! the <hi rend="underline italic">first</hi>
+            <hi rend="italic">fine Sy. </hi>I have known at Wdv.!!!</p>
+         <p>I feel concerned to find from you that you are not doing better in the printing line; &amp; further that Wgn. is dull—<hi rend="italic">duller </hi>than ever. I had hoped that that move, or report, <hi rend="italic">re </hi>the Govt. Ptg. Estab. doing private work would have proved beneficial to you—it may however yet. Napier, as you truly remark, is steadily going on in the <hi rend="italic">broad </hi>&amp; <hi rend="italic">easy </hi>way of recklessly borrowing &amp; spending—the fruits being <hi rend="italic">more rates</hi>! <hi rend="italic">I</hi> am going to the wall! formerly my 5 paddocks were let to good tenants, now 4 are on my hands—owing to the heavy &amp; increasing <hi rend="italic">town rates</hi>—leave alone the Proxy. (or Land) Tax; and, owing to the misconduct of others (&amp; Waterworth’s <hi rend="italic">superior </hi>abilities), I am now in for <hi rend="italic">over </hi>₤100. in cash—to fill in (!!) 2 dry &amp; high ¼-ac. Sns. on Wellesley Road! I am getting to dislike N. more &amp; more, &amp; would that I could <hi rend="italic">leave it</hi>. At same time I <hi rend="italic">cannot </hi>visit my old loved haunts in the Bush: Rheum-cum-Influenza still heavy on me dy. &amp; nt.! </p>
+         <p>Good night: Kindest regards. Yours faithy. W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0742">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1890 June 26: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0495.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1890-06-26">1890 June 26</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1890 June 26: to Harding<note xml:id="ftn3-474" place="foot" n="474"> ATL qMS-0495.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke: Thursday night,<lb/>26/6/90.</p>
+         <p>Dear Mr Harding</p>
+         <p>Your kind memo. of 21<hi rend="sup ">st</hi>. I found <hi rend="italic">here </hi>on Tuesday eveng. (24<hi rend="sup ">th</hi>.) on my return from Woodville, and I thank you for it, although it contains the <hi rend="italic">sad </hi>news of the sudden unexpected death of Mr. Wm. Blades,—which is much to be regretted, and I am sure gave you a <hi rend="italic">shock</hi>: I could almost think such would have unfitted you for your big social Monday’s gathering—which appears to have been a success.—I read the account of it in the “Herald” on my return journey from Woodville—and did I not laugh at the par. ’tween brackets! <hi rend="italic">re </hi>the <hi rend="italic">abstraction</hi> of my letter to Hamilton supposing how <hi rend="italic">neatly </hi>the H. had been done out of it by the opposition!—alas! the wiles of the heathen Chinee!! I have had some difficulty in getting a copy of “E.N.” containing it, indeed I had to go twice about this town in mud &amp; rain ere I succeeded, but I have written to Craig to secure me copies.</p>
+         <p>Today, here, I <hi rend="italic">saw </hi>the face of Hamilton, &amp; we had a <hi rend="italic">few parting words</hi>! I, too, <hi rend="italic">may </hi>before long follow <hi rend="italic">you both</hi>, &amp; leave N.—there is little <hi rend="italic">there </hi>now to keep me.—</p>
+         <p>This day I had fixed for being in Napier, &amp; had packed up all my heterogeneous <hi rend="italic">kit </hi>of goods &amp; chattels yesterday, intending to start early this mg.—but the constant and heavy rain here, coupled with a letter from Dr Spencer, (to hand late last night,) informing me, of the state of the weather there at N.—caused me to alter my mind, &amp; remain till tomorrow, &amp; even <hi rend="italic">now </hi>the weather is very little better;—I purpose returning by late night train tomorrow (Friday).</p>
+         <p>I have <hi rend="italic">business </hi>in town <hi rend="italic">awaiting </hi>me w. Banks &amp; Lawyers, but as Saty. is w. them only a 2-hour day, I may not go down on that day—&amp; so <hi rend="italic">may not see </hi>
+            <hi rend="underline italic">you</hi> till Monday, when (if weather fine &amp; I well) I will look you up in your <hi rend="italic">old </hi>quarters.—–</p>
+         <p>I note what you say <hi rend="italic">re </hi>extra copies of “Typo.” You are (as usual) quite correct in your remarks as to leaving outsiders to purchase copies for themselves; but, like many other theories, hard to reduce to practice. However, I shall be glad to have 1 doz. copies, if you can spare as many, &amp; <hi rend="italic">most willingly </hi>subscribe <hi rend="italic">₤1.</hi> towards your heavy outlay on same.</p>
+         <p>I am selfishly hoping you will not be leaving N. &amp; us very early in the coming month: &amp; you <hi rend="italic">must </hi>keep in reserve a few (?) nights for you &amp; me.—</p>
+         <p>
+            <hi rend="italic">Re errors </hi>in last no. of “Typo” (whence you sent me 2 copies), You must let me know what they are—that I may preserve the corrected one.—</p>
+         <p>And now, my dear friend, I must e’en say, Good bye! Perhaps my <hi rend="italic">last </hi>note to you from the Bush—addressed <hi rend="italic">to Napier</hi>!—with kindest regards, I am, Yours truly,</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

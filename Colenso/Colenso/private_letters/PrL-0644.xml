@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0644">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1887 June 5: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1887-06-05">1887 June 5</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1887 June 5: to Balfour<note xml:id="ftn3-364" place="foot" n="364"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Sunday night, <lb/>June 5, 1887.</p>
+         <p>Mr. D.P. Balfour, </p>
+         <p>My dear Sir,</p>
+         <p>I only returned from 70 m. Bush on Thursday last, having been more than 5 weeks absent: a long sojourn owing to the continuous rains. I arrived at Dannevirke in heavy rain! (a bad omen for me, but a good one, for the thirsty land, and so I rejoiced in seeing it!) Well, I was 10 days and did not have my boots on: fortunately I had taken with me a <hi rend="italic">lot</hi> of writing<hi rend="italic">,</hi> (<hi rend="italic">copying</hi> Botanical papers for Institute) little thinking I should go thro’ them all, but I did &amp; then I wanted <hi rend="italic">more </hi>such indoor work.</p>
+         <p>I was only able to get into the woods on a <hi rend="italic">few</hi> occasions, say 6 or so, during the whole time, and then they were so cold and slippery, that I ran no little risk—the burns, too, were foaming torrents, and I was obliged to give up wading them: I gained, <hi rend="italic">at least</hi>, what I mainly went for—a fine moss in fruit: a small <hi rend="italic">new</hi> tree in fruit: and a fern.—and a1so a <hi rend="italic">new</hi> fern, a little gem of an <hi rend="italic">Adiantum</hi> which I am about describing, also very many novelties in Fungi, both rare &amp; curious; altogether I brought away some hundreds of specimens, and sent living ferns (roots) to the Bishop’s, and Tiffen’s, and MacDonald’s (Railway Manager) Ferneries.</p>
+         <p>Although it is very cold—especially at times, with ice outside till after noon, I had <hi rend="italic">no fire </hi>during the whole time, <hi rend="italic">from choice</hi>, and so I steered clear from “colds &amp; coughs”, with only a little daily Rheumatism to keep me company! I came away <hi rend="italic">with regret</hi>, as if I were <hi rend="italic">leaving Home.</hi> Here I found your letter of May 20th (“not to be forwd.”) had it got <hi rend="italic">there</hi>, with those others that came daily, I should have been <hi rend="italic">extra glad</hi> &amp; have answered it.</p>
+         <p>While there I received a long &amp; interesting letter from the Post Master at Taupo, informing me of 2 lots of Ferns he had sent me; these remained here till I returned, &amp; being put up fresh &amp; 3 weeks ago, were mouldy &amp; spoiled! I grieve over them, for there are <hi rend="italic">rare </hi>ones among them, and I think “<hi rend="italic">more work </hi>for the tinker”; as it is, my hands are <hi rend="italic">full </hi>of Botanical work for the winter: and I am, <hi rend="italic">at present</hi>, pretty well.</p>
+         <p>Your letter has interested me greatly, I thank you for it: Re the “Boomerang”, no doubt <hi rend="italic">many </hi>useful things have at all times been <hi rend="italic">so</hi> invented, or, as it were, improved upon; give a man of brains (whether Australian or Englishman) an <hi rend="italic">idea</hi> as a starting point, the rest is sure to follow. <hi rend="italic">Re Tipulas—</hi>I have seen then by dozensin the woods, and of <hi rend="italic">several</hi>
+            <hi rend="underline"> </hi>distinct species, too, and, at one time, thought of describing them, specifically (I have many in spirits,) but it takes so much time. A man cannot do everything. Hope you are well &amp; with kind regards, I am Yrs. truly,</p>
+         <p>                                             Colenso.</p>
+      </body>
+   </text>
+</TEI>

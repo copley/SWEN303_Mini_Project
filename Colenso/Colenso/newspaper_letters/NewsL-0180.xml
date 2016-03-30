@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0180">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1895 The appointment of teachers . Hawke’s Bay Herald June 20.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1895-06-20">1895 June 20</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1895-06-18">1895 June 18</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1895 </hi>
+        <hi rend="bold">The appointment of teachers</hi>
+        <hi rend="bold">.       <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald</hi>
+        <hi rend="bold"> June 20.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—thank you heartily for your article this morning on “The Appointment of Teachers.” Indeed I may truly say doubly so; because I had first read your report of the school committee’s doings last night, and had arrived at similar conclusions; and then, on reading your able remarks, agreeably found myself quite in thinking with you.</p>
+      <p>As an old teacher of youth, and also as Inspector of Schools, I lament—I feel disgusted—at the hasty untoward action of the School Committee. In so saying, I have nothing whatever against Mr Hislop, (very far from it,) a gentleman whom I do not know, not even by sight, (and so I may also say of the other applicants). It may be, that Mr Hislop is the most fit and proper person among all the applicants for the office in question, but that is not shown in what took place. (1.) By the Committee refusing to look at at the high-class testimonials sent in for their inspection. (2.) By the Committee ignoring the superior academical qualifications of all the other applicants; together with the number of years they severally had been engaged in teaching, and also the high positions they now hold in their various schools and colleges. (3.) By the Committee setting aside the plain official instruction from the Education Board, namely,— “All other things being equal.” </p>
+      <p>At the same time I am quite ready to allow, (what, indeed, I have always held and published,)—that mere academical distinctions, however high, are not sufficient of themselves to make a good usefnl serviceable teacher. Indeed, I should place “<hi rend="italic">aptness to teach</hi>,”—that rare ability to lead, to get to love learning and to learn, to educe, in our boys,—as of far greater or paramount importance, truly “A1,” in this matter: and this with strict reference to all teachers—Clerical as well as lay. </p>
+      <p>But, as I view it, a double injury has been done by the School Committee; unwittingly, it may be, nevertheless it is there, fixed. Again showing the truth of the poetical axiom, (too often forgotten I) that </p>
+      <p>Evil is done by want of <hi rend="smallcaps">thought</hi>,     <lb/>As well as want of heart,</p>
+      <p>— “A double injury,” did I say? Yes, a double injury—if not a still larger one. </p>
+      <p>(1.) Injury to those respectable applicants.</p>
+      <p>(2 ) Injury to our big rising and toiling generously-minded aspiring youths; who have been long aiming rightly at scholastic distinctions; some of them (I know) looking forward to their attainment, in order the better to become teachers themselves. And now they find our sapient school committee—that such is all bosh! worthless!!— </p>
+      <p>(3.) Injury, moreover, to our schools in the near fnture; for when a vacancy occurs in a school, and the usual advertisement is published, who will respond? Who apply? Not, I suppose, any superior class teacher of ability and distinction, to be again trodden under foot by ———. </p>
+      <p>The chairman could truly say, that the large majority of the committee “had made up their minds beforehand”!—no doubt. But, if so, why go to the expense and trouble of advertising at all? And why, needlessly, cause trouble, expense, and dissatisfaction amongst the distant applicants? Moreover (it may be, that) those very applicants themselves may become losers of positions, &amp;c., in their several schools, through their having been so unceremoniously treated. </p>
+      <p>Now, after all, the main question is not answered. Why has Mr Hislop been so chosen over the heads of others—far higher in academical rank, and long known as “A1” teachers in our public schools; and therefore, possibly, better men? Is it owing to friendship? or to private influence? or to a determination at all risks to elect a townsman? or, even to a lower unworthy cause,—to his supporters having a <hi rend="italic">fad</hi> of their own, and privately knowing that Mr Hislop will carry out their fad”? I am obliged to mention this last mean hypothesis, seeing that there are <hi rend="italic">faddists</hi> in the committee, who only last week carried the reading of their <hi rend="italic">fad</hi>—the teetotal book of their Great Mogul, Dr. Richardson, in the public school! Here, again, displaying “want of thought,” for if one such book (the pet of the noisy minority) be taken in to be read in the school, then, in common justice, such will shortly be followed by others, from the majority of our more reasonable townsmen.—I am, &amp;c., </p>
+      <p>
+      <hi rend="smallcaps">             W. Colenso</hi>. </p>
+      <p> Napier, June 18, 1895.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0038">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1842 September 17 to his mother Amelia Hadfield (nee White)</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 89)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 20.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1842-09-17">1842 September 17</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70719/">Amelia Hadfield (nee White)</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1842 September 17 to his mother Amelia Hadfield (nee White)
+         </p>
+      </front>
+      <body>
+      <p>Wellington,</p>   
+         <p>New Zealand.</p>   
+         <p>Sep. 17. 1842</p>   
+         <p>My dear Mother,</p>   
+         <p>I have just heard of an opportunity of writing by a good means of conveyance &amp; therefore tho’ I have only a minute or two to devote to writing I do write.  I have by the last vessel recd. four letters dated March &amp; April from yourself, my father, Amelia, Charles &amp; Maria.  Tho’ some must have been lost I am thankful to have heard from you. </p>   
+         <p>I came over here yesterday with Mr. Mason to meet the Bishop &amp; am highly delighted with him.  I breakfasted with him this morning: &amp; he was very kind, saying that he had sufficient introduction to me from the Bishop of Australia who had spoken to him of me.  He appears to be a man of great talent, energy &amp; activity, in fact a first-rate man.  I do now hope that we may expect an abundant blessing from the Lord upon our labours here.  </p>   
+         <p>I have been engaged much as usual among my people lately.  I wrote to Caroline a few days ago &amp; nothing has occurred since.</p>   
+         <p>I administered the sacrament on Sunday to more than 150 natives at Waikanae, &amp; on the Sunday previous to 65.  I am much interested in my work.</p>   
+         <p>I was grieved to hear that George had been again obliged to withdraw from his work on account of his health.  </p>   
+         <p>The account you give of Alexander is gratifying.  Excuse these very hurried lines – but as the <hi rend="underline">Brougham</hi>, which conveyed a former letter in three months is to convey this, I hope you will receive it shortly. </p>   
+         <p>With kindest love to yourself &amp; all the dear party at home.</p>   
+         <p>I am,</p>   
+         <p>Your affectionate son</p>   
+         <p>Octavius Hadfield.</p>   
+         <p>P.S. I have just seen a box which I believe is the one forwarded from home, I have not opened it – I have heard lately from the Dawsons, they are quite well, Mr. Paddock, a relation of his, died here a fortnight ago.  
+</p>
+      </body>
+   </text>
+</TEI>

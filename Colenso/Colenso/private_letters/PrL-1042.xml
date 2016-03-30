@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1042">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1898 April 10: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0499.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1898-04-10">1898 April 10</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1898 April 10: to Harding<note xml:id="ftn3-891" place="foot" n="891"> ATL qMS-0499.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Easter Day, VIII.30, a.m.</p>
+         <p>Dear Mr Harding</p>
+         <p>I have just read your truly friendly loving &amp; excellent letter: if I needed a cordial (here in my loneliness!) <hi rend="underline italic">I do</hi>
+            <hi rend="italic"> sometimes</hi>—yours would have proved such.</p>
+         <p>“Plots thicken”! Yesty mg. I told my man, I should want him to go to town (T.O.) to take a wire for me (to <hi rend="italic">you</hi>) and lo! he brought me the vol. you sent me!!—thanks.—–</p>
+         <p>After my last to you—I took up the last vol. “Trans. N.Z. Inst.”, to look at names, &amp;c, of <hi rend="italic">principal Libraries </hi>to wh. Director sends copies of same; and, lo! I became ½ upset w. magnitude, &amp;c, &amp;c. of same—far, far, beyond my suppositions: I sat down, went patiently through them, ticked off about 60 (for a 2<hi rend="sup ">nd</hi>, 3<hi rend="sup ">rd</hi>, revision) and halted.—Then came a letter from Mackay <hi rend="italic">suggesting</hi>, that as binding would be about 1/6 (!!!) per vol. that 100 copies only should be <hi rend="italic">so bound</hi>—rest, paper, &amp;c (again ashore!) so I wrote at once to him (he requesting <hi rend="italic">early </hi>reply), agreeing thereto, &amp; also telling him what S. had sd. <hi rend="italic">re forms standing</hi>, &amp; his wanting copies for each member of House. [By the way I did this <hi rend="underline italic">before</hi>
+            <hi rend="italic"> I looked into Vol. “Trans.”</hi>: his memo. written on <hi rend="italic">4</hi>
+            <hi rend="sup italic">th</hi>
+            <hi rend="italic">.</hi> reached me, mg. 6<hi rend="sup ">th</hi>. &amp; ansd. immy.] and on my finding such a <hi rend="italic">terrible </hi>no. of recipients in the Vol. List, &amp; that I should, in all probability, want <hi rend="italic">more than 100 </hi>to give away I made up my mind to write to <hi rend="italic">him</hi> again, increasing my “<hi rend="italic">100</hi>”—to <hi rend="italic">200</hi>, <hi rend="underline italic">bd.</hi> Moreover, I felt pretty sure, that S. was mistaken as to standing matter, (as I had mentioned to you,) but I could not contradict him: still, I had (&amp; <hi rend="italic">have</hi>) a kind of latent hope, that some copies were struck off for Govt. I copy my remark, in letter to Costall of “May 12/96” (nearly 2 yrs. ago!) in reply to his qn.— “<hi rend="italic">How many copies</hi>?”— “I should like to have 500 copies of the little book, neatly &amp; strongly bound (<hi rend="italic">thread </hi>preferred to wire), like some I have seen from your Office: <hi rend="italic">possibly the Government may also require some copies</hi>.”—I hope this has been acted upon—or, S. will be on me for 100—or more!—I expect to hear from Mackay tomorrow, I suppose I should yesty. had not Good Friday intervened; and I feel relieved, in finding, that my letter (as <hi rend="italic">above</hi>) was written to his <hi rend="italic">predecessor </hi>in Office; so that, If <hi rend="italic">not </hi>acted on, M. will be free from blame. If S. should require such a lot! out of my 500, then there must be some <hi rend="italic">arrangement</hi>, yet, come to! &amp; this will (I fear) prove awkward (another <hi rend="italic">hitch</hi>!) the whole affair being <hi rend="italic">so </hi>complicated. In my last letter to Mackay (of <hi rend="underline italic">9</hi>
+            <hi rend="sup underline italic">th</hi>.), I have asked him to send me (if <hi rend="italic">any</hi> waste or spare,) the sheet or sheets contg. that <hi rend="italic">List</hi> in vol. XXIX—as such would save me much writing to S., I marking those for receivers—as promised:—I find a <hi rend="italic">great</hi> diffy. in making selection. I never supposed the “<hi rend="italic">spn</hi>.” would <hi rend="italic">sell</hi>, (just like “Certain Errors”!— “50 yrs. in N.Z.”, &amp;c, &amp;c,) &amp; did not seek to get it printed with any such view.—</p>
+         <p>Your vol. shall be returned (D.V.) on Saty. next, or <hi rend="italic">earlier</hi>. I see I am <hi rend="italic">again</hi>! check-mated—had, for the 4<hi rend="sup ">th</hi>. time, arrgd. to go inland <hi rend="italic">this week</hi>: (S.F. Mail wk. too!) It will be a difficult matter (no.2) for me to make a <hi rend="italic">small </hi>selection from those 100d’s. in that book.</p>
+         <p>I saw notice of the Dean’s hurt, in Herald of Tuesday, 5<hi rend="sup ">th</hi>., &amp; went at once to Deanery: saw Mr<hi rend="underline">s</hi>. H. very briefly, standing for a few moments in study—he had a restless nt., was then easier—left arm broken just below shoulder joint. I came away <hi rend="italic">musing</hi>: <hi rend="italic">on that same day in ’97</hi>, the D. saw me on my bed of misery at Wdv. (he having taken S. at Dvk. on the Sunday, &amp; R. at Cathl.) I scarcely knew him—he looked in <hi rend="italic">twice</hi>, within few hours: I recollect telling him— “it might be <hi rend="italic">our last </hi>interview, as, if my arm should have to be amputated, I would not submit to <hi rend="italic">that</hi>, preferring death.” And, (further) on <hi rend="italic">his </hi>coming to see me <hi rend="italic">here</hi>, the night before he went S. to the Genl. Synod, (&amp; then, <hi rend="italic">only</hi> through his making a <hi rend="italic">short cut</hi> from Barrack Hill to the town—as he <hi rend="italic">told me</hi>,)—<hi rend="italic">his first visit for ’98</hi>,—that his strangeness &amp; keeping away (after his <hi rend="italic">sol. promise</hi>—of <hi rend="italic">every Tuesday</hi> evg. after leaving Boys in school below) was entirely owing to his bicycle ridg. (wh. Welsh &amp; self had <hi rend="italic">lamented </hi>together) and wished him to give it up.—–I had never doubted that I offended him: there had been so much talk, &amp;c—of him &amp; wife riding to &amp; from Taradale, &amp;c, &amp;c, &amp;c. My man has gone regularly since to enquire—&amp; <hi rend="italic">yesty</hi>., he was getting on well; &amp; in reply to Bob. he was further told, that the Dean was <hi rend="italic">not </hi>confined to his bed, but was up. Allanson, is taking duty at Cathl. (just here in time to do so)—the Bp. left for Gisborne &amp; North by str. on <hi rend="italic">Tuesday evening</hi>. And I am “here alone in (my) glory”!!</p>
+         <p>I further told Mackay—that, if he could not supply me with a sheet—I should cut the pp. out of my vol.</p>
+         <p>By “D.T.” last evg. I find, S. is at Rotorua &amp; going (likely) <hi rend="italic">overland</hi> to Wgn. as he must be there to a meeting mid. of this wk. He <hi rend="italic">may </hi>go by Whanganui—or even if this way, being in a hurry, I may not see him: I wished to have an <hi rend="italic">hour </hi>w. him on <hi rend="italic">Maori matters.—</hi>
+         </p>
+         <p>Thanks for all you have told me <hi rend="italic">re </hi>Adams, Hikurangi, &amp;c. But let me tell you (to prevent your falling into the <hi rend="italic">same </hi>kind of error as Dr. Purchase, <hi rend="italic">re </hi>Rangitoto)—there are <hi rend="italic">several </hi>Hikurangis—<hi rend="italic">known to me</hi>—in different parts. Hill, here <hi rend="italic">yesty</hi>., rather indignant that I had not written a Botanical paper for this yrs. vol. (<hi rend="underline italic">his plants</hi>, sps. nov. from Ruahine.) I told him I had had no time to do so—<hi rend="italic">i.e.</hi>
+            <hi rend="underline italic">copy</hi> for press my jotted descriptions after examination, <hi rend="underline italic">&amp;c</hi>.—Moreover, I had never intended to do so for <hi rend="italic">this </hi>forthcoming volume believing I should be <hi rend="italic">too late</hi> (as plant only in my hands in Jany. (<hi rend="italic">end</hi> of m.) &amp; Feby. from Olsen.)—Buller has been here, &amp; twice at Hill’s, but I never saw him.</p>
+         <p>I noticed yr. remark on the wee “Moa” clipping: it was sent me from London—from a <hi rend="italic">lady</hi> correspt. there, &amp; I believe made from a <hi rend="italic">late </hi>P. I had myself seen something similar <hi rend="italic">re </hi>a <hi rend="italic">whole skeleton</hi> sent by <hi rend="italic">Capt. Hutton </hi>into the auction market &amp; offg. at a <hi rend="underline italic">low</hi> fig! (<hi rend="italic">sic transit</hi>, &amp;c). I enclose a <hi rend="italic">fellow</hi>—to it; I also saw, in a “<hi rend="italic">Standard</hi>”, lately, that a N.Z. post. stamp (2d.) early date, was sold for ₤<hi rend="italic">12</hi>.—–</p>
+         <p>Should you have anything to communicate, of <hi rend="italic">conseq. re List, wire </hi>on “<hi rend="underline italic">collect</hi>”.——</p>
+         <p>Just struck X, so I stop.</p>
+         <p>
+            <hi rend="italic">                Thanks</hi>: may <hi rend="smallcaps">God</hi> bless <hi rend="underline italic">you</hi> &amp; <hi rend="underline italic">yours</hi>
+            <hi rend="italic">.</hi>
+         </p>
+         <p>                         Yours very sincerely.</p>
+         <p>                                         W. Colenso.</p>
+         <p>Weather glorious! so <hi rend="underline italic">all</hi> last week.</p>
+         <p>P.S. I have also now sent (with letter) a copy of booklet to Mackay—fearing I had <hi rend="italic">not </hi>done so: as he made <hi rend="italic">no </hi>allusion to it, in his kind letter to me; and I find, that <hi rend="italic">his name</hi> was <hi rend="italic">not ticked</hi> off in my early list of names: and yet I <hi rend="italic">felt </hi>sure I had sent it; but my memory is very treacherous!</p>
+         <p>Hill told me—Holt’s 3<hi rend="sup ">rd</hi>. son is to be married on Wedy. next: his father has just completed a nice house for <hi rend="italic">him</hi> in Cameron Road—near to Mogridge’s old house: seen from <hi rend="italic">here</hi>. I was at his Father’s wedding—by Barclay.</p>
+         <p>I have also told Mackay—that I cannot understand why such a high fig. should be chgd. for simple <hi rend="italic">inexpensive</hi> Binding (as to cost of materials) I have some 6–8 books here from L.—similar as to size, “1/6d cost pr., printed, but my L. Booksr. chgs. 1/3.—and to have <hi rend="italic">all </hi>
+            <hi rend="underline italic">sewn</hi> as last vol. XXIX. Trans.” the <hi rend="italic">old good </hi>way.</p>
+         <p>
+            <hi rend="italic">No 2 </hi>IX p.m.</p>
+         <p>I thought I had <hi rend="italic">done</hi>—for the time! but I recollected that I had omitted to say a word or two on a part of your last <hi rend="italic">excellent</hi> letter:—</p>
+         <p>1.) <hi rend="italic">Rev </hi>Adams &amp; his p. on Hikurangi plants: yesty. I recd. (as <hi rend="italic">usual</hi>) from Cheeseman, a copy of <hi rend="italic">their </hi>annual Report, in which he mentions it, and (of the <hi rend="italic">1000d’s </hi>they have lately been expending <hi rend="italic">in their </hi>Museum, &amp;c. And the <hi rend="italic">₤1000d’s</hi> they have <hi rend="underline italic">left</hi>!!! I shall look out for Adams’ paper.</p>
+         <p>2.) Yes: please send me a copy of the Pope’s Bull. I have read the well-written and thoughtful—plain yet courteous reply of C. Vaughan &amp; his <hi rend="italic">host </hi>of Bps. to our Abps. of Cy. &amp; York.—with some <hi rend="italic">pleasure</hi>! Vaughan <hi rend="italic">and </hi>his coadjutors have given the <hi rend="italic">2</hi> Abps. some nuts to crack! Unfortunately the <hi rend="italic">2 </hi>contending parties are not <hi rend="italic">equaly </hi>armed, or rather, their squadrons <hi rend="italic">not </hi>equally <hi rend="underline italic">obedient</hi>; and “<hi rend="italic">there</hi> lies the rub”. V. shows repeatedly (quoting largely &amp; fairly) from our <hi rend="italic">Eng. Ch. Divines</hi>—past &amp; recent, &amp; present—that they <hi rend="italic">all</hi>—more or less—wholly <hi rend="italic">disbelieve</hi> in priestly powers in transubstantiation,—as <hi rend="italic">asserted</hi> by R.C’s. &amp; that Ritualists &amp; their punters are in the <hi rend="italic">same </hi>boat, though they <hi rend="italic">pretend to the contrary</hi>! I thank V. for <hi rend="italic">that</hi>. The <hi rend="italic">2 </hi>Abps. (alone! as it were) have to act, to please (?) <hi rend="italic">both parties</hi> (if not <hi rend="italic">more</hi>!) in E. Ch., hence their difficulty. Let them (if they dare!) <hi rend="italic">come out</hi>, as Cranmer, Ridley, &amp; Co. did:—then the fight is easy: &amp; this (allow me to say) is the ground I have ever taken.—</p>
+         <p>Should you <hi rend="italic">not</hi> have read, &amp; wish to see Abps., Vaughan’s, &amp; other recent tracts I will gladly send them. Good nt; I am tired. Enclose stamps to pay your outlays. Thanks.—–</p>
+         <p>                 Yours ever.                     W. Colenso</p>
+      </body>
+   </text>
+</TEI>

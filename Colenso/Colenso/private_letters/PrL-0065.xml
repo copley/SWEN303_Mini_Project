@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0065">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1847 March 13: to Gunn</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0715</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/72168/">Gunn</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1847-03-13">1847 March 13</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1847 March 13: to Gunn<note xml:id="ftn1-71" place="foot" n="71">ATL MS-Copy-Micro-0715</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">C. Mission Station, Hawke’s<lb/>Bay, March 13, 1847.</p>
+         <p>Dear Sir</p>
+         <p>On the last day of the old year I did myself the pleasure of writing you, via Wellington, enclosing the original of a Sett of Bills upon the C.M. Society for ₤<hi rend="italic">10.</hi> I hope that Letter will have safely reached you ere this—but, to make sure work (an opportunity offering) I now transmit you via Auckland, the Duplicate of that Sett of Bills—which will I believe cover the expenses incurred in printing.—</p>
+         <p>I am but just returned from an interesting journey in the mountainous interior, and have fortunately added a few more <hi rend="italic">curious </hi>plants to its flora. I suppose our good friend Dr. Hooker will soon be at work on the Botany of Tasmania.—I find several genera, if not species, to be common to both of our adopted Countries.</p>
+         <p>I may add (although I mentioned it in my former Letter) that the last no. of the Tasmanian Journal which I have received is no vii, vol.2—and should be obliged for copies of any subsequent numbers.—</p>
+         <p>We are pretty peaceable in this (the Southern) part of the Island: I know not how it is at the North. Road making appears to be the order of the day—but such <hi rend="italic">heavy</hi> work requires no small amount of money. I hope our Governor has a <hi rend="italic">Fortunatus’s </hi>purse at Command or, I fear, a truce with the forests and swamps will soon be proposed.</p>
+         <p>Pray make my respects to kind Mr. Gell; and—hoping soon to hear from you—believe me</p>
+         <p>My dear Mr Gunn</p>
+         <p>Yours very respectfully</p>
+         <p>William Colenso.</p>
+      </body>
+  </text>
+</TEI>

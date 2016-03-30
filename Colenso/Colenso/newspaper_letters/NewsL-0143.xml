@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0143">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1888 The teetotal crusade. Hawke’s Bay Herald 25 June.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1888-06-25">1888 June 25</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1888 </hi>
+                  <hi rend="bold">The teetotal crusade. 	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 25 June.  </hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—From your Paper of this morning I find that the fanatical hireling Teetotal Lecturer Glover is again on the war-path, again going his rounds among us, spouting away at a furious rate, especially in the back-woods towns and villages—albeit to dwindling audiences. However, as long as the <hi rend="italic">collections</hi> are sufficient to pay his way, I suppose this kind of thing will be cropping up occasionally, and like Phrenology aud Spiritism and Fortune-telling and the “Harmy” must be endured, until our race become wiser through sad and dearly-bought experience. </p>
+         <p>In your condensed account of his late big-sounding utterances at Waipawa, you tell us,— “As Mr Glover puts it, publicans should not be paid for the loss of what they never possessed. A license is only a permission under restriction to make the most of selling liquor, and there remains no claim in law or equity for compensation.” Now it so happens that I was only this very night reading my London Paper (<hi rend="italic">Standard</hi>), lately to hand, which coming together proves to be a curious coincidence! or, if you will, a complete upsetting of all such flap-doodle; and as it gives the highest legal authority in England on this very point; I will, with permission, make an extract which I trust may prove of some service even to the superficial Lecturer himself, and to his still more noisy and illiterate local Subs.— </p>
+         <p>“Lord Coleridge and the Publicans.—Lord Chief Justice Coleridge presided yesterday afternoon at the twenty-sixth annual meeting of the Church of England Temperance Society, held in the Library of Lambeth Palace. His Lordship, referring to the compensation clauses in the Local Government Bill, after expressing his sympathy with the temperance movement, said he wished to give a clear expression of his views on the question whether the publicans should be compensated. Those views were founded entirely upon what he believed to be the law. In one sense—and no lawyer on either side of the House of Commons would venture to question it—there was no vested interest in the trade. But let them seriously consider what would be said on the other side. Publicans were a set of men whom they might think were engaged in a mischievous traffic, but the trade had been sanctioned by law for a great many years: and it was the custom in all cases where the public-houses were respectably conducted, aud there was no complaint of misconduct on the part of the publican, to renew the licenses from year to year, and in this way a very large interest had grown up, and it would, in his judgment, be wrong to say there was no vested interest in the profession or trade carried on by those to whom licenses had for many years heen granted. As he would have to vote on the question in the House of Lords, he considered it his duty to state his views. Unless he did so, when he voted for compensation, he wonld be open to censure from his temperance friends. Whatever might be the extent of the legal rights of the publicans, they had no right to ruin them because the mind of England had changed on the drink question. Canon Ellison said, the Executive of the Society had adopted the view his Lordship had expressed, and they were glad to have it endorsed by the highest legal profession in England.” </p>
+         <p>It is refreshing to read such clear calm equitable and dignified sentiments expressed by a leading supporter of the Temperance Cause; so very different to the dissonant far-fetched and dishonest talk (I might fairly say—ravings) of the Teetotallers! Would that our Teetotallers could but see the great difference the enormous distinction between their narrow views and those of Temperance,—with which they have nothing to do, “neither part nor lot in this matter.” — I am, &amp;c, </p>
+         <p>
+                  <hi rend="smallcaps">					William Colenso.</hi>
+               </p>
+         <p> Napier, June 23, 1888.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0013">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1855 March 13: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1013641</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>Encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1855-03-13">1855 March 13</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1855 March 13 McLean to Colenso (#1013641) </p>
+		</front>
+		<body>
+			<p>Ahuriri, March 13th. 1855. </p>
+			<p>Sir, </p>
+			<p>I have the honor to acknowledge the receipt of your letter of the 10th instant, and thank you for the information which it contains, in reference to the proprietorship of land in this District, and the changes that have taken place owing to the death of te Hapuku’s son Cranmer. </p>
+			<p>From your long residence in the Ahuriri District, and general knowledge of the rights and claims of the various tribes inhabiting it, and of the several feuds and differences that have periodically occurred amongst them in reference to their land claims, I shall at all times feel much obliged by your favoring me with any suggestion that may occur to you in reference to such claims, and I should be glad if you could furnish me with any proposition of your own, as to the best means of adjusting such a difference in reference to their land as now exists between te Moananui and te Hapuku. </p>
+			<p>In the meantime, and before adopting any steps in reference to the land dispute, I shall fully consider the various points brought forward in your letter; and do my utmost to prevent, as far as in my power, the jealousy, excitement and ill-feeling that at present exists between the abovenamed Chiefs. </p>
+			<p>I have the honor to be </p>
+			<p>Sir </p>
+			<p>Your most obedient, humble servant, </p>
+			<p>Donald Mclean </p>
+			<p>Land Commissioner </p>
+		</body>
+	</text>
+</TEI>

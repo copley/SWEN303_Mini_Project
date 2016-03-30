@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0111">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1883 “Noxious Weeds”</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1883-03-15">1883 March 15</date>
+          <publisher>
+            <name type="organisation">Daily Telegraph</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1883-03-14">1883 March 14</date>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1883 “Noxious Weeds”</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+        <hi rend="bold italic">Daily Telegraph</hi>
+        <hi rend="bold"> March 15.</hi>
+      </p>
+      <p>
+      <hi rend="smallcaps">Sir</hi>—In your issue of this evening you have an article with this heading; and you commence by saying, “some interesting information comes from Wellington respecting the manner in which noxious weeds arrive in New Zealand, and spread over the country. The settlers are sometimes astonished at discovering new forms of hurtful vegetation, and wonder how an unwelcome visitor got into their pastures” Further on giving a list of noxious weeds, containing nineteen names, which, you say, were “found growing on ship’s ballast of fine sand that was spread over a part of the reclamation land in Wellington,” and that, “Mr Kirk had examined the miscellaneous crop and so defined the foregoing list:” and that now “the mystery” of their arrival here in New Zealand “has been partially if not wholly solved.”</p>
+      <p>Well, your information has astonished me! Shall I say, “Quite taken away my breath?” No; caused me to burst out in a loud guffaw! And why? (1) Because all those so-called “noxious weeds” (with many others) have long been common here in Napier, and also <hi rend="italic">inland</hi> in the country villages and townships, and in the Bush; and (2) that sixteen of those nineteen enumerated by you were absolutely published by Sir J.D. Hooker in hi “Handbook of the New Zealand Flora,” in 1864 (thirty year ago!), as then being common naturalized weeds in New Zealand; and with them he also gave more than one hundred others!</p>
+      <p>More likely, more reasonably, the “mystery” of those weeds being found there, growing on that discharged ship’s ballast, spread over the land, is mainly owing to their seeds having been blown thither from the neighboring hills, &amp;c.—seeing, too, that Wellington is not wanting in suitable zephyrs! —I am, &amp;c.,</p>
+      <p>
+        <hi rend="smallcaps">W. Colenso.</hi>
+      </p>
+      <p>       March 14th, 1883.</p>
+    </body>
+  </text>
+</TEI>

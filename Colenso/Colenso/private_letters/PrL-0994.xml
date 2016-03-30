@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0994">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1897 April 30: to Harding via JH Holden</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0499.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding via JH Holden</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1897-04-30">1897 April 30</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1897 April 30: to Harding via JH Holden<note xml:id="ftn3-825" place="foot" n="825"> ATL qMS-0499.</note>
+         </p>
+         <p>                                                 Son of H.R. Holden</p>
+      </front>
+      <body>
+         <p rend="end">Woodville Ap 30<hi rend="sup">th</hi> 1897</p>
+         <p>Dear Mr. Harding</p>
+         <p>Your very kind and welcome letter of the 28<hi rend="sup">th</hi> is to hand. I thank you heartily for it and as I cannot write myself prefer dictating a few words in reply just to let you know how I am. It was four weeks yesterday from the accident and I now sit up a few hours each day undressed. I am still very weak but “progressing favourably” with hopes of retaining some use of my right arm. With you I lament the state of things outside in the H.B. District, a portion of which I have long forseen (I mean the inroad of the sea on the beach near Awatoto) occasioned by the worse than careless excavations of the Railway authorities. I have very kind attentions here day and night a nurse always with me &amp; expect such must continue for some time longer. I am far better off here than I should be at Napier—the worst is all my business papers are there &amp; cannot be obtained. I have had many nice kind letters from all parts of the Colony, including from Sir J. Hector, the Govt. Printer, The Revds. Grant &amp; Fraser with <hi rend="italic">three or four from Mr. Hill</hi>; he will be here about the 12<hi rend="sup">th</hi>. of May. The Dean, Knowles, Dolbel, Fannin came from Napier to see me. Gow, Robertshawe, Dr. Macalan, Mr. Hunter &amp; others from the line. Holt has finished roofing &amp;c of the old house. I have been obliged to subscribe rather largely (<hi rend="italic">under existing circumstances</hi>!) towards the Relief Fund and would I could do more. Thanking you for your very kind offer in your former letter which <hi rend="underline italic">here</hi> would be of no real service, I am</p>
+         <p> My dear Mr Harding</p>
+         <p>           Yours affectionately</p>
+         <p>                                 W Colenso</p>
+         <p>                                         per <hi rend="italic">J.H. Holden.</hi>
+         </p>
+         
+         <p rend="justify">                                                                          Napier</p>
+         <p>P.S. Have scarcely read two pages of any book since the accident happened. If I do not get better I shall send for you.  </p>
+         <p rend="justify">
+            <hi rend="italic">W.C.</hi>
+         </p>
+         
+      </body>
+   </text>
+</TEI>

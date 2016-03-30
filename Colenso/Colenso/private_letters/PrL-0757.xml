@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0757">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1890 December 12: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0495.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1890-12-12">1890 December 12</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1890 December 12: to Harding<note xml:id="ftn3-499" place="foot" n="499"> ATL qMS-0495.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke 12, XII, ’90</p>
+         <p>Dear Mr Harding</p>
+         <p>Your long excellent and most welcome letter of the 7<hi rend="sup">th</hi> inst. I duly received—and I scarcely need say—<hi rend="italic">I thank you for it</hi> most heartily; full of good thoughts—new &amp; to the purpose—a very epitome of yourself! I have repeatedly read it, here in my solitude, &amp; could fancy you were by my side.—I should have ansd. it before this time, were it not that I knew you had your (or <hi rend="italic">our</hi>) good friend Mr Paterson <hi rend="italic">there with you</hi>—and I did not wish to intermeddle with your joys. And even now—I do not intend to close this until <hi rend="italic">the 14</hi>
+            <hi rend="sup italic">th</hi>
+            <hi rend="italic">.</hi> inst.—</p>
+         <p>First, then, <hi rend="italic">re</hi> those troublesome papers—the parcel of 6 did arrive at last—on evening of 4<hi rend="sup">th</hi>, <hi rend="italic">thanks to you</hi>. I have lent out copies, &amp; the enquiry is “What does E. Baker say?” Should you know of any rejoinder, or remark, please let me know. There are a few errors—but only in <hi rend="italic">proper names</hi>! (somewhat strange—as was the case in that “Central Printer.”) <hi rend="italic">viz</hi>;.—<hi rend="italic">T</hi>. Marsden (for <hi rend="italic">S</hi>.M.) <hi rend="italic">T</hi>ate (for <hi rend="italic">Y</hi>ate) “<hi rend="italic">L</hi>. Leigh (for <hi rend="italic">S</hi>. Leigh)—Frankl<hi rend="italic">in</hi>—(quoted) for Frank<hi rend="italic">lyn</hi>: and Frank<hi rend="italic">lyn</hi> (own) for Frank<hi rend="italic">lin</hi>. I hope you may find room for a few words in your “Typo”—, 1890, for Dr. Benjn. Franklin—this <hi rend="italic">yr.</hi> being his <hi rend="italic">Centenary</hi>. I suppose I have to pay for those 6 copies &amp; postages—do you pay &amp; <hi rend="italic">charge me with that, &amp; all other outlay.—</hi>
+         </p>
+         <p>I go with you in all you have written <hi rend="italic">re</hi> those <hi rend="italic">many</hi> members (!!). I fear our <hi rend="italic">Colony</hi> has much yet to learn—by <hi rend="italic">sad experience</hi>, (just as in individuals!) ere she will emerge &amp; become firmly seated. Alas! what unexpected &amp; evil things <hi rend="italic">we</hi> have already seen! However the Leg. Cl. came to agree to <hi rend="italic">such</hi> an Act—as this “1-man-1-vote” one, I <hi rend="italic">cannot understand</hi>!</p>
+         <p>I think I told you I propose going to Kaikoura on 5<hi rend="sup">th</hi>. to vote for Capt. R.—(he also, knew that)—but, just as I was ready to leave—a <hi rend="italic">wire</hi> from him—“<hi rend="italic">he was safe</hi>—vote <hi rend="italic">here</hi>”<hi rend="italic">—</hi>which I did &amp; of course for Hunter. There was a <hi rend="italic">great</hi>
+            <hi rend="italic">bustle</hi>, &amp; some <hi rend="italic">small</hi> squabbling, here on 5<hi rend="sup">th</hi>. (some 5–600 men assembled in this little township, &amp; <hi rend="italic">many</hi> of them of the lower wkg-class,) but all ended well—save a case in Court—anon. A painter had <hi rend="italic">lately</hi> arrd. here (named Mansell), &amp; on the <hi rend="italic">night</hi> of the 4<hi rend="sup">th</hi>. he daubed many <hi rend="italic">private houses</hi> (even going up into verandahs through gardens!) w. “Vote for Smith”—in horrid big letters—black &amp; ugly! Well, somehow, suspicion was aroused &amp; at Younghusband’s <hi rend="italic">store</hi> opposite me watch was kept, within, &amp; when the truth was <hi rend="italic">heard</hi>, the window was opened &amp; Yghd. jumped out, &amp; <hi rend="italic">caught him</hi> red-handed.!! He has been brought up and remanded till 22<hi rend="sup">nd</hi>. I suppose <hi rend="italic">he</hi> had daubed—30 or more! &amp; mostly on <hi rend="italic">Hunter’s</hi> supporters’ premises; &amp; craftily mixed his stuff with common oil &amp; dress, so that it <hi rend="italic">ran down</hi> terribly! making such a horrid mess. Mrs. Wells had a <hi rend="italic">new</hi> garden fence only recently erected, <hi rend="italic">close palings</hi>, extending 2–3 chains, and the wretch daubed the whole length! As you see our N. papers you will know all their contents: I notice (with <hi rend="italic">aversion</hi>) the repeated statement—that Smith is to be pitchforked into the <hi rend="italic">Upper</hi> House!</p>
+         <p>One bit of news has <hi rend="italic">pleased me</hi> the acquittal of those 2 poor Chinese—which I (remembering the past) did not expect, from a <hi rend="italic">Wellington</hi> jury.</p>
+         <p>
+            <hi rend="italic">Saty</hi>. 13<hi rend="sup">th</hi>., IX. p.m.—I now go on with my letter—I was <hi rend="italic">hindered</hi> by folks calling yesterday. The weather <hi rend="italic">here</hi> is gloriously fine, day after day, but I hear from Bold &amp; others, that the Country outside (Kaikoura, Waipawa, &amp;c.,) is wretched! Burnt up &amp; no feed! Here, grass <hi rend="italic">abounds, </hi>&amp; <hi rend="italic">green</hi> too.—</p>
+         <p>I am particularly pleased in knowing, that<hi rend="italic">you </hi>had<hi rend="italic">known</hi> Woon, Senior: good. I did not before know of Tregear being a Cornishman (I had thought from Devon—adjoining county). I notice your <hi rend="italic">kind</hi> &amp; <hi rend="italic">faithful</hi> allusion to Nehemiah’s 2 foes, “T. &amp; S.,” and you are <hi rend="italic">again</hi>
+            <hi rend="underline italic">quite</hi>
+            <hi rend="underline italic">right</hi>: but situated as I <hi rend="italic">then was</hi>—I could not carry on the <hi rend="italic">building of the wall</hi>—though I tried every plan I could think of—Locke was obstinate—but when Dr H. placed <hi rend="italic">his</hi> Mao. Papers in <hi rend="italic">end</hi> of the Vol.—L. was cured! And would <hi rend="italic">not</hi> write any more.</p>
+         <p>I may yet do a little more in that particular line, seeing I shall be obliged to relinquish Forest strollings. Eng. M. to hand this day, (but <hi rend="italic">no</hi> N. “Herald,” to me &amp; to this house.) Among papers—a “Bookmast” from L. (no.89 for <hi rend="italic">Octr.</hi>) which <hi rend="italic">you shall</hi> have—if you wish it. I enclose a clipping from a late “Lond. Standard”, which will interest you—if not known.—A notice, also, to hand—<hi rend="italic">re</hi> copies of “Brett’s Early Histy.”—being ready. And a request from—Pilcher of your city—for <hi rend="italic">old</hi> postage stamps!!</p>
+         <p>I have been occupied lately in drawing up descriptions of a <hi rend="italic">few</hi> new plants—I had shown them at our last meeting, also their <hi rend="italic">first draft</hi> papers.—</p>
+         <p>I arranged with Rev. A. Grant to be with him on 19<hi rend="sup">th</hi>. to name a <hi rend="italic">lot</hi> of mounted ferns for their Bazaar (aid of Sc. Ch. Waipukurau)—I purpose leaving here on 18<hi rend="sup">th</hi> &amp; staying 1 night at Gow’s on my way to Napier—and, as far as I can see at present, I expect to return to this place about the 15<hi rend="sup">th</hi>–16<hi rend="sup">th</hi>. Jany. A letter <hi rend="italic">this night</hi> to hand from Dean Hovell inviting me to be present, &amp; assist, at the annual Dedication Cathedral Service <hi rend="italic">on 18</hi>
+            <hi rend="sup italic">th</hi>.—which I cannot now fulfil. He tells me he had been laid up with Inflammation of Kidneys, &amp; feels very weak. I have to preach <hi rend="italic">here</hi> tomorrow evening—my last, before leaving. I saw, in “Woodville Examr.” of Wedy—a notice of a Horse Race there tomorrow (Sunday) mg. for £20.—And, in yesterday’s “Examr.” a good <hi rend="italic">strong</hi> letter from R. Stewart against it—which I hope may have proper effect.—</p>
+         <p>(Good night.)</p>
+         <p>
+            <hi rend="italic">Sunday</hi>, 14<hi rend="sup">th </hi>IV.30, p.m. Again have I been reading – thoroughly &amp; enjoying it—your <hi rend="italic">excellent</hi> letter—which makes me ashamed of my own. Your account of your tropical rain, &amp;c—is highly graphical!—By &amp; by—I think—I will send for the <hi rend="italic">remg</hi>. vols. of Jno. White’s (I have first two). It is possible (as you say) that Woon might have taught Hobbs—but I doubt it, chiefly because H. was a long way his senior in years, &amp; <hi rend="italic">slow</hi>, still he was a man fitted to pick up anything new but more in the out-door &amp; heavy line. I have some of his letters, also—and of <hi rend="italic">very many</hi> others—<hi rend="italic">hundreds</hi>!!!</p>
+         <p>What about Sir W. Buller’s <hi rend="italic">brother</hi>—is it true? His being a Defaulter, &amp;c? I hope our Govt. will <hi rend="italic">not</hi> resign. I got no “Herald” yesterday (alas! 2ce. repeated) so I know of nothing <hi rend="italic">new</hi>. I am sorry to hear no better account of your dear little Boy—<hi rend="italic">live in hope</hi>.</p>
+         <p>Ever sincerely Yours,</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

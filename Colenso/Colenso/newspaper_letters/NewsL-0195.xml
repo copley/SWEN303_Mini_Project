@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0195">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1897 Major Ropata. Hawke’s Bay Herald 6 July</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1897-07-06">1897 July 6</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1897-07-05">1897 July 5</date>
+        <name type="place">Dannevirke</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1897 </hi>
+        <hi rend="bold">Major Ropata.   <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald </hi>
+        <hi rend="bold">6 July</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—I have read with interest in your paper of the 3rd instant your brief memoir of the late Major Ropata Wahawaha, M.L.C, who died on the 1st instant. Having known the old chief, and also been deeply interested in the clever and long letters he wrote to his tribe from Sydney (on his visit thither with Sir Donald M‘Lean), in which he so well and ably described in pure Maori the many new sights, &amp;c., &amp;c., he then saw for the first time there (several of his letters having been published by the Government of the day in the <hi rend="italic">Waka Maori</hi>, the Maori newspaper of that period), and believing you are in error as to his age (“90”) from your informant not being acquainted with the past and so calculating from insufficient data, I should like to correct the same and so set you right. </p>
+      <p>You say, “Major Ropata said he was a full-grown boy at the date of the introduction of the Gospel into New Zealand. Taking that date as 1814, and allowing him to be seven years of age at the time, it would appear that at the date of his death he was 90 years old.” </p>
+      <p>On the contrary I take it thus: (1) “The date of the introduction of the Gospel into New Zealand, in 1814,” far away in the North (Bay of Islands) and not made much of at the time by the Maoris, and long confined to the Ngapuhi tribes, their deadly enemies, could scarcely ever have been heard of by these East Coast tribes. But what the Major meant, was the introduction of the Gospel by the missionaries there among his own tribe at East Cape and on to Poverty Bay, which was in 1837. The first Bishop of Waiapu (then the Rev. W. Williams) and myself having been selected by the committee of missionaries to do so; we landed at Wharekahika (Hick’s Bay), and travelled leisurely by the coast to Poverty Bay—an adventurous journey; and saw the Maoris (Ngatiporou tribe of Waiapu especially) dwelling in hundreds in their large and substantial war pas—Rangitukia and Whakawhitira being the largest—in all their pristine glory! Well do I remember the grand open reception we met with from the principal old chief, Te Houkamau, on our landing. Soon after our visit trained Christian Maori teachers were sent among them, who were also well received and Christianity was established; and in their first schools, I have no doubt, Major Ropata was taught to read and write, and in those same schools I myself also taught hundreds of Maoris in subsequent years, before I came to Hawke’s Bay in 1843. And not long after the Rev. W. Williams and family removed from Te Waimate (Bay of Islands) to Poverty Bay, and so founded the Christian mission there. </p>
+      <p>(2) “Major Ropata said he was a full-grown boy at that date;” such a Maori term would <hi rend="italic">not</hi> be used (as you have it) for a boy of “<hi rend="italic">seven</hi> years of age;” rather say, 14–16, or more. This would bring his age to about 75, which I take to be pretty nearly correct. I have also other data which serve to strengthen me in my belief, which I could give if needed.—I am, &amp;c., </p>
+      <p>
+      <hi rend="smallcaps">             William Colenso</hi>, </p>
+      <p> Dannevirke, July 5th, 1897.</p>
+    </body>
+  </text>
+</TEI>

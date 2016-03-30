@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0128">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1885 To the Editor Daily Telegraph 3 August.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1885-08-03">1885 August 3</date>
+               <publisher>
+                  <name type="organisation">Daily Telegraph</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1885 To the Editor<lb/>
+                  </hi>
+                  <hi rend="bold italic"> Daily Telegraph</hi>
+                  <hi rend="bold"> 3 August.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—You have fulfilled your promise to your readers, and have given them in the supplement to your last Saturday’s paper the sermon by the Bishop of Waiapu—on the exclusion of the Bible from schools. My object in writing you this note is, to inform you and your readers that I will send you a letter in reply thereto (or, rather, containing remarks thereon) for publication in your next Saturday’s supplement; which I hope may be of some service in assisting them to form a right judgement on this important question. I am, &amp;c.,</p>
+         <p rend="end">
+                  <hi rend="smallcaps">William Colenso.</hi>
+               </p>
+         <p>Napier, August 2nd. 1885. </p>
+         <p>[We publish sermons weekly for the pleasure they give to our country readers. None of the sermons that we have published can be said to be of a controversial character, and we most distinctly decline to accept for publication any contribution that would lead to a religious discussion.—Ed. D.T.]</p>
+      </body>
+   </text>
+</TEI>

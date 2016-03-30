@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0391">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1879 July 30: to Hector</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MTG HB 18568 and Museum of New Zealand—Te Papa Tongarewa MU000094/004/0202.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">Hector</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1879-07-30">1879 July 30</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1879 July 30: to Hector<note xml:id="ftn3-14" place="foot" n="14"> MTG HB 18568 and Museum of New Zealand—Te Papa Tongarewa MU000094/004/0202.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, July 30<hi rend="sup">th</hi>., 1879.</p>
+         <p>Dr. Hector, F.R.S., &amp;c.,<lb/>Manager N.Z. Institute,<lb/>Wellington,</p>
+         <p>Dear Sir,</p>
+         <p>Late last night I received your packet containing my two Papers on Ruahine, and your letter of the 24<hi rend="sup">th</hi>. inst.,—and I thank you very much for sending them, though late.—</p>
+         <p>Today I have been engaged in running over the two Mss., and am surprised at seeing so very much struck out,—just half of them!—</p>
+         <p>I note what you say,— “I have no authority to return it to you,” but as you say “it is required,” I presume for some purpose, “I take the responsibility of returning it on the understanding that you are to send it back again without unnecessary delay.”—</p>
+         <p>And, as you are about leaving N.Z. for Sydney, and will in all probability be some considerable time absent, I now write a few lines in reply, to catch you at Wellington, that you may know how I shall act in this matter.—</p>
+         <p>I certainly shall not return these rejected Mss. to you.—</p>
+         <p>Allow me to remind you, that I have on several occasions, from your first intimation to me in January last of the decision of the Board of Directors of the N.Z. Institute respecting these two Papers,—that I have constantly and persistently refused to allow of a mere Abstract of them to be made for a vol. of the “Transactions” of the N.Z. Institute,—and this I have done by telegram and by letters (often), including my official one to you containing a Resolution to that effect from our Branch Society, passed at the Annual Meeting early in February last.</p>
+         <p>At the same time, as I have also more than once said,—I find no fault with the Board for their rejection of those Papers,—that being in perfect unison (with one of their bye-laws, (and a proper one, too,)—but the altering or curtailing them is quite a different thing, and one that is entirely beyond their province; especially when, (as in this case), such curtailment amounts to just one-half of the whole.—</p>
+         <p>I may, in conclusion, add, that it is probable these Papers will be printed here, such being the express wish of our Hawke’s Bay Members, and that by Subscription.—</p>
+         <p>What, however, I lament the most is, that it is now likely I may not write again for the N.Z. Institute; as I cannot have any desire to be treated a <hi rend="italic">second</hi> time; and my hitherto unbroken confidence is now <hi rend="italic">nil</hi>. I regret this, however mainly if not only, with reference to my “Contributions” on the Ethnological question of the Maoris, which I had wished to carry on, as I had two years ago sketched out.—</p>
+         <p>Heartily wishing you every success at Sydney, <lb/>I am, Dear Sir,<lb/>                              Yours very truly,<lb/>                                          Wm. Colenso.</p>
+      </body>
+   </text>
+</TEI>

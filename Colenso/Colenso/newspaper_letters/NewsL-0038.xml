@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0038">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1861 Open column. Hawke’s Bay Herald 19 January (1).</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1861-01-19">1861 January 19</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1861-01-13">1861 January 13</date>
+        <name type="place">Waitangi</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1861 Open column.</hi><lb/>
+        <hi rend="bold italic">Hawke’s Bay Herald</hi>
+        <hi rend="bold"> 19 January (1).</hi>
+        <note xml:id="ftn16" place="foot" n="16">This in reply to an earlier Worgan letter in which he clearly identified Colenso with a correspondent who used the nom-de-plume “Rua Taniwha”: he wrote, “I would first observe my conviction that the signature (Rua Taniwha) is a mere blind; the reptile whose venemous spawn has been allowed to defile your pages lives not on the fair plains of RuaTaniwha; No, no: nothing but a compound of the festering drainage of commingled salt and fresh water could have produced anything half so loathsome. Let the crawler beware my heel!” —<hi rend="italic">Ed.</hi></note>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—Reading, on Saturday last, the letter signed “George Worgan,” in your paper of that date, I had nearly made up my mind to answer it fully in your next issue; but, having been led to <hi rend="italic">think</hi> on him this day while using these words,— “That it may please Thee to forgive our enemies, persecutors, and slanderers, and to turn their hearts,”— I feel it now to be a duty not to notice the sad letter of the poor, unhappy old man. </p>
+      <p>                       I am, Sir,</p>
+      <p>                               Yours truly,</p>
+      <p>
+      <hi rend="smallcaps">William Colenso</hi>.</p>
+      <p> Waitangi,</p>
+      <p>       Sunday night, Jan. 13, 1861.</p>
+    </body>
+  </text>
+</TEI>

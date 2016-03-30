@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0338">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1877 March 7: to Hector</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Museum of New Zealand—Te Papa Tongarewa MU000094/003/0241</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">Hector</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1877-03-07">1877 March 7</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1877 March 7: to Hector<note xml:id="ftn2-286" place="foot" n="286"> Museum of New Zealand—Te Papa Tongarewa MU000094/003/0241</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier,<lb/>March 7. 1877.</p>
+         <p>Sir</p>
+         <p>I have the honour to acknowledge the receipt of your Circular of Feby. 21/77, <hi rend="italic">re </hi>Analytical Index of Trans. Of N.Z. Institute,—and the number of copies our members are likely to require.</p>
+         <p>I have delayed replying until now, but can no longer defer doing so. And seeing nearly all our Members are in possession only of the last (viii) vol., I don’t think they generally would care to have a copy of the Index. Therefore four or six copies, (<hi rend="italic">including</hi> one for our Institute &amp; one for myself,) are all that I believe will be required.    I have the honour to be, Sir</p>
+         <p>Your mo. Ob. St.,</p>
+         <p>W. Colenso, Hon. Sy.</p>
+      </body>
+   </text>
+</TEI>

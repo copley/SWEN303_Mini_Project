@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0964">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1896 May 12: to Costall</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Micro-Ms-Copy</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75472/">Costall</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1896-05-12">1896 May 12</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1896 May 12: to Costall<note xml:id="ftn3-782" place="foot" n="782"> ATL Micro-Ms-Copy </note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, May 12, 1896.</p>
+         <p>Mr. S. Costall<lb/>Government Printer<lb/>Wgn.</p>
+         <p>Sir</p>
+         <p>I thank you for your proofs of “Dictionary of N.Z. Tongue”, also your letter of the 8<hi rend="sup ">th</hi>. inst. sent with them. I hasten to return those proofs corrected—corrections few and easily made, the proofs being very clean, showing great care on the part of your Compositor &amp; Reader. I may observe, that the copy has been so long out of my hands (from ’86), that I had forgotten much of it, &amp; therefore have not ventured to add thereto—which, however, I <hi rend="italic">may</hi> have to do to future pages; style, &amp;c, &amp;c, will all do very well. I should however have preferred your beginning title with “A Maori-English Lexicon, being” &amp;c. (can you add this?)</p>
+         <p>I shall have a short preface, (say) 1 page.</p>
+         <p>In putting head-lines (top of col.), put first <hi rend="italic">4</hi> letters of the <hi rend="italic">last</hi> word in column.</p>
+         <p>I suppose, I should “follow suit” with those who have preceded me, and therefore give you author’s name, &amp;c, &amp;c, for title: let the first two lines be as I have written them.</p>
+         <p>I should like to have 500 copies and the little work neatly &amp; strongly bound, (<hi rend="italic">thread</hi> preferred to wires) like some I have seen from your Office; possibly the Government may also require some copies. I had pretty much correspondence with your predecessor in Office (late Mr. Didsbury), <hi rend="italic">re </hi>the work, accented sorts, &amp;c,—and am pleased to see you have these now:—though (for my part) I should have greatly preferred the Maori manner of writing—by doubling the long vowel.</p>
+         <p>I have quite forgotten the number of pages (Ms.) you may have of the “Eng. Maori” part: and I think a <hi rend="italic">smaller</hi> portion than what you have will be sufficient—just to show the manner of that part of the projected work.—</p>
+         <p>                                           I am, Sir<lb/>                                                  Yours obdtly,<lb/>                                                      (signed) W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

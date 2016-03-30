@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0139">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1888 “Fair play is bonnie play.” Hawke’s Bay Herald 22 March.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1888-03-22">1888 March 22</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1888 “Fair play is bonnie play.”	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 22 March.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—In your issue of this morning you give us the following item of news from “Your own correspondent” at Waipawa;—written yesterday, Tuesday 20<hi rend="sup ">th</hi>.—</p>
+         <p>“Last Sunday an alarm was raised in the Maori pa, and in a few minutes males and females were mounted and in chase of some youths who had been stealing water-melons. They were met by the youths’ parents, and a war ensued in which the poor Maoris got the worst of it.”—</p>
+         <p>I am very sorry to read such a communication:—Sorry for the “Youths” of that rising township, (were they “larrikins” or school-boys?)—more sorry for their misguided “parents,”—and (must I write?) still more sorry for “Your own” there, who could write you such a serious matter in such an indifferent careless semi-jocular strain! He and they may live long enough to see the <hi rend="italic">sure fruits</hi> of their own sowing.</p>
+         <p>Such doings, however, I regret to say, are not new in this country; that is the difference between <hi rend="italic">meum</hi> and <hi rend="italic">tuum</hi> (mine and thine): between a European stealing from a Maori and a Maori from a European. I have seen and known too much of it in my time; and I am not now going to write upon it; but to give you (and those Waipawa folks in particular) an instnnce of how our justly-famed navigator, Capt. Cook, fairly managed a similar trespass and theft,—acting up to the good old English notions of our forefathers.</p>
+         <p>Cook says:— “One of the towns was very near us, from which many of the Indians (Maoris) advanced, taking great pains to show us they were unarmed, &amp;c. In the meantime some of our people (crew), who, when the Indians were to be punished for a fraud, assumed the inexorable justice of a Lycurgus, thought fit to break into one of their plantations and dig up some sweet potatoes: for this offence I ordered each of them to be punished with 12 lashes, after which two of them were discharged; but the third, insisting that it was no crime in an Englishman to plunder an Indian plantation, though it was a crime in an Indian to defraud an Englishman of a nail,—I ordered him back into his confinement, from which I would not release him till he had received 6 lashes more.” (1st Voyage, vol. II., p.366: 4to. ed.)  This happened in the Bay of Islands, in November, 1769.—I am, &amp;c.,</p>
+         <p>
+                  <hi rend="smallcaps">					William Colenso.</hi>
+               </p>
+         <p> Napier, March 21st, 1888.</p>
+      </body>
+   </text>
+</TEI>

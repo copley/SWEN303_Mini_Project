@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0563">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1884 June 3: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1884-06-03">1884 June 3</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1884 June 3: to Balfour<note xml:id="ftn3-238" place="foot" n="238"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Tuesday night<lb/>June 3/84</p>
+         <p>Mr D.P. Balfour </p>
+         <p>My dear Sir</p>
+         <p>I must now reply to your kind, &amp; very welcome letter of 24<hi rend="sup">th</hi> May, as (you tell me) <hi rend="italic">your</hi> weekly mail leaves us <hi rend="italic">tomorrow</hi>. I thank you for this bit of information. I note (in the clipping you sent from a local paper) that the alteration in days of mail, took place when I was in the Bush, but had I been here, I should not know of its affecting “Glenross”, as it was <hi rend="italic">not</hi> inserted. I was glad to find you were <hi rend="italic">all well.</hi> Since then Mr P.D.called here in <hi rend="italic">great trouble</hi>, of which I suppose you have fully heard, &amp; therefore I will not repeat. I should much like to know how his little nephew, and namesake is today. In my last letter to P.D., I begged him to let me know, &amp; as I have <hi rend="italic">not</hi> heard, I would hope he is better; but P.D. himself (poor dear fellow) was far from well himself—too much worry &amp; trouble of late, besides his own hurt. I am much better, but not quite well yet. I went to town today, the weather being <hi rend="italic">fine</hi>—&amp; warm <hi rend="italic">in the sun.</hi>
+         </p>
+         <p>I am much interested in your <hi rend="italic">Cordyline</hi>, &amp; hope it may prove to be new,—I have soaked, and examined some of the seeds (or berries) you sent me—but I cannot make much of character from them—the fruit is <hi rend="italic">very near</hi> to that of <hi rend="italic">C. diffusa</hi> (p.330 Trans), <hi rend="italic">which I</hi>
+            <hi rend="italic">had not got in</hi>
+            <hi rend="italic">’82</hi> ,when I drew up its description—and, <hi rend="italic">I think</hi> I have, more lately, seen it growing sub-arbo­reous; however, when The <hi rend="italic">flowering</hi> season comes round we shall be able to ascertain. I approve of your “first attempt” (as you call it), &amp; have read it 2–3 times with pleasure, it shows me one thing, you have been <hi rend="italic">ta­king pains.</hi>
+         </p>
+         <p>The little fern (enclosed) is <hi rend="italic">Davallia</hi>
+            <hi rend="italic">N Z</hi> (p.358 Hand Book)—a small spn—­it grows <hi rend="italic">very large</hi> in some woods (2 feet &amp; more;) &amp; then looks, at first sight, very different.</p>
+         <p>I see <hi rend="italic">they</hi> have already inserted a notice for next Mondays meeting, (com­menced advts <hi rend="italic">last Saturday</hi>! <hi rend="italic">9 insertions</hi>!!:—money <hi rend="italic">wasted</hi>.) What will be done, I do not know. I have <hi rend="italic">not heard a single sound</hi> concerning it, or the <hi rend="italic">last one</hi>. I have asked some members, they say they were <hi rend="italic">not</hi> there, &amp; do not know who were there.</p>
+         <p>It <hi rend="italic">seems</hi>, somewhat strange to me, who used to get such a lot of letters, &amp;c, &amp;c, from members,—<hi rend="italic">now</hi> I get none <hi rend="italic">save from you</hi>; At the same time I receive a <hi rend="italic">full share from outsiders</hi>—from all parts. I suppose you have received your copy of Vol. XVI “Trans”, as they have been here more than a fortnight. I received mine from Bannerman last Sat week. I find they (or Dr H) <hi rend="italic">omitted</hi> some (a few) of my little plants (perhaps an oversight). You will find several of <hi rend="italic">yours</hi> there—and more I hope to come. I have plenty to do. The little book is <hi rend="italic">slowly</hi> going through the press; several are subscribing, but only a few members:—.</p>
+         <p>Well, goodbye, and with kind regards, believe me</p>
+         <p>Yours truly</p>
+         <p>W. Colenso.</p>
+         <p>P.S. As Mr Kinross <hi rend="italic">said a good deal</hi> about the publishing the Ruahine pa­pers, at the time, I am thinking of dropping him a note.</p>
+         <p>No 2 9pm My man is just returning with letters, and as there is one from P.D. of yesterday, (and he may not write to you by tomorrows mail, owing to the trouble there,) I copy a few words. He says “in my opinion the boy is improving, but not so strong as before his relapse. Mrs Dolbel is a good deal better. The doctor says he does not see any immediate danger, but the disease, (ulcerated stomach) is a very critical one, &amp; it will take a long time to cure. We cannot leave him one minute, except while he aleeps. I do not feel well myself”—. </p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0003">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Private Letter: 1834 November 1: to Coates</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Hocken Library Ms Vol 63; ATL qMS 0491.</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/5250/">Sydney</name>
+        </correspAction>
+        <correspAction type="received">
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71268/">Coates</name>
+        </correspAction>
+      </correspDesc>
+      <creation>
+        <date when="1834-11-01">1834 November 1</date>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>1834 November 1: to Coates<note xml:id="ftn1-3" place="foot" n="3">Hocken Library Ms Vol 63; ATL qMS 0491.</note></p>
+    </front>
+    <body>
+      <p rend="end">Sydney, New South Wales, Novr. 1, 1834.</p>
+      <p>To Dandeson Coates Esqr.</p>
+      <p><hi rend="bold">Dr. Sir,</hi></p>
+      <p>By the blessing of <hi rend="smallcaps">God</hi> we are safely arrived at this “halting place,” from which we trust soon to proceed to New Zealand.—</p>
+      <p>I premise, that I need not enter into a detail of Incidents which occurred on the Voyage, as, I believe, that my dear Brother Wade, will send you a full account of whatsoever he deems worthy your attention.—I would merely say, that we were blessed with <hi rend="italic">more </hi>comforts than I expected, thanks to the Almighty, the Society, and Capt. Aitken, who is, I firmly believe, as a Captain, a worthy man.</p>
+      <p>I trust, Sir, that the Passengers who accompanied us, and the crew of the “Prince Regent,” will yet <hi rend="italic">have</hi> to thank <hi rend="smallcaps">God</hi> for our coming out in her.—I am, I trust, thankful for His mercies, and I don’t consider it the least to have such a companion as Mr. W.R. Wade.</p>
+      <p>In a letter which I received from the C.M.H., bearing date April 24<hi rend="sup">th</hi>., 1834, I read,— “The Society will supply with whatsoever shall appear to be needful both <hi rend="italic">in books</hi> and other articles.”—I have again, to acknowledge the great goodness of the Society in granting me so many comforts as I have already received: but I would venture to inquire—as I find there is not a single Book, save the valuable Bible which you were so kind as to give me, Sir, sent on board for W.C.—whether there are any allowed? If so, I should be glad to have a few pr. first opportunity: two or three of the Society’s <hi rend="italic">Greek </hi>works, I should be thankful for, as they would, to me, be a desideratum.</p>
+      <p>I have yet one more request to prefer—that you will, Sir, be pleased to order £5, to be sent to my Father, at Penzance, every <hi rend="italic">half-year</hi>, commencing at Midsummer next. In doing <hi rend="italic">this</hi>, you will greatly oblige and benefit me.</p>
+      <p>Praying, that you, Sir, and <hi rend="italic">our </hi>Society at Home, may be abundantly blessed by <hi rend="smallcaps">God</hi>, through Jesus Christ;—and, that we, your co-workers in the Vineyard of Christ, may be united by the Spirit in the bonds of Love and Peace,</p>
+      <p>I am,</p>
+      <p>Dear Sir,</p>
+      <p>yours faithfully,</p>
+      <p>Willm. Colenso.</p>
+      <p>P.S. Please remember me to Mr Watts—and to the Clerks in your office—Sir.</p>
+    </body>
+  </text>
+</TEI>

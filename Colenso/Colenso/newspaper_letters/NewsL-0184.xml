@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0184">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1896 Of a destructive New Zealand root fungus. Hawke’s Bay Herald March 23.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1896-03-23">1896 March 23</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1896-03-21">1896 March 21</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1896 </hi>
+        <hi rend="bold">Of a destructive New Zealand root fungus.</hi>
+        <hi rend="bold italic">Hawke’s Bay Herald</hi>
+        <hi rend="bold"> March 23.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+        <hi rend="smallcaps">Sir</hi>,—Yesterday I received from the Director of the Royal Gardens, Kew, London, a copy of the official <hi rend="italic">Kew</hi>
+        <hi rend="italic">Bulletin</hi> for January, 1896; containing, among other things, a full and particular account of this terrible native pest—which may, I fear, prove far more destructive than the codlin moth, or the acacia, or the American apple blights. It is now some time since I first discovered this fungus, and sent specimens of it to Kew—but those were incomplete. Nine months ago I was again at Woodville, and visited Mr. G. Lindauer’s<note xml:id="ftn61" place="foot" n="61"> Gottfried Lindauer of Woodville had painted Colenso’s portrait, which was presented to him on 12 November 1894—<hi rend="italic">Ed.</hi>
+      </note> garden and orchard, where I had full proof of the sad havoc caused by this small plant! Several of his large and hitherto flourishing apple trees (10–12 feet high) were killed by it. These had been lately dng up by Mr Lindauer, and showed how greatly their roots and bases of trunks had been infected by it—a most disagreeable sight I recommended him to burn up every portion, even to the making strong fires in the big holes or pits whence he had dug the trees. Other apple trees near by had not at that time shown signs of infection. Afterwards at Dannevirke, I heard of this root fungus infecting certain flower and shrub roots, also potatoes. It will further appear, from statements in the said Kew paper, how very mischievous this fungus has been in the Waikato and Auckland districts:—</p>
+      <p>“Amongst the numerous root diseases of various plants caused by parasitic fungi, none are better known, or extending over a greater area than the <hi rend="italic">pourridié </hi>of the French, which occurs in France, Italy, Switzerland, Austria, and South-west Germany, and has recently been recorded from three widely separated localities in Britain. The fungus causing this disease is called <hi rend="italic">dematophora necatrix</hi>, (Hartig), which frequently devastates vineyards and orchards; its attacks, however, are unfortunately not confined to vines and fruit-trees; potatoes, beans, beet, &amp;c., are also destroyed, and Hartig states that the mycelium soon kills young maples, oaks, beeches, pines and spruces. During the spring of the present year (1895), a sample of soil was received by the Royal Horticultural Society, from Mr Hooper, Cambridge, Waikato, New Zealand, containing roots of apple trees attacked by a fungus; with a communication stating that the roots of fruit trees which penetrated the places where the fungus appeared to reside became infected, the fungus penetrating the tree and ultimately killing it. This material was forwarded to Kew for investigation. Sterile mycelium alone was present, which appeared to agree in every detail with that of <hi rend="italic">Dematophora necatrix</hi>, and the fungus was provisionally referred to that species in a brief report published in the Journal of the Royal Horticultural Society (xix., part 1, 28). The following account will give an idea of the injury caused by this fungus, as observed by Mr R. Allan Wight, of Auckland, N.Z.:—</p>
+      <p>‘This fungus, in the mycelial stage, attacks a great variety of tree roots, amongst the most conspicuous of which are the apple, pear, peach, and all other common orchard trees. The white thorn is also subject to its attacks, and several of the native trees and plants. It also attacks the cabbage, potato, docks, sorrel, fern, and in fact is almost omnivorous, which as a marked peculiarity. In hedges of white thorn, where roses have been planted at intervals, the thorns are killed, and the roses remain intact and quite uninjured. In an orchard it will appear in patches, killing the fern and sorrel. It then attacks the bark round the stem, just under the ground, which speedily rots, presenting the appearance of having been cooked, and has an offensive smell; it then proceeds along the roots, and the tree soon shows withered leaves, which drop off, leaving it bare; and by and by it falls over and lies on the ground. Its movements are uncertain; sometimes a tree here and there dies; sometimes a whole row, and very often acres are swept off. Many entire orchards of fine trees are killed in a few years. This fungus is never found in clay or other damp soils, but always in very friable lands. Professor Kirk, of Wellington, says it is <hi rend="italic">Lycoperdon gemmatum</hi> (Batsch), and that “tar water” is a certain cure. The last statement is assuredly an error, and I think the first is also. For a great many years I have endeavored in vain to procure the fruit of this fungus, using all the means that suggested themselves to me, without any success. I have seen large quantities of the <hi rend="italic">L. gemmatum</hi> growing in orchards where there is root fungus, and I have seen a very great many orchards, and watched several closely where hundreds of trees were attacked, and could never find the mycelium connected with the <hi rend="italic">Lycoperdon</hi>.”…. The pest is most plentiful on the skirts of the primeval forests, and on fern lands adjoining where no cultivation has ever been resorted to. Whole crops of potatoes are destroyed on such lands, and on dry land, where native tree stumps remain it is very prevalent. My own opinion is, that it is a fungus native to, and probably peculiar to New Zealand (In the North Island only). All my experiments with sulphur and lime have failed. Kerosene oil used in winter has alone been of any use, and that has been used pure in winter without killing the trees. The fungi of New Zealand are legion, and very destructive, but this is the worst, and particularly as it is confined to dry soils. Where I am now writing 500 trees have been killed within the last two years, and all remedies tried have failed. The apple scab, the shot hole fungus, the oidium of the vine are terrible pests in New Zealand, and the settlers have more to fear from fungus growths than insect pests.’</p>
+      <p>“As previously stated, the material received from New Zealand was, in the first instance, referred to <hi rend="italic">Dematophora</hi>
+      <hi rend="italic">necatrix</hi>. Further development of the fungus, and the receipt of additional fruiting specimens from the same country showed that this was a mistake, neither does the fungus belong to any known species. It will, therefore, be described as new, under the name <hi rend="italic">Rosellinia radiciperda</hi>…. During the period of this investigation a parcel of New Zealand fungi, collected and communicated by the Rev. W. Colenso, F.R.S. was received at Kew, and amongst the number was a species of <hi rend="italic">Rosellinia</hi>, marked ‘at the base of a fallen and decayed apple tree.’ Careful examination of this specimen revealed the presence of sclerotia bearing conidia identical with those of the fungus under consideration, mixed with the perithecia or ascigerous condition of Colenso’s specimen (figs. 1–6) and, further, it appears that the perithecia originate from the sclerotia, which previously bear the conidial form of reproduction.</p>
+      <p>
+      <hi rend="smallcaps">preventive measures</hi>.</p>
+      <p>“Notwithstanding the fact that the New Zealand fungus proves to be distinct from the European root fungus, yet the general habit, mode of attack, and structure of the two are so similar that the same methods of combatting the disease will apply to both. The most frequent and rapid mode of spreading is by means of the mycelium travelling in the soil, and a good method of isolating diseased patches is to cut a narrow trench, from nine inches to a foot deep round such, care being taken to throw the excavated soil into the diseased portion and not outside of it. This method, which was first suggested by Hartig, for the purpose of preventing the spread of subterranean fungi in the German forests, cannot be too strongly commended. The amount of success depends entirely on the thoroughness, combined with an intelligent mode of carrying out the work; half attempts invariably result in a loss of capital without benefit. It may be enough to suggest that the disease may be spread by the spores of the fungus, or infected soil being carried by the shoes of laborers, by dirty tools, wheels of carts, animals, &amp;c., from diseased centres. Diseased and fallen trees, and especially stumps and roots, should be at once destroyed by burning. The soil surrounding diseased stumps should be burned after the stumps have been removed, so as to destroy the smaller diseased portions of the root that remained behind. A second preventive method, which has proved of service in France, is to lay bare the trunk as far below the surface of the soil as can be done without injury to the tree, and to densely coat the exposed trunk and adjoining soil with powdered sulphur. This should be repeated when the channel round the trunk becomes filled up with earth. Stagnant water should not be allowed to remain in the soil, as this favors the spread of the the fungus.” </p>
+      <p>Believing that the importance of this communication will make amends for its length,—I am, &amp;c., </p>
+      <p>
+        <hi rend="smallcaps">W. Colenso. </hi>
+      </p>
+      <p>P.S. The plate containing drawings and dissections of this plant will be exhibited in Mr J.W. Craig’s window for a week.—W.C.</p>
+      <p> Napier, March 21st, 1896.</p>
+    </body>
+  </text>
+</TEI>

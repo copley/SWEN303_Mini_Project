@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0040">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1861 Open column. Hawke’s Bay Herald 23 February.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1861-02-23">1861 February 23</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1861 Open column.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 23 February.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,— Permit me, in a few words, to supply an omission in your report of Provincial Council proceedings in the last “Hawke’s Bay Herald.” Especially as without it your report has a very different aspect. Under the head of “ Schools,” (<hi rend="italic">Estimates</hi>, February 13,) you state that, (in opposing the application for a grant of public money towards the support of a school for Maories in the Pa Whakaairo,) I said,— “Bishop Selwyn had obtained a grant of 5000 acres in this district for the education of the natives, and he (Mr. Colenso) saw in a blue book before him that the Rev. Samuel Williams had received £1300 of public money within three years for the same purpose.” </p>
+         <p>What I really said was—First, I called the attention of the Council to a motion made by the Superintendent in our last session,* and passed unanimously, with reference to this very item of expenditure—Schools: viz., that to ease the increasingly heavy expenditure under this head we should apply for full powers to deal with our town “Educational Reserves;” and, that as we had then determined such to be fair with regard to them, such a rule would be equally fair as to the larger ones. That ample provision had long ago been made by Sir George Grey for the education of the young natives of this district, in a grant of upwards of 5000 acres of land at Te Aute; in addition to which was the annual grant by the General Assembly of £7000—a portion of which also fell to this district, as appeared from a blue book then on the table, which shewed in the three years, ’54, ’55, and ’56, (no later being in our possession,) the sum of £990† to have been granted to the Rev. S. Williams solely for Te Aute school. That the ministers of the different Christian denominations ever wished to have the teaching of the children of their respective churches: that the Maories of the Pa Whakaairo were professedly of the Church of England, and that the parents of many of the children were also communicants in that church: and that a chief aim of the Bishop of New Zealand had ever been, the better to educate the Maori children, to remove them from the daily horrors of a Maori pah. That, while I wished to see all Maori children taught English, &amp;c,—in this Council granting the aid sought, would be giving the public money to a purpose already amply provided for; and also doing that which would go a great way towards defeating one of the principal objects which the promoters of Maori education had ever in view—namely, the removal of the children from the pahs; and that, further, in granting the application, we might quite expect similar ones to be made from every pah in the Province, &amp;c, &amp;c. </p>
+         <p>		I am, yours &amp;c.,</p>
+         <p>
+            <hi rend="smallcaps">		Wm</hi>. COLENSO. </p>
+         <p>Napier, Feb. 20, 1860. </p>
+         <p>* Vide “Hawke’s Bay Herald,” March 10, 1860. </p>
+         <p>† £1,030 was mentioned by me—looking at the sum total, including balance. </p>
+      </body>
+   </text>
+</TEI>

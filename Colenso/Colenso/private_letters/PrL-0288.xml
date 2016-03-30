@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0288">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1875 May 5: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1875-05-05">1875 May 5</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1875 May 5: to Luff<note xml:id="ftn2-216" place="foot" n="216"> ATL MS-Copy-Micro-0485-4.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier N. Zealand<lb/>May 5, 1875.</p>
+         <p>My Dear Sir</p>
+         <p>According to my calculation it is 3 little months this day since you left N.Z.—and, as I always add that time for a Ship to make her fair home voyage in,—I do hope that you and yours are now safe on English ground—with thankful hearts and in good health.—</p>
+         <p>We have this day in our Papers a telm. of the arrival at home of the “Merope” (I would it were the “Waikato”) but I don’t know when she left Lyttleton—any how she had a good passage—April 27.</p>
+         <p>My last to you was on the 10<hi rend="sup ">th</hi> March, when I also swent 8 papers: and papers by last month’s Mail but no letter: I was then too busy, &amp; not well. </p>
+         <p>I have heaps of things to tell you of—if I could see you—but I must pick and cull for a letter.—First then, of the sad mortality, which has been too common here ever since Jany. 1<hi rend="sup ">st</hi>. As I told you in my last, it was mostly young children at the beginning, but for the last month or so it has been young men &amp; women,—healthy, strong, apparently—and youths—&amp; children too. The no. of deaths is largely in excess of the births: I will just note a few whom you know:—</p>
+         <p>Mrs Orr (young Orr’s wife)</p>
+         <p>Tim Sullivan</p>
+         <p>Young Northe</p>
+         <p>Young Lingard</p>
+         <p>Young Garry (3<hi rend="sup ">rd</hi> son)</p>
+         <p>Young Webb (<hi rend="italic">eldest</hi> of H.E.W’s.)</p>
+         <p>Young Jacob: a clerk in the N. Bank.</p>
+         <p>A young man at Dolbel’s, whom he brought out!</p>
+         <p>Minnie Parker!</p>
+         <p>Miss Firth (F’s. niece, 7 months out)</p>
+         <p>&amp;        Several young Immigrants, newly arrived.</p>
+         <p>Edmund Sutton (Watt’s) was all but gone—but is now convalescent. At P.D’s. there are 7 down <hi rend="italic">now </hi>with severe illness—&amp; P.D. and his Brother shadows! just worn out: it is feared his niece must also succumb.—</p>
+         <p>The disorder appears to be a kind of low fever,—which begins insidiously, &amp; in a few days all is over! It is common every where—inland—S. at Wellington and <hi rend="italic">all</hi> the S. Provinces, &amp; just as fatal: also in Melbourne, where, too, the deaths exceed the births.—</p>
+         <p>Our med. men are nearly worn out; charitable aid—for sick, suffering, families (Immigrants) deprived of fathers, &amp;c &amp;c—much called for,—&amp; a good response made.<note xml:id="ftn2-217" place="foot" n="217"> Typhoid was especially prevalent in fast-growing towns, where cesspits often leaked into water supplies. Infants and young children were especially vulnerable. Registered typhoid deaths in New Zealand peaked at 323 in 1875 (<ptr target="http://www.teara.govt.nz/en/epidemics/3"/>). Measles and scarlet fever were also epidemic in that year.</note>
+         </p>
+         <p>W.W. Yates’ son, <hi rend="italic">nearly</hi> gone; is now recovering slowly—his nephew is in danger:—I never knew of such a time here, &amp; never expected to see such; it has tended (as you may suppose) to put a gloom over every thing.—I have often thought it is <hi rend="italic">well</hi>, perhaps, that your family are away from it.—</p>
+         <p>It is 2 months this day since Willie left—&amp; I hope he &amp; his ship are about the Equator—all well.</p>
+         <p>
+            <hi rend="italic">Second, Political</hi>: This day at noon I stood (once more) on the hustings (Odd Fellows’ Hall—<hi rend="italic">this time</hi>) for City West.—see the Papers I send: polling comes off next week: I <hi rend="italic">may</hi>, or may <hi rend="italic">not</hi>, be returned: Lee is my opponent, and has had it all to himself while I was absent (3 wks.) School Inspecting; L. has been working hard: I have done <hi rend="italic">nothing</hi> (the <hi rend="italic">old way</hi>!) but may be returned: I don’t care very much about it. I think I may be also nomd. for Suburban South (J.A. Smith, &amp; T.K. Newton are out on this—my <hi rend="italic">own</hi>
+            <hi rend="italic">proper</hi> District, in which (alone of Napier I am a registered elector);—but as the polling is on the day after that of City West, if I am returned for that, I shall decline (of course) on this. Orr (Senior) Buchanan &amp; Bennett (Puketapu) are fighting for Clive (A. Russell having retired); it is thought Bennett will get in: W. Russell &amp; Maney will be retd. for Nap. Country—Tiffen (who had but a poor chance having that day retired) having this day been brought forward suddenly against R. Stuart (Mayor) for N. Suburban: Sutton &amp; <hi rend="italic">Lyndon</hi> (!) <hi rend="italic">are returned </hi>for City East!!—L. without even appearing!!! S.Johnston has also been returned for Waipukurau. A. Deane is out for Ruataniwha: Laurence in his place) for Te Aute (here the Hanings are going to oppose), J. Herrick for Hampden. Canning is returned for Porangahau: Ormond standing for Hastings: Tanner for Havelock: Kinross &amp; Lascelles for Port (a fight)! Towgood for Petane: <hi rend="italic">P.D. </hi>for Mohaka (to be opposed by Cabel;—J.Burton &amp; Carter to fight for Wairoa.—I, <hi rend="underline italic">alone</hi>, have had a jolly lot of abuse in the D.T.,—some unknown friends have been writing a little in my defence in the “Herald”: I was <hi rend="italic">away</hi>: Inspecting Schools, Lecturing, and—, well, <hi rend="italic">you </hi>shall hear:—anon.—</p>
+         <p>I rode in one day from Porangahau to Waipukurau—and in another day rode back: &amp; was not I tired!! I have been also to Danneverke, &amp; on to Tamaki Hotel, <hi rend="italic">walking</hi>—&amp; then walking back in pain to Railway Hotel—&amp; was not I tired! In riding to Ongaonga (Herrick’s &amp; beyond to a new school) I was thrown—or rather horse fell a plunging fall, as if shot, on Bridge’s run,—I over its head, a complete somerset! flat on my back, &amp; not so much hurt from the fall, but the beast, in rising, trod on me twice (stomach I think): Rev. Mr. Eccles was w. me: we both thought all was over—the agony was so great, I suffered much from pain—but <hi rend="italic">no serious injury</hi>! I rode however in pure misery that day, over 30 miles (<hi rend="italic">obliged</hi> to do it), up to Hebison’s—then back to Newman’s, then to Hampden—late cold &amp; weary—to bed there.—I got back here to rest a while on Saturday 1<hi rend="sup ">st</hi>. I am thinking <hi rend="italic">seriously</hi> of resigning my office—have spoken to O. about it, but he won’t listen to it—but I believe it will be nevertheless. And now I have not told you the half of my misery,—for all the while I was absent I was ½ mad with Neuralgia (Rheumatism in ear, temple, &amp; jaw, &amp; there only <hi rend="italic">all the time</hi>,)—which began a week before I went inland, &amp; still continues—I had but <hi rend="italic">one</hi> night’s sound sleep all the 3 weeks I was absent: Oh! it was misery, misery, day &amp; night, and no relief.<note xml:id="ftn2-218" place="foot" n="218"> A good description of tic doloureux (trigeminal neuralgia).</note>— While at Waipukurau, on a Sunday evening, Mr White was to preach, &amp;c.—I went, vii. passed; Congregation uneasy, when one of the “Elders” came to me &amp; asked <hi rend="italic">me</hi> to take the Service: I said, wait a little longer; well, I did so, he (a Mr Palmer—as I found <hi rend="italic">afterwards</hi>) selecting 2 Hymns,—and I acting “in a Family kind of way”—but a more attentive Congregation I never addressed. Certainly I was taken by surprise:—after just 23 years of silence! <hi rend="smallcaps">God</hi> be praised: <hi rend="italic">you </hi>
+            <hi rend="underline italic">may</hi>
+            <hi rend="italic"> guess</hi> my thoughts &amp; feelings. During that week I gave a Lecture (while lame after my fall), to buy the Scholarship prizes—an attentive audience.—</p>
+         <p>Mr H.R.R. sent me his letter calling on me to join in fencing “60 Chains” at Hampden! I suppose I must do so. Mr R. &amp; Sheehan always together. Have not sold any more land yet. “Richmond Park,” Lloyds; that was Gill’s) is to be sold tomorrow—I send a plan. Subn. Sn. Scinde Island no.23 was cut up &amp; sold yesterday—bringing fair prices (see Paper). Knights property is <hi rend="italic">all</hi> taken by Sheriff Tylee, suit of his quondam friend Schiller! Bridge over gorge, Manawatu, finished. Sir D. McL., K.M.G., &amp;c &amp;c. is here, &amp; has been here at Maraek.—, some 12 days tomorrow; I believe, he appears in Town.</p>
+         <p>My 2 old Servants cleared away—taking,—well, <hi rend="italic">what they pleased</hi>, with them; they gutted the kitchen; coolly saying, I had nothing! but I did not find this out till 2 days after—when I went to town to see Scully about it,—but gave it up (on 2<hi rend="sup ">nd</hi>. thoughts there) as I could not—or would not—swear to any thing: but it was <hi rend="italic">flagrant</hi>; &amp;, indeed, served me right. What made me feel it the worse was—that (first) I gave W. on leaving, 2 sovereigns to give them (as from him) one each; &amp; when they left, I gave the fellow, for his wife, ₤3. <hi rend="italic">extra</hi> on account of any little jobs (sewing) she might have done for me. They also took away the fowls—saying, “they had bought the eggs &amp; had reared them”!! I have 2 good <hi rend="italic">quiet honest </hi>servants now—members of Redstone’s Church—from Clive;—and we are <hi rend="underline italic">very quiet</hi>: had <hi rend="italic">lots</hi> of applications for the place.</p>
+         <p>Well, now I must close: Pratt has given up his business; Wood is married to Mrs Gowing: Joe Rhodes is also gone home. A. Deane goes next year:—Shall I follow?</p>
+         <p>Hoping you are well—&amp; wishing you the best of all good: Believe me, Yours truly.</p>
+         <p>W. Colenso</p>
+         <p>Friday May 7th.—3 more deaths this day</p>
+         <p>W. Smith’s son <hi rend="italic">Frank—</hi>Swan’s son; and a fine young Scandinavian woman—this last in hospital. Smith has 2 more down. N. Williams <hi rend="italic">2</hi>. Newton’s eldest son is <hi rend="italic">very ill. </hi>It is <hi rend="italic">a sad time. </hi>Saw Mr. Sidey today: he is well—we talked <hi rend="underline italic">feelingly</hi> of you. Kinross is returned for Port. Burton surveyor for Wairoa. A. Deane for Ruataniwha.</p>
+         <p>Capt. Newman’s daughter married to manager U. Bk. Mr<hi rend="underline">s</hi> Tiffen upset travelling at Taupo, &amp; <hi rend="italic">much</hi> bruised: a new bank erecting next to Abraham’s—where Sim lived. Shareholders got rid of Grammar School—Mr Irvine has taken it.</p>
+      </body>
+   </text>
+</TEI>

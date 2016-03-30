@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0001">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1868 September 28: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1006844</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1868-09-28">1868 September 28</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1868 September 28 McLean to Colenso (#1006844) </p>
+		</front>
+		<body>
+			<p>Wellington 28 Sept. 68 </p>
+			<p>My dear Sir </p>
+			<p>I am in receipt of yours of the 14th. in reference to the printing of the Essay on the Maories. </p>
+			<p>I will do what I can in the matter, it ought to be printed at the Govt. Press. Everything of interest respecting the race should be preserved and circulated among those who take an interest in such subjects. </p>
+			<p>I will get a Crusoe to take down with me as I am not sure whether I have one at home. </p>
+			<p>You see I have been having a fight the Govt. on Defence and native matters, both are lamentably conducted, facts have come under my notice respecting the conduct of these officers of which I was quite unconscious until lately and which I refrain from making use of in the present state of the country. </p>
+			<p>The treatment of Hawkes Bay opened my eyes to the danger of allowing such men to go on unchecked. I think the Rarawa native will only get a short sentence. </p>
+			<p>Excuse this hasty epistle. </p>
+			<p>Yours very truly </p>
+			<p>Donald McLean </p>
+			<p>If I can do anything for you Wellington let me know. </p>
+			<!--* Tawake, a man of Te Rarawa iwi, was being tried for murder. -->
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0016">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1862 December 23: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1002189</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>Encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1862-12-23">1862 December 23</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1862 December 23 McLean to Colenso (#1002189) </p>
+		</front>
+		<body>
+			<p>Napier Decr. 23rd. 1862. </p>
+			<p>Dear Sir </p>
+			<p>In reply to your letter of the 11th ult. enclosing extracts of Bishop Williams’ communication to the Govt. respecting Waitangi. </p>
+			<p>I have to state that I know nothing whatever of the circumstances referred to in the latter paragraph of his Lordship’s comm. as I do not remember that I had any conversation with you at the time about Waitangi. </p>
+			<p>Respecting the raupo cottage in which you were living after your house was burnt I can only say that it was a well constructed substantial native building, well floored, and the interior was neatly lined with kakaho and altogether the best cottage of the description then in the district. </p>
+			<p>I remain </p>
+			<p>My dear Sir </p>
+			<p>Your very truly </p>
+			<p>Donald McLean. </p>
+		</body>
+	</text>
+</TEI>

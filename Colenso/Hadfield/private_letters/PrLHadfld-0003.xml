@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0003">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Undated enclosure, Octavius to Octavia Hadfield</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 8)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 20.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="-----">Undated</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key=" http://wtap.vuw.ac.nz/eats/entity/70767/">Octavia Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Undated enclosure, Octavius to Octavia Hadfield
+         </p>
+      </front>
+      <body>
+      <p>My dearest Octavia,</p>   
+         <p>It gave me great pleasure to see a few lines from you in my mother’s letter, as tho’ I have never forgotten you it recalled you more particularly to my recollection.  I am sorry you should have thought the stormy weather [page repeated – I think during corrections] should have hurt me but I am always lucky you must remember in future, for when I came out no sailor on board had ever experienced such a delightful passage and every vessel that has arrived has had bad weather.  I should like to have you out here sometimes when I see anything that is very pretty.  I amuse myself sometimes looking for flowers, but tho’ everything <hi rend="underline">will</hi> grow here there are very few wild flowers.  If I can find any that I think you have not got I will try and bring them.  I have only a few minutes to write in as the <hi rend="underline">Ellen</hi> is going to sail directly but I could not let an opportunity escape me as you are all so very kind as to feel pleasure in hearing from me.  I look forward to the time when we may meet again.  Tell my mother in answer to her question that Mrs. Iven’s name is Mary Ann.  They all <supplied>[wish]</supplied> to be remembered.  And now my dear Octavia you must give my love and a big kiss to them all round for me, and </p>   
+         <p>believe me, ever your</p>   
+         <p>most affect. Brother,</p>   
+         <p>O.H. 
+</p>
+      </body>
+   </text>
+</TEI>

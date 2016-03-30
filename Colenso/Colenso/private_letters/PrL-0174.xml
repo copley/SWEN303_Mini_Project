@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0174">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1864 October 4: to Hector</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Museum of New Zealand Te Papa Tongarewa MU000198/001/0033</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">Hector</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1864-10-04">1864 October 4</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1864 October 4: to Hector<note xml:id="ftn2-88" place="foot" n="88"> Museum of New Zealand Te Papa Tongarewa MU000198/001/0033</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, October 4<lb/>1864</p>
+         <p>Dear Dr. Hector,</p>
+         <p>A month ago I wrote both to you and to Mr. W. Mason, and I have recently heard from Mr. Mason that you were in the Country: Mr. Mason’s note is quite satisfactory: I thank him for it, and fully intend to send you a few articles in December.—</p>
+         <p>I now write, (as a hearty well-wisher to your Exhibition,) just to ask, If you have, at Otago, a copy of the Flora Nov. Zeland. of Dr. Hooker, 2 vols. 4to, which you could place in your Exhibition: as, if you <hi rend="italic">have not</hi> and would <hi rend="italic">like</hi> to have the loan of one, I would gladly send you my copy, which has colored plates:—or, if preferred, the whole Flora Antarctica, 6 vols. I think you should have a copy in the Exhibition, as it is the only <hi rend="italic">British </hi>scientific work (of any size) on the natural productions of <hi rend="italic">our</hi> Native—or adopted—Country. Let me hear from you. The essay I hope to send by next Mail.</p>
+         <p>     I am</p>
+         <p>             My dear Sir</p>
+         <p>                     Yours truly</p>
+         <p>                             Wm. Colenso.</p>
+         <p>I could also send you Owen on <hi rend="italic">Moa</hi> &amp; Apteryx if required. W.C.</p>
+      </body>
+   </text>
+</TEI>

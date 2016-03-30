@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0612">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1885 November 1: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1885-11-01">1885 November 1</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1885 November 1: to Balfour<note xml:id="ftn3-327" place="foot" n="327"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">NORSEWOOD<lb/>(40 M. BUSH)<lb/>Sunday Night 1/11/85</p>
+         <p>Mr D.P. Balfour</p>
+         <p>My dear Sir</p>
+         <p>Your kind letter of Oct 25th has found me out here in my re­treat,—and I suppose I had better reply hence, as I shall not have time to do so on my return.</p>
+         <p>You wrote as though I was still in town, though I have an impression in my mind that I had fully informed you of my coming in this direc­tion and the cause thereof. I came here on Friday 23rd &amp; purpose leaving on Wednesday next, stopping 1 night at Waipawa on business.­</p>
+         <p>I came here <hi rend="italic">seeking health</hi>—or, in other words to get rid of an unplea­sant cough which has stuck to me all through the winter &amp; spring, on some nights pretty severe. I have taken lots of medicine, mostly to al­leviate it, but with little benefit. I knew well, that change of air to this woodland &amp; high situation would prove beneficial, &amp; <hi rend="italic">so it has.</hi> I would I could stay here longer, but <hi rend="italic">duty</hi> calls.­</p>
+         <p>Now to your letter.—it is a <hi rend="italic">good</hi> thing you did <hi rend="italic">not</hi> call at my house when last in town, for (if I read your letter aright) I had left Napier on that Friday.</p>
+         <p>I feel much interested in your description &amp; story anent your curious mouse, (very far from deeming it a rigmarole). By all means <hi rend="italic">keep</hi> it <hi rend="italic">long I hope</hi> to amuse the family, and to accustom the little ones to the clo­ser observations of Nature and her works. Should it die, then put it into spirits, or send quickly to me,—as we have a black one already from the Bush (sent two years ago by Mrs Crosse).</p>
+         <p>Please send me some of your Corysanthes—in damp (not very wet) moss. Here, I find the other &amp; closely allied spn has already flowered! The seeds of <hi rend="italic">C. Sturmii</hi> I will send by &amp; by. I fear the Nikau seeds were not quite ripe; I have had the same complaint respecting them from Kew &amp; other places.</p>
+         <p>Hope P.D. is alright, &amp; that he will be back to us before long. And now kind regards. Believe me to be</p>
+         <p>Yours truly  W. Colenso.</p>
+         <p>P.S. I never before saw the Bush so dry, piteously dry; the very ferns &amp; Mosses looking miserable, shrivelled &amp;c. and with little water in the rivers and none in many creeks where formerly such abounded.</p>
+         <p>P.S. (2nd) I enclose spn of an elegant fern, (originally discovered by me more than forty years ago on the shores of Waikare lake). I was pleased to see it <hi rend="italic">here.</hi> See in your Hd Bk <hi rend="italic">Hymenophyllum æruginosum</hi> (ac­cording to Hooker). Some Botanists however hold with me, that it is <hi rend="italic">dis­tinct</hi>; the stellate hairs &amp;c are a pretty object under good lens.</p>
+      </body>
+   </text>
+</TEI>

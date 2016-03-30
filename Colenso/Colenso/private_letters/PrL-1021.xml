@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1021">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1897 November 16: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0499.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1897-11-16">1897 November 16</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1897 November 16: to Harding<note xml:id="ftn3-864" place="foot" n="864"> ATL qMS-0499.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>Novr. 16<hi rend="sup ">th</hi> 1897<lb/>(night)</p>
+         <p>Dear Mr Harding</p>
+         <p>I have just been reading your long letter of 14<hi rend="sup ">th</hi>—received this mg. and am sorry to find you so “hard-up” (just now) &amp; I determd. to send you a ₤10. n. tomorrow: but, prudence dictated—“<hi rend="italic">first</hi> look at Bkg. a/c”. &amp; so I am <hi rend="italic">obliged </hi>to cut it down to ₤5.—which I shall get &amp; enclose.—I have some <hi rend="italic">heavy </hi>(for me) payments to make <hi rend="italic">at once</hi>, or nearly so, <hi rend="italic">Tax Commissr., and </hi>another horrid Bank “<hi rend="italic">Call</hi>” prominent among them, &amp; no chance (I fear) of my obtaining any money until well on in Jany.—–</p>
+         <p>You tell me of my <hi rend="italic">last </hi>to you from Waipukurau! How time flies: and I had thought I had since written to you. I am pleased in knowing you were so likely to get on well in your <hi rend="italic">new office</hi> (not work), which I had also expected: yet sorry to find you <hi rend="italic">obliged </hi>to be working <hi rend="italic">so hard</hi>—this I hope will very soon be altered. I am also <hi rend="italic">much pleased </hi>in your deciding to cease working for the Prim. Meth.—You, w. your long hours &amp; incessant brain-work in pg. off. will <hi rend="italic">need </hi>your “Sabbath” rest, and again I will say—<hi rend="underline italic">see you get it</hi>: as that <hi rend="italic">kind </hi>of break-down “ or -up (should it occur) will do so without warning.—–</p>
+         <p>I fancied—that your letter, tho’ long, was not quite a reply to mine, but then my memory <hi rend="italic">now </hi>is treacherous, and I have <hi rend="italic">not the slightest recollection </hi>of what I did write in my L. to you from W—–u.</p>
+         <p>I thank you for your informn. <hi rend="italic">re </hi>the ordination of J.M.—I am rather <hi rend="italic">pleased </hi>w. this: it confirms me in the high opinion I had formed of him from the tenor of his notes. Your <hi rend="italic">full account</hi> of proceedings at Philosophl. has interested me. I recd. a letter from Sir J.H., a few days ago, in reply to mine w. specimen of a <hi rend="italic">red hematite</hi>: it was very kindly written.—</p>
+         <p>Now, self: Bp. Wms. returned to N. on 4<hi rend="sup">th</hi>.,—I could not get down to see him: caught a cold in returning to Napier on Monday 1<hi rend="sup">st</hi>., w. others, so I wrote a note: on Monday 8<hi rend="sup">th</hi>. I called on him: found him well, &amp; stouter—in face, &amp; very pleasant. On my way back Canon St. H. &amp; Fielder got me, &amp; told me, that I was appd. by Committee to <hi rend="italic">open </hi>the Ball! <hi rend="italic">i.e. </hi>to <hi rend="italic">welcome </hi>Bp. on Friday night (10<hi rend="sup">th</hi>) viii. o’clock at “Athenm. <hi rend="italic">Hall</hi>” (formerly “<hi rend="italic">Museum</hi>”) so I went, in trap from door as usual, &amp; did my best: on platform—Bp., Dean Jordon (Tauranga) W.C., &amp; Tanner: Room <hi rend="italic">crowded</hi>: past x. when over. What I sd. was <hi rend="italic">well recd.</hi> (though, perhaps peculiar) but <hi rend="underline italic">badly</hi>
+            <hi rend="italic"> abbd. </hi>in “Herald”,—so did not send you a copy. On Sy. at Cathedl., mg. &amp; evg.; yesterday at Synod, iv–vi. p.m: <hi rend="italic">ditto this day</hi> (I <hi rend="italic">don’t </hi>go to <hi rend="italic">night </hi>sittings.) This day I spoke in support of Hobbs’ motion— “Ch. to have <hi rend="italic">nothing </hi>to do w. gambling in any shape or form—<hi rend="italic">not</hi> w. Licenses for art. unions, &amp;c”—W.C. <hi rend="underline italic">adding</hi>: “nor Bazaars, &amp;c.” And I gave 2 notices of Motions tomorrow— “to set aside <hi rend="italic">maledictory </hi>Psalms, &amp; take other—when they occur”: and, “to <hi rend="italic">change Lesson</hi>, at times, for chap. preceding, <hi rend="underline italic">or</hi> following.”</p>
+         <p>I am pretty well: <hi rend="italic">legs still weak</hi>, arm too, (elbow joint) often painful, but old man is “<hi rend="italic">cheery</hi>”.—–</p>
+         <p>         Kindest regards to <hi rend="italic">you &amp; yours—</hi>
+            <hi rend="underline italic">all</hi>.</p>
+         <p>                         Yours ever</p>
+         <p>                                                         W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

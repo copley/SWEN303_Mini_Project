@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0224">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Auctioneers: Hawke's Bay Herald 31 August 1899</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <date when="1899-08-31">1899 August 31</date>
+          <publisher>
+            <name type="organisation">Hawke's Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold italic">Auctioneers: Hawke's Bay Herald 31 August 1899</hi>
+      </p>
+    </front>
+    <body>
+      <p rend="justify">C. B. Hoadley &amp; Co.’s sales. Preliminary notice. Important sale of Napier Hill building sites. C. B. Hoadley &amp; Co. have received instructions from R. L. Colenso, Esq., to offer for sale by Public Auction, early in October, ALL THAT MAGNIFICENT HILL PROPERTY, Formerly the Residentiul Estate of the late Rev. W. Colenso. This Property is something over 30 acres in extent, and will be subdivided into suitable-sized Building Allotments, commanding most beautiful land and seascape views.</p>
+    </body>
+  </text>
+</TEI>

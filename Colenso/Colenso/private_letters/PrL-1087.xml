@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1087">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1889 November 23 to the Colonial Secretary</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Archives New Zealand</p>   
+         <p>(National Archives, Wellington, Record No. 1889/3518)</p>
+         <p>Transcription by Ian St George</p>
+            <p>encoded into TEI by Melissa Bryant, 21.10.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1889-11-23">1889 November 23</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/72672/">the Colonial Secretary</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1889 November 23 to the Colonial Secretary (National Archives, Wellington, Record No. 1889/3518)
+         </p>
+      </front>
+      <body>
+      <p>
+Napier</p>
+<p>Novr. 23rd., 1889.</p>
+<p>Sir</p>
+<p>I have the honour to acknowledge the receipt of your letter of the 28th ultimo, (which was duly received by me at Dannevirke,) respecting the “Government printing my résumé of what happened at the Meeting for Signing the Treaty of Waitangi, with interesting, historical and political appendices thereto.” I should, perhaps, have done this before, but as it was only an affirmative reply to mine of the 17th. ultimo,—and as I wished to send you some copy for Press with it, I refrained till I was able to do so. I now send you the first instalment of copy of the same for the Government Printer.</p>
+<p>This copy for press is about 2/3rds. of the whole, and the remainder shall be forwarded when ready: I hope to be able to do so by the 1st. proxo.</p>
+<p>On receiving your letter I returned quickly to Napier, and commenced working closely at the said Mss.—as I saw that no time was to be lost, so that the little book might be quite ready and issued in time for the approaching Jubilee Season. And I am happy to say, that through shutting myself up, And by dint of working early and late, and good health,—I am advanced beyond my highest expectations.</p>
+<p>I trust the Government will publish all the various articles of the Appendices; many of them are truly historical reflecting their times, and also curious and interesting, and I believe very rare if not unique.</p>
+<p>I have also drawn a small (key) Map of that part of the Bay of Islands containing those spots so prominently mentioned in various parts of the book, which, I think, will prove of service: I hope the Government will also publish it. Its general outlines and positions are quite correct.</p>
+<p>I enclose, also, 3 views of places in the Bay mentioned in the Mss., all taken by myself at an early period; which would further serve to illustrate and make still more popular the work, if the Government should approve of there being published with it.</p>
+<p>I have the honour to be, </p>
+<p>Sir,</p>
+<p>Yr. mo. ob. servt.</p>
+<p>Wm. Colenso.</p>
+<p>To</p>
+<p>The Colonial Secretary,</p>
+<p>Wellington.
+</p>
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0342">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1877 August 15: to Hector</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Museum of New Zealand—Te Papa Tongarewa MU000094/003/0265</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">Hector</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1877-08-15">1877 August 15</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1877 August 15: to Hector<note xml:id="ftn2-290" place="foot" n="290"> Museum of New Zealand—Te Papa Tongarewa MU000094/003/0265</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier,<lb/>August 15, 1877.</p>
+         <p>Dear Dr. Hector,</p>
+         <p>Taking you at your word I send you herewith enclosed 2 Papers,—(1. “On the day on which Cook took formal possession of N.Z.”, —2. “Notes on the metamorphosis and development of <hi rend="italic">Danais berenice</hi>, or an allied species,”)—which I read at our meeting on Monday night last. Dr Buller was present, and I have seen him twice, since, <hi rend="italic">here</hi>,—&amp; it is mainly through him that I venture to send you the <hi rend="italic">scrap</hi> drawing appended to Paper no. 2; you will see it has been taken off my pile of scraps.—And Dr. Buller has also one of the perfect insects I raised.</p>
+         <p>If I mistake not, Paper No. 1, will interest you much: I should be glad to have <hi rend="italic">your </hi>opinion on it. Perhaps you may get it read at one of your meetings during the “Session”,—on account of its historical &amp; political import. I think the Governmt. will (or <hi rend="italic">should</hi>) take it up:—if they don’t some others will.</p>
+         <p>Many thanks for the <hi rend="italic">full</hi> number of vols. For our members: you have, in this, “done us a <hi rend="italic">power</hi> of good”!!</p>
+         <p>Buller will tell you of our <hi rend="italic">first</hi> meeting. You may see we are not <hi rend="italic">aided</hi> by our newspapers. However we have made a beginning!</p>
+         <p>Find time to let me know <hi rend="italic">positively</hi>, that if I write out (for the <hi rend="italic">3</hi>
+            <hi rend="sup italic">rd</hi> time,) those <hi rend="italic">notes</hi> belonging to the Essay on the Maoris you will get them printed in next vol. of Trans. I have had Locke, John White, Spencer, Weber, &amp; several others on me, requesting me to get them out. I will re-write them, &amp; read them at one of our meetings, if you will promise, as above, (also, not <hi rend="italic">again</hi> to lose them!).                                                     ___</p>
+         <p>Can you help me in the following? If so, <hi rend="underline italic">do</hi>.</p>
+         <p>In “Queen Bee” I had a valuable case of Books (insured at Inv. Price, £44.)—nearly all scientific, from Continent &amp; from England; I had been some time in getting them together, &amp; in getting them bound:—&amp; now, I fear they are <hi rend="italic">gone</hi>!</p>
+         <p>I wanted the Botanl. portion for my new work on our Ferns, and I was awaiting their arrival with impatience.—It has occurred to me, that the case, being small, <hi rend="italic">may </hi>be among the salvage lot,—and, that, as it was lined w. zinc, the contents <hi rend="italic">may</hi> be uninjured. What I wish you to do for me, is to speak to some <hi rend="italic">influential Nelson </hi>man now among you,—or to scratch a line to some one at Nelson on whom you can depend,—&amp; so, if <hi rend="italic">as above</hi>, to buy the said case, or the Books (or a part* of them) for me.  I am writing briefly to Edwards &amp; Co. about it.</p>
+         <p>Hoping you are quite well</p>
+         <p>I am, my Dear Sir</p>
+         <p>Yours truly</p>
+         <p>W. Colenso</p>
+         <p>*which I could name, by let. or by telegram. W.C.</p>
+      </body>
+   </text>
+</TEI>

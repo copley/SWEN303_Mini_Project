@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0042">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1862 Open column. Hawke’s Bay Times 20 March.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1862-03-20">1862 March 20</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Times</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1862 Open column.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Times</hi>
+            <hi rend="bold"> 20 March.</hi>
+         </p>
+      </front>
+      <body>
+         <p>To <hi rend="smallcaps">Mr. James Parker</hi>, Chairman of the Public Meeting held on the Green, Napier, Saturday, March 15th, 1861.</p>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—When I attended the public meeting called by Messrs. Searles and Mullaney on Saturday evening last, I did so because (1) all the town members were by public advertisement requested to be present, anti (2) myself in particular had been invited by Mr. Mullaney; consequently, I supposed I had some right to be there.</p>
+         <p>When, upon putting the second resolution (calling upon the Superintendent immediately to expend the £637 <hi rend="italic">balance</hi> at the end of the year from the sum voted for harbour improvements), I stepped forward to say a few words in order to set right what was a grave error, and which I <hi rend="smallcaps">knew</hi> to be such from my office as Provincial Treasurer;—common courtesy should have sufficed to have obtained for me leave to speak, so as to give the explanation I had to give in the fullest manner. And, having so given it, common sense should have told you to pause ere you put such a resolution to the meeting and common sense should also have prompted the meeting not to carry it.</p>
+         <p>For, it cannot be denied, that a man in my public position does not often go forth voluntarily to utter untruths to a public meeting. If you believed that I spoke the truth, you should have shewn it by amending your second resolution.</p>
+         <p>And so, when Mr. Peter Searles charged the Superintendent (amongst other things,) with having given extra monies to a government officer—monies which had not been voted; and when he further stated that I <hi rend="italic">(William Colenso)</hi> had received the same for myself under the head of “contingencies” common decency and love of fair play should have urged you to demand for me a hearing, and you should not have listened to Mr. Peter Searles’ repeated statements, that “the town members were not there to speak,” and that “there was to be no debate on the matter.”</p>
+         <p>For, it cannot be denied, if facts—if the truth was what was wanted by the meeting such undoubtedly would have been the case.</p>
+         <p>However, sir, I will now repeat the statenients I made at the meeting:—1st. That there is no <hi rend="italic">(real)</hi> balance of £637 standing over from the sum voted for harbour improvements.” For, in addition to the sum of £5812 16s. 11d. (paid by me as Provincial Treasurer up to the 31st of Dec. last,), there is also the sum. of £792 14s. 9d, paid by me in January for <hi rend="italic">work &amp;c., on the Harbour Improvements during the three last months of </hi>1861. Of course you did not know this; but you ought to have known (from the December quarterly abstract lately published) that the Director of the Public Works had then £390 in hand, unaccounted for; and which it was to be presumed was also spent. And you knew (or ought to have known) that of this extra sum of £742 14s. 9d., Mr. M.Mullaney (who appeared not to relish my attempted explanation) himself received £352. 0s, 6d.</p>
+         <p>2nd. That the Superintendent did not give to me any such sum as £30 16s. over what had been voted (or, in fact, any sum at all). The sum total of £379 16s. (Treasury Department Expenditure) is made up as follows, viz.:—</p>
+         <p>To James Smith, for a press (had in 1860)					£27  0  0</p>
+         <p>To ditto, for shelves, &amp;c.				  		  			  4 10  0</p>
+         <p>To W. Miller, for a table (had in 1860)			  		  	  4  2  0</p>
+         <p>To F. Sutton for stamps and postages 					  	  1  5  8</p>
+         <p>To J. Wood, W. &amp; H. Yates, &amp; others, stationery		  	  2 18  4</p>
+         <p>To W. Ray, for copying documents for General Government	  <lb/>  3  0  0</p>
+         <p>To G. Griffiths, for fire-proof iron safe			  			  49  0  0</p>
+         <p>To P. Searles, for placing same			<hi rend="underline"> 	  0 10  0</hi>
+         </p>
+         <p>						 				 					  £92  6  0</p>
+         <p>To Mr. E. Lyndon, for acting in my absence at Auckland 60 14  4</p>
+         <p>To W. Colenso, as treasurer, from 1st Jan. to 31st Dec<hi rend="underline"> 226 15  8</hi>
+         </p>
+         <p>					  								  £379 16  0</p>
+         <p>So that, instead of my having received £30 16s. over and above what was voted, and in a smuggling, clandestine, (thievish) way, I have not only <hi rend="italic">not</hi> received what was voted but have fallen far short of the £300 salary, about which so much noise has been made. This, however, you would not now have known, had it not been as it were wrung from me through ungenerous treatment and unjust statements made at the Public Meeting on Saturday, evening last.</p>
+         <p>		I have the honour to be, Sir,</p>
+         <p>			Your very obedient Servant,</p>
+         <p>
+            <hi rend="smallcaps">				William Colenso, M.P.C.</hi>
+         </p>
+      </body>
+   </text>
+</TEI>

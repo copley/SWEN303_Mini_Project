@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0511">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1882 July 24: to Drummond</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/13.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73880/">Drummond</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1882-07-24">1882 July 24</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1882 July 24: to Drummond<note xml:id="ftn3-156" place="foot" n="156"> ATL 88-103-1/13.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Tuesday evng </p>
+         <p rend="end">July 24<hi rend="sup">th</hi> 1882</p>
+         <p>Mr John Drummond</p>
+         <p>Dear Sir</p>
+         <p>Yesterday I put up two papers for you which you will receive with this. At that time I did not think I should write to you by this mail—but I have been two days going over your <hi rend="italic">Earth</hi> Spiders,—and find there is not a single <hi rend="italic">male</hi> among the whole lot; and it is <hi rend="italic">necessary</hi> I should get one (if possible) <hi rend="italic">as more depends on the m than the f</hi>, in Description &amp;c, and so I have thought I would just write to you, as it was about <hi rend="italic">this</hi>
+            <hi rend="italic">time</hi> last year that I received those spiders from you.—I fear you may <hi rend="italic">not</hi> be able to aid me in this matter. I have been rea­ding a good deal of late (in various Scientific books) about Spiders, and got from England a work on <hi rend="italic">all</hi> the <hi rend="italic">British</hi> Spiders, but this does not help at all—there are so many thousands of species, and the foreign ones (especially those of the S. Hemis­phere) are so very Distinct.—One thing I find, that the male of the known trap-door spiders does <hi rend="italic">not</hi> dwell <hi rend="italic">inside</hi>, mostly <hi rend="italic">outside</hi>, under stones, logs, clods of earth, and even leaves, and he mostly runs about by night. There may be a big stone, or clod or turf, in that neighbourhood, and by turning it over you <hi rend="italic">may</hi> get him—or in a <hi rend="italic">dark</hi> hole in the ground.</p>
+         <p>A good deal has been written on the trap-door spiders of other Countries, and even their <hi rend="italic">doors</hi> have been divided up into lots—1 being like a cork, fitted<hi rend="sup"> </hi>to a <hi rend="italic">plug into</hi> the hole; 2 another kind to <hi rend="italic">fall down over</hi> it; 3 another kind is held down inside <hi rend="italic">firmly</hi> by the spider, and so on.­—</p>
+         <p>Perhaps you are busy—<hi rend="italic">so do not hurry an answer;</hi> take till end of next week or longer.­—</p>
+         <p>I hope this may find you all well; weather fine here but cold; a glorious show of snow on Ruahine this morning. I am pretty well. This Spider job (including my own) is a <hi rend="italic">tough</hi> one. With kind remembrances,</p>
+         <p>Bel. me, Yours truly         W.Colenso.</p>
+         <p>P.S. I should mention, that it has been supposed that the <hi rend="italic">male</hi> gent. fastens down the door from the outside;­—</p>
+         <p>It is however something <hi rend="italic">in the same direction,</hi> you finding so many (large &amp; small) in those holes or galler­ies, and not a single male among them.</p>
+         <p>W.C.</p>
+      </body>
+   </text>
+</TEI>

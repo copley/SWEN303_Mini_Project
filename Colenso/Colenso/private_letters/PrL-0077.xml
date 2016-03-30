@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0077">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1848 December 23: to Lieut. Govr. Eyre</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMs-0492.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/70244/">Waitangi</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/72439/">Lieut. Govr. Eyre</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1848-12-23">1848 December 23</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1848 December 23: to Lieut. Govr. Eyre<note xml:id="ftn1-98" place="foot" n="98">ATL qMs-0492.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">(Copy)                                      Church Mission Station,                 <lb/>Waitangi, Hawke’s Bay, Decr. 23/48.</p>
+         <p>Sir,</p>
+         <p>I have to acknowledge and thank you for your very kind and condescending letter of Novr. 7<hi rend="sup">th</hi>., with which you favored me by the Rev. Mr. Cole, on his visit to Wairarapa last month. I duly received it, late at night, on the 10<hi rend="sup">th</hi>. ult., and should have answered it long ago (as I feel convicted I ought to have done), but, believe me, Sir, I could not.—</p>
+         <p>—For, on the following day, the 11<hi rend="sup">th</hi>., I was closely engaged from sunrise till late, in examining and instructing Candidates for the Holy Communion; and, on the Sunday, on the various duties of that day; and, on the Monday morning Mr. Cole left on his return to Wellington. I had hoped to have gained a spare hour, or to have stolen one from sleep, in my journey up the valley, but, in this, too, I was disappointed—from my <hi rend="italic">daily</hi> travelling—the thronging of the Natives—and the extreme shortness of the nights.—</p>
+         <p>I said very little indeed—in fact, I may say, I cautiously abstained from speaking my own thoughts—to the Native Chiefs at Wairarapa, in passing through the valley, on the Land Question (although I did, in very strong terms, denounce the conduct of those who, in defiance of your Excellency’s late proclamation, were still seeking to let Lands to the Whites, they being urged thereto by the Whites themselves. <hi rend="bold">[2] </hi>At the same time, however, I endeavoured quietly to gather their own opinions upon the matter, which I found (as I told Messrs. Dillon Bell &amp; Kemp) to be quite opposed to the parting with the whole of their possessions.—</p>
+         <p>Your Excellency having been pleased to inform me of a Deputation having visited you from Wairarapa, offering on the part of the rest to sell a portion of that place, &amp;c.,—You will not, I venture to think, deem it obtrusive on my part if I acquaint you with what I heard, when at Wairarapa, as the Cause, &amp;c., of that movement.—</p>
+         <p>—Te Manihera te Kehu, a young Chief of inferior rank and of similar character, had <hi rend="italic">privately</hi> consented to let a piece of land at Tauẁarenikau to a Settler named Gillies, residing at Otaraia: this, he (alone) had no right to do. On the transaction being known, the anger of the Natives was greatly excited, and some of his own relations not only proposed but sought him to put him to death!—For they were quite tired with talking to him, and he had long been one of the principal peace-breakers of the valley. Upon his hearing this he fled precipitately across the Ruamahanga towards the Tararua range; upon which some of the more moderate of the Tribe proposed that as Manihera could not be reformed, the better way would be to go and offer that Tract of Country (including Tauẁarenikau) to the Government. This some few of the junior ones did, <hi rend="italic">forging the assent of some of the principal Chiefs of Wairarapa</hi>, who are largely concerned, among whom I <hi rend="bold">[3] </hi>may mention—Ngatuere, Ngairo, and Wiremu Kingi te Hiakai, who never so much as heard of the intention of the junior party much less assent to it. Great indeed was the stir among them, when, at the return of “the Deputation,” it became known. So that from what I <hi rend="italic">saw </hi>and <hi rend="italic">heard</hi>, I could not but conclude, that it would prove a difficult matter to get even the land offered to your Excellency by “the Deputation” from the <hi rend="underline italic">rightful</hi> owners.</p>
+         <p>I returned to this place on the night of the 18<hi rend="sup">th</hi>. instant,—a week behind my appointed time. Having been taken seriously ill when in the Patea District (beyond the Ruahine mountain chain), during which I was 3 days and 3 nights stretched on the ground in my tent, in extremity of suffering, with scarcely a hope of recovery. How I got home across the mountains I scarcely know. I am now very weak indeed; with an afflicted household, and, plenty of March Fever (always common here at this season) about me.</p>
+         <p>The day after my return, the 19<hi rend="sup">th</hi>., not wishing to lose any time, I sent notes to Te Hapuku and to the other principal Chiefs, to meet me at his village on the 22<hi rend="sup">nd</hi>.</p>
+         <p>Yesterday I went there, and spent some time with the Chiefs there assembled, in informing them concerning the projected “Canterbury Settlement” and its “benefits”; and of the wish of the Government to purchase the whole of the Country between Ahuriri and Port Nicholson, &amp;c., &amp;c., as detailed in your Letter to me (one thing, only, as <hi rend="bold">[4] </hi>far as I recollect, I did not mention, the proposed life annuity of £25. to four of the leading Chiefs). Having faithfully informed them of what I knew from your Excellency’s Letters; I, also, told them, that henceforward I should not interfere nor have anything to say in the matter of their doing as they pleased with their Lands; and, that I could not conscientiously deviate from the advice I had <hi rend="italic">formerly </hi>given them,—1<hi rend="sup">stly</hi>. Never to sell the <hi rend="italic">whole</hi> of their Land; and 2<hi rend="sup">ndly</hi>., If they should conclude to sell it, to be sure to have their “Reserve” in <hi rend="italic">one </hi>block, with a good <hi rend="italic">natural </hi>boundary between.</p>
+         <p>In conclusion—as I have told the Natives, that I do not intend to say any thing more to them upon the subject; and as I cannot conscientiously advise them either to alienate the <hi rend="italic">whole </hi>of their Lands, or to accept of “Reserves” (when so alienated) in scattered or detached parcels among the Whites—both of which plans are, in my estimation, equally fraught with their speedy destruction; and, as I wish to live in peace with all men, and to be as far as possible from bringing myself into Collision with H.M. Government,—Little now remains for me but to <hi rend="italic">be perfectly neutral in the matter</hi>: this, therefore, I hope strictly to be. Your Excellency will, therefore, not be surprised, if, (in the event of the Commissioners or any other Government Officers visiting this place upon this errand,) I should, deeming it my duty, be led to refuse to have any <hi rend="bold">[5] </hi>thing whatever to do in the matter.</p>
+         <p>I could say, Sir, a great deal more on this subject (closely connected as it is with one so very dear to my heart—the welfare of the Natives) but I have not strength just now. I may, perhaps, incur your Excellency’s displeasure for not seeing and acting with the Government, for which I shall be sorry;—but I dare not go against the established convictions of my mind, grounded too, as they are, upon my knowledge of the Native Character, and the painfully striking contrast between the rude yet prospering and healthy Native of the Country, and the daily decreasing and demoralizing ones of the Towns.</p>
+         <p>May the Almighty Disposer of all things so enlighten your Excellency, that you may not only do all things for the honor of the Queen’s Majesty, but, also, for the good of His Church, and the welfare of this Territory and People.—</p>
+         <p>I am,</p>
+         <p>Sir,</p>
+         <p>with every respect,</p>
+         <p>Your Excellency’s</p>
+         <p>most obedient Servant,</p>
+         <p>William Colenso,</p>
+         <p>Ch. Missionary.</p>
+      </body>
+  </text>
+</TEI>

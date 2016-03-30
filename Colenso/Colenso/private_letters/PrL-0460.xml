@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0460">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1881 August 13: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1881-08-13">1881 August 13</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1881 August 13: to Luff<note xml:id="ftn3-96" place="foot" n="96"> ATL MS-Copy-Micro-0485-4.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Saturday night,<lb/>Augt. 13, 1881.</p>
+         <p>A.Luff, Esq.,</p>
+         <p>My dear Sir</p>
+         <p>Again have I been thinking of <hi rend="italic">you</hi>! (There are many things hereabouts—both inside &amp; outside of this house to cause me to do so.) Having got rid of my (as usual) <hi rend="italic">heavy </hi>lot of papers &amp; letters for England this morning, and looking (with a sigh!) at my ever-increasing-and-bulky bundle of <hi rend="underline italic">un</hi>answered letters, I have determined to reduce that pile before I go to bed tonight,—and so I begin with you.—</p>
+         <p>Thanks, many, &amp; big ones too, for your <hi rend="italic">kind</hi> &amp; pretty long letter of the 5<hi rend="sup ">th</hi>. inst.,—it made me think of years gone by—<hi rend="italic">before </hi>that you left us for England,—and that in great measure owing to your good clear writing! Here I must congratulate you,—is it owing to less worry (of nerves), or less business, or to the purer air &amp; all the other attendant blessings arising from living in the Country &amp; out of Wgn. town? I did heartily thank you for your letter when it arrived, &amp; so I again do now, on reading it over afresh,—for sympathy;—aye, ever kind feeling words are not over plentiful, &amp; ever valuable &amp; valued.—</p>
+         <p>I regretted (in one sense) to hear of your having there at Wgn. known the horrid pains &amp; discomforts of lumbago! and was gladdened to find you were well. May you long continue so! No doubt, as you say, you caught your attack from that exposure:—in my case it was <hi rend="italic">sudden</hi> &amp; unexpected—on Sunday mg. (July 24), I had just come down stairs to breakfast, and after a few words to the Housekeeper sat down to it (apparently very well.) I was sitting quietly on my chair wrapped in my rug, when suddenly! as if I was shot by a long fine arrow! down spine to loins: I knew, at once, I was “done for.” Unfortunately <hi rend="italic">could not move</hi>! so I sat still, as a statue, holding on to my chair, until the servants (not hearing the bell, which, of course, had <hi rend="italic">not</hi> been rung) came in—at 10 o’clock! what a time that was. They placed me on the sofa, &amp; afterwards to bed, where I remained some days.—Towards the end of that week I was getting round, a little, &amp; then, as the next week was fast running out I had to think of our monthly Instiutute meeting: I found, from Dr. Spencer, that it rested entirely w. me, (no “emergency men” in <hi rend="italic">our</hi> club!) so I prepared to do my best on last Monday night. It was raining when I left the house, but there was a good attendance and I was pretty well (though I had not been out for many a day—3 weeks I think,)—the room (you know it well—the Conversation R., Athenæum) was over-warm, w. the gas, &amp; fire and company, so Kinross opened the windows behind me: I was (of course) very busy, having <hi rend="italic">all </hi>to do, and I soon chilled, &amp; caught a cold, wh. has brought back rheumatism and its attendants,—so that I have had an unquiet week of it: the weather however is now fine, and I am getting better. (Rather <hi rend="italic">too long</hi> a story, though about myself.) Had I been seized like this when in the woods (70 m. Bush), I must have perished.—–</p>
+         <p>There is much in your letter <hi rend="italic">re </hi>Land, Investments, taxes (of today &amp; of <hi rend="italic">tomorrow</hi>!), interest, &amp;c, &amp;c, in all which I fully agree w. you. Indeed, I have long seen it here, &amp; <hi rend="italic">felt it too</hi>. I have had more money at command during the last 12–18 months than ever before, yet far less income. Leases, w. pg. clauses, have been taken up: mortgages, ditto, ditto—just because the Lessees &amp; Mortgagors could borrow at a <hi rend="italic">low rate</hi>,— “all right” for <hi rend="italic">them</hi>,—but I have hardly known what to do, (fearing <hi rend="underline italic">fresh</hi>
+            <hi rend="italic"> losses </hi>through lending) so, some I have placed on T.D. in our Banks @ 4%, &amp; some in Bdg. Society @ 5% (@ <hi rend="italic">call</hi>), &amp; a little newly lent @ 7%—of course, out of all this py. tax takes ½%. The worst of all w. me, is, some money I had from England—a few years ago, <hi rend="italic">on my own recommendation</hi>—as here, I said, it would bring 10%—this, vexes me, worries me; and yet I did my best for them. I wrote last month to E., recommending one party there to draw immediately £2000 (of his money), &amp; <hi rend="italic">invest it there</hi>: because I don’t see any signs of improvement in that respect.—Then my rents (few now!) on lease, I have been obliged to lower ⅓rd.,—or the leases would be thrown up. I may give an instance, as you know the land well: the 9–10 sections at Abbotsford, all together—first let to Parkins, afterward to Bennett @ £30. pr. year. Well, at the end of B’s. lease, I tried it again (as before) at Auction there,—plenty present but the highest bid only £10.! and then I to renew fences. Unfortunately this had been <hi rend="italic">returned</hi>, under py. tax, as £30 pr. ann. &amp; 14 x £30., (and just so w. all the rest,)—then there are Rates, both County &amp; Road Board; at last, finding I could get <hi rend="italic">no more</hi>, I have leased it to Robb, 7 yrs. @ <hi rend="italic">£12.10</hi>. I very much fear <hi rend="italic">our town </hi>rates will <hi rend="italic">go up</hi> higher, and I (<hi rend="italic">here</hi>) receive no benefit.—In town, today, I was talking with Lyndon <hi rend="italic">re </hi>T.F’s. property—<hi rend="italic">unlet</hi>: he says, too much (as things are) asked for it, then there are the <hi rend="italic">roads</hi> all <hi rend="italic">made</hi>, &amp; I am told very good too: now I much fear, the Borough Valuator will raise considy. the rates on all those unsold lots, owing to roads (at owner’s expence), and <hi rend="italic">his high</hi> valuation: and so (<hi rend="italic">if the blight stands</hi>) the py. tax.</p>
+         <p>The town is fast increasing about Railway station: a <hi rend="italic">large</hi> 2-story brick building there as a Temperance Hotel; next to it a <hi rend="italic">very large</hi> store building for Wardrop &amp; Co., the white pine girders, cut by Drower, &amp; the largest ever cut here, were 65 feet long: &amp; now I see that N. &amp; Close, are going to have a 2-story brick store put up <hi rend="italic">there</hi>. There are also timber yards fenced in securely, between Ry. station &amp; Carlyle St. A street is now being laid out connecting Dalton Street w. Munroe St., about ½ way between Raffles’ Street &amp; Dickens St.,—Vautier, Johnston, &amp; Tuke, giving the required land.—</p>
+         <p>With you, (again!) I don’t think much of politics. Too much of self seeking (including localities), and too little for the common-weal. I am pleased at Wright moving &amp; exposing (in time) that N. Plymouth Breakwater Swindle: but, I fear, (as the House <hi rend="italic">now</hi> is,) Taranaki folks will be too strong for him or his Report. John Harding should <hi rend="italic">thankfully </hi>accept what the Govt. are willing to do.—&amp; then wear sackcloth, &amp; do penance (privately at home), w. twice a week on bread &amp; water, for all his misdoings: great pity the Govt. did not also take up Sutton’s job at Omarunui in a similar way,—though <hi rend="italic">not</hi> to allow of <hi rend="italic">their </hi>(J.H. &amp; F.S.) law expenses.</p>
+         <p>I saw Capt. Russell today in town, but only for 5 min.—Fannin is very well, wife <hi rend="italic">not so</hi>. Grubb rather headachy, &amp;c, <hi rend="italic">today</hi>,—owing, partly, to extra bother <hi rend="italic">re </hi>Mails. He very kindly came <hi rend="italic">twice</hi> to see me “in my affliction.”—P. Dolbel I have not seen for 2 months: he was talking of going to Wgn., and he <hi rend="italic">may</hi> now be there. I have <hi rend="italic">not</hi> yet seen the Ahuriri Bridge! nor the Botanic Garden! &amp;c.—J.A. Smith is living like a prince, having all Tiffen’s house &amp; grounds—as a kind of overseer, or care-taker.—Sturm is getting rather shaky. I saw him in town today—in fact there were 4 of us, Hallett, senior; Shirley, ditto; Sturm; &amp; W.C.—I suppose some of the on-lookers said,—there are 4 “Old Identities”!—may be said worse! Now, good night, and goodbye. And w. very kind regards,</p>
+         <p>Believe me, Yours truly, </p>
+         <p>Wm. Colenso.</p>
+         <p>P.S. I sent you a D.T. of Tuesday 9<hi rend="sup ">th</hi>. Thanks for your 4 Lond. papers—but I get <hi rend="italic">lots</hi> from home now.—–</p>
+         <p>P.S. I trust you will see that I have again written to you in my old free open &amp; friendly style—just as you were here in this room with me, and we were conversing together <hi rend="italic">as of old.</hi>                                                                                                    W.C.</p>
+      </body>
+   </text>
+</TEI>

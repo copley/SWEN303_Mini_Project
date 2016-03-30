@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0158">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1891 Keep holy the Sabbath Day. Bush Advocate 23 April.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1891-04-23">1891 April 23</date>
+               <publisher>
+                  <name type="organisation">Bush Advocate</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1891 Keep holy the Sabbath Day.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Bush Advocate</hi>
+                  <hi rend="bold"> 23 April.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,— I read in your paper of yesterday a rather lengthy account of two young men of this place who went a pigeon-shooting on Sunday last, and who were lost for the night in the bush. This you conclude with: “The wanderers ask us to express their thanks to those who were kind enough to come out to look for them. We do so cheerfully, especially as in this case, “all’s well that ends well.” </p>
+         <p>I feel inclined, (impelled, I may truly say,) to offer a few remarks on that matter, and to do this I am the more particulary disposed for five reasons:— </p>
+         <p>1. It is a sad desecration of the Sunday, (Lord’s Day, or Sabbath), to be engaged in <hi rend="italic">so wilfully breaking it</hi>, and this I notice, is too common here in the Bush. (In my thus writing I would observe—for those who don’t know me—that I am no rigid Sabbatarian, very far from it, as my published book on the rational observance of the Sabbath shows.) </p>
+         <p>2. It was my privilege to read here in St. John’s Church last Sunday morning these striking words of Jesus Christ, “he that is faithful in that which is least, is faithful also in much; and he that is unjust in the least, is unjust also in much. If therefore ye have not been faithful in the unrighteous riches, who will commit to your trust the true riches.” (Luke 16), and these words I consider very applicable here. </p>
+         <p>3. If I were an employer of men, and I found that any of them <hi rend="italic">so wilfully</hi> trampled on God’s command, and the good Christian customs and laws of our father, I would “sack” such an one directly, believing that he could not possibly be faithful to me in his work. </p>
+         <p>4. You have lately had the marvellous Phonogragh here exhibiting to the people of Danevirke: they have seen and heard how truly human voices words, and speakings were stored up and recorded as facts, and are we to suppose, that such sad doings as those of the two young men you mention, are not also stored up, and remembered by our ever-present God? May their consciences speak powerfully to them in time. You, Sir, finish with— “All’s well that ends well,” true, but the <hi rend="italic">end</hi> of that sin is not yet! </p>
+         <p>5. I find some of my Presbyterian friends here very zealous in the cause of teetotalism, (a new “fad,” a thing unknown even by name to their forefathers), but I hear of nothing being publicly said by them against this common and bigger and crying vice of Sabbath breaking! Against which the noble voice of Scotland was ever boldly lifted up! Why is this? Are the speakers and preachers afraid of coming out too strongly? Fearing the paltry monetary consequences which might follow? I hope not. </p>
+         <p>I know, full well, the temptation is great, is strong, with pigeons in the woods around, a gun at hand, weather fine, and a ramble almost needful after six days close confinement in office or store, but would it not be far better (to endeavor at least), to get a half-holiday weekly, during the season, even if it cost a few shillings than to act in this way, robbing God of his just due, and so running all risk of consequences? “I speak to wise men, judge ye what I say.”</p>
+         <p>I read also in your paper of “a boy named Christian Harden, sixteen years old, having been accidentally shot at Mauriceville, on Sunday, while pigeon-shooting.” Was it any consolation to him in his dying moments, or to his poor sorrowing parents, that he had met his fate while breaking God’s command?—I am etc.</p>
+         <p>
+                  <hi rend="smallcaps">					William Colenso.</hi>
+               </p>
+         <p> Danevirke, April 22, 1891.</p>
+      </body>
+   </text>
+</TEI>

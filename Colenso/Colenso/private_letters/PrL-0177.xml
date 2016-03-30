@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0177">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1864 November 23: to Catchpool</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-Copy-Micro-0193.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73058/">Catchpool</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1864-11-23">1864 November 23</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1864 November 23: to Catchpool<note xml:id="ftn2-91" place="foot" n="91"> ATL Ms-Copy-Micro-0193.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Auckland,<lb/>Wednesday<lb/>Novr. 23/64.</p>
+         <p>My dear Catchpool</p>
+         <p>I don’t like for the steamer to leave without a word—though I am <hi rend="italic">not</hi> in a writing humour, (<hi rend="italic">yet</hi>,) and my thumb is not by any means in a better frame than my inner man.—</p>
+         <p>We got alongside wharf here, on Saturday at 2 p.m. a fine passage, but <hi rend="underline italic">I</hi> as <hi rend="italic">usual</hi>;—no clothing off, &amp; no eating, and a <hi rend="italic">sm. </hi>bot. of “champ.,” which I got on Friday evg., made me worse, being <hi rend="italic">cyder</hi>, &amp; that bad. On that day we were prorogued until Wednesday, and again yesterday until tomorrow. They are now hatching—or Cabinet Making.—Weld is the Premier: Fitzherbert (as P.Master Genl.) Sewell (!)—Atty. Genl.—and they are trying hard <hi rend="italic">now </hi>with Ward (as Col. Tr.) &amp; Major Richardson as War Minister: though <hi rend="italic">Whitmore</hi> is spoken of (!!) Col. Russell too is just come—looking very hungry with a beard to his waist!—I have read upwards of 150 pages (in print) of the passages at arms between the Governor &amp; Ministry: surely the world will be astonished! Months ago they were <hi rend="italic">irreconcilably </hi>estranged:—sad very sad is this kind of work—I cannot <hi rend="italic">write </hi>more.</p>
+         <p>Fox &amp; Co. will have to be thanked—by &amp; bye it may be.—Doers of good &amp; prophets of all kinds are seldom honored in their brief day.—</p>
+         <p>Of course, if Fitz. remains in My., <hi rend="italic">he</hi> will do you service. It is said—we are to be here but a few days, or 3 weeks or so:—and that in March, the <hi rend="italic">yearly </hi>session is to come off at Wellington.</p>
+         <p>It is also said, that my quond. friend O—d, is <hi rend="italic">still moving</hi> in the matter of ejecting me, &amp; hopes to do so! (<hi rend="italic">Private this</hi>.) <hi rend="italic">Some </hi>
+            <hi rend="underline italic">one</hi>
+            <hi rend="italic"> </hi>must be encouraging him: all will be out by &amp; bye.—</p>
+         <p>Weather fine, dry,—lots of vegetables &amp; all good things—such as we don’t see at H. Bay Hotels &amp;c all crowded:—</p>
+         <p>Tomorrow is the <hi rend="italic">shew</hi> day of Horticultl. Socy. &amp; of Articles for the N.Z. Exhibn. Otago, I shall go &amp; see.—</p>
+         <p>His Excy. says he is much cut up, at “unhandsome &amp; ungenerous treatment” from Fox &amp; Co., but qu?—Fox, I hear, has not spoken w. him for 3 months!! Look at tomorrow’s papers for Ministry: excuse this, &amp; Believe me, ever,</p>
+         <p>Yours</p>
+         <p>W. Colenso.</p>
+         <p>Fox is well &amp; jolly—but there is no speaking about any priv. matters just now. W.C.</p>
+         <p>A good deal of seeming indign. <hi rend="italic">here</hi> at Ormond’s conduct towards me about the seat.</p>
+         <p>I have written to no one else in H.B. save to the Boy.</p>
+      </body>
+   </text>
+</TEI>

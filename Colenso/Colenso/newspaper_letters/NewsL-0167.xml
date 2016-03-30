@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0167">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1893 Translations into Maori . Hawke’s Bay Herald 14 June.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1893-06-14">1893 June 14</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1893 </hi>
+                  <hi rend="bold">Translations into Maori</hi>
+                  <hi rend="bold">. 	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 14 June.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—In your issue of this morning you have a statement concerning a translation into Maori of the two old popular English works—the “Pilgrim’s Progress,” and “Robinson Crusoe”—which is erroneous (as is frequently the case respecting old Maori matters). You say, those translations by Mr Kemp were made under the Governor Sir G. Grey “so far back as 1847 and 1848”; and, also, that they went “through three editions.” </p>
+         <p>I have copies of them: “Robinson Crusoe” was published in 1852, and “Pilgrim’s Progress” in 1854; both, also, bearing the Governor’s notification of those respective dates. I never heard of three editions. </p>
+         <p>You, also, state,—that “last Session the Maori Members applied to the Government for a fresh edition of the Pilgrim’s Progress and Robinson Crusoe;” and, “It is believed the request will be granted”;—and this is my chief reason for writing to you. </p>
+         <p>An excellent translation of the <hi rend="italic">whole</hi> “Pilgrim’s Progress” in its two parts, was early made (in the ’30s.) by one of our Church-of-England Missionaries, Mr. W.G. Puckey, at the Kaitaia Mission Station; these MSS. I possess. Mr Puckey was one of our very best Maori linguists (if not the best <hi rend="italic">par excellence</hi>), especially in all pure colloquial Maori; and his MSS. contain the <hi rend="italic">entire</hi> work without omissions, whereas that by Mr Kemp was only of the <hi rend="italic">first</hi> part. If there is to be a fresh publication of the “Pilgrim’s Progress,” I hope that this translaon by the late Mr Puckey may be used, and that for several reasons (having read and studied them both I may be allowed to say thus much). Unfortunately my MSS. are bulky, written closely, yet clearly, on foolscap folio on both sides, and without margin, paper being both dear and scarce in those days! and therefore are not in the usual state of MS. “Copy for Press.” But in the hands of careful compositors used to book work (such as I have known in London), these MSS. could be used. </p>
+         <p>Moreover, I should be <hi rend="italic">now</hi> willing for my MSS. to be published:—Provided, I had the final supervision of the sheets as issued,—and, that the said MSS. should be carefully handled and returned to me. </p>
+         <p>I have said “<hi rend="italic">now</hi>” (at this present time), “willing” for this translation to be published—this I will briefly explain. I was not so inclined when the translatlon was finished; and that, mainly, from the reason of it being a “<hi rend="italic">Dream</hi>”; believing, (1.) that such would serve to strengthen largely the Maori people in their many injurious superstitions respecting Dreams; and (2.) that on being asked by them,— “Is it true—is it real?” obliged to answer “No”; when the fixed rejoinder would be sure to follow,— “Why, then, print what is not true? We Maoris have lots of similar stories, fables, legends, and dreams”—and that response would then the more naturally be made, because they had seen nothing printed in the Maori tongue but the sacred Scriptures and of these they could not get a full supply. I could say more under this head.—I am, &amp;c., </p>
+         <p>
+                  <hi rend="smallcaps">		W. Colenso.</hi>
+               </p>
+         <p> Napier, June 13, 1893.</p>
+      </body>
+   </text>
+</TEI>

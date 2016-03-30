@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1119">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>3 June 1868: Hector to Hooker.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">James Hector</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Kew DC 174, 520-5, ATL Micro-MS-Coll-10-16, 583-591.</p>
+         <p>Transcription published in "My Dear Hooker: 
+Transcriptions of letters from James Hector to  
+Joseph Dalton Hooker between 1860 and 1898", Rowan Burns &amp; Simon Nathan.  Geoscience Society of New Zealand miscellaneous publication 133B, 2012.  ISBN 978-1-877480-21-8. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133B.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1868-06-03">1868 June 3</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hector to Hooker, 3-6-1868, Kew DC 174, 520-5, ATL Micro-MS-Coll-10-16, 583-591.</p>
+      </front>
+      <body>
+      <p>  
+
+Wellington </p>
+            <p>3rd June 1868 </p>
+            <p>My dear Hooker, </p>
+            <p>            I suppose this will reach you in the midst of 
+your reign at Norwich and I feel it almost
+wrong to write to you having nothing particular to say. How I wish I could be one of your 
+most devoted though unworthy subjects. I will 
+keep an anxious outlook for the gleams of 
+wisdom we are sure to get from you in your adress.</p>
+            <p> 
+            Since I last wrote I have been again at 
+the Bay of Islands reexamining the Kawakawa
+Coal-Field which is now assuming a position of importance in the country. The 
+Coal
+ is 
+undoubtedly as good &amp; even better for steam pur
+poses than the N.S. 
+Wales coal, but is 
+ssociated with plants that I 
+fancy you would call Miocene. The Roof is a Green sand full of very badly preserved casts of marine shells but none characteristic of any older forma
+than Tertiary.</p>
+            <p>            At the  same time from Analogy with other parts of the Colony I believe it to be at the 
+base of what I have termed my cretaceo-tertiary series &amp; that a great thickness of Chalk 
+Marls have been removed by denudation being 
+now represented by a superficial drift of 
+flints. I am going to lithograph all the fossils both 
+plants &amp; shells &amp; give them interim field 
+names. We have not the books nor the skill to 
+do more &amp; cant spare the specimens yet.</p>
+            <p>     
+Haast has at last got a museum &amp; from 
+Mantell who is a good judge I hear it is a 
+perfect model of good arrangement. I am going to take a run down to see it. </p>
+            <p>
+His Moas must be a splendid sight – the cut 
+in the illustrated news falls far short of 
+the reality I understand. I am anxious to have some skeletons carefully collected so that we 
+will have the bones &amp; all the bones &amp; nothing but 
+the bones of the same bird. This has never 
+yet been done. I have set one 
+D. giganteus
+ up 9 ft high, but had to introduce the pelvis of a 
+different individual. </p>
+            <p> 
+I sent Kirk up to the North Cape, &amp; he has 
+made large collections 
+of plants &amp; is very 
+sanguine as to many of them being new in which neither I nor Buchanan agree. Kirk is a 
+capital botanist, but is too critical
+ for a new country. It is not fair
+ to expect your flora to be as 
+rigidly correct in the diagrams of species as an
+ English Flora for instance, &amp; if he finds the 
+least discrepancy in the description from the plant itself, he
+ jumps at its being new although 
+there is no doubt of its being the plant you meant. </p>
+            <p> 
+            Thus he wanted to make 
+Sapota costata a different tree from yours because your 
+general ch. says 1 seed &amp; it has from 1 to 3 seeds. This we all know &amp; Colenso pointed it out 
+in his first Essay in 1847!! He has fallen foul of 
+Dacrydium colensoi
+ also just as we did &amp; the 
+list says it is now calling out Silver Pine (or 
+Podocarpus dacrydiodes
+ var. Yellow Kahikatea) 
+that grows on dry ground &amp; has sing
+le sparse burrs or seeds the 
+Dacrydium colensoi
+. I think 
+he is wrong but at the same time the Silver pine is more allied to 
+Dacrydium 
+than 
+Podocarpus
+. </p>
+            <p> Pittosporum
+ is the genus after his own heart in the North as he can play the changes in 
+ and 
+Coprosma it to any extent just as we can with 
+Veronica
+ in the South. He is such a capital 
+observer however that he will do much good. We have managed to get him a scientific staff 
+appointment. He is to be Secty. of the Auckland 
+Branch of the N.Z. Institute – Curator of the
+Museum &amp; Meteorological Observer – which 
+combined will give him enough to live on.</p>
+            <p>
+I have never except old Bourgeau 
+seen his equal at drying plants.</p>
+            <p> The wretched waiting for the Prince who did not come after all, but was 
+advised
+ to 
+bolt to his Mamy’s apron strings, lost me my
+ trip at the proper season to Tongariro &amp; 
+Ruapehu. When I was there in Novemb
+er I was much too early.</p>
+            <p> 
+ 
+I have just got the second vol. of Lyell’s 
+Principles
+. It is splendid – he touches on all sorts of things I have been dreaming about. I wish
+ I could get home to rub up a little. I see in 
+the International[?] Observer a writer has started the old notion of our s
+ea level in South Lat.
+not being the same distance from the Earths’ centre as Jones’[?] North which is a pet notion 
+of mine. He arrives at it from comparing the Barom. readings which show 1 inch less 
+pressure in 50° South than at 50° N. Some recent observations on Refractions observed at the 
+Melbourne observatory with the new instruments 
+have not been explained as they differ from 
+hat they should be theoretically. Can this diff.
+ level of the sea have anything to do with it? How the difficulties of our maraine drifts alternating with Glacial or Alpine drifts would 
+disappear if we had a cyclical change of s
+ea level proved without chopping up the crust of the
+Earth in the usual North---- manner. Now 
+I have bored you long enough with my chat. 
+Consider that I applaud you vehemently – and trust that all of us 
+in N.Z. take a great pride in
+your minted elevation to the 
+chair R. to Brit. Assoc.  </p>
+            <p> 
+Believe me ever your affectionate friend</p>
+            <p>  
+James Hector.  </p>
+</body>
+   </text>
+</TEI>

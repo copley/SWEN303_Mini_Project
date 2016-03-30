@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0818">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1892 February 20: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1892-02-20">1892 February 20</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1892 February 20: to Harding<note xml:id="ftn3-570" place="foot" n="570"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="italic">Dannevirke</hi> 20<hi rend="sup">th</hi>.—<note xml:id="ftn3-571" place="foot" n="571"> ATL MS-Copy-Micro-0485-1; year not given but fits here.</note>
+         </p>
+         <p>Left N.—11<hi rend="sup">th</hi>.</p>
+         <p>Letter recd. <hi rend="underline italic">here</hi>: reply shortly</p>
+         <p>Stay here, <hi rend="italic">say</hi>—3–4 wks.</p>
+         <p>
+            <hi rend="italic">Dy</hi>. to hand—at N., <hi rend="italic">thanks</hi>
+         </p>
+         <p>
+            <hi rend="italic">Busy for Eng Mail.—–</hi>
+         </p>
+         <p>     W.C. (frost, 15<hi rend="sup">th</hi>. <hi rend="italic">night</hi> at Waipukurau.)</p>
+         <p>
+            <hi rend="italic">Well</hi>; at <hi rend="italic">present</hi>: weather <hi rend="italic">again </hi>fine. Cold yesty. 19<hi rend="sup">th</hi>.</p>
+         <p>“Buried cities recovered: or Explorations in Biblical Lands.” by Frank Sode Hass, DD, Late U.S. Consul to Palestine: 10<hi rend="sup">th</hi>. ed.</p>
+         <p rend="center">_____</p>
+         <p>I dare say you have seen this book, perhaps you have it. I have often of late, when at Woodville, looked into it as it is always there on my parlour table. It is a most pretentious work (truly a lay Jonathan!) containing some good things and <hi rend="italic">good scolds </hi>some <hi rend="italic">old </hi>ones copied &amp; lots of plagiarisms!—but spoiled by the excessive <hi rend="italic">bombast</hi>, <hi rend="italic">egoism</hi>, and <hi rend="italic">superstition</hi> (real or assumed) of the author. Take a few instances:—</p>
+         <p>–“We cooked our meals on the same hearth-stone where Job sat in ashes.”</p>
+         <p>–saw (of course!) Lot’s wife!! (p.391.)</p>
+         <p>–found “a piece of pottery (old jug) which probably used by John Bapt. in<hi rend="italic"> [****]</hi>
+         </p>
+         <p>–found a seat (showing grooves) containing in Hebrew—Haggai<hi rend="italic"> [****]</hi> the seat of the prophet Haggai!!</p>
+         <p>–found Onegin’s tomb and body!!!!</p>
+         <p>–found flint knives used by Joshua!!!</p>
+         <p>Very hard, satirical &amp; mocking on Prof. Piazzi <hi rend="italic">re </hi>Pyramids: p.50.</p>
+         <p>Knows <hi rend="underline italic">all</hi>
+            <hi rend="italic"> </hi>about place where the Jews under Moses crossed Red Sea.</p>
+         <p rend="center">____</p>
+         <p>Moreover what ruffles my feathers the most is, horrid American orthography (a <hi rend="italic">few</hi> Englishmen I know also use it!) <hi rend="italic">e.g.—<lb/>
+            </hi>  theater          unraveled<lb/>  miter                   unrivaled<lb/>  worshiper       disheveled<lb/>  traveler               wagons<lb/>  beveled            flagons,        &amp;c, &amp;c, &amp;c.<lb/>(I cannot <hi rend="italic">properly </hi>pronounce those words as written above,—how much better for the <hi rend="italic">double </hi>consonant &amp; <hi rend="italic">short</hi> sound, the simple rule, in the Geog. List, I sent you in the “Standard” Newspaper.)</p>
+         <p rend="center">____</p>
+         <p>Further, he does not (he dare not) act consistently in his work,—<hi rend="italic">e.g. </hi>the following words <hi rend="italic">used therein</hi>: <lb/>  “fulfills—million—colonnade—terrible—temple—unable—barrier—barren—fosse—snuffing—forbidden—unrolled—rebellion—tessellated—fulfillment—forgotten, &amp;c.</p>
+         <p rend="center">____</p>
+         <p>(written in an <hi rend="italic">idle</hi> hour (alas!) for R.C.H.—)</p>
+      </body>
+   </text>
+</TEI>

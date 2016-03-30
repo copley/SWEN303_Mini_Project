@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0274">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1871 December 22: to Governor Bowen</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Archives J1 137, No. 1873/600–798.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73287/">Governor Bowen</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1871-12-22">1871 December 22</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1871 December 22: to Governor Bowen<note xml:id="ftn2-201" place="foot" n="201"> Archives J1 137, No. 1873/600–798.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, December 22<hi rend="sup ">nd</hi> 1871.</p>
+         <p>Governor Sir G.F. Bowen,<lb/>G.C.M.G., &amp;c, &amp;c, &amp;c.</p>
+         <p>Dear Sir,</p>
+         <p>I have the honour to address your Excellency in a few words, although personally a stranger, respecting the unhappy Native Kereopa now in our gaol here; to which, although such may be somewhat irregular, I would humbly beg your merciful consideration.</p>
+         <p>Before, however, that I enter on my subject, I would apologise for the informality of this communication, feeling assured, that, when your Excellency is informed,—that the Steamer “Luna” is expected here this very day on her way to Wellington,—that by her his Honor the Judge who tried the said Maori goes to Wellington,—and that we know not when there will be another Steamer going thither,—you will freely overlook all such, and allow of this apology.</p>
+         <p>I deem it to be my duty, Sir, as an old (if not the oldest) European resident in these parts, well-acquainted with the Natives here and elsewhere and with the <hi rend="italic">true</hi> state of the native mind,—as a well-wisher to the Colony and to the Government,—and as a loyal subject of Her Majesty the Queen, to make you acquainted with the following (although it may be that I am shortly about to leave New Zealand, perhaps for ever).</p>
+         <p>And to this I feel the more encouraged from perusing the very faithful and excellent maxim quoted by your Excellency, when writing on the Execution of Maoris, in your Despatch to the Right Hon. Earl Granville, in which you say,— “In this as in other countries the maxim holds good which declares, that ‘the grass soon grows over blood shed on the battle field, but rarely over blood shed on the political scaffold’.”</p>
+         <p>At present there is a great and increasing spirit of dissatisfaction existing among the Maoris against the Government,—even among those who have been hitherto loyal and friendly; such is kept very secret among themselves,—still and deep.</p>
+         <p>Every thing of a harsh or severe tendency on the part of the Government against any of their people, or the common popular feeling, wonderfully strengthens the said spirit of disaffection, and is secretly and extensively made use of as against the Government.</p>
+         <p>There is a very great feeling every where among them in favour of the prisoner, Kereopa, even among those of them who have suffered largely both in loss of property and relatives through the visit of the “Hauhaus” to the E. Coast.</p>
+         <p>All natives consider it a political prosecution; though some speak of it as a revengeful one on the part of the Church.</p>
+         <p>It is highly doubtful whether Kereopa committed the various acts charged against him; or, if, in some degree, he did, whether such have not been both greatly exaggerated and colored by the Opotiki tribe in order to remove as far as possible from themselves (for various reasons) the stigma of such an atrocious crime. Such, I may be allowed to remark, is a very common thing among the Maoris.</p>
+         <p>It is believed by many here, that one of the principal witnesses against him is the very man who placed the rope round Mr. Volkner’s neck.</p>
+         <p>I may be allowed to mention, that I wrote a letter to the Editor of our own principal Paper (the “Hawke’s Bay Herald”) on Kereopa being brought here as a Prisoner, shewing how on equitable grounds alone he ought not to be severely dealt with; (a copy of this curtailed I also forward to your Excellency;) and finding I could not get the whole of it printed in the said Paper I have concluded to get it printed in a pamphlet form, but it is not yet ready. I append, hereto, a printed <hi rend="italic">Resume</hi> taken from the same, to some portions of which I would venture to beg your Excellency’s attention.—</p>
+         <p>After I had written the said letter I visited Kereopa in the gaol.</p>
+         <p>He told me, that he wished to get a number of witnesses on his behalf brought forward; and, at his request, I told Mr. Lee, his Counsel appointed by the Government, of it.</p>
+         <p>He also told me, on my asking what these were to prove in his behalf, that he wished them to prove:—</p>
+         <p>1. That the Instruction given to their Hauhau expedition when sent out by the Hauhau prophet Te Ua were, <hi rend="italic">not</hi> to kill pakehas; and that they could not deviate from them.</p>
+         <p>2. That long before they had reached Opotiki it had been determnined by some of the Opotiki Chiefs to kill Mr. Volkner as an <hi rend="italic">utu</hi> (in revenge) for their slain Chiefs and people, who, they said, had been killed through certain information given to the Government by him, and that Mr. Volkner had known of this, and had, therefore, on being warned and ordered off, as the few friendly natives could no longer protect him, timely taken away his wife and family.</p>
+         <p>3. That the deed was done by the Opotiki natives themselves, when inflamed with drink and their thirst for vengeance. (See Appendix Journal Ho. of Represens. 1865, E. No.5, Enclosure 2 No.5.)</p>
+         <p>4. That he had no hand in it; did not see Mr. Volkner put to death; and did not know who really did it, save by report.</p>
+         <p>5. That he saved Mr. Grace from the same fate, through claiming him as “his pakeha”.</p>
+         <p>6. That the Hauhau visitors, being of a stranger tribe (or people—<hi rend="italic">iwi</hi>) kept together, aloof: and here he appealed to me, from my knowledge of their ancient customs, whether they could, or he could, on such an occasion, possibly have commanded or ordered the Opotiki Tribe; and if he had even done so, whether they would have listened to him.</p>
+         <p>And, Lastly, that those Natives of his own Tribe might hear the lies which these witnesses had deposed against him.</p>
+         <p>I only saw him on two occasions, although I had an Order from the Visiting Justice of the gaol, and had planned to visit him daily; my visiting him being most strangely interrupted through the Gaoler sending me word by the turnkey, that Kereopa positively would not see me any more! We were on the most friendly terms, and he seemed highly rejoiced to see me and parted from me with regret: I cannot account for this (?)alteration.</p>
+         <p>His attempt to commit suicide is no proof of his guilt—quite the contrary.</p>
+         <p>I firmly believe, your Excellency, that mercy being shewn to this unhappy deluded man Kereopa will be productive of great good both to the Maoris and to the Colony; particularly from the fact (in addition to what I have already adduced in my <hi rend="italic">Resume</hi>,) of £1000. having been paid for his capture; so that they will very clearly see that our Government and Rulers are equally as far above any sordid, as any revengeful, influences, arising from the payment of Public money.</p>
+         <p>I pointed out to Governor Browne, in 1861, (among many similar matters,) how very advantageously imprisonment with degradation might be used by the Government in dealing with high Maori Offenders, and that such was in their estimation worse than Death.</p>
+         <p>And again apologizing for this intrusion on your Excellency in a few ill-digested and hastily written sentences, which apology I trust you will under all the circumstances be pleased to accept, I am</p>
+         <p>Sir,</p>
+         <p>Your most obdt. servant,</p>
+         <p>Wm. Colenso.</p>
+      </body>
+   </text>
+</TEI>

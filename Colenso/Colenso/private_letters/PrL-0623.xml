@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0623">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1886 March 28: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861. Endorsed “A 3/4/86 with a box of broad leafed Moss in fruit”.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1886-03-28">1886 March 28</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1886 March 28: to Balfour<note xml:id="ftn3-340" place="foot" n="340"> ATL 88-103-1/07. Original at MTG HB 67861. Endorsed “A 3/4/86 with a box of broad leafed Moss in fruit”.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">NAPIER SUNDAY MAR 28/86</p>
+         <p>Mr D.P. BALFOUR<lb/>GLENROSS</p>
+         <p>My dear Sir</p>
+         <p>I have now 2 letters of yours before me (6th &amp; 20th inst), and also “small lots of specimens”—to thank you for, &amp; to reply to letters as I best may.</p>
+         <p>I only returned from your Bush on Friday last (whither I have been over three weeks, having left N. on 3rd inst).</p>
+         <p>
+            <hi rend="italic">I hope I wrote to you whilst there</hi>. I know I fully intended to do so, but I wrote so <hi rend="italic">many</hi> letters thence, that I have forgotten;—your 2 let­ters reached me there.—To your <hi rend="italic">first</hi>,—I am pleased in finding you enjoyed <hi rend="italic">yourselves</hi> ( the whole clan of Bs and Ds I mean) during their visit.<note xml:id="ftn3-341" place="foot" n="341"> ie, Balfours and Dolbels.</note> I have long looked forward to spending a few days in the neigh­bourhood of what R.D. calls “the bottom of a bucket”—perhaps next summer. On my way hither on Friday I was enquiring of Capt Birch, who gives a <hi rend="italic">good</hi> account of the <hi rend="italic">further</hi> hostelry.</p>
+         <p>As to your <hi rend="italic">variegated</hi> wool, I can not say anything about it, in the company of a note,that would satisfy you; to <hi rend="italic">me</hi>, the marvel has always been the <hi rend="italic">other</hi> way,—why should sheep usually remain <hi rend="italic">white</hi>, &amp; not follow the common law of <hi rend="italic">all</hi> other domestic animals of being all colours. Your wool however shall be <hi rend="italic">shown</hi>.</p>
+         <p>To your 2nd letter &amp; spns. 1. The fragment of bone <hi rend="italic">may</hi> be the tarso-metatarsal of a <hi rend="italic">Kiwi</hi>, at present I cannot say, should like to see more. 2. The “Burrowing insects” I know well; these are the larvæ of the <hi rend="italic">Myrmeleon</hi>—described by me in “Trans N.Z.Inst” Vol XVIII, pp 157–158. If you got some more of their sandy earth, and put into a basin with 2 or 3 of them, they will soon make their conical-circular pit­falls, to catch their prey, &amp; if you drop a <hi rend="italic">small</hi> insect in it, you will see how they work. Only one of the 3 you sent me was alive—they required air, &amp; the box only reached me from P.O. yesterday.</p>
+         <p>The plant (old flg. stem) is, as you supposeed, a sp of Orchid—Gastrodia, (Hd Bk p.623) but propably <hi rend="italic">not</hi> that spn, more likely to be identical w mine of last year’s paper, which has been sent, to Dr Hector with the last, and may be published in Vol. XVIII. It is a very striking plant, I have <hi rend="italic">long</hi> known it (see also, “Ruahine” jy, pp 61,62) but have rarely ever found it in <hi rend="italic">full </hi>flower—always, too late, or too early: it flowers in January—Thanks for offer of Tuber, but, it would not live <hi rend="italic">here</hi>; it likes the shade of dark woods. Should you have perfect flowers next season (and I here) remember me.</p>
+         <p>I, too, lately, found plenty of broad leaved Moss <hi rend="italic">barren</hi> and several little “Divott” orchids, all <hi rend="italic">past</hi> flg. Keep a lookout for your <hi rend="italic">Autumnal</hi> red-flg, gaping mouth Orchid, on high stalk (9–14 inches) and long narrow grassey leaves, grows on the open claylands amongst fern.</p>
+         <p>I enjoyed my rest and <hi rend="italic">quiet</hi> in Bush, came awa with regret. My home is more <hi rend="italic">there</hi> than here. However, it is pretty well all one as to <hi rend="italic">busy</hi> life; there, here, lots to do. I gained a few novelties in Bush that pleased me much. No reply from Government.</p>
+         <p>I write you today while free from interruption; must go to town on business tomorrow. Hoping you are all well</p>
+         <p>I am</p>
+         <p>Yrs truly</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

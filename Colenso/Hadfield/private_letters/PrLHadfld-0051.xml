@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0051">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1845 February 18: Octavius Hadfield to his father Joseph</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  Page 115.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 30.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1845-02-15">1845 February 18</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70741/">Joseph Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1845 February 18: Octavius Hadfield to his father Joseph</p>
+      </front>
+      <body>
+      <p>Wellington, </p>
+      <p>New Zealand.</p>
+      <p>Feb. 18th. 1845,</p>
+      <p>My dear Father,</p>
+      <p>I was much gratified yesterday by the receipt of your kind and interesting letter of the 27th. of September.  The account which you give of your own health, as well as that of all the others gave me pleasure, - perfect health can hardly be expected, but it is satisfactory to hear that you were all as well as you appear to be, I feel however, though I write this, that whenever I receive a letter, several months have elapsed since its date, and consequently that many circumstances may have changed in the interim.  I wrote a long letter last month to Octavia, since that I have received a letter from Amelia, for which I must request you to give her my sincere thanks.  You will, no doubt, but anxious after the very honest statement I have previously made of the precarious state of my health, to hear frequently from me, though you cannot, after all that I have already said, expect to hear anything very satisfactory on that score.  I am still with my kind friends, Mr. and Mrs. St.Hill, lying comfortably in my bed, waiting for the release of the soul - the better part of it - the living power - from the miserable tenement of clay which still contains it, an event I look forward to with great joy, though I trust without impatience.  The Bishop kindly informed me of the precise opinion of the Physicians concerning my disorder, which is, as I think I mentioned in my last, a disease of a large artery, which cannot by any human skill be prevented from proceeding to a crisis, which will cause when it reaches that crisis, almost instantaneous death.  They are, however, quite uncertain when that may be, whether in a few hours or months hence.  As I believe there is no room for difference of opinion concerning the disorder, I write thus plainly and decidedly.  There is nothing in death at all frightful, when looked at simultaneously with the Lord Jesus Christ, Who came into the world and became incarnate in order that by His own death He might atone for His people's sins, and having triumphed over death in His own person, give His people a direct assurance that they in Him, and by His omnipotent power should triumph over it too.  Oh, how good is the Saviour, not only in delivering His people from the power of death, as respects the bitter part - the death eternal - but also in giving them such comfort in its prospect, by enabling them to see that it is the birth day of glory!!   Oh, how good is the Saviour, I can indeed say, Who has purchased for me eternal glory, and given me even now, a sweet foretaste of it!  (neither earth nor hell can take it from me)  "I will that they whom thou hast given me be with me where I am, that they may see my glory!"  Probably ere these lines meet your eye, I shall have entered the mansions of glory, whither you can only follow by the same path, "I am the way, the truth and the life", says our Saviour, "No man cometh to the Father but by Me", thus we find, "It is not by works of righteousness etc. -- to the hope of eternal life".  I find myself, when I consider my past life, a poor, unprofitable servant, a guilty sinner, still, by faith in Jesus Christ I feel that I have everlasting life - a mystery indeed, but a paradox made clear by right apprehension of the gospel.  I have been more especially pleased with "Pense&#233;s de Pascal", he unites acuteness of intellect and clear reasoning which altogether charmed me.  You mention the Bishop's kindness in writing so fully to his sister about me, it must be a comfort to you to know I have kind friends out here; pray do not, however, believe all that is said about me, for I know not how - unless I am more of a hypocrite than I fancy myself - but people here seem to form far too high an opinion of me.  The Bishop was here two days ago and spent two or three hours both days with me.  He appears exceeding grieved that I am so ill.  He had looked to me to superintend affairs in this part of New Zealand.  He is going down himself to reside at Waikanae for some months.  He was very urgent in his request that I should go with him to his house at Auckland, which Mrs. Selwyn also pressed.  He used all kinds of arguments to persuade me in the most affectionate manner, saying that I might still be useful there in directing matters and giving advice, also that he was much absent from home, and that Mrs. Selwyn would find it a great pleasure to have somebody "to love and care for" etc.  He will probably be down here again in a few weeks.  I wish to remove into a little cottage here and be by myself, with some respectable old nurse, but I am afraid Mr. and Mrs. St.Hill will not allow me to do so.  Though I know I have not personally much more to do with earthly matters, I cannot be otherwise than somewhat alarmed at the present state of political affairs here.  The Governor is a man of considerable ability, but lacking judgement and wisdom, and I greatly fear that the policy he has adopted towards the Natives - absurdly lenient at one time, at another equally severe - will bring about a state of things which may be more readily conceived than remedied.  I will not however enter upon this subject, which without a very long story, could scarcely be made intelligible to one not acquainted with all the circumstances of the country.  I trust that God will avert, in His mercy, blood-shed and war.  Pray give my most affectionate love to my dear Mother and all the family, and believe me, my dear Father, </p>
+      <p>Your very affectionate son,
+      </p>
+      <p>Octavius Hadfield.</p>
+      </body>
+   </text>
+</TEI>

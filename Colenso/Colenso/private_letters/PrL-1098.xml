@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1098">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>11 May 1883: To J. D. Enys.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Transcription reprinted by Ian St George in eColenso July 2010</p>
+            <p>encoded into TEI by Melissa Bryant, 4.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1883-05-11">1883 May 11</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73465/">J. D. Enys</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>To J. D. Enys, 11 May 1883.</p>
+      </front>
+      <body>
+      <p>Friday 2 A.M.</p>
+      <p>My Dear Enys </p>
+      <p>I have your note with spn of Lomaria enclosed – thanks.  In town yesterday I sought you at the Club – found you were gone inland.  I did not before know that you were staying there – had supposed you were at Riverslea.</p>
+      <p>At our Council Meeting on Tuesday (full attendance), I was talked over to get a paper ready for 14th (the old old story!) this makes me desperately busy.  However, I have thought on your kind offer, &amp; have hastily put up a few seeds for Kew – which I send herewith to you – their duplicates I shall send (anon) by Mail to Dr Sir J. H. – </p>
+      <p>If fine tomorrow I will go down to town, and try to see you; the weather however has again changed, &amp; so I may not have that pleasure. – </p>
+      <p>If not, I wish you bon voyage, &amp; a true Cornish
+ welcome at Home.</p>
+      <p>Ever Yours, Sincerely (in haste) Wm Colenso</p>
+</body>
+   </text>
+</TEI>

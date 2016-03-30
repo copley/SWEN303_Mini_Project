@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0476">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1881 November 28: to Hedgeland</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Morrab Library, Penzance MAN/90.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/74209/">Hedgeland</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1881-11-28">1881 November 28</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1881 November 28: to Hedgeland<note xml:id="ftn3-113" place="foot" n="113"> Morrab Library, Penzance MAN/90.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, New Zealand, November<lb/>28<hi rend="sup ">th</hi>., 1881.</p>
+         <p>Dear Sir</p>
+         <p>I feel indebted to you and your Committee for your very kind letter of Septr. 8<hi rend="sup ">th</hi>., received by me on the 14<hi rend="sup ">th</hi>. inst.,—and I cannot omit to thank you heartily for the same.—</p>
+         <p>There are two or three matters referred to in your letter, which I should also like to say a few words on:—</p>
+         <p>1. Your mention of Mr. Ralfs, and of his very appropriate remark on Mitten’s labours among the <hi rend="italic">Hepaticæ </hi>of this country, as shewn in the “Hand Book of the N. Zealand Flora.”—Curiously enough I had, some three months ago, received a letter from an old townsman (Mr. William Curnow of Newlyn) respecting our smaller cryptogams,—<hi rend="italic">Musci </hi>and <hi rend="italic">Hepaticæ</hi>, (which he had also written through what he had seen in that same copy of the Hand Book in your Library, referred to by you;) and I, in reply, had promised to send him some specimens,—which I now do by this Mail; having last month purposely gathered them for him in our forests. And if you in your Library and Museum attached (?), have any room for such specimens of Nature’s Botanical gems,—and if Mr. Ralfs (or some other skilled Botanist) will lay them out, name them, &amp;c.,—I will gladly send you a larger parcel both of <hi rend="italic">Hepaticæ </hi>and <hi rend="italic">Musci</hi> for your Penzance Library.—</p>
+         <p>Mr. Ralfs’ admirable work on the British <hi rend="italic">Desmideæ </hi>(which you also mention) I have long had in my possession, and have often studied its pages with great delight. Indeed, if I mistake not, Mr. Ralfs himself (about the time of its publication), wrote to me here in N. Zealand, wishing me to look after that tribe of plants; but, at that time and for many years after, my hands were far too full of other and more important work to do so. In this last vol. however, of the “Transactions N.Z. Inst.,” (xiii.) Mr. Ralfs will have seen, that the especial work in which he did so much and so well at home has been at last taken up by Mr. Maskell of Christchurch (N.Z.), Registrar of the University there, and a correspondent of mine;—and now, this year, my friend here in Napier, Dr. Spencer, has also been pursuing his discoveries in that same direction, and has written a Paper on several new species of <hi rend="italic">Desmideæ</hi> and <hi rend="italic">Confervæ</hi>, which, with plates of them will appear in the next vol. of “Transactions N.Z. Inst.,” (xiv.). Please tell Mr. Ralfs this; as I am sure it will give him much pleasure: also, that his Book (<hi rend="italic">supra</hi>) has been of great service to Dr. Spencer.</p>
+         <p>2. I am really sorry to find that your great and noble Institution is so little cared for,—so languishing, both for funds, and for zealous scientific supporters: but so it is, I fear, too commonly! As I had said in my last to you,—I know little of it, save its name. I see, in the neat little Official “Guide to Penzance” (published by the Corporation), now lying before me, a very short notice of your Library, and how Members are, or may become elected. If I should not be asking you too much, I should greatly like for my youngest son, now residing among you at Penzance, to become a member, (as it were in my stead,)—and if you should have a rule for <hi rend="italic">Life</hi> Members, (as most other Libraries and Societies in England have, as well as our own Institution here,) I would that he were made a Life Member,—I remitting you with pleasure (on notice) the full sum required.—</p>
+         <p>3. I think you have written too approvingly &amp; encouragingly of my small labours in those vols. of “Transactions”: however, as I said before, I thank you heartily. At the same time I may be permitted to observe, that there is a great demand made out here for the volumes of the “Transactions” containing my writings on the Maoris. I have recently received a pressing letter from a German Professor in a University, requesting as a great favour two copies of each of my papers on the Maoris (of what are termed “Authors’ copies,”—of which I only received two copies of each Paper, when I ought to have had a 100,) for large Continental Societies. The Work is <hi rend="italic">not </hi>to be had, at, or through, any of the Booksellers; and there are but a few <hi rend="italic">extra</hi> copies printed for sale to Members only, at one guinea each. I have, some time back, been told officially by the secretary N.Z. Institute, that I have had my full share and over (for others), and yet, at this moment, I have 4 vols. (x–xiii.) here, which I received from him three days ago, for a Country Member, who pressed me to get them for him for a public Library in Yorkshire,—for which he will pay £4.5.0. During this year I have written some more Papers <hi rend="italic">re </hi>the ancient Maoris and their doings, which have been read at our Meetings here, and are sent to the Manager, Dr. Hector, by whom they will be published in the forthcoming volume: these Papers are still more interesting and recondite than the former ones; and will, I know, be heartily welcomed by scholars in some quarters. I receive very great encouragement in this work from all sides. I wish to do all that I can in this way <hi rend="italic">for a future generation,</hi> as the knowledge which I (? <hi rend="italic">alone</hi>: this assertion will be be found fully explained in one of the Papers I have this year written, <hi rend="italic">supra</hi>) possess of the Ancient Maoris should not die with me,—and there is much of error—both in fact and in judgment—already printed concerning them– Indeed, it was my all but certain knowledge of the <hi rend="italic">future value </hi>of those writings, that, in a great measure, induced me to write to you as I did in my last, <hi rend="italic">re </hi>the getting the vols. of the “Transactions” well-bound.—</p>
+         <p>4. But my great (literary) work—my truly <hi rend="italic">opus magnum­</hi>—was the Maori or Polynesian Lexicon for the Government; which, after I had zealously laboured at it for some years, (uphill work, too!) was ruthlessly stopped (a-la-Goth) by the Government themselves , who ought to have fostered it in every way: and as I believe, a future age will say. As, however, the <hi rend="italic">bruit </hi>of this matter may have reached as far as Penzance, I shall enclose a Parliamentary Paper or two, which may serve to show briefly both what a Penzance man has attempted <hi rend="italic">to do</hi> (and in part done), and what he has <hi rend="italic">endured</hi>! The Parliamentary Paper numbered I. will speak for itself: the Paper numbered II. will show what I and my few Parliamentary friends got the Government to do last year (1880),—after much writing and solicitation,—in the matter of printing a small portion of the few specimen pages of the Lexicon, which had been promised so long back as 1875!—–What they then did—their “4 pages”—seems more like a travesty or burlesque than anything else,—as it really is scarcely <hi rend="italic">one </hi>page! I should, however, add, that the matter is not lost sight of, and a fresh promise has been lately officially written to me by the Government (Native Minister Hon. Mr. Rolleston), that those specimen pages shall be printed.—Under all the circumstances I would ask you, Sir, as a Particular favour,—that you kindly show those two sheets <hi rend="italic">re </hi>the Maori Lexicon to any scholar; and that you also get them securely stored in the Penzance Library as a memento. Should any more pages be printed, I will be sure to send them to you.</p>
+         <p>5. I shall also send you, with this, in a small registered parcel, copies of two small Books in English and Maori which I wrote for the Government in 1864–5, entitled, “Willie’s first English Book”: the English preface will sufficiently explain them. These, also, were not printed until 1872! (seven years after they were written!) and the <hi rend="italic">third </hi>part (or volume) has not yet seen the light; although the little work has been in great demand both among Maoris and Europeans.</p>
+         <p>I could easily fill a book with the opposition I have met with: looking back on it, it seems like a long and hideous dream.</p>
+         <p>I can still work hard and steadily in my old grooves, and take a delight in doing so; but when a man comes to the shady side of seventy, much more work cannot be expected from him. The Roman poet justly remarks,—Solve senescentum mature sanus equum, ne peccet ad extremum ridendus.”<note xml:id="ftn3-114" place="foot" n="114"> Horace: Dismiss the old horse in good time, lest he fail in the lists and the spectators laugh.</note>—–But my old desire, with which I left Penzance, still sticks to me,—<hi rend="italic">i.e.</hi> to die in harness.—</p>
+         <p>I fear I shall have wearied you with my very long letter: believe me, I did not intend to say so much when I began it: pray forgive me.—</p>
+         <p>                             I am, Dear Sir,</p>
+         <p>                     Yours very sincerely</p>
+         <p>                                     William Colenso.</p>
+      </body>
+   </text>
+</TEI>

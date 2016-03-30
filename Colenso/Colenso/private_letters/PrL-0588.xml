@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0588">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1885? to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-1. From its content this letter must have been dated between 21 December 1884 and February 1885. At least the first page is missing.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+      </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1885">1885?</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1885? to Harding<note xml:id="ftn3-289" place="foot" n="289">ATL MS-Copy-Micro-0485-1. From its content this letter must have been dated between 21 December 1884 and February 1885. At least the first page is missing.</note>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="italic">[Page missing]</hi>
+         </p>
+         <p>… reminded, of Joseph’s brethren, when <hi rend="italic">they saw</hi> the Dreamer coming, &amp; what they said. I have not seen the <hi rend="italic">Dean</hi>, nor any of our Ministers of late.—–</p>
+         <p>4. I sent Buller a copy of letter VI as I had particularly mentioned his f-in-law (Mair) in it;<note xml:id="ftn3-290" place="foot" n="290"> He refers to mention of Gilbert Mair in letter VI (written 21 December 1894) of <hi rend="italic">Certain errors of the Church of Rome…</hi> republished in 1898 by Dinwiddie, Walker &amp; Co.</note> &amp; M. &amp; wife were among my <hi rend="underline italic">best</hi>
+            <hi rend="italic">friends</hi> in Bay of Islands—and <hi rend="italic">he</hi> in his whale-boat <hi rend="italic">brought me on shore</hi> this night from our little craft, becalmed many miles away, out in the offing.</p>
+         <p>5. I have lately received some <hi rend="italic">strange</hi> letters! One from Howlett yesterday w. 20 spns. of alpine plants, to be named, &amp;c, &amp;c, right away!—One from Major Genl. Robley, from London, (who was in N.Z. in the War) <hi rend="italic">re</hi> human heads!! and “<hi rend="italic">mokos</hi>”—he has <hi rend="italic">several</hi>
+            <hi rend="italic">heads of Maoris</hi>! is going to publish and wants more information (which he won’t get from me!)—has seen Sir. G. Grey, who declines, or something like it—but by &amp; by I will send you his letter, w. drawings, quite unique, <hi rend="italic">after I have replied</hi>.</p>
+         <p>I have to thank you for an interesting lot—the Hui Maori Ch. here (wholly <hi rend="italic">new</hi> to me—I had never even heard of it!) and Farrar’s address—and those excellent Jews’ prayers. I was <hi rend="italic">pleased</hi> to note that the Maoris at their Ch. Hui complained of the want of distinct verses in their Bible; <hi rend="underline italic">they are right</hi>; far better on the old, &amp; thoughtfully devised plan.</p>
+         <p>I shall send you a few heterogenous scraps!! some perhaps new to you. I note what you say <hi rend="italic">re </hi>the<hi rend="italic">new </hi>printers<hi rend="italic">here—</hi>in Emerson Street; I send you one<hi rend="italic"> </hi>of their late productions: I find they have secured the public printing. I have often heard the remark from some of your old “friends” &amp; acquaintances, that you did wrong in removing from N., and <hi rend="italic">sometimes</hi> I have agreed w. them: for your own sake, I should like to know of your reducing your expenditure—<hi rend="italic">Rent</hi>, &amp;c, &amp;c.—you say, in your last,— “I intend to send you this Evg’s. Post, containing a letter from Tregear,” &amp;c. but such has <hi rend="italic">not</hi> come to hand.—</p>
+         <p>I have a piteous letter from <hi rend="italic">poor</hi> old Sturm! who is about leaving for Australia (if he <hi rend="italic">can</hi> get away) in hopes, &amp;c. &amp;c,—and <hi rend="italic">similar</hi> letters &amp; applications from others. Robert is much better, but still ailing, his wife is well: I gave them your kind message.—I am still busy on my Botanical papers for Sir J.H., hope to <hi rend="italic">send</hi> them <hi rend="italic">this week</hi>: I dread anyone calling: Hill, I think, is gone to Ruahine, exploring, w. some others: Fannin &amp; wife to Kuripapango, for a fortnight: <hi rend="italic">W.C.</hi>—<hi rend="italic">no holiday</hi>!</p>
+         <p>31<hi rend="sup">st</hi>.—I now conclude: this mg. your p. contg. Tregear’s l. re Trees, arrived. I have put up several things for you &amp; send, some may interest you.—I have told Walker, in note, that I intend to call on him, early (<hi rend="italic">some aftn.</hi>) and show him several <hi rend="italic">curios</hi>.—I <hi rend="italic">just find</hi>, that Robt. &amp; wife are off tomorrow to Hastings leaving me to keep house, &amp; go without <hi rend="italic">tea</hi>—I don’t mind the hot dinner: from words of late (dropped) I expect they will leave me <hi rend="italic">&amp; N.Z</hi>. soon—for <hi rend="italic">Home</hi>; <hi rend="underline italic">her doing</hi>, a dreadfully discontented person.—</p>
+         <p>That Jones, whom I refused to write for, I see has again been with you at Wgn. I expect <hi rend="italic">he</hi> will be serving me out a-la-Bastian! I set it down to <hi rend="italic">him</hi> that Cheeseman never answd. my letter. Another big vol. of “Index Kewensis” to hand, now down to P. </p>
+         <p>Weather still <hi rend="italic">very fine</hi>. Good bye.</p>
+         <p>Yours with many best regards &amp; kind wishes</p>
+         <p>W. Colenso.</p>
+      </body>
+  </text>
+</TEI>

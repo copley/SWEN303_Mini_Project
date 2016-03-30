@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1010">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1897 September 27: to Mrs de Lisle</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MTG HB m64/14, m67/37, 57844.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75566/">Mrs de Lisle</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1897-09-27">1897 September 27</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1897 September 27: to Mrs de Lisle<note xml:id="ftn3-848" place="foot" n="848"> MTG HB m64/14, m67/37, 57844.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Sept. 27<hi rend="sup">th</hi>.,<lb/>1897: ix, p.m.</p>
+         <p>Tired though I am (more with writing for S.F. Mail, than by my unusual move out this morning,) I must not think of retiring until I have performed a duty and written a little note to <hi rend="italic">you </hi>on behalf of my little godson Rodolph Maia. I wish to make him some little handy present, but for the life of me I cannot think of one that pleases me and that he and you would approve! and yet I have some <hi rend="underline italic">old</hi> English fancies floating before me—images of the <hi rend="italic">long past</hi>! shall I venture to name them?—for you and the Doctor to laugh at? Yes, I will <hi rend="italic">one</hi>, lest I should be considered a <hi rend="italic">coward</hi>! (which would never do in writing of <hi rend="underline italic">Rodolph Maia</hi>). A red coral (set in silver with silver bells! “Ugh! that is antiquated &amp; hard for his gums, better a bit of Indian Rubber,”—his father says—and <hi rend="italic">I agree</hi>, and give in:—and beg permission to enclose a little chq. for Rodolph: which you are to use as you think best. Now a <hi rend="italic">good</hi> half dozen <hi rend="underline italic">extra</hi>
+            <hi rend="italic"> of mother’s &amp; father’s kisses </hi>for the dear boy, and May <hi rend="smallcaps">God’s</hi> blessing ever be his!—</p>
+         <p>With kind regards,<lb/>Believe me Yours sincerely,</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

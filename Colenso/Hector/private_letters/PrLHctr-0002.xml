@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1110">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>15 July 1864: Hector to Hooker.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">James Hector</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Kew DC 174, 429-430, ATL Micro-MS-Coll-10-16, 424-429.</p>
+         <p>Transcription published in "My Dear Hooker: 
+Transcriptions of letters from James Hector to  
+Joseph Dalton Hooker between 1860 and 1898", Rowan Burns &amp; Simon Nathan.  Geoscience Society of New Zealand miscellaneous publication 133B, 2012.  ISBN 978-1-877480-21-8. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133B.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1864-07-15">1864 July 15</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hector to Hooker, 15-7-1864, Kew DC 174, 429-430, ATL Micro-MS-Coll-10-16, 424-429.</p>
+      </front>
+      <body>
+      <p> 
+Christchurch</p>
+            <p>15th July 1864 </p>
+            <p>My dear Hooker</p>
+            <p>As I have been travelling about N.Z. I have
+ not yet received my letters by either of the last two last mails &amp; so cannot answer them. I wrote you a few lines from Auckland 
+acknowledging receipt of the lists 
+of plants. Since then Buchanan has compared it with the plants and has sent me a few notes
+ which I enclose. </p>
+            <p>I trust that by this time you have received the West Coast Plants which were sent by 
+the Jany. &amp; Feby. mails. – Also the Analyses
+ of the Geographical distributions. </p>
+            <p>In answer to your enquiries – The 
+Areca sapida
+ does not occur in 
+Otago,but I believe 
+is found on Banks Peninsula and also at the mouth of the Grey on the West Coast. This having[?] it as high as Lat. 44° S. &amp; very 
+considerably above its S. American limit!! Dr. 
+Munroe fancied from the Nelson specimens that 
+Cordyline indivisa 
+was always sessile, but both on our West Coast and near 
+Auckland I have seen them w
+ith stems 12 ft high. All those 
+I saw in the Nelson woods were however without stems. Can these be two similar species. 
+The leaves also appeared diff. to me. 
+</p>
+<p>I shall send you full illustrations of 
+C. australis. I have enjoyed my tour very much &amp; 
+have made acquaintance with many persons I only knew by name previously – such as Dr. Knight, Colenso, Travers, Haast &amp;c. Travers 
+is going home soon and I have no doubt
+you will like him. He is a natural born botanist that has only lately 
+discovered his vocation. 
+And as he is rich &amp; can afford the business you must secure him as a work man. Haast 
+improves very much on acquaintance &amp; is really a very good fellow on the whole. He is most 
+indefatigable &amp; has done lots of good work in 
+the way of collecting and measuring sections.
+The excellence of his botanical work you will know
+. He shewed me some of the Proof sheets
+of your 
+Flora
+. It is splendid &amp; will be highly appreciated in this Colony as there are an 
+unusual percentage of folk here that take an interest in Botany.</p>
+<p>Haast asks me to tell you that he has not had time to write by this mail. We have been
+up country for a few days together looking at the structure of the plains where the rivers 
+emerge on them from the Mts. Haast as I 
+suppose you know goes in strongly for Glacier action, &amp; has made some excellent observations, but his notions on 
+the subject are very confused I think as he does not distinguish 
+sufficiently between the extension of glaciers 
+under existing conditions &amp; their mode of opperating when the features of the Mts. were 
+different. Oscillations &amp; Faultings 
+have
+ undoubtedly occurred in late Geological times &amp; 
+they must have aided &amp; even over ---- the Ice action in the formation of the Mt. valleys. I dont 
+member if I ever pointed out to you the relation of our great Lakes to the Sounds of the West Coast.</p>
+<p>Here it is evident that rock
+ bound basins have been formed on the East side and deep 
+sounds on the West side of the Mt. by the whole mass of the Island having undergone 
+depression at unequal rates – the West side sinking fastest. The original formation of the 
+alleys I have no doubt were formed
+ by the errosion of glaciers along 
+Anticlines
+ &amp; lines of 
+fault.</p>
+<p>My principal news this mail is that the 
+General Govt. have asked me to organise &amp; 
+direct a permanent Geol: Survey of the whole of
+ New Zealand on the same footing as in other 
+Colonies, and that as I have agreed to do so I 
+must give up all hope of 
+returning to Europe for
+many years to come.</p>
+<p>I think you will agree that this is right step 
+on the part of Govt. so far as the principle 
+is concerned, but whether they have pitched on 
+the right man or not I wont venture to say. At 
+any rate I will work hard to make New Z. what you predicted it should be, viz. a Geological Gauge on which we may measure the changes 
+which Physical Geography has undergone in 
+recent Geol: times, by a study of the recent fossils &amp; the living animals &amp; plants.</p>
+<p>Already I begin to perceive
+ that in the matter of shells there has been a gradual 
+displacement of S. American (Miocene &amp; Pliocene) forms by forms that are in the equivalent
+strata of Australia so that the littoral fauna of
+ N.Z. were say in Miocene times, identical or 
+nearly so with that of W. America but 
+now
+ it is almost Australian.  </p>
+<p>I return to Otago today in the mail steamer 
+&amp; if I have time after getting my letters &amp; 
+anything requires answer I shall write you a few lines. Now that I have seen the whole of 
+New Zealand do you know that I think the South Island will be the greater Colony. The N. Island has all the natural advantages but the S. Island shows all the signs of active development. I fear very much they are going to break asunder as
+ the miserable Maori 
+question is dragging the whole into the mud while
+ the S. Island has no interest in the matter 
+whatever.</p>
+<p>Pray tell Mrs. Hooker that I have never ye
+t been able to get the Postage Stamps sh
+wished – they must be very rare indeed but I do not despair yet. </p>
+<p>Ever Yours affect. friend </p>
+<p>James Hector.</p>
+<p>Dr. Hooker </p>
+<p>Kew.</p>
+</body>
+   </text>
+</TEI>

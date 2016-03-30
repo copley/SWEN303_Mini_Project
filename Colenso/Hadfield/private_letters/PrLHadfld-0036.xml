@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0036">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1842 April 22: Octavius Hadfield to his father Joseph</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  Page 85.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 26.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1842-04-22">1842 April 22</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/70954/.">Kapiti</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70741/">Joseph Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1842 April 22: Octavius Hadfield to his father Joseph 
+         </p>
+      </front>
+      <body>
+      <p>Kapiti,</p>
+      <p>Cooks Straits</p>
+      <p>New Zealand.</p>
+      <p>April 22nd. 1842</p>
+      <p>My dear Father,</p>
+      <p>It gave me great pleasure to hear by the last letters from home that you were then tolerably well, but that was only the beginning of the winter, &amp; I shall be glad to hear that as it advances you continue well.  The last letter that I wrote was to George, (March 5.)<!--NB. We don't have that letter--> Since that I have had the satisfaction of receiving two, one from Octavia, Nov. 1 &amp; another from Charles, Nov. 6.  I beg to return my thanks for them.  </p>
+      <p>I often wish to see you all, &amp; oftener feel how great my loss is in being removed from you to this distant part of the earth, I feel sometimes that you can scarcely sympathise with me; you have parted with one or two (dear Aleck) but you still have many around you, whereas I have parted with all, &amp; am a solitary being in this hemisphere.  But tho' love and affection, those bonds and links which nature feels are so strong and firm that they cannot be dissolved, yet unite me to you, &amp; keep you fresh in my remembrance, think not that I despond or repine at my lot, oh no! If I have made a sacrifice if I have endured a loss as indeed in one sense I feel that I have, it has not been done presumptuously, but at the bidding of One, to whose commands all earthly affections must yield and give way, &amp; Who, while He commands me to leave earthly parents, etc., for His sake, says at the same time "&amp; I will be a Father unto you and ye shall be My sons and daughters." This promise of my Almighty Saviour &amp; God I feel daily to be fulfilled, for He fills me with all peace &amp; joy in believing, while engaged in proclaiming the blessed message of pardon &amp; peace, which He has commissioned me to make known to these poor heathen.  Yes, I repeat that those feelings of joy &amp; delight, which are more easily understood, when experienced, than expressed to others, &amp; which I do partake of when standing up to proclaim in a strange tongue, the mysteries of the Gospel to some hundreds of these New Zealanders, who are all attention to hear the wonderful message of Jehovah's love, more than compensated for all my losses &amp; can for a time lead me to "forget my father's house".  But while I speak of proclaiming the <hi rend="underline">mysteries</hi> of the Gospel to these poor ignorant people, the sum of my preaching is simple, being this - 1. Are you sinners? &amp; this, tho' "they have been without law" they never fail to acknowledge.  2, Is it the custom among yourselves to let sin &amp; transgression go unpunished?  No.  3. Think you that God (the Creator &amp; Ruler of the world) however good, merciful or compassionate He may be, will let sin go unpunished?  No.  4. Have you any <hi rend="underline">satisfaction</hi> to make to God for <hi rend="underline">your</hi> <hi rend="underline">sins</hi> <hi rend="underline">past</hi> however you may now amend your lives?  No.  Then I show that Christ has fulfilled the law for sinners, &amp; shed His blood for the remission of their sins.  They will then enquire how was it that His blood possessed such value that it could suffice for the sins of all who believe, I answer because He is God as well as man, having taken our nature on Him in order to die for our sins (Heb. 11.14).  Thus the Gospel becomes plain and simple to them, &amp; then they immediately see that their sins which they practised so freely in their ignorance, are hateful to God &amp; must be parted with. </p>
+      <p>This then is my cause of rejoicing, that whereas I came among these people rather more than two years &amp; a half ago, and found them engaged in wars, etc., I now find myself surrounded with believers, yes many, very many real believers. But to what shall I ascribe this? To myself? As well might I ascribe it to the paper in which the words of the Lord are printed.  No, "we preach not ourselves" said St. Paul, "but Christ crucified" &amp; to this it is to be ascribed, we "have not preached cunningly devised fables" we have not corrupted the word of God "but as of sincerity, but as of God, in the sight of God, speak we in <hi rend="underline">Christ</hi>" and therefore the word proves mighty thro' God to the pulling down of strongholds &amp; every high thing that exalts itself against the knowledge of God, Englishmen who hesitate not to tell the natives there is no God, &amp; that my only motive for coming among them is to get money - but what can men effect against the Gospel?  What can Satan accomplish against the Lord?  Thus, therefore, when I look around me, I am ready to take up the language of the prophet Isaiah Ch.49.21 &amp; to "say in my heart: Who hath begotten me these, seeing I have lost my children &amp; am <hi rend="underline">desolate</hi>, a captive &amp; removing to &amp; fro?  &amp; Who hath brought up these?  Behold <hi rend="underline">I was left alone</hi>.  Then where had they been?"</p>
+      <p>But excuse all this.  An idea comes into my head &amp; then forsooth I must be foolish enough to let it run away with all of my paper; but I shall go on writing a little more for I have hitherto said nothing, &amp; trust you may find some younger eyes to read it for you.</p>
+      <p>I started early in March on one of my tours &amp; went a longer round than I had hitherto been. I went in my boat, but in it I go no more, for two reasons, first because in crossing the Straits I was nearly lost in a gale of wind breaking my rudder, &amp; being considered mad by all the seamen about the coast; &amp; secondly because our committee at the North, taking compassion on my erratic propensities, which they find it impossible to cure, have sent down a pretty little craft which is as safe as anything of the kind can be. I went first to Queen Charlotte Sound, where my people received me with much affection, having despaired of my life in my late illness.  There were about 700 or more present on Sunday at service, &amp; I baptised about 50. I then went on to Rangitoto, (Durvilles Island) &amp; was there delighted with these dear people, who are I think, the greatest treasures I have, especially some young women there. I then proceeded on about 50 miles further into Blind Bay to the new settlement "Nelson" where Capt. Wakefield and others received me very civilly, I preached to a good congregation there, but there were but few natives there, I then returned home, having been absent three weeks.</p>
+      <p>I am not very comfortable with regard to the temporal interests of the natives; I fear that ere long they will suffer from the rapid influx of white men among them, &amp; though Lord John Russell's despatch to the Governor respecting their lands is exceedingly good I fear it will be very difficult to put his orders into practice. I am expecting to hear of the arrival of our Bishop (Selwyn) since I have seen his consecration in the papers.</p>
+      <p>I never hear from Alexander except thro' you, I wish that foolish China war was at an end.</p>
+      <p>I am expecting to hear of the arrival of our new Bishop since I have seen his consecration in the paper.</p>
+      <p>And<!--typescript: Ane--> now, begging to be remembered to all my dear friends, &amp; begging to give my affectionate love to my mother &amp; all my brothers &amp; sisters, I remain, My dear Father,</p>
+      <p>Ever your affectionate Son,
+      </p>
+      <p>Octavius Hadfield.</p>
+      </body>
+   </text>
+</TEI>

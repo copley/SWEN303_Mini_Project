@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1103">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>18 May 1883: Haast to Hooker.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9511/&gt;Sir Julius von Haast">Sir Julius von Haast</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Kew DC 174 f. 390.</p>
+         <p>Transcription published in "The Correspondence of Julius Haast and Joseph Dalton Hooker, 1861-1886", by Sascha Nolden, Simon Nathan &amp; Esme Mildenhall.  Geoscience Society of New Zealand miscellaneous publication 133H, 2013.  ISBN 978-1-877480-29-4. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133H.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1883-05-18">1883 May 18</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Haast to Hooker, 18-5-1883 Kew DC 174 f. 390.</p>
+      </front>
+      <body>
+      <p>
+Christchurch </p>
+            <p>May 18th 1883</p>
+            <p>My dear Hooker</p>
+            <p>I was very glad to see once more your well known &amp;
+welcome handwriting, when I 
+received your note of March, concerning Colenso’s certificate. I signed it at once &amp; 
+forwarded it to Buller, who had not yet signed it. I shall be truly glad if Colenso is elected; he 
+is one of the “Vieille Garde”. I congratulate you most heartily on the completion of the 
+Genera Plantarum, a work which will remain a classical proof of your energy, [2] 
+perseverance &amp; deep research (of course I speak also of Mr Bentham) &amp; to which every 
+botanist has to go for information.</p>
+            <p>I can now get some seeds of 
+Cordyline indivisa
+from Mt Herbert
+(Banks Peninsula)
+,
+where it grows to 25
+00 feet, &amp; is often covered for
+weeks with snow, (at least the bottom). 
+Perhaps that from
+such hardy plants it will grow
+. Shall I send you some?</p>
+            <p>I have unfortunately very little time for scientific work. The lectures during term time 
+take the greater part of my time &amp; in our holidays I [3] have to get rid of the museum work I 
+had to put off.</p>
+            <p>The latter has grown over my head &amp; being hard up for money I cannot afford to get 
+any scientific assistance I want so very badly. We were obliged to start a School of Art from 
+the Museum Trust funds (according to our deed) &amp; this has quite crippled us.</p>
+            <p>However I hope for better times.</p>
+            <p>Very faithfully yours,</p>
+            <p>Julius von Haast</p>
+            <p>Sir Jos. D Hooker FRS KCSI.</p>
+            <p>Director Royal Gardens</p>
+            <p>Kew</p>
+</body>
+   </text>
+</TEI>

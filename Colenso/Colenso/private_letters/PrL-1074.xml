@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1074">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1899 January 19: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL: MS-Copy-Micro-0485-1. Endorsed “His last letter to me.”</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1899-01-19">1899 January 19</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1899 January 19: to Harding<note xml:id="ftn3-938" place="foot" n="938"> ATL: MS-Copy-Micro-0485-1. Endorsed “His last letter to me.”</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Gow’s Hotel,</p>
+         <p rend="end">Waipukurau,</p>
+         <p rend="end">Jany.19, 1899,</p>
+         <p>Dear Mr. Harding—</p>
+         <p>I am again <hi rend="italic">here</hi>, &amp; halting today I may truly say—<hi rend="italic">idle</hi>! and cannot do better than write to you, &amp; thank you heartily for your usual kind &amp; full letter of the <hi rend="italic">10</hi>
+            <hi rend="sup italic">th</hi>.—recd. by me late night, 11<hi rend="sup">th</hi>. and brought with me (unopened) on 12th, (I had a <hi rend="italic">long</hi>, &amp;, on the whole, a <hi rend="italic">pleasing</hi> dream last night, in which <hi rend="italic">you &amp; Hector</hi> were conversing for nearly an hour (!!) Subjects—yourself (past present future) myself, <hi rend="italic">ditto</hi>: I should like to <hi rend="italic">relate</hi> it orally: Mao Lex., Hawaiki, my projected papers for Instit., on Maori lore, &amp;c, &amp;c,—dropped—thro’ Locke, Weber, &amp; Holder, &amp;c.,—and, really, <hi rend="underline italic">new</hi>
+            <hi rend="italic"> gleams</hi> of light! continually springing! (of late years—in dreams, <hi rend="italic">such</hi> have not unfrequently occurred, &amp; sometimes astonished me! Whence? &amp;c, &amp;c, &amp;c, necessarily follow.) but I must stop this—Rhapsody.</p>
+         <p>Somewhere towards end of Decemr. I recd. a letter from Wills, saying, he was obliged to go to Nelson—business on death of his mother—absent, probably, 3 Sundays. Would I take duty for one? say 8th. Jany. Replied: <hi rend="italic">not</hi> 8<hi rend="sup">th</hi>.: moreover, what amount of duty? (W. has several places adjg. to serve.) If <hi rend="italic">more</hi> than twice at O, <hi rend="italic">NO</hi>: If to <hi rend="italic">walk</hi> to &amp; from Ch. to Vicarage, <hi rend="italic">NO</hi>: and If it should be wet, or <hi rend="italic">high </hi>wind,—<hi rend="italic">NO</hi>: and there I thought it would end; but on 10<hi rend="sup">th</hi>. a note from <hi rend="italic">him</hi> (leaving next day for Nelson)— “2 S. only at O: driven to &amp; from: and if wet, &amp;c, Laym. would act!” So, being trapped, I went thither (from here) on 14<hi rend="sup">th</hi>. Weather deplorably <hi rend="italic">wet</hi> on Sunday, yet I persevered, &amp; held 2 S., a <hi rend="italic">kind</hi> old H.B. settler named Bavard driving me to &amp; fro, (<hi rend="italic">sans</hi> fee or reward!) thinking highly of booklet “Errors of Rome,” &amp;c.—I left by early train on Monday: found Mrs W. (an <hi rend="italic">entire</hi> stranger) a very nice pleasing &amp; kind lady—great artist in water colours.<note xml:id="ftn3-939" place="foot" n="939"> Mary Wills, born Mary Wykes, was the wife of minister John Wills. She painted over 200 watercolours and oils 1880–1930s, including views of Wellington and Auckland. She is buried in Ormondville.</note> Rooms ornamented w. delightful N.Z. sketches scenery and 2 fine albums of our indigenous plants—<hi rend="italic">well</hi>
+            <hi rend="italic">done</hi> (better, more natural than Mrs. Featons). Some few spns. from <hi rend="underline italic">your</hi>
+            <hi rend="italic"> friend</hi> Bp. W. On the whole I was much pleased w. my visit—being, also, in all proby. <hi rend="underline italic">the last</hi>. On Tuesday I went to Waipawa (a true <hi rend="italic">dies non</hi>, or <hi rend="italic">worse</hi>, <hi rend="italic">wasted</hi>!) Yesterday aftn. being very hot, I walked to Manse could not open iron gate! (iron no doubt expanded by heat) a passer-by also tried but in vain: thence to Vicarage, Tuke &amp; w. &amp; fy. gone to Cricket-ground! (near here) I, nearly <hi rend="italic">exhausted</hi>, to Mrs. Trestrail’s, found a yg. m. named Ellis with her (&amp; so last wk. when I called), a son I believe of Ellis, Chemist, Napier, now residing <hi rend="italic">for health</hi> at adjg. house (Mackersey’s) but rapidly declining through Consumption. I found the dear old soul much as usual, only weaker: I go thither again this aftn. to “3 o’clock tea”. Grant went yesty. to N.—to induct Asher at St. Paul’s,—he was <hi rend="italic">here</hi> w. me on Friday nt. 13th.</p>
+         <p>[xi.am. Have just seen Herald, (of 19th.) <hi rend="underline italic">See it</hi>: Induction of Mr. Asher, &amp;c,—an art. on teetotal drinks (<hi rend="italic">good</hi>), and a Comm. from Dvk., re old age pensions—also <hi rend="underline italic">good</hi>: were paper mine I would send it].</p>
+         <p>To return: I spent my Xmas. &amp; N. Yr., as usual, quietly, no Visitors—had <hi rend="italic">plenty</hi> to do in writing way!—now re Lex. “A”., I think I informed you I had received Mackays bill for ptg. ₤82. less ₤20 promd. by Govt., so I wrote to know, what S. would determine for 200 (of my 500) copies, as ₤82 was for <hi rend="italic">all</hi>. On Decr. 30th. a short memo. from “Dept, Justice”,—G. printer had fixed £26 &amp; so, on 31st., sent Chq. for £36.1.0—more then a week passed, no reply, I wrote to My—askg. if he had recd. chq.? and 2 days after I got <hi rend="italic">bare receipt.</hi> I also wrote <hi rend="italic">fully</hi>—long—to him re state of rough mss., explaining, &amp;c—and, here, have his reply [not what I had expected, but <hi rend="underline italic">no matter</hi>]. I fear—as I gave Govt. to understand—there is <hi rend="italic">little</hi> prospect <hi rend="italic">now</hi> of my getting any more copy of Lex. ready for press:—I <hi rend="italic">may</hi>? and I hope to try.—I cannot help thinking that <hi rend="italic">something </hi>unpleasant may have taken place between Mackay &amp; S.,—or some one—re letter “A”.—Why so? altered tone in My’s. last 3, &amp; all addressed, within &amp; without “W.C. Esq”.—&amp; never before: and if anything has happened, <hi rend="underline italic">I am wholly innocent of it</hi>.—</p>
+         <p>In first wk. of Jany. I saw Crerar (with whom <hi rend="italic">always </hi>very friendly) about selling a few copies of “A”. (he went to Auckland on 7<hi rend="sup">th</hi>.,) and I was to draw up advt. for <hi rend="italic">one</hi> of our p. I enclose copy written last night. If you can alter for the <hi rend="italic">better</hi> do so (it is in your line!) and send—or wire to <hi rend="italic">my cost early</hi> next wk., I purpose seeing C. re same, on Tuesday 24<hi rend="sup">th</hi>. if fine. I should like for <hi rend="italic">you </hi>to write an <hi rend="italic">art</hi>. on “A”.—Hill has long been talking about it, but he does not know Maori—neither does he know clearly the <hi rend="italic">past</hi>, re Lex., (the <hi rend="italic">long</hi> Py. p. printed in particular) and he has so many things to do, (of late <hi rend="italic">helping</hi> W. with arts. for Hd.) and, I fear, is <hi rend="italic">likely</hi> to run off the rails! besides, I have <hi rend="italic">neither</hi> seen <hi rend="italic">nor</hi> heard from him since my last to you: I fancy I offended his wife who made 2 <hi rend="italic">pressing</hi> applications for <hi rend="italic">money</hi> for Xmas gewgaws, (Xmas tree for orphan’s Home, &amp;c) &amp; recd. a positive <hi rend="italic">refusal</hi>—in plain terms: I dread H. committing himself—thro’ ignorance &amp; haste. “A” is reviewed, &amp;c. in “Nature”, Augt. 18th., but <hi rend="italic">I do not quite like </hi>it; among other remarks, we have,— “scholars are sometimes dilatory”, &amp;c—but <hi rend="italic">such</hi> as <hi rend="italic">you know</hi>, does <hi rend="italic">not</hi> apply to me. I think I told you, that I have recd. in replies from Libraries &amp; Societies, strongly expressed wishes for the <hi rend="italic">whole</hi> to be published. Seeing, too, that Reeves is out, at Home, in publishg. re N.Z., I have thought, that R. <hi rend="italic">may</hi> have had a finger in the art. in “Nature”. (!) Canon St. Hill, wished me to take Ch. S. at Clive on 5<hi rend="sup">th</hi>. Feb., and I <hi rend="italic">agreed</hi>,—<hi rend="italic">now</hi> a note to hand from him wishg. me to do so on 29th Jany. instead, &amp; to preach the annual Maori missy. Sermon.—and (as I always “give way”) I shall (D.V.) do so—but, the little place of Clive is too small, &amp; too poor, to plead such a cause, <hi rend="italic">there</hi>, besides, if matters were properly managed (can such now be?) the Maoris ought to have <hi rend="italic">plenty</hi> for themselves—&amp; to <hi rend="underline italic">help others.</hi>
+         </p>
+         <p>I had scarcely begun this page when Mr. Tuke called, &amp; spent ½ hour. </p>
+         <p>I have not heard from Mr. Welsh, since my last, and fear he is not much (if any) better. Have not seen Stack’s brochure, lend it—or (<hi rend="italic">better</hi>) <hi rend="italic">buy</hi> me one—I note what you say re Tregear, &amp;c. I saw in Kirk’s Forest flora (a ponderous vol.!) his mention of plant Ss. (as often sd. by Maoris, “brought w. them from Hawaiki”—Heaphy’s explanation that “the H. of the M. had been subsequently swallowed up by Earthq. agency”! Why not? <hi rend="italic">better</hi> (easier) than Tregear &amp; co’s. everlasting fad! ch. st. sc.!!! I saw Hamilton at N. for a few minutes before I left. I have “Johnson’s Typogy.”, should like to see Linotype, <hi rend="italic">can’t understand it</hi>. You mention, <hi rend="italic">long</hi> vacation from Pg. Off. explains, the <hi rend="italic">non</hi> arrival recpt. for chq. I think I know your botl. spn., tho’ poor very likely a sp. of <hi rend="italic">Hydrangea</hi>. Much pleased in knowing Mrs. H. acted so thoughtfully—truly matronly, for dear Victor. Thanks for all news. Kind regards to you—<hi rend="underline italic">all</hi>.</p>
+         <p>Yours ever</p>
+         <p>W. Colenso</p>
+         <p>P.S. Totting up I find I wrote 1081 letters in 1898.</p>
+      </body>
+   </text>
+</TEI>

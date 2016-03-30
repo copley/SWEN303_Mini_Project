@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0198">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1897 Imprecatory Psalms. Hawke’s Bay Herald 20 November.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1897-11-20">1897 November 20</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1897</hi> 
+                  <hi rend="bold">Imprecatory Psalms.</hi>
+                  <hi rend="bold">	
+                     <lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 20 November.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—In your issue of Thursday (18th), in the report of the Diocesan Synod proceedings, you give two motions made by me, with a very condensed <hi rend="italic">resumé</hi> of what was said about them; and, as I take it, placing me in rather an unfair light, more, however, to be found in the remarks of other speakers; which, if left unnoticed, may be the means of still further objectionable observations or thoughts respecting me, where your paper is extensively read. Therefore, with your permission, I would say a few words concerning them in two short letters.</p>
+         <p>“The Rev. Mr Colenso moved,— ‘That on those days in which an imprecatory psalm follow as appointed for use, the minister be allowed to use another Psalm instead thereof.’” This subject has been for many years on my mind; increasing in strength from the frequent remarks I had from time to time heard. The present I thought a good opportunity, as our Bishop had lovingly told us of the kindness and humanity of the large number of the American Protestant Bishops at the late Lambeth Conference and I had long known that in their book of Common Prayer (precisely in the main as ours), there were no less than ten varying selections from the more beautiful, simple, natural, and godly Psalms, any one of which may be used instead of the Psalm appointed for the day at the discretion of the minister. Of course this early amendment of the American Episcopal Church was to obviate the reading of those few Psalms containing those horrid Jewish curses and wishes and prayers,—so utterly repugnant to the teaching and acting of our Lord, and to the character of our God, and Father, and consequently anti-Christian. Even the very contrary of our own very poor deal logs here. Such as: “Let the children be fatherless and vagabonds and beg their bread, and seek it in desolate places; let the extortioner consume all that he hath,” &amp;c. “The Lord hath said—that thy feet may be dipped in the blood of thy enemies, and the tongues of thy dogs red through the same.” “Consume them in thy wrath, consume them that they may perish,” &amp;c. “Blessed shall he be that taketh thy children and throweth them against the stones,” &amp;c. (Pss. 109, 59, 68, 137.) </p>
+         <p>The celebrated Dean Farrar, of Canterbury (England), in a recent work of his on the Bible truly calls them “sweeping curses,” and inveighs strongly against them. The Dean asks,— “In the blessing pronounced on those who should take the little children of the Babylonians and dash them against the stones, are we to see a supernaturally dictated sentiment of divine morality, or are we to detect a fierce utterance of Jewish hatred, which directly contradicts the exhortation of Jeremiah?” </p>
+         <p>Now in our own English Book of Common Prayer an instruction is given as to the proper reading of the Psalms, in these words:— “Note, also, that on occasions to be appointed by the Ordinary, other Psalms may, with his consent, be substituted for those appointed in the Psalter.” And I had supposed that I was acting quite within it in bringing forward this motion. Bearing in mind, that by the term “Ordinary” in England, the Bishop of the Diocese for the time being is not meant but an inferior ecclesiastical officer; yet, no doubt here, as things are, the Bishop could rightly act. Our Bishop, however, decided as given by you, that the permission sought for by me was only for special services, which (while I confess I cannot see) it is my duty to observe; though to that I might reply “Just so, for it is only on those special occasions.” </p>
+         <p>Mr Tanner, in his reply to Mr Eccles, observed “That even the Church of Ireland had not thought fit to expunge those Psalms from its Prayer Book” (As if I had ever once thought of such a thing!) Archdeacon Williams argued on “The closeness of the tie between the Mother Church and us”: —which very thing I had sought to keep close to in my motion. The Rev. Mr Hobbs said, “We should wait for reforms in this direction from the Mother Church.”—And this with the needful reform made in the American Church more than a 100 years before—in 1789!—in their Prayer Book before him. </p>
+         <p>I could say much more—but you have no spare room, and I am weak—in body. Of one thing I feel assured, that this same matter will crop up again—and (it may be) again, until the proper object sought is attained.—I am &amp;c., </p>
+         <p>
+                  <hi rend="smallcaps">		W. Colenso</hi>. </p>
+         <p> Napier, November 19th, 1897.</p>
+      </body>
+   </text>
+</TEI>

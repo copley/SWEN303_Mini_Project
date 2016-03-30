@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0384">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1879 March 31: to Cathcart</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-3319.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73927/">Cathcart</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1879-03-31">1879 March 31</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1879 March 31: to Cathcart<note xml:id="ftn3-6" place="foot" n="6"> ATL MS-3319.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>March 31<hi rend="sup">st</hi>. 1879</p>
+         <p>Mr. Robert Cathcart,</p>
+         <p>Dear Sir,</p>
+         <p>I was pleased to get your letter of the 16<hi rend="sup">th</hi>. instant, for I had begun to think a little about you,—whether you had once more tried your luck on the Ocean, and gone back to our old Country in your old ship and Captain and mates. Indeed I kept a kind of look-out over our S. papers, to see of her sailing from Port Chalmers. Now, however, I certainly know all about it from your note.</p>
+         <p>I was sorry to hear of your hurt (sprained ancle), but pleased to find you were got over that, and that your old Captain had taken a run to see you, and (above all) that you had made a great number of friends at Lyttelton, which place you also say you now consider your home. This is all good: and I also highly approve of your determination to say Goodbye to a seafaring life; for I perfectly agree with you that it is a most miserable life. I often think how much, how very much, we landsmen are <hi rend="italic">indebted</hi> to our Sailors—(would that others also thought this!) Here, for instance, is the “Adamant”, which arrived from England to Hawke’s Bay, and only left yesterday, after nearly 3 months in our roadstead taking in cargo; well, just after she arrived here, some little row took place at the port among the crew of the Captain’s boat (which brought him on shore) and some landsmen, and on the Captain going thither, he was sworn at, and all that, by one of his crew—the poor fellow was laid hold of by a policeman, had up, &amp; sent to gaol,—when his month was up he refused to go on board, so was again sent to gaol until the ship was ready, and so on: another of her people (a boy) deserted, and then, in the country, took a watch, he is now in gaol for a month, and what a poor prospect he has before him when his time is up!—</p>
+         <p>I thank you for your kind &amp; thoughtful remark about my son; he will not, I believe, go to sea again as a sailor, although he is still passionately fond of the sea. He is residing with my brother in the W. of England, (where he has been now nearly 4 years,) and has a little craft of his own (a 6 ton boat which he got built to his own model) which he calls a yacht, and he spends his English summer in sailing about in Mount’s Bay and to the Land’s End England—in “the chops of the Channel”! It is a pleasant place, especially in summer, the sandy beaches being such good landing. He was once in Lyttelton as a sailor when in the “Merope” with poor Capt. Williams.</p>
+         <p>Many thanks for your likeness. I look at it and think on <hi rend="italic">that night</hi> in the Channel when <hi rend="smallcaps">God</hi> preserved you. Ever put your trust <hi rend="italic">in Him</hi>,—at all times &amp; seasons, blow high or blow low,—and you will find you will get safely to port at last.—</p>
+         <p>Don’t think of being again taken “in regalia”,—no need of it; for my part I don’t care about flags or fine feathers.—</p>
+         <p>I shall always be glad to hear from you whenever you may be inclined to write; and should you again meet with misfortune, in your work, and get laid up for a season, don’t forget to look this way for a helping hand—or a ₤.—</p>
+         <p>             And, Believe me,</p>
+         <p>                             Yours very truly</p>
+         <p>                                             W. Colenso.</p>
+         <p>I am happy to say that my own health is pretty good.– W.C.</p>
+      </body>
+   </text>
+</TEI>

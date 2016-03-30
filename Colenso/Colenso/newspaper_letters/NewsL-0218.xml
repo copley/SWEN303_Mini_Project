@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0218">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Hawke’s Bay Herald 13 February 1899.</title>
+        <author>
+          <name type="person">H. Hill</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person">H. Hill</name>
+          </author>
+          <date when="1899-02-13">1899 February 13</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold italic">Hawke’s Bay Herald 13 February 1899.</hi><note xml:id="ftn67" place="foot" n="67">Nearly all of the national and provincial papers carried Colenso’s obituary—<hi rend="italic">Ed.</hi></note>
+      </p>
+    </front>
+    <body>
+      <p>
+        <hi rend="bold">A TRIBUTE TO THE VETERAN.</hi>
+      </p>
+      <p>[By H. Hill.]</p>
+      <p rend="justify">Yesterday the grave closed over the mortal remains of one who has for many years held a foremost place amongst (us) as a citizen, and as a man of science. The spectacle was an imposiug one, as befitted the occasion. All classes of the people were represented at the funeral, for all were able to show in this way the esteem and respect in which the late Rev. Mr Colenso was held. The scene at the grave side was sad, and withal beautiful. An old man full of years and honors, was borne to his last resting place. Yet no wife, no child, no relative was there to mourn his passing away. But friends and associates and admirers—all classes, all creeds, as well as those of no creed—were there to do honor at his burial to the man who, whilst living loved the poor, the homeless, and the unfortunate and though dead had not forgotten to make “mention of them in his will.”</p>
+      <lg>
+        <l>His house was known to all the vagrant town,</l>
+        <l>He chid their wanderings, but relieved their pain,</l>
+        <l>Careless of their merits or their faults to scan.</l>
+        <l>His pity gone ere charity began.</l>
+      </lg>
+      <p rend="justify">Such was the man of 88 years who, of us all had resided longest in this district and had witnessed the birth of Napier and seen the marvellous changes through which it has passed since the year 1843, when as the first European he came here to do missionary work. He had then resided in New Zealand nine years. Coming to the country as a printer, and imbued with scientific tastes and strong religious convictions, he was not the man to remain idle during the intervals of rest from the printing press. Already his name was known to the motley crowd in the Bay of Islands as an enthusiastic collector of plants, and we find the celebrated Darwin making his acquaintance in 1835 during the voyage of the Beagle; Allan Cunningham, the botanist, in 1837; and Sir Joseph Hooker in 1843. Cunningham died in 1839 at Sydney, but he appears to have made a deep impression upon Mr Colenso, for only in December last a long conversation took place between the writer and Mr Colenso concerning Allan Cunningham, whom Mr Colenso mentioned in loving terms as a noble character and an ardent student of botany. But he was proud of the acquaintance of Allan Cunningham for another reason. Cunningham knew Sir Joseph Banks, the botanist who accompanied Cook in his first voyage to New Zealand, and thus, as he used playfully to remark, he was the link that joined the century gone with the century going. </p>
+      <p rend="justify">The acquaintance made with Sir Joseph Hooker remained unbroken to the last. It was in July 1886 that a letter arrived from Sir Joseph informing Mr Colenso that he had been unanimously chosen for honors by the Royal Society, it being the only occasion on which such an honor had been conferred without a single objection being raised. The Royal Society is supposed to contain none but princes in the world of science, and as is natural, Mr Colenso was proud of the honor conferred upon him. Even so long ago as 1864, when Sir Joseph Hooker was occupied in the preparation of the “Handbook of the New Zealand Flora,” he had written in the preface:— “In every respect Mr Colenso is the foremost New Zealand botanical explorer, and the one to whom I am most indebted for opinions and information.” And he maintained his position to the last. No other man has written so many papers in the “Transactions of the New Zealand Institute” on botany, Maori customs, natural history, and legendary lore, and I believe that one of his botanical papers is now being printed in the Transactions to be issued shortly. Here is an example of steadfastness and diligence, seldom to be found among men, and it is worthy of being held up to the pupils of our local schools, who have also been remembered by this veteran of science in his will. </p>
+      <p rend="justify">Less than a year ago the first portion of his Maori-English Lexicon was issued from the Government printing office. It bears a dedication to his old friend Sir George Grey, who, I believe, was dead before a special presentation copy reached London. For 32 years the Government of this country has been meddling and muddling with the issue of this work, the only result being the printing of the letter A. The manuscript is left in the pigeonholes of the room in which Mr Colenso spent so many years of his active life, to the everlasting disgrace, be it said, of officialdom and mediocrity of mind among those who ought to lead the destiny of our country to better things. But the history of this transaction dealing with the Maori-English lexicon has yet to be told. The last word has certainly not been said on the subject, for the full and complete facts are known and Mr Colenso’s name will yet be vindicated before the world. </p>
+      <p rend="justify">Of his private life it is difficult to write. He hated shams of all kinds, and the new ways of the world, in whatever direction, were to him an abomination. The “boys of yesterday” who came to him were too often repulsed by his pungent remarks on the forwardness and lack of knowledge of the younger generation. He had outlived his own generation, and the new generations, with new thoughts and new ways, were not to his liking. Yet he had a tender and loving heart, and no man was ever more ready to help those in distress, and likewise young children, with many of whom he corresponded until within a few days of his death. As a citizen he has left behind him a good name, worthy of all praise. As a scientific student and collector and as a philologist he has done excellent work for his country such as was needed in the early days of settlement, and his mark has been left on the “sands of time,” for the benefit of other men and other students. When the history of Early New Zealand comes to be written the name of William Colenso, F.R.S., F.L.S., printer, missionary, scientist, philologist, and, best of all, humanitarian, will be found among the list of the honorable roll of men who spent their talents in laying a strong foundation for the future of this land, and who when dying remembered the poor, the outcast, the unfortunate, and the young children in his will, without regard to age, creed, or nationality. </p>
+      <lg>
+        <lg>
+          <l>Lay me low, my work is done;</l>
+          <l rend="indent">I am weary, lay me low,</l>
+          <l>Where the wild flowers woo the sun,</l>
+          <l rend="indent">Where the forest breezes blow,</l>
+          <l>Where the butterfly takes wing,</l>
+          <l rend="indent">Where the creepers drooping grow,</l>
+          <l>Where the wild birds chirp and sing</l>
+          <l rend="indent">I am weary, let me go.</l>
+        </lg>
+        <lg>
+          <l>I have striven hard and long</l>
+          <l rend="indent">In the world’s unequal light.</l>
+          <l>Always to resist the wrong,</l>
+          <l rend="indent">Always to maintain the right,</l>
+          <l>Always with a fearless heart;</l>
+          <l rend="indent">Taking, giving blow for blow,</l>
+          <l>Willie, I have played my part,</l>
+          <l rend="indent">And am weary—let me go.</l>
+        </lg>
+        <lg>
+          <l>Stern the world and bitter cold.</l>
+          <l rend="indent">Irksome, painful to endure,</l>
+          <l>Everywhere a love of gold.</l>
+          <l rend="indent">Nowhere pity for the poor,</l>
+          <l>Everywhere mistrust, disguise,</l>
+          <l rend="indent">Pride, hypocrisy, and show,</l>
+          <l>Draw the curtain, close mine eyes,</l>
+          <l rend="indent">I am weary—let me go.</l>
+        </lg>
+      </lg>
+      <p rend="justify">Such were the sentiments and wishes addressed 19 years ago to his son by the man with whom we have parted for a time. He has now been laid low in full anticipation of a glorious rising. The good fight of faith has been fought—he has entered into his rest and his works will follow him. </p>
+    </body>
+  </text>
+</TEI>

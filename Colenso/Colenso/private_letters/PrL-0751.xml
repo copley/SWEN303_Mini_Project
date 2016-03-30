@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0751">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1890 November 3: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0495.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1890-11-03">1890 November 3</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1890 November 3: to Harding<note xml:id="ftn3-486" place="foot" n="486"> ATL qMS-0495.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Woodville<lb/>Monday night,<lb/>Novr. 3<hi rend="sup ">rd</hi>, 1890.</p>
+         <p>Dear Mr. Harding</p>
+         <p>Your usual kind &amp; friendly letter of 26<hi rend="sup ">th</hi>. Octr. reached me at Dannevirke in due course, and as I was coming on to this place (w. the Bishop) on Saty.—for Sunday’s services,—I brought it on w. me, believing I should have time here to reply: I thank you most heartily for it—the very sight of your well-known hand in address serves to cheer me.</p>
+         <p>And first for the clipping enclosed <hi rend="italic">re </hi>Ebenezer Baker! it is bristling w. errors!! and, as a lover of truth (particularly in <hi rend="italic">matters of early Maori history</hi>), I intend replying to it, in a letter to the “Post”<note xml:id="ftn3-487" place="foot" n="487"> He refers to An Old New Zealander <ref target="http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&amp;cl=CL1.EP&amp;e=01-07-1890-01-12-1890--10-PubMetaEP-1----0%22Baker%22-all">
+                  <hi rend="italic">Evening Post</hi>
+               </ref>24 and <ref target="http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&amp;d=EP18901027&amp;e=01-07-1890-01-12-1890--10-PubMetaEP-1----0%22Baker%22-all">27 October 1890</ref>; see below.</note>—but I have delayed this until I get to Napier—which I hope to do at end of this week: I go thither also, for another purpose, viz. to read 2 papers at <hi rend="italic">last </hi>meeting of Institute on Monday next (10<hi rend="sup ">th</hi>.)—provided, there is <hi rend="italic">not </hi>any of that unseemly hubbub from Y.M.<hi rend="underline italic">C</hi>.Assn.—in next room, which was so painfully conspicuous on last occasion. I wrote last week to Mr. Macdonald, re above, to <hi rend="underline italic">timely</hi> see the officers of that party in this matter; and now, I find, from the Bp., that Mr. M. <hi rend="italic">left </hi>N. on Thursday last for Xt.Ch., &amp; so I have just written to Dr. S., adding , that if any repetition of that noise—I <hi rend="italic">don’t </hi>read my papers.—I had also requested M. to speak to <hi rend="italic">the Dean </hi>about it, he being a <hi rend="italic">prominent</hi> hand w. them. Mr. Walsh, Postmaster here, always friendly, also sent me a copy of <hi rend="italic">that Paper</hi>, re Eb. Baker.</p>
+         <p>Poor dear Mrs. Palmer, I also well knew, as she was, at one time, Mistress of the Spit school. Did you know <hi rend="italic">Mrs. </hi>Lowry? who died last week after a <hi rend="italic">short </hi>illness at Palmerston. I knew her <hi rend="italic">well</hi>, &amp; visited her (them) when last here, &amp; she was then the picture of health. A sad trouble for S., coming too with t’other (Land) trouble!</p>
+         <p>I don’t understand you when you say—“I will have <hi rend="italic">3 </hi>votes, but may not use all.” I supposed—that, now, in this “1-man-1-vote” time, <hi rend="italic">no one </hi>had more than one vote: &amp; so, <hi rend="italic">all </hi>that I have talked w. on this subject.—particularly your cousin Rechab w. whom I had a long chat on Waipukurau platform Ry. station.</p>
+         <p>I have <hi rend="italic">not </hi>seen Howlett’s “Tirenics”; I sent you “Bush Adv.” w. <hi rend="italic">his </hi>election address (my only copy) I spoke to Clayton, he sd. he did <hi rend="italic">not </hi>send <hi rend="italic">you </hi>any copies. Again, I agree w. you in your strictures on the doings of the “C.J.” <hi rend="italic">re </hi>Horsey-men! although I am not amazed at anything <hi rend="italic">he </hi>says—after my sad &amp; expensive expce, of Stamford Street.<note xml:id="ftn3-488" place="foot" n="488"> Colenso traversed this matter in letters to the <hi rend="italic">Hawke’s Bay Herald</hi>: Stamford-Street files 23 February 23; A last word on Stamford-Street 10 March 10; and Stamford-Street 11 April 1884.</note>
+         </p>
+         <p>My (our) good friend—Robert Stewart, is to be ordained <hi rend="italic">here </hi>by Revd. Paterson Grant, &amp; Co., on the 25<hi rend="sup ">th</hi>. inst, &amp; Social AnnualMeeting of same Ch. here on 26<hi rend="sup ">th</hi>., and (D.V.) I purpose being present.—</p>
+         <p>In my letter to Hony. secy., I mentioned <hi rend="italic">your </hi>vol. xxii—also, the copy for Dr. Yates, Cal., USA., &amp; hope he attended to <hi rend="italic">both</hi>. Who now will become Secy. &amp;c.?</p>
+         <p>The weather of late has been very rough: <hi rend="italic">Yesty. it blew a hurricane here</hi>, w. heavy rain at night, &amp; to day wind very high again. Last nt. in coming out of Ch.—the Bp’s. hat blew off! &amp; as it was pitch dark, could not be found: <hi rend="italic">so</hi> his big <hi rend="italic">hood </hi>(D.D.) <hi rend="italic">proved of great service. </hi>It has now been found, &amp; the Bp. wearing it left vii this mg. for Napier.</p>
+         <p>I know <hi rend="italic">very little re </hi>politics &amp; election matters: did <hi rend="italic">not </hi>read R. Stout’s Nap. speech: I see there is a <hi rend="italic">long </hi>letter in “Herald” of this day <hi rend="italic">re </hi>same, by Fulton, but <hi rend="italic">I did not </hi>read it.—</p>
+         <p>A curious circumstance that <hi rend="italic">re </hi>“Case of Wms. Dicty”. I think I told you that <hi rend="italic">all </hi>Buller’s Liby. &amp;c &amp;c were in the “Assaye”:—a sad loss—also, of <hi rend="italic">life</hi>!—</p>
+         <p>Hill, Inspr., is now at Gisborne &amp; E. Coast. The Bp. leaves for those parts on Thursday next, &amp; will not return until February!!—</p>
+         <p>I expect to return to the Bush District again—shortly, <hi rend="italic">to remain for a time</hi>, but if so, will let you know.—</p>
+         <p>I note what you say <hi rend="italic">re </hi>your 2 dear children, &amp; I do hope you will have a <hi rend="italic">better </hi>report in your next: spring &amp; summer seasons I hope may prove highly beneficial.—</p>
+         <p>I dare say the “5 copies Inland Printer” you kindly mention are all right at N. I heard to day from one of our school teachers here, that that Memoir &amp;c. in “Typo”—has been repub’d—in the “Schoolmaster”.<note xml:id="ftn3-489" place="foot" n="489"> Perhaps <hi rend="italic">The New Zealand schoolmaster</hi>: a monthly educational journal and review.</note>—</p>
+         <p>Of course I shall see your brother &amp; your Father, when in Napier, &amp; will <hi rend="italic">duly report</hi>.</p>
+         <p>And now with very kind regards, &amp; best wishes for you &amp; yours, believe me</p>
+         <p>                             Yours sincerely</p>
+         <p>                                             W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0669">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1888 July 1: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-0586.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1888-07-01">1888 July 1</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1888 July 1: to Harding<note xml:id="ftn3-395" place="foot" n="395"> ATL Ms-0586.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">July 1/88.<lb/>Sunday night,<hi rend="italic">late</hi>.</p>
+         <p>Mr R.C. Harding</p>
+         <p>My Dear Sir</p>
+         <p>Before I retire to bed, I will write to you, &amp; so get you off my mind.—</p>
+         <p>I cannot help thinking (or, rather, <hi rend="italic">feeling</hi>) that you have scarcely dealt fairly with me in this matter of printing for me—I mean particularly, your <hi rend="italic">not</hi> noticing my enquiry of Saturday 23<hi rend="sup ">rd</hi>. June: and my reasons for feeling this the more acutely are,—you, being a Member of our Council (as well as Socy.)—your knowing, that it was absolutely needful the Address should be printed <hi rend="italic">quickly</hi>—if at all,—our conversation about it, and our being so friendly, &amp; <hi rend="italic">thinking alike</hi> on <hi rend="italic">many matters</hi>.——–</p>
+         <p>It is 3 wks. tomorrow since that address was given—and it ought to have been well advanced in the printing by this (I don’t say, by you). I have already had 2 enquiries about it! and what can I say?—or think? If Peacock were still at D.T., &amp; not over busy, I should certainly had gone thither.—–</p>
+         <p>Your <hi rend="italic">not replying</hi>, has given room for many, &amp; not very pleasant thoughts: as I cannot divine the reason.—</p>
+         <p>Every day of last week I had expected to hear from, or see, you. And certainly I should have called early in the week, but for <hi rend="italic">our </hi>Council meeting—on Wednesday 3 p.m.—(arranged on My. or Ty.)—believing <hi rend="italic">you</hi> would <hi rend="italic">be sure</hi> to be there. While waiting for a quorum I told Hill &amp; Ham., that your non-appearance (so unusual) was, no doubt, owing to the advent of Mr. Glover—<hi rend="italic">with</hi>, or <hi rend="italic">for</hi>, whom, you, no doubt, were <hi rend="italic">busy</hi>.</p>
+         <p>On Saty. night, I saw in D.T. your country occupations this day.—</p>
+         <p>I do not intend to go to town for some days—being far too busy here. So, (unless you do <hi rend="italic">not wish </hi>to have the job of printing, or <hi rend="italic">cannot </hi>get on with it <hi rend="italic">quickly</hi>,) I should like to see you here, to arrange about it: I cannot be kept waiting any longer.—–I am very very sorry at this sad loss of time.—</p>
+         <p>I am, Yours truly</p>
+         <p>W. Colenso.</p>
+         <p>P.S. As I <hi rend="italic">suppose</hi> you may return by mg. train—I shall <hi rend="italic">send </hi>this early to your printing office. W.C.</p>
+      </body>
+   </text>
+</TEI>

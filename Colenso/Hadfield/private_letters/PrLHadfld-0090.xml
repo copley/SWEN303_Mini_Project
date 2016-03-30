@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0090">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unknown date: Octavius Hadfield to his brother Charles Hadfield</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions, spine title "Hadfield, Typescript Miscellaneous Fragments 1833-1897", stamped 19 Dec 1979.  Section: Fragments - Fragmentary extracts from the letters of Octavius Hadfield.  "EXTRACT NO. 16."  Page 22.  Presumed to be addressed to Charles Hadfield due to the mention of his wife Agnes.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 10.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="-----">Unknown date</date>
+                  
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70819/">Charles Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Unknown date: Octavius Hadfield to his brother Charles Hadfield</p>
+      </front>
+      <body>
+      <p>..... so many hundred volumes have been written on both sides, as I believe that the human intellect has not the power of dealing with such subjects and that it is mere rationalism to do so, I cannot venture to enter upon it.  I believe the Holy Scriptures were written to teach us our duty, and that this may, through God's assistance, be easily learnt, but that they were not given to be used as they have been- more especially since the Reformation- to gratify our curiosity in matters which have no connection with duty.  With my opinions as to the nature of the human language and the limits of the power of the human intellect, many of these discussions appear preposterous.  There is one lesson taught in the H. Scriptures which is very little attended to, and that is, that the Christian is to God in many respects what the little child is to grown-up people-- and that he must wait patiently for a development which will enable him to know more fully, but in the meantime to go on by faith. </p>
+      <p>I was sorry to see by your P.S. that Agnes was not so well.  I suppose the Acasta will sail in about a fortnight at latest.  I am not quite so well this cold weather.  They are all tolerably well here.  I think we shall probably go up to London to sail.</p>
+      <p>Believe me</p>
+      <p>Your very affectionate brother
+      </p>
+      <p>Octavius Hadfield.</p>
+      <p>Excuse my writing so briefly but have had many letters to write yesterday and today.</p>
+      </body>
+   </text>
+</TEI>

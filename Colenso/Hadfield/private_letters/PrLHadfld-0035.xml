@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0035">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1842 January 27: Octavius Hadfield to his mother Amelia Hadfield (nee White)</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  Page 82.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 26.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1842-01-27">1842 January 27</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/46417/">Port Nicholson</name>
+               </correspAction>
+               <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70719/">Amelia Hadfield (nee White)</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1842 January 27: Octavius Hadfield to his mother Amelia Hadfield (nee White)
+         </p>
+      </front>
+      <body>
+      <p>Port Nicholson,</p>
+      <p>Jan. 27th. 1842.</p>
+      <p>My dear Mother,</p>
+      <p>Yours and my father's united letters of June 22, reached me the day before yesterday; I cannot attempt to express the pleasure which I derived from its perusal, nothing could have been more acceptable as it gave me particular information concerning those who are dear to me, &amp; seemed to be written by you both in good spirits, - I was glad to hear that you were all pretty well, &amp; dear George improving.  I have seen English papers to the 19th. Sept. &amp; was rather disappointed the other day when the ship which brought them from London contained no letters for me.  I wrote in the beginning of the month to Octavia, but hope this may reach you before that, as the account I felt bound to give you of my state of health was not very good &amp; I am happy now to be able to give you a more favourable report. I then stated that I had been confined to my bed for three weeks but was recovering &amp; since that I have been brought by my friend Mr. St. Hill to his house here by the very kind &amp; assiduous attentions of himself and Mrs. St. Hill, I have been supplied with every comfort. He has the best house in the colony, &amp; they have spared no pains in making me comfortable. I have been with them now a fortnight, &amp; trust that I shall shortly be enabled to resume my old employment. I have been in the hands of Dr. Fitzgerald who, I think, is a clever man. He told me that I was suffering from an affection of the pleura which required immediate attention lest it should spread to the lungs, in which case it might prove fatal. I have been cupped, &amp; I have had twice blisters applied to my sides etc. &amp; am now feeling well - I would that I could feel more grateful to the Lord for His goodness in raising up friends to me in time of need, &amp; supplying me with those means which were necessary for my recovery. "Trust ye in the Lord for ever", is a sweet sentence, oh that we could always act upon it. I went to church on Sunday and preached to an English congregation, &amp; did not feel much fatigued through my exertions. My breast has been unusually well, I have not coughed once during my illness.  It has been rather painful to me to be unable to live among my dear people &amp; to continue my instructions to them, but the Lord's will be done. They have appeared very anxious for my recovery &amp; appear much attached to me. I wish I had some help, my time is much wasted in moving about from place to place. I begin also to fear that the rapid influx of whites to this country must eventually prove injurious to the natives. This part of the country will shortly be over-run with settlers if colonisation proceeds as it has hitherto done. I cannot but fear that there will be bloodshed here before long, that a collision will take place between the settlers &amp; the natives, nothing, I firmly believe, at the present moment restrains the natives, but the power of the gospel, how long that may continue to act <hi rend="underline">generally</hi> as a restraint I cannot conjecture. I see no reason why such an event should take place, the natives are very easily managed, but the impetuosity of some settlers will probably act as a fire-brand, &amp; cause a general conflagration, &amp; should such a thing happen <hi rend="underline">soon</hi> the settlers (tho' they do not think so) must be the sufferers.  I do not think that there is fair play here — for instance, on the arrival of the Lieutenant-Governor, it was stated that he came to make a treaty with the N.Z. chiefs; in this treaty all their lands &amp; rights were guaranteed to the latter who allowed the Governor to take quiet possession. This treaty which the Governor made with them, they looked upon as a <hi rend="underline">bona fide act</hi>, &amp; they understood that lands which should be taken possession of by settlers were to be purchased from them, but now that a footing has been obtained here, a different ground is taken, &amp; it is broadly hinted that the treaty was not a bona-fide act, but a mere blind to deceive foreign powers, the Queen takes possession of the soil, the natives are looked upon as nonenities, &amp; what the result must be, requires not any extraordinary measure of foresight to determine. What opinion the unsuspecting simple New Zealanders will form of settlers from this act of civilised and Christian diplomacy, remains to be seen; that it will not be a very favourable one, I presume none will question. This is a fine country; its capabilities have no bounds, the natives are a fine tractable race; Christianity has its influence among them; &amp; settlers may come here to any extent - there is plenty of room; but a strong Government, that which we read of as a matter of history (for such a thing scarcely exists in these days) is wanted, but under a meek, conciliating Government, nothing can prosper.  But enough perhaps of these subjects, which tho' they engage and occupy my thoughts, may not interest you. We have nothing however to fear for ourselves, for tho' some of the natives look upon us missionaries as feelers sent out to prepare the way for colonisation, the colonists on the other hand view us with suspicion, considering that we influence the natives to oppose their interests, we are nevertheless considered by both parties too useful to be dispensed with at present - I am also bound to say that personally I have met with great civility &amp; kindness from all the leading settlers.</p>
+      <p>I often wish to pay you a visit &amp; to see you all again, but I could be of no use in England, &amp; I think as soon as we cease to be useful, life becomes a burden; here if possessed of a very moderate measure of health I might be materially useful in various ways, both among natives &amp; others, &amp; therefore I make up my mind to live here, tho' I may some day pay you a visit, in which case I should probably persuade you all to accompany me back to N.Z. My father tells me that the population of Ventnor was when he wrote near a thousand, but the population of Wellington in which I now am is more than 3000; on my first arrival here there was not a white man here.  Continue to write to me very fully of yourselves to me  all my friends. The lapse of time does not at all lessen the interest which I take in all, <hi rend="underline">particularly</hi> concerning you. I certainly am vexed that so many vessels came direct from London to this port in three or four months without bringing letters from you &amp; I wish I could hear from Alexander. I hope when the Chinese war is over, that if he returns home he will come to me first. I should be quite happy here if I had either more time for reading, or some friends with whom I could converse with profit, but I feel sometimes strongly concerning the importance of the works in which I am engaged, my own total inability to perform it adequately, an inability arising from the sinfulness &amp; indolence of my heart. To feed Christ's sheep &amp; lambs is important work, &amp; "who is sufficient for these things" says Paul, &amp; if he could feel so how ought I to feel but Christ is sufficient for me whose "blood cleanseth from all sin." Oh how precious is the doctrine of salvation through faith in Christ, &amp; now I must conclude by requesting you to give my affectionate love to my father &amp; all my dear brothers &amp; sisters &amp; kind regards to all my friends.</p>
+      <p>Believe me my dear mother,</p>
+      <p>Your very affectionate son,
+      </p>
+      <p>Octavius Hadfield.</p>
+      </body>
+   </text>
+</TEI>

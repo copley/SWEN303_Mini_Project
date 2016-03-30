@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0065">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1847 October 21: Octavius Hadfield to his father Joseph</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  Page 171.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 7.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1847-10-21">1847 October 21</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70741/">Joseph Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1847 October 21: Octavius Hadfield to his father Joseph</p>
+      </front>
+      <body>
+      <p>Wellington, N.Z. October 21st. 1847.</p>
+      <p>My dear Father</p>
+      <p>I have just had the pleasure of receiving a letter from dear Caroline (April 16) who tells me that you had got through another severe winter in tolerable health; she tells me also that my mother's general health was good.  I hope you have not allowed the infrequency of my letters to you to appear like neglect or forgetfulness; for I feel that I have not written to you so often as I ought; but I am sure that you consider letters addressed to any of the family as equally addressed to you.  It is a great satisfaction to me whose duty has called me for so many years to so great a distance from you, to know that you are surrounded by those who can minister much more to your comfort than I could do,- who take as deep an interest in all that concerns either your temporal comforts, or eternal welfare as I do; &amp; that though I am thus separated from you I am still enabled to love you, &amp; daily to lift up my voice in prayer to God that He, for Christ's sake may have mercy upon us all, &amp; enable us by faith &amp; patience, to do His will &amp; wait for the fulfilment of his promises that we may all hereafter meet in His presence to bless &amp; praise Him for His wonderful mercies &amp; His great love towards us.  </p>
+      <p>On the very verge of death as I have now been for a long time, to the surprise of those acquainted with the nature of my disease no less than to my own, you may easily imagine that my thoughts have dwelt much upon another world.  The more I reflect upon that other, &amp; unseen, world the more real it appears, &amp; the more unreal this in which we now live seems to be:-that is, I seem to imagine to myself the possibility of the destruction &amp; dissipation of all material things, which seem only to have been created (to be like the scenery at a theatre) as means to a further end, as that which is subordinate to the real, the eternal, the good; for my conscience, whose commands I am bound to obey, &amp; whose decisions are more imperative &amp; necessarily true than the evidence derived from my own senses, commands me to believe in the reality of God, of my own soul, of its immortality, &amp; of all those truths flowing from this belief which are so clearly revealed in God's holy Word.  Faith is to the soul what a telescope is to the faculty of vision, as this enables us to see what the mere organ of sight - the eye, alone could not show us, so faith enables the soul to see what reason alone could not reveal; but as there is no opposition between the telescope and the eye, so there is no opposition between faith &amp; reason, but nevertheless faith discovers what reason alone could not, but what reason &amp; our conscience will, when it is once perceived, acknowledge to be good, in accordance with the wants of the heart, &amp; which when once obtained the soul would not exchange for all the knowledge &amp; treasure of the world.  I wish however, though I thus write, that I could always keep my heart fixed on these things; but we are still in the world, &amp; though our inmost being, our soul would soar upwards, our earthly part is ever drawing us down: still, Christ will hold us up if we put our trust in Him; may He support &amp; strengthen us &amp; bring us to His glory!</p>
+      <p>The accounts from England, &amp; especially Ireland, have been very unsatisfactory.  I trust that ere this it may have pleased God to restore prosperity.  Famine is indeed a dreadful thing.  </p>
+      <p>Affairs in this country are improving.  All that a governor could do is, I think, done by Captain Grey; but he is sadly thwarted in all his attempts to benefit the country by the constant changes in the colonial office.  Lord Grey's ignorance of everything connected with it is really quite lamentable; but fortunately the country has so many resources, the natives have so much good sense, &amp; I may say christian principle influencing them, that all the evil that might be expected to flow from the ignorance of ministers does not actually flow from it.  Mr. Samuel Williams, a son of the elder Williams, who was ordained about a year ago has been appointed to Otaki &amp; Waikanae permanently.  I am very well satisfied with the appointment, &amp; in fact did what I could to bring it about, as he is a very pious &amp; sincere &amp; hard-working man; and having been brought up in the country is thoroughly conversant with the language; &amp; is thus a very efficient missionary.  The natives of those places are delighted with the arrangement.  They are going on much as usual.  I remain much in the same state as I have been.  Mr. &amp; Miss. <!--sic--> St.Hill are as kind and affectionate as ever.  I read a great deal, &amp; write as much as the inconvenience of writing in bed will permit.  I have lately been bringing out a new edition of some native catechisms, which I have made almost a new work, it occupied me some weeks: the natives are delighted with it.  I am much obliged to Caroline for her letter &amp; for her kindness in talking to me about all my brothers &amp; sisters, &amp; about many old friends, concerning whom I am always delighted to hear, though I am rather (very) remiss in desiring to be remembered to them, but whom I never forget.  I was sorry to hear that Charles did not appear to be very strong.  Caroline says that some friends of Mr. Barton enquired after him: he is very well; he married about four years ago a Miss. Butler the daughter of a clergyman; he has one child: in a worldly point of view he is doing, I believe, very well.  I will enclose to you a letter to George, to whom I have not written, &amp; from whom I have not heard, for a long time.  Pray give my most affectionate love to my mother &amp; all my brothers &amp; sisters &amp; Believe me</p>
+      <p>My dear Father</p>
+      <p>Your very affectionate son
+      </p>
+      <p>Octavius Hadfield.</p>
+      <p>--------------------------</p>
+      <p>P.S. <!--This is on a separate page of typescript, headed "P.S. to Letter 15".  Although this letter has no number of that type, the preceding letters were numbered 19, 18, 17 and 16, so it is likely that this postscript belongs to this letter.  Also, on page 181 is typed the address(ee) and date only of a letter with the same addressee and date of this letter, and that fragment is marked "Letter 15."--></p>
+      <p>I have just been reading the account in the Record of the Ch.M.S. meeting.  I was very much delighted with Dr. Jervis' speech.</p>
+      <p>--------------------------</p>
+      </body>
+   </text>
+</TEI>

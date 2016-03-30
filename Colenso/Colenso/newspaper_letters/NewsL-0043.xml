@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0043">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1862 Open column. Hawke’s Bay Herald 28 June.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1862-06-28">1862 June 28</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1862 Open column.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 28 June.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—When, in the Civil Commissioner’s Court on Monday last, I asked for the warrant authorising the police to lay informations under the Native Land Purchase Ordinance,—I supposed, that the warrant, though not to be produced, was at all events in existence, and perfectly legal (in fact, the Crown Prosecutor stated, that such was in the possession of the Superintendent.) I now, however, find, that <hi rend="italic">there is no such instrument</hi>—that it was, from the very first, informal and therefore returned to the General Government for correction, and that, owing to its informality, all the informations laid by the police under it in 1860, were obliged to be withdrawn by the counsel for the prosecution (<hi rend="italic">Vide</hi> leading article, <hi rend="italic">H. B. Herald</hi>, Dec. 15, 1860.) </p>
+         <p>And, further, I find, on referring to a subsequent number of your valuable paper (<hi rend="italic">Vide</hi> 
+            <hi rend="italic">H.B. Herald</hi>, Feb. 2, 1861), an important letter from the Colonial Secretary to the Superintendent of the Province, dated Dec. 29, 1860, and requesting him “to direct that no new action for the present be taken under the Native Lands Purchase Ordinance.” And which determination no doubt, so operated with the General Government as to cause them to withhold the issuing of a fresh, warrant authorising the police to act. </p>
+         <p>I am, &amp;c., 		<lb/>W. COLENSO.</p>
+         <p>Napier, June 25, 1862.</p>
+      </body>
+   </text>
+</TEI>

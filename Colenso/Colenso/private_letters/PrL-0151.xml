@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0151">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1860 December 21: to McLean</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Object #1013021 from MS-Papers-0032-0021.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1860-12-21">1860 December 21</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1860 December 21: to McLean<note xml:id="ftn2-50" place="foot" n="50"> ATL Object #1013021 from MS-Papers-0032-0021.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>Decr. 21/60</p>
+         <p>Dear Mr. McLean, </p>
+         <p>I posted to your address last week a few copies (Maori) of Renata’s speech &amp; of Mr. FitzGerald’s answer.</p>
+         <p>I now <hi rend="italic">enclose</hi> one—that it may not only reach you, but come under your notice. As I think Mr. FitzGerald’s answer to be a really good one &amp; well suited to the times—I would suggest that it be printed in your “Maori Messenger.” Of course I would not recommend the printing in that serial of Renata’s speech.—</p>
+         <p>I feel sure you will believe that I have been for a long time anxiously noticing all <hi rend="italic">your</hi> movements at the N.—and all your sayings to, or concerning, the Natives. And am sorry, very sorry, that you have such a host of Enemies arrayed against you—especially among those who ought to know and do better.—</p>
+         <p>You, I know, will be quite ready to believe—that <hi rend="italic">I</hi> lose no opportunity of aiding and assisting your views &amp; plans as to the Natives—the War—&amp; Maori King. I would that <hi rend="underline italic">all</hi>
+            <hi rend="italic"> here</hi> were but unanimous—I mean of those who both speak Maori &amp; have some influence among them.</p>
+         <p>Could you not get me a ½ doz. copies of Karere Maori instead of a single one? For years I had 2—but of late only <hi rend="italic">one</hi>—&amp; this one, together with <hi rend="italic">one</hi> which comes for Supt.—we give away—and I am often beseiged for more. I have also been told by the Natives that they do not get them as they used to. If I could not get ½ doz. copies regularly, yet that no. or more, sent me whenever there is a defeat of the Natives, or any <hi rend="italic">good</hi> article to them, will sure to be of service.</p>
+         <p>Hoping you are quite well, &amp; with every good wish and respects.</p>
+         <p>I am, </p>
+         <p>Yours truly, </p>
+         <p>Wm. Colenso.</p>
+      </body>
+   </text>
+</TEI>

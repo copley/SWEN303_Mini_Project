@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0646">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1887 July 11: to Bibby</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MTGHB 57795.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/74704/">Bibby</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1887-07-11">1887 July 11</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1887 July 11: to Bibby<note xml:id="ftn3-366" place="foot" n="366"> MTGHB 57795.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, 11<hi rend="sup">th</hi>. July, 1887.</p>
+         <p>E. Bibby, Esq<lb/>Waipawa.</p>
+         <p>My dear Sir,</p>
+         <p>I feel very much obliged to you for your kind note of 8<hi rend="sup">th</hi>. instant, and also for all the trouble you have so readily taken in that matter of Rates. Had Mr. Tuely, in his note, explained (however briefly) what they were for, &amp; the time, &amp;c.,—or had he replied to my note in which I had made enquiry, I should not have troubled you: I thank you, dear Sir, most heartily.—–</p>
+         <p>I am now writing to Mr. Johnson (<hi rend="italic">re </hi>rent, ½ year due on 1<hi rend="sup">st</hi>. inst.) and have mentioned the Rates—“6/3.” saying,—If for 188<hi rend="italic">6</hi>, &amp; <hi rend="italic">unpaid</hi> by me, then I will pay them.—–</p>
+         <p>Mr. Johnson spoke to me here in town in the <hi rend="italic">early </hi>summer (soon after my visit to Waipawa) I think in Octr., or Novr.—not later: and an agreement was <hi rend="italic">then made</hi>; but, somehow, the lease was not drawn, or executed, for some time, and so the date of Jan. 1<hi rend="sup">st</hi>./87, &amp;c., was filled in:—but it will be all right—I suppose.—</p>
+         <p>I really <hi rend="italic">regret </hi>my being <hi rend="italic">no longer </hi>a voter among you! not that I ever exercised that right,—still, such <hi rend="italic">might </hi>come, or be, useful:—who knows?</p>
+         <p>With kind regards,</p>
+         <p>Believe me, Dear Sir, </p>
+         <p>Yours truly,</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

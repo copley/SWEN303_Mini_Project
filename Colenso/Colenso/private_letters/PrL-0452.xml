@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0452">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1881 May 28: to von Haast</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-papers-0037-046.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9511/">von Haast</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1881-05-28">1881 May 28</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1881 May 28: to von Haast<note xml:id="ftn3-88" place="foot" n="88"> ATL MS-papers-0037-046.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier May 28, 1881</p>
+         <p>My dear Professor Von Haast,</p>
+         <p>Last week I received a single copy of vol. viii. “Trans. N.Z. Inst.,” from the Secretary N.Z.I., for our Inst. Library; and I have been thinking that probably you have been favoured with a copy,—and therefore I write a line.</p>
+         <p>If so, as I have supposed above,—I trust <hi rend="italic">you will have seen therein</hi> what I had intimated to you in my note of last year,—viz. that I had yet much more to say <hi rend="italic">re </hi>the great antiquity of the Maori race here in N.Z. And I have yet more to say thereon,—all tending that way. And I hope to add thereto during this winter’s session.</p>
+         <p>I have recently heard of Dr. Hector having returned from Melbourne: you, too, may have been absent there,—indeed, I have not heard anything of you, or from you, for a long time. I hope you are quite well.—</p>
+         <p>I have not yet gone through vol. xiii.—indeed, scarcely looked into it, as Dr. Spencer &amp; others wished to see it—our <hi rend="italic">only</hi> (hitherto) copy.</p>
+         <p>Shall always be glad to be favoured with a line from you, whenever you have the time to write,</p>
+         <p>And am, my dear Sir,</p>
+         <p>Yours truly</p>
+         <p>Wm. Colenso.</p>
+      </body>
+   </text>
+</TEI>

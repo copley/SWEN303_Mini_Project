@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1071">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1898 December 26: to Mrs de Lisle</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MTG HB m64/14, m67/37, 57844.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75566/">Mrs de Lisle</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1898-12-26">1898 December 26</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1898 December 26: to Mrs de Lisle<note xml:id="ftn3-934" place="foot" n="934"> MTG HB m64/14, m67/37, 57844.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">
+            <hi rend="underline">ix.</hi>, p.m.<lb/>Napier, Decr. 26<hi rend="sup">th</hi>. 1898.</p>
+         <p>Dear Mrs. de Lisle</p>
+         <p>Christmas Day is just passed by—with all its glory &amp; pageantry; and (though I thought very much of you and your dear 2-year old <hi rend="italic">yesterday</hi>, remembering what my worthy friend the Doctor <hi rend="italic">wired </hi>to me 2 years ago yet I would not write until today, because I knew no letters were made up &amp; sent off this day—but this will be I hope tomorrow: all this by way of preface, or Introduction.</p>
+         <p>Your kind note of the 16<hi rend="sup">th</hi>. came to hand last week, and I thank you for it; was much pleased to find that both you &amp; your son Rodolph were so well—which state of health I trust continues, though of course increased by the safe arrival of your good husband his father. I am endeavouring to picture you—all hands—enjoying the Xmas. season (albeit, <hi rend="italic">no </hi>Yule-log, <hi rend="italic">no </hi>Roast Beef, <hi rend="italic">no </hi>plum pudding, and (not the least) <hi rend="italic">no </hi>Frost and Snow!) but I hope with the viands galore <hi rend="italic">more suitable</hi> to our Midsummer season. Did you, or the Doctor, ever <hi rend="italic">try </hi>to think—to imagine, what <hi rend="italic">kind </hi>of Christmas could possibly be kept up at Home, if Xmas. were by law henceforth to be held at Midsummer? I hope you have some nice early summer fruits—as Strawberries, Rasps., Cherries, &amp;c.—Here, last week I saw at Prebble’s some <hi rend="italic">fine </hi>peaches, <hi rend="italic">quite ripe</hi>, and tolerably plentiful, <hi rend="italic">and </hi>at 1/- per pound, <hi rend="italic">i.e.</hi>
+            <hi rend="italic">3d each</hi>!</p>
+         <p>I have heard <hi rend="italic">nothing </hi>of the Doctor since he left Napier, and in this I am disappointed because our papers mentioned his leaving—on his courageous drive—and so I looked forward to hearing of his success and his arriving at Ahititi—perhaps this pleasure is to come.<note xml:id="ftn3-935" place="foot" n="935"> “Dr. de Lisle is at present on a visit to Wairoa. He took his buggy and pair of horses, and intends to visit Lakes Waikaremoana and Waikaroiti, and the Nuhaka hot springs, and journey overland to Gisborne.” <hi rend="italic">Hawke’s Bay Herald</hi> 20 December 1898). Ahititi is inland from Tolaga Bay.</note>
+         </p>
+         <p>The town today seen from the hill seems more quiet than probably Waimata is: I have been (as usual) <hi rend="italic">busy</hi>—writing—Xmas, Eve, Xmas. Day, and all this day, no one calling, and I pretty well—able to eat my allowance, &amp; sleep well, &amp;c, &amp;c. (this but <hi rend="italic">for the Doctor</hi>.)</p>
+         <p>Yesterday thinking on Rodolph, I involuntarily repeated a portion of a child’s tale, or story, which <hi rend="italic">I had learned when </hi>
+            <hi rend="underline italic">young</hi>, and, having done so, and <hi rend="italic">said</hi> my lesson perfectly,—I <hi rend="italic">hastily</hi> concluded, “I’ll write that in a note to Rodolph;” but, alas! my pleasing reverie was quickly dissipated with the serious reflection—R. cannot read yet! “May I stop there?” Mother says, “No”—twice over, and the Doctor, of course, supports her, and so, being beaten on all sides, &amp; no one to take my part, I must e’en submit, and will scribble a few lines of it for you, &amp; Rodolph, &amp; all.——</p>
+         <p>I suppose you see our 2 papers? I hope in “D.T.” of tomorrow there may appear a rather long letter of mine—an endeavour to correct an error (or two) of the Editor’s!—Of course I shall be <hi rend="italic">in-for-</hi>it!—If in his den, or sanctum he should be vexed—even to the saying—“What! beard the lion in his den! the Douglas in his hall,” &amp;c, &amp;c,—I shall not be there to hear him, and so shall not care.</p>
+         <p>Methinks I am writing you a foolish, senseless, kind of letter—but then you must pardon me freely, it being Xmas. season,—&amp; all that.</p>
+         <p>Here alone and no town papers for 2 whole days, I know nothing of the gay and bustling world below (in town, I mean) &amp; around me. I received some nice letters from the Old Country, came right to time, too, for Xmas. One of the best was from Mr. Welch (I think you knew them) he says, he thinks he is <hi rend="italic">a little better</hi> under his present medical treatment—I almost doubt it, but will “Hope on, hope ever”.</p>
+         <p>I did think of sending you, &amp; the 2-year old, 2 Xmas. cards, but not having had any very choice ones from Crerar, I have concluded <hi rend="italic">not </hi>to do so, but merely set aside Rodolph’s guinea chq. until his return.</p>
+         <p>At present I have <hi rend="italic">no thoughts </hi>of going inland to the Bush District, not having any work there, or call for help from that quarter. I hope I shall not have wearied you with my scrawl.</p>
+         <p>And I heartily wish <hi rend="italic">you all </hi>“<hi rend="italic">A Happy New Year</hi>”! may it prove to be the best you have ever known. Believe me, dear Mrs. de Lisle, Yours sincerely, W. Colenso.</p>
+         <p rend="center">Here goes!</p>
+         <p rend="center">(Don’t laugh at this <hi rend="italic">old man</hi>.)</p>
+         <p rend="center">____</p>
+         <p rend="center">“The <hi rend="italic">Dog</hi> will come when he is called,</p>
+         <p rend="center">The <hi rend="italic">Cat </hi>will walk away;</p>
+         <p rend="center">The <hi rend="italic">Monkey’s </hi>cheek is very bald,</p>
+         <p rend="center">The <hi rend="italic">Goat </hi>is fond of play;</p>
+         <p rend="center">The <hi rend="italic">Parrot </hi>is a prate-a-pace,</p>
+         <p rend="center">And knows not what he says,</p>
+         <p rend="center">The noble <hi rend="italic">Horse </hi>will win a race,</p>
+         <p rend="center">or draw you as a chaise.</p>
+         <p rend="center">The <hi rend="italic">Pig </hi>is not a feeder nice,</p>
+         <p rend="center">The <hi rend="italic">Squirrel </hi>loves a nut;</p>
+         <p rend="center">The <hi rend="italic">Wolf </hi>would eat you in a trice,</p>
+         <p rend="center">The <hi rend="italic">Owl</hi>—its eyes are shut.”</p>
+         <p rend="center">&amp;c, &amp;c, &amp;c,—</p>
+         <p rend="center">Quant. suff., for 6: there.</p>
+         <p rend="center">
+            <hi rend="italic">Vivat Regina</hi>!</p>
+         <p rend="center">___</p>
+         <p>Xmas. Waiti., 1898.                                                              W.C.</p>
+      </body>
+   </text>
+</TEI>

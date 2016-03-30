@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0072">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1870 To the editor. Hawke’s Bay Herald 16 December.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1870-12-16">1870 December 16</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <creation>
+          <date when="1870-12-14">1870 December 14</date>
+          <name type="place">Napier</name>
+        </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1870 To the editor.</hi>
+            <hi rend="bold italic">	
+               <lb/>Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 16 December.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—It is not from want of inclination that I have not intruded on your “open column” of late. I have, more than once, wished to notice (or “shew up”) some of the strange, erroneous, and even mischievous “notions” which from time to time have appeared therein, more particularly the long aberrant letter of “Cosmopolite,” which appeared in your issue of the 9th instant, and also the disparaging little one of “Tradesman,” which you published in the <hi rend="smallcaps">Herald</hi> of yesterday.<note xml:id="ftn31" place="foot" n="31"> “Tradesman’s” short letter criticised the Resident Magistrate—<hi rend="italic">Ed.</hi>
+            </note> 
+         </p>
+         <p>You have yourself noticed Cosmopolite’s effusion; though, as I take it, much too mildly and cursorily—yet that will do for the time. It may lead him to reflect a wee bit, and perchance to cease scribbling post-prandial epistles.</p>
+         <p>For the sake, however, of keeping up the respectabi1ity of our province (not to mention that of your paper), as well as to keep you clear from the meshes of any legal net, I should like to notice the little ₤. s. d. letter of “Tradesman;” not by any means merely to shew his (apparent) hardness of feeling and moral obliquity of vision, but to draw his and your attention to its mischievous tendency (possibly not perceived by “Tradesman,”) as well as to the danger he is exposing himself to of prosecution in the Supreme Court for libel.</p>
+         <p>I neither know “Tradesman “ nor Chaundy, nor is it at all needful. It has been suggested to me that “Tradesman” is really a publican; such may be, but I rather incline to think him to be what he calls himself; not one however of our more respectable Napier tradesmen,—such he cannot be (seeing he comes out so strongly for so small a debt as ₤3 13s.), but of that select class known here as “nippers.</p>
+         <p>But, to his letter:</p>
+         <p>
+            <hi rend="italic">First</hi>, then, “Tradesman” finds great fault with our Resident Magistrate, for having given the unhappy Chaundy “four and seven months in which to pay an undisputed debt of £3 13s. 0d.; “ but which, in reality, (with costs, as “Tradesman” knew, and as reported by you) is £4 12s. 3d. He also overlooks (as all such folk do) what you further, briefly yet strongly, reported, <hi rend="italic">viz</hi>.— “the debt was admitted by Mr. Lee; he merely asked that time might be given to pay, on the ground of defendant’s poverty.” And Chaundy on oath atated,— “I am a labourer, I have a wife. I have earned very little money for four months past. I had to pay away all I did earn in the settlement of other debts. I owe still about £20. I have the contract for carrying the mail to Kereru.” [Perhaps about £40 per annum.] Surely, for the honour of our Napier tradesmen, great and small, not another could be found who, knowing the case, would join this “Tradesman” in his disparaging reflections on the R.M. for his considerate judgment in this matter!</p>
+         <p>But there is another and far different feature arising from this case, which, if “Tradesman” had noticed and publicly commented on (seeing he knew of it also), I should have agreed with him, and saved myself the trouble of writing this; but such would not have suited his purpose of having a fling at the new R.M. On the very same day on which this case was heard, the 6th inst., an official declaration of bankruptcy was made by this same William Chaundy, and which appears in the <hi rend="smallcaps">Hawke’s Bay Times</hi> of that date. Here, then, two or three questions naturally arise, of far greater importance to the trading community, and indeed to all, than such a trivial one as that which has so aroused the virtuous indignation of “Tradesman”:—</p>
+         <p>1. Did Chaundy depose truthfully in Court, when he said he only owed “about £20”?</p>
+         <p>2. What sum is requisite for law expenses, &amp;c., to bring a man through the Bankruptcy Court?</p>
+         <p>3. Would any lawyer in Napier undertake to do so for a less sum than ₤20—<hi rend="italic">Cash</hi>?</p>
+         <p>4. Seeing the Magistrate’s judgment was so very merciful, (all that Chaundy could have ever expected,)—how came it, that, within two or three hours afterwards, he filed his declaration of bankruptcy? Did be intend to do so before be went into Court? and did his counsel know of it? or did he fall into the hands of some bad adviser? Less than the <hi rend="italic">cash</hi> law expenses as a bankrupt might have cleared him with his creditors, and shewed him to be an honest man.</p>
+         <p>Moreover, there is still something to be said anent this Chaundy. Did he not appear in the Resident Magistrate’s Court here some eight or nine months ago, as defendant in a similar case of debt, when Mr. Lee, as counsel, also appeared for him, and obtained from the late Resident Magistrate the time of six and twelve months in which to pay it in? Has this debt been paid—in part? I believe not, though, perhaps, included in the deposed amount of £20. Of course, “Tradesman” knew all this, but, as it were such a merciful precedent judgment on the part of the <hi rend="italic">late</hi> Resident Magistrate, towards the <hi rend="italic">same</hi> man too, and in a very similar case, he overlooked this also!</p>
+         <p>Under all the circumstances of this case it will be for the Post-office authorities, acting for the good of the public, to determine, whether William Chaundy is a fit person to continue to hold the contract of carrying Her Majesty’s mail over a wild and open country. </p>
+         <p>
+            <hi rend="italic">Secondly</hi>: the whole tone of Tradesman’s letter, short as it is, is bad mischievous and evil (not to say untruthful and unjust) against our new R.M.; and, as I think, libellous and criminal in law, and one which might justly obtain from a special honest educated jury heavy damages. “Tradesman” says, “It is pretty plainly shewn that the Resident Magistrate’s Court is <hi rend="italic">not</hi> the place to recover debts”: that he “has heard of very peculiar” (meaning, unjust,) “decisions given by the same gentleman” (the Resident Magistrate): that “the Government has made a bad bargain” (in placing him here):—and that “great satisfaction would be felt” (by the public) “if the Government would restore the Department to the same state of efficiency as it was before the new Resident Magistrate arrived.” I purposely pass by, as unworthy of notice, Tradesman’s low sneering at the good and proper old English style or prefix, of worship, or worthy, correctly given to our R.M. by your contemporary; as well as his insinuation (quite in keeping and savoring of the counter,) about our R.M. “receiving a much higher salary than his predecessor”; merely remarking, by the way, on this last that “Tradesman” knew well that our present R.M. performs more and higher duties than his predecessor did, being also District Judge; and that, in the two offices being combined and held by one person, there is really a considerab1e monetary saving to the Government and public.</p>
+         <p>I scarcely know of anything more prejudicial to our moral getting-on, more subversive of our dong well, whether as a people, province, or colony, than such foolish low and wicked animadversions on the Dispensers of Justice, as those I have remarked upon. The British are evidently a law-loving, law-supporting people; and the good British Magistrate must necessarily be a hardworking, pains-taking, patient, plodding man;—perhaps doubly-so in a place like this, newly settled by various races. Now just let the public mind be once brought to believe, that justice is “<hi rend="italic">not</hi>” to be had in our Law Courts, owing to inability, or any other lack, on the part of the judge! and what an amount of bitter fruit will surely follow! Again: what can be more painful to any ingenuous mind, than to have one’s honest exertions to do one’s duty, to do impartial justice <hi rend="italic">tempered with equity</hi>, (for which our R.M. courts were originally established,) continually disparaged and sneered at by those who are unwilling or incapable of understanding them?</p>
+         <p>As a true John-Bullian, I know very well our right to grumble and growl at any adverse decision, but, the growl over, there is an end of it. Not so, however, low <hi rend="italic">published</hi> general disparaging remarks, which insidiously sap the public faith in our best institutions, and so tend to make settlers suspicious and uneasy.</p>
+         <p>Although this letter is already too long for your columns, I would, for “Tradesman’s” information, just call his attention to what Mr. Justice Blackstone tersely says on libel, particularly of libelling a Magistrate:— “Libels, in this sense, are malicious defamations of any person, and especially a magistrate, made public by either printing, writing, &amp;c., in order to provoke him to wrath, or expose him to public hatred, contempt, or ridicule. The direct tendency of these libels is the breach of the public peace.... It is immaterial with respect to the essence of a libel, whether the matter of it be true or false, since the provocation, and not the falsity, is the thing to be punished criminally; though, doubtless, the falsehood of it may aggravate its guilt, and enhance its punishment.” And Lord Coke has said, “That the greater appearance of truth there is in any malicious invective, so much the more provoking it is.” And I think I may venture to add, that we all pretty well know how His Honor Mr. Justice Johnston would view a person prosecuted before him for ridiculing and defaming a Magistrate and Judge in the honorable and painful performance of his duty.</p>
+         <p>I think I ought also to say, that I have felt the more impelled to write thus,—not merely from my long acquaintance with our late R.M., who has been more than once hinted at by “Tradesman” in his letter (at whose removal from office, I, with many others, felt grieved), whose generous mind would be the first to object to being alluded to and invidiously compared in such a way; but also from my having carefully read all the decisions of our present and new R.M. which have appeared in print, and that I have been struck with their clearness cogency justice and equity,—and, if I may hazard as much,—their legal knowledge and ability; the product only of careful and painstaking investigation and thought. I have not the honor of being intimately acquainted with our new R.M., but, I, with many others, am thankful that we have such a Magistrate. And believing as I do, that “Righteousness exalteth a Nation,”* I would there were more like him in our Province, and less of those of his vilifiers.</p>
+         <p>Hoping you may find room in your next paper for this, and that both you and Napier <hi rend="italic">Tradesmen</hi>, duly considering the probable consequences of such a letter as “Tradesman,” if allowed to pass unnoticed and unrebuked, will agree with me in condemning it. I am, &amp;c.,</p>
+         <p><hi rend="smallcaps">William Colenso</hi>.</p>
+         <p>Napier, Dec. 14, 1870.</p>
+         <p>
+            <hi rend="bold">1871 Fiat Justitia; being a few thoughts respecting the Maori prisoner Kereopa now in Napier gaol, awaiting his trial for murder. Respectfully Addressed to the considerate and justice-loving Christian Settlers of Hawke’s Bay, and also to our Rulers, in a Letter to the Editor of the “Hawke’s Bay Herald.”</hi>
+            <hi rend="bold">
+               <note xml:id="ftn32" place="foot" n="32"> Reprinted by Dinwiddie, Morrison &amp; Co., Napier, as a leaflet. Re-published in Vol.3 of this series (<hi rend="italic">What I believe to be genuine and authentic</hi>) —<hi rend="italic">Ed.</hi>
+               </note>
+            </hi>
+            <hi rend="bold"> </hi>
+         </p>
+      </body>
+   </text>
+</TEI>

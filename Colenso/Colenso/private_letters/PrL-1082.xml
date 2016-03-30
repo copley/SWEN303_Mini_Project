@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1082">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1840 February 13 to G. Clarke, Local Committee of Missionaries </title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>transcription by Ian St George, provided to Colenso Project staff at Wai-te-Ata Press on 1.10.15 via email</p>
+            <p>encoded into TEI by Melissa Bryant, 21.10.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1840-02-13">13 February 1840</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71374/">G. Clarke, Local Committee of Missionaries</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1840 February 13 to G. Clarke, Local Committee of Missionaries
+         </p>
+      </front>
+      <body>
+      <p>Paihia Feb. 13, 1840.</p>
+<p>My dear Sir</p>
+<p>Having written the Parent Committee on an important subject concerning myself, it is but right I should embrace the earliest opportunity of acquainting the Comee. of Missys. with what I have done, in order that they may be enabled to take the same into their consideration and record their opinion thereon.</p>
+<p>2. In the beginning of the year 1834 the Church Missionary Society sought me, and engaged me to come to New Zealand, and at the close of that year I arrived in this land. My duties were confined to the Printing Office: but very shortly after my arrival, as you well know, I was desired to assist in the Lord’s Day English Service, and, as soon as I had gained a sufficient knowledge of the New Zealand language, a share in spiritual duties in Native tongue was also assigned me.</p>
+<p>3. In March 1838 I wrote the Parent Comee., desiring them to send out a Printer, that I might be released from the Press, and permitted to go forth on trial, for 12 months, as a travelling Missionary: and, then, provided my offer met their approval, together with that of the Comee. of Missys., to present myself as a Candidate for Holy Orders. The answer of the Parent Comee. to this application of mine, you have in the public letter pr. “Achilles”, dated (I think) Nov. 1838. in which the Society wished me to remain with the Press.</p>
+<p>4. I have, however once more written to the Par. Com., in which communication I have informed them that I was willing to remain with the Press provided I could continue to preach the gospel amongst both Whites and Natives as I had hitherto done; that I could not remain with the Press unless I was permitted to do so: that I could not see how it was possible for me to continue to do so and had done from the constitution and canons of our Church, and from the great change which has taken, and it is taking place in this Land, without I obtained ordination. And that therefore, I applied to them, to grant my admission to Orders, that I may be continued to be employed in those Spiritual duties which I had been called to, blessed in, and privileged with, for more than 5 yrs. I also requested permission to be allowed to visit England in about two years, ie, as near that time (Jany. 1842) as the work in the Printing Office and opportunity of my going home may allow off my doing so. Adding, I make the request of mine known to the Comee. of Missys. together with that which I have herein made of being admitted to orders, that they may report their opinion thereon.</p>
+<p>5. Therefore, my dear Sir, I have to request, that the Comee. of Missys. will be pleased to consider the propriety of the application made by me to the Par. Com. to be admitted to Orders, with regard to my moral character, my eligibility for that office, and the prospect of my being usefully employed therein, and, also, the request which I have made to be permitted to visit England in 1842.</p>
+<p>6. I have believe, my dear Sir, I could not say anything myself as to what I have been, or may be enabled to do as a Missionary amongst the Natives. I am fully known to all the Missionaries: I have gone in and out and dwelt amongst you for more than 5 yrs. My abilities and disabilities, my fitness and unfitness for the work in which I am engaged, must be well known to you all. And, I feel somewhat convinced that my brethren, the Com. of Missys., will perceive that this request of mine arises not from a desire after any new employ, but as a necessary consequence arising from the present state of things. I ask for nothing new: I only seek for that which will enable me to continue doing what I have done among you according to my ability—i.e. to preach the gospel. For my own part, I am fully persuaded that the Lord hath called me to this work; had I not so believed I had never continued in it. There is not, my dear Sir, a plurality of things before me, one of which is now to be chosen by me. I have been enabled to decide, (I trust the Lord,) and that decision is, that as long as I live I preach the Gospel in New Zealand,— for necessity is laid upon me, yea, woe is me if I preach not the gospel; may the Lord enable the Com. of Missys. Faithfully and conscientiously to consider this matter; Praying that you may be guided therein.</p>
+<p>Sd. Wm. Colenso</p>
+      </body>
+   </text>
+</TEI>

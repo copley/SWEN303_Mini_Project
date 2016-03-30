@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0381">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1879 February 2: to Hector</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MTG HB 18576.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">Hector</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1879-02-02">1879 February 2</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1879 February 2: to Hector<note xml:id="ftn3-2" place="foot" n="2"> MTG HB 18576.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Feby. 2<hi rend="sup ">nd</hi>. 1879.</p>
+         <p>Dr. Hector, F.R.S., &amp;c.,</p>
+         <p>My dear Sir,</p>
+         <p>Two days ago I received yours of 27<hi rend="sup ">th</hi>. Jany., which a wee bit surprised me. I immediately sent you a short telegram,—that I should much prefer the Ruahine Journey Papers being <hi rend="italic">wholly </hi>omitted to their being <hi rend="italic">partly </hi>printed (picked here &amp; there), and, that I would write by first mail,—which I now do. Could I have sent you a telegram <hi rend="italic">free</hi>, I would have sent you a much longer one.</p>
+         <p>Now, then, to your letter, taking the <hi rend="italic">latter </hi>part first.</p>
+         <p>I trust I was in time with that telegram, so as to keep the “Abstract” of the said MSS. from the Printer,—for <hi rend="italic">I cannot consent to the proposed alterations. </hi>At the same time I agree with you when you say, that “the purely personal narrative (interesting as a magazine article, or Lecture) is not suitable for the “Transactions,”—especially as the funds will have to be dealt out with a niggardly hand, &amp;c.” Indeed, something of that kind was also said here at our Ordinary Meeting at the time of reading it, (and very probably by myself, owing to a remark to that effect lately received from Mr. Kirk, <hi rend="italic">re </hi>Funds, in your absence,) when the unanimous rejoinder was,—that it should be printed <hi rend="italic">here </hi>by subscription; and this may yet be done, unless you may be able to meet me in one of the proposals I now make.</p>
+         <p>1. As to your <hi rend="italic">want </hi>of <hi rend="italic">funds</hi>: I think I could raise (say) ₤30., or ₤50., if that would allow you to print them in their entirety: I receiving from you (say) 50 “author’s copies.”</p>
+         <p>2. As to their <hi rend="italic">bulk</hi>: could <hi rend="italic">you </hi>go over them, marking slightly with a soft pencil in the margin what you would wish to have omitted, so as to compress them? and send them to me <hi rend="italic">early</hi>: when, if I could agree I would do so, and return them immediately; but if not, then, of course, retain them.</p>
+         <p>There are certain portions (such as much of the poetry, &amp;c.,) amounting to a few pages of MS., which I could even now (writing from memory,) agree to being deleted—but <hi rend="italic">I must do it myself.</hi> For my <hi rend="italic">own </hi>part—I will just say, that I don’t greatly care about these two papers being printed (either there or here); but I do most strongly object to their being “abstracted,”—at all events by any other hand than my own. When I sent you <hi rend="italic">the whole lot</hi>, I scarcely thought you would print them all; hence, I think, I said, that I should (subject to your approval) prefer the Paper— “Contributions to a better knowledge of the Maori race” being printed.—</p>
+         <p>I have said,—that “<hi rend="italic">I agree with you </hi>in <hi rend="italic">such </hi>papers being more fitted for a magazine or Lecture than the “Transactions”;—this, however, should be qualified,—for I doubt if</p>
+         <p> ¼th. of your N.Z. Members would so agree.<hi rend="italic">Here </hi>it is a difficult matter to get our members to listen patiently to such papers as those 3 of mine—on <hi rend="italic">Dasypodia, Callorhynchus</hi>, and the 2 Ferns, (although all short and accompanied with specimens and drawings,) which papers you, I suppose, will readily grant to be much more fitted to the pages of the “Transactions.” And I may add, that I have received several notes &amp; letters from different parts of N.Z. (principally the Middle Island), and all from <hi rend="italic">strangers</hi>, thanking me for what I had written in vol. x, and begging me to write more: similar expressions I had also noticed in some of our N.Z. Papers. Depend upon it, the “high and dry” do not go down with the <hi rend="italic">many</hi>; and if I am correct you should bear this in mind in the using of your “Funds,” seeing they are from the <hi rend="italic">Public</hi> Chest. If you were to glance at the volumes of the “Transactions” on our Public Library tables, (also, in many Members’ Libraries,) you would, I think, almost generally find that the high and dry scientific pages of the volumes remain <hi rend="italic">uncut</hi>! No doubt the time will come when such will no longer be the case,—but we have to deal with things as we find them. How often I have been asked (with a laugh),— “What’s the use of such stuff,”—as Kirk’s everlasting dish of Latin names of introduced weeds? (which takes up so many pages of the “Transactions” vols.,) and what can I say to that?—–</p>
+         <p>Now to the former part of your letter, <hi rend="italic">re </hi>those unfortunate “Notes”; here I must quote your very words:—</p>
+         <p>—“I have struck out your foot note about the fate of your “Notes” to the Essay; as I think you must have forgotten that I satisfied you that I never had the “Notes” in Wellington, and that they were not sent to me from Dunedin; so that it is hardly fair by your footnote to make me the responsible party.”—–</p>
+         <p>Here, let me at once say, that I have no objection to your striking out that footnote,—but I do not see it in the same light that you do,—<hi rend="italic">i.e.</hi> my “making <hi rend="italic">you </hi>the responsible party,”—nothing was further from my thoughts, and I had believed that I had studiously guarded against it. At the same time I should say, that I have kept no <hi rend="italic">correct verbatim</hi> copy of that <hi rend="italic">footnote</hi>, I have merely a scrawl on a scrap (made just in my usual way), indicating what the clean copy should have been. From this said scrap (now before me) I ought to have written,—</p>
+         <p>—“afterwards, when that Essay was to be reprinted at Wellington, those MS. “Notes” (sent to Dunedin) were found to be missing; when Dr. Hector applied to me, and I re-wrote and sent to Wellington a <hi rend="italic">second </hi>copy of those “Notes,” and, strange to say, that also got adrift! Now, however, I hope to copy them a <hi rend="italic">third </hi>time, &amp;c.”–</p>
+         <p>if this is in the main correct (<hi rend="italic">i.e.</hi> with the MS. with you), I do not see how I have in any way “made <hi rend="italic">you </hi>the responsible party.” It may have been the Post Office: you might not have been in Wellington at that time, &amp;c., &amp;c. You did, my dear Sir, satisfy me that <hi rend="underline italic">you</hi> had <hi rend="italic">never received them</hi>; and all I have said is, that I did a <hi rend="italic">second time </hi>re-write and send them <hi rend="italic">to Wellington</hi>:—I have <hi rend="italic">not </hi>said <hi rend="italic">to you</hi>.—</p>
+         <p>And this brings me back to the former part of this long (and, I fear, tiresome) letter: for just as that “Essay” was, and is,—<hi rend="italic">minus </hi>the “Notes,”—so would my Ruahine Papers be <hi rend="underline italic">to us </hi>
+            <hi rend="italic">minus </hi>“the personal portion.”</p>
+         <p>In fine, I trust that <hi rend="italic">no </hi>“Abstract” of them has yet been made,—or, if made, not yet in Printer’s hands; and further, if in fact composited and even printed, I would rather pay (say) ₤20. cash, to meet <hi rend="italic">any such expenses</hi>, and so have the “Abstract” stopped, and the MSS. returned to me.</p>
+         <p>I have a few Spiders, &amp;c., in spirits,—which I purpose sending you, with a Memo., by “Rangatira” on Wednesday next: this, of course, goes by overland Mail tomorrow.</p>
+         <p>I suppose you are very busy just now: hope you may have time to <hi rend="italic">read this</hi>: scarcely an answer required.</p>
+         <p>P.S. Our Annual Meeting is tomorrow 3<hi rend="sup ">rd</hi>.—I am glad to hear the “Van Dieman” ship has arrived, she has a rare lot of good books for our Institute, and not a few for myself, among the latter—</p>
+         <p>Zoology of the “Erebus and Terror;” and Hooker &amp; Greville’s Icon. Filicum. W.C.</p>
+      </body>
+   </text>
+</TEI>

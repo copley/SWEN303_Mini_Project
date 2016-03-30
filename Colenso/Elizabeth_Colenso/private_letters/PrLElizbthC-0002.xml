@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLElizbthC-0002">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1851 October 29: Elizabeth Colenso to McLean</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70617/">Elizabeth Colenso</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1017601</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>Encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1851-10-29">1851 October 29</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1851 October 29 Elizabeth Colenso to McLean (#1017601) </p>
+		</front>
+		<body>
+			<p>Elizth. Colenso</p>
+			<p>Waitangi 29th. October/51 My dear Sir </p>
+			<p>Permit me to offer my sincere congratulations upon your marriage and best wishes for your mutual happiness—— </p>
+			<p>Will you do me the favor to accept a small jar of fresh butter, 2 bottles of milk, a few lettuces such as they are and a small bundle or two of Asparagus— </p>
+			<p>If the latter with the lettuces are thrown into water an hour or two before wanted for use it will freshen them as both will most likely be withered ere they reach you— Are you in want of anything in the way of Kai? I shall be most happy to supply you as far as it may be in my power—Mr Colenso you will most probably have heard is away at Patea, he left this on the 10th having been delayed beyond his appointed time by bad weather and extremely high winds, the time for his return is uncertain—he may be here by Saturday next and if not I cannot say when we may expect him— </p>
+			<p>The “tamarikis” talk much of te Makarini and are full of enquiries as to when he will be here— The garden has an abundant supply of fruit in prospect— I wish the gooseberries were ripe enough to send you some. </p>
+			<p>Believe me  sincerely yours </p>
+			<p>Elizth. Colenso </p>
+		</body>
+	</text>
+</TEI>

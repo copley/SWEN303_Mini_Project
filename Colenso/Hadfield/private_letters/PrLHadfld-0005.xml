@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0005">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1837 September 22: Octavius to Octavia Hadfield</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 11)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 18.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1837-09-22">1837 September 22</date>
+                  <name type="place">Whitchurch</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70767/">Octavia Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Sept. 22nd. 1837: Octavius to Octavia Hadfield
+         </p>
+      </front>
+      <body>
+      <p>My dear Octavia, </p>
+<p>As Aleck is going this morning I cannot let him go without sending a few lines to you.  I cannot put my hand on any decent paper so pray excuse this.  The good people here have made a great many enquiries about you and G.  Poor H. Curtis died about ten days ago.  Mrs. Hazel is getting better slowly but is still very weak.  The school is thin; I must do something soon, I told <supplied>(Hazel?)</supplied> yesterday to make me out a list of the absent ones that I may go to the parents about them.</p>
+<p>The Sunday school goes on pretty well, we are now altering the classes and putting up some.  The church has been very full lately, which is pleasing.  I saw the Battesons yesterday for the first time since I returned.  Mrs. B. asked after you kindly.  I stay by myself a good deal of my time, however I must begin to walk more with G. <supplied>(Hemsted?)</supplied> has the scarletina and has been very ill but is now better.  Miss Atkins hoped to have found you here when she returned.  Caroline sends you a little sampler.  She thanks you for your work which you sent.  Aleck will be able to tell you anything else.  Jane Elton is gone into the hospital.  I have not been very well lately but am now quite well. George is not very well but I think it is because the weather has become warmer. </p>
+<p>I hope you do not forget us in prayer - I need your prayers.  I am tempted by the adversary and have enemies within also, - nevertheless I faint not, knowing that the "foundation of God standeth sure" etc.  You have no daily schools now; let your work be prayer.  Pray for me at <hi rend="underline">this time</hi> especially that I may be thoroughly sanctified and also directed by the Lord, that my life may be spent to His glory, that I may remember that Christ died for me, that I should not henceforth live to myself but to Him.</p>
+<p>Remember me to all friends.  Thank my father for his letter, give my love to all.</p>
+<p>I am, ever,</p>
+<p>Your affectionate brother</p>
+<p>O. Hadfield.
+</p>
+      </body>
+   </text>
+</TEI>

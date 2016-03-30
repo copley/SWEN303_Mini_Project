@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0951">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1895 December 16: to Cheeseman</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Auckland Museum MS 58, Box 5, Folder 3.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73513/">Cheeseman</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1895-12-16">1895 December 16</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1895 December 16: to Cheeseman<note xml:id="ftn3-765" place="foot" n="765"> Auckland Museum MS 58, Box 5, Folder 3.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier,—Decemr. 16<hi rend="sup ">th</hi>., 1895.</p>
+         <p>Dear Mr Cheeseman</p>
+         <p>Yours of the 7<hi rend="sup ">th</hi>. inst. came to hand on Saty. night 14<hi rend="sup ">th</hi>.—I lose no time in replying.—</p>
+         <p>Unfortunately I have no clear recollection of the locality in which I found the <hi rend="italic">Lycopod. </hi>you enquire after: but think it must have been near Ahipara on the W. Coast—perhaps with <hi rend="italic">Drosera pygmæa</hi>, which I do remember getting there. But even if I could spot precisely its <hi rend="italic">Hab. </hi>I doubt if you could possibly find it (the locality), and if found would be so greatly altered through settlers with their flocks &amp; herds, &amp; general <hi rend="italic">firing </hi>of the country, and another, and still <hi rend="italic">greater </hi>reason, I believe, would be found in my then <hi rend="italic">manner </hi>of travelling—in unknown parts—by Maori tracks (ever scarce away from their immediate settlements), and by compass on that occasion (nearly 60 years ago!) I left Paihia for Waimate &amp; the head waters of R. Hokianga—thence down to its mouth—thence by coast to Ahipara—thence to Kaitaia Ch. Mission Station, back to Ajipara &amp; thence on by <hi rend="italic">coast </hi>to Cape M.V.D., thence back 1 day by <hi rend="italic">same</hi> track—then across high sand hills to Doubtless Bay, &amp; thence by E. Coast to Whangaroa, Kerikeri Ch. Mission Station, &amp; Paihia Bay Islands.—a heavy, &amp; (in some instances) a perilous, &amp; <hi rend="italic">unsatisfactory</hi> (<hi rend="underline italic">Botl</hi>.) journey.</p>
+         <p>Of new plants (to <hi rend="italic">me</hi>) were <hi rend="italic">Hibiscus trionum, Cassytha—–, Colensoa physaloides, </hi>
+            <hi rend="underline italic">this</hi>
+            <hi rend="italic"> Lycopod!, Veronica decussata, </hi>(al.<hi rend="italic"> Forsteri</hi>) at the extreme Cape!—<hi rend="italic">Ipomæa tuberculata</hi>—and a very fine large leaved &amp; large fld. plant—(Ord. <hi rend="italic">Malvaceæ</hi>—&amp; which I thought to be a <hi rend="italic">Sida</hi>,)—but I had not secured good specimens of it for Kew, &amp; from a very young plant of it I had in my garden I cut leaves, &amp;c, on the <hi rend="italic">day </hi>of my sending off my case of plants to a ship in the Bay leaving for Engd.—this killed my plant! &amp;, I fear, were of no more use at Kew!! I remember having told Kirk of it when he was residing at Auckland.</p>
+         <p>I sincerely hope you may <hi rend="italic">fully </hi>enjoy your journey, &amp; be <hi rend="italic">successful</hi>—I may enter into your spirit, &amp;c,—as such delightful occupation is <hi rend="italic">no longer </hi>mine! <hi rend="italic">Age tells. </hi>However I am keeping pretty well—save Rheumatism (or its allies) daily, which cause me often to grunt!—&amp; <hi rend="italic">bear </hi>with more or less of patience. Lately I have been describing several sps. nov., and curiously enough! among them 2–3 <hi rend="italic">ferns </hi>from your <hi rend="italic">Auckland </hi>District! found by me in ’43–’44, &amp; the case never opened till <hi rend="italic">now</hi>! and this by mere chance. Those spns (many—altogether) have kept very well—one of the ferns is a <hi rend="italic">Trichomanes </hi>&amp; very distinct.</p>
+         <p>Again thanking you, and heartily wishing you all the <hi rend="italic">good old wishes</hi> of our Forefathers at this closehanded festival season,</p>
+         <p>   I am, Yours truly,</p>
+         <p>                                           W. Colenso.</p>
+         <p>P.S. Dieffenbach, some years after, found several of my plants.</p>
+      </body>
+   </text>
+</TEI>

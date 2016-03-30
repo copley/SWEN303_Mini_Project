@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0305">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1875 December 27: to Enys</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-papers-0670-1.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73465/">Enys</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1875-12-27">1875 December 27</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1875 December 27: to Enys<note xml:id="ftn2-240" place="foot" n="240"> ATL Ms-papers-0670-1.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>Decr. 27/75.</p>
+         <p>My Dear Sir</p>
+         <p>What can you think of me? when your kind note of Octr. 12<hi rend="sup ">th</hi>. remains unanswered! At the time of its arrival I was still in the Doctor’s hands (and did not get free until middle of November!) and when I slowly got round again, my hands were <hi rend="italic">full</hi> (head, too!) as Provincial Inspector of Public Schools.— Xmas. approaching fast, &amp; work undone! Then I got into the election turmoil (not yet over), &amp;c. &amp;c. All this time your letter (with many others), lay on my writing-table, and I was often reminded of you. However you are to be a <hi rend="italic">gainer</hi>, by this delay; for I have <hi rend="italic">found </hi>you a copy of that old “Excursion” of mine (which you wished to have), and I now send it with much pleasure. (I had set it aside, 2–3 years ago, intending to send it to a son of mine at home in Cornwall.)—I also send a Copy of my little <hi rend="italic">early </hi>Work on the N.Z. Ferns” please do me the honour of accepting both.—</p>
+         <p>—<hi rend="italic">Re</hi> the Ferns, as described in that little <hi rend="italic">brochure </hi>of mine,—I have recently heard from a scientific friend, that Baker, Dr. Hooker, &amp; others, (authorities in Fern matters at home,) have lately acknowledged (at last!) the correctness of some of our N.Z. species therein described,—which they had contested &amp; disallowed:—viz. <hi rend="italic">Lindsæa viridis, Dicksonia lanata</hi>, &amp;c.—I believe, that future <hi rend="italic">working scientific </hi>Botanists, in this our adopted country, will, by-and-bye, confirm others.—</p>
+         <p>Most gladly shall I receive the specimens you mention,—<hi rend="italic">Lomaria dura, Hymenophyllum ciliatum, Aspedium cystostegia</hi>, &amp;c.,—<hi rend="underline italic">at your leisure</hi>.</p>
+         <p>I have not Taylor’s work here, but have little doubt of my having seen (&amp; sent home) the butterfly (<hi rend="italic">Diadema</hi>) you speak of—as, 25–35 years ago, I was an extensive collector. And I know I had seen <hi rend="italic">all</hi> that Taylor mentioned, &amp; many more. Last year I reared several specimens of <hi rend="italic">Danaiis</hi>—it was a truly gorgeous and wonderful sight to see them emerging from their Chrysalis state!—</p>
+         <p>I hope to have more time shortly to call my own, &amp; will then, once more, turn my attention to scientific natural objects &amp; matters long long neglected: and possibly, may be able to send you some specimens.</p>
+         <p>Pray accept my apology, and, heartily wishing you the compliments of the Season<hi rend="underline italic">s</hi>, (Xmas. &amp; N. Yr.,)—</p>
+         <p>                             I am,                                   My Dear Sir,</p>
+         <p>                             Yours most sincerely</p>
+         <p>                                                     W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

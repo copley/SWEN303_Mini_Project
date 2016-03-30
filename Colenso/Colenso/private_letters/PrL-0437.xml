@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0437">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1881 January 5: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1881-01-05">1881 January 5</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1881 January 5: to Balfour<note xml:id="ftn3-70" place="foot" n="70"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Jan 5<hi rend="sup">th</hi> 1881</p>
+         <p>Mr D.P. Balfour</p>
+         <p>My dear Sir</p>
+         <p>First, let me cordially wish you &amp; yours a Happy New Year; May this one prove to be the best you have ever known. I had similar pleasure yes­terday when in town (for the first time for 8 days), on meeting Mr Kinross, which he also as cordially returned.</p>
+         <p>Now to your letter of 3<hi rend="sup">rd</hi>, received last night. Thanks for it, and its en­closure—You are nearly the 1<hi rend="sup">st</hi> this year (only Judge Kenny before you), and now, today, myself &amp; 2 sons <hi rend="italic">follow</hi>.—I am about to call a meeting of our Council (having yesterday written to our President about it), to pre­pare for the <hi rend="italic">Annual</hi> Meeting, which takes place on Monday 7<hi rend="sup">th</hi> of Feb, <hi rend="italic">and</hi>
+            <hi rend="italic">in the daytime</hi> to suit country members; can you possibly arrange so as to be present?</p>
+         <p>And can you influence anyone in your locality &amp; elsewhere to become a mem­ber? We need a few, as some have died, some left the district, &amp; resig­ned &amp;c,—if you can do so, let me know <hi rend="italic">early.</hi> We have elected some 3 or 4 lately (Mr Kinross’s nephew being one) &amp; I have 3 more names to bring befo­re the next meeting.</p>
+         <p>Send me leafing specimens of your climbing <hi rend="italic">Fuchsia,</hi> I think I know it.</p>
+         <p>I saw such at Wairarapa 5 years ago, and I think I met with it again, in October last in 40 mile Bush, of which I brought specimens, &amp; showed them at our last meeting.­</p>
+         <p>I am pleased in hearing of your latest additions,—Natures ornaments for Glenross; Your bare mention of <hi rend="italic">Drosera binata,</hi> conjures up of old beauti­ful sights;—dreams, fancies, imaginations.—</p>
+         <p>But I must not forget my <hi rend="italic">main</hi> subject (in quick reply) which has caused me to take up my pen at <hi rend="italic">once—</hi>as <hi rend="italic">Puketapu</hi> mail, I know, leaves tomorrow.</p>
+         <p>About the <hi rend="italic">tutu</hi> berries.       In case of any unhappy poisoning, I should at once administer a strong emetic, sulphate of zinc, say 20 grains, Sulph­ate of copper (blue vitrol), 12 grains,—<hi rend="italic">either</hi>, in half a cupfull of warm water (to a child <hi rend="italic">under</hi> 10 years, I should give <hi rend="italic">half</hi> the above,—and if un­der 5 years, I should give one fourth). Should you not have either of these two medicines by you,—<hi rend="italic">mustard</hi> may be used, say 4 teaspoonfulls mixed with water—or half quantity for a <hi rend="italic">very young</hi> child. These emetics should oper­ate almost immediately; and I would repeat them, if, after a quarter of an hour, there should be no vomiting. Gently irritatg. the childs throat with the finger, or with a feather, will also help it; and also by dashing cold water over the face, neck, &amp; breast.</p>
+         <p>
+            <hi rend="italic">After</hi> the evacuation, give acid drinks—such as two spoonfulls (or more) of vinegar in a glass of water, repeating this.—A cupfull of coffee, is also a <hi rend="italic">good</hi> thing, given alternately with the acid drink, and the limbs rubbed with bit of flannel, or soft brush. I should keep giving the acid drink &amp; the coffee, until the child is out of danger. But I hope you will not have any need to use anything.</p>
+         <p>Hoping this will find you all well, and with kind regards</p>
+         <p>     Believe me. Yours truly</p>
+         <p>             Wm Colenso</p>
+      </body>
+   </text>
+</TEI>

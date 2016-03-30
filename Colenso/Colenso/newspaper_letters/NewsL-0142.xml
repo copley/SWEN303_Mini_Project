@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0142">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1888 Mr Colenso explains. Daily Telegraph 13 June.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1888-06-13">1888 June 13</date>
+               <publisher>
+                  <name type="organisation">Daily Telegraph</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1888 Mr </hi>
+                  <hi rend="bold">Colenso</hi>
+                  <hi rend="bold"> explains. <lb/>  
+                  </hi>
+                  <hi rend="bold italic">Daily Telegraph</hi>
+                  <hi rend="bold"> 13 June.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—In your issue of this evening you have made two (at least) prominent misstatements respecting what I said last night in my address to the members of the Hawke’s Bay Philosophical Institute. As, I believe, you had no reporter present, I would hope you have done so unwittingly. </p>
+         <p>Nevertheless, I am (as the saying goes,) “in two minds,” whether to correct them or not; perhaps I had better do so at once, especially as one of them affects the well-doing of our Society; although your <hi rend="italic">canards</hi> will have had twenty-four hours’ start ahead of veracity, making it a rather desperate stern-chase. </p>
+         <p>1. You say:— “According to rule 3 of the Hawke’s Bay Philosophical Society members are not expected to debate matters which may arise, and the President last night, referred to the danger of the Society’s meetings degenerating into a low debating club. This was as much as to say that the statements—misstatements very often—of the members once uttered must be swallowed whole, and that young members must maintain silence although the questions brought forward might require elucidation to bring them down to the level of ordinary minds.” Allow me to give you rule 3:— “If any discussion should occur after the reading of a paper, no person shall be at liberty to address the meeting more than once, except when called upon through the chairman, for explanation. The member contributing a paper shall have the right to reply to observations made upon it.” </p>
+         <p>Is not that rule very different to what you have represented it to be? Does it not provide for ample reasonable discussion?—and please note, “observations” from any <hi rend="italic">“person”</hi> 
+                  <hi rend="italic">present</hi>. Does it not run in almost the same groove as the debates in our Houses of General Assembly? I refrain from making any remark on your straining and high-coloring. I certainly did call on my fellow-members to keep up the status of our Society (as a branch of the Colonial N.Z. Institute, and so to observe her rules), and not to allow themselves to degenerate in the way you have stated. </p>
+         <p>2. You, also, say:— “In opening the present session of the Hawke’s Bay Philosophical Society, the Rev. W. Colenso, F.R.S., the President, took occasion last night to deplore, the lack of interest in scientific matters shown by the people of this colony. In making this charge the worthy president did the colonists a great injustice,” &amp;c., &amp;c. </p>
+         <p>To this I reply I never said any such thing; rather the very contrary. What I said had reference to our own Hawke’s Bay district, and to our own local Society; and that in a very different manner to this statement of yours. I will just copy for you the words I used. </p>
+         <p>“In this ship, or hive, there should be no drones. Our society is both smaller and poorer than other kindred ones in this N. Island—Auckland and Wellington; happily there is no distinction made on this account; nevertheless we here in Hawke’s Bay must feel it, and therefore it is the more imperative upon us, as a determined and devoted though small band, devoid of those large blessings which our older sisters enjoy,—in rich endowments,* princely gifts, resident learned scientific men, extensive libraries and museums, —to be active, to be penetrated with that genuine <hi rend="italic">esprit-de-corps</hi>, which not unfrequently more than makes up for the want of everything else.”—I am, &amp;c., </p>
+         <p rend="end">
+                  <hi rend="smallcaps">William Colenso. </hi>
+               </p>
+         <p>*From the Report of the Auckland Institute for 1887-8, I gather, their investments to amount to £10,361, and their yearly receipts £1000. </p>
+         <p>P.S.—As I have good reasons for believing that my address will be shortly published. I will take good care that a copy shall early be sent to you.—W.C. </p>
+         <p>Napier, June 12th, 1888. </p>
+      </body>
+   </text>
+</TEI>

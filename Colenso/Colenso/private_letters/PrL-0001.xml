@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0001">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Private Letter: 1834 February 18: to Coates</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p>ATL Micro-Ms-0309; 88-103-1/04.</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71268/">Coates</name>
+        </correspAction>
+      </correspDesc>
+      <creation>
+        <date when="1834-02-18">1834 February 18</date>
+      </creation>
+      <creation xmlns:tei="http://www.tei-c.org/ns/1.0"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>1834 February 18: to Coates<note xml:id="ftn1-1" place="foot" n="1">ATL Micro-Ms-0309; 88-103-1/04.</note></p>
+    </front>
+    <body>
+      <p>To, Dandeson Coates, Esqr.,<lb/>Secretary of the Church Missionary Society.</p>
+      <p rend="end">Com. of Cor. Feb. 18/34.</p>
+      <p>Sir</p>
+      <p>Understanding that your Society is in want of a person, to go out to New Zealand as a Missionary-Printer,—I offer to it, my services unreservedly.</p>
+      <p>First:—as a Printer, I feel myself competent for “Press and Case,” in the common routine of the Trade:—</p>
+      <p>Second:—as a Bookbinder, knowing that Art, also, which might be of service, combined with the Printing Department, there:—</p>
+      <p>Third:—aware of the value of the Religion of Christ, whatever also, is, or may be, in my power, I wholly dedicate myself to carry forever the cause of the Cross, against the mighty—</p>
+      <p>In offering myself, Sir, to your Society, I beg to state, that ’tis not, I trust, (with regard to myself,) from <hi rend="italic">any worldly motive</hi>, as the offers I have, or, (in the event of your accepting my services) may refuse, would be far more lucrative.</p>
+      <p>With Regards to my Character, I would refer you, Sir, (in London,) to Mr. Watts, your Printer. (in whose employ I have been near <hi rend="italic">four</hi> months) and to the Rev: J: Dyer:—and in my native Town, (Penzance, Cornwall,) to the Church Minister—the Wesleyan and Dissenting Minister—and to the principal inhabitants.</p>
+      <p>To the consideration of your Society, Sir, (under God,) I commit myself:—Trusting that, if it is His will, it may be pleased to accept my services—if not—refused them:—</p>
+      <p>                       Awaiting your answer<lb/>                               I remain<lb/>                           Yr: mo: ob: servt.<lb/>                         William Colenso Jr.</p>
+    </body>
+  </text>
+</TEI>

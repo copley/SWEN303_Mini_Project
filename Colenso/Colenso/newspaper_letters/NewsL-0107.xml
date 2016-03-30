@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0107">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1882 The case of charity: the poor widow and her 6 little ones. Daily Telegraph 28 November.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1882-11-28">1882 November 28</date>
+               <publisher>
+                  <name type="organisation">Daily Telegraph</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1882 The case of charity: the poor widow and her 6 little ones. </hi>
+                  <hi rend="bold italic">Daily Telegraph</hi>
+                  <hi rend="bold"> 28 November.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—I have to thank you for so kindly and so promptly publishing my letter to you from Norsewood, on behalf of the poor widow and her family; also, for publishing the list of subscriptions so kindly collected by Madame Politz,— which I was right glad to see, and to know that some kind and humane person had already been beforehand actively engaged in this matter: and I heartily thank them all—all round. I wish also to add, that, on my way back to town, I received (spontaneously and unasked for) the following subscriptions at Waipukurau: — £ s. d. Mr Peter Gow 10 0 Mr J. Grindell 10 0 Mr W. C. Smith, M.H.R. (a 2nd Donation) 10 0 Mr J. Grubb, (per Mr Smith M.H.R.) 10 0 A Friend 10 0 —</p>
+         <p rend="end">I am, &amp;c, William Colenso. <lb/>Napier, November 27th, 1882.</p>
+      </body>
+   </text>
+</TEI>

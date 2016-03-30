@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0055">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1865 Correspondence. Hawke’s Bay Times 15 May.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1865-05-15">1865 May 15</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Times</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1865 </hi>
+            <hi rend="bold">Correspondence.</hi>
+            <hi rend="bold">	
+               <lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Times</hi>
+            <hi rend="bold"> 15 May.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—In your issue of the 6th instant you have a long extract from the <hi rend="italic">Southern Cross </hi>on the “Occupation of Waimate,” in which the story of  “Jack Guard and his captive wife” is given, and said to be<hi rend="italic">truthfully </hi>related.<note xml:id="ftn22" place="foot" n="22"> In 1990 Colenso wrote a much more detailed account from Dr Marshall’s diary (The first European fighting at Taranaki. In Sherrin AA. The Early history of New Zealand, part 1 of Brett’s Historical Series: Early New Zealand. Auckland, pp. 435-458.) —<hi rend="italic">Ed.</hi>
+            </note>
+         </p>
+         <p>Such, however, is not the case; very far indeed from it. And therefore, as you have an “open column,” and as I hope you care more for truth than part, I trouble you now with the truth of a small portion of that story.</p>
+         <p>I was well acquainted with Captain Guard, as also with some of the officers who were in that expedition (particularly with Dr. Marshall, surgeon of H.M.S. Alligator), from whom I received the whole story as it happened. </p>
+         <p>But it is from Dr. Marshall’s interesting published narrative (1836) that I rather choose to select the few following sentences, merely adding, for the information of many of your readers, that Dr. Marshall was not only an eye-witness of all he relates, but a truly amiable, good, truth-loving man, whose memory his friends still love to cherish!	</p>
+         <p>
+            <hi rend="italic">Southern Cross and H. B. Times</hi> 
+         </p>
+         <p>“At Te Namu, a pa between Cape Egmont and Waimate, Mrs. Guard was recovered with her infant child.</p>
+         <p>“She had been forced to live with a native chief, and had often been ill-treated and even wounded by the natives. In the conflict in which she was taken she had received some wounds in the head; and after this the head of her brother (heads seem to have been at a premium then as now), who had been killed and his body eaten, was constantly exhibited to her, after offering her part of the flesh.</p>
+         <p>
+            <hi rend="italic">Dr Marshall’s narrative</hi> “The tribe on the beach... deposited their female prisoner and her infant in a canoe, launched it from the shore, and brought them off alongside the Alligator’s gig. In a few minutes they were on board the ship, and under the protection of His Majesty’s pennant. She was dressed in native costume, being completely enveloped from head to foot in two superb mats, the largest and finest of the kind I had ever seen. They were the parting present of the tribe among whom she had been sojourning. She was, however, barefooted, and awakened, very naturally, universal sympathy by her appearance. From her own lips I gathered the following particulars of what had befallen her.</p>
+         <p>(Premising that, the day before:— “In Te Namu pa, the lodging allotted to her was discovered at once by the size of the door—the addition of a small window, on the ledge of which was the soap she had that day used—and inside, her child’s frocks and her own stays.) The door had been enlarged for her accommodation; the window had been made in compliance with her request; and a singular proof of considerate kindness and deference to her supposed delicacy of feeling, was furnished in the owner having caused the entrance and window both to be secluded by a close paling set up in front of the house, which effectually screened her from observation from without.... Of the treatment she had all along experienced at their hands her report was extremely favorable.”—p.p. 188, 190.</p>
+         <p>Speaking of “Jack Guard,” you also say:— “A true type of those daring spirits of the olden times, who used to manage the New Zealander by, what shall I call it?—well, by <hi rend="italic">honest</hi> John Bull pluck.”</p>
+         <p>Dr. Marshall relates a conversation he had with Mr. Guard:— “Mr. Guard scouted the idea of New Zealanders becoming christians. I asked him how he would propose to effect their civilisation in the absence of christianity? The reply, made in serious earnestness, and in a tone of energy and determination, at once unmasked the man, and made one’s heart sick at the thought that, upon the uncorroborated testimony of such a man, an expedition was fitted out against New Zealand, likely to be fraught with disastrous consequences. “How would I civilise them? Shoot them to be sure! A musket ball for every New Zealander is the only way of civilising their country!” (p.162) The writer of this has also more than once heard J. Guard say the same.</p>
+         <p>As Dr. Marshall’s book is well-known in England, and of course Jack Guard and his <hi rend="italic">peculiar views,</hi> it is considered to be somewhat unhappy for the colony that the <hi rend="italic">Southern Cross </hi>and the <hi rend="italic">Hawke’s Bay Times </hi>should now he found apparently enforcing such opinions, particularly as the colonists have been often wrongly and calumniously charged at home for holding them. I am, &amp;c.</p>
+         <p>
+            <hi rend="smallcaps">William Colenso.</hi>
+         </p>
+         <p> Napier, May 9, 1865.</p>
+      </body>
+   </text>
+</TEI>

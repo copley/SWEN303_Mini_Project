@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0212">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: From our Ormondville correspondent: Hawke’s Bay Herald, 18 January 1899.</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <date when="1899-01-18">1899 January 18</date>
+          <publisher><name type="organisation">Hawke’s Bay Herald</name></publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold italic">From our Ormondville correspondent:      <lb/>Hawke’s Bay Herald, 18 January 1899.</hi>
+      </p>
+    </front>
+    <body>
+      <p>Napier’s grand old man, the Rev. W. Colenso, occupied the pulpit at the Ormondville Anglican Church on Sunday morning last, and preached a very interesting sermon of a very orthodox nature. There was a good attendance to listen to his remarks, and the hearing accorded him was most appreciative. During the course of his remarks he took occasion to bestow a well-deserved compliment on the playing of the organist, Mr J. Scholes.<hi rend="italic"> </hi>
+      </p>
+    </body>
+  </text>
+</TEI>

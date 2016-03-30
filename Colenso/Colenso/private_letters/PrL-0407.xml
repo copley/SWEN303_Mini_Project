@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0407">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1880 January 10: to von Haast</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-papers-0037-046.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9511/">von Haast</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1880-01-10">1880 January 10</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1880 January 10: to von Haast<note xml:id="ftn3-31" place="foot" n="31"> ATL MS-papers-0037-046.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier,<lb/>January 10,<lb/>1880.</p>
+         <p>Dr. Von Haast.</p>
+         <p>My dear Sir</p>
+         <p>About 3 weeks ago (when I was absent in the subalpine forests) a letter arrived from Xt.Church containing only a blank printed form <hi rend="italic">re </hi>National proverbs but with the address written by you.—</p>
+         <p>I only returned a few days back, and I now write a line today: (1) that in my Paper now in Dr. Hector’s hands (No. 2 of a series of “Contributions towards a better knowledge of the Maori race,”) I have given over 200 proverbs in Maori with their translations and remarks therein—also, <hi rend="italic">copious</hi> remarks on Maori Proverbs generally.—There is something like a curious coincidence in this. I hope the Dr. and Directors will publish it in the “Trans.” vol. xii: if so, it may prove of service to your friend.—I have thoroughly urged, that, to ensure correctness, I should have the correcting of the proof sheets: this, however, I fear will <hi rend="italic">not</hi> be granted.—(2) There are Mao. proverbs published by Dieffenbach (who had them from the missionaries), and by Taylor, but, in <hi rend="italic">both</hi> instances, neither the Maori orthography nor their so-called translations are to be depended on, just because <hi rend="italic">neither </hi>knew Maori sufficiently. Possibly there are some Proverbs in Dr. Thomson’s N.Z., and also in Sir G. Grey’s work;—but I cannot, at present, fill in your printed form.—</p>
+         <p>I saw Dr. Hector while here, and we had some conversation <hi rend="italic">re </hi>my <hi rend="italic">2</hi> Moa papers; and as he has lately telegraphed to me to send you my Book (“Tasmanian Journal of Nat. Science, vol. II.,) containing my 2 <hi rend="italic">early</hi> published plates of Moa bones with their descriptions, I am in hopes of <hi rend="italic">both</hi> papers being published. I hope so: they should be. Hoping you are well                       I am, my dear Sir</p>
+         <p>Yours truly,</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0029">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1871 September 29 McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1001101</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1871-09-29">1871 September 29</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1871 September 29 McLean to Colenso (#1001101) </p>
+		</front>
+		<body>
+			<p>My dear Sir, </p>
+			<p>I have read with much interest your letter of the 14th. inst., and feel much obliged to you for sending it. </p>
+			<p>The Ngapuhi representative will keep the Northern tribes fully advised. He is a very sensible intelligent man. I should have liked very much to have seen Henri Mohi’s letter; as his knowledge of the working of the Native Land Court is considerable. </p>
+			<p>I shall be glad to hear from you when you can spare time to write; and I hope that the rheumatic attack with which you were afflicted when I was at Hawkes Bay has disappeared. If you would like a trip to the Hot Springs at Rotorua, I should be very glad to give you a passage to Maketu, and a horse and guide on to the Lakes. </p>
+			<p>Hoping you will excuse this short epistle,  </p>
+			<p>I remain,  </p>
+			<p>Yours very truly, (Signed)  </p>
+			<p>Donald McLean. </p>
+			<p>29 Septr. 1871 </p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0112">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1883 Dr Colenso, the late Bishop of Natal. Hawke’s Bay Herald 23 June</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1883-06-23">1883 June 23</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1883-06-22">1883 June 22</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1883 Dr Colenso, the late Bishop of Natal.<lb/>
+        </hi>
+        <hi rend="bold italic"> Hawke’s Bay Herald</hi>
+        <hi rend="bold"> 23 June</hi>
+      </p>
+    </front>
+    <body>
+      <p>— “If Ongar can hide the sun from us with a blanket, or put the moon in his pocket, we will pay him tribute for light.” </p>
+      <p rend="end">
+      <hi rend="smallcaps">Shaksp</hi>. <hi rend="italic">Cymbeline</hi>. </p>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—As the nearest living collateral relative of Dr Colenso, whose recent death has been announced by you in your paper this morning, (which, I may he allowed to observe, has taken me by surprise, not having heard from my family of his having been ailing,—and his also being so remarkably hale and healthy,)—perhaps you will permit me to add a few lines to what you kindly gave us this morning from <hi rend="italic">Men of the Time</hi>, concerning the late Bishop’s works, labors, and persecutions. </p>
+      <p>The compiler of that brief biographical memoir, while stating, that,— “During the Bishop’s stay in England (in 1874) he was prohibited from preaching in their respective dioceses by the Bishops of Oxford, Lincoln, and London;” has omitted to remark, that, notwithstanding those “prohibitions,” Dr Colenso did preach in all those dioceses, as well as in others. </p>
+      <p>He preached in London, at Westminster Abbey; in Oxford, at the Church of Balliol College; and, notably, at Claybrook in Leicestershire (adjoining to Wickliffe’s famed Rectory of Luttorworth,) where—having been invited by the vicar to preach in his church, and subsequently indecently (though ecclesiastically) personally opposed on the Sunday morning in that Church by the Bishop of Peterborough,—Dr. Colenso preached standing on a table on the village green, the school-room whence they had adjourned not being large enough, to a large and most attentive audience; in this respect following the noble example of John Wesley, a century before, in the neighboring county of Yorkshire. </p>
+      <p>And now, for this man, too, life’s toil is over; <lb/>  His words are all said out, his deeds are done; <lb/>For this man, too, there comes a rest, however <lb/>  Unquiet passed his time beneath the sun.</p>
+      <p>*              *               *               *               *               *</p>
+      <p>—Think you, that God loves our tame levelled acres <lb/>More than the proud head of some Heaven-kissed hill?<lb/>  Man’s straight-dug ditch more than His own free river,<lb/>That wanders, He regarding, where it will? <lb/>  Enough! High words abate no jot or tittle <lb/>Of what, while man still lasts, shall still be true; <lb/>  Heaven’s great ones must be slandered by Earth’s little, <lb/>  And<hi rend="smallcaps">God</hi> makes no ado.</p>
+      <p> —Yours, &amp;c., </p>
+      <p>
+      <hi rend="smallcaps">W. Colenso</hi>. </p>
+      <p> Napier, June 22, 1883.</p>
+    </body>
+  </text>
+</TEI>

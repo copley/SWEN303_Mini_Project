@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0046">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1843 November 13: Octavius to Octavia Hadfield</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  Page 99.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 27.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1843-11-13">>1843 November 13</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/71095/">Waikanae</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key=" http://wtap.vuw.ac.nz/eats/entity/70767/">Octavia Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1843 November 13: Octavius to Octavia Hadfield</p>
+      </front>
+      <body>
+      <p>Waikanae,</p>
+      <p>near Port Nicholson,</p>
+      <p>New Zealand.</p>
+      <p>November 13. 1843</p>
+      <p>My dear Octavia,</p>
+      <p>The last letter I wrote was on the first of September to my Mother, &amp; since that I have delayed writing, though I fear there have been ships going direct, because I was out of humour at not receiving any letters from any of you.  I have received letters from Salisbury dated late in May, six weeks ago, &amp; nothing from any of you since Feb. - So much grumbling; now let me think of something else. </p>
+      <p>I have had so much to do lately with our minor political matters, that I fear I am become quite worldly.  Since an unfortunate affair which I alluded to before, there has been a bad feeling existing between settlers &amp; natives; &amp; it has required the exercise of all the little wisdom which I possess to keep matters quiet.  I believe I have been the chief instrument in doing this hitherto, and have had acknowledgements to this effect from government officers; but still it is not my proper work; &amp; in that I would rather be occupied entirely.  I am afraid I have witnessed a little lukewarmness among the natives lately; this however I must expect; but still I have seen nothing of the kind, among my own favourites, they are as anxious as ever to know more of the Lord &amp; His grace, that they may love Him more.  I do not so much blame the natives for much that appears blamable in them, as I do ourselves.  Passing over any mention of my own infirmities which may prove a stumbling-block to them; when I consider the ignorant wesleyan teachers, the arrogant papists, &amp; some of their own clery ministering the sacraments &amp; without any knowledge of the language (contrary to the rubric); I cannot be much surprised that I see, what I think I do see, though others profess not to see it, that ere long there will be considerable confusion in the Christianity of some of these people.  Our hope is in the Lord, would that I ever rested upon that source of help simply &amp; entirely!</p>
+      <p>I feel inclined to go to China.  I wonder whether I could learn the language!  I found no difficulty in the language of this country: but Chinese, I suppose, would put one's ability for languages to the trial.  Nothing I regret more than not having studied languages.  I sometimes feel a little angry with some of you at home, who always used to tell me when a boy that I was conceited &amp; thereby discouraged me.  I took a dislike when a boy to Latin &amp; Greek, &amp; was stupid enough with those languages.  Since I left England I have only studied N.Z. &amp; Hebrew &amp; have found no kind of difficulty with these.  I fear nonetheless that Chinese would puzzle me.</p>
+      <p>I had the pleasure a few days ago of having the Chief Justice at my house for a day.  He takes great interest in the language &amp; in the natives of this country.  I am expecting the Bishop in about a month.  My friend Mr. St Hill is gone to see him in the centre of the Island &amp; will accompany him back.  Mrs. St Hill is growing in grace &amp; in knowledge of God.  She writes to me very frequently on religious subjects &amp; as she is both very teachable &amp; very clever I find it a little relief &amp; at the same time profitable to write to her concerning the great &amp; glorious attributes of Jehovah, which all shine forth in that blessed convenant of Grace whereby sinners are made heirs of glory.  Were we to meet again I might agan enjoy the pleasure of talking with you on these subjects: still, I cannot but feel - excuse me, I was going to allude to one who no longer "sees through a glass darkly" but I shall not.  I have had much better health lately than previously, in fact I am quite strong.  I shall anxiously expect to hear from you, &amp; as so long a period has elapsed, I shall expect soon to do so.  Give my kindest love to my father &amp; mother &amp; all my brothers &amp; sisters &amp; believe me ever yours affectionately,</p>
+      <p>
+      </p>
+      <p>Octavius Hadfield.</p>
+      <p>Since writing the above this morning I have had the pleasure of receiving a letter from Charles Ap.22.  He gives good accounts up to that time.  Please give him my kindest thanks.  A letter also from my friend Richard Jones; which I will answer soon.  Adieu.</p>
+      </body>
+   </text>
+</TEI>

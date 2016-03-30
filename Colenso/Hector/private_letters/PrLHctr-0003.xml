@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1111">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>15 November 1864: Hector to Hooker.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">James Hector</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Kew DC 174, 434-437, ATL Micro-MS-Coll-10-16, 437-448.</p>
+         <p>Transcription published in "My Dear Hooker: 
+Transcriptions of letters from James Hector to  
+Joseph Dalton Hooker between 1860 and 1898", Rowan Burns &amp; Simon Nathan.  Geoscience Society of New Zealand miscellaneous publication 133B, 2012.  ISBN 978-1-877480-21-8. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133B.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1864-11-15">1864 November 15</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hector to Hooker, 15-11-1864, Kew DC 174, 434-437, ATL Micro-MS-Coll-10-16, 437-448.</p>
+      </front>
+      <body>
+      <p>  
+Dunedin </p>
+            <p>15th November 1864 </p>
+            <p>My dear Hooker,</p>
+            <p>Many thanks for your letter by last mail (July)
+. The lists you refer 
+to have all arrived 
+ were very acceptable. I am glad you like the tabulated list of the plan
+ts &amp; the areas they 
+ccupy. We took great care in making it up – but
+ of course after we get the Handbook will be able to make it much more perfect. Colenso has just sent me the maps of an essay on the Botany of the North
+ Island (99 pp. !!) &amp; from it I see I shall be able to 
+construct a similar list for the N. Island. His essay gives a great deal of
+ information about the uses the Native plants 
+ave been put to by the Maories.
+ Munroe &amp; Travers have also sent in valuable essays on the 
+Botany of Nelson &amp; Canterbury &amp; I have drawn up a little account with a Phytologic
+section of this province. </p>
+            <p>
+I have been hard at work getting out a Geological map of the whole of N.Z. which is to embody all that is at present known &amp; illustrate those Essays by Crawford (aided by Mantell) Haast &amp; myself.</p>
+            <p>
+It will be ready soon now. I am also getting out a large scale map of this province. I 
+enclose a Photo: of a part of it. 
+The scale is 4 miles to the inch. 
+It is quite finished now all but 
+the Geol: colouring &amp; lettering. While I am working up for the Exhibition I am gradually at 
+the same time winding up my affairs in this Province. When I leave this in a few months I 
+shall leave behind a Capital little museum containing over 3,000 Rock &amp; Fossil specimens, 
+all worked up &amp; Catalogued for reference. Also 90 or 100 birds of the Province all set up (I 
+have besides about 200 species 
+ready to send home). A full set of all the woods polished &amp; 
+named with specimens of Flowers &amp; leaves. About 50 of the more interesting of the fishes and a lot of the odds &amp; ends.</p>
+            <p>This collection is already in hansome Cases made of polished 
+Rimu (Dacrydium cupressinum) which is a most handsome furniture wood. 
+Then thanks to you I will be able to 
+leave them a trustworthy Herbarium just as good 
+as if the plants had been named directly by 
+you – for I have adhered most scrupulously to the system of numbers. </p>
+            <p>Haast has recently sent me a copy of a paper which he sent home to the Geol: Soc. 
+last mail, in which he goes in altogether for the scooping action of glaciers. You will have 
+seen it by this time I dare say. 
+I think much of his argument is
+ very shaky. The only point I can see in it is the c------- that after a Lake forms at the lower end of a Glacier, the Ice may 
+perhaps melt with greater rapidity than before &amp; therefore 
+without any great change of 
+climate return so rapidly as to leave a gap between the moraine &amp; the part where the slope of 
+the Valley again lifts the Ice out of the water 
+so that it melts more slowly &amp; therefore has 
+time to lay down a second moraine. There is something in this I think.</p>
+            <p>Our great Lakes are certainly in 
+rock basins. That of the Wakatipu Lake is at best 
+1200 ft deeper than the lip over which the water escapes. However there is a part which I have not seen noticed any where though perhaps
+it may be familiar to you. Viz. that a river will sooner lower its drainage channel by cutting through solid rock, then it can remove shingle which has dammed its first outlet. The 
+result is that nearly 
+all our Lakes have the 
+following section at the out let.</p>
+            <p>Sometimes the old &amp; new outlet are side by 
+side, as see Photo: of sketch enclosed 
+(No. 1) which is a view from a Mt. 7000 ft above 
+the level of the Lake. No. 2 is a side view
+of the same outlets from another Mt. &amp; No. 3 is the reverse 
+view from No. 1 showing the 
+wonderful terracing which has been caused by the 
+gradual lowering of the bed of the river as it cut through a rock channel.</p>
+            <p>In the case of the Wakatipu Lake however
+ the old &amp; new outlets are 20 miles apart &amp; 
+the change has caused the drainage to reach the sea in a Easterly direction by the Clutha River instead of S.W. as before by the Mataura (see back of the Photographic map.).</p>
+            <p>I also send you three views of this Lake. </p>
+            <p>I also must again mention to you the relation which the sounds of the West Coast bear to these rock bound Lakes – because I believe that their structure gives the clue to this difficulty. </p>
+            <p>I send a few sketches of Milford Sound where the Phenomena are best marked. What 
+ever may have led to the original formation of
+ this wonderful vally there is no doubt but that it has been finished off by Ice action &amp; that 
+phenomenon indicated on the back of Sketch No. 
+7 &amp; on No. 8 of Lattoral vallies having been 
+cut off apparently by errosive action being 
+
+prolonged in the main valley after 
+it had ceased in the tributary valley is very curious &amp; is the
+most direct proof I can advance of erosion of
+ valleys by Ice. Hence it proves nothing towards
+a scooping action. I believe the valleys occupied
+ by Sounds in the West &amp; by Lakes in the 
+East have all been formed in the same manner, &amp; that the ----- the former were occupied by 
+arms of the sea &amp; the latter by  
+rock hemmed
+ Lakes having a surface altitude of 1000 ft. 
+simply a result of a tilt or inequallity in the relative rate of submergence following a great 
+elevation of the flanks of the Crystaline axis. </p>
+            <p>The Augt. Mail has just arrived in time for me to acknowledge receipt of the copy of 
+the Handbook for which many &amp; ------ thanks. Buchanan is ------- it at present but I have not 
+had time to look at it yet. It seems to be very nicely got up. There may be a letter from you 
+but the whole of the mail has not yet been delivered. I see a notice of the Brit. Assoc. meeting 
+in the Paper &amp; of Lyell’s adress. I like his idea 
+of the decrease in size of the Swiss Alpine 
+Glaciers from the climate of the Sulic---- Plateau. In N.Z. you are of course aware that we 
+have occasional hot dry winds for several days
+ from the N.W. They dry up everything just like the Australian Hot Winds &amp; cause most violent floods by melting the snows in the Mts. 
+along the west.</p>
+            <p> There can be little doubt that
+ notwithstanding the great distance from Australia this 
+hot wind here has some connection with the desication of the air that 
+passes over Australia. 
+Therefore if the Australian
+ Country has been raised in latter 
+Tertiary times, while at the same 
+time the N.Z. Alps decreased in altitude 
+we would have the same causes opportuning to 
+reduce the extent of the Glaciers 
+as those alluded to by Lyell. </p>
+            <p> I am very busy now with the Exhibition which opens in about 5 weeks. We begin
+taking in articles today. Owing 
+to squabbles with the Local Govt. we are six weeks behind 
+time, but I hope we will yet be able to get through the work. I enclose you a Photo: of the part of the town that has the building taken from my office door.</p>
+            <p>I also send you a Photo: of Buchanan. If 
+it had not been for the Exhibition I should 
+have had him out collecting this summer. I am certain that there are lots 
+of Alpines yet.  I was comparing notes with Haast as to plants which we got on the Wanaka Ranges at different 
+dates &amp; he remarked that I had got many in Febry. that he failed to find in Decr. That no 
+collection has been made above 7500 ft I am sure
+ that at the right season plants will be found 
+to 9500 ft.</p>
+            <p>Ever Your Sincere friend </p>
+            <p>Dr. Hooker </p>
+            <p>Kew.  </p>
+            <p>James Hector.</p>
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0095">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>unknown date: Octavius Hadfield to unknown person</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions, spine title "Hadfield, Typescript Miscellaneous Fragments 1833-1897", stamped 19 Dec 1979.  Section: Fragments - Fragmentary extracts from the letters of Octavius Hadfield.  Copy of page of MS (not typescript), after "EXTRACT NO. 5." - markings suggest this is a transcript rather than Hadfield's original.  Page 18.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 14.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="-----">unknown date</date>
+                  
+               </correspAction>
+              
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>unknown date: Octavius Hadfield to unknown person</p>
+      </front>
+      <body>
+      <p>people." untill In His appointed time we are admitted into His eternal rest.  I daily remember you in my prayers oh may the Lord direct you + dispose of you as shall be most to His glory. - I will give you no advice trusting that you are living in sweet communion with your Heavenly Councillor who will surely direct you in all your ways.<!--sic--> + supply you every want out of those rich treasures that are <!--blank space--> up in Him.  I do not I <!--blank space--> with shame live in such close + sweet communion with my God as I once did.  living as I do alone among the heathen + meeting with many interruptions when endeavouring to enjoy (?)<!--this marking and the blank spaces suggest this is a transcript rather than Hadfield's original--> occasional seasons of retirement,  I feel apt to wish for a release but not so much for the sake of being with "Christ who is far better" but for the sake of <!--blank space-->, - I feel as tho' I should like to live in retirement separate from the world + spend the rest of my life in Prayer + study of the word of God.</p>
+      <p>Octavius Hadfield.</p>
+      </body>
+   </text>
+</TEI>

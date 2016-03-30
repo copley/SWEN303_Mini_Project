@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0485">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1882 February 11: to Russell</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-Copy-Micro 485 Reel 1.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/72672/">Russell</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1882-02-11">1882 February 11</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1882 February 11: to Russell<note xml:id="ftn3-123" place="foot" n="123"> ATL Ms-Copy-Micro 485 Reel 1.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Saty. night Feby. 11, ’82</p>
+         <p>My dear Capt. Russell</p>
+         <p>Thanks many for your kind note of yesty. I have (since readg. it) written to J.Wh!—wh. will leave here My. m. as I find he is now at Wgn. A copy I shall enclose for your inform.</p>
+         <p>No doubt, (as I sd. To you in my last) you will note that it is short. As you truly qu.— “Is not Bryce now the man!”—But <hi rend="italic">how</hi> can I write again <hi rend="italic">to him</hi>? Unless I were to do so to remind him of his predecessor’s kind promise in so doing (&amp; of his own clear contrary acting). On the other hand, I know that Robt. still often signs &amp;c <hi rend="italic">for that</hi> Dept., espy. in abs. of B.—B. is now at the N. Be all that as it may, I shall have endeavoured to do my plain duty in the matter, &amp; long uphill<hi rend="italic"> </hi>wk. though!</p>
+         <p>I am with you, in saying, “Alas.” in yr. having no V. at <hi rend="italic">present</hi>—but do not forget, it is only <hi rend="italic">for the present</hi>—3 short years only, of which more than <hi rend="sup">1</hi>/<hi rend="sub">18</hi>
+            <hi rend="sup">th</hi>. has already <hi rend="italic">passed</hi>, and <hi rend="italic">long befr. </hi>the end I hope the eyes of <hi rend="italic">many</hi>, in newconstituencies will be opened, &amp; then look out for the welc. change. I <hi rend="italic">may</hi> not, but H.B. <hi rend="italic">will </hi>see <hi rend="italic">you</hi> rightly returned again.</p>
+         <p>And belg. this,—&amp; also, that R. <hi rend="italic">knows</hi> not only the diff. betn. the 2 competitors, but the very narrow majy. oppd., he, as a M. of the Govt., cannot, dare not prudently shove aside or make light of yr. request.</p>
+         <p>             I am my dr Sir<lb/>                     Yrs faithy<lb/>                         WC</p>
+      </body>
+   </text>
+</TEI>

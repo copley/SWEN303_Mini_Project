@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0857">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1893 February 11 to William Colenso</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-papers-10535-1.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1893-02-11">1893 February 11</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1893 February 11 to William Colenso<note xml:id="ftn3-630" place="foot" n="630"> ATL Ms-papers-10535-1.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier,—–<lb/>New Zealand.<lb/>Feby. 11<hi rend="sup ">th</hi>. 1893.</p>
+         <p>My dear Nephew William</p>
+         <p>No doubt you have been long expecting to hear from me—in reply to your kind &amp; welcome letter of 24<hi rend="sup ">th</hi>. October last (received by me here in December), and I have often <hi rend="italic">intended</hi> to write—having had <hi rend="italic">you</hi> &amp; others of our family much in mind: but I have been <hi rend="italic">very busy</hi>—<hi rend="italic">every day &amp; every night</hi>, and so have been obliged to put you off—at the same time I may observe that in my monthly writing to W. &amp; to Sarah, you—not far off—would be sure to hear <hi rend="italic">from them</hi> of me.—</p>
+         <p>By waiting, however, I now <hi rend="italic">know</hi> of your <hi rend="italic">re</hi>-electioon to the Boro’ Council of our Native Town; and I am right glad of this, &amp; <hi rend="italic">congratulate</hi> you my dear nephew upon it; may you be able to serve <hi rend="italic">our</hi> town <hi rend="italic">long</hi> &amp; <hi rend="italic">usefully</hi>—in company with your Borough Councillors.—–</p>
+         <p>I have also received a short official note from Mr. W.H. Julyan (writing for the Committee of the Penz. Institute—or <hi rend="italic">Library</hi>) thanking me for <hi rend="italic">that</hi> vol. of “Transactions,” for 189<hi rend="underline italic">0</hi>, which I had wrongly sent; I suppose that has long ago been made “all right” by you.—– In <hi rend="italic">many</hi> of those vols. you would find Papers written by me, <hi rend="italic">some</hi> of them I feel sure would interest you if you could find time to look into them.—</p>
+         <p>Sarah wrote to me a short time ago about certain things <hi rend="italic">wanting</hi> for their house, in the way of papering or painting, or both;—I think she said, such had <hi rend="italic">never been done</hi>: by next ’Frisco Mail I purpose to write to W.—to say, for you to undertake the job and I will pay you. I don’t know what you would say (as a skilled Painter &amp; House Decorator), were you to <hi rend="italic">see</hi> my house here—built in 1859, and then only roughly painted on the outside, and <hi rend="italic">never</hi> either painted or papered within! only bare &amp; plain planed boards. And lest you might suppose that all Napier is just a rough and careless, I must add, such is <hi rend="italic">not</hi> the case, rather (as I take it) they are inclined to go wholly in the <hi rend="italic">other</hi> direction. No doubt many (if not all) of my <hi rend="italic">few</hi> visitors—especially those from abroad—have strange thoughts on looking around.—However it suits this <hi rend="italic">old man</hi>, and his pocket (ever kept low!!) and possibly <hi rend="italic">may</hi> have a tendency to keep down our ever-growing high Rates &amp; Taxes.—I am completely surrounded by trees—of my own raising—snugly embosomed among them— “blow high or blow low.”</p>
+         <p>Nearly all of last year (’92) I was engaged in Church duty in the <hi rend="italic">Bush</hi> (or forest) District in the <hi rend="italic">interior</hi>—100 miles S., that ended with November, and in returning to Napier I had supposed I was come back to <hi rend="italic">rest</hi>—at least from <hi rend="italic">that</hi> kind of duty: not so, however, our Dean soon fixed me for New Year’s Day in the Cathedral here, (as he sadly needed a holiday), and then, Rev. C.L. Tuke—who also wished for a short rest, got me to help him at Taradale—a township 6 miles off.—I was <hi rend="italic">there</hi> on the 8<hi rend="sup">th</hi> and also on the 29<hi rend="sup">th</hi>. of January, 2 Services on each day—and I have to go thither again tomorrow for the Evening Service!! remaining all night at the Parsonage.—I may tell <hi rend="italic">you</hi>—I get <hi rend="italic">no pay </hi>for any &amp; all Ch. work; having steadily refused it. And so—in my <hi rend="italic">returns</hi> last year under our <hi rend="italic">new</hi> “Income Tax”!—I entered, under “Professional Income,” <hi rend="italic">nil</hi>: under “Literary ditto,” <hi rend="italic">nil</hi>: &amp; under “Scientific ditto,” <hi rend="italic">nil</hi>: &amp;, also, under “any other source of emolument,” <hi rend="underline italic">nil</hi>. I wonder if any other has done the same!—</p>
+         <p>Your information <hi rend="italic">re</hi> the spread of Romanism in Penz. grieves me much. I recollect the time when there was no place of worship of <hi rend="italic">their</hi> church nearer than Falmouth, where also their solitary priest lived! With Ritualism, &amp; extreme <hi rend="italic">High</hi>-Ch. parties in our Ch. of England I have no fellowship—&amp; I believe all such to be exceedingly hurtful, &amp; out of place <hi rend="italic">in Cornwall</hi>: but I won’t enter on this subject.—</p>
+         <p>I have been keeping pretty well of late—perhaps I ought to say <hi rend="italic">very well</hi>; for I have had <hi rend="italic">much less</hi> of Rheumatism—my old chronic adherent of more than 50 years! but then I have had, &amp; <hi rend="italic">still have</hi> at times, the <hi rend="italic">remains</hi> of that fell &amp; hateful disease—Influenza, which, I suppose, I shall never be free from! Yet, I do think, (somehow!) that it has <hi rend="italic">lessened</hi> Rheumatism, or coalesced with it? it is now confined to my feet (soles, &amp; toes <hi rend="italic">beneath</hi>) &amp; sometimes prevents me from walking, even on a flat surface.—Hence, I rarely go down to the town below—say about once in 10 days, or so; remaining quiet at home, with <hi rend="italic">very few visitors</hi>, scarcely averaging 2 in a week.</p>
+         <p>And yet, though I am daily writing letters, I cannot keep down my ever &amp; fast-growing bundle of unanswered ones! while, of late, I have been <hi rend="italic">obliged</hi> to <hi rend="italic">decline</hi> all <hi rend="italic">fresh</hi> correspondents—some in America &amp; some in Europe—on scientific matters: this is a kind of grief to me!—–</p>
+         <p>What you tell me of Ellen is <hi rend="italic">wholly new</hi>: I have not heard anything of her for many years, long before the death of Mrs. Stevens. I had before heard something of her being “flighty,”—but only so <hi rend="italic">at times</hi>. When you next write tell me all you may know of her. Does Mrs. Tucker know of her position? or, of her being in Penzance?—–</p>
+         <p>I trust your dear Mother is keeping well: please give her a <hi rend="underline italic">Brother’s</hi>
+            <hi rend="italic"> affectionate regards</hi>. I had a good &amp; very long letter from your brother Richard some time ago, but a <hi rend="italic">second</hi> is not yet to hand. Remember me kindly to him and to “<hi rend="italic">Carrie</hi>”:—somehow these two seem to be, or come, <hi rend="italic">together</hi>!—</p>
+         <p>And your own good wife &amp; family my dear nephew—remember me very kindly to them; though I suppose you have not many of the young ones at Home now: some having grown up &amp; left the <hi rend="italic">hive</hi>.</p>
+         <p>And heartily wishing you every blessing—for mind, soul, &amp; body—both you &amp; <hi rend="italic">yours</hi>.—–</p>
+         <p>Believe me ever—–</p>
+         <p>Your affectionate Uncle,     W. Colenso.</p>
+         <p>P.S. Let Willie know you have heard from me—my last to him &amp; to S. was on 28<hi rend="sup">th</hi>. Jany.</p>
+      </body>
+  </text>
+</TEI>

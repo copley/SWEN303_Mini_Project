@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0991">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: Date?: to William Colenso</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-papers-10535-1.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0"/>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>Date?: to William Colenso<note xml:id="ftn3-821" place="foot" n="821"> TL Ms-papers-10535-1.</note>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="italic">[Early pages missing]</hi>
+         </p>
+         <p>You mention your <hi rend="italic">inferior </hi>and <hi rend="italic">short </hi>schooling: and <hi rend="italic">suppose </hi>that I, in my boy-days, did <hi rend="italic">better </hi>in <hi rend="italic">that</hi>
+            <hi rend="italic">respect</hi>! <hi rend="italic">I do not think so</hi>: my school-days, alas! were <hi rend="underline italic">few</hi>: I only learned the <hi rend="italic">3 R’s.</hi> (and scarcely that): but I have ever been a diligent student, <hi rend="italic">learning </hi>
+            <hi rend="underline italic">always</hi>, and <hi rend="italic">so </hi>
+            <hi rend="underline italic">now</hi>—as I often tell my various audiences—working <hi rend="italic">more </hi>like 16 hours a day than “<hi rend="italic">8</hi>”—the foolish popular cry.—Now, however, I find my memory becoming very defective—a concomitant of old age: but my memory is <hi rend="italic">still wonderfully clear—bright—good, of all matters of my early childhood &amp; boy days</hi>! I have before me the old shops &amp; houses, &amp; signs, and their <hi rend="italic">owners</hi> in Penz., their clothes, appearance, every thing perfect; I could, if there, go to <hi rend="italic">old spots</hi>, out of the way, &amp; find <hi rend="italic">certain scarce plants</hi>; of this I wrote a full paper &amp; sent to Dr. Ralphs—but he————.<note xml:id="ftn3-822" place="foot" n="822"> A few stray thoughts on W. Cornwall (Mount’s Bay) and our Cornish Botany. Ms in Morrab Libray, Penzance; written as a communication to the Penzance Natural History and Antiquarian Society, read by the secretary Mr E.D. Marquand on 19 March 1885, but not published. </note>
+         </p>
+         <p>I must not omit to say, how <hi rend="italic">very pleased</hi> I am in hearing of the success of your sailor-son.—<hi rend="italic">May our Hy. Father ever preserve him in his dangerous vocation</hi>.—Willie, too, <hi rend="italic">did well</hi> at sea—I wish he had stuck to it,—having <hi rend="italic">chosen it</hi>. Another thing pleases me—to find you in your Borough Council: I trust you will keep a good &amp; proper look-out concerning that money I sent for <hi rend="italic">our </hi>Penz. poor,—there are several Cornishmen out here—some from <hi rend="italic">West </hi>Cornwall, Penz. &amp; its neighbourhood, and I always endeavour to let them know I, too, belong to “<hi rend="italic">One &amp; all</hi>,” and we are friendly—as we ought to be.—–</p>
+         <p>Here I must stop: I have other letters to write by this Mail: I write a <hi rend="italic">very great number </hi>still, though obliged to give up some correspondents.——</p>
+         <p>Goodbye my dear nephew: I hope your good wife is recovered: and with love to you &amp; yours, <hi rend="underline italic">all</hi> Believe me</p>
+         <p>Your affectionate Uncle, W. Colenso.</p>
+      </body>
+  </text>
+</TEI>

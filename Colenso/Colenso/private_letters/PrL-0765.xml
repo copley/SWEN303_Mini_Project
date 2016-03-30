@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0765">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1891 January 26: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0495.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1891-01-26">1891 January 26</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1891 January 26: to Harding<note xml:id="ftn3-509" place="foot" n="509"> ATL qMS-0495.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>Monday mg.<lb/>Jany. 26  1891</p>
+         <p>Dear Mr. Harding</p>
+         <p>Last wk. I had resolved (if I saw this day) to pay off “<hi rend="italic">old </hi>scores”! accumulating at a terrific rate!! Unfy. I, in getting up, got a visitation from my <hi rend="italic">unwelcome</hi> companion, who (too) often drops in on me: unawares &amp; spoils—everything! But I fought him—once more—&amp; so have gone through (again) 9 letters from you:—&amp; here is the result:—</p>
+         <list type="unordered">
+            <item>Never heard of Robert Skeen, “printer in N.Z., and M.H.R.”—both mythical (or worse!) <hi rend="italic">to me</hi>.—<lb/>  α. <hi rend="italic">Never</hi> in House.<lb/>  β. No “Mao. Bible,” (or Text) ever <hi rend="italic">printed in</hi>
+               <hi rend="italic">N.Z.</hi> save my own 8vo<hi rend="italic">.</hi> one.</item>
+            <item>“Cooks relics”—(your cutting, returned)—a <hi rend="italic">plate </hi>(mis. one!) given in “Early Histy. N.Z.” page 12.</item>
+            <item>“<hi rend="italic">Namana</hi>”—old Mao. of Hurunuiorangi: I recollect him, I taught &amp; Baptd. him: <hi rend="italic">bosh</hi> as to his “100 yrs.”—this is too common now, w. <hi rend="italic">all</hi> papers! (Namana = Naaman: Syrian.)</item>
+            <item>Of Stanley—I have <hi rend="italic">ever</hi> had the lowest poss. opin. of him: <hi rend="italic">long before</hi> he emerged from Af. <hi rend="italic">I wrote thus, Home</hi>—saying “<hi rend="italic">I would not shake hands w. him</hi>.”—</item>
+            <item>
+               <hi rend="italic">Re</hi> Mao. oracles &amp; necromancy. I had proposed taking these up in my Papers—“on the Ideality of the anct. Mao.,”—<hi rend="italic">in due course</hi>: I have touched on it in <hi rend="italic">Uenuku</hi> &amp;c. (vol. XIV)</item>
+            <item>
+               <hi rend="italic">Re </hi>Your truthful &amp; proper remark on “Sanballat &amp; Tobias,” &amp; <hi rend="italic">their</hi>
+               <hi rend="italic">progeny</hi>! (<hi rend="underline italic">good</hi>) You know <hi rend="italic">what</hi> turned me aside from my planned Mao. Papers.—Of course, that (at headquar.) followed by the <hi rend="italic">still, greater local</hi> hostility here—which proved to be “<hi rend="italic">the last straw</hi>” (a <hi rend="italic">big</hi> &amp; <hi rend="italic">heavy </hi>one!)</item>
+         </list>
+         <p>
+            <hi rend="italic">    N.B.</hi>Last week <hi rend="italic">Sir Jas. H.,</hi>
+            <hi rend="italic">himself</hi>, sent me a copy of “Lyttleton Times” of 16<hi rend="sup">th</hi>. containing his address—&amp; high eulogy of me!!! I could scarcely believe my own eyes: it was <hi rend="italic">also</hi> pub. in “Canty. Press”—someone sent me a copy: as mail was leaving—I sent them off.</p>
+         <list type="unordered">
+            <item>The Mao. Art. “<hi rend="italic">Te</hi>”, requisite—in many cases—party. <hi rend="italic">Chiefs’ names</hi> (see, enclosed “<hi rend="italic">proof</hi>,” <hi rend="italic">accidentally</hi> found, among rubbish, 2 days ago)</item>
+         </list>
+         <p>
+            <hi rend="italic"> Te</hi>—“Emphatic &amp; intensitive”—var. meanings of this art. generally (or invariably) shown in pronunciation—emphasis, &amp;c.</p>
+         <p> Te Matua—Chambers’ <hi rend="italic">peak</hi>. </p>
+         <p> Te Matau-a-Maui.&amp;c &amp;c.</p>
+         <p>     Tom Tanner’s—<hi rend="italic">The</hi> Prow</p>
+         <p>     Mr Crossemodern—<hi rend="italic">The</hi> Rise, &amp;c &amp;c.</p>
+         <p>     Much of Mao. “bosh” in Gudgeon’s <hi rend="italic">printed</hi> list—things (names) <hi rend="italic">tacked on</hi>: a common matter.—e.g. Uenuku, Paikea, Ruatahu, &amp;c—<hi rend="italic">from this E. Coast</hi>! (as in vol. XIV.)—</p>
+         <p>     105–109—exx. of <hi rend="italic">that</hi> kind of <hi rend="italic">bosh</hi>.</p>
+         <list type="unordered">
+            <item>Re. J.White<lb/>α. <hi rend="italic">Never</hi> really “<hi rend="italic">initiated</hi>” as <hi rend="italic">tohunga</hi>. <lb/>β. I did not know of <hi rend="italic">his</hi> Dicty.! (Hoped—<hi rend="italic">mine</hi> contained “<hi rend="italic">more than twice as many as Wm’s</hi>”—or thrice.)</item>
+         </list>
+         <p>9. <hi rend="italic">Rt. glad</hi>—<hi rend="italic">You</hi> were <hi rend="italic">so pleased</hi> w. those <hi rend="italic">old letters</hi>: I have <hi rend="italic">lots</hi> more!—</p>
+         <p>10. You say: “Your copy Trans. begins w. vol XIV.—“Colour sense of Maori”—<hi rend="underline italic">N.B.</hi> My addendum thereto, at p.477, (placed there, after <hi rend="italic">curtailment</hi>, by <hi rend="italic">Ed</hi>., who, howr. had asked <hi rend="italic">my consent</hi> to both—<hi rend="underline italic">or</hi>
+            <hi rend="italic"> </hi>omission.</p>
+         <p>11. You <hi rend="italic">regularly </hi>see I. “Bookmart,”. Why does H.K.L. send me <hi rend="italic">one</hi>, now &amp; then? Canty. little of interest to me!</p>
+         <p>12. Re Seffern’s kind, friendly full &amp; <hi rend="italic">able</hi> note to you (which I return)—he must be a <hi rend="italic">hard-worker!</hi>
+         </p>
+         <p>13. “Costall’s memo”. Re Govt. ptg. off.,—<hi rend="italic">not sent on by you.</hi>
+         </p>
+         <p>14. Newspr. cutting, re Bp. Pattison: never before heard of it!—I <hi rend="italic">doubt</hi> greatly, Bp. S. so acting.—Is it true?—In those days <hi rend="italic">no </hi>commn. w. <hi rend="italic">Auckland </hi>and Ahuriri<hi rend="italic">.—</hi>
+         </p>
+         <p>15. <hi rend="italic">Yes: continue Member of this branch</hi> N.Z.I.—at all events a <hi rend="italic">little longer</hi>!—</p>
+         <p>     Annual Meeting-<hi rend="italic">time</hi>—is near. In reply to Ham. I told him <hi rend="italic">re</hi> his claim to ¾ (or <hi rend="sup bold">7</hi>
+            <hi rend="bold">/</hi>
+            <hi rend="sub bold">8</hi>) of museum! He would have to fight it out, w. sub-comee.—told off here: Large &amp; Hill have approved of my doing this.</p>
+         <p>If you have not seen Report of XtCh. Meeting—be sure you do so. </p>
+         <p>Have you <hi rend="italic">access</hi> to copy of “Early Histy. N.Z.”? Let me know. I propose looking into it a little more closely:—&amp; if you have a copy <hi rend="italic">handy</hi>—can <hi rend="italic">refer to pages</hi>.—</p>
+         <p>At p.361. It is said—“pg. press erected at Mangungu in 1837,” with a list of <hi rend="italic">small</hi> books printed.</p>
+         <p>At p.378—“the Active, sailed from Port Jackson on 19<hi rend="sup">th</hi>. July, with the Rev. Mr. Tate, Mr &amp; Mrs Chapman, &amp; <hi rend="italic">James Smith printer </hi>as<hi rend="italic"> </hi>passengers: she arrived in Bay of Islands on 31<hi rend="sup">st</hi> July.”<hi rend="italic">(1831</hi>—I suppose<hi rend="italic">)</hi>
+         </p>
+         <p>At p.379—“In 1831 the following may be called the muster roll of the Church Mission in N.Z.—at Rangihoua: John King &amp; James Shepherd, Catechists. At Kerikeri, Rev. A.N. Brown; James Kemp, C. Baker, Catechists; James Smith <hi rend="italic">printer</hi>. At Pahia Rev. H. Williams, Rev. W. Williams, W. Fairburn, T. Chapman, Catechists; W. Puckey artisan. At Waimate Rev.W. Tate, G. Clarke, James Hamlin, R. Davis, James Preece, Joseph Matthews, Catechists.</p>
+         <p rend="center">———</p>
+         <p>The more I look into “Early History”—the more I discern of errors—(small, some are, but still <hi rend="italic">errors</hi>). At some future day, perhaps, the archives of the C.M.Sy. London may be <hi rend="italic">overhauled</hi>.—</p>
+         <p>I suspect that Gudgeon may be classed w. Tom McDonnell (yclepd, “Colonel”), &amp; Manning, &amp; Polack, and (in some respects) Taylor &amp; even <hi rend="italic">Yate</hi>!! For <hi rend="italic">correct </hi>information<hi rend="italic">.</hi>
+         </p>
+         <p>I <hi rend="italic">have read</hi>, in Yate’s book—that the Maori mothers shoved small pebbles down their infants throats to make them hard hearted!!!</p>
+         <p>But eno. of <hi rend="italic">that</hi>—for this time.</p>
+         <p>Yesty. I was very well, and took Mg. S. at Augustine’s—in Evg. there also &amp; read 2 lessons, got back <hi rend="italic">tired</hi>.</p>
+         <p>The Dean, Hovell, they say, is no better: his Dr. prohibited his taking duty—until he gets better.</p>
+         <p>Rain—gentle—today, much needed. Have no time for politics. Hope new Govt. will (somehow) <hi rend="italic">reduce</hi> taxation: think Sir Hy. A. a <hi rend="italic">lucky</hi> man! Glad to hear of your son’s improving—may such continue &amp; increase.</p>
+         <p>And w. kindest regards</p>
+         <p>I am Yrs faithy.</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0171">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1894 The Bishopric. Hawke’s Bay Herald 18 April.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1894-04-18">1894 April 18</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1894 The Bishopric. 	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 18 April.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—In your paper of this morning you have a strange letter on the vacant Bishopric, signed “Parishioner”; abounding in errors, and, of course, with erroneous conclusions. If “Parishioner” will have the common manliness to give his name (either publicly, or privately to me through you,) I will—with your permission, answer it. ‘‘<hi rend="italic">Inimicus homo hoc fecit</hi>.”<note xml:id="ftn57" place="foot" n="57"> “An enemy hath done this” (Matthew 13: 28) —<hi rend="italic">Ed.</hi>
+                  </note>— I am, &amp;c., </p>
+         <p>
+                  <hi rend="smallcaps">		William Colenso.</hi>
+               </p>
+         <p> Napier, April 7, 1894.</p>
+      </body>
+   </text>
+</TEI>

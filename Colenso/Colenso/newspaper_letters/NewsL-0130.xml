@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0130">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1886 Scares. Daily telegraph 20 November</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1886-11-20">1886 November 20</date>
+          <publisher>
+            <name type="organisation">Daily telegraph</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1886-11-19">1886 November 19</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1886 Scares.<lb/>
+        </hi>
+        <hi rend="bold italic"> Daily telegraph</hi>
+        <hi rend="bold"> 20 November </hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—In your paper of yesterday (Thursday) you inform us, that Cr. Cotton last night said, in his place in the Borough Council,— “Dr. Menzies was as much entitled to a testimonial as Dr. MacIntyre of Timaru, for he had detected the outbreak of small pox, and thus saved the country from a scourge, and an immense outlay probably, in stamping it out.”— </p>
+      <p>Although I actually gasped over this! and involuntarily cried, “Judge!” and, “What next?” I shall, at present, restrain myself, and make no remark upon it;—only this,—that during my long residence here in Napier, (in which I have seen with pleasure, year after year, the steady and prosperous growth of our thriving town, notwithstanding croakers and detractors,) I have known no less than five ugly scares,—viz., the Maori night attack! the great overwhelming tidal wave!! the dangers of the central swamp!!! the small pox!!!! and the Russian!!!!! and, to me, all very nearly alike—all <hi rend="smallcaps">groundless</hi>. And now, I am led to suppose, from “the jumping of the cat,” that we have to expect, at least, two others: one, (dolefully led by Cr.Graham, like another Cassandra,) as to the certain dreadful effects from the old and mired saltwater lagoon, if left to Nature;—and one, (by some other equally veracious, honest, and inspired prophet—it may be Golder,) as to the certainty and nearness of coming earthquakes! with Walter Scott’s Dominie, one can only exclaim, “Prodigious!” </p>
+      <p>I have said, that at present I shall abstain from making any remarks on Cr. Cotton’s sage observation; neither should I care to bring it to your especial notice, were it not, that it so happened, that on the very night before (Wednesday), I was reading the interesting and instructive debate that took place in the British House of Commons, on the 10th September last, on this very subject of small pox; when the heavy and increasing annual vote of £175,970 for <hi rend="italic">vaccination</hi>, was before them in Committee of Supply. And from that debate I make a short extract, containing a few notable official items, for the especial benefit of Cr. Cotton; and, of course, for those who think with him on such matters,—if any such are to be found. </p>
+      <p>“Mr A. O’Connor moved to reduce the vote by the sum of £16,500, the item for public vaccinators. He contended the system was immoral stupid and cruel; and opposed to the parental instincts of tens of thousands of conscientious people. The charge had grown, year by year; and this public vote was supplemented by a further charge of £120,000, which came out of the pockets of the ratepayers. In Birmingham, out of 9000 births, he found 8000 cases of successful vaccination reported; the per-centage of children unaccounted for as regarded vaccination being 1.5. Under these circumstances one might reasonably suppose, if the system was to be maintained, that Birmingham would be singularly free from the small pox. But what was the effect? Epidemics there of small pox had always been of the most severe description. In London, where it was said children were successfully treated, small-pox was not only epidemic, <hi rend="italic">permanently endemic</hi>.” [Please note that, Cr. Cotton; and no scare!] In London last year the number of persons under treatment for small-pox was 9000, being an increase of 4000 on the previous year. On the other hand, the small-pox hospitals at Leicester, where not more than 40 per cent. of the children were vaccinated, were tenantless. One-third of the population of the country did not believe in vaccination, while a decided majority were opposed to compulsory vaccination. The system of reward to officers for the effective poisoning of healthy children, was a direct incentive to a most cruel form of persecution.... In the reports of medical officers, there was nothing more substantial to be found, than the argument,—that if so and so had been, so and so would not have happened.” [This to thy right eye Cr. Graham.] “Let those who believed in vaccination be vaccinated; but let them not trouble their neighbors, seeing that those who were vaccinated considered themselves protected against small-pox.” </p>
+      <p>It will be seen, that in the above extract I have given remarks touching both sides of the question of vaccination; I might have omitted those bearing on its utility, which I consider established—but only when the lymph (or vaccine matter) is obtained from a strictly healthy subject, and not used on infants of very early ages. I am obliged, as it were, to make this remark, to anticipate opponents; who might not know that I myself have vaccinated thousands—including my own children.— I am, &amp;c., </p>
+      <p rend="end">
+        <hi rend="smallcaps">William Colenso</hi>
+        <hi rend="smallcaps">.</hi>
+      </p>
+      <p>Napier, November 19th, 1886. </p>
+    </body>
+  </text>
+</TEI>

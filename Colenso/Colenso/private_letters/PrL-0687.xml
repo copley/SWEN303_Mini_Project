@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0687">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1888? to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-1; Undated: but content places it here.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+      </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1888">1888</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1888? to Harding<note xml:id="ftn3-414" place="foot" n="414">ATL MS-Copy-Micro-0485-1; Undated: but content places it here.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Fridy. evg.</p>
+         <p>My dr Sir</p>
+         <p>Just a note to let you know—I am so pleased w. the notice of yr. “Typo”, that I have posted a copy “Jub. P.” to Ed., “N.Z. Metht.” Xt.Ch. </p>
+         <p>Yrs truly</p>
+         <p>W. Colenso.</p>
+      </body>
+  </text>
+</TEI>

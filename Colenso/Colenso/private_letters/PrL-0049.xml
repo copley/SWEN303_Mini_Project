@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0049">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1844 July 16: to Mair</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Papers-0092.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/70864/">Waimate</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71726/">Mair</name>
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/43485/">Wangarei</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1844-07-16">1844 July 16</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1844 July 16: to Mair<note xml:id="ftn1-51" place="foot" n="51">ATL MS-Papers-0092.</note>
+         </p>
+      </front>
+      <body>
+         <p>G. Mair, Esq., </p>
+         <p>       Deverons,</p>
+         <p>               Wangarei.</p>
+         <p rend="end">Waimate, July 16, 1844.</p>
+         <p>My dear friend,</p>
+         <p>Although I do not know of any direct opportunity by which I could send you a few lines, I write, and send to the Bay, in hopes of its reaching you: that you may know that I do bear you in mind, and often, too. For some time past I have hoped to get a Letter from you, just to know how you are enabled to bear up under the sad and dark cloud which at present hangs over you. “Dinna despair”, as your countrymen would say,—God’s hand is not shortened; His alone are the silver and the gold and the cattle upon a 1000 hills. He gives, and He takes away, and He gives again. Job’s <hi rend="italic">end</hi>, was better, in every respect, than the beginning. Endeavour, daily to look to Him, who feeds the Ravens when they cry, and the young Lions when they lack and suffer hunger, and be assured that God’s promise shall never fail—they that trust in the Lord shall never want anything that is good. Oh! My dear friend, not only daily make known unto God your situation, but,<hi rend="italic"> live upon your faith—dare to exercise it—believe that God will help, though you know not how</hi>. This is the glorious triumph of faith, who lives and flourishes and rejoices, where every thing of sense dies. <hi rend="italic">Take God at his word, and leave events to Him</hi>. If you do so, I feel assured that all will be well. He knows your state, and waits to be gracious. Think not that this is confined to spiritual matters—it is not so, but for “all things”. Again, by thus living on your faith in God, you will be daily blessed with cheerfulness in the midst of thickening trials, and nightly strengthened with refreshng sleep, which, otherwise will not be your portion. I write the more, just now, because I know somewhat of Satan’s devices, having been sadly mauled by him myself. He strives now, to keep you from fully believing in God’s promises, that you may not rest in God—but, do as David did, who in his troubles said, “<hi rend="italic">Thou hast been a shelter for me</hi>,” and so comforted himself by reviewing God’s past mercies. You can do the same—<hi rend="italic">do so</hi>.</p>
+         <p>I had hoped to have seen you ere this, but I know not when the Bishop will send me to Wangarei. I suppose we shall not leave before November; I hope to be permitted to see you <hi rend="italic">first</hi>. Mr. Brown is here from Tauranga, and Mrs. Brown is coming; their son Marsh is still very ill: 11 weeks he has been confined to his bed. You have, I dare say heard of Mr. Busby’s things being taken, the Bank allowed Mrs. B. her clothes and ₤50 worth of furniture; the rest has been sold and the Stores and Cattle are about to be sold. There was a row at Kororareka last week about Gray’s widow—Heke, went down with a large mob, took her away, cut down the flagstaff to light the hangis with—stole all the pork in the Butcher’s shops, etc., and returned. Soldiers are sent for to Sydney; what the end will be, I don’t know. It is a comfort to know, that while the heathen may rage—the Lord God omnipotent reigneth! Rewa and Warerahi have put up another Flagstaff; and Tamati Pukututu gave old Marupo a good thrashing, at Paihia, for joining the party. We are to have a meeting here tomorrow, may it result in good.</p>
+         <p>Mrs. Colenso is pretty well, and so is our little girl. We hope that Mrs. Mair is well, and all your family, to whom we wish to be most kindly remembered. Cheer up, my dear friend, cheer up, put your trust in God; Comfort your wife and little ones—and <hi rend="italic">Look</hi>
+            <hi rend="italic">above</hi>.</p>
+         <p>       And believe me</p>
+         <p>               Yours very sincerely,</p>
+         <p>                               W. Colenso.</p>
+         <p>If you have no means of sending the note to Mr. Kier, please send it on to Tipene.</p>
+         <p>P.S. I think the Gum speculation will yet prove a good one. I hear (privately) that it is fetching 4½d. per lb. in Sydney. </p>
+      </body>
+  </text>
+</TEI>

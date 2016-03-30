@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0079">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1849 January 4: to the CMS Secretaries</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Hocken Library Ms Vol 63; ATL qMS 0491.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/70244/">Waitangi</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="organisation" key="http://wtap.vuw.ac.nz/eats/entity/72116/">the CMS Secretaries</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1849-01-04">1849 January 4</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1849 January 4: to the CMS Secretaries<note xml:id="ftn1-100" place="foot" n="100">Hocken Library Ms Vol 63; ATL qMS 0491.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Church Mission Station,<lb/>Waitangi, Hawke’s Bay,<lb/>January 4, 1849.</p>
+         <p>My dear Sirs,</p>
+         <p>I lose no time in transmitting you copies of a correspondence which has very recently taken place between H.M. Government and myself.<note xml:id="ftn1-101" place="foot" n="101"> In a marginal note, “Copy of a Letter from His Excellency Lieut. Gov. Eyre, Nov. 7, 1848. My answer thereto, Decr. 23/48. Copy of a Letter from the Colonial Secretary, Novr. 7/48. My answer thereto, Decr. 23/48.”</note>
+         </p>
+         <p>It is more than probable that my declining to cooperate with the Government in the matter, may be by them advantageously used against me on some future occasion.—But my trust is in the <hi rend="smallcaps">Lord</hi>.</p>
+         <p>Allow me to remark, that I am now entered on the fifth year of my ordination to the Ministry (I may say, in the very van of the battle), during the whole of which, and notwithstanding the many onsets which have been made upon me, I have never received a single line of direction or encouragement from either the Bishop on the one side or the Comee. of the C.M.S. on the other. It was anciently said, “<hi rend="italic">Va soli</hi>!” and such <hi rend="italic">should</hi> I have long ago proved it to be, had not Christ graciously fulfilled his blessed promise— “Lo! I am with you all days.”— —</p>
+         <p>I write now in great haste.—I only returned from my usual long spring journey on the 18<hi rend="sup">th</hi>. December (I wrote you a <hi rend="bold">[2] </hi>short note from Palliser Bay during my Journey), and have just finished making out my yearly Returns which I this day pass on to the Local Committee.</p>
+         <p>I may just copy therefrom, for your information (as you will in all probability receive this first)—</p>
+         <p>1848.  average attend. of Congregations . . . . 2175<lb/>  ″                                   ditto   Scholars . . . . . . . . . . . . .  1570<lb/>  ″                Communicants, Males,    357 )<lb/>                              ″                Females,         185 )                           542<lb/>  ″           Baptisms                 Males,           111 )<lb/>                                             Females,         110 )                           298<lb/>                                               Children,        77 )<lb/>  ″          Marriages . . . . . . . . . . . . . . . . . . . . . . . . . . . 52</p>
+         <p>So that we have much to be thankful for.</p>
+         <p>I have been very ill, but am now rallying again. Plenty of March Fever about. The Natives are peaceable, and are now beginning to cut their wheat. I do not think the Commissioners will get the District by <hi rend="italic">fair</hi> means: but I have heard enough to convince me that <hi rend="italic">they are determined to get it </hi>somehow.— —</p>
+         <p>I have <hi rend="italic">no</hi> trust in man; I am sick; <hi rend="italic">every one</hi> is striving for his own ends; every thing now-a-days is masked.</p>
+         <p>May <hi rend="smallcaps">God</hi> preserve the Church Missionary Society, and make their laborers faithful!    Pray for us.</p>
+         <p>Believe me</p>
+         <p>my dear Sirs</p>
+         <p>Yours very sincerely</p>
+         <p>William Colenso.</p>
+         <p rend="center">Report for <hi rend="underline italic">12 months ending</hi> December 31, 1848</p>
+         <p>During the past year I have been engaged as follows:—</p>
+         <p>On the Lord’s-day in holding Divine Service twice, and in Catechizing and Teaching in Schools. On weekdays in attending to the adult Male Schools; in Instructing and examining Candidates for Baptism and the Lord’s Supper, in holding Bible, and Teachers’ Classes, visiting sick, Dispensing Medicine; settling Disputes, &amp;c, &amp;c: and, on Thursday Evenings (and <hi rend="italic">every</hi> week-day evening when travelling) Lecturing; and, also, attending to the many secular matters of the Station.</p>
+         <p>On the 27<hi rend="sup ">th</hi>. December/47 I left the Station on a visit to the villages in the mountain district of Patea; and returned on the 14<hi rend="sup ">th</hi>. January/48.</p>
+         <p>On the 9<hi rend="sup ">th</hi>. February I left the Station on a visit to Tangoio, the villages at the head of the Mohaka River, and Tarawera; and returned on the 23<hi rend="sup ">rd</hi>. of the same month.</p>
+         <p>On the 23<hi rend="sup ">rd</hi>. March I left the Station on a visit throughout the whole District (including, also, some villages in Cook’s Straits, beyond Wellington, under the care of the Revd. R. Cole) and returned on the 16<hi rend="sup ">th</hi>. June.</p>
+         <p>On the 9<hi rend="sup ">th</hi>. August I left the Station on a visit to the Natives of Tangoio, Te Waiohingaanga, Waurangi, &amp;c, and returned on the 7<hi rend="sup ">th</hi>. of the same month.</p>
+         <p>On the 25<hi rend="sup ">th</hi>. October I left the Station on a visit throughout the District, including Patea; and returned on the 18<hi rend="sup ">th</hi>. December.</p>
+         <p>Occasional visits to villages within one day’s journey of the Station are not herein enumerated.</p>
+         <p>The number of Baptisms performed in the District during the year is adults, men, 100, wom. 97, children 68; ditto in villages about Port <lb/>  Nicholson<hi rend="underline">11         13      9<lb/>
+            </hi>
+            <hi rend="underline">111    100                     77</hi> total.</p>
+         <p>No. of marriages performed 52.</p>
+         <p>Increase of Communicants, upwards of 100—</p>
+         <p>The accompanying Returns will also shew a great addition to the Schools and Congregations—The number of Candidates for Baptism is constantly increasing—</p>
+         <p>Tow Chapels have been built where no Chapels were before; eight others are now being erected; and others have been finished during the year.</p>
+         <p>Mrs. Colenso has attended to the daily Female and infant schools, but the attendance of the School generally (including, also, those of the Adult Male School) has been very irregular, more owing to their scattered mode of living than to any thing else. On Sundays and Mondays, however, the attendance during the last six months has been invariably good. A perceptible progress in knowledge is making; and very many have learned to read and write during the year. A great portion also of Mrs. Colenso’s time (especially when I am absent) is taken up in dispensing Medicine, and in visiting and attending to the many sick.</p>
+         <p>The state of the Natives throughout the District—notwithstanding the great increase to the Church during the year, is not, on the whole, of a pleasing nature. The continual squabbling among themselves, more especially among the Tribes of the Wairarapa valley and neighbourhood, concerning the letting of their lands, and the dividing their rents, has materially altered the character of many who were once quiet and steady, and promised well. To such a height did the ferment arise in August and September, that the two largest Tribes of the Wairarapa valet very nearly fought. They are now somewhat more quiet, but the leaven is secretly working and spreading. In consequence of their conduct, upwards of 20 of those who had been ringleaders in the matter were suspended from the Holy Communion, at the last administration at Palliser Bay in November last, and which they were fully expecting. Of the four principal Chiefs, with their Tribes, residing more immediately about the Station (who had hitherto slighted every overture of the Gospel message), Two, with their wives, relations, and people, came over to the Faith during the past winter, and have ever since been most exemplary in the attendances upon the ordinances of Religion: many of them have already voluntarily come forward as Candidates for Baptism. Of the remaining two chiefs, the sons and relations, and several of the people, of the one, and the near relations and some of the people of the other, have also joined us.</p>
+         <p>The Heathen ranks are daily thinning: may God make those who leave them to be Christians in deed &amp; in truth!</p>
+         <p>The number of Communicants might be greatly increased, if any means could be devised by which the Christian Natives living in the many isolated villages distant from those few places where the Lord’s Supper is annually celebrated, particularly, the aged, infirm, and poor, could partake thereof. Many of whom, I fear, will never have that privilege.</p>
+         <p>On the 20<hi rend="sup ">th</hi> August my annual Teachers’ School commenced, and continued daily till the 9<hi rend="sup ">th</hi>. September inclusive. Twenty one Teachers and Monitors were present from all parts of the District.</p>
+         <p>Several of the Native Teachers have been occupied at times throughout the year in visiting distant and isolated villages; and I have reason to believe that no small amount of good has resulted from their visits.</p>
+         <p>During the year, upwards of 200 persons (Males &amp; Females) in addition to the 44 mentioned in my report for 1847, have voluntarily given up the practice of smoking Tobacco. </p>
+         <p>A Popish Priest visited the neighbourhood of the Mission Station during my late long absence, and proselyted about eight of the poor Heathen—certainly making them worse (in their behaviour, at least to their resident benefactor) than they were before.</p>
+         <p>My own health has been much as usual; plenty of Rheumatism, and, at times, no small amount of low Fever; still, I have struggled hard to do my expected duty. I was again taken seriously ill during my last journey, and am still very weak. I regret to say, that, I feel, I shall be obliged to relinquish one of my two yearly journies throughout the District—that in the Spring quarter—unless a greater measure of strength be mine, than I have for some time had or at present possess. </p>
+         <p>Perhaps I should mention, that early in the year, I received a Letter from the Government, informing me, that serious charges of a Treasonable nature had been prefered against me by some whites. However, a simple straightforward statement of facts, which I was enabled to make in reply, not only set that matter at rest, but, also, turned the tables upon my adversaries.</p>
+         <p>I have, also, very recently received fresh Communications from the Government, earnestly requesting me to use my influence with the Native Chiefs of the District to sell the <hi rend="underline italic">whole</hi>
+            <hi rend="italic"> </hi>of their Lands in one block from Ahuriri to Port Nicholson, to the Government, when the Government would return them their villages, &amp;c. I have answered these Communications, by simply but (I hope) respectfully declining to have any thing to do in any way whatever with the matter.—</p>
+         <p rend="end">Sigd. William Colenso</p>
+         <p>Waitangi<lb/>  January 1/ 1849.</p>
+      </body>
+  </text>
+</TEI>

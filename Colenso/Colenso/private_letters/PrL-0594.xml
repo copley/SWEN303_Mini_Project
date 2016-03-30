@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0594">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1885 March 31: to von Haast</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-papers-0037-046.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9511/">von Haast</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1885-03-31">1885 March 31</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1885 March 31: to von Haast<note xml:id="ftn3-299" place="foot" n="299"> ATL MS-papers-0037-046.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier March 31st. 1885.</p>
+         <p>My dear Professor Von Haast.</p>
+         <p>Thank you for your kind note of 23<hi rend="sup ">rd</hi>. inst., I had been expecting to have the great pleasure of seeing you here on your return, and rather anxiously kept looking-out for you, especially on <hi rend="italic">that</hi> Friday night and Saturday mg. (in which you were expected here), and I assure you <hi rend="italic">I felt right glad </hi>on the Monday mg. when I heard from Dobson, that you had returned earlier by W. Coast &amp; Mail Steamer: for the gale here <hi rend="italic">was severe</hi> at that time, and you could not well have landed.—</p>
+         <p>One thing disappointed me: I had understood from you, that you would send me that Paper of Quatrefages, on your return to Xt.Ch.,—and I had also thought you had noted it in your tablets: it may be, however, that the error was wholly mine:—still, permit me to say, that if you can <hi rend="italic">lend </hi>me that Paper (or, failing that, inform me by whom it is published,—Eng. translation) you will oblige me, for I am desirous of seeing it.</p>
+         <p>Many thanks for your kind reiterated wish—to see me at Xt.Ch., that I might also see your wondrous &amp; valuable Museum: such <hi rend="italic">may</hi> take place anon—but I doubt it.</p>
+         <p>I had a visit on Sunday last from M. Remenyi (a Countryman of yours, or nearly so), and we spent a pleasant hour together: it reminded me of your visit; indeed we talked of you, as R. (also) remembers your kindness to him.</p>
+         <p>I have endeavoured to answer your questions, but I fear not satisfactorily—either to you or to my self: but, if you will patiently look into those old Papers of mine, as noted, you will, I think, gain some information.—</p>
+         <p>I feel—at times—not a little vexed with the Powers that be! when I reflect how much, how greatly I have been hindered and thwarted by them in my 2 principal Works,—the Mao. Lexicon, and my Papers on old Mao. Lore &amp; other matters: they (or their successors) will be also vexed <hi rend="italic">hereafter</hi>—but that is no solace to me. They ought to have given every encouragement, but———</p>
+         <p>I was pleased to find that you also had been interested, &amp;c., in my little Ruahine Book. In your saying that it reminded you of “olden times,”—Sir G. Grey made exactly the same remark. I shall post with this a copy of its fellow &amp; predecessor,—from which (should you not already have seen it, as some copies went early to Xt.Ch.,) you may possibly gain a little more <hi rend="italic">re </hi>the old Maoris.—Of course you will be aware that these—together with “Ruahine”—are the Papers that were <hi rend="italic">rejected</hi> by the Board.—</p>
+         <p>I had long been desirous of writing my promised paper on “Hawaiki,” &amp;c., (see, vol. xiv. p.49, “Trans. N.Z. Instit.,”) and had indeed begun it, and read the <hi rend="italic">1</hi>
+            <hi rend="sup italic">st</hi>
+            <hi rend="italic">. part</hi> here in 1883, (see, vol. xvi., p.568,)—but when I found how my papers of ’82 were treated by the <hi rend="italic">Board</hi>, I dropped tools at once, &amp; would write no more—to be submitted to <hi rend="italic">such</hi> Judges! that Paper, I may say, would have occupied 3 parts:—and, as things have been since, I almost fear I may never again take it up: all my <hi rend="italic">Maori</hi> writings (of their ancient lore, &amp;c., &amp;c.,) on which my heart was fixed, have been too deeply frost-bitten ever to recover!—Indeed, I do not like to write or talk about them—not even to you—because I cannot now do it <hi rend="italic">con amore</hi>.——</p>
+         <p>For some time past I have been working particularly at our smaller Crypts. (Hepaticæ, Mosses, &amp;c.,)—and one moss in particular that you sent to Hooker from your locality I should like to see,—<hi rend="italic">Hookeria flexicollis </hi>(p.496, of Hand Book,)—if you can send me a spn. I shall feel obliged.</p>
+         <p>I purpose leaving in a few days for “70-mile-Bush,” where I hope to spend a fortnight at least, in my sylvan haunts &amp; solitudes.</p>
+         <p>Believe me,</p>
+         <p>ever faithfully yours,</p>
+         <p>Wm. Colenso.</p>
+         <p>(April 1<hi rend="sup ">st</hi>.)</p>
+         <p>P.S. I may also add, and that for 2 reasons,—that the thought has crossed my mind—that you had forgotten (?) what I had written on the Moa in the Paper referred to. Perhaps, when you first looked at it you supposed it to be <hi rend="italic">only</hi> my <hi rend="italic">old Paper </hi>reprinted from “Annals Natural History,”—with which it does begin, but a great deal of freshly obtained information was added thereto. My “2 reasons” are, <lb/>(1.) Buller made a<hi rend="italic">similar </hi>mistake last year in his Presidential address at Wellington, (mainly, too, on the Maoris) when he said, that no one had yet written a paper on the subject of their Poetry, &amp;c. I was astonished on reading this, and pointed out to him my long Paper on that subject , w. translations of Songs, &amp;c., in vol. xiii. In reply, B. said,— “he had quite overlooked it.”<lb/>(2.) When Remenyi was w. me last Sunday we were on this subject, and I lent him<hi rend="italic">that </hi>vol. to read the said Paper, and my so doing has brought Buller’s omission fresh to memory:—hence, also, this.——W.C.—</p>
+         <p rend="center">Answers to Questions.</p>
+         <p>1. Any reliable tradns. <hi rend="italic">re </hi>the Moa?<lb/>      What I had gleaned I gave in my paper on the Moa, in “Trans. N.Z. Inst.,” vol.xii. p.80<hi rend="italic">et seq</hi>.—</p>
+         <p>2. Traditions brought by Hawaiki immigrants—also, of their “Crocodile”?—<lb/>        No: I<hi rend="italic">don’t</hi> believe in that myth, as containing anything real, (objective, material)—<hi rend="italic">i.e.</hi> appertaining to the Sandwich or any other Islands. Were there “Crocodiles” <hi rend="italic">there</hi>, or any huge saurian—see legend of the Saurian <hi rend="italic">pet</hi>: “Trans. N.Z. Inst.” vol.xi. p.100.—</p>
+         <p>3.   See ansr. to qu. 1.—</p>
+         <p>4. I don’t believe in that <hi rend="italic">objective</hi> immigration. There are <hi rend="italic">such </hi>stories however, <hi rend="italic">re </hi>autochthons,—strange, <hi rend="italic">quaint</hi>, simple, &amp; contradictory (?)—showing their antiquity,—<hi rend="italic">but of no </hi>value.</p>
+         <p>Qu.5.—To what race &amp;c.—<lb/>     This cannot be answered in one word, or sentence, as you would like, simply because all N.Z. from the very night of their history was occupied tribally—that is, as deadly foes, after the manner of Cain and Abel: the tribes, too, being numerous and often changing their names, and becoming extinct through warfare.</p>
+         <p>Q.6.—<hi rend="italic">Re </hi>their dog, &amp;c.<lb/>       I scarcely clearly understand this: <lb/>(1.) I don’t believe in that<hi rend="italic">objective</hi> Hawaiki: Yet, a tradition says,—a dog came with them, and swam to shore before their canoe through its <hi rend="italic">smelling a dead whale</hi>. (See, “Trans. N.Z. I.,” vol.x., p.154.)<lb/>(2) The ancient Maori dog was certainly<hi rend="italic">not</hi> frugivorous (in a Country <hi rend="italic">sans </hi>fruit!) rather <hi rend="italic">omnivorous</hi>. (see my Paper on their Dog, “Trans. N.Z. Inst.,” vol.x., p.139–150.) It was pretty numerous in Cook’s time and after, as I have shown: Cook’s people bought them for food. Being a domestic animal, &amp; never too plentiful owing to the great demand for it,—for feasts and for Chief’s garments,—and always following the fate of its masters (in their frequent wars), it gradually became lost,—partly, too, owing to the early introduction of the foreign breeds of dogs, which became more &amp; more requisite to enable the Maoris to catch their wild pigs for barter, &amp;c.<lb/>        There are traditions about the dog, some queer &amp; strange, (see vol.x.,<hi rend="italic">l.c.</hi>, p.154.)</p>
+         <p>Qu.7. <hi rend="italic">Re </hi>the Greenstone.—<lb/>        There are also traditions about the Greenstone and its early use,—but very short and casual.<hi rend="italic">e.g. </hi>see “Trans. N.Z. Inst.,” vol.xii. pp. 80, 81.—</p>
+         <p>Wm. Colenso<lb/>March 31/85.</p>
+      </body>
+   </text>
+</TEI>

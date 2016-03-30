@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0005">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1858 Open column. Hawke’s Bay Herald 22 May.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1858-05-22">1858 May 22</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1858-05-17">1858 May 17</date>
+        <name type="place">Waitangi</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1858 Open column.       <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald</hi>
+        <hi rend="bold"> 22 May.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—Your paper of the 8th inst. only reached me on the 15th—a circumstance I regret the more as (in a letter of mine contained therein) you have, by a small typographical error, made me to say the contrary of what I had written:—viz. “(b) For all <hi rend="italic">un</hi>inhabited houses, &amp;c,” should be, For all inhabited houses, &amp;c. </p>
+      <p>In the P.S. of that same letter I had stated, that “I had still a few words more to say in connection &amp;c.:” but, having subsequently had a public opportunity of addressing the inhabitants of Napier, when in a few strong words I said pretty much of what I had thought of dilating in writing, I will not trouble you any further on that matter.</p>
+      <p>In the same number of the Herald you give your readers a very full account of the Public Meeting held at Napier on the 30th ult. (and I sincerely hope, Sir; that they will at least, duly appreciate <hi rend="italic">your</hi> most strenuous exertions, so very clearly shewn in the many closely printed columns in small type of that number.) In reading, however, the speech of Mr. Woodward therein reported, it occurred to me, that (while, on the whole, it is a tolerably faithful report,) there is some difference between it and the speech spoken—just such, if I may so express myself, as between a <hi rend="italic">sheep</hi> and <hi rend="italic">mutton</hi>. This opinion of mine, coupled with a few little wee things in the <hi rend="italic">reported</hi> speech, has led me to infer, that, perhaps, Mr. Woodward had himself furnished you with it; or, at least, had the privilege of kindly aiding your notes. Now do not, Mr. Editor, for a moment suppose, that I am going to “pop the question” to you; so preserve, I pray, both your gravity and the <hi rend="italic">sella curulis</hi>.<note xml:id="ftn1" place="foot" n="1"> The curule chair, official seat of consuls, praetors, and curule ædiles—<hi rend="italic">Ed.</hi>
+      </note> Neither will I venture on a critique; but, as I rose at the Meeting mainly to call attention to certain “fallacies and sophistries;” and as one of the greatest of them is all but quite ignored in the <hi rend="italic">reported</hi> speech of Mr. Woodward (and yet my notice of it distinctly given); I deem it but an act of common justice to myself, as well as to your <hi rend="italic">distant</hi> readers, to notice it;—leaving it to those who were present to decide as to the truthfulness of my remarks. </p>
+      <p>In Mr. Woodward’s <hi rend="italic">reported</hi> speech, he is stated to have said (speaking of the Constitution Act), that “it impowered the Provincial Councils to make laws for the peace, order, and good government” of their respective communities, terms that gave all the powers of sovereign legislatures, subject to the restrictions imposed by the Act.” Now, according to my memory, and my notes (taken at the time), and my severe remarks (for I had felt my <hi rend="italic">loyalty</hi> touched a bit,) on that particular portion of Mr. Woodward’s speech, (most of which remarks, Sir, you have succinctly given,) and my (brief) conversation with Mr. Woodward <hi rend="italic">after</hi> the Meeting, (when I again brought this one salient point before him,)—according to all these Mr. Woodward spoke differently. What I then clearly understood Mr. Woodward to say, had no reference to “Provincial <hi rend="italic">Councils</hi>” nor to “their respective <hi rend="italic">communities</hi>” nor to “sovereign <hi rend="italic">legislatures</hi>” (nor to any <hi rend="italic">plural</hi> numbers); but, to the simple and singular fact, which Mr. Woodward (as I took him, and I sat next to him,) emphatically stated, of “<hi rend="italic">the</hi> SUPERINTENDENT <hi rend="italic">possessing sovereign power</hi>!” And, indeed, Sir, there can be no manner of doubt about it; for,—after I had said (as truly reported by you,) that “I had heard it with the greatest astonishment, that the Superintendent possessed sovereign power”:—I further said, that “I would then ask Mr. Woodward a question to his face” (which, turning to him, I did);— “Did Mr. Woodward believe that the Superintendent possessed sovereign power before he (Mr. Woodward) became a member of the Executive?” And to this question of mine, Mr. Woodward, half-rising from his chair, answered, “yes.” Then, Mr. Editor, I proceeded, as you go on to relate. </p>
+      <p>I will not, Sir, make any more remarks; other than, in conclusion, to say, that instead of “precious Thistle and Bur Act,” I said, “precious Thistle and Cur Acts.” </p>
+      <p>                       I am, Sir,</p>
+      <p>                               Yours very faithfully,</p>
+      <p>
+        <hi rend="smallcaps">Wm. Colenso. </hi>
+      </p>
+      <p>Waitangi, May 17, 1858.</p>
+    </body>
+  </text>
+</TEI>

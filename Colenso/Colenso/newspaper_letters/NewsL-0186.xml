@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0186">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1896 Root fungus . Hawke’s Bay Herald May 5.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1896-05-05">1896 May 5</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1896-05-04">1896 May 4</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1896 </hi>
+        <hi rend="bold">Root fungus</hi>
+        <hi rend="bold">.       <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald</hi>
+        <hi rend="bold"> May 5.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+        <hi rend="smallcaps">Sir</hi>,—In your issue of March 23rd, you kindly published my letter containing some particulars respecting a root-fungus (<hi rend="italic">Rosellinia radiciperda</hi>), which is such a pest in some of our apple orchards;—destroying the otherwise healthy trees by hundreds, while hitherto no effective means had been known to subdue it. I have since received several communications respecting it; and one, in particular, contains an interesting account of the way in which this new and trying plague was fought and killed. I should, therefore, also like to make this public through the columns of your paper, for the benefit of apple-growers, seeing, too, the remedy is both simple and at hand. Mr A. Olsen,<note xml:id="ftn62" place="foot" n="62"> See <hi rend="italic">Colenso’s collections</hi>, Vol. 1 in this series—<hi rend="italic">Ed.</hi>
+      </note> painter, of Norsewood, in a recent letter to me, says:— “I have seen your letter in the <hi rend="smallcaps">Herald</hi> respecting the root-fungus. I have had pretty much experience with it. About six or seven years ago I had many apple-trees killed by it, and tried several remedies in vain. At last, however, I succeeded in this way: I dug away the earth round about the stem and main root of the tree affected by the fungus, and then scraped away all the rotten bark and stuff adhering, until the stem and root were quite dead: then I sprinkled the root with lime, or if I had no lime at hand, wood ashes, and laid the roots bare for some time, until I saw the tree was recovering; by this means I have now several trees that I have saved, and they are doing well. One can easily see when the tree is affected by the fungus; the leaves turn red and yellow, and if the tree so attacked is attended to early it can be saved. The tree soon shows its return to healthy life, and freedom from its destroying enemy.”—I am, &amp;c., </p>
+      <p>
+      <hi rend="smallcaps">             W. Colenso</hi>. </p>
+      <p>Napier, May 4th, 1896. </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0823">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1892 March 16: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1892-03-16">1892 March 16</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1892 March 16: to Harding<note xml:id="ftn3-580" place="foot" n="580"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, 16/III/92</p>
+         <p>Dear Mr. Harding</p>
+         <p>I must no longer put off writing to you, although I do so under difficulty, viz: Rheumatism! I returned from Dannevirke on Friday night, 11<hi rend="sup ">th</hi> inst felt <hi rend="italic">exhausted </hi>in climbing this hill! (never having approached one during my 7–8 wks. absence) passed a miserable night,—could not go down to town next day, and on Sundy. mg. while dressing suddenly attacked w. lumbago! all that day on my back—&amp; only now just getting round: very <hi rend="italic">desirous </hi>of going to town on <hi rend="italic">important </hi>business (own &amp; others), but cannot—&amp; holiday there tomorrow will further hinder me.—–</p>
+         <p>Your long &amp; kind letter of the 6<hi rend="sup ">th</hi> I recd. at Dvk. Was much pleased at the good news of your being in <hi rend="italic">work</hi>, w. prospect of more! <hi rend="italic">Capital</hi>. And here I will say what I have been intending to say for some time past, viz. you must not write <hi rend="italic">to me</hi> so freqy.—you cannot afford time.</p>
+         <p>
+            <hi rend="italic">Re </hi>Lexicon: while at Dvk. I wrote a letter to Capt. R., but as I had not a copy of that Py. P. of ’75, I kept it until I came to N., when I sent it—I <hi rend="italic">did not </hi>think, at the time, of his being <hi rend="italic">so busy</hi>—w. Ed. Board, yesty. &amp; <hi rend="italic">Races</hi>, there, he too the <hi rend="italic">President</hi>, &amp;c, tomorrow &amp; next day, but by &amp; by, I dare say, his ansr.—–I have also put up a copy of that P. in my letter to Arnold: and I send you 3 copies for distribn., having only <hi rend="italic">3 more left</hi>! I shall also send you, w. them, a copy of 2 other Py. Papers of mine, that <hi rend="italic">may </hi>be <hi rend="italic">new </hi>to you: one of them (the Petition) has a good long <hi rend="italic">history</hi>!</p>
+         <p>Whilst at Dvk. I made extracts for <hi rend="italic">you </hi>which I enclose.—</p>
+         <p>Do <hi rend="italic">not </hi>return that “Standard” contg. Geographical names, &amp;c—<hi rend="italic">keep it</hi>.—</p>
+         <p>I suppose you see the “Herald”—if so you will have seen my 2 letters (of 10<hi rend="sup ">th</hi> and 15<hi rend="sup ">th</hi> inst.,)<note xml:id="ftn3-581" place="foot" n="581"> A query. <hi rend="italic">Hawke’s Bay Herald</hi>: 11 March 1892; The drink question. 15 March 1892. </note>—having said my say I write no more.—</p>
+         <p>I suppose I told you in my last that Mr. Hill had determined to leave <hi rend="italic">at once</hi> on his N. tour—well he did so: and yesty. Mrs Hill delivd. daughter <hi rend="italic">still-born</hi>: I hope the good lady may recover: I almost conclude, their severe loss was owing to her severe attack of Influenza &amp; its distressing effects.—</p>
+         <p>
+            <hi rend="italic">Re</hi> that fire from the earth at time of earthq.—I think Hill has it in one of his papers. Prof. Hutton kindly sent me proof slips of his new p. on the <hi rend="italic">Moa. </hi>Very interesting, &amp;c. Sir J. Hector has now sent me proofs of <hi rend="italic">all </hi>my papers—including that one you heard read,—this I returned yesterday.—–</p>
+         <p>At yr. leisure try to get from Didsy. copies (if any) of those 2 Py. Papers I now send. And, also, tell me re<hi rend="italic"> </hi>J. Wh’s. <hi rend="italic">last vols</hi>, let Dy. send me copies, I will remit cash. This, too, I must shortly do to you, for this copy of Morris—here but not opened! Mrs Anderson, on Sunday last brought me a book!! “Sermons by Irish Presbytn. Ministers” which she had borrowed, &amp; I was much pleased to find a few Verses from <hi rend="italic">Morris </hi>prefacing one of the sermons: it is a very recent work &amp; well got up—<hi rend="italic">Belfast </hi>I think.</p>
+         <p>My <hi rend="italic">allotted </hi>Ch. wk. at Woodville ended on 28<hi rend="sup ">th.</hi> Feby. On 1<hi rend="sup ">st</hi>. March I retd. to Dvk. both Mr. Robertshawe &amp; self (&amp; Wdv. Congn.) were <hi rend="italic">very desirous </hi>of knowing who was to serve on 6<hi rend="sup ">th</hi>. inst., but no one knew. On Friday <hi rend="italic">nt.</hi>, 4<hi rend="sup ">th</hi>. I saw in “Wdv. Exr.”, that <hi rend="italic">Wills </hi>was to do so: I came away on Wedy. 9<hi rend="sup ">th</hi>.; <hi rend="italic">after I had left</hi> Dvk the Bp. wired to me, to continue at<hi rend="italic"> </hi>Wdv. but was informed I was <hi rend="italic">gone</hi>! He was <hi rend="italic">hard put to</hi>—tried Robertshawe; “NO”: then Webb, who sent his son as Lay R. for <hi rend="italic">last </hi>Sy. Subsequently, Bp. <hi rend="italic">here</hi> several times, I was to have gone thither for next Sy., &amp; for “3 months”; but <hi rend="italic">this attack </hi>of <hi rend="italic">Rh. hinders</hi>. So, today, the Bp. wired to Lambert of Wairoa to come &amp; take Wdv. for 2 Sundays, &amp; L. is now on his way. Do you know L.? I <hi rend="italic">may </hi>return to Bush Dist. in a few days. Kindest regards.</p>
+         <p>Yours very truly, W. Colenso.</p>
+         <p>I send you these 2 papers, as I think they are <hi rend="italic">new </hi>to you, &amp; if so, will be interesting, &amp;c.—W.C. March 12/92.</p>
+         <p>I fear I have none left! Should like to get 1 doz. ea. from <hi rend="italic">Didsbury</hi>.</p>
+         <p>A letter last week from Hill, Gisborne, he says he saw in “Canterbury Times” a report of your Moa meeting and was much pleased w. it. Did you see that?</p>
+         <p>Great fuss in D.T. this evg. marriage of Webman’s daughter to a person named John T. Tennet, both unknown to me.</p>
+      </body>
+   </text>
+</TEI>

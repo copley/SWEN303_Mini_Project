@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0415">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1880 July 9: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861. Endorsed “R &amp; A 14/7/80 with chq 36/­.”</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1880-07-09">1880 July 9</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1880 July 9: to Balfour<note xml:id="ftn3-43" place="foot" n="43"> ATL 88-103-1/07. Original at MTG HB 67861. Endorsed “R &amp; A 14/7/80 with chq 36/­.”</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier</p>
+         <p rend="end">July 9<hi rend="sup">th</hi> 1880</p>
+         <p>Mr D.P. Balfour <lb/>Mangawhare</p>
+         <p>Dear Sir</p>
+         <p>It is a long time since I heard from you, &amp; I am not aware of your being a letter in my debt. Of you, I have heard, from time to time, through Mr P. Dolbel.</p>
+         <p>I was going to write to you this day week past, but I was hindered; on that day I put into our library shelves at the Athenæum the new books that had just arrived here per “Benvenue”. By same boat I received co­pies of Hookers Hand Book N.Z. Flora, we have so long been waiting for, and I now write you, to say, that there are 2 copies of that work for sale, &amp; you can have your choice. One, is in “Boards” price 30/- a thick volume, and one copy is half bound in calf, lettered, &amp; in 2 Vols, price 36/-­—please let me know which copy you would prefer; I think I should choose the latter in 2 Vols.—The first Vol contains all the flowering plants, Grasses &amp; Ferns; the second Vol contains the Mosses, Lichens, Sea weeds, Fungi, &amp;c. There is a person, inland, waiting to have a copy.</p>
+         <p>I am now busy preparing for next Monday night—the weight of which falls on me.</p>
+         <p>I had hopes to have sent you your Vol of this years Transactions N.Z.I. before this, but it seems we must wait a little longer—the volume has long been completed, &amp; I see copies have been lately laid on the tables of the 2 Houses by the Ministers of Government,—but it is the <hi rend="italic">binding</hi> that takes so long, nearly 2000 volumes now; I have been informed that H.B. comes in for a large share of the contributed work of that Volume.</p>
+         <p>I hope you are well, also Mrs Balfour, &amp; pretty comfortable in your new home, (I don’t say <hi rend="italic">very</hi> so, for it may be with you both as with me—I like <hi rend="italic">old</hi> homes, &amp;c, &amp;c, best,—but your new one, will become old—in time).</p>
+         <p>And with kind regards, I am, Dear Sir</p>
+         <p>                     Yours truly <lb/>                               W.Colenso</p>
+         <p>P.S. I suppose I had better give the copy you may choose to Mr Dolbel for you (in a wrapper); it may be too expensive to send by post—perhaps 2/- or 3/-, let me know. W.C.</p>
+         <p>I saw a copy of the Hand Book at College &amp; Craigs this morning—in boards price 42/-.</p>
+      </body>
+   </text>
+</TEI>

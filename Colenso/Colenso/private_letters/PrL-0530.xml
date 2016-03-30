@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0530">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1883 March 26: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1883-03-26">1883 March 26</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1883 March 26: to Luff<note xml:id="ftn3-177" place="foot" n="177"> ATL MS-Copy-Micro-0485-4.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Monday, March 26<hi rend="sup">th</hi>
+            <lb/>1883.</p>
+         <p>A. Luff Esq.,</p>
+         <p>Dear Sir,</p>
+         <p>Your kind note of 16<hi rend="sup">th</hi>. I duly received &amp; thank you for it. Ever since I have been thinking how best to meet your wish—of meeting you at some fixed place in the Bush, on the Coach road between Ry. terminus &amp; Wgn.,<note xml:id="ftn3-178" place="foot" n="178"> The railway line had reached Takapau in 1877, and would reach Woodville in 1887 (see Introduction).</note> but I scarcely see my way clear to do so, &amp; this for several reasons.</p>
+         <p>1. I now find (at last from Sperry) that my main objection against Arrow’s excessive valuation at Waipawa is not allowed and so, if I prosecute it, I must be there at the Court on the 6<hi rend="sup">th</hi>., and as there seem to be a large number of cases, I may be there also on the 8<hi rend="sup">th</hi>., 9<hi rend="sup">th</hi>. &amp; so on!! at all events that being the coach day, I could not leave before Monday. I should be quite inclined not to appeal (as indeed I have decided in the matter of my sections here at W. Spit &amp; Havelock)—although the difference is something, only I fear the W. Co. C. may accept the said valuation for themselves, &amp; then it would be considerable. Such being the case although I leave here, on Friday next (if fine) I shall not go into the Bush proper until I am free from Ct.</p>
+         <p>2. The weather generally in the Bush is not to be depended upon and as a rule I never travel in wet; further sometimes the one coach is crowded and so I am obliged to wait! therefore I cannot well fix, not at all events just now. I may, perhaps, 10 days or a fortnight hence. I wish to go on to Woodville (where I have never yet been) indeed have partly promised to do so, and, in the Bush, my main halting place will be Towers’ Roadside Hotel at Matamau (close to Mrs Crosse’s house) halfway between Norsewood &amp; Dannevirke. The most feasible plan that I can see at present is for me to drop you a line from Towers’ telling you my days for being at Woodville, where I should stay 2 clear days, of course allowing full time for my note to reach you &amp;c. There is no teleg. thereabouts so that I could not well send a telegram: you may expect a note from me (D.V.) about mid. of April.</p>
+         <p>I am very vexed about this overcharge on my small properties; through it I have already lost much val. time and I shall yet lose more! besides delaying my Bush visiting—carrying that on so far into the season, &amp; hindering my return.</p>
+         <p>With this I send you a small parcel of seeds—I got it ready on Saturday last but not in time for the S. mail being late w. my Eng. letters &amp;c. My time has been much frittered away &amp; taken up of late w. other foreign matters.</p>
+         <p>The few seeds will speak for themselves. Ngaio berries are very scarce this year (I have not seen one!) my man colld. these. The Coprosma is pretty thick growing evergreen shrub, or sm. tree, one of the ornaments of Tiffen’s garden.</p>
+         <p>Hope this may find you well, w. all your family and w. kind regards, I am yours truly,</p>
+         <p>W. Colenso.</p>
+         <p>P.S. But be sure you do not think of travelling N. if the weather is rough &amp; unsettled. W.C. </p>
+      </body>
+   </text>
+</TEI>

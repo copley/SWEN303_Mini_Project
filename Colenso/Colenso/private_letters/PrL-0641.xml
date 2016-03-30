@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0641">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1887 March 1: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1887-03-01">1887 March 1</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1887 March 1: to Balfour<note xml:id="ftn3-361" place="foot" n="361"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, March 1/87.</p>
+         <p>Mr. D.P. Balfour, <lb/>Glenross.</p>
+         <p>My dear Sir,</p>
+         <p>As I have received your note of 20th. (but <hi rend="italic">here</hi> on 26th) I suppose I <hi rend="italic">must</hi> answer it:—but to tell you the honest truth,—Mon, you scarcely deserve it! Your <hi rend="italic">own</hi> words—from it, I note: (1) “reply to my letter of <hi rend="italic">4th Jan</hi>.”! (2) “I am not <hi rend="italic">so busy now</hi>.” Well, well, we all have our faults, &amp; I, at all events, will not “follow suit” &amp; serve you out after that fashion, &amp; reply 6 weeks or 2 months hence. Your Drought is <hi rend="italic">our</hi> Drought:—just now (2 p.m.) it has <hi rend="italic">commenced raining</hi>! how sad the poor trees, &amp;c., outside look! it comforts me under my Rheumatism, which has been hanging about me these last 2 days—in shoulder joints &amp; wrists—just enough to make everything unpleasant!</p>
+         <p>I was in Bush over 3 weeks, from 28th Jany–19th Feby. &amp; found it <hi rend="italic">dreadfully hot</hi> (worse than Napier) until the rain came.—There I had no rheum., &amp; enjoyed myself, save 1 day when I was <hi rend="italic">lost</hi>!—(Some day I may <hi rend="italic">tell</hi> you of this.) I did not do much in the <hi rend="italic">general</hi>
+            <hi rend="italic">plant</hi> way,—though I obtained a few good things—among them, the <hi rend="italic">fem.</hi> of a tree I discovered in ’85, <hi rend="italic">male</hi> only, &amp; curiously enough each time only one of each kind! I enclose a spn. put it into water over-night in a glass, &amp; look at it in mg., flowers minute, those of the male a trifle larger. I described the male one last yr. I also got a very handsome fern, which I believe to be new: and a lot of <hi rend="italic">small</hi> plants, (Mosses, Hepaticæ, &amp; Fungi,) from creeks &amp; gullies.—One thing in particular pleased me much &amp; caused me to think of <hi rend="italic">you</hi>—in a tangled brake, in a wood, I saw 13 spikes of <hi rend="italic">Gastrodia</hi>, all near each other, 2 I measured above 3 ft. high, but all past flowering.     I marked that spot.</p>
+         <p>I also enclose a sprig of another small tree I have <hi rend="italic">often</hi> met with during the last 10 yrs. in woods, but never yet in flower or fruit. If you can find it flg. or ftg.—<hi rend="italic">then</hi> I will shake hands w. you <hi rend="italic">again.</hi> I have seen &amp; examined trees of it 6–10 ft. high .     It often grows in a zig-zag gnarled kind of way.—</p>
+         <p>My good friend P.D. came to see me last week, but he was <hi rend="italic">far from well</hi>. I hope he is better now. I have been very busy (as usual) for S.F. Mail that left us on Saty. last (26th). I have been thinking of paying at visit to Fernhill for a few days, but have concluded to defer it—fearing attack of Rheum. in a <hi rend="italic">strange house</hi>! I suppose I shall remain here for 2 months or so: going to woods again in autumn. I think you did right in setting your captive (G. Lizard) at liberty—they are often marked in that fashion, as if with white arching eyebrows. I am losing <hi rend="italic">several</hi> trees &amp; shrubs here from drought; one, a prized one, 25 yrs. old! I hope you are quite well, also, all yours at Glenross. Shall always be glad to hear from you, albeit the <hi rend="italic">accompaniment</hi>!!! I am dr. Sir,</p>
+         <p>Yours truly,</p>
+         <p>P.S. 2.30. rain over.</p>
+      </body>
+   </text>
+</TEI>

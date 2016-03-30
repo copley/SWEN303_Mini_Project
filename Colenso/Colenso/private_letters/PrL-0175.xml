@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0175">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1864 October 29: to Hector</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Museum of New Zealand Te Papa Tongarewa MU000198/001/0033</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">Hector</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1864-10-29">1864 October 29</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1864 October 29: to Hector<note xml:id="ftn2-89" place="foot" n="89"> Museum of New Zealand Te Papa Tongarewa MU000198/001/0033</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Octr.29<hi rend="sup">th</hi>, 1864</p>
+         <p>My dear Sir</p>
+         <p>I have just thrown up my Cap with an hurrah! at having <hi rend="italic">finished</hi> copying the Essay, which I willingly dispatch by this Mail. I greatly fear however you will <hi rend="italic">not</hi> like it. I confess, I do not myself, and therefore, I cannot expect you should: but there it is—yours, and wholly at your service. I have tried to write so as to please 4 or 5 parties, and though I have greatly exceeded your limit of “40 pps.”, I still found myself cramped for room. However, from your published letter to Mr. Eccles, I infer that some of your projected essays will not be forthcoming, and some others will be gathered into <hi rend="italic">one</hi>,—so that you may find <hi rend="italic">room </hi>enough for this. I suppose, this Mss., including Tables and Notes, will make about 50 pps. If you <hi rend="italic">must</hi> shorten it, par. 22 may be well omitted. You will see, I have written it very plain, so that no error <hi rend="italic">ought</hi> to arise on the part of the Printer in spelling any <hi rend="italic">Maori </hi>or <hi rend="italic">Latin</hi> word: which errors I abominate. I have a very good reason for adding the short “P.S.”—On receiving your first letter, I wrote to several in authority, &amp; others—upwards of 20 letters—the <hi rend="italic">only</hi> answers I received were those I have noticed. R. Graham (Suprdt. of Auckland) really exerted himself: he wrote <hi rend="italic">10</hi> official letters to folks in his Province, (who might have aided,)—only 2 of them replied, and only <hi rend="italic">one</hi> (Mr Heaphy) sent any thing. Copies of their letter were also sent  by Graham to me (with a copy of his<hi rend="italic">good</hi> Circular to the <hi rend="italic">10</hi>, and their names, &amp;c!) Heaphy (personally unknown) wrote a voluminous Ms., (nearly 30 pages and much of it collected from various small local publications,) which he sent me through the Auckld. Suprdt., with the request—<hi rend="italic">it must be used in its entirety, with acknowledgement, &amp;c. </hi>I immediately wrote back, saying, I could <hi rend="italic">not</hi> do so, mainly because I <hi rend="underline italic">knew</hi>
+            <hi rend="italic"> </hi>
+            <hi rend="underline italic">much</hi>
+            <hi rend="italic"> </hi>of what was therein written, and that a large part had been long before the public, &amp;c.—offering to return it immediately (honorably &amp; without using a line,) unless I were at liberty to use it (if needed) without conditions. Mr. H. wrote me directly, to use it as I would, &amp;c.</p>
+         <p>I should greatly have liked to have given a Botanical Map of the N. Island, but cannot for want of time. I have strictly followed Dr. Hooker’s nomenclature (as pubd. in Fl. Nov. Zel.), except where he himself, in his <hi rend="italic">late </hi>letters to me has altered it—believing that he will do so in his Manual I have also altered it—but only in a few places, not touching upon our <hi rend="italic">Mss. sp. novæ.</hi>
+         </p>
+         <p>Of course, all my Anglo-Maori work for the General Governt. has been wholly set aside—I mention this, as I was bound to get such finished in 2 years from date, which I know (now) I shall not do; and I may by-and-bye need a little interest at headquarters to procure me an extension of the time stipulated—other wise I shall have to <hi rend="italic">refund</hi> the small advances I have received on the work.—</p>
+         <p>I have your note of the 13<hi rend="sup">th</hi>. I am very sorry (on account of the exhibition) that the Gen. Assembly is about to meet, as I shall <hi rend="italic">not</hi> have time to rout out many interesting specimens which have been packed away for 2–30 years! I intend to give you a week more of time, and will do what I can: the things will leave for <hi rend="italic">you</hi> on or about 16<hi rend="sup">th</hi>. Novr. You did <hi rend="italic">not</hi> say if you cared for any <hi rend="italic">Moa </hi>Bones, and so I shall not send any, not having any first rate specimens. Owen’s 2 works (Moa &amp; Apteryx) I shall send—ditto Cook’s Voyages—the <hi rend="underline italic">large</hi> Govt. edition 4to. with Atlas (as you may not have it, and it should be there). Also Flora Antarctica 6 vols. 4to., &amp;c, &amp;c.</p>
+         <p>I intend leaving for Auckland on the 18<hi rend="sup">th</hi>. prox. Wishing you every success</p>
+         <p>     I am</p>
+         <p>             My dear Dr. Hector</p>
+         <p>                     Ever sincerely yours</p>
+         <p>                             Wm. Colenso.</p>
+      </body>
+   </text>
+</TEI>

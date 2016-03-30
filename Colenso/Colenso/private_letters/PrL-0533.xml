@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0533">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1883 April 27: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4. Letter addressed to “A. Luff Esq., Post Office, Wellington” and endorsed “Recd. May 2/83”.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1883-04-27">1883 April 27</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1883 April 27: to Luff<note xml:id="ftn3-181" place="foot" n="181"> ATL MS-Copy-Micro-0485-4. Letter addressed to “A. Luff Esq., Post Office, Wellington” and endorsed “Recd. May 2/83”.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Norsewood, April 27<hi rend="sup">th</hi>./83 (night)</p>
+         <p>A. Luff Esq.,</p>
+         <p>My dear Sir</p>
+         <p>On the 12<hi rend="sup">th</hi>. inst. I wrote you a letter from Matamau, which I hope you received. I was not aware until <hi rend="italic">after</hi> I had written it, &amp; on going to post it at the P.O. here, that it must first go N. to Napier!! As this would make some days difference in the time of it reaching Wgn. &amp; you. I gave it to the Coachman to post when he should reach Palmerston.—</p>
+         <p>Well: this journey of mine to these woods, has been the most trying &amp; disappointing of all,—besides being the <hi rend="italic">longest</hi>! I arrived at Matamau (as I told you) on the 9<hi rend="sup">th</hi>. in rain, &amp; up to the present, inclusive,—19 days—there have been only <hi rend="italic">2 fine days</hi>, (one of these was Sunday last.) Rain, rain, nothing but rain! and black, gloomy clouds, fog, &amp; <hi rend="italic">sunless</hi> days, and even now there are<hi rend="italic">no signs </hi>of the weather changing for the bettor. Of course I did <hi rend="italic">not </hi>go on to Woodville, (although I had greatly desired to do so on matters of business, besides the extra stimulus &amp; hope of once more meeting w. <hi rend="italic">you</hi>!). I pitied the poor passengers who had to travel by Coach (some of them told us it was fine at Napier when they left), and I was daily more &amp; more <hi rend="italic">uneasy </hi>in mind respecting you, fearing (under all the circumstances) that you <hi rend="italic">might </hi>have come on from Wgn., and so have been greatly disappointed in not meeting w. me at Woodville, &amp;c. and I only felt relieved as the days passed by &amp; you were <hi rend="italic">not</hi>;—supposing that you, too, had had wet w. at Wgn., or that you had prudently followed out my suggestions in my letter, &amp; so had remained at home.</p>
+         <p>I was nearly a fortnight at Matamau and only had <hi rend="italic">one</hi> fine day! (Thursday 19<hi rend="sup">th</hi>.); that one, however, was a truly glorious one (<hi rend="italic">as all fine days are</hi> in the “Bush” at high altitude,) and I ventured to hope the rain was quite over:—not so, however, for it recommenced the next morning. Although the forests lay all around me I could not get into them,—on that one fine day I did what I could, but they were still dripping &amp; plashy, &amp; the rills &amp; burns turbid &amp; overflowing.—</p>
+         <p>It has been a time of trial to me, as I had hoped &amp; prepared for a whole month of “Forestry”: fortunately I had brought books, &amp; papers (Jany. Eng. Mail) &amp; writing materials—so that I have not been idle.—I have nearly finished a paper (I had last year planned) for our Institute, and have dissected &amp; drawn up the descriptions of a few <hi rend="italic">new </hi>&amp; small plants I have discovered, &amp; having got from Mr. Grubb all my Eng. &amp; foreign letters I have answered them;—but now I am getting <hi rend="italic">weary</hi>. I wrote to my man on Saturday night, telling him I hoped to return to N. today—provided I had got 2 days fine w., but I have now put that off until next week—Tuesday or Wednesday: I must have a day or two in the woods before that I leave, as it will be 6 or 7 months ere I can come hither again—if <hi rend="italic">I live </hi>&amp;<hi rend="italic">am well</hi>.</p>
+         <p>The weather has tried me a good deal, given me daily extra rheumatism, more perhaps, from <hi rend="italic">damp</hi> than anything else, (I would <hi rend="italic">not</hi> have fire in private room at M., nor in the Dining-room, so I escaped coughs &amp; colds,)—however, on the whole, I am very well.—I have not seen any papers for several days (none here). I generally saw them (N. locals) or some of them at M., so I know no <hi rend="italic">News</hi>. All my letters (save as above) are kept for me at Napier. I hope you &amp; yours are all quite well,—and with very kind regards, believe me, my dear Sir,</p>
+         <p>Yours sincerely</p>
+         <p>Wm. Colenso.</p>
+         <p>P.S. I have written (including this) 33 letters, some of them very long ones. W.C.</p>
+      </body>
+   </text>
+</TEI>

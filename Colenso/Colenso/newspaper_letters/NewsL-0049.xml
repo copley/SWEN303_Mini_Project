@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0049">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1863 Open column. Hawke’s Bay Herald 30 September.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1863-09-30">1863 September 30</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1863 Open column.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 30 September.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—I read with some considerable interest the notice, “Native Dispute,” (under your heading of “Local Intelligence”) which appeared in your issue of the 16th inst. And I have since closely examined your two subsequent numbers, fully expecting that you would follow up the matter. I scarcely need add, that I have been disappointed. I fear, however, it would be of little use my referring you to many places in the life of the <hi rend="italic">Herald</hi> (in past years), where, with perhaps less to call for it, and at a far less critical period in our brief history, you have acted very differently. For what is the seed or the root of this “dispute,” which you inform us seriously threatens to disturb the peace of this district? Who is the cause? perhaps some greedy run-holder not satisfied with what he has already; at all events it is some “inland settler” (name, perhaps, known to you), acting <hi rend="italic">illegally</hi>. For all such contracts or leases are now by law illegal; and so they must be hereafter if this Province is ever to go-ahead. Of course, in so speaking, I wholly leave out of sight both Hapuku and Karaitiana: with the real Maori owner I have nothing to do.</p>
+         <p>May I ask a question, Sir—How would you like (as one of the Volunteer corps) to go to the front to quell any disturbance which might easily and rapidly grow (in these times) from this “dispute” or from any such illegal, and it may be greedy, proceedings on the part of a runholder? I know it is not for me, Sir, to suggest to you what may be best, (though time was when we thought alike on such matters) but, as I take it, you should lend all the weight and influence arising from your share of “the Fourth Estate,” (1.) to keep the public peace, by denouncing all disturbers of it; (2.) to prevent the best and choicest of the plains in the possession of the Maories (of which number Raukawa is one) from falling into the hands of the mere runholder, and to seek to preserve them for the agriculturalist (3.) to inform the public (when you happen to know) the name &amp;c. of such offender to the Commonweal. </p>
+         <p>I only hope that this “inland settler” and <hi rend="italic">illegal</hi> fomentor of Maori discord, is neither a J.P. nor a General Government official, nor a holder of any kind of commission from the Governor; for if so, and any disturbance fol1ow, I know pretty well what my duty (as a M.H.R. from our Province) should be at the General Assembly.</p>
+         <p>		I am, Sir,	 Very faithfully yours,	<lb/>  		
+            <hi rend="smallcaps">William Colenso.</hi>
+         </p>
+         <p>Napier,	<lb/>  September 24, 1863.</p>
+      </body>
+   </text>
+</TEI>

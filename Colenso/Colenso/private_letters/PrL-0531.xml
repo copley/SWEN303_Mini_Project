@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0531">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1883 April 12: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1883-04-12">1883 April 12</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1883 April 12: to Luff<note xml:id="ftn3-179" place="foot" n="179"> ATL MS-Copy-Micro-0485-4.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">(near Mrs Crosses—½ way between Norse-<lb/>wood and Dannevirke.)</p>
+         <p rend="end">Hotel, Matamau,<lb/>April 12th, 1883.</p>
+         <p>A. Luff, Esq</p>
+         <p>My dear Sir</p>
+         <p>I arrived here in rain on Monday last (10<hi rend="sup ">th</hi>.) and it has been raining ever since, with small prospect of its clearing up. As I had promised in my last, I write you a few lines to let you know of my intended movements <hi rend="underline italic">if fine</hi>—<hi rend="italic">for all will depend on the weather</hi>. The roads are in a very bad state, &amp; the bush (what I can see of it from my prison!) looking half-drowned. I left Napier on the 31<hi rend="sup ">st</hi>. March (having been detained by heavy rain), &amp; got to P. Gow’s, where I halted a few days (<hi rend="italic">cold</hi>—fresh!!—&amp; wet, &amp; gloomy!) as I had to attend Reviewers’ Court at Waipawa on Friday 6<hi rend="sup ">th</hi>.—(I went and obtained reductions on each of my 3 small blocks there—but not enough I think): but more anon.—</p>
+         <p>I have just written to Woodville, and my plan laid down, is, to go hence to Woodville on Monday next (16<hi rend="sup ">th</hi>.) <hi rend="italic">if </hi>
+            <hi rend="underline italic">fine</hi>: if <hi rend="italic">not</hi> fine on that day, then on Wednesday (18<hi rend="sup ">th</hi>.) <hi rend="italic">if fine</hi>: and, in either case, to remain there <hi rend="italic">2 clear days</hi>.—You have most kindly intimated the probability of your coming to meet me, but I would say, Do not do so unless the weather is set in fine, &amp; you well, also family, and you think you may travel safely and comfortably—your end of the line between N. &amp; W. seems the more or less unsafe &amp; unpleasant one: think <hi rend="italic">twice</hi>, my dear Sir, before that you leave your home merely to see me,—as we are really not far from each other &amp; can easily communicate. If there were a tel. office here I would wire to you, say on Saturday evening: I might leave writing until Friday, but then I fancy you would not get my letter before Monday morning.—–</p>
+         <p>Another item I should mention I am <hi rend="italic">not sure</hi> of a seat in the Coach, which is often overloaded &amp; passengers left behind (myself among them), only last Saturday some were so at Palmerston, &amp; specially fetched on Sunday. Should I not have the pleasure of meeting you, I shall write again early: I hope to return to Napier about the 1<hi rend="sup ">st</hi>. May, as I have <hi rend="italic">other</hi> places to stop at on my way back. Hoping you are all quite well, and with kind regards.</p>
+         <p>Believe me, Yours truly</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

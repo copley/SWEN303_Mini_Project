@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0007">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1851 November 22: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1000825</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>Encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1851-11-22">1851 November 22</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1851 November 22 McLean to Colenso (#1000825) </p>
+		</front>
+		<body>
+			<p>Dear Mr. Colenso. </p>
+			<p>There has been no news to signify by the Rose nor have I received any Wellington papers to send you for perusal. </p>
+			<p>I am sending Mr. Pelichet round to take the European Census and I have requested him to leave a printed form with you to be filled up. Instead of sending to the Wairoa perhaps you would also kindly fill up one for Mr. Hamlin as I am anxious to get the returns sent back by this vessel. </p>
+			<p>very faithfully yours  </p>
+			<p>Donald McLean </p>
+			<p>22 Novr. 51. </p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0738">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1890? May 12: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-1; year not given but must be 1890.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1890-05-12">1890? May 12</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1890? May 12: to Harding<note xml:id="ftn3-468" place="foot" n="468">ATL MS-Copy-Micro-0485-1; year not given but must be 1890.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Woodville May 12<hi rend="sup ">th</hi>.</p>
+         <p>Mr R.C. Harding</p>
+         <p>My dear Sir</p>
+         <p>Don’t start at my <hi rend="italic">present</hi> address! I came hither on Saturday midday for Sunday’s duties in Eng. Ch., &amp; have to remain until Wedy. aftn., through my having <hi rend="italic">promised</hi> (when last here, on similar errand, on 27<hi rend="sup ">th</hi>. April,) to give a Lecture in aid of funds of Pub. Liby., on Tuesday night.</p>
+         <p>This mg. I saw in “Commercial Room”, “Evg. News” of Friday last which speak of your “Typo” &amp; <hi rend="italic">likeness</hi>!! If you should have any <hi rend="italic">spare</hi> copies, please send me <hi rend="italic">3 extra</hi> (with <hi rend="italic">mine</hi>) <hi rend="italic">to Dannevirke </hi>by <hi rend="italic">early</hi> Mail this wk. being the Eng. M. week.</p>
+         <p>I have yet to <hi rend="underline italic">thank</hi> you for the copy of the Chicago “Inland Printer” you so very kindly gave me—I skimmed <hi rend="italic">your </hi>article, at Napier, &amp; of course brought the said paper, or part, on w. me, but left it at Dvk.<hi rend="italic"> </hi>What a panegyric! how much am I not <hi rend="italic">indebted to you</hi>!! I wish I had early (&amp; in time) known of your spontaneous &amp; kind intention, as I could have supplied 2 or 3 interesting (and <hi rend="italic">little-known</hi>) bits—of facts.—I was sorry to see 2 glaring (to <hi rend="italic">us</hi>) errors: in <hi rend="italic">Caps</hi>. too! in proper names of Keri Keri, &amp; (the world-wide name of) Bp. Selwyn!—</p>
+         <p>I saw you in rainy w.—I was all Thursy. in N. <hi rend="italic">in rain</hi>! Left on Fy. <hi rend="italic">early</hi> in <hi rend="italic">rain</hi> (w. Governor &amp; party, whom I never saw!) arrived at Dvk in rain! came hither ditto! &amp; tho <hi rend="italic">no</hi> rain yesty. yet dull w. black heavy clouds, S. wind &amp; <hi rend="italic">dreadfully cold</hi>! <hi rend="italic">scarcely endured it</hi> in Ch., with of course <hi rend="italic">small </hi>congn.—35: 50. which, <hi rend="italic">w. me</hi>, always makes matters worse. Last nt. again <hi rend="italic">heavy</hi> rain, clattering on roof! and now dull, cold, &amp; threatening more: I can scarcely sit to write or hold pen, have asked, 2–3 times! for wood for <hi rend="italic">small fire</hi>!!! in a little <hi rend="italic">½</hi> stove-grate! I hope I shall live it out! but I could wish I had <hi rend="italic">not </hi>to give this Lecture, in <hi rend="italic">this weather</hi>.—I would not write <hi rend="italic">to you</hi> now but for Eng. M. this week.</p>
+         <p>
+            <hi rend="italic">This day</hi> is <hi rend="italic">our</hi> opening day (H.B. Ph. Inst.) Has any thing been done? I <hi rend="italic">suppose</hi> Ham. is back by this. Hill, too, is <hi rend="italic">absent</hi>!—–</p>
+         <p>What a mess w. Harbour Board’s officials! and where &amp; <hi rend="italic">when</hi> will <hi rend="italic">that mess </hi>end?</p>
+         <p>But: must stop. Try to make this out. Sincerely hope Rev. Mr. Paterson is better. Kind regards to him—<hi rend="underline italic">to you</hi> &amp; to <hi rend="italic">your Father</hi>.</p>
+         <p>Bel. me yrs. truly</p>
+         <p>W. Colenso</p>
+         <p>Should you see Fannin, remr. me <hi rend="italic">to him</hi>.</p>
+         <p>I have sevl. <hi rend="italic">packets</hi>, &amp;c. from America by last S.F. Mail, (also from Engd.) <hi rend="italic">unopened</hi>!——</p>
+         <p>P.S.<note xml:id="ftn3-469" place="foot" n="469"> This PS is undated and isolated: it appears to fit best here.</note> Looking over my letter I find I have omitted saying (what I think may interest you),—that Mr. R. Stewart is now at Napier, but returning to Wdv. today—he went thither on Monday taking w. him plans of manse at Wdv. (drawn by Hall &amp; agreed to there), and the necessy. documents from Wdv. Kumeroa &amp; Pahiatua sustaining their call: Mr. Johnston of Waipawa now Moderator has been there 3 wks ago <hi rend="italic">re </hi>same—every thing so far satisfactory. See Papers (D.T. 21<hi rend="sup ">st</hi>. &amp;c) for a scene in Ed. Bd. meeting re Waipukurau Sch. Do you <hi rend="italic">know</hi> that (fiery) teacher Anderson?—W.C.</p>
+      </body>
+  </text>
+</TEI>

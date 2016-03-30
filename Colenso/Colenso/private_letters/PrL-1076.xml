@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1076">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1899 January 27: to Ethel Florance</title>
+            <author>
+              <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75731/">John Anderson</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Puke Ariki, New Plymouth, accession number ARC2005-335. Written by John Anderson, Colenso’s manservant. Mrs Anderson found Colenso dead two weeks later, on 10 February 1899.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+              <correspAction type="sent">
+                
+                 <name key="http://wtap.vuw.ac.nz/eats/entity/4123/" type="place">Napier</name>
+              </correspAction>
+              <correspAction type="received">
+                <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/74086/">Ethel Florance</name>
+              </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1899-01-27">1899 January 27</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1899 January 27: to Ethel Florance<note xml:id="ftn3-941" place="foot" n="941">Puke Ariki, New Plymouth, accession number ARC2005-335. Written by John Anderson, Colenso’s manservant. Mrs Anderson found Colenso dead two weeks later, on 10 February 1899.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier,<lb/>January 27. 1899.</p>
+         <p>Miss Ethel Florance,</p>
+         <p>Sitting by Mr Colenso’s bedside, I write you a few lines to let you know he is unable to write, having been seriously ill, but he is now a little better, with hopes of amendment. He cannot write at present, nor indeed read.</p>
+         <p>This is written to let you know that he has been so very unwell, and that is the reason why he did not write sooner, as he promised he would do, in his note to you from Waipukurau.</p>
+         <p>He hopes you left your father, mother &amp; brother, all well, at the Chathams.</p>
+         <p>With kindest regards</p>
+         <p>For the Revd. W. Colenso,</p>
+         <p>John Anderson.</p>
+      </body>
+   </text>
+</TEI>

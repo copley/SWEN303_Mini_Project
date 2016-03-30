@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0304">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1875 December 25: to Cheeseman</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Auckland Museum MS 58, Box 5, Folder 3.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73513/">Cheeseman</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1875-12-25">1875 December 25</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1875 December 25: to Cheeseman<note xml:id="ftn2-238" place="foot" n="238"> Auckland Museum MS 58, Box 5, Folder 3.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>Xmas. Day, /75.</p>
+         <p>My Dear Sir</p>
+         <p>First—the compliments of the Season<hi rend="underline">s</hi> (Xmas. &amp; N. Yr.) to you, and many happy returns. Second—I have to thank you for your very kind prompt and full response to my note, in your truly welcome letter of Novr. 29<hi rend="sup ">th</hi>., and for all its valued enclosures,—excellent spns. of Ferns, &amp; No. 148 of Jl. of Botany. Your letter and its contents quite stirred me up! but, unfortunately, I have but very little time since its arrival—my hands (and head, too!) being full; with Inspecting our Public Schools, (Xmas. being near, &amp; my late illness having thrown me back,)—and now the Election!—which, happily, will <hi rend="italic">end </hi>next week. This day is always with me a kind of solitary one, when I am very much alone,—my servants, too, having holiday &amp; absent,—and so I endeavour to use it to the best advantage, in reducing the big increasing pile of unanswered letters on my table:—yours, however, I cannot answer so fully as I wish.</p>
+         <p>I am rather surprised in finding, that I had <hi rend="italic">not </hi>sent <hi rend="italic">you </hi>a copy of my <hi rend="italic">old </hi>publication on some of our N.Z. Ferns,—which I had thought I had done: I now send you a copy with the greatest pleasure,—only wishing it were of more value or use. I marvel at Baker speaking of <hi rend="italic">Lindsæa viridis </hi>as only bearing a <hi rend="italic">Mss. name</hi>—when <hi rend="italic">both </hi>Sir W. Hooker (in his <hi rend="italic">Species Filicum</hi>) and Dr. H. (in his <hi rend="italic">Flora Nov. Z</hi>.) mention its having been <hi rend="italic">published</hi>, &amp;c.,—this, Baker ought to have known. There are, however, more N.Z. Ferns (<hi rend="italic">species</hi>) than they have allowed,—some of which are in my little publication,—which our working N.Z. Botanists will by-&amp;-bye confirm. I have, in Lowe’s Exotic Ferns, vol.iv., very good and (apparently) carefully drawn coloured figure<hi rend="underline">s</hi> of <hi rend="italic">Lomaria Patersoni</hi>, (an <hi rend="italic">old </hi>and well-known Fern,) which, if correct, clearly shews the entire specific distinctness of our N.Z. <hi rend="italic">Lomaria elongata </hi>(?)—(<hi rend="italic">L. heterophylla, mihi</hi>, publicn.: <hi rend="italic">L. Colensoi</hi>, Dr. Hooker, Icones Plantarum, tab. 627–8.)—<hi rend="italic">L. Patersoni</hi>, as there shown &amp; described, differs in outline, substance, habit and vernation.  </p>
+         <p>So, as to my <hi rend="italic">Polypodium sylvaticum</hi>, (of which a colored fig. is given in Dr. H’s. Flora N.Z.,—after, too, a long dispute between Sir W. &amp; his son Dr. H. about it,—Sir W. always affirming it, &amp; Dr. H. the contrary,—who, at length, adopted his father’s views,)—this, now, is made one with <hi rend="italic">Aspidium aculeatum</hi>,—to which genus it does not belong!</p>
+         <p>Then, as to the <hi rend="italic">new </hi>alterations (mentioned by you,) of our long-known <hi rend="italic">Dicksoniæ</hi>,—those (our then known N.Z. species) were clearly distinguished by Sir Wm. in his <hi rend="italic">Species Filicum</hi>. vol.I. pp.68, 69 &amp; even drawings given! I never had any doubt of their specific distinction, &amp; believe we have 2 other species—<hi rend="italic">certainly</hi> one, which is very distinct,—especially in <hi rend="italic">habit</hi>, and which I therefore named <hi rend="italic">D. unistipa</hi>,—from its growing much like the common <hi rend="italic">Pteris esculenta. </hi>
+         </p>
+         <p>J. Smith, formerly of Kew, a very close observer of Ferns, in writing on them, says,— “further observations have led me to regard the different modes of growth (<hi rend="italic">vernation</hi>) and general habit as affording important auxiliary characters for assisting in defining, &amp;c.”—</p>
+         <p>I feel much interested in what you tell me of another N.Z. <hi rend="italic">Davallia</hi>: I have long suspected this, (Sir W. Hooker &amp; myself corresponded about it,)—from the fact of a species which Sir Wm. published, naming it <hi rend="italic">D. Lindleyi</hi>, &amp; giving <hi rend="italic">N.Z. </hi>as its <hi rend="italic">habitat</hi>, (<hi rend="italic">Species Film</hi>., p.163, where is also a plate of the plant,)—and it is certainly <hi rend="italic">very near </hi>to Forster’s “<hi rend="italic">Trichomanes solidum</hi>,” (now a <hi rend="italic">Davallia,</hi>)—which Forster, in his <hi rend="italic">Prodromus</hi>, said was <hi rend="underline italic">from “the Pacific Islands</hi>.” I shall be curious to know if these plants should prove to be the same.</p>
+         <p>The “<hi rend="italic">Synopsis Filicum</hi>” I have never seen: I suppose it is merely a catalogue of names.</p>
+         <p>You enquire after the local habitats in the Auckland Province of a few scarce plants. Of some of them I well recollect their <hi rend="italic">old </hi>homes! (35 years ago!) but even if I were <hi rend="italic">there</hi>, should I find them <hi rend="italic">now</hi>—denizens of the soil as before? I fear not, judging from what has taken place in this Province, even within the last 10–12 years:—<lb/>        Lycopodium Carolin.,—boggy flats near the sea shore at Ahipara, beyond Kaitaia.—<lb/>   Thelymitra Colensoi (which I suppose is my<hi rend="italic">Th. straminea</hi>,) on barren hills among fern inland from Whangaruru Bay, but rather scarce.<lb/> Quintinia elliptica,—dry forests, Bay of Islands.<lb/>  Australina pusilla,—plentifully, sides of small watercourses in shady thickets at Owae in Whangaruru Bay, &amp; along that Coast to Ngunguru.<lb/>      Pimelea ’Urvilleana, dry hills among Fern, Bay Islands.—<lb/>   Senecio Colensoi,—rocky cliffs, sea shore, Bay Islands, &amp;c., (but much<hi rend="italic">more </hi>common <hi rend="italic">here</hi>, at Cape Kidnappers, &amp;c.—</p>
+         <p>I believe there are several of our Orchids yet undescribed, especially of the genera <hi rend="italic">Thelymitra, Pterostylis, </hi>and ?<hi rend="italic">Microtis </hi>(or some closely allied genus). I remember a gem! which pleased me much: I never found it but once, but then it was plentiful and in a good state. I took it to be a <hi rend="italic">Microtis</hi>, &amp; named it <hi rend="italic">M. autumnale</hi>,—it was colored purple &amp; yellow, &amp; very <hi rend="italic">sweet scented!</hi>—it grew with <hi rend="italic">Thelymitra Colensoi</hi>. It is <hi rend="italic">not </hi>one of Dr. Hooker’s <hi rend="italic">Prasophyllæ.</hi>
+            <note xml:id="ftn2-239" place="foot" n="239"> Possibly <hi rend="italic">Corunastylis pumila.</hi>.</note> But I must close.—</p>
+         <p>I return, with thanks, the no. of the Jl. of Boty. you so kindly lent me. Did I ever send <hi rend="italic">you</hi> a copy of my Journey (or “Excursion”) in N. Zealand? printed also in Tasmania, about the same time as the Ferns. (Possibly, I am confusing you with Mr. Kirk, both in this, &amp; in that of the “Ferns”. I shall always be delighted to hear from you, and to receive any specimen, especially of Ferns; and <hi rend="italic">hope </hi>to be able to send you some ere long.—</p>
+         <p>I have lately written to Miss Leech,—as I could not put it off any longer,—although I had not found time closely to examine her little work,—which needs extensive correction, &amp;c.—</p>
+         <p>                     Believe me,</p>
+         <p>               My Dear Sir,</p>
+         <p>             Yours truly, W. Colenso.</p>
+         <p>P.S. Do you happen to know a Mr (<hi rend="italic">or </hi>Rev.) J.W. Wallis, of Raglan? If you do, &amp; should have the oppory. please tell him I will write to him <hi rend="italic">shortly</hi>. W.C.</p>
+      </body>
+   </text>
+</TEI>

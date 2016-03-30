@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0056">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1845 November 19: to Selwyn</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0492. Archives 48/547-682.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place">Te Kopi</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/48902/">Selwyn</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1845-11-19">1845 November 19</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1845 November 19: to Selwyn<note xml:id="ftn1-61" place="foot" n="61">ATL qMS-0492. Archives 48/547-682.</note>
+         </p>
+      </front>
+      <body>
+         <p>Copy.</p>
+         <p>The Right Rev.<lb/>Bishop of New Zealand.</p>
+         <p rend="end">Te Kopi, Nov. 19, 1845.</p>
+         <p>My Lord,</p>
+         <p>On reaching this village a fortnight ago, I received from the Christian Natives a long account of certain charges preferred against me, and of bad language spoken of me, by several whites residing in the valley of Wairarapa: of this, however, I should not have taken any notice—being pretty well used to such treatment—had not the Revd. Messrs. Hadfield and Cole also informed me that certain evil reports had reached them; and, when dining at Mr. St. Hill’s with Major Richmond, His Honor the Superintendent told me, he had been applied to upon the subject, and had written to me a Letter— “as a friend”—to inform me of it. The charges, as far as I can make them out, appear to be, to the effect, that I had recommended the Natives to rise against the Whites, and to drive them from Wairarapa; that I had said, “They were all evil persons—<hi rend="italic">taurakareka’s </hi>(slaves)—&amp;c., &amp;c.—<hi rend="italic">ad infin</hi>.—</p>
+         <p>On my return, yesterday, with Archdeacon Williams to this place—our intention was to have gone to see some of those Europeans, but—our being already behind time—they at some distance from us in a <hi rend="italic">contrary </hi>direction, and we tired with a long journey before us—and your Lordship’s speedy coming into our respective Districts for the purpose of holding Confirmations—make us desirous of proceeding onwards to our Stations without loss of time.</p>
+         <p>I have, however, my Lord, written a Letter to the nearest resident Europeans, a Copy of which I enclose.</p>
+         <p>It is scarcely needful for me to add, that I am utterly ignorant of those things so laid to my charge, and that <hi rend="italic">all</hi> the Natives of the valley with whom I have conversed appear to be equally ignorant as to the person or persons with whom such accounts could possibly have originated.—</p>
+         <p>I am,</p>
+         <p>my Lord,</p>
+         <p>Your most obedient Servt.,</p>
+         <p>William Colenso.</p>
+      </body>
+  </text>
+</TEI>

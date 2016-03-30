@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0250">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1869 October 30: to Hector</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Museum of New Zealand—Te Papa Tongarewa MU000147/002/0339.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">Hector</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1869-10-30">1869 October 30</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1869 October 30: to Hector<note xml:id="ftn2-174" place="foot" n="174"> Museum of New Zealand—Te Papa Tongarewa MU000147/002/0339.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>October 30/69.</p>
+         <p>My Dear Sir</p>
+         <p>A few days ago I received a letter from Dr. Hooker, dated 6<hi rend="sup">th</hi> Augt.—it was long in coming to Napier, through being taken on to Auckland in some Govt. letters, (as I suppose from its being franked thence by Governor’s Priv. Secy.)—I got it by the merest chance (in going to post my letters for England) in time to reply to briefly by  our outgoing Eng. Mail.</p>
+         <p>He had received the vol. of your Instit. Transns. which you (?) had sent him: had read the Paper on the Maories, which pleased him &amp; sent it on to Prof. Huxley, and now they wish to reprint it in Engd., &amp; have written for permission, &amp;c.</p>
+         <p>In reply (as above), I consented,—adding my wish for the <hi rend="underline italic">Notes</hi> to accompany it: &amp; saying, <hi rend="italic">you </hi>had them originally: and that I would lose no time in writing to you, &amp;c. (which I now do, by <hi rend="italic">first</hi> Steamer,) and would send them to England by next month’s Mail.</p>
+         <p>May I request you, my dear Sir, to <hi rend="italic">try and hunt them up</hi>, (they may have been left at Otago,) and let me have them for Dr. H. If, however, they are irretrievably lost: then let me know <hi rend="italic">early</hi> this unwelcome information (say, within a week after receipt of this,—you can do it by telegram in half a doz. words,) and I will try hard &amp; re-write them (by staying up a few nights) so as to be in time for our next outgoing Eng. Mail.—</p>
+         <p>I sent you a local Paper the other day, containing my Centenary attempt on behalf of Cook &amp; his comrades—<hi rend="italic">we</hi> kept no holiday!! being too ungrateful, or too Bæotian. They seemed to have managed better at Canterbury.</p>
+         <p>In writing to you of Dr. H. moves me to ask, Did he safely receive the Book-Case, or Side-Board, or whatever it was, you sent him: and was he (or they) pleased with our N.Z. woods displayed?</p>
+         <p>Hoping you are quite well.   I am</p>
+         <p>                     Yours very truly</p>
+         <p>                             W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

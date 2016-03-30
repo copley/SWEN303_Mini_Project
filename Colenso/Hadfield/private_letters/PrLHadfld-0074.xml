@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0074">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1849 September 17: Octavius Hadfield to his mother Amelia Hadfield (nee White)</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. "Letter 7".  Page 215.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 8.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1849-09-17">1849 September 17</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70719/">Amelia Hadfield (nee White)</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1849 September 17: Octavius Hadfield to his mother Amelia Hadfield (nee White)</p>
+      </front>
+      <body>
+      <p>Wellington Sept. 17. 1849.</p>
+      <p>My dear Mother,</p>
+      <p>I fear I have not yet thanked you for your kind letter of Jan. which gave me so much pleasure: I think however that I acknowledged the receipt of it in a letter to Amelia written in July.  I have no memorandum of any letter written by me since that date though I seem to think I have written since.  I must also thank Amelia for hers of Jan &amp; Feb. &amp; Octavia for hers of Ap.</p>
+      <p>I was happy to find by the last letter that though you had all been suffering more or less form those horrid coughs &amp; colds which infect England, you have all got pretty well through the winter.  I, for a long time during my gradual recovery from sickness only looked forward to the possibility of gaining so much strength as would enable <supplied>[me]</supplied> to pay you a visit, that I might once again behold all those dear faces which I left so long since, &amp; which must all now have altered much; but as it has pleased God to give me sufficient strength to fit me for work of some kind here, I could not in my conscience feel justified in leaving this for England, unless some business connected with the mission required it.  It must remain, therefore, for a higher power to determine whether I shall ever see all, or any of you again.  But whether I do or not, my love to you, &amp; my constant remembrance of you; will not be affected in either case.  I am delighted to hear every thing concerning you all.  I have been very sorry to hear that Alexander's health is so bad.  I seriously wish he would come here, either on leave or permanently: the climate is so refreshing &amp; delightful that it would be just what his constitution requires.  I wrote the day before yesterday to George.  I was sorry to hear that he had been obliged to resign his post at Malta.  But it would have been useless to have attempted to remain after he once found that he disagreed with the Committee of management.  I trust he may be directed by the All-wise God to some sphere of usefulness.</p>
+      <p>My health has improved so much that I have now for some time been able to take part in the services in the churches both English &amp; native.  I cannot boast of much strength, but I really feel that I enjoy health as much as ever I did in my life.  I purpose going next week to Otaki, to see my old friends from whom I have been so long removed.  I have seen many of them here occasionally; but many old persons, women, &amp; children, I cannot have seen since I left them nearly five years ago.  I have not at all determined yet what to do; but, if it please God, I shall for the next three months, till the Bishop returns here, employ myself among the natives between this &amp; Manawatu, which is thirty miles from Otaki.  I can now travel with less inconveniences than formerly, as there are now decent houses in the native villages where one may sleep without risk of taking cold.  I do not like the notion of being engaged in the Bishop's College for many reasons.  I have written to George on the subject.  If I should visit Otaki, as I propose, I will write again soon &amp; let you know what improvements have taken place there.  The natives of Waikanae, though greatly reduced in numbers since I left it by the migration to Taranaki which took place eighteen months ago, are improving, &amp; so they are in all the neighbouring villages.  The effect of christianity upon the natives of this country has been marvellous; &amp; all intelligent persons here perceive it.  Many here, even among our own body, doubted as to the effect the late disturbances would have on the minds of the natives; &amp; good people at home seemed to think that all had been labour in vain; but my opinion never for one moment regarded all such disturbances as other than the means of trying the faith of the new converts: &amp; I had sufficient confidence in its reality in the hearts of a goodly number to predict that it would be rather beneficial than otherwise   In a people recently converted from gross barbarism &amp; a savage life it is unreasonable to suppose that we shall find a high standard of moral feeling among them generally; &amp; the many instances in which this may be found are not conspicuous: it is the nature of this religion to be humble &amp; retiring, the consequence is that the evil is more observed than the good by superficial spectators.  The great object I have had in view in my endeavours to promote the temporal welfare of these people apart from the immediate benefit conferred by it, has been to render the natives more attractive to those that look only to the outward appearance, &amp; thus gain for them more respect; &amp; this has already been the result of their improvement.  For when the lower class of people see those whom they so lately regarded as savages, neatly dressed, living in decent houses, cultivating wheat, keeping cows, able to read &amp; write &amp; also attentive to their duties to God by daily (morning &amp; evening) assembling for prayer to God, they cannot but be struck with the remarkable effect produced; &amp; at the same <supplied>[time]</supplied> are led to treat the natives with more attention &amp; respect.  Nor has this christian consistency in the conduct of the natives been without a blessed effect on the white population: I have no hesitation in saying that I believe it has tended to make them far more attentive to religion than they were a few years ago disposed to be.  With kindest love to all believe me, my dear Mother,</p>
+      <p>Ever your very affectionate son,
+      </p>
+      <p>Octavius Hadfield.</p>
+      <p>P.S. My kind friends the St.Hills are very well.  Windle is at school at Nelson with a son of Dr. Arnold's, but as Mr. Arnold is going to Van Diemen's Land where he has been appointed Inspector of schools, he must return here.  Another brother, Woodford, is now expected from Calcutta, he expects to be ordained by the Bishop.  I enclose a letter for Mrs. Griffin.</p>
+      </body>
+   </text>
+</TEI>

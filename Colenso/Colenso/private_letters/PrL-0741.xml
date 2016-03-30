@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0741">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1890 June 14: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0495.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1890-06-14">1890 June 14</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1890 June 14: to Harding<note xml:id="ftn3-472" place="foot" n="472"> ATL qMS-0495.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Bickerton’s Hotel<lb/>Woodville,<lb/>June 14/90 (night).</p>
+         <p>Dear Mr Harding</p>
+         <p>I wrote a kind of reply last night at Dvk. to your truly excellent (though saddening!) note of the 11<hi rend="sup ">th</hi>. inst.—I scarcely know what I said in it—for my head was hot, &amp; mind, &amp;c &amp;c confused. (I had been working hard for outgoing Mail, which <hi rend="italic">closed there </hi>yesty. at noon!! a day (24 hours) earlier than P.M. had <hi rend="italic">previously </hi>informed me, and as was also stated in the “Bush Adv.”) But, as I was removing to this place today (at noon) for tomorrow’s Ch. duty here, I wrote.—I brought your letter hither with me; and having pretty well mastered my 2 subjects for tomorrow; I have again read it, &amp; therefore write from this place, for I find I had <hi rend="italic">failed </hi>to notice 2 or 3 things.</p>
+         <p>1. I now notice— “I leave <hi rend="italic">early</hi>
+            <hi rend="italic">next mo</hi>, so does Mr. Hamilton.—This serves to remove a load from my mind, and my non-noticing it will serve to correct much that I had said in my note of yesterday: as I had feared you (2) might be removing together—and <hi rend="underline italic">both</hi>
+            <hi rend="italic"> </hi>to <hi rend="italic">Dunedin</hi>! and as I have to come again <hi rend="italic">to this </hi>place for Sunday 22<hi rend="sup ">nd</hi>. (which I could not alter)—I have been thinking all manner of schemes—to get out <hi rend="italic">soon after </hi>to N. Now, it will be all right.</p>
+         <p>2. I <hi rend="italic">now </hi>notice:— “I shall only <hi rend="italic">be a day journey distant</hi> anyhow”!!—So, I suppose, you will anchor at <hi rend="italic">Wellington</hi>!</p>
+         <p>3. “For goodwill of local directory the Hd. will pay me” &amp;c. So, I suppose, you will discontinue your Almanac?</p>
+         <p>4. Am right glad, at— “I continue “Typo”: good; would I could help you in that serial—for sake of the Craft.</p>
+         <p>I note you are “selling shop, stock, machinery, &amp;c”—I hope <hi rend="italic">not </hi>ruinously low. I suppose you will <hi rend="italic">keep all </hi>your own priv. Library: <hi rend="italic">I </hi>hope so.—</p>
+         <p>And then your shops &amp; premises, will you be able to let them—at fair rentals, &amp; to <hi rend="italic">good </hi>tenants? (This <hi rend="italic">last </hi>is the chief millstone about my neck <hi rend="italic">at present</hi>! I sometimes fear to look ahead—i.e. as to ultimate, &amp; never expected, consequences.)</p>
+         <p>How will your dear Father take it? I mean your <hi rend="italic">absence</hi>: and then what (if any) occupation will he follow, or take up?—and your Brother, too, the Painter, on the hill?—If you <hi rend="italic">can find </hi>a spare ½ hour <hi rend="italic">do write </hi>&amp; let me know.</p>
+         <p>I left N. for “The Bush” on 13<hi rend="sup ">th</hi>. March intending to spend 1 month in that District, &amp; <hi rend="italic">here I am still</hi>! <hi rend="underline italic">3 months</hi>
+            <hi rend="italic"> </hi>expired! How deeply, how unavailingly! I regret our not meeting oftener of a night during last summer &amp; early autumn! (But the fault, if any, was my own.) Still, I had <hi rend="italic">made sure </hi>of recommencing the same about mid. of April.</p>
+         <p>Well, now, my dear friend, I do hope that your removal to a <hi rend="italic">better </hi>sphere of labour will prove highly beneficial in every sense—particularly in the removing from you that carking care which is such a destroyer of peace &amp; of life: as you say, “₤3.10.0 is not much,”—but it is <hi rend="italic">sure</hi>, and that means a great deal.—–</p>
+         <p>I have you in mind, &amp; in my poor prayers; and I do hope that under all your troubles &amp; trials you will be able to “look up,” &amp; so, being strengthened—according to your day, &amp; want,—surmount them. With kind regards</p>
+         <p>Yours very sincerely,        W. Colenso.</p>
+         <p>P.S. I suppose you saw my letter in “Herald” of 12<hi rend="sup ">th</hi>.?<note xml:id="ftn3-473" place="foot" n="473"> The Rev. W. Colenso on football. <hi rend="italic">Hawke’s Bay Herald</hi> 12 June 1890.</note>
+         </p>
+         <p>What of our Society “Reports”? If you write address, <hi rend="italic">Dvk</hi>. </p>
+         <p>You say:—a special meeting on Tuesday to consider &amp; fill up vacancies, I fear the day may be a wrong one, owing to Edn. Board Meeting.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0142">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1855 July 17: to Dixon &amp; Co.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 80-038 George Petersen papers: Colenso’s rough copy.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="organisation" key="http://wtap.vuw.ac.nz/eats/entity/72324/">Dixon &amp; Co.</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1855-07-17">1855 July 17</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1855 July 17: to Dixon &amp; Co.<note xml:id="ftn2-39" place="foot" n="39">ATL 80-038 George Petersen papers: Colenso’s rough copy.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Waitangi Ahuriri NZ<lb/>July 17/55</p>
+         <p>Messrs. R Dixon &amp; Co</p>
+         <p>Dear Sirs</p>
+         <p>Two days ago yr Letter of Mar 14/55, contg. a/c., came to hand; and as I see the steamer Nelson is advertised to leave Welling. next week for England, I lose no time in replying.—</p>
+         <p>In your Letter you tell me 3 things:—1<hi rend="sup">st</hi>. you remind me, That you have “a bal. agt. me from Augt./54 of ₤48.17.,” and that you “prefer keeping the accounts as nearly bald. as possible”:—2<hi rend="sup">nd</hi>. That my sm. order of Decr. 15/53 “was not exd. bec. it had no remit. to cover it”:—&amp; 3<hi rend="sup">rd</hi>. That you were about to send me a part of my order of Aug/54,—which (from Remitt. enclosed, ₤104., not being sufft. to cover,” and “as I say that I do not wish to get into debt” you should “reduce to bring it within the Remittance”.</p>
+         <p>Now this is all straightforwd. enough; but, under all the circumstances, it seems (to me, at least,) to be very strange if not somewhat incorrect;—and this I think I can clearly shew.—</p>
+         <p>I suppose, that, (although we have transacted business for sevl. years) I have no need to go back further than the year of my disconnection from the CMS—i.e. 1852;—&amp; particularly as I have invariably fold. <hi rend="italic">one</hi> mode of dealing.</p>
+         <p>In “June/52” you sent me Goods, amtg. to ₤129.4.0; in—Invoice of the same acknowledging Bills to Credit (previously recd.) for ₤150.19.0.</p>
+         <p>In yr next Letter, “Augt./52,” you acknowledge anor. remit. to Credit ₤38.6.6.; &amp; tell me the few goods ordd. shall “come on in 6 wks”.</p>
+         <p>In yr next, “Octr./52,” you advise me of another Remitt. by you recd. &amp; passed to my credit for ₤<hi rend="italic">50.0.0</hi> &amp; “that you hope to transmit every article ordered pr. ‘Royal Albert’ going from thence on the 20<hi rend="sup">th</hi>. or 25<hi rend="sup">th</hi>. inst.”—</p>
+         <p>In yr next, “Novr.1/52,” you tell me that “being shut out of the RA. you trust to ex. my order by the “Mah. Shah” to be got away in all that mo.”—</p>
+         <p>In yr next, (4 mos. after!) “Feby 28/53”—you inform me that “I may look for my goods by some one of Willis’ vessels to be appointed in the follg. mo.”—</p>
+         <p>In yr next, “21 March/53” you tell me the goods are coming.—</p>
+         <p>In yr next, “May 10/53” you advise me of those goods pr. “Adml. Grenfell” amtg. to ₤<hi rend="underline italic">118.9.6</hi>.—</p>
+         <p>In yr next “Apl.28/54” you thank me for Bills to Credit ₤<hi rend="italic">316.16.10</hi>—</p>
+         <p>In yr next, June/54, you advise me of goods pr “Jas Scott” amtg. to ₤<hi rend="italic">308.2.7</hi>.—</p>
+         <p>In yr next, “Augt.16/54,” you enclose an a/c <hi rend="italic">for the 1</hi>
+            <hi rend="sup italic">st</hi>
+            <hi rend="italic"> time</hi>, (tho more than once asked for by me); advisg. me of goods pr “Pudsey D.”—₤4.7.6 &amp; with sundry expenses making “₤<hi rend="italic">8.2.6</hi>”—leavg. me then indebd. to you “₤<hi rend="italic">38.15.4</hi>.”</p>
+         <p>This is now followed by yr present Letter of Mar 14/55.</p>
+         <p>The whole may be thuis briefly recapitulated from yr own figures &amp; dates</p>
+         <p>Dr WC                                        in a/c with RD. Cr.</p>
+         <p>1852                                                         1852<lb/>June for goods—        ₤129.4.0        May By Cash     ₤150.19.  6<lb/>1853<lb/>May d————        118.9.6       Aug. d——                  38.  6.  6<lb/>1854                                                           Oct.  d——                 50.  0.  0<lb/>June d————       308.2.7       1854<lb/>                                                                       April d——                 216.16.10<lb/>Augt d——&amp;c—   8.2.6 1855<lb/>                                                                       March d——         104.  9.10<lb/>[N.B. The above are the dates when the Remittances were by you <hi rend="italic">received</hi>; they were <hi rend="italic">made</hi> by me generally 6 months before. <lb/>                                                           1855<lb/>                                                               Feby. Cash—       44.  0.  0</p>
+         <p>You will also bear in mind, that my Remittance covg. Indent to you—of “Augt./54,” was made in the same mo., as that in wh. yr a/c was sent to me; &amp; wh. only reached me, here, in Jany./55; consy. at the time of my making that Remittance I knew nothing of yr a/c.—In the next mo. (Feb./55) I remitted you ₤44. to Credit, &amp; shod. (as I then told you) have sent you much more, but that I cod. only do so through paying 5 per cent for Bills—wh., from having so many heavy exps. to meet, I was unwillg. to do.</p>
+         <p>Further, my <hi rend="italic">sm.</hi> order (of “Decr.15/53”) <hi rend="italic">without a Remittance</hi> (being I think, my <hi rend="italic">only</hi>
+            <hi rend="italic">one</hi> such during 10 yrs.,) was sent as a conclusion of my 2 indents of the 1 &amp; 10<hi rend="sup">th</hi>. of <hi rend="italic">that same mo.</hi>, Decr., wh. 2 indents (by yr own shewing as above) covered ₤<hi rend="italic">316.16.10</hi>.—And <hi rend="italic">now</hi> I find (from yr Letter, of Mar.14/55) that you <hi rend="italic">had received</hi> that sm. order on “May 25/54”—a month before you shipped the goods pr “Jas Scott,”—although in yr Letter coverg. Invoice you never once allude to it.</p>
+         <p>The foregoing are facts—mostly from yr own Letters, &amp; will speak for themselves to any reasonable mercantile man.</p>
+         <p>Further still:—you state, (in yr Letter of Mar/55,) as a reason why you shall “reduce some of the things ordered by me” in my Indent Augt 22/54—my saying, that “I do not wish to get into debt.”—Now allow me to refresh yr. memory with the whole paragraph (from my Letter of Decr./53,) whence you quote my saying as above.—</p>
+         <list type="unordered">
+            <item>“As I have a few – – – – – – – – –  avoided”</item>
+         </list>
+         <p>I hope you will perceive the difference.— </p>
+         <p>Again—In yours of “Aug 16/54,” contg. a/c.—you shew me to be indebted to you “₤<hi rend="italic">38.15.4</hi>”: in yr next Letter (“Mar 14/55”) you give me anor. a/c (to <hi rend="italic">same date</hi>), shewing me to be indebted to you “₤48.17.3”; adding that “the Insurance on goods pr. “Jas Scott” (₤8.5.3) &amp; “Pudsey Dawson” (14/-) was omitted in the a/c forwd. in “Augt./54”:—wh. however is again erroneous, as I shall, also, shew by copying your own rendered a/c.—</p>
+         <p>Dr. WC.——</p>
+         <p>Now in the goods sent per “Adml Grenfell,” (May/53) you omitted charging me for 2 doz knives—as by me subsy. pointed out &amp; paid.—</p>
+         <p>—In the next goods by “Jas Scott,” (June/54) you chge me for 6 caps &amp; 5 pairs Boots not sent.—</p>
+         <p>
+            <hi rend="italic">[page(s) missing]</hi>
+         </p>
+      </body>
+   </text>
+</TEI>

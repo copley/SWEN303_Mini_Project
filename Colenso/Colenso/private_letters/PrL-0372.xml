@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0372">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1878 July 9: to von Haast</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-papers-0037-046.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9511/">von Haast</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1878-07-09">1878 July 9</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1878 July 9: to von Haast<note xml:id="ftn2-332" place="foot" n="332"> ATL MS-papers-0037-046.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, July 9, 1878.</p>
+         <p>My dear Dr. Haast,</p>
+         <p>I have to thank you for your kind, very kind and full letter of June 21<hi rend="sup ">st</hi>., it has interested me very much, and I would have immediately replied, only I was busy getting up another Paper for the (then) approaching meeting of our Institute,—which Paper I only finished on Sunday (7<hi rend="sup ">th</hi>.)—it was to have been read <hi rend="italic">last </hi>night, but the sudden change in the weather prevented our Meeting.  I had, however, determined on answering your letter (say)<hi rend="italic">this day</hi>, and so I proceed to do so. I sent you a brief telegram to let you know you were not entirely forgotten.  I have had the last vol. (x.) of “Transactions” in my hands, but have not yet read it!! the truth is, I only received 40 vols. (out of 70) and so I was obliged to carve up my fowl &amp; distribute it to the hungry waiting guests, &amp; not having enough for all, of course (as Carver) had none left for myself! never mind, the<hi rend="italic">second </hi>fowl is roasting, &amp; will be on the table presently, and <hi rend="italic">then </hi>I shall enjoy my anticipated feast.—I only just saw your large folding plate &amp; that was all.——</p>
+         <p>You ask me, <hi rend="italic">privately</hi>, my present opinion <hi rend="italic">re </hi>the antiquity of the <hi rend="italic">Moa</hi>.—whether such has been <hi rend="italic">lessened</hi>? In replying now (which I would rather not do) I would just say,—<hi rend="italic">You </hi>have<hi rend="italic"> little</hi> to <hi rend="italic">fear</hi> on <hi rend="italic">that head</hi>: keep that simple remark private for the time.—</p>
+         <p>I have commenced reading my <hi rend="italic">preparatory </hi>paper on the <hi rend="italic">Moa</hi>, which is only what <hi rend="italic">you</hi> have seen, but this I intend to supplement with <hi rend="italic">all </hi>that I have been since able to glean respecting it from every reliable quarter: not much, I fear, of a positive, but plenty of a negative, kind, as I hope you will see. I purpose my paper being <hi rend="italic">exhaustive</hi>, as far as I am concerned, for <hi rend="italic">my lamp </hi>is burning low. And w. you, I can truly say—<hi rend="italic">I have no pet theory</hi>. I only seek <hi rend="underline italic">the truth</hi>.—it <hi rend="italic">may not</hi>, however, be printed in the “Trans.”,—it <hi rend="italic">may </hi>be considered as “too bulky”; or, (in part) as “<hi rend="italic">printed before</hi>”; but if so then I shall get it published somehow. For I have <hi rend="italic">felt</hi> what Vaux said (some 2 vols. back), of Williams and Taylor being the <hi rend="italic">first</hi> discoverers &amp;c. of the Moa (published in <hi rend="italic">our own</hi> Book, too!)—and have long been determined to answer <hi rend="italic">that</hi> at least. I know that Taylor had said, something of the same kind—even <hi rend="italic">before </hi>Vaux, (which was also published in the “Trans.”,)—but Taylor <hi rend="italic">alone </hi>would never have drawn me out: poor fellow! he <hi rend="underline italic">knew</hi> too <hi rend="italic">little</hi> of any &amp; every thing connected w. the Maories,—save what he might <hi rend="italic">see</hi>, and there not <hi rend="italic">always</hi> right! Taylor <hi rend="underline italic">never knew</hi> the <hi rend="italic">language</hi>, hence he has made such a dreadful mess (in his Book) of what was collected <hi rend="italic">by others</hi> for him. Dieffenbach did just the same.</p>
+         <p>Possibly I should have been out earlier,—for 2 years ago I wrote to Dr. Hector and to Mr. Mantell about republishing in the “Trans.” what I <hi rend="italic">first </hi>wrote on the Moa. But now, that I am no longer Inspector of Schools, my time is my own—for that and for similar investigations.—</p>
+         <p>Would that the Govt. had continued me in the work of the N.Z. Lexicon, and <hi rend="italic">had aided me as was promised</hi>; that, completed, would have thrown immense light on the Maoris,—respecting <hi rend="italic">their long past</hi>! <hi rend="underline italic">I felt it growing every day</hi>, and <hi rend="italic">I rejoiced</hi>.) That work would have done more than you can well conceive, or that words can express: but that opportunity is <hi rend="italic">lost</hi>!! (Your Mr. Rolleston (as a scholar) should have aided me in that.)—</p>
+         <p>I do not think it possible for me to get my paper on the <hi rend="italic">Moa</hi> ready before <hi rend="italic">our last </hi>meeting in October; but I shall work hard at it.</p>
+         <p>Thanks for your kind offer <hi rend="italic">per </hi>Mr. Cameron of Sydney, but, at <hi rend="italic">present</hi>, I can do nothing <hi rend="italic">that way</hi>.</p>
+         <p>I wish, by &amp; bye, to take up <hi rend="italic">the N.Z. Ferns</hi>,—possibly publish (?)—and if you can help me, in obtaining and sending me some specimens, do so. I don’t care about their being dried <hi rend="italic">secundem artem</hi>,—roughly put up will do.</p>
+         <p>Shall always be glad to get a line from you, &amp; trust to be a better (boy) correspondent for the <hi rend="italic">future</hi>.</p>
+         <p>And am, My dear Sir,</p>
+         <p>Ever &amp; always truly yours</p>
+         <p>Wm Colenso.</p>
+      </body>
+   </text>
+</TEI>

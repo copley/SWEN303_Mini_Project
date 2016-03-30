@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0023">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1839 April [?day]: Octavius Hadfield to unknown recipient</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 47)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 24.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1839-04--">1839 April</date>
+                  
+               </correspAction>
+               
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1839 April [?day]: Octavius Hadfield to unknown recipient. "Fragments from the letters of Octavius Hadfield. EXTRACT NO 14."
+         </p>
+      </front>
+      <body>
+      <p>assistance, when those who profess to teach them are so mixed up with worldly things.  I assisted in administering the Lord's supper a few days ago to about 150 persons--natives and English, and my spirit was <supplied>[raised]</supplied> up to pray for the blessing of a Covenant God upon them.  The Wesleyans are doing immense evil here, and the Papists are likewise spreading their tenets far and wide, and we, O may the Lord have mercy on us, are inactive cultivating fields and vineyards.  O also may "the Lord receive His Work"!  The Rev.  <!--[blank]--> Taylor is lately come here, having left his wife at Sydney, to survey the land.  He is now gone to the Southward with the Rev. W.W.  They have been absent about four weeks; it is doubtful whether he will come here.  The C.M.S. seem surprised that they do not obtain many clergymen to join them, but I confess I am not.  The system of sending out laymen is most absurd.  The impudence and presumption of some of them is absurd.  Moreover most of them seem to have but little notion of anything but advancing their worldly fortunes and interests.  I must entirely condemn the system of buying land etc. here.  I do trust the Lord will send in a Bishop here.  I make it my constant prayer; nothing can be more absurd than the proceeding here--I will not be guided in anything by a committee of almost exclusively laymen.  It is totally contrary to Scripture and "we have no such custom within the churches of God".  I trust I shall be enabled to go to Tauranga.  The will of the Lord be done, there I should have missionary work.  The system adopted here of forming a settlement etc. etc., and having two or three families together etc. I condemn.  My views are not altered on the subject.  I likewise see the evil strongly of married missionaries.  I thank God that I am not married.  It is a fact not to be disputed that most conversions have taken place at a distance from the missionaries.  Where their daily pursuits etc. are least known, and if I go to Tauranga I purpose going by myself according to my old view
+      </p>
+   
+      </body>
+   </text>
+</TEI>

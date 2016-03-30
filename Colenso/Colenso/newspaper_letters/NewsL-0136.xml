@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0136">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1887 Mr. Colenso and the Maori Lexicon. Hawke’s Bay Herald 2 September.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1887-09-02">1887 September 2</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1887 Mr. Colenso and the Maori Lexicon.	<lb/>  
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 2 September.</hi>
+               </p>
+      </front>
+      <body>
+         <p>Under the above heading Mr Colenso writes as follows to the Wellington Post:—</p>
+         <p>Sir,—My attention has been drawn to your mention of me and of a work (the Maori Lexicon) on which I was long engaged, in the leading article of your paper of the 24th instant, and as it is wholly erroneous, I trust you will publish this letter. You say— “Take for example the compilation of the Maori Lexicon, which Mr Colenso was authorised to prepare. For many years the House voted this gentleman large sums of money, yet when in 1880 he presented the result of his labors up to date to Parliament it was found he had not got beyond the letter A. It is doubtful if he ever completed the work involved in that indefinite article. Shortly after the vote was stopped,” &amp;c. Now, the truth is this (which you there at headquarters, with Parliamentary documents, Hansards, &amp;c, &amp;c, at hand, should have known):—I commenced that work in 1886, under agreement for “seven years.” But, though continually inspected, and reported on and approved of, the Government of the day arbitrarily stopped it in March, 1870, since which time down to the present I have never received a penny from them, and during those 4¼ years that I was hard at work on it I only received £980 (net) or £230 per annum. At the late Sir D. M‘Lean’s pressing request: (he being then Native Minister) I, in 1875, sent in proposals for the carrying out of the said work, one being an offer to do so at my own expense; another to give the Government £500 to be allowed to do so. (See Parliamentary Paper of 1887, G.11, herewith,) But to all my proposals no answer was returned. In 1879 Mr Bryce, being Native Minister, stated in the House “that the work (of the Maori Lexicon) had been definitely abandoned, that the colony did not intend to proceed with it.” [Hansard, vol. xxiv., p. 611.) On my seeing this I wrote to him, again asking permission to carry it on and publish it at my own expense. This, however, was refused. Early in 1885 the Hon. Mr Ballance and the Premier took the matter up, urging me to recommence the work, &amp;c. At first I refused, time with me being past; but believing them, as they both wrote and spoke fairly, I gave way, began afresh, and worked hard at it day and night. In February, 1886, I sent in the first instalment (as stipulated) containing the letter A, in 249 pages, copied ready for press. Subsequently on my asking for payment (including all that I had done in past years from 1870, at the request of Sir D. M‘Lean, together with outlay to Maori helpers, &amp;c.)—altogether a bare £300— it was refused. And so the work was again stopped. Can you point out my errors in all this? The time will assuredly come when justice will be done to my memory by my countrymen and the colony, though I shall then be far away; and, also, the blame rightly laid. As an act of common justice, I think you should publish in your paper the Parliamentary Paper above referred to. </p>
+         <p>In conclusion, I cannot thank you for placing me in the same category with Mr John White.”</p>
+      </body>
+   </text>
+</TEI>

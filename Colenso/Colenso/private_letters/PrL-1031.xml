@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1031">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1898 January 21: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0499.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1898-01-21">1898 January 21</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1898 January 21: to Harding<note xml:id="ftn3-878" place="foot" n="878"> ATL qMS-0499.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Jany. 21<hi rend="sup ">st</hi>., 1898<lb/>(late night)</p>
+         <p>Dear Mr Harding</p>
+         <p>Last night, late, I received your kind letter of the 18<hi rend="sup ">th</hi>:—I had previously received yours of the 14<hi rend="sup ">th</hi> and I thank you for both.—</p>
+         <p>I was <hi rend="italic">pleased </hi>in knowing you had spent <hi rend="italic">such </hi>a <hi rend="italic">Happy </hi>Xmas. and New Year, and that too with your <hi rend="italic">own parents &amp; family</hi>, &amp; <hi rend="italic">all well</hi>.</p>
+         <p>This year (or <hi rend="italic">whole </hi>festive season) has been a <hi rend="italic">busy one </hi>w. me: I have been <hi rend="italic">alone </hi>and working <hi rend="italic">extra</hi>, neither knowing “holiday”—<hi rend="italic">nor</hi> seeing friends—nor using “<hi rend="italic">Xmas. </hi>fare!”—too glad—at <hi rend="italic">no one</hi> calling, at same time (or some times) <hi rend="italic">feeling </hi>lonely when fagged from sheer physical weakness.</p>
+         <p>Re <hi rend="italic">pamphlet</hi>: got D. &amp; Co. to begin on 5<hi rend="sup ">th</hi>. inst., they agreeing to carry on continuously till finished—well, <hi rend="italic">first </hi>proofs—5 <hi rend="italic">long</hi> galley slips came in—of course ivg. me <hi rend="italic">work</hi> (I find it a <hi rend="italic">toil</hi> to read copy <hi rend="italic">with </hi>proof)—revise in pp., then I objected to their double (or thick) leading, &amp; also double <hi rend="italic">that </hi>space tween pars. showing they had only 35 lines in a p. to <hi rend="italic">your </hi>40—and so I got <hi rend="italic">that </hi>altered: a fortnight elapsed, my patience nearly exhausted, but <hi rend="italic">too busy </hi>with other matters to move—this week however proofs of gy. slips for a 2<hi rend="sup ">nd</hi> sheet. Last night a letter to hand from Caversham, enquiring <hi rend="italic">re </hi>pamphlet, wanting copies, &amp; wishing <hi rend="italic">I were there</hi>, &amp;c, &amp;c!! Your friend A. Grant, will take ₤1. worth: &amp; so R. Stewart of Greymouth. I regret to say, that <hi rend="italic">Ch. of England</hi> Clerics, stand aloof in the <hi rend="italic">matter</hi>, &amp; further I have not <hi rend="italic">seen one </hi>of them since Synod (save Welsh) so, I suppose, I am <hi rend="italic">cut</hi>—for my 2 Motions!—(It is a good thing to possess a clear conscience in all such matters.)—–</p>
+         <p>2.) Early in year came proofs of <hi rend="italic">all remg. </hi>“A” Mao. Lex.—title, pref, Dedication, addendum &amp; Letter of ’75 (ptd by you): it took me by surprise, &amp; I thanked J.My. heartily for all he had done—now—for his bill of costs!—–</p>
+         <p>3.) a long &amp; good letter from Thornton, Te Aute Coll., informg. me I had been <hi rend="italic">unanmy</hi>. elected an Hony. Member of “Te Aute Students’ Association”, held at Gisborne last month, Archd. S.W. <hi rend="italic">the President present</hi>, &amp; asking If I would accept the honour (sending me with it copies of their pubs.—<hi rend="italic">well got up</hi> pamphlets, <hi rend="italic">royal </hi>8vo, of (1) constitution, formation, &amp; rules: (2) several papers, English, written by members—&amp; one by Pope, Inspr., and an account of their “<hi rend="italic">Hui</hi>” in Maori, well &amp; fully reported: 3 pamphlets, 30, 40, 60 pp.—I replied briefly, saying <hi rend="underline italic">busy</hi> (true), would read pamphlets &amp; reply;—have since read—in part—and find it <hi rend="underline italic">difficult</hi>
+            <hi rend="italic"> to decide</hi>,—but must soon do so. In some of the papers—<hi rend="italic">excellent</hi>! not even sparing Ministers, both Eng. &amp; Maori—some too <hi rend="italic">high-flown</hi>—e.g. to “proclaim King Jesus”! I cannot see How I could <hi rend="italic">aid</hi>: as I should have to be in <hi rend="underline italic">opposition</hi> to <hi rend="italic">all that High-school </hi>learning &amp; training:—and suppose, <hi rend="italic">I better decline.</hi>
+         </p>
+         <p>4) a letter from a Lady at Home<note xml:id="ftn3-879" place="foot" n="879"> Ella Mary Tindell, Misperton Hall, England; botanist and botanical artist (named by Colenso in his letter to Hooker of 16 January).</note> (who seems a regular <hi rend="italic">expert</hi>) wanting some spns. of <hi rend="italic">small </hi>Hepaticæ, named, described by me years ago, &amp; more recently criticised, &amp;c, &amp;c, by Stephani of Berlin: she, has seen <hi rend="italic">his </hi>Crypts, &amp; those at Kew, &amp; lots of others—in Museums, &amp;c.,—and says Dr. Stephani is <hi rend="italic">wrong</hi>, &amp;c.—well: <hi rend="italic">where </hi>to find the needle in bund. hay!—I have 000d’s of packets—numbered and stored away—which box—case lot? woe’s me—3–4 days toil—<hi rend="italic">arm </hi>complaining—but no help for it, I found them at last, &amp; panted, &amp; drank, &amp; was refreshed: &amp; spns. &amp; letter gone off by Mail.—–</p>
+         <p>5.) a kind Xmas. present (<hi rend="italic">new </hi>Book, val. 1 guinea) from Lady Hooker to hand, too, on 30<hi rend="sup ">th</hi>. Decr.—caused me to <hi rend="italic">no longer defer </hi>ansg. <hi rend="italic">his </hi>2 letters of Sept. &amp; October, took me a whole day &amp; more.</p>
+         <p>6.) a long letter (reply) to hand from Mr. Enys (for <hi rend="italic">many </hi>years a large sheep farmer Canterbury) now at Home in <hi rend="italic">old family </hi>mansion in Cornwall, &amp; chairman of Societies, &amp;c, &amp;c, there——well, (as <hi rend="italic">an instance</hi>—I copy from his letter, <hi rend="italic">verbatim</hi>:)—the entire par.— “I have lately purchased a copy of                     given by the author to Governor         one of the early books printed at               and as such I value it much.”</p>
+         <p>(Can you beat that?)</p>
+         <p>Yet his letter is an interesting one—at a lecture he gave he brought forward <hi rend="italic">your</hi> W.C. &amp; W. Caxton—also, all about my tinder boxes.</p>
+         <p>This last <hi rend="italic">item</hi> has caused me to write 3 letters (answers—queries numerous) to a Mr. Adams here, for his father at Dunedin.</p>
+         <p>Other letters—with plants, to be examd. &amp; named, from Canterbury—from Andrews of Whangarei College—&amp; (this night, by post) from Hutchinson of Rissington,—&amp;c, &amp;c.—<hi rend="italic">Cannot attend to all</hi>.—–</p>
+         <p>
+            <hi rend="italic">Plenty of other writing</hi>—end of year—business,—family, &amp;c, &amp;c large lot by Mail yesterday. In town this mg. on business long deferred—to &amp; fro, as usual, in trap—overcome with heat below. Crerar well (I like him). My neighbour Mrs Clarke &amp; family have <hi rend="italic">left</hi>—for good, gone to the N.—<hi rend="italic">I regret this</hi>—much: it was always a pleasure to <hi rend="italic">see them </hi>
+            <hi rend="underline italic">going by</hi> (the <hi rend="italic">only</hi> allowed ones) a reminiscence of <hi rend="underline italic">dear</hi>
+            <hi rend="italic"> Bp. Stuart.</hi>
+         </p>
+         <p>Within the last few days—2 deaths of men once <hi rend="italic">big</hi> ’mong us Gisborne &amp; J.C.R. Richmond—of course <hi rend="italic">I knew </hi>both well—the <hi rend="italic">latter </hi>too well! as <hi rend="italic">he </hi>it was who took on himself to <hi rend="italic">stop </hi>my work M. Lexn. 24 years ago! I shall <hi rend="italic">never </hi>forget our interview here in this same room where I now write this.—I suppose you knew them both.—Neale’s end too, took me (&amp; many others) by surprise: I could <hi rend="italic">not well </hi>go to the funeral, though I was long hesitating. I see, Vigor Brown &amp; Cranley, candidates for N’s. seat H. Board, &amp; Robjohns &amp; Edwards (Gas-works) for <hi rend="italic">B. Council</hi>. Had a nice letter 2 days ago from dear Mrs. Trestrail: as cheerful as ever. <hi rend="smallcaps">God</hi> be praised for His mercy &amp; love to her. A letter from Burnett, Chwdn. Wdv. asking me to take duty while Eccles absent at Xt.Ch. (Genl. Synod)—but obliged to <hi rend="italic">decline</hi>. On Sunday 2<hi rend="sup ">nd</hi>. went to St. Augustine’s &amp; helped—preaching (or attempt!) &amp; at H.C., returned <hi rend="italic">worn out</hi>. Both Minr. &amp; Congn. <hi rend="italic">wished it</hi>, as “I had done so for 5 years in succession”.</p>
+         <p>
+            <hi rend="italic">Jany. </hi>22<hi rend="sup ">nd</hi>. (late night.)</p>
+         <p>I will <hi rend="italic">try </hi>to finish my letter! a distressing day, this, from great heat, 80° here in my <hi rend="italic">cool </hi>room I have lost a day! (<hi rend="italic">again</hi>!!) tried several times to <hi rend="italic">do </hi>something but completely overcome, &amp; now in shirt sleeves. Last week during fires in <hi rend="italic">distant </hi>Bush, town filled w. smoke 2–3 days, <hi rend="italic">could not see town from hill</hi>! affected eyes very much.—–</p>
+         <p>T.C.W. sent me a copy of “Abana &amp; Pharpar”—in his truly declamatory rhodomontade style—pitching in to <hi rend="italic">all hands</hi>—sparing none! Bishops, Deans, Archdns., &amp;c &amp;c—what can <hi rend="italic">his </hi>brothers &amp; cousins think of it?—</p>
+         <p>I note what you say of Spencer, &amp; think <hi rend="underline italic">you did wrong</hi> in <hi rend="italic">lending him money</hi>—as you <hi rend="italic">had none to lend. </hi>Sp. being <hi rend="italic">deleted there</hi>, will only affect him for <hi rend="italic">that diocese</hi>, but of course, <hi rend="italic">affects his chance </hi>for another.—–</p>
+         <p>
+            <hi rend="italic">Re </hi>your stiff neck, &amp;c.—was it occasioned by a draught of wind? or, by a too stiff straight pillow? I, in <hi rend="italic">olden time</hi>—50–60 yrs ago was subject to that—<hi rend="italic">in tent</hi>—my remedy was my <hi rend="italic">sock</hi> pinned round my throat; it was effectual. Those rascally boys—are every where! we here live in constant <hi rend="italic">fear</hi> from them—for if green (or dry rubbish) on hill or in gulley is fired &amp; wind strong—this place is <hi rend="italic">doomed</hi>—we should save <hi rend="italic">nothing</hi>.—The fire in Cl. Sq. on N. Yr’s. Day, alarmed me &amp; for the <hi rend="italic">first time </hi>I walked to the brow, near old seat: fortunately wind strong from sea (N.E.) through Tennyson St. blew flames on to Sq. Colemen’s too, above me, was on fire, mid-night, they managed to subdue it. Dr. Sidey’s <hi rend="italic">old </hi>residence is being enlarged &amp; raised to 2-stories. C. Baddeley has sold his hotel, Dannevirke, to a man of Wellington—&amp; left it yesterday, Mrs. B. (mother) called on her way to her daughter in Gisborne: this will largely affect my going to Bush—as <hi rend="italic">that </hi>hotel was my Bush Home—its 2 <hi rend="italic">rooms connected below</hi>, suited me so <hi rend="italic">well</hi>: but I may never enter them again: I <hi rend="italic">cannot </hi>take up w. <hi rend="italic">new </hi>hands. Wills is here at O. Dean’s for a month (<hi rend="italic">exchange</hi>—<hi rend="underline italic">they</hi> are well suited)—W. called on me 2 days ago (<hi rend="underline italic">first time</hi>) hearing of loss by fire of Ch. &amp;c. at Makotuku—but <hi rend="italic">not for subscr. to Ch. </hi>but to <hi rend="italic">his Vicarage</hi>!!! <hi rend="italic">not burnt</hi>, nor injured, to <hi rend="underline italic">pay off old debt</hi>!! He got <hi rend="italic">nothing </hi>from me: this man has no sense of shame: he did the same some time ago <hi rend="italic">at the time of bush fires there</hi>.—–</p>
+         <p>I note what you say re yr. friend Mr. Grindon: it ever has been most pleasing to me to find that any one at Home thinks w. me—or as I do: <hi rend="italic">or conversely</hi>. I cannot help him to a single Bot. spn. <hi rend="italic">so </hi>dealt with: <hi rend="italic">I have none in order</hi> save a few ferns: of course, that is the <hi rend="italic">proper </hi>way.—–a gentleman visitor w. wife, here from N. Plymouth, came to see me, wanted a copy of “<hi rend="italic">Ruahine</hi>”, sent them to Crerar who had none left: I have since found 3 copies (no more!) &amp; sent to C.</p>
+         <p>
+            <hi rend="italic">Re </hi>myself: am still <hi rend="italic">very weak</hi> in legs; no pain, no difficulty save a rambling tottering gait, unable to continue walking, &amp; cannot manage steps: in Ch. can not kneel—<hi rend="italic">i.e.</hi> without scrambling difficulty, so I stand—Scotch fashion; fingers of rt. hand more pliable, genl. health fair but <hi rend="italic">feeling </hi>weakness, feet swelled—wear slippers down town—<hi rend="italic">too much </hi>
+            <hi rend="underline italic">alone here</hi>!—–</p>
+         <p>Here I must stop. I have a strange <hi rend="underline italic">growing</hi>
+            <hi rend="italic"> feeling </hi>that <hi rend="italic">you do not answer my letters</hi>: don’t <hi rend="italic">shirk</hi>.</p>
+         <p>With kind regards &amp; best wishes, Believe me</p>
+         <p>Yours truly,             W. Colenso.</p>
+         <p>23<hi rend="sup ">rd</hi>. ix.a.m. Last night xi.30 going to bed, thermr. upstairs 86°. ditto this mg. in parlour 82°</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0540">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1883 July 18: to Hill</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Rex Nan Kivell collection, NK4168: Australian National Library Ms 4246. p118.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/74331/">Hill</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1883-07-18">1883 July 18</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1883 July 18: to Hill<note xml:id="ftn3-191" place="foot" n="191"> Rex Nan Kivell collection, NK4168: Australian National Library Ms 4246. p118.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, July 18<hi rend="sup ">th</hi>., 1883</p>
+         <p>H.Hill, Esq<lb/>Inspector of Schools<lb/>Napier,</p>
+         <p>Dear Sir,</p>
+         <p>I cannot tell you how very much I have been interested in reading your annual Report of the Pupil Teachers’ Examination that appeared in the “Herald” this morning. I note, with pleasure those pupils of whom you have reported so highly,—especially, Oscar Alpers, Charles Laws, &amp; Margaret Morgan. I see you had suggested to the Board, that a small Book prize should be given to them,—but it is not stated that the Board had agreed to do so. Be that as it may, I wish, through you, to make them a small present, say, ₤1. each: also, to Agnes Downs of the Native Protestant School, a similar sum of ₤1.—and to those three (3<hi rend="sup ">rd</hi> year),—Robert B. Ryder, Havelock; George Garnell, Wairoa; and Eric Oatridge, Gisborne,—the sum of 10/- each: total, = ₤<hi rend="italic">5.10.0</hi>, cheque enclosed.</p>
+         <p>I leave it to you, Sir, to present the same to them either in money or in <hi rend="italic">suitable</hi> books—<hi rend="underline italic">not</hi>
+            <hi rend="italic"> sectarian ones</hi>: and you may also (if you think it better on the whole to do so,) conceal the name of the donor,—and merely say, from a friend &amp; well-wisher.—</p>
+         <p>I am,</p>
+         <p>Yours truly,</p>
+         <p>Wm. Colenso.</p>
+      </body>
+   </text>
+</TEI>

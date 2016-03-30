@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0161">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1892 The drink question . Hawke’s Bay Herald 15 March.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1892-03-15">1892 March 15</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1892 </hi>
+                  <hi rend="bold">The drink question</hi>
+                  <hi rend="bold">. 	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 15 March.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—Permit a few lines with reference to two scurrilous letters in your paper of this morning, in which my name is prominently and (I would hope) mistakenly mentioned. </p>
+         <p>1. From “A Bushman,”—but only to tell him, through you, that had he the manliness to put his name to his letter, I would reply fully thereto, I am an Englishman, and I can take no notice of “Bushrangers”—that is, of sneaking anonymous scribblers. At the same time, I think I know the writer; no true “Bushman,” but a low well-known “character” of Dannevirke town, and one of the “G.T.S.” clique.— </p>
+         <p>2. From “D.N. Adams;” who evidently had been reading and dreaming over that astounding cablegram which appeared in your columns last week, viz , that the Emperor of Germany could pulverise the Czar of Russia,—and the Czar could throw half a million of troops on the boundaries of Prussia: and so, like the frog in the fable, endeavors to imitate!</p>
+         <p>(1) I never charged temperance reformers with “lying by the hour.” But I did, and do, charge such shallow creatures and faddists as D.N. Adams and others like him—who have of late come out so conspicuously in your columns, to suit their own vagaries which they foist on the unwary as being connected with “temperance”! All such are not <hi rend="italic">true</hi> 
+                  <hi rend="italic">temperance men</hi>, (to which class I have ever belonged,)—but Rechabites, Good Templars, Blue Ribbonists, Reformed Drunkards, Prohibitionists, Local Optionists, Ascetics, &amp;c., &amp;c. Here I would say to D.N. Adams and all others of his kidney,—Fly your own proper flag,—Endeavor to act openly, manly;—Let alone <hi rend="italic">my</hi> “Temperance” Flag;—Cease being pirates. </p>
+         <p>(2) Those whom I specially mentioned in my short letter of the 10th inst., were those who <hi rend="italic">were recent writers in your paper</hi>, who “the moment they take up their fad against all drinking, are carried off their legs by its current, and ‘lie by the hour.’”—And this, I repeat, your papers bear me out in. </p>
+         <p>(3) D.N. Adams says— “Let me mention a few of these liars. The Bishop of Waiapu, Sir W. Fox, Sir H. Atkinson, the Hon. Thomas Dick, Mr Justice Ward, Mr Thomas Tanner, and nine-tenths of the clergymen of all denominations.” This is the <hi rend="italic">first</hi> time that I have heard of any one of those respected gentlemen having written in your paper on this subject. But, alas! here is another indication of ‘lying by the hour’! </p>
+         <p>(4) I pass by his “challenge” (so <hi rend="italic">apparently</hi> fair), because he does not understand the simple and first grounds of his subject; and I have little doubt of his champion being one like him. </p>
+         <p>Another word; What a pity! that the poor fellow F. Gutt, who committed suicide here in the “Temperance Hotel” on Saturday last, (as fully reported by you in your paper of this day)—that he did not commit this sad act at one of our hotels and under the influence of drink! What a dreadful loss to D.N. Adams and Co.!! And then (another reference) a telegram in your paper of this morning from Oamaru thus:— “Drunkenness is very prevalent in this town, six or eight cases coming before the magistrates almost daily.” Compare that with your own in your paper of Wednesday last, (which was one of the two subjects in my former short letter)—viz , “Dannevirke the most drunken place for its size in the colony.”—I am, &amp;c., </p>
+         <p>
+                  <hi rend="smallcaps">		W. Colenso</hi>. </p>
+         <p> Napier, March 14, 1892.</p>
+      </body>
+   </text>
+</TEI>

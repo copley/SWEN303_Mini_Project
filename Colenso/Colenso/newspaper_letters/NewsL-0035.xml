@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0035">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1860 Open column. Hawke’s Bay Herald 17 November.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1860-11-17">1860 November 17</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1860 Open column.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 17 November.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,— Just, a word or two (with your permission) in reply to your correspondent F.C. in your last: I have not room for more. <hi rend="italic">This</hi> letter of his has fully confirmed my suspicion with regard to the <hi rend="italic">animus</hi> which incites him. Proved, by his unfair and garbled quotations from my letter, and by his building on such false premises; an excellent illustration of <hi rend="italic">suppressio veri</hi> and <hi rend="italic">suggestio falsi</hi>. F.C. says,—(as from me!) “The <hi rend="italic">ture whawhai</hi> was dated January 25th, and issued at Taranaki Feb. 22nd; the “Government account” of the matter was published July 31st, or more than 6 months after the proclamation of the war! Is not the charge of neglect on the part of the Government fully proved by Mr. Colenso’s own showing?” To which I answer, NO. For, 1st, I had stated, that, “in the <hi rend="italic">Karere Maori</hi> of July 31st Mr. McLean had himself AGAIN given a clear and distinct account of the whole affair; even to the occupying of 11 closely printed pages”:—And, 2nd, F.C. ought to have known, that the Governor had given from the very outset of the Taranaki struggle a clear account of the whole sad affair; every <hi rend="italic">Karere Maori</hi>, from the beginning of the outbreak downwards, being occupied with a perspicuous statement of the same. In the February number of that serial is given not only an account of the Governor’s visit to Taranaki, &amp;c., but also, that very valuable paper of His Excellency which contains such an able and lucid statement of his Native policy, and which I had myself the honor to bring before the notice of our Provincial Council in March last. </p>
+         <p>As I view it, any further words are but wasted on such a dishonest writer as your correspondent F.C. Therefore, in taking a final leave, I would direct him to a sentence in my former reply to his 1st letter— “That a man is in common justice bound to ascertain the truth of a charge before he makes it.”</p>
+         <p>				Yours &amp;c,</p>
+         <p>
+            <hi rend="smallcaps">William Colenso. </hi>
+         </p>
+         <p> Nov. 9, 1860.</p>
+      </body>
+   </text>
+</TEI>

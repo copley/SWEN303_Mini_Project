@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0564">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1884 June 10: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1884-06-10">1884 June 10</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1884 June 10: to Balfour<note xml:id="ftn3-239" place="foot" n="239"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Tuesday night <lb/>June 10/84</p>
+         <p>Mr D.P. Balfour</p>
+         <p>My dear Sir</p>
+         <p>Your weekly mail time draws nigh, &amp; I must answer your kind letter of the 8<hi rend="sup">th</hi>, which I duly received, and was glad to see—as I always am any­thing of yours.—I suppose you will have had your share of rain, which commenced on Sat &amp; is still keeping going:—I fear, heavy floods on the low-lying lands, &amp; possibly loss of stock, &amp;c. In todays papers—2 sui­cides mentioned. I am sorry to find you have not got your copy of Vol. XVI.—I hope however you have received it before this. I had to enquire after copies for 2 country settlers. I fear they are managing matters badly, (no more than I expected). I felt annoyed, hurt, last week, in recei­ving a letter from Hamilton, informing me, that the <hi rend="italic">Council</hi> (!) had instruc­ted him to apply for the return to the library of the Vols of Flora Aus­traliensis I had!! Never before was such a letter sent to anyone! and worse still, for a short time ago, in going in to the room, I saw on the table a memo to members thus,— “<hi rend="italic">Missing</hi> from library, 3 Vols. Fl. Australs.”—­I went to Bowerman, &amp; asked who wrote it?. B said that “he &amp; Ham”. I re­plied that “H knew I had those Vols to work up my new plants—as reference: I returned, crossed out what they had written, &amp; wrote below, not missing, I had borrowed them, &amp;c. All the years that work has been in Library, I never knew a member to use it. I sent the Vols to room directly, with a note expressing my surprise at the <hi rend="italic">Council</hi> requesting, &amp;c, and, to en­quire, if I could <hi rend="italic">not</hi> be allowed the use of them, to let me know <hi rend="italic">early</hi>, that I might try to get a set from Melbourne.</p>
+         <p>I have not yet fallen-in with any member (or friend) who has been at the ord meetings. I see in “D.T.” of last week, mention of Veg Caterpillars, &amp;c. Such has been twice shown there by me. Curiously enough, when I saw that memo, I was <hi rend="italic">looking for the bulky 4to</hi>
+            <hi rend="italic">Fijian Flora</hi>, (Seemanns) &amp; found it <hi rend="italic">missing</hi>. (They had set down also, two other books that were <hi rend="italic">missing</hi>, but <hi rend="italic">not</hi> Seeman.) I went to Mrs Caulton, she knew <hi rend="italic">nothing</hi> of it. I went again to B, ditto, so I returned again &amp; entered that on same memo as missing. The next week it turned up,—H had taken it!!. Now this big fellow is one of the lot that is <hi rend="italic">not</hi> to be taken out (and so was one of the marked <hi rend="italic">missing</hi> ones)! mine were small Vols,—no plates; 100 grand ones, colour­ed in the Fijian Vol.—I fear, that after all I have done for the Scty, (to say nothing of expense:—self &amp; two sons £3.3.0.per ann, from commencement) if I am to be treated thus,—I shall not be able to stand it.</p>
+         <p>Some day send me a bit of <hi rend="italic">Lomaria alpina</hi>; no hurry. I believe I have a new <hi rend="italic">Lom</hi>. from Bush, near to L. alp.</p>
+         <p>I can nearly say, I am rid of my cold, &amp;c, <hi rend="italic">once more</hi>!. Yesterday I had a nice little letter from P.D. junior; which I was right glad to see; he tells me, he can walk as far as Shirleys; <hi rend="italic">Good news</hi>. P.D. is, as usual, <hi rend="italic">busy</hi>, H. Board, County Council, Kaiwaka, &amp;c, &amp;c, &amp;c. Poor dear fellow; he wrote me a line saying, Redcliffe is all down, so he had to go over hills to Tara­dale to catch the coach. The little book is advanced to 40 pages. If you get all our late papers, you may see some of my scribbling; unfortunately 3–4 printers errors in my letter of yesterday.<note xml:id="ftn3-240" place="foot" n="240"> Mr. Colenso on “Strongbow”. <hi rend="italic">Hawke’s Bay Herald</hi> 16 June 1884.</note> I fear—I shall not need you as second, or bottle holder!!!.</p>
+         <p>And now, with kind regards &amp; best wishes, believe me, </p>
+         <p>Yours very truly,</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0166">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1863 June 17: to ?</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-papers-0035-45. Attributed to Colenso (but perhaps written by Featherston?): the original is a draft, replete with amendments and deletions, and the handwriting is not typical of Colenso’s.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person">?</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1863-06-17">1863 June 17</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1863 June 17: to ?<note xml:id="ftn2-78" place="foot" n="78">ATL Ms-papers-0035-45. Attributed to Colenso (but perhaps written by Featherston?): the original is a draft, replete with amendments and deletions, and the handwriting is not typical of Colenso’s.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier 17 June 1863</p>
+         <p>Sir</p>
+         <p>I have received intelligence from various sources to the effect that the Waikato’s are using every endeavour to instigate the different tribes in the country to a general rising and the Town of Napier is included in their plan of attack. A flag named Maui has been brought from the Waikato and is now in the possession of the Petane Natives, the rising of this flag is to be the signal for an attack on the town of Napier. </p>
+         <p>The Waikato propose to send 100 or 200 men to aid the resident Natives and those of the Wairoa and East Cape in this undertaking.</p>
+         <p>The Petane Natives have pleaded for delay until they have more food and they are busy preparing cultivations at Maungaharuru to supply the different tribes. The Waikato urge immediate action.</p>
+         <p>I should observe that Maungaharuru is a broken range of mountains on the NE side of Hawkes bay extending inland towards the Mohaka river. And it appears to be chosen as a central place of rendezvous for the different tribes concerned in the proposed attack.</p>
+         <p>The Waikato urge speedy action in the matter. This movement has been in contemplation for a considerable time but the Natives have observed the utmost secrecy respecting it.</p>
+         <p>I enclose herewith copies of letters that have come to hand from the Waikato and Taranaki indicating to some extent the spirit of disaffection which exists among those tribes, as will be seen from the symbolical language and waiatas made use of. I have to request that care should be taken not to make the contents of those documents known to other Natives as such a course if known would prevent my obtaining further information from the Natives who have confided the contents of those to me on the understanding that they should only be used by myself as a means of putting the Europeans on their guard.</p>
+         <p>I have every confidence that the Settlers in this Province will act with proper spirit in any emergency that may arise, but considering the large force of Natives that could readily concentrate on this place I feel reluctantly bound to represent to His Excellency’s Govt. that the force now stationed here will not be sufficient to protect. At the same time I regret to say that they have not been trained to the use of arms; neither has any organization taken place by which their services could be effective in the event of any sudden raid or incursion by the northern tribes. I need scarcely allude to the fact that a great mass of the Native population in the Island are situated in the N. Eastern frontier of this Province, that the resident Natives here are connected with all the tribes from here to the East Cape, that in the event of any outbreak they would unite their forces to attack the place and by having 100 of the troops at Napier removed inland to the Waipukurau as recommended in my letter of the                              the remaining strength of the detachment here including volunteers and militia would not be sufficient to hold the place against the numbers that could be suddenly collected against it. I am therefore reluctantly compelled to apply for an additional 100 troops for defence, a request which I would not think of making in the present state of the colony did I not conceive that circumstances which are almost daily developing themselves fully justify my doing so.</p>
+         <p>Major Whitmore will no doubt communicate with you as to the steps he proposes to take with reference to the militia and I should add that it is most gratifying to have the aid and cooperation of such an able and efficient officer in the present crisis.</p>
+      </body>
+   </text>
+</TEI>

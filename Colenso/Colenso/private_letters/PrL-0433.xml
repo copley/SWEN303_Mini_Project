@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0433">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1880 November 23: to Drummond</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/13.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73880/">Drummond</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1880-11-23">1880 November 23</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1880 November 23: to Drummond<note xml:id="ftn3-65" place="foot" n="65"> ATL 88-103-1/13.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Nov 23<hi rend="sup">rd</hi> 1880</p>
+         <p>Mr John Drummond</p>
+         <p>My dear Sir</p>
+         <p>I must now (at last) reply to your kind note of the 9<hi rend="sup">th</hi>. I should have done so before only that I have been so thoroughly busy. I sent you however a paper or two last week—just to let you know I was still living &amp; had not <hi rend="italic">quite </hi>forgotten you.—</p>
+         <p>My Bush trip, this time, was well nigh spoiled by so much rain and cold. It rained on the day of my arrival, &amp; so on, on,—off &amp; on—almost every day of my stay—I was there 8 days; out of which I had only 2 fine days, one of them being the day of my coming away; Still I enjoyed <hi rend="italic">many beauties</hi>, some of which I brought away with me. (A portion of one peculiar fern—very well known to me—I just enclose; as you may not have seen it.) I reached Napier, just as I had arranged, on the night of the 1<hi rend="sup">st</hi> inst., &amp; found <hi rend="italic">lots </hi>of work awaiting me;—part of which included 20 letters, or more,—of course, I’ve had to answer them. But it was the getting ready my last Lecture (Paper) for our Society—on the evening of the 8<hi rend="sup">th</hi>,—that gave me <hi rend="italic">then </hi>additional work.</p>
+         <p>And here I may mention I have more than once thought of mentioning the matter to you—to join our Society.—The <hi rend="italic">whole </hi>expence is only ₤1.1.0. per ann, &amp; you have a noble volume of 500–600 pages with plates, every year, all written by N.Z. residents, &amp;c., &amp; very interesting, of course, on scientific subjects. If you consent, I will nominate you at our next Council Meeting, &amp; I think, aye am pretty <hi rend="italic">sure</hi>, I can easily manage your being elected. We have recently elected several new members—some 4 or more from the country nearer you, viz. Miss Wilding (Waipukurau), Tiffin <hi rend="italic">jun. </hi>(Son of Fred Tiffin) Winkelmann (Te Aute), Mrs Trestrail (Waipukurau)—&amp; then of Country members your way are Richard Harding, Hardy of Hampden, &amp;c., &amp;c.—</p>
+         <p>In the last Vol there is pretty much (more than a fair share) of my writings—some of which would interest you; the Vols are <hi rend="italic">not </hi>for sale, only for (&amp; to) Members:—think over it, &amp; let me know when you next write.—</p>
+         <p>You tell me your “Baby was christened the Sunday before last” (Letter dated 9<hi rend="sup">th</hi>)—so that, <hi rend="italic">on that </hi>day, I was much nearer to you, being at Waipukurau. I <hi rend="italic">suppose </hi>that Mr Spence performed that duty; <hi rend="italic">if so</hi>, there is another curious circumstance, for <hi rend="italic">we </hi>dined together (with a very nice man, a Dr Stewart, the Minister of Knox Church in Dunedin) at Gows,—and I <hi rend="italic">enjoyed their company</hi>, though both were strangers.—</p>
+         <p>Well, my dear Sir, I heartily wish every blessing on your boy. May God preserve and guide him well throughout life; and may he be a better &amp; wiser man than either of us; I shall now have another inducement in the autumn to draw me towards Ongaonga,—when I shall hope to find my namesake<note xml:id="ftn3-66" place="foot" n="66"> Captain William Colenso Drummond, NZ Rifle Brigade, a married mechanic of Dannevirke, died on 20 November 1918.</note> well, &amp; to (once more) try my hand at giving him a dance.—</p>
+         <p>As to Lascelles!!!—What shall I say? Surprised? No, at nothing that he, or any lawyer, may do; still, as you say, it is strange—seeing that <hi rend="italic">he </hi>drew up <hi rend="italic">that deed </hi>between you;—but did he <hi rend="italic">expect </hi>to get anything <hi rend="italic">out of you</hi>?—I think not; rather perhaps, seeing that he gained so much money from Renata for Robertson, this occurred to him <hi rend="italic">before </hi>trying it on with Robertson, out of whom (I fear) he will assuredly get it, and more;—</p>
+         <p>I hope to send you a few more papers soon; I have not yet found time to read (or to open) what I have had from England by last Mail. I suppose you see <hi rend="italic">our </hi>“<hi rend="italic">dailys</hi>”—if so, read a letter in “Herald” of yesterday signed “Tiritiri”, and also one in todays “Herald” signed “Frank W. Sidney”—both to the point; Editor wisely shuts up!!—draws in his horns!—</p>
+         <p>From the tenor of your remarks (in reply to mine on Rifle Matches &amp;c.) I fear I may have written too feelingly—but I did not intend to write against them—very far from it. Indeed I highly approve of them; for if it be a good thing to become a good shot, such can <hi rend="italic">only </hi>be attained by practice,—like everything else.</p>
+         <p>Now I must close.—And with kind regards—to self, wife, and Baby (for this last a full dozen of kisses—<hi rend="italic">Bakers Dozens </hi>mind)</p>
+         <p>Believe me</p>
+         <p>Yours very truly</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0568">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1884 July 7: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4. Letter addressed “A. Luff Esq., Post Office, Wellington”.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1884-07-07">1884 July 7</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1884 July 7: to Luff<note xml:id="ftn3-247" place="foot" n="247"> ATL MS-Copy-Micro-0485-4. Letter addressed “A. Luff Esq., Post Office, Wellington”.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, July 7<hi rend="sup">th</hi>., 1884.</p>
+         <p>Mr. A. Luff,</p>
+         <p> Wellington</p>
+         <p>My Dear Sir,</p>
+         <p>Very often of late I have had you in my mind, &amp; that from various causes; and, at last! (having got through some of my extra bother &amp; worry—for others!) I am determined to write to you.</p>
+         <p>At this moment I have your 3 letters open before me, viz.,—Apl. 19<hi rend="sup">th</hi>., Apl. 25<hi rend="sup">th</hi>. &amp; June 6<hi rend="sup">th</hi>.—I mention them all now—although you heard from me at Norsewood on May 15<hi rend="sup">th</hi>.—because I did not get those of April until my <hi rend="italic">return</hi> (May 17<hi rend="sup">th</hi>.) It was unfortunate my <hi rend="italic">not</hi> getting yours of 25<hi rend="sup">th</hi>. April earlier—as I might have managed to meet with you <hi rend="italic">once more </hi>while inland:—but as I had given directions to have all letters detained <hi rend="italic">here</hi> (seeing I was going to so <hi rend="italic">many</hi> places—5,—and not knowing exactly, <hi rend="italic">when</hi> or <hi rend="italic">how long</hi> my stay might be at any owing to weather—overloaded Coach &amp;c.) On my return from Norsewood (a very fine day, &amp; in capital health &amp; spirits) I was attacked with severe <hi rend="italic">Bronchitis</hi>, &amp; for 2, or 3, weeks, it was doubtful how it might end (&amp; even now I am feeling a little from its effects): and all that suffering &amp;c, &amp;c, was caused through the carelessness (or <hi rend="italic">worse</hi>) of 2 young women—(my only companions to town)—who got in at Waipukurau, &amp; who <hi rend="italic">would have the sash down in the dark, windy night</hi>. One thing, however, is pretty certain, that if I cannot ride better (more free from “danger”—&amp; death) in the train, I must give it up. I do not feel the <hi rend="italic">coaching</hi> journeys—I like them, even if in wind &amp; rain;—last week I called on the <hi rend="italic">new</hi> Manager of Railways <hi rend="italic">here</hi> (<hi rend="italic">MacDonald</hi>),—to see if I could make some kind of arrangement;—I had previously seen, Miller, Hankey, &amp; Carruthers, but to no purpose. MacD. says, he will give me a compartment for <hi rend="italic">£2</hi> to the Bush, by my giving him notice the day before: &amp; I suppose I must agree to this!—but, it will <hi rend="italic">lessen</hi>, of course, the no. of my journeys; &amp; so I told him.</p>
+         <p>Well: on my return (17<hi rend="sup">th</hi>. May) I found 30 letters awaiting me! and I really too unwell—even to read some of them. There is much in your <hi rend="italic">last</hi> one (the other 2 being notes of possible meeting) that I wholly agree in. Here, just now, is a big sea of commotion! in which those subjects of yours crop continually up—I mean in Election Meeting speeches (too many by half!) Correspondent’s Letters, Editorial &amp; other Articles! I am getting sick of it already: fortunately the <hi rend="italic">end</hi> is not very far off. There will be severe fighting in each of our 3 El. Districts: and at <hi rend="italic">present</hi> it is hard to say who may get in! I hope <hi rend="italic">you</hi> (as an old Napier man) see <hi rend="italic">both</hi> of our Papers. I, too, have been writing in <hi rend="italic">both</hi> of our papers—opposing (as I view it) error.<note xml:id="ftn3-248" place="foot" n="248"> The Bishopric. <hi rend="italic">Hawke’s Bay Herald</hi> 18 April 1894; The late President Carnot. <hi rend="italic">Hawke’s Bay Herald</hi> 29 June 1894; On madness. <hi rend="italic">Daily Telegraph</hi> 18 June 1884.</note> I suppose you will have seen <hi rend="italic">some</hi> of my scribbling: if I know of your not taking-in one of our 2 locals (that is, <hi rend="italic">the one)</hi> I would send it to you.</p>
+         <p>Our weather here is still very good &amp; winter <hi rend="italic">period</hi> ½ through: we had <hi rend="italic">one week</hi> of heavy continuous rain in June. Grubb is all right again (as to his ancle), &amp; is now returning officer for Napier: I see, however, very little of him now—<hi rend="italic">less than ever</hi>.—Napier is certainly looking well, several new buildings, &amp; largish ones too, going up all around. Have you read &amp; considered <hi rend="italic">all</hi> those reports &amp; counter-reports about the proposed Quay or Breakwater? I <hi rend="italic">fear</hi> that the whole scheme is far too costly, and precarious for H.B. at <hi rend="italic">present</hi>; but I say nothing to any one, having (perhaps) no friend, or no one in whom I can confide, here:—and this, sometimes, makes me <hi rend="italic">feel very lonely</hi>, and, as a matter of course, revives old dormant yet latent thoughts of <hi rend="italic">flitting</hi>! You mention money, securities &amp;c; yes, I agree with you. Small sums have been coming in to me of late, (part payments of mortgages, &amp; of sections sold w. pg. clauses, the tenants, &amp;c, having had from me the right of <hi rend="italic">so</hi> paying by degrees,) well, these I am content to Bank as T.D’s. @ 6% = 12 mths. In <hi rend="italic">this</hi> is a certainty (at least, one hopes so), in lending—even at 9%, or 10%,—there is uncertainty &amp; <hi rend="italic">bother</hi>! I am speaking from sad experience, &amp; <hi rend="italic">I </hi>am content to have <hi rend="italic">less &amp; quiet &amp; regularity</hi>.—–I do hope that our next <hi rend="italic">shearing</hi> season will be <hi rend="italic">fine-weather</hi>, &amp; that wool may rise:—or, H.B. will suffer severely.</p>
+         <p>Sutton is fat &amp; bumptious!—(but, there, you saw him lately,) &amp; S. has <hi rend="italic">enough</hi> to do at present, <hi rend="italic">vide</hi> Papers. I regret to find that the 2 papers are getting lower &amp; lower in their tirades against <hi rend="italic">their</hi> opposition Cands., especially “D.T.” of this evening, <hi rend="italic">against</hi> Capt. R., and Smith; &amp; “Herald” of Saturday on Sutton! as to this <hi rend="italic">new</hi> Jack-in-a-box—Desmond—you will, I suppose, see the “H.” of this mg.,—&amp; that will do. I don’t know him (don’t wish to,) but I fancy he may prove an <hi rend="italic">ugly customer</hi>: one of those Wat Tyler or sea-Lawyer, cheeky, fluent-tongued kind, who carries the unthinking, thoughtless crowd with him! Ultra­-Democracy may yet work the ruin of N.Z.</p>
+         <p>My little “Ruahine” book is well-advanced (to 64 pages), &amp; would have been finished by this, but for the <hi rend="italic">Election printing</hi>—for which it has been set aside till that is over. I have added considerably to it (in shape of Notes &amp; a large Appendix)—some 12–14 pages more will finish it. I hope it may please <hi rend="italic">you</hi> among a few others whom I respect,—of course there will be some carpers: I think you, &amp; others, <hi rend="italic">old hands</hi>, may be a little surprised. A good few subscribers <hi rend="italic">altogether</hi>, though I should like to see more of our old Settlers: by and by they may also (perhaps) get a copy at an <hi rend="italic">extra</hi> 1/-. I have received some good names from <hi rend="italic">outside</hi> H.B.,—as Dr. Buller, Prof. Hutton, Hon. R. Stout, Dr. Hocken, &amp;c.—also from Home.—<hi rend="italic">Your</hi> old Kirk here is being enlarged, Congn. yesterday in <hi rend="italic">Theatre</hi>. New “Anglican” Ch. at end of Edwardes St., near corner of Swan’s By. Corporation offices, not far from <hi rend="italic">your old office</hi>! Railway Station enlarged: houses erecting in flat—old water swamp—&amp; also nearly opposite Morley’s, &amp; all Newton’s corner in market, cut up for long leasing.</p>
+         <p>And now I think you are in my debt for letter writing, and w. kind regards &amp; every good wish,</p>
+         <p>Bel. me,</p>
+         <p>Yrs. truly,</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

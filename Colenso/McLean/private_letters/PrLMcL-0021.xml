@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0021">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1868 August 6: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1022118</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>Encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1868-08-06">1868 August 6</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1868 August 6 McLean to Colenso (#1022118) </p>
+		</front>
+		<body>
+			<p>6 August 1868 </p>
+			<p>My dear Sir </p>
+			<p>I duly received your letter of the 31 ult. in reference to the state of the natives at Hawkes Bay and I feel very much obliged to you for writing it as this is really a most anxious time. What with a declining revenue, meetings held at Canterbury to discontinue aid to North Island and difficulty of getting aid from the Assembly, troops leaving, we seem to be in a very critical position. </p>
+			<p>I should be glad if you would give a word of encouragement to our own natives. After all they have not much to complain of, debts of course they incur and some from present depression are compelled to give up the lands leased from them at such high rates but still the position of our natives is comparatively good. The attempts made to get them involved in debt is the worst feature especially when the money is spent as a great proportion of it is in the purchase of ardent spirits. </p>
+			<p>Tariha and Mete made a very good appearance in the House the night before last. </p>
+			<p>I remain </p>
+			<p>Yours <!--correction to eColenso typo supplied by Ian St G, 20.11.15--> very truly </p>
+			<p>Donald McLean </p>
+		</body>
+	</text>
+</TEI>

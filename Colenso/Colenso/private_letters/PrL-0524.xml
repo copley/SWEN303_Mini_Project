@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0524">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1883 January 4: to Hector</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Museum of New Zealand—Te Papa Tongarewa MU000094/006/0240</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">Hector</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1883-01-04">1883 January 4</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1883 January 4: to Hector<note xml:id="ftn3-171" place="foot" n="171"> Museum of New Zealand—Te Papa Tongarewa MU000094/006/0240 </note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Jany. 4/83</p>
+         <p>Dr. Hector,</p>
+         <p>Dear Sir,</p>
+         <p>I have the honour to inform you that I have just finished putting-up for you two parcels of dried plants, which will accompany this per Mail; these specimens correspond with the Mss. of them I sent to you last month: viz.—<lb/>Cyathea tricolor: and in the separate parcel 2 stipes.)<lb/>Dicksonia gracilis.<lb/>Hymenophyllum megalocarpum.<lb/>Asplenium anomodum. (?)<lb/>Carmichælia corrugata: (a scrap only).<lb/>Loranthus punctatus.<lb/>Olearia marginata: (a scrap only).<lb/>Veronica trisepala.<lb/>Gunnera strihosa.<lb/>Earina quadrilobata.<lb/>Dendrobium Lessonii, (of <hi rend="italic">this </hi>I can send some flowers in spirits, if desired, as I have a lot so put up fro Kew).<lb/>Astelia fragrans.<lb/>Cordyline Sturmii.<lb/>C.——— diffusa.<lb/>Libertia orbicularis.<lb/>Uncinia horizontalis.<lb/>U.——  alopecuroides.<lb/>Carex spinirostrus.<lb/>Symphogyna ?biflorum.<lb/>Monoclea Hookeri.</p>
+         <p>I regret that of two species (<hi rend="italic">Carmichælia </hi>and<hi rend="italic">Olearia</hi>) I can only send the merest scraps; these two however are from Blenheim, and though I had the opportunity of examining more, the Collector (unfortunately) has preserved but a very few specimens of each kind.—</p>
+         <p>The specimens would have been forwarded earlier, only I had to go a second time t the forests in December to procure some in full flower, (<hi rend="italic">Cordelyne, Dendrobium</hi>, &amp;c.,) hence the delay. The very thick and succulent <hi rend="italic">Astelia</hi>, also, collected in November during a fortnight’s rain, got mouldy in spite of all my efforts, and is therefore, though perfect, not in so nice a state as I could wish.—</p>
+         <p>     I have the honour to be,</p>
+         <p>                     Sir,</p>
+         <p>             Your mo. ob. servt.,</p>
+         <p>                     Wm. Colenso.</p>
+         <p>                             Hon. Secy., <lb/>                               H. B. Phil. Inst.</p>
+         <p>P.S. Please <hi rend="italic">note</hi>, that two of the specimens marked in the margin <hi rend="italic">may not </hi>have the <hi rend="italic">specific </hi>name given in this List,—as I know I altered them after drawing up the description, and I have not kept any note of it,—or, if I did, have mislaid it.               W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

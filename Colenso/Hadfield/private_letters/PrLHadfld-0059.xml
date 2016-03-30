@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0059">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1846 September 10: Octavius Hadfield to his sister Amelia</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  "Letter 20."  Page 144.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 1.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1846-09-10">1846 September 10</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71117/">Amelia Hadfield (daughter of Amelia Caroline Hadfield, nee White)</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1846 September 10: Octavius Hadfield to his sister Amelia</p>
+      </front>
+      <body>
+      <p>Wellington NZ</p>
+      <p>Sept. 10 1846</p>
+      <p>My dear Amelia</p>
+      <p>I Had<!--sic--> the pleasure of receiving your kind letter of March 13th. a few days ago.  Many thanks for it.  I was glad to learn that you were all tolerably well, &amp; especially that my parents had borne the winter well. I forget whether I acknowledged in my letter of last month the receipt of Octavia's letter of January, It was very interesting.  </p>
+      <p>I was sorry to hear that Alexander was to return to India so soon.  I hope however that his health had sufficiently recovered to enable him to do so without incurring much discomfort.  The successive engagements in the Punjab from Dec. to Feb. have been very severe.  I have, however seldom read of battles with so little pain, as the forbearance of Sir. H. Hardinge was certainly carried to the greatest extent.  War certainly is at times, as human beings &amp; human society are now constituted as necessary as milder measures are in ordinary circumstances.  So stubborn &amp; depraved are men, that it is only after an appeal to brute force that they will be content to learn wisdom &amp; live at peace, cultivating those arts &amp; sciences - that religion &amp; morality, which tends to their real advancement.  It is impossible to take a review of the history of Europe since the downfall of the Roman Empire &amp; not be struck with this fact.  But civilised &amp; christian nations ought by this time to have learnt to adjust their differences on rational principles; however necessary war may still be in Asia.  I have my hopes that the rough discipline India is undergoing, is intended by the Wise Ruler of the world to prepare it for christianity.  Various as are the opinions entertained on these subjects, I am rather dogmatical in my own, namely, that it is almost supposing a contradiction, to suppose that christianity can make any progress in a country till law &amp; order exist, &amp; the national mind &amp; standard of morality are sufficiently raised, to ensure for its beautiful principles sufficient respect; otherwise it is literally "casting pearls before swine".  I should be prepared to support this position "a priori" from an abstract consideration of human nature, but this is not necessary, facts attest to its truth.  The only scriptural account we have of the establishment of christianity, is its establishment in civilised countries: the accounts that have been handed down to us of its propagation in various barbarous countries are vague. and there are certainly no surviving indications of their truth.  Again if we look at the propagation of the gospel among the barbarous nations of Europe, we shall find that it universally became degraded to suit the national standard of morality; and only in a slight degree affected the national manners.  I have been led to reflect on these subjects since I have been in this country, because I have found it the prevailing opinion, among those whose opinion on religious subjects I respected, that the establishment of a government in this country, &amp; the introduction of civilisation were prejudicial to the natives, and tended to obstruct their advancement in christianity.  Some persons' minds are so constituted that they seem unable to separate what is purely accidental from what is essential, with these it is useless to argue: because there are evils attendant on civilisation, they oppose civilisation itself,- because government appears at times to act harshly, they seem to prefer what must lead only to anarchy.  If men expect unmixed good in any human institutions, they will find it only in Utopia!</p>
+      <p>I cannot but rejoice at the advancement of public opinion on the subject of free trade, not because I would, with the vulgar political economists, sacrifice everything for the sake of national wealth, but because I am convinced that it will tend to break down the barriers of national prejudice, &amp; thus promote feelings of benevolence among mankind, which will render wards more uncommon than they have hitherto been.  May we look forward to the time when the relations of the various nations of the earth may be those of brethren, not founded only <supplied>[on]</supplied> the precarious basis of mutual interest, but on the lasting foundation of an eternal union in Christ!  I am afraid I have been letting my pen run on at random, forgetting that I have hitherto said nothing about matters here: but the remarks which I have already made may apply here.  We have had war,- but war inevitable from the disposition of a savage Te Rangihaeata.  I cannot say that it is ended, though I think the worst is over.  It has at least had the good effect of manifesting most unequivocally, the good feeling that exists in the natives of this part of the country.  It is highly gratifying to me to perceive that those who have been brought to appreciate christianity through my instrumentality have stood firm in the hour of trial, &amp; have not only surpassed my most sanguine expectations, but have quite astonished the Governor, &amp; all those likewise who had previously, from ignorance, undervalued the improvement that has taken place among them.  Since I last wrote the Governor was at Waikanae on a Sunday.  On his return he came to see me &amp; to relate the effect produced on his mind by what he had seen.  He stated most positively that he had never witnessed anything so gratifying in his life, &amp; he very much doubted whether another instance could be produced when so beneficial a change had been effected in so short a time.  I am afraid I have never sufficiently detailed or even represented to you, the good effects which have been produced by christianity here.  But a missionary while engaged in his work, always has so much to humble him, that he almost feels afraid to speak of any result of his labours in such a manner as to lead those at a distance to imagine he has done good, lest he should appear to glory.  There is one young man who constantly attended my instructions from my first arrival at Waikanae; his name is Levi Te aAhu<!--sic.  Could this be the following man listed in The Blain Biographical Directory of Anglican Clergy in the Pacific at http://www.kinderlibrary.ac.nz/all-things-anglican/Anglican-Research-Resources.aspx ?: TE AHU, RIWAI (LEVI) 
+      born  c1820  Waitara	
+      baptised	1840 Waikanae  (by  HADFIELD  O)
+      died  01  Oct  1866  age  47
+      buried  11  Oct  1866  Otaki;	
+      of  Ngatiawa  tribe,  Ngatikura  hapu  (in  Taranaki),  and  links  with  Chatham	islands
+      son  of  Tuhoe  of  Waiongana  Taranaki and  Waipuia  of  Waitara
+      married  (i)  1842, Heni  ROHIA; married  (ii)1851, Mata  TE  MATAMATA (272;WNL)
+      Education 1853	taken by	 GA	SELWYN	to	Auckland; with Rota	  WAITOA Oct	  1853	-­‐ 23 Sep	 1855	resided	  S	Stephen	  school Taurarua,  under	  KISSLING	 G,	 Sir	 William  MARTIN 1855	 College	  of  S	 John	  Evangelist  Auckland	
+      23	   Sep	   1855	  deacon New  Zealand	  (S	  Paul	  church)	 (2nd Māori   deacon)	  (272)	
+  
+Positions
+c1841	
+  
+-­‐
+1853	
+  catechist	
+  and	
+  native	
+  teacher	
+  CMS	
+  mission	
+  Waikanae	
+  (140)
+27	
+  Sep	
+  1855	
+  pastoral	
+  visit	
+  (with	
+  SELWYN	
+  GA	
+  and	
+  PATTESON	
+  JC)	
+  to	
+  the	
+  Chatham	
+  islands	
+  and	
+  South	
+  Island	
+  
+1856	
+  deacon	
+  for	
+  Waitara	
+  district	
+  Taranaki	
+  (253)	
+  
+17	
+  Nov	
+  1856	
+  departed	
+  Taranaki	
+  with	
+  Bishop	
+  GA	
+  SELWYN,	
+  landed	
+  at	
+  Whanganui	
+  
+11	
+  Jul	
+  1859	
+  licensed	
+  (assistant	
+  to	
+  HADFIELD	
+  O)	
+  native	
+  minister	
+  Otaki	
+  (SPG	
+  funded)	
+  (47;242)
+Oct	
+  1859	
+  member	
+  1
+st
+synod	
+  diocese	
+  Welli
+ngton	
+  (89)
+Feb	
+  1862	
+  member	
+  2
+nd
+general	
+  synod	
+  Nelson	
+  but	
+  did	
+  not	
+  take	
+  his	
+  seat
+Other
+converted	
+  through	
+  MATATUA	
+  to	
+  the	
+  Christian	
+  faith	
+  
+Dec	
+  1896	
+  p796	
+  article	
+  by	
+  HADFIELD	
+  O	
+  (-->, I may have mentioned him before.  He perfectly astonished all those who are able to appreciate such a character.  I confess I never saw a young man of any nation who combined every good and amiable quality with so much intelligence &amp; energy as he does.  He is beloved and respected by those settlers who know him, &amp; by all the natives of this district.  The Governor attended service at Waikanae, and as Mr. Govett was absent, Levi read prayers etc., there were about 500 natives present.  He represented it as the most delightful thing he had ever seen.  He saw that they had no means of regulating the hour for church service, &amp; so he took off his own watch &amp; gave it to Levi, he also gave him a beautiful writing desk: afterwards, finding that they had grown more wheat than they were able to grind, he sent them six good steel-mills, and then promised in the course of three months to go and stay a week with them to see how he could benefit them.  He has behaved in the kindest manner to me, listening to every suggestion I make, &amp; thanking me most strongly for the information &amp; advice which my residence in this country had enabled me to give him moreover confessing most frankly that I had kept him from falling into errors by correcting the misrepresentations of parties here, on his first arrival.  I thank God that I have been enabled by Him to be useful for a few years, though very unprofitable during the greatest number.  May I, during the remaining days I may have here, be growing in humility &amp; love to God in Christ.</p>
+      <p>My dear friends here continue to attend on me with their usual kindness: they are indeed delightful persons.  I am very glad that my dear Mother &amp; George, have written to them.  Mr. St.Hill has just received a letter from his father who had gone to Ventnor in March last to take a sick daughter there.  I do hope that you have heard that they were there, &amp; were enabled to show them some attention.  Excuse this tiresome long letter.  I often think of all old friends.  Give my kindest love to all, and Believe me ever</p>
+      <p>Your very affectionate brother.
+      </p>
+      <p>Octavius Hadfield.</p>
+      </body>
+   </text>
+</TEI>

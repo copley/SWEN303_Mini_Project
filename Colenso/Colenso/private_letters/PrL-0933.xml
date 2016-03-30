@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0933">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1895 April 19: to Olsen</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Private collection Joan Fitzmaurice.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75364/">Olsen</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1895-04-19">1895 April 19</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1895 April 19: to Olsen<note xml:id="ftn3-736" place="foot" n="736"> Private collection Joan Fitzmaurice.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, April 19<hi rend="sup ">th</hi>,<lb/>1895.</p>
+         <p>Mr. A. Olsen,<lb/>Norsewood,</p>
+         <p>Dear Sir.</p>
+         <p>Last night I received your kind note of the 17<hi rend="sup ">th</hi>., with the little lot of specimens, and thank you for both: and, as you, also, mention a <hi rend="italic">former </hi>letter, which I have <hi rend="italic">not </hi>answered, I write to you at once.</p>
+         <p>And, first, that <hi rend="italic">former letter</hi> of March 25<hi rend="sup ">th</hi>. I was at Dannevirke then, (having gone there on the 22<hi rend="sup ">nd</hi>., to take Church duty there on the 24<hi rend="sup ">th</hi>., so that Mr. Robertshawe, might be able to visit the far-off Weber District,) and on the Tuesday following, 26<hi rend="sup ">th</hi>. I went to Woodville to see poor dear Mrs. Jones, and her family, (Her husband, W. Jones, having died suddenly.) You must know him well, as for many years he drove the Coach through Norsewood, and Mrs. Jones, too, is one of your people. I staid at Woodville 2–3 days, and by-and-by I got your letter, sent up from Napier, but, as it was an answer to mine with the 2 books, and as I intended to write soon to you from this place, when I should fix my day for again visiting you, I did not answer it, but brought it on with me.—I thank your good wife for her kind and loving invitation, and, all being well, I shall be sure to call on you <hi rend="italic">soon</hi>, but when I can fix my day, I will write and let you know.—–</p>
+         <p>And now for this <hi rend="italic">last </hi>letter of yours. I was thinking much on you at Easter, supposing you had heavy rain there, as we had here, and also further south.—I hope these rains are over for this autumn season: much damage having been done.</p>
+         <p>I am pleased with your lot of plants: some, I know, having gathered them on Ruahine; <hi rend="italic">two</hi>, I believe, are new: the <hi rend="italic">Dracophyllum</hi>, and the white-berried <hi rend="italic">Coprosma</hi>, but, unfortunately, <hi rend="italic">none </hi>are in <hi rend="italic">flower</hi>, I wish they were, but the flowering season is from December to February.—I can give you the names of some of them, only, you should have <hi rend="italic">numbered </hi>them, so as to save much writing. 1. The scrap of <hi rend="italic">Totara</hi> is, I think, <hi rend="italic">T. Cunninghami</hi>, (see my Ruahine book, page 58,) but flowers are wanted. 2. The <hi rend="italic">Panax</hi>
+            <hi rend="italic">may </hi>be <hi rend="italic">P. simplex</hi>, of Forster:—very common in the <hi rend="italic">S. Island</hi>.—<lb/>3. The Composite plant, with dry<hi rend="italic">old </hi>white hairy seeds, and with its leaves eaten by some insect, is, I think, <hi rend="italic">Senecio glastifolius</hi>. 4. The dark-leaved plant with big red berries is a species of <hi rend="italic">Alseuosmia</hi>, but I need <hi rend="italic">flowers</hi> to decide:—I found small shrubs, 10–12–14 inches high near Norsewood, at the bottom of a side track to the <hi rend="italic">left</hi> of the Coach-road, where it makes the first turn down the hill to the bridge, near a place where that man who built his house near the river cut his shingles for his roof. I brought away some living plants, single stems, 10 inches high, and they flowered here with me the next year, and I described them as <hi rend="italic">A. pusilla</hi>: yours however are <hi rend="italic">larger</hi>, and <hi rend="italic">may </hi>be different. Mr. Hill also found some in the woods near the East Cape.</p>
+         <p>Again I thank you for your kind letter—I will write to Othenius next time.</p>
+         <p>   Kind regards, Yours truly,              W. Colenso.</p>
+         <p>P.S. Thank <hi rend="smallcaps">God</hi>, the Giver of all good—I am keeping well.—–</p>
+      </body>
+   </text>
+</TEI>

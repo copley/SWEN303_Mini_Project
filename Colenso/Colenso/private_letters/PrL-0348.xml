@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0348">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1877 November 4: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4. Letter addressed to “A. Luff Esq., 135 East India Road, Poplar, London”.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1877-11-04">1877 November 4</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1877 November 4: to Luff<note xml:id="ftn2-296" place="foot" n="296"> ATL MS-Copy-Micro-0485-4.<hi rend="italic"> </hi>Letter addressed to “A. Luff Esq., 135 East India Road, Poplar, London”.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, N. Zealand <lb/>Novr. 4th. 1877 .</p>
+         <p>A. Luff Esq.,</p>
+         <p>My Dear Sir,</p>
+         <p>I little thought when I closed my last to you (Octr. 20th.) I should be writing to you again <hi rend="italic">so early</hi>! I had on that day returned from Wairoa, and I have not been out since! save just over the door-step for 2 or 3 times. I must have caught a dreadful cold—w. <hi rend="italic">severe harrassing</hi> cough, and very bad (fiery red) eyes; and I am only now really rallying; and hope to go to town tomorrow.</p>
+         <p>But I write to you now, in this letter, on <hi rend="italic">one</hi> matter of <hi rend="italic">business</hi> only, viz. the Books (Linnean Society’s publications) shipped for me by Dixon &amp; Co. per “Helen Denny” having lately found out a sad mistake. And this (I may say) by chance, for had I not been too unwell to go out, (I had said to my man James, on receiving the case, “Leave it there till after Christmas, when I hope to have leisure”), I should not have discover­ed it. However, we have opened the case, and I find that while I have <hi rend="italic">all</hi> the <hi rend="italic">small</hi> publications of the L. Society, the <hi rend="italic">large</hi> ones I have <hi rend="italic">not</hi> got: only 2 parts of a vol. issued in the year ’69!—</p>
+         <p>And here I should tell you that the L. Society publishes 2 sets of works:—1. a <hi rend="italic">small</hi> monthly publication (“<hi rend="italic">Journal</hi>”), selling price 2/-,—and 2. a <hi rend="italic">large</hi> magnificent quarto, w. many copper-plates (“Trans­actions”)—which is published irregularly, that is 2, or 3, or 4 parts in a year, and each <hi rend="italic">part</hi> from £1 to £2.10: so you may easily perceive the great difference between them; and the <hi rend="italic">larger work</hi> I particularly wanted.</p>
+         <p>Now in this lot, just to hand, I have <hi rend="underline italic">all</hi>
+            <hi rend="italic"> the </hi>
+            <hi rend="underline italic">small</hi>
+            <hi rend="italic"> monthly numbers from early ’69 down to Feby. ’77,</hi>
+            <hi rend="italic">regular &amp; quite complete. While of the large 4to. work</hi> I have only 2 parts (and these not quite consecutive) which were published in ’69, <hi rend="italic">viz. vol xxvi. part 3, and vol. xxvii. part 1</hi>: so that all from that time, ’69, are wanting. And then the next question is, where can they possibly be? Left behind in Dixon &amp; Co’s. warehouse? Of this I am not by any means sure,—&amp; here I must tell you of the regulations of the Society, <hi rend="italic">viz</hi>. that they <hi rend="italic">send out</hi> the smaller work, but the larger one they <hi rend="italic">never</hi> do—it <hi rend="italic">must</hi> be <hi rend="italic">fetched</hi> from the Society’s house and a receipt for it given &amp; filed:—Of <hi rend="underline italic">this regulation I informed D. &amp; Co. in ’65</hi>, when I gave them the necessary authority to receive &amp; <hi rend="italic">fetch</hi> those works for me; at the same time sending the <hi rend="italic">requisite authority</hi> to the Librarian at Burlington House to deliver them to D. &amp; Co. And note, further, that every <hi rend="italic">monthly</hi> packet is carefully put up in a white wrapper addressed to me <hi rend="italic">care of Messrs. Dixon &amp; Co</hi>. (showing that it was <hi rend="italic">sent</hi>) while the Transactions are <hi rend="italic">not</hi> so, but are put up in stout brown paper with only my name on them &amp; <hi rend="italic">nothing else</hi>, evidencing (I think) their having been <hi rend="italic">fetched</hi>. </p>
+         <p>And now comes the question, Where are the missing parts? Did Dixon &amp; Co. <hi rend="italic">continue</hi> to <hi rend="italic">send</hi> for them, as before; or did they <hi rend="italic">omit</hi> doing so? If they <hi rend="italic">fetched them</hi>, then they have them still, I suppose; but if not they are not, then they are at the Society’s House.</p>
+         <p>And then comes another <hi rend="italic">bother</hi>! I <hi rend="italic">see</hi>, among their bye-laws (just to hand) one to this effect,—<hi rend="italic">that all publications not fetched within 5 years are forfeited</hi>!! (still, it is added, their Council <hi rend="italic">can alter</hi> this in particular cases).—</p>
+         <p>However, to meet all exigencies (as far as I can), I shall enclose 2 notes:—one to Dixon &amp; Co and one to the Librarian at Burlington House—to be used by you <hi rend="italic">if needed</hi>. I shall also write to my old friend, Dr. Hooker of Kew, by this Mail, about it,—as he has great influence w. the Society, having been elected President several times.</p>
+         <p>There are still 2 or 3 peculiarities about those wanting parts of the Lin. “Transactions”.</p>
+         <p>1. Seeing that they are published <hi rend="italic">irregular­ly</hi>, I do not know how Messrs. Dixon &amp; Co. could know <hi rend="italic">when</hi> to send for them: and, possibly, when they did send, they might only, perhaps, receive a copy of the part then <hi rend="italic">last</hi> published,—although 2, or more, might have been printed since the former part was fetched by them.</p>
+         <p>2. Now in the lot which D. &amp; Co. sent me in ’69,—I had vol. xxvi. part 2, (the <hi rend="italic">last</hi> part then received,) but I had <hi rend="italic">not</hi> part 1, of <hi rend="italic">that vol</hi>., which, too, was a bulky one, price £2.2.0 (<hi rend="italic">this</hi> is still wanting,)—while, in this <hi rend="italic">last</hi> lot, part 4 of vol. xxvii. was <hi rend="italic">not yet printed</hi> when part 1 of vol. xxvii. was issued; so that of vol. xxvi. I want parts 1 and 4: and, of course, all parts from vol. xxvii. part 1 (which I have) downwards to the present time.—</p>
+         <p>3. I may also mention that, as the smaller Books were always put up in <hi rend="italic">white</hi>, (or whitish) covers, &amp; therefore readily distinguished in a London warehouse,—the larger ones were in common <hi rend="italic">brown</hi> paper, hence a possibility of these having been overlooked in the packing of the case, but I doubt this.</p>
+         <p>I wrote both to Dixon &amp; Co., and to the officers of the Linn. Society <hi rend="italic">from Wellington</hi>, when there in ’65 (Parliament!) and I have had a regular hunt to ­find their letters (recd. by me there) and my <hi rend="italic">answers</hi>: fortunately I have <hi rend="italic">found</hi> them <hi rend="italic">all</hi>.</p>
+         <p>I have little or no fear of the large lot missing (from the last part <hi rend="italic">now</hi> received xxvii/1.) turning-up all right, but there <hi rend="italic">may</hi> be a back part missing (<hi rend="italic">viz</hi>. vol. xxvii part 1),—if so, then I shall get you to buy it for me (to complete the set) from the Librarian at the price to “<hi rend="italic">Fellows,</hi>”—which for <hi rend="italic">that</hi> part, I see, is £<hi rend="italic">1.11.6</hi>. I shall also mention this in my note to the Librarian.—</p>
+         <p>Of course you can, <hi rend="italic">after</hi> seeing Dixon &amp; Co., <hi rend="italic">either</hi> call with my note, or send it on, and stating when you will call on him; use your own judgment on this matter. I hope if you go thither you will see the Museum, Library, &amp;c. and <hi rend="italic">report</hi> accordingly.—</p>
+         <p>I expect you will also have to make some definite arrangement for the <hi rend="italic">future</hi> with Messrs. Dixon &amp; Co., about the <hi rend="italic">sending for those “Transactions”</hi>: I, of course, paying for their doing so.</p>
+         <p>Hoping you are well,</p>
+         <p>I am, my dear Sir,.</p>
+         <p>Yours truly,</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

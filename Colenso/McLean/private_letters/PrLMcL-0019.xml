@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0019">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1867 November 8: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1014955</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>Encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1867-11-08">1867 November 8</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1867 November 8 McLean to Colenso (#1014955) </p>
+		</front>
+		<body>
+			<p>My dear Sir, </p>
+			<p>I have some Piripiri growing in my coast run at Akitio and I am endeavouring to find out what kind of grass or clover will be the best to conquer it. From your knowledge of botany I daresay you would be able to tell me. </p>
+			<p>In consequence of the burr I was compelled to shear very early this year which causes a loss in the weight of wool. I am told Nairn’s run is very bad with it. </p>
+			<p>I remain </p>
+			<p>yours very truly </p>
+			<p>Donald Maclean </p>
+			<p>8 Novr. 1867. </p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0632">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1886 August 31: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1886-08-31">1886 August 31</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1886 August 31: to Balfour<note xml:id="ftn3-352" place="foot" n="352"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">NAPIER AUGUST 31/86</p>
+         <p>Mr D.P. Balfour<lb/>Glenross</p>
+         <p>My dear Sir</p>
+         <p>Your kind—long looked for—and very welcome letter of 29<hi rend="sup ">th</hi>. came to hand last night. Of course, from the state of them, <hi rend="italic">here</hi>, and from the sad appearance of the high <hi rend="italic">plains</hi> &amp; nearer hills, that you were <hi rend="italic">doubly</hi> busy saving life, and I often thought of you, &amp; your worry and care, and now I am glad to hear of your loss not being heavier. It was the <hi rend="italic">coldest</hi> portion of 86 to me, and that with winter season passed.</p>
+         <p>First, I must thank you for the <hi rend="italic">Drosera</hi> plants, they arrived in good condition, and I soon despatched to Dr, who was very glad to get them, and has thanked you heartily for them; he is desirous of carrying our Darwins Experiments.</p>
+         <p>Your 2 little <hi rend="italic">Hepatica</hi> spns, in this letter of yours, I know pretty well—that is (at least their Genera; the smaller one is a <hi rend="italic">Radula</hi>, of which there are several species described, and perhaps this one among them; the larger is a <hi rend="italic">Madotheca</hi> (next genus in sequence to <hi rend="italic">Radula</hi> and I believe it is identical with one I last month drew up a description of for my paper (which I have named <hi rend="italic">M. latifolia</hi>—it is however very near to <hi rend="italic">M. Stangeri</hi>,which is also very variable; I shall, I hope, know in a few days. <hi rend="italic">M. Stangeri</hi> is a lovely plant when found in luxuriant growth and <hi rend="italic">wet</hi>—after rains. Both of these Genera, are very troublesome fellows to exam, &amp; work up.</p>
+         <p>I am pleased to know you got your Vol XVIII. I have noticed a <hi rend="italic">few</hi> errors in my papers—one just now, at p.259 line, “Obs” <hi rend="italic">new</hi> for <hi rend="italic">near</hi>; and on opposite page, a stop required after <hi rend="italic">P. amoena</hi> (which now is one word). You will also have noticed, 2 whole pages, <hi rend="italic">one little wee Hepatica</hi>—pp 286, 287; that plant cost me almost a weeks labour;—.</p>
+         <p>You did right in keeping “Nature”, I have another copy. I have also lately received a coloured plate of a fine and curious and <hi rend="italic">very scarce</hi> N.Z. plant—“Colensoa”—which I would like for you to <hi rend="italic">see</hi>, &amp; <hi rend="italic">return</hi>—I must find out a means, somehow; I have only met with it in one spot, near Whangaroa, N. of Bay of Islands.</p>
+         <p>You are right <hi rend="italic">re</hi> your remark on Dr H &amp; Co &amp; the rejected papers;—. I suppose you noticed how nicely (tenderly yet keenly) the Ed of “Nature” touched on that point; I am sorry that the Dr has never made any advance to meet me, since I wrote to him from the Bush, saying if he were not too busy I should like to write him a letter (wishing not only to renew correspondence, <hi rend="italic">but to go on with my Hawaiki papers</hi>)—after some time <hi rend="italic">Gore</hi> wrote to me, saying Dr had gone S, (<hi rend="italic">just then gone</hi>), and that if I would write to him, G, he would hand over on his return,—I did not reply.</p>
+         <p>Another thing I am sorry for, is the Gov have not made any reply to my letter to them of July—<hi rend="italic">re</hi> Lex.</p>
+         <p>I send you a paper, (E.N.) with this. I had however previously seen in the Lond “Standard”, that about the Scotch Sabbath.</p>
+         <p>Reading over what I have here written, it occurs to me to say, that that very Review in Nature (seems that serial is the tip top one of our scientific ones) may have served to help me to my fellowship with the Royal. See how things come about. The editor of Nature has several times noted <hi rend="italic">well</hi> my papers in transactions N.Z. &amp; particularly those on Maori matters in past volumes—one particularly on their vegetable food and cultivation was also taken up by others.</p>
+         <p>You say “I miss all those nice meetings, through being so far away. But still I often have my own <hi rend="italic">meetings</hi> all by myself in some solitary gulley, where I can meet and converse with my Maker far from the busy haunts of men”.—Now this is admirable, and I thank you for it. It cheered <hi rend="italic">me</hi> last night (dull) to read it, &amp; had I never had a line from you besides,—I should have concluded you to be a true brother-mind. Such, I, too have often done, &amp; hope to do again.—I went late XII to bed, but not sleep (I had drafted a long letter to “Herald” re the misguided “Army” of which my heart and head, too, was <hi rend="italic">too full</hi>—bursting). Hour after hour passed, &amp; I took up a little book, a favourite of mine, by Theodore Parker,— “A Discourse pertaining to religion”—and opened on a page agreeing with you. (Here is an extract). “Nature is not only strong and beautiful, but has likewise a religious aspect. This fact was noticed in the very earliest times, appears in the crudist worship, which is an adoration of God and Nature. It will move many a heart to latest day, and yet have an influence on souls that are deepest and most holy. Who that looks on the ocean, in its anger, or its play; Who that walks at twilight under a mountains brow, listens to the sighing of the pines touched by the indolent winds of summer, and hears the light tinkle of the brook murmuring its quiet tune,—who is there but feels the deep Religion of the scene?. In the heart of a city we are called away from God. The dust of mans foot &amp; the sooty print of his fingers are on all that we see. The very earth is unnatural, and the Heaven scarce seen. In a crowd of busy men who throng its streets, or flow together of a holiday, in the dust &amp; jar, the bustle &amp; strife of business, there is little to remind us of God. Men must build a Cathedral for that. But everywhere in nature, we are carried straightway back to Him. The fern, green and growing amid the frost, each little grass and lichen is a silent momento. The first bird of spring, and the last rose of summer; the grandness or dullness of evening &amp; morning; the rain, the dew, the sunshine, the stars that come out to watch over the farmers rising corn; the birds that nestle contentedly brooding over their young, quietly tending the little strugglers with their beak,—all these have a religious significience to a thinking soul. Every violet blooms of God, each lily is fragrant with the presence of Deity.”</p>
+         <p>The awful scenes, of storm and lightning and thunder seem but the sterner sounds of the great concert, wherewith God speaks with man. Is this “accident”?. Ay, the earth is full of such “accidents”. When the seer rests from religious thought,or when the worlds temptations make his soul tremble, &amp; though the spirit be willing the flesh is weak; When the perishable body weighs down the mind, musing on many things; when he wishes to draw near to God, he goes, not to the city—there conscious men obstruct him with their works—but to the meadows, spangled all over with flowers, &amp; sung to by every bird; to the mountain “visited all night by troops of stars”, to the forest stretching out motherly arms with its mighty growth and awful shade, and there, in the obedience those things say, in their order, strength, beauty, he is encountered front to front with the awful presence of <hi rend="italic">Almighty power</hi>.</p>
+         <p>Paul says (in one of his Epistles) “You see how large a letter I have written to you with my own hand”, and I say the same to you, but do not suppose I have <hi rend="italic">nothing to do</hi>.</p>
+         <p>But I must close. I cannot write so <hi rend="italic">fast</hi> as I used to do, and my hand (and chest too) tires &amp; pains. I shall not go to Bush early as I expected to do—but perhaps, on 7<hi rend="sup">th</hi>. Sept, if possible, <hi rend="italic">may </hi>write to you thence.—Many of the Hepat should be in fl <hi rend="italic">now</hi>—some further on in spring some autumn, much depends on situation &amp; aspect, but some, that I have year after year most diligently sought in fruit &amp;c, I have never yet so found.</p>
+         <p>I have had <hi rend="italic">another</hi> birth of Green Lizards, and, again, unexpectedly. Last week, a fine spotted one I had here gave birth to 2; both little beauties like the dam, one was alive and free, tother was wrapped up partly, in its fetal membranes. 2–3 days passed, and still the same, at last I put a little water into their bottle, &amp; then much of those skinny bits came off—no doubt such is an easy job while fresh among mosses &amp; grass etc.—However the dam is now dead; ditto no 2 calf. No 1 is still active, but a whole week from birth without eating. The mother was starved—4 months or so; I have flies, but <hi rend="italic">no</hi>.</p>
+         <p>So goodbye. I hope I shall not have surfeited you w. my big dish?</p>
+         <p>             Bel me, always yours sincerely</p>
+         <p>                             W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

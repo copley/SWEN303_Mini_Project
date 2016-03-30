@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0850">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1892 November 9: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1892-11-09">1892 November 9</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1892 November 9: to Harding<note xml:id="ftn3-622" place="foot" n="622"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke<lb/>Novr. 9<hi rend="sup ">th</hi>., 1892.</p>
+         <p>Dear Mr. Harding—</p>
+         <p>Labouring under 2 surprises—or grievous disappointments—I write to you.</p>
+         <p>1. The receipt yesty. afternoon from you of my returned Ms. Did I not await it? Did I not run risk of prosecution in crossing Ry. Lines—in way to P.O.—to get it? Did I not return to my hole-in-the-wall w. impatience to note what my <hi rend="italic">judicious</hi> &amp; friendly critic had <hi rend="italic">done </hi>for me? Ah, me! Well—<hi rend="italic">nil</hi>, nothing.—–</p>
+         <p>Sic transit glor.! “Blessed they who expect <hi rend="italic">nothing</hi>,” &amp;c, &amp;c, &amp;c, fill up, <hi rend="italic">ad lib</hi>. It is true, no doubt, from the sublime to the ridiculous only a step—and so, from the high towering crest of the wave of anticipation, down—down! to the gloomy depths of the hollow &amp; tangled weeds, <hi rend="italic">below</hi>!—</p>
+         <p>I think I was never more surprised, more disappointed: increased, from your keeping it so <hi rend="italic">long</hi>, and from the certain knowledge I had of your knowing <hi rend="italic">all about</hi> it: one good thing only has resulted from it (your doing 0), viz. I have <hi rend="italic">not </hi>had to re-write it, which I expected. But enough of this—I enclose a slip containing <hi rend="italic">most </hi>of my alterations. The Ms. is now awaiting “Sailing orders,” to Hill or to his fag.—</p>
+         <p>2. Being (as you <hi rend="italic">truly </hi>observed) “hum-bugged” in this matter of Society’s meeting (by Large &amp; Co—no reply from <hi rend="italic">them</hi>): and <hi rend="italic">now </hi>having time hanging on my hands!—nothing to do, That I <hi rend="italic">can</hi>,<hi rend="italic"> </hi>or care to, do,—(for I cannot get on w. my short Botl. Paper spns. &amp; books, being at Napier, where I <hi rend="italic">had </hi>expected to be at work this week,)—I said, last nt., to Robertshawe, that, weather permitting, I should <hi rend="italic">try </hi>to get to the woods—my old haunts, 2–3 miles distant, this mg. as <hi rend="italic">now </hi>I can walk <hi rend="italic">on the flat</hi>: (and 12 months on 5<hi rend="sup ">th</hi>. inst.! since my <hi rend="italic">first </hi>attack of Influenza:)—so this mg. I made ready, though lowering all round,—I started before 10, but rain coming on, &amp; I <hi rend="underline italic">thinly</hi> clad, I came back: and so, here I am—writing to you.—</p>
+         <p>I am now (I may say) <hi rend="italic">idle</hi>! until Sunday 20<hi rend="sup ">th</hi>., a sad &amp; dreary time to me. For I cannot well write as many things so far away from Library &amp; notes, &amp;c. and all this caused by <hi rend="italic">Hill &amp; Co.</hi>——</p>
+         <p>Yesterday I sent you a “Herald” containing account of a <hi rend="italic">Moa</hi>,—for your edification (?) enclosed is one of a Frog (from Japan) to match. And (if I have not already sent it, or it is recoverable,) I have also a memoir of <hi rend="italic">Whittier </hi>and a good art. on him &amp; his works in a “Standard”—I have set it aside for you—but Dr. MacAllan <hi rend="underline italic">may</hi> have it.</p>
+         <p>I thank you for you clipping <hi rend="italic">re </hi>Max Müller &amp; Congn. of Orientalists—I have read pretty much concg. them in “Standard,” and saw you enclosed a clipping.——</p>
+         <p>Last week I received a “Returned Letter” from G.P.O. Wgn.—one of offl. size on it, with— “Returned for reasons on cover”! To my surprise it was a copy of my Botl. P. in vol. XXIV, that I had sent to Leipzig!! addressed to “Mr. F. Stephani, Cryptogamist, Leipzig”:— “W. Colenso, N.Z.”, in lower left-hd. corner. The “reasons,” however, were in <hi rend="italic">German</hi>, &amp; so I had to seek (outside of Dvk.) to get them transd., and here they are:— “Cannot be found if not residence officially mentioned or some other detail of the qualification of the consignee is given.” Another stamp— “Unknown”—I have Stephani’s address at Napier (in his own letters), but could not remember it, &amp; I wished him to get a copy from me as early as possible.—–and now I am placed in a bit of a <hi rend="italic">fix</hi>. I told you of Hill, &amp; of meeting (to suit him) put off, or a <hi rend="italic">seventh </hi>given,—on the 14<hi rend="sup ">th</hi>. Novr. Well, as I wished to be present, I got Mr. Eccles to come to Wdv. for the <hi rend="italic">13</hi>
+            <hi rend="sup italic">th</hi>. that I might be free, &amp; go to Napier <hi rend="italic">for 14</hi>
+            <hi rend="sup italic">th</hi>
+            <hi rend="italic">. </hi>I wrote last week to Large &amp; to G. White: saying, I would be present on 14<hi rend="sup ">th</hi>. with Papers, if <hi rend="italic">sure of reading them </hi>(<hi rend="italic">T. White</hi>, &amp; others having sent in some) and for G.W. to let me know: and now a letter from him—that they have <hi rend="italic">further </hi>put off the day of mtg. until 21<hi rend="sup ">st</hi>, for Hill to be present! I have replied, this day, that if such is to be the case I shall <hi rend="italic">not </hi>be there but will <hi rend="italic">send </hi>my Papers to them: as I cannot now alter those fixed Church arrangements; moreover telling them, that it makes little or no difference to me, <hi rend="italic">now </hi>that Mr. H., or his paper (<hi rend="italic">promised by wire to G.W.</hi>) will be there w. them—as mine can be “taken as read.” It is a pity I did not know of this <hi rend="italic">earlier</hi>, as <hi rend="italic">such </hi>would have suited Eccles &amp; self <hi rend="italic">better.</hi>
+         </p>
+         <p rend="center">_______</p>
+         <p>Could you conceive such a thing?—a big missive via Brindisi from <hi rend="underline italic">Hamburg</hi>! from Jew-Bankers there <hi rend="italic">re </hi>some coml. capl. scheme—with lots of accessories! “9 millions &amp; more in <hi rend="underline italic">gold</hi>” (marks <hi rend="italic">not </hi>₤.) why such should be sent to <hi rend="italic">me</hi>—I cannot comprehend! I get, also, <hi rend="italic">lots </hi>
+            <hi rend="underline italic">re racing</hi>!! from Melbourne, &amp;c—by every other Mail.—</p>
+         <p>—2.20, p.m. closed hastily</p>
+         <p>             Nothing new to hand</p>
+         <p>                             With kindest regards</p>
+         <p>                                             Yours sincerely</p>
+         <p>                                                             W. Colenso.</p>
+         <p>P.S. am surprised at your saying, you had no copy of “Tidal Lore”! must send you one from N. If you have a copy of “Mao. Dog” &amp; “Parkinson,” please return the copy I sent with Ms.</p>
+         <p>I am much better in general health than I have been. W.C.</p>
+      </body>
+   </text>
+</TEI>

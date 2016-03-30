@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0196">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1897 To the editor. Hawke’s Bay Herald 24 August.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1897-08-24">1897 August 24</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1897 To the editor.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 24 August.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="bold">1897 Mr. Colenso in reply.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 8, 22 September.</hi>
+                  <hi rend="bold">
+                     <note xml:id="ftn66" place="foot" n="66"> These three letters are included in <hi rend="italic">Certain errors of the Church of Rome</hi> 1898, republished in Vol. 3 in this series, <hi rend="italic">What I believe is genuine and authentic</hi>. Father Grogan’s reply (<hi rend="italic">Hawke’s Bay Herald</hi> 15 September) was proudly reprinted in the New Zealand <hi rend="italic">Tablet</hi> of 1 October 1897—<hi rend="italic">Ed.</hi>
+                     </note>
+                  </hi>
+               </p>
+         <p>
+                  <hi rend="bold">1897 </hi>
+                  <hi rend="bold">The relief of “swaggers.”</hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 14 September.</hi>
+               </p>
+         <p>A LETTER FROM MR COLENSO. 	<lb/>At the meeting of the Charitable Aid Board yesterday the following letter was read from the Rev. W. Colenso:—</p>
+         <p>“I have the honor to call your attention to the contents of this letter. It is written in the hope of something real and useful being done by your Board to meet the many cases of the poor straggling wanderers—strangers, who almost daily visit this town and me, seeking work, food, necessary clothing, and a night’s lodging. I have had as many as six applications in one day,—commonly from two to four, and that at all hours, generally before 9 a.m., and after sunset, on their reaching town, and sometimes on Sundays. I do what I can for them all, in a small way, to relieve their present needs—in a meal, and a night’s shelter at the City Buffet, in Emerson-street; but some ot them, both aged and young, decent-looking men, often want more than those small helps, as boots, clothing, a blanket, &amp;c. I suppose that this is more or less known to and experienced by you all individually. And what I wish to have done by the Board is, to appoint some person residing handy in the town to act as almoner—some humane person, and to assist those poor unfortunate strangers in their pressing hour of need. No doubt some of those stragglers are men of indifferent character, yet they are human beings in want, in distress, needing present help; equally with such a one having fallen overboard into the sea, whom all hands rush to save. Besides, you have an almoner in the country, at Waipawa, who has also sub-almoners under him in all the townships, and poor men and strangers in distress in those places obtain their wants supplied by them without difficulty. Why, then, should not such an officer have been long ago appointed in Napier? Possibly you may say that your secretary in his office in town, from 10 to 4 on some days of the week, fulfils that duty; but I fear such is not the case—cannot be done by him, simply because he is not in his office when these poor men mostly turn up here in Napier, before 9 a.m. and after 4 p.m., and also on Sundays. Besides, I am (at present) ignorant as to whether his instructions allow of his helping such persons—strangers. I could say more under this particular head, but I refrain. It is not from any desire to be relieved from helping these strangers that I now apply to the Board—that is, as to expense or cost—for I am willing to contribute my full quota in an early cheque; but it is to be relieved from the continued worry of their calling on me in all weather, and so wasting my time and often increasing rheumatic pains, and, in truth, frequently upsetting me for the day with their sad experience and tales, which I now, in my old age, cannot so well meet as formerly.” </p>
+         <p>The Chairman said no doubt Mr Colenso was very humane and generous in giving charity to those who called on him for it, but he pointed out that there were ample facilities for people getting assistance from the Board. The secretary was in his office three days a week. So far as giving aid was concerned he (the chairman) was placed in a somewhat similar position to Mr Colenso, as people called on him at all hours for assistance. </p>
+         <p>Mr Cohen deprecated the idea of declaring that there was an “open house” for swaggers in Napier, which would draw men to the town. </p>
+         <p>Mr Ormond said if it were understood that men on going to the Refuge could get relief for a night it would meet the difficulty. The place would be open for the night to people destitute, and gentlemen in the position of Mr Colenso could refer callers to the Refuge, provided it were understood that that institution was available for the purpose. He understood from a conversation with Mr Colenso that he did not give swaggers money but gave them orders for meals at the Buffet, </p>
+         <p>The Chairman said practically the secretary was in his town office five days a week.</p>
+         <p>Mr H. Williams suggested that a reply be sent to Mr Colenso asking him to refer applicants that came to him on to the Refuge. </p>
+         <p>The Board resolved to instruct its secretary (with the aid of the Chairman) to attend to such cases on application being made, and Mr Colenso is to be asked to send applicants who come to him on to the Board, temporary accommodation being afforded at the Refuge. </p>
+      </body>
+   </text>
+</TEI>

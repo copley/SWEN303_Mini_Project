@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0221">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Editorial: Hawke’s Bay Herald 23 February 1899.</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <date when="1899-02-23">1899 February 23</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold italic">Editorial: </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald</hi>
+        <hi rend="bold italic">23 February 1899.</hi>
+      </p>
+    </front>
+    <body>
+      <p rend="justify">A correspondent writing to the Auckland Herald on the late Rev. William Colenso, says:— “An ably-written ‘Life of William Colenso’ would be a most valuable addition to New Zealand literature. Mr Henry Hill, the inspector of schools for Hawke’s Bay, was to the last a trusted friend of the great man, and to him I imagine the task would be most congenial. Our Government might at least acknowledge a great wrong done to a man now dead by arranging for the publication of such an interesting work.”</p>
+    </body>
+  </text>
+</TEI>

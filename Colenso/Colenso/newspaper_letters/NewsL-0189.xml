@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0189">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1896 A plea for the starving. Hawke’s Bay Herald 10 August.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1896-08-10">1896 August 10</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1896 </hi>
+                  <hi rend="bold">A plea for the starving.	<lb/>
+                  </hi>
+                  <hi rend="bold"> </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 10 August.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—Permit me through your paper to ask you to set forth speedily some useful plan by which to relieve the poor—the very poor—the starving, the outcast, the wanderer, the stranger, the homeless,—who are daily visiting Napier seeking work; and who do not know where to go, or what to do, to obtain a meal or a bed at night. Do, please, come out strongly and quickly in their behalf; for it is a great necessity, a serious trying matter which cannot be put off. Human beings are starving in our midst, and the winter not yet over. </p>
+         <p>For some months I have had many poor fellows visiting me; sometimes even four and five of a day! and though willing to help, I cannot do all they need—cannot even approach it; and therefore it is that I write to you, that through your generous and ready public call, something serviceable and fitting may be done and that speedily. </p>
+         <p>In other towns, though much smaller and poorer, an almoner is to be found ready at hand to help all such necessitous cases; and an almoner should be found here, one always handy and at his post,—his room or office being central and publicly known. </p>
+         <p>Three weeks ago, the cases being numerous and pressing, I called on the Town Clerk and laid the matter before him, for him to tell the Mayor. Captain Bower (seemingly) agreed with me that something should be done, and that, too, quickly; and also promised to let me know of some fit person being appointed as almoner to meet such cases. But I have not heard from him, and hence I write to you. </p>
+         <p>If money is wanting, let the Mayor call an urgent public meeting “right away,” and let such be subscribed and collected, or (better still) if the Borough possesses the necessary power to levy a special rate for this purpose, let such be done. I am sure many in Napier would gladly pay their share to help, to save their fellow countrymen; for my own part I would willingly do so—aye, I would rather pay double (if needed) what I have now to pay for harbor rates, and have done with that. </p>
+         <p>Not a few of those who have called on me are fine able young fellows—not so much seeking pecuniary help as work; and some (I have observed) though starving were above asking alms; still possessing that fine old English feeling! God help them. </p>
+         <p>Only a short time ago a poor old man was committed to gaol here for a fortnight for asking alms! As a “vagrant”; such may have been right in his case if a resident townsman; but I equally pity the Justices who could inflict such a sentence, together with the householder who laid the complaint, and the policeman who had (in the performance of his duty) to “run him in.” </p>
+         <p>Do, please, use your able pen. Remember who said,— “Ye have the poor always with you, and whensoever ye will ye may do them good: I was a stranger and ye took Me in, naked and ye clothed Me,” &amp;c.—I am, &amp;c., </p>
+         <p>
+                  <hi rend="smallcaps">					William</hi>
+                  <hi rend="smallcaps"> </hi>
+                  <hi rend="smallcaps">Colenso</hi>. </p>
+         <p> Napier, August 8th, 1896.</p>
+      </body>
+   </text>
+</TEI>

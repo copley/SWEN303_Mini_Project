@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0222">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Editorial: The Colonist 28 February 1899.</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <date when="1899-02-28">1899 February 28</date>
+          <publisher>
+            <name type="organisation">The Colonist</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold italic">Editorial: The Colonist 28 February 1899.</hi>
+      </p>
+    </front>
+    <body>
+      <p rend="justify">The Rev. William Colenso, whose death at Napier was recorded last week, was a printer of the old school, and as conservative in this respect as he could well be. Any attempt to coach him in the up-to-datedness of the printing art was to offer him grevious insult, and was met with profound contempt. In the days of Provincialism he was for many years Superintendent of the Province of Hawke’s Bay, and while in office he made it his hobby to revise the proofs of every scrap of Council printing before it was finally machined. And beautiful exhibits these revises were when returned to the printer. What with the substitution of small capitals for large capitals, and visa versa, and the italicisation, and the ultra free use of commas, semi-colons, dashes, parentheses, and all the other points in the category, the time taken by the compositors in correcting the stuff was even more than that taken in setting it. But it was all good for the trade, and ‘Billy’s’ venerable smile was never more serene than when initialling as correct the prodigious lists of extras, and the Council smilingly paid for it all. Of the deceased scholar it may also be said that during his political career no man was more revered in the Council than he, and that no matter how intense the excitement of an electioneering contest, the courtesy extended to his fellow candidates was uniform and gentlemanly.</p>
+    </body>
+  </text>
+</TEI>

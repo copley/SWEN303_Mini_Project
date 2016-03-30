@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0084">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1860 June 29: Octavius Hadfield to his brother Charles Hadfield</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions, spine title "Hadfield, Typescript Miscellaneous Fragments 1833-1897", stamped 19 Dec 1979.  Section: Fragments - Fragmentary extracts from the letters of Octavius Hadfield.  "EXTRACT NO. 7."  Page 15.  
+         Another extract from a letter which may be this same one is at http://nzetc.victoria.ac.nz/tm/scholarly/tei-MacOcta-t1-body1-d18-d5-ft32.html - however it should be noted that the extracts published in that work differ greatly from the transcripts in these books, with sections of sentences or paragraphs missing, and words and punctuation changed, and that these changes, which appear to result from both editorial choice and error, are not signalled.
+         MS annotation: "Original now with rest of letters (Hadfield to Charles Hadfield 29 June 1860) in photostat box."</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 9.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1860-06-29">1860 June 29</date>
+                  
+               </correspAction>
+               <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70819/">Charles Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1860 June 29: Octavius Hadfield to his brother Charles Hadfield</p>
+      </front>
+      <body>
+      <p>---proceedings.  They have lost all confidence in him and losing confidance <!--sic--> is no small matter.  It is easier lost than regained.  What is so annoying to me is that there is not a single blunder committed that I have not pointed out beforehand as a step to be avoided.</p>
+      <p>Well!  I still have faith to believe that all our labour here to promote the spread of the Gospel will not be lost.  It cannot indeed be lost, because there are many already gone who have died in faith.  But I mean I cannot make up my mind to believe that henceforth the English Govt. will adopt a course of injustice such as shall drive the whole Maori race to despair and consequently to war.  But this is an issue rather <supplied>-----------?</supplied> regarded by many in this country.  It is satisfactory in one sense to see that this view is taken only by recent comers; that the old settlers, almost without exception have a friendly feeling towards the natives.  But the mischief occasioned by the present state of the country is that a number of young men who, but for the excitement now existing might never have thought of war, have had these warlike feelings, which occur so very <supplied>[naturally]</supplied> to fallen man's heart, mind <supplied>?</supplied> , which , when once excited are not very easily allayed.  However as I said before, I still hope for the best  There are many natives who would in the event of a general war decline to take any part in it; but would submit to any injuries, looking forward to an eternal home and rest.  But there is an instinctive objection to injustice and oppression, which in an independant<!--sic--> vigourous<!--sic--> race like this would prevent many even good men remaining passive spectators of injuries inflicted on their relations and friends.  There are many men who would submit to so much themselves, who will not look quietly on the suffering of others.  But God is better than all our fears.  </p>
+      <p>The mail is late this month so I am not able to say whether any letters were written last April.  However I shall hope to hear again now.  Give our united, affectionate love to Agnes and your children and accept it yourself.  We are well.  I think <supplied>[of]</supplied> writing to Ventnor.  Kate has an inflammation in one eye which prevents her writing.  It is only a temporary ailing.  Please give our love to them when you write.  </p>
+      <p>Your very affectionate brother,
+      </p>
+      <p>Octavius Hadfield.</p>
+      <p>Lt. Col. Hadfield</p>
+      <p>The name of our little one born last month is <!--space-->.  Little Annie tho' is well; she is a strong little thing.</p>
+      </body>
+   </text>
+</TEI>

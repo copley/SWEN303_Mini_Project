@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0081">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1879 The Communion . Hawke’s Bay Herald 5 March.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1879-03-05">1879 March 5</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1879 </hi>
+                  <hi rend="bold">The Communion</hi>
+                  <hi rend="bold">. 	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 5 March.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—I was a little surprised to read in your issue of this day the following— “An innovation in the form of receiving the Communion has been adopted by the Rev. C.J. Byng, at St. Matthew’s Church; Dunedin.” (Those words I take to be your own, or supplied). Then you go on to quote from the <hi rend="italic">Daily Times</hi>,— “Contrary to all recognised procedure, the Communion was celebrated yesterday, after the Evening Service.” </p>
+         <p>There is, however, allow me to, say, no “innovation” here; neither is it “contrary to all recognised procedure,”—very far from it. The same being the practice in very many churches belonging to the Church of England, both in London and in country towns and parishes in England. Neither is it new there, for I well remember it being so when a boy. </p>
+         <p>As to Mr Byng’s additional saying (as quoted by you), that “Our Lord always communicated in the evening,” I make no remark on such a very strange statement. But I do on another queer bit of news of yours, contained in your issue of February 21st, which, when I first saw it inland, last week (on my return from the Forty-mile Bush) rather startled me; therein you say— </p>
+         <p>“A Confirmation Service will beheld in St. John’s Church, by the Right Rev. Bishop Stuart, on Palm Sunday, the 6th of April next.”</p>
+         <p>Now I knew that Bishop Stuart was at that time absent, and therefore such could not possibly have come from him. </p>
+         <p>Permit me, further, to say, that the Church of England knows no such a day as “Palm Sunday,” such is not to be found in her Church Calendar; it is therein merely and plainly called “the Sixth Sunday in Lent.” The Church of Rome, however, has it; and the wretched Ritualistic clique<note xml:id="ftn37" place="foot" n="37"> i.e. the Oxford movement—<hi rend="italic">Ed.</hi>
+                  </note> (who have done the Church of England so much injury) use the term, prankingly of course; it is this clique also who are dead set against Evening Communion, the better to carry out their own Romanistic views. </p>
+         <p>And as this is not the first time of late that I have detected in your columns the appearance of “the cloven foot” of Ritualism (although but slightly shewn), yet, as a straw thrown up is sufficient to indicate the path of the coming storm, and as “coming events often cast their shadows before,”—I, as an old member and Minister of the Church of England, give timely warning to the members of the Church of England here to be on their guard.—I am, &amp;c., </p>
+         <p>
+                  <hi rend="smallcaps">William Colenso. </hi>
+               </p>
+         <p> Napier, March 4, 1879.</p>
+      </body>
+   </text>
+</TEI>

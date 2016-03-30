@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0199">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1897 The more suitable church lessons. Hawke’s Bay Herald 22 November.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1897-11-22">1897 November 22</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1897 The more suitable church lessons.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 22 November.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—I thank you for publishing my letter on the Imprecatory Psalms in your issue of this morning; and now, with your permission I would also say a few words concerning my second motion on the benefit resulting from reading the more suitable lessons from Holy Scripture in the churches. (I copy from your paper of the 18<hi rend="sup ">th</hi> isntant.) “The Rev. W. Colenso moved,— ‘That on those few occasions when the lessons as appointed in the calendar to be read may be the better omitted for the chapter or portion immediately preceding or followlug the same, that the minister be allowed to read such portion instead of the appointed one, for the greater edification of the congregation.’—seconded by Mr Tanner—the Dean strongly protested that even the General Synod had no power in face of constitution and canons to proceed in the direction indicated.—The Rev. John Hobbs argued that the motion was not necessary, the matter being in the hands of the Bishop—the motion was lost.”</p>
+         <p>I briefly said: (1) The reading of the Scriptures in the Church of England at daily morning and evening services was done regularly, especially the second lessons from the New Testament, which followed in orderly succession; it being also the pride, the glory of our English Church that the Scriptures were read to the congregation in the common tongue; and, that where such were so read daily there needed no alteration. The case, however, was different where the Scriptures were only publicly read two (or, at most, three) times a week; and, at such times, the detached lessons which followed in course for those two or three services might not (and in some days could not) be the most profitable for the congregation. This was a point that could not be denied, as I (and I had no doubt all ministers) had not infrequently proved. That then, on such occasions, the chapter immediately preceding or following the fixed lesson might be the better one to be read, from it being more suitable, and should be read instead. And further, this simple substitution was the more to be desired, seeing that the daily reading of the Scriptures in families at home was not now so well observed here in this new colony as fomerly in England. And (2) that the principle of occasional selection of a lesson was quite in accordance with the rules of the Prayer Book of the Church at the discretion of the minister; as shown (<hi rend="italic">a</hi>) In the first lesson for Sunday’s evening service, throughout the year, where for evey Sunday <hi rend="italic">two</hi> chapters are mentioned, one of them only to be chosen, and read by the Minister; (<hi rend="italic">b</hi>) also, in the case of a moveable holy day, the same happening to fall on a Sunday, then “the lesson appointed either for that Sunday or the holy day may be read at the discretion of the Minister.” (<hi rend="italic">c</hi>) “If Evening Prayer is said at two different times in the same place of worship on any Sunday, the second lesson at the second time may at the discretion of the minister be any chapter from the four Gospels, or any lesson appointed in the table of lessons from the four Gospels.” (<hi rend="italic">d</hi>) “Upon occasions to be appointed by the Ordinary, other lessons may with his consent be substituted for those which are appointed in the calendar.” Therefore, from all those rules and allowances of occasional selection, it seemed to me quite clear that what I sought was in accordance with them; especially as it was merely a simple change for the better edification of the congregation. But, as on the former motion, it was decided against me. However, and notwithstanding, I thought on Galileo of old, and told the Synod,— “I joy a coming age will think with me!”</p>
+         <p>I felt sorry for this decision (may I say, hastily arrived at?). It seemed so opposed to the principles and plain rules of the Church, and to common sense; moreover, because in this case, as also in the former one of those objectionable Psalms, I have heard it said that we did not always read in our Church services those portions of Holy Scripture which were the most beneficial for the people, and I could not deny it. The Word of God is in the Bible (though not confined to that holy book), and should be diligently sought out and extracted, just as our miners do gold, all parts of the Bible not being alike from God, neither of essential service to man; yet, as our Church truly says,— “Holy Scripture containeth all things necessary to salvation.” I could say a good deal on this subject; living “thoughts that breathe in words that burn,” but I forbear; choosing rather to close my letter with a few sentences from Dean Farrar (whom I also quoted in my former letter), fresh utterances of true knowledge and wisdom,which, thank God! have long been part of my own belief.</p>
+         <p>The Dean says:— “There are many Christians who hold that every word of the Bible is supernaturally dictated and infallibly true. That position is untenable. It has not been held always, nor everywhere, nor by all; there is not the least merit involved in its acceptance: it is not helpful to the religious life of the individual or of nations. It has, on the contrary, been prolific of terrible disasters. The acceptance of it may be due, not to faith but to faithless materialism and a petrified tradition; the notion of it is not a sign of unbelief, but a duty to truth, and to the God of Truth…. Men constantly fight on behalf of their own mistakes, limitations, prejudices, and traditions, because they forget that the ever broadening light of human knowledge, which saves mankind from torpor, is light from heaven, and is a part of the Divine economy of revelation…. God has given man a lamp which is sufficient to enable him to discern truth from falsehood in all essential things. Having bestowed on man his Reason and his Conscience, He does not speak to him by voices in the air. God never reveals to man what He has enabled man to discern for himself.” <hi rend="italic">Vale, valeat quantum</hi>—I am. &amp;c.,</p>
+         <p>
+                  <hi rend="smallcaps">		William Colenso</hi>.</p>
+         <p> Napier, November 2005, 1897.</p>
+      </body>
+   </text>
+</TEI>

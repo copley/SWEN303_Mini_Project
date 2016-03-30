@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0089">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unknown date: Octavius Hadfield to unknown person</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions, spine title "Hadfield, Typescript Miscellaneous Fragments 1833-1897", stamped 19 Dec 1979.  Section: Fragments - Fragmentary extracts from the letters of Octavius Hadfield.  "EXTRACT NO. 11."  Page 21.  (The right hand edge of this book has been trimmed more narrowly than other pages; a few letters of some lines are missing.)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 10.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="-----">Unknown date</date>
+                  
+               </correspAction>
+               
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Unknown date: Octavius Hadfield to unknown person</p>
+      </front>
+      <body>
+      <p>....... understand why we ignore Bp. Jenner. <supplied>(?)</supplied>  He never was regularly elected, and was never confirmed by the General Synod.  Our church system is working well.  Of course spir<supplied>[it]</supplied>uality cannot be produced by any methodical system, but where provision is made for prayer and the preaching of the Gospel, some souls are always by God's blessing drawn to think of Christ's love, and so it is here.</p>
+      <p>I am making an effort to extend church work in the country districts and preach<supplied>[ed]</supplied> for the Diocesan Fund on Sunday last.  We had a good collection.  The next day I had two cheques, &#163;5 each, sent to me for it, and since then three for <hi rend="underline">&#163;10 each</hi> and others; so I hope I shall get enough for another clergyman or two, as there are to be annual subscr<supplied>[ip]</supplied>tions.</p>
+      <p>I have not done quite as much for the Maoris as I could have wished; but then it is so difficult to find anyone speaking the language, and my time has recently been much taken up.  I hope to go to Otaki next week.  There has very nearly been a row in the nei<supplied>[gh]</supplied>bourhood arising out of that old Manawatu dispute which is by no means settled yet.  Ho<supplied>[w]</supplied>ever the Maori population decreases and the White increases, and so ultimately the dif<supplied>[f]</supplied>iculties will be settled, but this is a sad result of Christian colonization.</p>
+      <p>I have been much interested in the state of Europe, and more especially the war<supplied>[.]</supplied>  I never had any doubt from the beginning as to how it would end, as I daresay I have mentioned in writing.  But the actual folly and wickedness of the population of Paris - though I expected trouble there-- I did not anticipate.  The latest telegram leads us <supplied>[to]</supplied> suppose that order is restored.  But when France's troubles will be over it is not eas<supplied>[y]</supplied> to foresee.  Again the Romish church question is very interesting.  Here it is far more difficult to see ones way, because though we may anticipate what the final result may <supplied>[be]</supplied> it is far less easy to surmise how much time will be needed to accomplish it.  Great changes will doubtless take place in the Church of England.  But I suppose the state of things both religious and civil and political on the Continent...........
+      </p>
+      </body>
+   </text>
+</TEI>

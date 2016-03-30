@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0006">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1858 To the editor. Hawke’s Bay Herald 5 June.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1858-06-05">1858 June 5</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1858-06-01">1858 June 1</date>
+        <name type="place">Waitangi</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1858 To the editor.     <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald </hi>
+        <hi rend="bold">5 June.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir,</hi>— The season having again arrived for the planting of <hi rend="italic">Fruit-trees</hi>, and being often asked for advice respecting the same, I willingly avail myself of your ‘open column’ and kindness to say a few words which may be of service to those of our fellow-settlers who are desirous of cultivating the trees of our Father-land, and thus conferring at least three noble benefits—lst. on themselves and their visitors, physically, in their fruits;—2nd. on the same morally, in the reminiscences of the <hi rend="italic">past</hi>, which such trees and flowers and fruits must invariably convey;—and, 3rd. in transmitting the same—trees and ideas and kindly feelings—to the rising generation. </p>
+      <p>I wish to write particularly on the <hi rend="italic">Sorts</hi> I believe to be the better adapted to our district; on the proper <hi rend="italic">planting</hi> of the same; and on the <hi rend="italic">Soil</hi> and <hi rend="italic">Situation</hi> suitable for them; and that with especial reference to the King of British fruits, the Apple. A fruit, Sir, which I have long considered as one that will be still further improved by attentive and scientific cultivation in New Zealand, as well as one that will by-and-by become an increasing treasure both of wealth and utility to the inhabitants of this and the neighbouring colonies.— </p>
+      <p>In Westminister Abbey, in Poet’s Comer, there is a monument bearing a bust in profile with this simple motto,— </p>
+      <p>
+        <hi rend="italic">Honos erit huic quoque pomo.— </hi>
+        <hi rend="smallcaps">Virg</hi>
+        <hi rend="italic">.</hi>
+        <hi rend="italic">
+          <note xml:id="ftn2" place="foot" n="2"> To honour this fruit too – Virgil, Bucolics—<hi rend="italic">Ed.</hi>
+          </note>
+        </hi>
+      </p>
+      <p>— Which monument was erected by Lord Harcourt (sometime Lord Chancellor of England) to the memory of a Mr. John Philips, one of Britain’s genuine Poets, who, unfortunately, died at an early age, exactly 150 years ago. Although he is almost forgotten, he wrote among other poems a celebrated one in Miltonic verse on the Apple, which he entitled “<hi rend="italic">Cyder</hi>.” Thomson, in his “Seasons” (Autumn), thus truthfully notices him and the subject of his poem:— </p>
+      <p>“A various spirit, fresh, delicious, keen,     <lb/>Dwells in their gelid pores; and active, points    <lb/>The piercing Cyder for the thirsty tongue:         <lb/>Thy native theme, and boon inspirer too,   <lb/>
+      <hi rend="smallcaps">Philips</hi>, Pomona’s bard, the second thou         <lb/>Who nobly durst in rhyme-unfettered verse,         <lb/>With British freedom sing the British song:        <lb/>How from Silurian vats, high-sparkling wines       <lb/>Foam in transparent floods; some strong, to cheer  <lb/>The wintry revels of the labouring hind;   <lb/>And tasteful some, to cool the summer hours.”</p>
+      <p>And, inasmuch as <hi rend="italic">Philips</hi> was a great smoker (in an age, too, when smoking was as nothing when compared with what it now is,) and commenced an ode of his with the praise of <hi rend="italic">Tobacco</hi>, I may as well give it to please the many, and exercise a few of your pipe-loving readers (some one of whom, I hope, will favour us, through you, with a poetical translation):— </p>
+      <p>“O qui recisæ finibus Indicis  <lb/>Benignus herbæ, das mihi divitem   <lb/>  Haurire succum, et suaveolentes  <lb/>  Sæpe tubis iterare fumos.”—<note xml:id="ftn3" place="foot" n="3"> “Oh thou! from India’s fruitful soil,<lb/>That dost that sovereign herb prepare,      <lb/>In whose rich fumes I lose the toil        <lb/>Of life and every anxious care,    <lb/>While from the fragrant lighted bowl       <lb/>I suck new life into my soul.”<lb/>—The British Poets including Translations, 1822. [Surely Cannabis indica, rather than tobacco?]—<hi rend="italic">Ed.</hi>
+    </note>
+      </p>
+      <p>But to return from my digression:—my present letter shall be, <hi rend="italic">On the proper Planting of Fruit-trees</hi>, to be followed by one, <hi rend="italic">on Sorts, Soil, and Situation</hi>, in your next double number. </p>
+      <p>In one of our modern Cookery Books, there is a receipt for roasting a Hare, which is commenced with, “first, catch him”: just so, Mr. Editor, would I speak to the purchaser of a Fruit-tree—first be sure that you get a <hi rend="italic">good</hi> one;—not one (if an Apple) that is infected (although it may be invisibly) with that pest, the American Blight; nor one that has been grafted on a Hawthorn stock; nor one that has been grafted on an apple stock at one or two feet from the ground (which is too often done by gardeners, both to save labour in grafting, and to shew to advantage in size when removed from the nursery); nor one that has been raised in a very highly manured ground or nursery. Every obtainer of Apple-trees should be very suspicious of an infected locality. If he is so unfortunate as to have an infected tree, it should be dealt with precisely as an infected sheep,—if very bad, destroyed immediately; if a cure is to be hoped for, remove it quickly as far as possible from its fellows, and there try your remedies. Moreover, those grafted on Hawthorn, those grafted high on young Apple stocks, and those raised in highly manured ground, should never be chosen: the 1st is liable to deteriorate, as well as to be of very slow growth; the 2nd. has a quantity of useless wood which is very likely to put forth a host of finelooking shoots, which may perhaps be allowed to grow to the starving of the real branch (to say nothing of the extra risk in importing or carrying; while the 3rd. is almost sure to become <hi rend="italic">cankered</hi>, if removed into a less stimulating soil, and if planted in a rich one to reward its planter with plenty of fishing-rods and whip-sticks instead of fruit. </p>
+      <p>Proceeding, however, to plant our tree, let the planter attend to the following simple rules; premising, that every <hi rend="italic">bona fide</hi> Settler who has Fiuit-trees to plant should be determined to do it himself, and not trust to servants. </p>
+      <p>1. Don’t go about the job in a hurry; “good work requires time;” have a good <hi rend="italic">sharp</hi> knife. </p>
+      <p>2. Choose dry (winter) weather for planting your trees; should they only reach you in wet weather, rather wait a week than hurriedly plant them in mire and half-broken clods. </p>
+      <p>3. See that none of the roots are crushed or torn in taking-up or carriage: if they are, cut off the wounded part, from above where it is sound, with a sharp knife. </p>
+      <p>4. Dig the pit very much larger than your tree apparently requires (at least, one spade deeper, all the better for going two spades); and fill up to the depth needed with surface earth, wellbroken, before you put in your tree. </p>
+      <p>5. Stretch out all the roots to their full extent (like the spokes of a cart wheel), giving them an inclination downwards. </p>
+      <p>6. Be sure <hi rend="italic">not</hi> to plant the tree any deeper than it was before; rather (of the two) let it be shallower. </p>
+      <p>7. Fill the earth well in around its roots and under its main stem; break up the earth very small: use your hands. </p>
+      <p>8. Tread the earth well around the tree, and see that the earth is quite close to its stem at finishing; look at this afterwards at times throughout the year, as an open space around the stem is often caused by the wind shaking the tree, and which, if left, is very injurious to the plant.</p>
+      <p>9. If your tree is a little crooked, set the crooked side against the most windy quarter. </p>
+      <p>10. If your planting ground is very much exposed to any strong wind (say the W.), set your trees a little inclining that way. </p>
+      <p>11. If the situation of your garden or orchard is unfortunately very much exposed to high winds, a few screens (dead or living) kept up for a year or two, will amply repay all trouble. N.B. This should be borne in mind, in preparing or laying out Orchard ground, as <hi rend="italic">tutu</hi>, and other native shrubs, or even fern, might be advantageously left for this purpose. </p>
+      <p>12. If your trees are very large, steady them in their places for the first year with a couple of braces, or stays, set opposite each other and tied to the tree; prevent them, however, from rubbing the bark of the tree; and be sure, in your tying, that you do not gird the tree tightly all round.</p>
+      <p>13. Having planted your tree, see that there are no broken branches, or bruised tips of branches; if there are any, better cut them off quite into the sound part with a <hi rend="italic">sharp</hi> knife. </p>
+      <p>14. If your tree has a label attached by a wire, and you wish to keep it on, untwist the wire a little so as to be very loose; and <hi rend="italic">especially look at this during the year</hi>, and untwist it as required. </p>
+      <p>15. If you plant late (say, after July), water your trees; especially if your situation is high and dry, or if there should be a dry spring season. </p>
+      <p>16. Should any <hi rend="italic">Suckers</hi> arise (shoots which spring from the root), cut them off directly, and always as low down under ground as you can. </p>
+      <p>17. If your trees show any sign of unhealthiness, quietly endeavour to find out the cause. Beware, however, of <hi rend="italic">nostrums</hi>: look to Nature. </p>
+      <p>18. Should a sheep, or, what is worse, a goat, get in and gnaw the branches of your trees, cut off as soon as possible the bitten part quite down to the sound bark. <hi rend="italic">Have good fences</hi>.— </p>
+      <p>“Hail, Herefordian plant! ————–<lb/>————Heaven’s sweetest blessing, hail! <lb/>Be thou the copious matter of my song, <lb/>And thy choice<hi rend="italic">Nectar</hi>; on which always waits <lb/>Laughter, and sport, and care-beguiling wit, <lb/>And friendship, chief delight of human life. <lb/>What should we wish for more? or why, in quest <lb/>Of foreign vintage, insincere, and mixt, <lb/>Traverse th’ extremest world ? Why tempt the rage <lb/>Of the rough ocean? When our native globe <lb/>Imparts, from bounteous womb, annual recruits <lb/>Of wine delectable, that far surmounts <lb/>Gallic or Latin grapes or those that see <lb/>The setting sun near Calpe’s tow’ring height.”<lb/>  —<hi rend="italic">Philips</hi>. </p>
+      <p>               I am, Sir,  </p>
+      <p>               Yours very truly,</p>
+      <p>
+        <hi rend="smallcaps">           W. Colenso.</hi>
+      </p>
+      <p>Waitangi, June 1, 1858. </p>
+      <p><!-- QAZ: this is another letter! -->
+        <hi rend="bold">1858 Open column: to D.Gollan and T.H. Fitzgerald Esquires, M.P.C. for Ahuriri, </hi>
+        <hi rend="bold italic">(Per favour of the Hawke’s Bay Herald.)</hi>
+        <hi rend="bold">. </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald</hi>
+        <hi rend="bold"> 22 June.</hi>
+      </p>
+      <p>My dear Sirs, I have this day received a printed circular from you, containing copies of your joint letter to Capt. Carter J.P., as Chairman of the Ahuriri Settlers’ Association. </p>
+      <p>As one of your constituents—as one who publicly advocated your great fitness to represent us as our Members in the Provincial Council—as one who has watched with no small degree of interest your conduct in that Conncil, and who has, in common with many others, fully approved of the same, permit me to say a few words in reference to your letter to Capt. Carter.</p>
+      <p>That letter of yours, my dear Sirs, has both grieved and astonished me; <hi rend="italic">grieved</hi>, at the bare idea of you our chosen men—thinking of resigning your seats (at this crisis) for anything less than a requisition to do so from a large majority of the electors: <hi rend="italic">astonished</hi>, at you rating so highly Mr. Jos. Rhodes’ letter, and at your opinion, that, failing to please the Association your only alternative would be to vacate your seats.</p>
+      <p>With you I lament, that Mr. Rhodes should have adopted “views so different” to what he once held and advocated and gloried in: with you <hi rend="italic">as a man,</hi> I should also feel in reading his letter; but I question if Mr. Rhodes has so “suddenly” become a convert to his new views; and I greatly question the propriety of you, <hi rend="italic">as our Members</hi> (whom the opposition would gladly see resign), allowing your just resentment, at your unfair ungenerous treatment, to predominate.</p>
+      <p>For, allowing the Ahuriri Settlers’ Association all its due importnce, (seeing that not a few of its members are both respectable and influential,) still, Mr. Rhodes did <hi rend="italic">not</hi> write <hi rend="italic">as</hi> the Secretary of the Association; and even if he had,—or, even if the Chairman himself* had written that Pandora’s-box-like letter, I hesitate not to say, (and would, if required, prove,) that you ought not so greatly to over-rate it.</p>
+      <p>For you certainly were not elected only or mainly to represent the Ahuriri Settlers’ Association—neither were you elected as nominees set forth by that Association: and I have yet to learn, that that Association, as a <hi rend="italic">body</hi> either voted for your joint return, or energetically used their infiunce in your joint behalf. Therefore, with all due respect for many of the members individually of that Association, and for the Association itself as a body holding many just and proper principles, I cannot help thinking, that you have deferred vastly too much unto it.</p>
+      <p>Further; you know very well that you were not elected as some strangers have been (<hi rend="italic">e.g.</hi> Mr. Ward, and Mr. V. Smith),—strangers alike to the constituency to the place and to the real wants of both place and people; had such been the case, then, perhaps, you would have had more reason to heed a letter coming from a respectable <hi rend="italic">bona fide</hi> Settler of long standing, like Mr. Rhodes; but you know, that you were elected to your responsible and highly honorable (yet onerous) office, just because you were part and parcel of ourselves—chosen men of long-standing and experience and respectability, well-known to all your constituents, and well-knowing all the wants of the district.</p>
+      <p>Now, a part of my political belief is—that a man as a Representative of the people should always go unfettered to his work—that, being elected, he should no longer consider himself as quite at his own disposal, so as to resign whenever he should be opposed, or piqued, or when it might suit him that he should act conscientiously as well for the welfare of the minority who were against, as for that of the majority who had elected him—that once elected, he should be prepared both to see and hear many grievous things—or, rather, <hi rend="italic">not</hi> to see and hear and feel so as to heed them—being determined to do his duty to his country: and, in thus conscientiously and straight- forwardly acting, not to care so very greatly as to his pleasing this or that person, or this or that party.</p>
+      <p>This is the night of your Public Meeting at Napier; I, unfortunately, cannot be with you. (Partly owing to my having been obliged to let loose my mare, to save her from the heavy flood of Tuesday night, and, although I walked several miles yesterday seeking, I have not yet caught her; and partly owing to an ugly visitant— Rheumatism). My not being with you I deeply regret. For, I wish, once more, publicly to give my full and sincere testimony to my belief in your able and praiseworthy joint service in our behalf and for the good of Ahuriri; and also to tell my fel1ow-electors, that I have every confidence in Mr. St. Hill, and this, too, after having known him well upwards of 13 years. And, I sincerely hope, that, if there be a single elector who, from not knowing him, has hitherto had a doubt as to his ability, this late manly circular of his just received (so very contrary to the unmanly and anonymous sneaking scribbling, with which our <hi rend="italic">one</hi> Paper has been deformed of late,) will have completely dissipated it. In thus writing, however, I wish also to state that I have nothing personal against Dr. Featherston, whom I have had the honor of knowing for the same length of time; I bear in mind his former strenuous exertions in the cause of political liberty,—I regret the change of his mind,—and I respect his talents: but, his newly-adopted principle—</p>
+      <p>The enormous faith of many made for one;       <lb/>That proud exception to all Nature’s laws,</p>
+      <p>To invert the work, and counterwork its cause:—that of opposing the Representatives of the people,—which some, <hi rend="italic">anarchical</hi>, I <hi rend="italic">monarchical</hi>, call,—I differ from, <hi rend="italic">toto cœlo</hi>! For were he my own father, or were he the only man fit for the office of Superintendent in the whole Province (as some of his obsequious and obligated recipients would make some believe; little thinking, that, in swallowing such trash, they unman themselves!) I should, nevertheless, living as I am in the noon of political liberty of the 19th century, be under the necessity of voting against him; and this solely on account of that one hateful retrograding principle.</p>
+      <p>I had quite made up my mind, my dear Sirs, not to write a single political sentence until <hi rend="italic">after</hi> the approaching 28th, as I had also determined to go to the poll and record my vote for Mr. St. Hill in solenm silence, (with no small amount of grief at the unreasonableness of a man of whom I had sanguinely hoped better,) and I also wished every elector to vote uninfluenced. Anonymous scribbling I never notice; and I only wish that some of us had observed the same rule. And even my neighbour’s letter (notwithstanding his having manfully appended his name,) would not have moved me to seize a quill, had it not been for your joint one to Capt. Carter, of which I disapprove.</p>
+      <p>As I cannot be with you this night and at this hour, and as some may think such conduct rather strange, I have added the last two paragraphs of this letter.—</p>
+      <p>               And am, My dear Sirs,with the fullest confidence in you as our chosen Members,</p>
+      <p>                       Your very faithful constituent,<hi rend="smallcaps"> Wm. Colenso</hi>.</p>
+      <p>Waitangi, Thursday night, June 17, 1858.</p>
+      <p>* May Capt. Carter pardon me for thus hypothetically speaking!</p>
+    </body>
+  </text>
+</TEI>

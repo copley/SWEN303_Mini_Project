@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0008">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>24 November 1851: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1000897</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1851-11-24">24 November 1851</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>Undated by author but dated at 24 November 1851 by editor, McLean to Colenso (#1000897) </p>
+		</front>
+		<body>
+			<p>Monday afternoon </p>
+			<p>Dear Mr. Colenso </p>
+			<p>I have to thank you for the form which is filled up quite correctly. I have now the whole returns of Hawkes Bay excepting the Wairoa and te Mahia which must be taken at some other time. </p>
+			<p>By the Rose the Governor has sent me instructions to investigate the old Land claims at Poverty Bay and it is probable that I may go there from Mohaka, however if possible I shall ride over for an hour or so to see you before starting. </p>
+			<p>As a married man I find it not quite so agreeable to make such long excursions but duty must be attended to. By last letters from Wellington Mrs McLean was rather complaining and her mother being unwell so that I feel rather anxious respecting them. </p>
+			<p>Give my kindest regards to Mrs Colenso and believe me yours </p>
+			<p>very sincerely </p>
+			<p>Donald McLean </p>
+			<p>Thanks for the lettuces. </p>
+		</body>
+	</text>
+</TEI>

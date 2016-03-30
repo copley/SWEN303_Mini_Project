@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0326">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1876 August 23: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1876-08-23">1876 August 23</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1876 August 23: to Luff<note xml:id="ftn2-271" place="foot" n="271"> ATL MS-Copy-Micro-0485-4.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, N. Zealand<lb/>August 23 1876</p>
+         <p>A. Luff, Esq.</p>
+         <p>My Dear Sir</p>
+         <p>Here I am, your old attached Correspondent sitting down to my old table in this parlour—where you &amp; I have sat together so many hours, in days forever fled! to talk over men &amp; things!! You <hi rend="italic">can </hi>fancy me truly enough—for <hi rend="italic">every thing </hi>
+            <hi rend="underline italic">here</hi> is just as you left it,—but I <hi rend="italic">can not</hi>, do what I will, fancy you in England with your environments. Would we could converse by electricity, or telegraph (spiritual, or mental), a <hi rend="italic">future </hi>generation may do this.—</p>
+         <p>But let me rein in:—your prized letter of June 28<hi rend="sup ">th</hi>. reached me here on Augt. 15; right glad was I to see (once more) your dear old handwriting, and to find you were <hi rend="italic">all well</hi>! Thank <hi rend="smallcaps">God</hi> for all His many mercies. </p>
+         <p>My last to you, containing receipts, was on July 28<hi rend="sup ">th</hi>.—I hope you will duly receive it. As our Mail closes on 25<hi rend="sup ">th</hi>., &amp; I have several letters to write, I have better make sure, &amp; scrawl to <hi rend="italic">you</hi> now.—</p>
+         <p>The day (as yesterday) is really beautiful! Blue sky, blue Bay!—the Acacias <hi rend="italic">still</hi> glorious in their dazzling yellow embroidery: flowers blooming; Almond trees in full dress, &amp; Peaches preparing to follow soon: so <hi rend="italic">you </hi>may guess that our shortlived Winter <hi rend="italic">has passed</hi> &amp; spring <hi rend="italic">is </hi>come!!——</p>
+         <p>And now to your letter &amp; to business. I recd. a memo. from Rhodes &amp; Co. of the safe arrival of you Stationery (this I enclose). I wrote Ben Smith &amp; Co. on yr. behalf, <hi rend="italic">re </hi>Rates on the Feilding block, &amp; late (9) last night I was aroused from my quiet by the arrival of their telegram in reply: which I also enclose: I hope they have sold well for you. (I was a little put out w. the <hi rend="italic">appearance </hi>of the telegram—thinking it <hi rend="italic">must</hi> be from Govt.; I do not (as a rule) deal in telegrams.) I also enclose the letter you wish to have sent; the one you sent to my care from Wellington. And I send you a copy of my School Report (compressed this year there being <hi rend="italic">no </hi>Provl. Council, and printed as a Gazette:—<hi rend="italic">perhaps</hi> my last! I also send you a copy of the “<hi rend="italic">Waka-Maori</hi>” as it contains the letter from the natives of Te Aute, denouncing H.R.R., and for the publishing of which (the <hi rend="italic">Wananga </hi>says) H.R.R. is going to prosecute <hi rend="italic">Grindell</hi>!!—I also send some H.B. Papers, which will interest you.—</p>
+         <p>And now as to News! for Politics generally I must refer you to Papers.—The Parliament have sat over 2 months &amp; not yet hatched a single egg!! The squabbling &amp; debates &amp; personalities are terrific! After more than a fortnight <hi rend="italic">heavy </hi>&amp; <hi rend="italic">late</hi> debating Sir G. Grey lost his Resolutions <hi rend="italic">re </hi>Separation:—and Whitaker also lost his. Last night the <hi rend="italic">Counties </hi>Bill was (at last!) allowed to be read a 2<hi rend="sup ">nd</hi>. time, but when it may be finished in Commee., &amp; in what guise I dare not venture to suppose.—Sir G. has <hi rend="italic">lost</hi> ground; it is said, he no longer <hi rend="italic">heads opposition</hi>. Sir Donald has had <hi rend="italic">much </hi>to <hi rend="italic">endure</hi> (quietly if not patiently): Capt. Read is said to be <hi rend="italic">ousted</hi>, <hi rend="italic">&amp; his antagonist to go in</hi>!! (costing Read perhaps near ₤2000! &amp; no little trouble loss of time worry &amp; downright vexation.) Vogel <hi rend="italic">may </hi>become Agent General in England (unless House can bar him) &amp; Ormond <hi rend="underline italic">may</hi> become Premier.—It appears they <hi rend="italic">must </hi>borrow 2M. directly; Rates &amp; Taxes are coming thick &amp; 3-fold; a Municipal Act Amendt. Bill is now before the House, in which Municipalities are empowered to <hi rend="italic">rate for </hi>
+            <hi rend="underline italic">Gas</hi>!— Newton J.P. &amp; Lyndon J.P., have both <hi rend="italic">sat</hi>!! Rathbone, <hi rend="italic">as J.P.</hi>, has only yet come out as a Chairman at a Public Meeting.</p>
+         <p>In one of the Heralds I send you—you will find a letter from Hon. Mr Northe (Leg. Cl.) which has caused any amount of fluttering &amp; disturbance—his own Brethren (L. Councillors) took him to task for it, &amp; he had tried to back out <hi rend="italic">a little</hi>:—but read it, <hi rend="italic">and com.</hi> (I think, that both you &amp; I <hi rend="italic">know </hi>somewhat of what he has written). In one of the “Dy. Telegraphs,” too, you will see a letter against me, signed “<hi rend="italic">Parent</hi>,”—that is Rymer! who took up cudgels for his sister-in-law. The correspdt. in the Cy. who sent me a letter <hi rend="italic">re </hi>Kingfishers (part of which I pubd.) is your old friend J. Stevens, <hi rend="italic">senr.</hi>; but Nairn, &amp; L. Tiffen, &amp; several others, have also thanked me: still the poor Birds are <hi rend="italic">being killed</hi>! Tanner &amp; family leave by this Steamer for Engd. Lyndon’s 4<hi rend="sup ">th</hi>. son is dead, after only 2–3 days’ illness. I enq. of Sealy the cause. S. said, he had fallen down &amp; hurt his head, a fortnight before, so, when taken in his bowels, he was soon gone. We are stirred up a bit by a man named Langham being charged by a Coroner’s Jury with killing his wife! It is a sad case; you will see all about it in papers. I don’t think I told you in my last how very cruelly H.R.R. served poor Sladen (I had the story from Kinross). S. after the great flood arranged with Hy. Tomoana to graze his valuable sheep in <hi rend="italic">their</hi> joint paddock at Pakowhai; things went on well, till Karaitiana (<hi rend="italic">part</hi> owner) went to Wgn., when Mr. H.R.R., acting for Y., sent all these sheep to the Pound at Hastings! It cost S. more than ₤20. in pound fees, &amp;c, besides the bother!!</p>
+         <p>I believe I have, at last sold my Hampden Land to Ingram for ₤625. ₤125. to be pd. down, (on 1<hi rend="sup ">st</hi>. proxo., &amp; ₤500. on mtge. @ 7% for a few years: I fancy Burgess will be vexed. Ingram pays H.R.R. for fencing. And I have just let (w. pg. clause) ⅓ of my T. section next Mao. Club, <hi rend="italic">this side </hi>(554) ₤30. pr. ann. pg. cg., end of 7 yrs. ₤300.—I think <hi rend="underline italic">much</hi> of you in all these transactions. Cotterill is about selling out &amp; leaving, he has given up Gardening, &amp; is <hi rend="italic">disgusted</hi>.</p>
+         <p>Two days ago my man found Peppercorne’s men hard at work <hi rend="italic">excavating</hi>
+            <hi rend="italic">under</hi> my land in Reserve T. Sn. no. 70 corner of Faraday Street: so I wrote off to Municipal Engineer, &amp; stopped it. Another new house is built on beach near to Kelly’s old single house there—making 4 in all. Trestrail’s Carpr’s. shop is become a “Rechabite Hall;” and a small house is put up, just in front (in part) of Trestrail’s late dwelling house—it is to be a “goldsmith’s” shop—&amp; gas has been laid on! They have commenced laying their pipes for water-works; what with one laying &amp; another the streets are being continually dug into, and the curb sadly gridironed!— McVay’s sign is a dandy one,—a pair of white horses in black harness on the move—very well done. I think <hi rend="italic">our Town</hi> &amp; District is very healthy just now; 2 days ago the unfortunate “Bebington” immigrants were allowed to come out of Quarantine. Mr Grubb paid me a visit yesterday, and sitting in your old seat (armchair) reminded me strongly of <hi rend="italic">you</hi>—so that I very nearly cried. I do not know if I have had more than 1 Visitor since I last wrote to you (Mr. Smalley). Fannin is in more trouble—<hi rend="italic">&amp; whirl</hi>—his old horse fell over the cliff &amp; was obliged to be shot: his Salary has been stopped—owing to some mistake in Immigrants accts.—but G. Richardson &amp; Tabuteau who have gone closely into them say F. is <hi rend="italic">right</hi>: he has taken his niece from the S. to live with them (as his own): his Sister is about being marrd. to a person from Canterbury: he has had an offer from the Govt., if he will <hi rend="italic">remove</hi> to Wgn., <hi rend="underline italic">but he will not</hi>. Notwithstanding F. is as merry as a Cricket, &amp; desires kindest remembrances to you.</p>
+         <p>And now I think I must close. I wish you <hi rend="italic">could </hi>write me some similar news—of <hi rend="italic">persons &amp; things</hi> which interest us. I hope you are well, &amp; will continue so. I am tolerably well, save Rheumatism.</p>
+         <p>And w. every good wish, believe me, Yours truly</p>
+         <p>                             Wm. Colenso.</p>
+         <p>Young Torre is gone home to Engd,—having been left something like £20,000!!</p>
+         <p>
+            <hi rend="italic">No.</hi>2</p>
+         <p>24<hi rend="sup ">th</hi>. Last night in bed I thought on ½ doz. things I had <hi rend="italic">not </hi>told you of,—so here I am again!—</p>
+         <p>All I can learn about Close, <hi rend="italic">Senr</hi>., &amp; Pukaha, is, that he has left it for town, he had hurt his leg badly in the wet time, &amp; lost stock, &amp;c,—and now his son who married John Harding’s eldest daughter resides there—but I can learn no more.—</p>
+         <p>Inglis has left Miller &amp; set up in partnership with Upham late of Bank)—as Land Agents; &amp; office above T. Sutton’s old store (next to Whitty’s.)</p>
+         <p>Kenneth McLean has failed—his debts over ₤2500. assets ₤700.—he <hi rend="italic">coolly</hi>, offd. his credrs. 5/- in ₤.—wh. has been accepted! If folks <hi rend="italic">will</hi> live <hi rend="italic">beyond</hi> their incomes, what must be the result!</p>
+         <p>“Burnett, wife, child &amp; servant” have arrived in N.Z. from home. W. Thomas’ daughter Mrs Rice &amp; her husband had a fair passage home (90 days) in “Iverness” <hi rend="italic">hence</hi>,—they are in London, she under “the <hi rend="italic">best</hi> Doctor in England” (so says W.T.)</p>
+         <p>Tuke had some sheep to sell for old Chase—he sold them to Rhodes, &amp; he paid over the money to Chase without deducting his com.,—afterwards T. sued C. for it, &amp; <hi rend="italic">lost</hi> his Case!! (It is doubtful if <hi rend="italic">Joe. will</hi> pay.) Tuke’s <hi rend="italic">simplicity</hi> in Court was great! (I thought on Miller the nipper &amp; P. Dolbel.)</p>
+         <p>Grubb told me he should write to you, he has been buying some more land adjoining from France.—G. is very well.</p>
+         <p>Turton is at Dunedin—but it is <hi rend="italic">rumoured</hi> that he is to succeed Sealy: I, however, doubt it.</p>
+         <p>Fielder is in the Stamp Office as Master—&amp; this is <hi rend="italic">in</hi> the new Post Office Building.—</p>
+         <p>Lyndon, Holder &amp; Bryson have to turn out of their Municipal seats, (perhaps to be re-elected,)—but there is talk of “fresh blood” being wanted—Lee, Cornford, Campbell, Large, Carnell &amp; others are spoken of. Election (I believe) is on Sepr. 7.</p>
+         <p>Great fuss just now, <hi rend="italic">again</hi>, between Revds. Townsend and Robinson (new)—both the extreme of each other in Doctrinal matters. A meeting is to come off <hi rend="italic">this evening</hi>: shall I go?—</p>
+         <p>I saw Mr. Sidey the other day; I told him of you—he said, he had written to you. He has been unwell from Bronchitis,—caught too, <hi rend="italic">in train</hi> (like mine!) owing to the women must have the windows down! Thoughtless things, they are always huddled up.—</p>
+         <p>There is no similarity betw. Maire &amp; Box wood; both are hard, and so are Diamond &amp; Flint. It is the <hi rend="italic">fine grain </hi>of Boxwood which makes it so valuable. <hi rend="bold">[</hi>Just as I had written <hi rend="italic">so</hi>:—a knock at door: Mr. Ellison w. assistants to <hi rend="italic">measure</hi> land!! in order to their <hi rend="italic">fresh rating</hi>! they are at it now.<hi rend="bold">]</hi>
+         </p>
+         <p>On looking over your last letter again, I read the following: (<hi rend="italic">if I am correct </hi>in decyphering it!)— “I will enquire for our English post for letter re Maori Lexicon.” I mention it, as you may be able to illuminate it.—</p>
+         <p>Langham has been committed to take his trial for murder of his wife! a sad case.</p>
+         <p>I notice a sad case in a late Australn. paper; a yg. man <hi rend="italic">15</hi> years in Bk. N.S.W. from boyhood—only son of a widow w. whom he lived—must join those Boating Clubs &amp; <hi rend="italic">must gamble</hi>—Defalcation ₤6000. Tried on 1<hi rend="sup ">st</hi>. chrge of ₤500. pleaded guilty: 5yrs. penal servitude. (J. King, again.) He was greatly <hi rend="italic">liked </hi>&amp; <hi rend="underline italic">respected</hi> in the Bank. May <hi rend="italic">our</hi> yg. fellows here stand.</p>
+      </body>
+   </text>
+</TEI>

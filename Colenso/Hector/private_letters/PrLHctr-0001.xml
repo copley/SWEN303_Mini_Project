@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1109">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>17 May 1864: Hector to Hooker.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">James Hector</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Kew DC 174, 427, ATL Micro-MS-Coll-10-16, 418-420.</p>
+         <p>Transcription published in "My Dear Hooker: 
+Transcriptions of letters from James Hector to  
+Joseph Dalton Hooker between 1860 and 1898", Rowan Burns &amp; Simon Nathan.  Geoscience Society of New Zealand miscellaneous publication 133B, 2012.  ISBN 978-1-877480-21-8. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133B.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1864-05-17">1864 May 17</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hector to Hooker, 17-5-1864, Kew DC 174, 427, ATL Micro-MS-Coll-10-16, 418-420.</p>
+      </front>
+      <body>
+      <p> 
+Dunedin</p>
+         <p>17th May 1864</p>
+         <p>My dear Hooker,</p>
+         <p>My last letter was allowed to miss the Post most stupidly last
+ month so that you 
+would receive a parcel containing a few mosses without any advice. 
+I trust that you have 
+received all the Parcels that 
+have been sent by Book Post now as they contained the West 
+Coast Plants.</p>
+         <p>In answer to your question about the absolute diff. of the E. &amp; W. Coast flora I
+enclose you a classified list. It is of course very imperfect as we dont know the names 
+rightly. It is mainly all done by Buchanan who has laboured hard to make it as exact as 
+possible.</p>
+         <p>When shall we have a list of Plants out &amp; can we hope for your 
+Book
+ before the 
+opening of the Exhibition? I have already told
+ you that Munroe and Colenso are going to 
+write essays on the Botany of N.Z. Haast Crawford &amp; I write on the 
+Geology &amp; other authors
+will do for the other ------ of the subject.</p>
+         <p>The 
+Areca
+ does not come so far south as this &amp; is limited almost to the Province of 
+Nelson in this Island I believe.  I sent you some notes about the 
+Cordylines 
+two mails ago
+which I hope you received.</p>
+         <p>I am quite in a fog about the 
+Astelia
+ here – it is certainly a bisexual plant at least what  I take to be the 
+Astelia 
+ is so I enclose a part of a flower.</p>
+         <p>I start in a few days for a six weeks tour of the other Provinces in order to drum up the folks to work for the Exhibition. It makes a nice trip for me. I shall visit the New diggings which have broken out in Nelson. 
+It is very interesting. It has always puzzled me why the 
+diggings have hitherto been confined to this Province. </p>
+         <p>Along with the enclosed list 
+I send a map of the Province 
+with the districts marked into where I have
+divided it. I also send you 
+a photograph of a map I have brought out of the 
+N.W. district which will
+ serve to show you the cut of our 
+Alpine regions. Also a page of a 
+report that is passing through the Press as it relates to the Herbarium work. I shall be glad of a
+trip away just now as I have not
+ been feeling altogether right. 
+In confidence
+ I may mention
+that the General Government have, or intend 
+to propose engaging 
+me as Geologist for the whole colony in which case I shall 
+not see you &amp; other friends for many days to come. I have 
+ getting the stamps 
+for Mrs. Hooker I am sorry to say – </p>
+         <p>Ever Yours Affectionately </p>
+         <p>James Hector. </p>
+         <p> PS <!--illegible: one line-->
+</p>
+</body>
+   </text>
+</TEI>

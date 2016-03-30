@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0182">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1895 Danevirke or Dannevirke? Hawke’s Bay Herald December 11.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1895-12-11">1895 December 11</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1895-12-10">1895 December 10</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p><hi rend="bold">1895 Danevirke or Dannevirke? <hi rend="italic">Hawke’s Bay Herald</hi> December 11.</hi></p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—Permit me (for the information of the public generally) to correct a glaring error in the letter of your “Own Correspondent” at Waipawa, which appeared in your paper on Saturday last. Had it been merely one of his ordinary usual ones I should not care to notice it. He says: “An official notice has been sent to the local post-office from headquarters to the effect that in future the official spelling of the name of the town shall be Dannevirke! I wonder who is responsible for this new barbarism?” Now Dannevirke (with two n’s) is both the original name of the said town, and the properly spelled orthographical one in accordance with the old Scandinavian language, and so “the new barbarism” (or brass ignorance) pertains to your “Own Correspondent.” I may add that I have often had to call the attention of visitors there (as well as to reply to questions from abroad) as to the proper spelling of the word, which, however, has always been painted correctly on the Government signboard at the railway station, as well as printed so in the Government railway time-tables.—I am, &amp;c., </p>
+      <p>
+        <hi rend="smallcaps">           W. Colenso.</hi>
+      </p>
+      <p> Napier, December 10th, 1895.</p>
+    </body>
+  </text>
+</TEI>

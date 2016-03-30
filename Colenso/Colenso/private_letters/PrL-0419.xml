@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0419">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1880 July 27: to Hector</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Museum of New Zealand—Te Papa Tongarewa MU000094/005/0002</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">Hector</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1880-07-27">1880 July 27</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1880 July 27: to Hector<note xml:id="ftn3-48" place="foot" n="48"> Museum of New Zealand—Te Papa Tongarewa MU000094/005/0002</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>July 27, 1880.</p>
+         <p>My dear Dr. Hector,</p>
+         <p>Thanks, many, for your kind note of 23<hi rend="sup">rd</hi>. (tho’ but a wee one,)—only to <hi rend="italic">see</hi> your hand writing opens to me a floodgate of rushing thoughts! much like the turning up of  a prized specimen of shell or plant—gathered in years gone by.—</p>
+         <p>I feel I must write to you by this Mail, tho’ but briefly,—being over busy in sending out the vols. xii. “Trans.”, just to hand, for which Members have been rather impatient: and the making them up, addressing, entering, <hi rend="italic">seeking for “franks”</hi>, &amp;c &amp;c takes a lot of my val. time: and I am <hi rend="italic">again</hi> left in the lurch, to do <hi rend="italic">all</hi> for our monthly Society Meetings.—</p>
+         <p>And here—while on this,—I would <hi rend="italic">again </hi>ask you, to let me have your name (or Mr. Gore’s) written some 50 times, wherewith to “frank” the Book packets. It is (or might be, did I not hunt up franks from persons authorized to do so,) a heavy drawback on our funds to have to <hi rend="italic">pay</hi> for the postage,—ea. Book weighing over 3 lbs., and over ¾ ths. of our members reside in the Country,—while to nearly all of <hi rend="italic">their </hi>local P. Offices there is but little for the daily Mails to carry. Do think over this. Several persons here in H. Bay are members of the <hi rend="italic">Wgn.</hi> Phil. Soc., and they can &amp; do get their vols. <hi rend="underline italic">free</hi> to their door; &amp; this, of course, causes talk, comparison, jealousy, &amp;c. Besides, it is the more needful <hi rend="italic">now </hi>for you (parent Soc.) to help your Chick, at <hi rend="italic">no cost</hi> to yourselves, for you call on us (and rightly, too,) for our subsns. towards publication, &amp;c.,—<hi rend="italic">so help us in return</hi>. By the way, Capt. Russell is now here, and is a <hi rend="italic">Governor</hi> of your N.Z.I., and, if I <hi rend="italic">see</hi> him, I shall speak to him about it.—Though a still easier &amp; fairer mode (as I pointed out to you 2 years ago) would be, for the P. Master General to issue a notice to the ½ doz. P. Offices where Branch Societies are, to allow of your N.Z.I. Books going <hi rend="italic">free.</hi>
+         </p>
+         <p>You may trust my honour w. your franks, that they shall <hi rend="italic">only</hi> be used for <hi rend="italic">your Books</hi>, and our P. Master will accept of them, so pasted on.</p>
+         <p>Yesterday I sent you a short telegram (in reply to yours) to say, thye sume required from us of 1/- per vol. should be sent immediately I know the amount, from the exact no. of vols. we are to have.—At the same time I will remit a few shillings I owe Mr. Gore.</p>
+         <p>You might well say, “I should be astonished at the House striking out the £500. for the Institute”! Aye, and doubly so, &amp; <hi rend="italic">more</hi>, at their voting such a sum for John White’s Romances!! Had I not <hi rend="italic">previously</hi> heard of it—or <hi rend="italic">both</hi>—through our Papers, I should have dropped yur letter with astonishment, and w. the Dominie of old roared out “Prodigious!”—or something <hi rend="italic">worse</hi>. But, surely, you will yet find means to <hi rend="italic">have</hi> that £500? I had thought it was <hi rend="italic">secured</hi> by <hi rend="italic">Act</hi>: the Govr. should insist on it. However, I, for <hi rend="italic">my part</hi>, will agree to this (<hi rend="underline italic">if wanted</hi>), to give £20. a year for (say) 5 years: and then, others too similarly helping, there is the fair demand for you to make to all Branches—2/6 to 5/- per head per ann. The work <hi rend="italic">must</hi> be kept up anyhow.</p>
+         <p>I would that J. White should <hi rend="italic">collect</hi> all that he could (indeed I would, if required, aid him pecuniarily in doing so,) but I would not allow him to <hi rend="italic">add </hi>thereto: he is a terrible fellow for romancing, &amp; running off to antipodal extremes; utterly devoid of <hi rend="italic">clear</hi> &amp; <hi rend="italic">sober</hi> judgment, or of making any thing approaching to a <hi rend="italic">reasonable</hi> deduction. Indeed, he firmly believes <hi rend="italic">all</hi> the Bible says, for he has more than once told me so:—<hi rend="italic">ergo</hi>.—</p>
+         <p>In all that he is worse than Taylor, and as bad as Stack (!!) who has not <hi rend="sup">1</hi>/<hi rend="sub">10</hi>
+            <hi rend="sup">th</hi> of J. White’s knowledge of the Maori lang. &amp;c.—</p>
+         <p>My poor unfort. Lexicon is up again! for a target of abuse. If folks who <hi rend="italic">ought</hi> to know better (<hi rend="italic">e.g.</hi> Mr. Gisborne, Editor Auckland “Weekly News”, &amp; others,) would but write &amp; speak truthfully, I should not care. I think <hi rend="italic">you know</hi>, that I have had no pay (being struck off) since March 1870: <hi rend="italic">neither do I seek any</hi>. All I want is, for Bryce to do me justice, and print those few specimen pages I <hi rend="italic">copied</hi>
+            <hi rend="italic">for press</hi> at Sir Donald’s request in 1875. Bryce has just given <hi rend="italic">barely one page</hi>! so making the work, &amp; me too, appear <hi rend="italic">ridiculous. </hi>Have you any interest or influence in <hi rend="italic">that</hi> direction? Some one of old said, “Women &amp; children should never see an <hi rend="italic">unfinished </hi>painting”: I think that you and I could <hi rend="italic">add</hi> to that.</p>
+         <p>I send you in a registered parcel a specimen of the Mohaka “Gold-bearing Quartz”, as I cannot learn of your having had any sent, while much has been sent to Auckland: and, according to analysis there, it is said to yield 4oz. to the ton. The spot is in that very broken country N.E. from where you have crossed the Mohaka R. in going hence to Taupo.—</p>
+         <p>Did you, while at Sydney, receive a note from me <hi rend="italic">re Lomaria Patersoni</hi>, and, also, the Australian wines—whose stand the highest in the Jurors’ Awards. I am greatly interested, for I wish to order some, as Australn. wine, <hi rend="italic">1</hi>
+            <hi rend="sup italic">st</hi>
+            <hi rend="italic">. class, suit me well</hi>.—</p>
+         <p>You ask “What I think of vol. xii?” Right, but I <hi rend="italic">cannot</hi> answer it <hi rend="italic">now</hi>: I have not yet found spare time to look into the vol.—<hi rend="italic">these</hi> I only received on Friday night last (detained at Port through rains), and the one official copy, kindly sent me by Mr. Gore some 6 weeks ago, has had to run the gauntlet w. the officers and Members—but I will be sure to write you anon. One thing I have noticed—the <hi rend="italic">omission</hi> of pages xvii and xviii.—though referred to at page xiv.</p>
+         <p>And now I must stop.—</p>
+         <p>Believe me, yours</p>
+         <p>very sincerely</p>
+         <p>W. Colenso.</p>
+         <p rend="center">Memo</p>
+         <p>put here just to aid your memory—<hi rend="italic">answers required.</hi>
+         </p>
+         <p>1. Lomaria Patersoni.</p>
+         <p>2. Australian wines—Jurors’ Reports of.</p>
+         <p>3. “Franks” required.</p>
+         <p>4. Of “Quartz” from Mohaka.</p>
+      </body>
+   </text>
+</TEI>

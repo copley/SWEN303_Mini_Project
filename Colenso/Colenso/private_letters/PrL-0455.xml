@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0455">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1881 July 1: to Drummond</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/13.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73880/">Drummond</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1881-07-01">1881 July 1</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1881 July 1: to Drummond<note xml:id="ftn3-91" place="foot" n="91"> ATL 88-103-1/13.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier July 1<hi rend="sup">st</hi> 1881</p>
+         <p>Mr John Drummond</p>
+         <p>Dear Sir</p>
+         <p>Thanks for your kind and welcome note of the 28<hi rend="sup">th</hi>. June; I can hardly say which predominated in my mind, on reading it―plea­sure or pain; ―I was pleased, greatly so in hearing of your success in your trade (may it continue &amp; increase!) ―grieved, at finding that you, too, had <hi rend="italic">known</hi> the pains and trouble of lumbago; I have suffered a good deal from that foe― “off &amp; on” (as sailors say) ―throughout many years, which has caused me to be very careful now―hence it is, that I am seldom seen in town without my little cloak on my arm, not for rain, but to put over the back of a <hi rend="italic">hollow</hi> back chair should I sit down on one. You will have to be careful of sudden exposure to dr­aughts―&amp;c., especially that part of the body (loins). A very good thing is to use, or wear sulphur in your boots―about a tea-spoonful in each boot, renewed now &amp; then. I have used it, and found great benefit, so did Garry when working as a Smith at Havelock, and so did Dyer the “bus­man” and others. I wore it in my slippers also, it goes into the body, &amp; causes ones clothing to have a disagreeable Sulphur smell, &amp; turns <hi rend="italic">the silver in your pocket, watch, &amp;c, black</hi>;­―</p>
+         <p>I have just sent off your parcel to R Station to go to Waipawa by Early mg. train tomorrow, &amp; I hope you may safely receive it; With great pleasure I have done as you wished written our names in Vol XII. I should also like for you to have Vols X, &amp; XI (which contains some more of my writings) and particularly Vol I (the 2<hi rend="sup">nd</hi> edition) which contai­ned my <hi rend="italic">Prize</hi> essay on the Maoris, (besides) one on N.Z. Botany which was the cause of a 2<hi rend="sup">nd</hi> edition of that Vol being printed. There was such a demand for it.</p>
+         <p>I have also sent you another book (as a present) which I bought in<hi rend="italic"> </hi>town 3 days ago; the <hi rend="italic">fine</hi> frontispiece drew my attention, and I had supposed there were <hi rend="italic">more</hi> like it in the book; however you will find a few good things; in it:. ―</p>
+         <p>Am<hi rend="sup"> </hi>glad to hear my<hi rend="sub"> </hi>namesake is so well, &amp; growing away, and that your good wife is well also―my kind regards to <hi rend="italic">all</hi>; which means an extra dance &amp; a dozen <hi rend="italic">big</hi> kisses for Willie.</p>
+         <p>You have <hi rend="italic">again</hi> touched on the vein of that I.O.U., just let that <hi rend="italic">stand over</hi>; <hi rend="italic">first get yourself free of all debt,</hi> then get a bit com­fortable, &amp;c, <hi rend="italic">don’t</hi> think of <hi rend="italic">that</hi>.</p>
+         <p>The weather here is still delightful; day after day the same, near­ly ½<hi rend="sub"> </hi>the winter gone, and none here yet; That day of cold &amp; wretch­edness with me at Waipukurau (2<hi rend="sup">nd</hi> May) was the worst day, <hi rend="italic">to me</hi>, of the season.</p>
+         <p>Hoping this will find you all quite well (I am tolerably so)</p>
+         <p>I am, Yours truly</p>
+         <p>W. Colenso</p>
+      </body>
+   </text>
+</TEI>

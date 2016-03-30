@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0075">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: TEN POUNDS REWARD</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <creation>
+          <date when="1878-02-14">1878 February 14</date>
+          <name type="place">Napier</name>
+        </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <hi rend="bold">TEN POUNDS REWARD</hi>
+         </p>
+         <p>WHEREAS some trespasser on my premises did last night about 11 o'clock brutally kill my brown retriever Dog Carlo, here close to my house: the above reward is therefore now offered to be paid by me to any one who will give such information to the Inspector of Police as will lead to the conviction of the offender.	 <lb/>  Public Warning is also hereby (once more) given, that all persons caught trespassing on my grounds, whether by day or night, will be prosecuted.</p>
+         <p>TWO GUINEAS REWARD will be paid by me to any policeman on conviction of any person whom he may apprehend trespassing on my grounds after dark. </p>
+         <p>				WILLIAMCOLENSO.</p>
+         <p>Napier, February 14, 1878.</p>
+      </body>
+   </text>
+</TEI>

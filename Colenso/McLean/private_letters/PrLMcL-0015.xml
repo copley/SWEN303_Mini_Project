@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0015">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1861 February 1: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>Encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1861-02-01">1861 February 1</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1861 February 1 McLean to Colenso (#1027452) </p>
+		</front>
+		<body>
+			<p>Auckland February 1st, 1860. </p>
+			<p>My dear Mr Colenso </p>
+			<p>Many thanks for your kind letter of the 21st. Decr. with its accompanying enclosures. I have read Mr Fitzgerald’s answer to the natives with great interest. I shall bring in portions of it to the Maori Messenger whenever some other matter now in hand is disposed of. </p>
+			<p>I know well how Renata must have been prompted when he made such a speech; it is much to be regretted that clerical influence is turned to such a very bad account. </p>
+			<p>I feel much indebted for the assistance you are a affording in the Maori question and shall order, indeed I have already done so, additional numbers of the Messenger for you. </p>
+			<p>The last sweep at Taranaki in which the natives sustained an ascertained loss of 50 killed and the English only 5 and 12 wounded will be a lesson to the poor deluded fanatics are rushing to their own destructions. The General &amp; the troops under him are behaving admirably; now that they understand Maori tactics it is to be hoped they will soon bring the war to termination. The English press is with us and quite against ecclesiastical interference.  </p>
+			<p>The Saturday review takes Hadfield’s part. </p>
+			<p>I am sending a book that Dr Knight handed to me for you. I should be at Napier by this time but the critical state of affairs so near the scene of King making disaffection prevents my leaving. I start with the Governor to the Bay of Islands, Ahipara and Hokianga on Monday next. I shall be always glad to hear from you. </p>
+			<p>Yours very truly Donald McLean </p>
+		</body>
+	</text>
+</TEI>

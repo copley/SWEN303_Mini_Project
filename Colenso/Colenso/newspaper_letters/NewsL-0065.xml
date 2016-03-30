@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0065">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1868 To the editor. Hawke’s Bay Herald 17 November.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1868-11-17">1868 November 17</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1868 To the editor. 	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 17 November. </hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—For some time past I have regretted to notice your almost continual attacks on Mr. Stafford<note xml:id="ftn26" place="foot" n="26"> Stafford, Edward William, 1819–1901, Runholder, provincial superintendent, premier, sportsman. In 1867 the four Maori electorates were established to incorporate pro-government Māori into the political system. Stafford asked Governor G.F. Bowen to pardon some former ‘rebel’ chiefs. Te Kooti’s attack on Poverty Bay in November 1868 heightened the sense of crisis and almost obscured the fact that Titokowaru (Taranaki and Wanganui) was the greater danger. The ministry did, however, concentrate its forces on the west coast of the North Island, so bringing on itself the fatal enmity of McLean, superintendent of Hawke’s Bay. McLean was sacked by Stafford from the government agency in Hawke’s Bay in March 1869. (Dictionary of New Zealand Biography) —<hi rend="italic">Ed.</hi>
+            </note> (a man to whom, to say the least, Hawke’s Bay, as a province, is greatly indebted), and which, I think, culminated in your issue of Saturday last, wherein you state (conspicuously, and directly after your article) that “Mr. Stafford is said to have received on Wednesday evening intelligence of the Poverty Bay massacre,<note xml:id="ftn27" place="foot" n="27"> Te Kooti’s Hauhaus had burned farmhouses and killed people—<hi rend="italic">Ed.</hi>
+            </note> and, next morning, to have left Wellington for the Wanganui racecourse!”  </p>
+         <p>Now this may be quite as truthful as the statement of your contemporary in his paper of the 5th, in which he gives a detailed account of <hi rend="italic">his</hi> having observed the transit of Mercury over the sun on the evening of the 4th—exactly twentyfour hours before that event happened!! </p>
+         <p>But, be that as it may, the taste, or the political animus, which caused it is certainly most objectionable; and therefore it is that I, as one of your old subscribers, protest against it. To me there is just as much real connection between Mr. Stafford and the sad doings of the Hauhaus here on the East Coast, as between Tenterden steeple and Goodwin Sands. </p>
+         <p>Surely, Sir, just now events are serious and sad enough to be truthfully dealt with as realities. Allow me, as an old settler, and as being deeply interested in the welfare of the province, to beg of you not to mix up politics or expediences with momentous passing events of life and death, of weal or woe to Hawke’s Bay. And to ask of you (now a settler of some years’ standing) to stand up for truthful reports, and to expose all shams.—To wit: where on earth is the need of a night patrol of militia in this little isolated and all but impregnable town of Napier? (of Tanners “Cavalry,” too!!) Where is the enemy to come from? By balloon into the midst of Napier? Is not the fact of such nonsensical shams being done (allowed or ordered) a strong and valid reason for alarming all the outsettlers?— I am, yours, &amp;c., </p>
+         <p>
+            <hi rend="smallcaps">Wm. Colenso. </hi>
+         </p>
+         <p> Napier, Nov. 16, 1868.</p>
+         <p>P.S.—If there is real danger to the town, why not call a public meeting? </p>
+         <p>[We insert this letter, but we confess to some amazement as to its tone and tenor. So far as we ourselves are concerned, we have said nothing regarding Mr. Stafford that we do not believe to be true.—Ed.] </p>
+      </body>
+   </text>
+</TEI>

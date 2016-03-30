@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0081">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1852 November 9: Octavius to Octavia Hadfield</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  Page 242.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 9.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1852-11-09">1852 November 9</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key=" http://wtap.vuw.ac.nz/eats/entity/70767/">Octavia Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1852 November 9: Octavius to Octavia Hadfield</p>
+      </front>
+      <body>
+      <p>Wellington, Nov.9.52.</p>
+      <p>My dear Octavia,</p>
+      <p>I seem now always to write to this place but the truth is, I do not like to write till I hear some ship is going, otherwise my letter remains two or three weeks in the post office.  I think when I was last here I wrote to George.  I have not heard form you very lately; my last letters must have been dated about May.  </p>
+      <p>About three weeks ago I went up the beautiful Manawatu river for about 90 miles.  I was ten days there and visited the old places which I had not seen for many years.  Williams usually visits them.  But I went to administer the Lord's supper to some who are unable to come down the river to the place where I usually administer it.  I found the natives had very much improved sine I had been among them.  What a wonderful change has taken place!  I saw three persons who were dying:: one not much liking the prospect of death, not being very clear as to his prospect,; another quite resigned and putting his trust in his Saviour; the third full of faith and hope and rejoicing at the thought of meeting his Lord.  I confess I do not know what could be more pleasing and delightful work than that in which I am engaged.  Of course there are many occurrences which tend to depress one's spirits; but I cannot help feeling that whatever of evil I see must have existed, and even in greater powers had I never come here, but that the good could not have existed without God's holy work.  I seem to rejoice in the good without letting the evil depress me.  I sometimes ask myself whether one ought to have any joy while so much evil exists around one in the world; but then I reflect that there is so much evil allowed by God in His wisdom to remain in the world that no possible efforts of man could remove it in even many generations, and yet we are told to "rejoice", so that we may rejoice and be glad when we behold whatever there may be of good and lovely around us, notwithstanding the existing evil.  I trust, however, that I may day by day learn more the importance of living to God - of remembering that the going requires continual energy and devotion, nay, self-sacrifice and self-denial in His service.  How apt we are to allow false notions of God to occupy our thoughts - in fact to fear idols instead of realising the living God.  We may delight in contemplating and worshipping and praising God, and by degrees forget that we are sent into the world to act to spend every hour in some labour of love,- in doing something for God's glory, or the eternal well-being of our fellowmen!</p>
+      <p>At Otaki we are going on with our school.  We are now building a large Boarding-house for boys.  We shall by and by proceed with the girls' school.  I trust that this school may be the means of benefiting the children.  They are more difficult to manage than the last generation from having grown up with the sound of spiritual things upon their ears, without always having had sufficient instruction in the meaning of them to lead them to reverence them as they ought.  We hope by means of a school to remedy this.  There is to be a similar establishment at Whanganui, and a clergyman has been engaged to conduct it.  I am looking for a master for our Otaki school and cannot find one.  I have &#163;100 per an. to give him, and Sir G. Grey told me yesterday he would add to this if I could get a good man.  I must hope to be directed in obtaining a suitable person.  I was attacked by Sir G. Grey yesterday about church matters in Wellington he complained that the hospital and jail were not sufficiently attended to by the Colonial chaplain, Mr. Cole, that these institutions were more attended by Romanists and dissenters.  I felt quite grieved because I knew it was true.  The Bishop is expected here in a fortnight or so, and I therefore persuaded Sir G. Grey to wait till his arrival before he made any alteration.  Our church has had every opportunity of doing good in this country, but has not availed itself of it sufficiently.  What nonsense was talked in the House of Commons on Mr. Gladstone's bill for freeing the church in the colonies from certain inconveniences and restrictions which is now suffers.  I intend to go on moving in this question, because I am convinced that the well-being of the church here depends upon its being settled properly.</p>
+      <p>I had a visit a week ago from a Mr. Carleton, a gentleman who has been some years in N.Z..  He was an old school-fellow of the Bishop and Mr. Abraham and was also at Cambridge with them.  He though unknown to my father-in-law, saw that he had been unjustly treated by the Bishop and Church M. Society, and has courageously written in his defence in the local papers.  If the Committee does not give in on the subject, he will publish a pamphlet on the subject which must injure the Society very much.  And yet I see no alternative, The Society stands, or ought to stand on its love of truth and justice; its only professed object being to promote the glory of God, but if it sacrifices them to any temporary expediency, it seals its own doom.  I, for one love the Society and many other things, but I love truth and justice more than all, because whatever may become of aught else they must endure forever.  I therefore cannot allow an act of injustice to be passed over, - whatever may be the consequences.  Mr. Venn seems to me and to others here to have lost his love for truth; he will be ruined out here if he perseveres in the course he is now pursuing. </p>
+      <p>Yesterday an official despatch came per Auckland to the Gov. to say that gold had been discovered there.  It is difficult to say what will <supplied>[be]</supplied> the effect of this.  I am afraid the numbers who are arriving at Melbourne from England will suffer much misery.  I left Kate at Otaki.  She is very well.  She would have written had she known I was writing.  With love to my Mother and all at home,</p>
+      <p>I am,</p>
+      <p>Ever your affectionate brother,
+      </p>
+      <p>Octavius Hadfield.</p>
+      <p>The St. Hills are quite well.</p>
+      </body>
+   </text>
+</TEI>

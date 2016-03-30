@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0030">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1860 Open column. Hawke’s Bay Herald 14 April.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1860-04-14">1860 April 14</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1860 Open column.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 14 April.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—I was not a little surprised to see in your last week’s issue certain remarks stated by you to have been made by Mr. Alexander, (member for Napier country district,) and placed by you under the general head of <hi rend="italic">Provincial</hi> 
+            <hi rend="italic">Council</hi>; giving the unwary to suppose that such remarks were really made to or before the same. That Mr. Alexander did speak much as you have reported is no doubt correct enough; but, the council having previously adjourned, there was none then sitting. No notice could therefore possibly be taken of what he then said; to say nothing of the great irregularity of speaking on a subject of which no motion had been given, or for which leave has not been specially obtained; especially when (as in this case) the words or conduct of a member of council is strongly reproved. Had you, Sir, allowed those words of Mr. Alexander to remain in the obscurity to which they were unanimously consigned, I venture to think you would have acted more wisely. As it is, and as I take it, I have no alternative but to ask you to publish the following letter to Mr. Alexander— a gentlemen whom I have long known, and for whom I have ever had the highest regard.</p>
+         <p>			I am, Sir,</p>
+         <p>				Yours truly,</p>
+         <p>
+            <hi rend="smallcaps">Wm. Colenso.</hi>
+         </p>
+         <p>
+            <hi rend="smallcaps">To A. Alexander Esq., M.P.C. </hi>
+            <hi rend="italic">	
+               <lb/> “Per favor of Editor of Hawke’s Bay Herald</hi>”<hi rend="bold"> </hi>
+         </p>
+         <p>
+            <hi rend="smallcaps">Dear Sir</hi>,—My attention has been called to a statement in the “Herald” of last week, in which the Editor reports you as publicly saying:— “The natives were grieved to hear that remarks to their prejudice had been made in the council by one who knew them well and intimately, and who should have regarded them with feelings of more deference and respect.” Now there can be little doubt but that I am the individual referred to by you. And as such a remark is now published to the world as coming from a gentleman who has not only long and intimately known both the natives of Ahuriri and myself, but who, also, heard what I did say in my place in council at the time alluded to (when speaking on the motion concerning the resolution of sympathy and thanks to the Governor of New Zealand and to the Superintendent of Taranaki). Sir, I have taxed my memory; I have enquired of those who were present at the time, both in the council and in the gallery; and I have looked over what I am reported in the “Herald” as having said on that occasion, and I cannot tell what it is to which you, or the natives, or both so pointedly allude. What did I then say beyond the truth which is now by you so strongly objected to? which is so very grievous to be borne? If any such very prejudicial remarks were made by me in the council, why were they not <hi rend="italic">then</hi> met and opposed? Why did not Tareha’s friend do so? at a time, too, when my sayings were living and present and could be noticed. On the contrary, Did you not say, that you “generally agreed with what had fallen from both the members for Napier”? that you “entirely concurred in what had been said regarding the course pursued by the Governor; and quite agreed that it was proper and just for the council to express sympathy with the settlers of Taranaki who were quite victims to the aborigines of that part ef the country”? [<hi rend="italic">vide</hi> “Herald,” March 31st.] Further, Did any other member offer a single adverse remark? Was not the council unanimous upon that resolution? Sir, I believe that I may very fairly question <hi rend="italic">your</hi> right to make any such condemnatory remark, when I consider the very strong applauding language you (generally too so cautious) used respecting what the two town members had said who had preceded you in the debate. I, also, think, that I may properly enquire, (seeing that you yourself are commonly spoken of as having been their informant,) Who told the natives that any such prejudicial remarks concerning them had been made in the Council? And, why, in their making such a complaint to you, were they not by you at once set right? You could have told them what had really been said: you could also if you pleased, have translated for them word by word all I said (as reported in the “Herald”) with the whole of the resolution of the council. If it be so that they object to what I really said, or to the resolution, I have nothing further to say—save, that I am prepared to stand by both alike. If, on the contrary, they object to some strange language they have been led to believe me to have said, or to some bugbear of their own, or to the surmisings of a guilty conscience, they must fall back upon the authors. </p>
+         <p>In conclusion, I will add, that, at the time of your (irregularly) making the statement referred to, I was recommended (for several reasons) not to notice it. So it dropped. And, as I have already said, I think it would have been much better if it had not been again resuscitated. As, however, it has, I find myself obliged to call your attention to it for some explanation; which, in the present excitable time, I cannot but think highly necessary. </p>
+         <p>				I am, Dear Sir,</p>
+         <p>				Yours sincerely,</p>
+         <p>
+            <hi rend="smallcaps">Wm. Colenso</hi>. </p>
+         <p> Napier, April 10, 1860.</p>
+      </body>
+   </text>
+</TEI>

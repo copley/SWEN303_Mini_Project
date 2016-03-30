@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0047">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1844 May 30: to Coates</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Hocken Library Ms Vol 63; ATL qMS 0491.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/70864/">Waimate</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71268/">Coates</name>
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/5754/">London</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1844-05-30">1844 May 30</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1844 May 30: to Coates<note xml:id="ftn1-49" place="foot" n="49">Hocken Library Ms Vol 63; ATL qMS 0491.</note>
+         </p>
+      </front>
+      <body>
+         <p>Dandeson Coates, Esq.,</p>
+         <p>C.M. House,</p>
+         <p>Salisbury Square,</p>
+         <p>London.</p>
+         <p rend="end">St. John’s College, Waimate,<lb/>May 30, 1844.</p>
+         <p>My dear Sir,</p>
+         <p>This Letter will, I trust, be delivered to you by Mr. James Busby, late British Resident at this place, who is now about to leave for England viâ America. As Mr. Busby only arranged to sail by this vessel two days ago, and she is to sail from this place the day after tomorrow, I have only tme to write a few words. From Mr. Busby, however, you will be enabled to obtain a much more correct account of the present state of N. Zealand; the Mission, and the Natives, than from any person who has merely visited these shores, or resided for a short time in the Country.</p>
+         <p>My last Letter to the Secretaries, was dated October 2/43, at which time I was about to leave the Waimate on a visit to the Natives in the Southward. From that visit I returned on the 15<hi rend="sup">th</hi>. February to this place, and still remain. I <hi rend="italic">hope</hi> to leave the Waimate at the end of the term—September next; but I do not <hi rend="italic">know</hi> whether I shall of not. At this time several of the Mission are here:—1<hi rend="sup">st</hi>., Archdeacon W. Williams, Rev. R. Maunsell, and Mr. Puckey, on the revision of the Testament, &amp;c.,—(although the Archdeacon has not yet arrived to the Waimate but is near by.)—2<hi rend="sup">nd</hi>. Messrs. Chapman, Hamlin, Jos. Matthews, and self, and Mr. C.P. Davies, (Mr. H. Williams’ son-in-law,) as students.—You may truly suppose, the Natives in the different districts are nothing bettered by their Missionaries being absent.</p>
+         <p>I hope, my dear Sir, that <hi rend="smallcaps">God</hi> will still graciously overrule all events for the good of His Church in N. Zealand and still bless the C.M.S. in their Missions. I dare think you particularly need His guidance just now. Mr Davies is at Kaitaia, and Mr. Dudley is removed to the Thames and the Waimate District may be said to be without a Missionary:—other Districts, too, are loud in their complaining. Popery is active: one of the P. Priests was introduced the other day by the Bishop’s Chaplain into the Native Infant School in this place under Mrs. Colenso. I hoped to have sent you a copy of my Journal ere this, but the Bishop has it still in his possession; I dare say, however, I shall soon have it returned. The Press is now engaged in printing 500 Copies of the Sunday 1<hi rend="sup">st</hi>. Lessons in 8vo., with which, however, I have nothing to do. Rev. H. Williams is about leaving to supply his Brother’s place at Turanga.—But, as I have already said, Mr Busby can give you much news respecting the Mission.</p>
+         <p>I hope, C.M.S., have been pleased to grant me the little Press, &amp;c, which I wrote for. If I go to Ahuriri, I shall have an immense parish, (from some miles N. of Ahuriri to Palliser Bay!) containing a scattered people, to look after; and shall be almost cut off from the other Missionaries—being six day’s journey from Turanga, the nearest Station; or, if Wairoa be occupied by Mr. Hamlin, 4 long day’s-journey from that place. But, if I go, I hope to go in faith, and in the strength of the <hi rend="smallcaps">Lord</hi>, and to make mention of His righteousness, and of His <hi rend="italic">only</hi>. I feel, at times, much cast down, at the many obstacles which still appear to lie in my way to active Missionary duty;—and, I often fear, that ere I go forth (if I ever do?) I shall in some respects be unfit for much exertion:—but I endeavour to “look up,” and at times am enabled to cast my care upon the <hi rend="smallcaps">Lord</hi> who careth for us. My longing ardent desire is still to serve the <hi rend="smallcaps">Lord</hi> Jesus Christ among the poor Natives of New Zealand, who now, more than ever, need loving, discerning, and zealous guides. Oh! pray for us—for <hi rend="italic">me</hi>.</p>
+         <p>A party of Natives from Wangarei, with their Teacher at their head, was here the other day to “fetch <hi rend="italic">me</hi>”; they endeavoured in two days’ striving to prevail upon the Bishop to consent to their request, but he told them he could not do so. We could not help weeping at parting. I am (I believe) to go to see them in about a month’s time; which, however, being mid-winter, is a bad season for travelling in.</p>
+         <p>As your Public Store is no longer in being, I shall soon be necessitated to send a large order to England for necessary stores for forming a new Station, if I am to go to Ahuriri.</p>
+         <p>In the last Lot of Goods which were kindly sent out from C.M.S. to me, the Contents of the Case No. 24, containing Maps, Umbrellas, and Binder’s skins, were entirely destroyed by salt-water, which eat even the tin-plate Case, in which they had been packed, full of holes; the value of the Contents, as per your Invoice, was £<hi rend="italic">4.17.6</hi>. Should you be pleased to procure and send me any more Maps, &amp;c., before my next order, please get me some additional <hi rend="underline italic">Blank</hi>
+            <hi rend="italic"> </hi>Maps, <hi rend="italic">from the Society for the promotion of knowledge</hi>, which I can fill up for the Natives.—</p>
+         <p>I am happy in being able to add, that Mrs. Colenso’s health is good, and that she is usefully employed in the Native Infant School: my own health is rather fluctuating, owing, no doubt, to my situation: our little girl is exceeding well.—</p>
+         <p>And now, my dear Sir, I must conclude my short Letter. Wishing you every blessing, and, above all, the continual guidance and comfort of <hi rend="smallcaps">God’s</hi> Holy Spirit, and craving an interest in your prayers— I am,</p>
+         <p>Very affectionately and obediently</p>
+         <p>yours</p>
+         <p>William Colenso.</p>
+      </body>
+  </text>
+</TEI>

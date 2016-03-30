@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1125">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>12 September 1884: Hector to Hooker.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">James Hector</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Kew DC174, 678, ATL MS-Micro-Coll-10-17, 274-278.</p>
+         <p>Transcription published in "My Dear Hooker: 
+Transcriptions of letters from James Hector to  
+Joseph Dalton Hooker between 1860 and 1898", Rowan Burns &amp; Simon Nathan.  Geoscience Society of New Zealand miscellaneous publication 133B, 2012.  ISBN 978-1-877480-21-8. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133B.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 13.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1884-09-12">1884 September 9</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hector to Hooker, 12-9-1884, Kew DC174, 678, ATL MS-Micro-Coll-10-17, 274-278.</p>
+      </front>
+      <body>
+      <p> Geological Survey N.Z., Wellington </p>
+            <p>12th September 1884 </p>
+            <p>My dear Hooker,</p>
+            <p>I have just posted to Sir. Hry. Lefroy at 
+the suggestion of our Govnr. Sir W. Jervois an 
+application certificate for his election as F.R.S. I think few R.E. Officers have better earned the distinction so I venture to ask you to
+ give his nomination your powerful support.</p>
+            <p>I have your letter of June last re 
+Cordylines
+ before me – but I am much puzzled –
+ in 
+fact as much as you can be.
+ The only point on which Kirk &amp; 
+Colenso rely for distinguishing C. indivisa
+ of N. &amp; S. Is. is the number of heads in the N. I. species, but of course that is no 
+character at all. In fact I have
+ seen quite as many many-headed specimens in the South as in 
+the those [sic] locallities in the North where 
+bruises by cattle &amp; axemen have not been an
+efficient cause divarication. Still it is curious that 
+the veins on the underside of all N. Is. 
+specimens are green &amp; glaucous &amp; S. Is. species are red. We have have [sic] had both forms
+in cultivation, but they die off in a most extraordinary manner after a few years &amp; never 
+flower with us. I have now 
+got a collection of all our 
+Cordylines
+ underweigh for you &amp; I 
+enclose a small quantity of
+ seed of the form of 
+Cordyline indivisa
+ that grows on Mt. Egmont. I
+am getting another case of plants ready for you but it is very extraordinary how unfortunate we are in our shipments to Kew. Did you not get the 
+Pisonia Saporta
+[?] &amp; other rare seeds I sent you last year. I dont see any acknowledgment of them in the Report. <!--[Marginal note, 
+other hand: Unable to trace these. W.W.]--> I put in some at the same time in my own 
+greenhouse &amp; they all came up! The 
+Pisonias
+ are now 12 inches high.</p>
+            <p>Ever Sincerely Yours</p>
+            <p>James Hector.</p>
+            <p>We get our plants out from 
+home best when they are 
+packed hard in a close box 
+without glass! I am going to try this plan with yours.</p>
+</body>
+   </text>
+</TEI>

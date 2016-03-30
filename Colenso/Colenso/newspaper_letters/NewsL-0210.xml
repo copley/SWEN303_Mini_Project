@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0210">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1898 The la Perouse expedition. Hawke’s Bay Herald 26 December.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1898-12-26">1898 December 26</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1898-12-24">1898 December 24</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1898  The la Perouse expedition.</hi>
+        <hi rend="bold italic">Hawke’s Bay Herald </hi>
+        <hi rend="bold">26 December.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—In your paper of yesterday you have given your readers the news from Sydney, of “a vessel having recently visited La Perouse islands and recovered from the natives a number of relics of the ill-fated La Perouse expedition, including pieces of old flintlock guns and Spanish coins bearing the date 1727 and 1728.” And to this you add, in your article, some interesting information respecting La Perouse, closing with these words:— “In February 1718 he sailed from Botany Bay on a further voyage of discovery, but he and his two ships were never more heard of till 1821, when the captain of an English sailing ship discovered that the La Perouse expedition had been wrecked upon a coral reef near the New Hebrides.”</p>
+      <p>There is some error in those two statements, which I should like to correct believing that I can well do so; from the fact of my having been a fellow-passenger with Captain Dillon, the discoverer of those relics, during our long voyage of more than four months from London to Sydney, 1834 (with only very few passengers), and probably the only man now living who had so long closely companied with him and conversed on the subject: I, also, saw him again in after years in the Bay of Islands. Besides that, I have the long and full and particular account of his two voyages to those islands (in 2 vols.), with lists of everything he recovered, (preserved in Paris,) for which he was amply rewarded by the King and Government of France.</p>
+      <p>The errors I wish to correct are these: 1. That it was not in 1821, but in 1826, when Capt. Dillon first heard at the little isle of Tucopea of some foreign European articles among the natives of that isle, and obtained a few of them; but it was on his return to Tucopea from Calonita in 1827, (in a ship specially fitted-out for that purpose,) that he collected at the neighbouring and larger island of Mallicolo, where La Perouse’s two ships were wrecked, such a quantity of relics of all kinds belonging to that unfortunate expedition. 2. That I cannot suppose those “<hi rend="italic">Spanish</hi> coins of 1727 and 1728” to be relics from La Perouse’s <hi rend="italic">French </hi>ships, lost there in 1788, sixty years afterward; besides, why should <hi rend="italic">French </hi>ships have <hi rend="italic">Spanish </hi>coins? Moreover we know, that the Spaniards were often in that part of the Pacific, many of the isles having been also discovered and named by them; on one of those islets near Mallicollo a small Spanish colony remained for some time so early as 1595 under Admiral Mendanz. Several other ships (not French) have also been wrecked and plundered by the natives of those groups of islands during this century. One, in particular, is mentioned by Captain Dillon. “In 1828, an American brig from River Plate was lost on one of those islands with 40,000 Spanisgh dollars on board…. The crew were saved,and part of them escaped to reside among the natives with as many of the dollars as they could conveniently carry off.” From those ships Spanish coins were more likely to have been obtained than from La Perouse’s French ships in 1788. Even in my early days here in New Zealand, before it became a colony, Spanish dollars were very common in circulation in the Bay of Islands and among the Polynesian Islands; in fact they were almost the only coin, and were in high request as an article of barter as well as for their monetary value.—I am, &amp;c., </p>
+      <p>
+      <hi rend="smallcaps">W. Colenso</hi>.</p>
+      <p>Napier, ’Xmas Eve, 1898.</p>
+    </body>
+  </text>
+</TEI>

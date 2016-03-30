@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0682">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1888? to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-1: Undated: but ?17 September.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+      </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1888-09-17">1888 September 17?</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1888? to Harding<note xml:id="ftn3-409" place="foot" n="409">ATL MS-Copy-Micro-0485-1: Undated: but ?17 September.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Monday mg. <lb/>17<hi rend="sup">th</hi>.</p>
+         <p>My Dear Sir</p>
+         <p>If you can conveniently let me have (say) <hi rend="italic">½ dozen</hi> (or 1 dozen) copies more <hi rend="italic">this mg.</hi> to send off to England—I will thank you.</p>
+         <p>Were you a wee bit surprised at <hi rend="italic">not</hi> seeing our advt. in D.T.? On Saty. mg. early Pallot sent up a boy, w. a memo. contg. clipping from H. &amp; asking for authority, &amp;c.—I wrote underneath— “Yes, on the terms I offered”—W.C.</p>
+         <p>—Which did <hi rend="italic">not </hi>please!—I <hi rend="italic">fancy</hi>, they were a wee bit “riled”, when they saw it in E.N. Should I send a copy to Ed. E.N.? I sent one to Ed. Herald.</p>
+         <p>Yours truly,</p>
+         <p>W. Colenso.</p>
+         <p>P.S. I posted copies on Saturday to all the Papers you had written down, <hi rend="italic">except</hi> Whanganui Taranaki, &amp; P. opinion Dunedin—also sent a copy to our friend of the “N. <hi rend="italic">Luminary</hi>.”</p>
+      </body>
+  </text>
+</TEI>

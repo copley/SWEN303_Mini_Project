@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0185">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1896 A New Insect. Daily Telegraph 27 April</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1896-04-27">1896 April 27</date>
+          <publisher>
+            <name type="organisation">Daily Telegraph</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1896-04-25">1896 April 25</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1896 A New Insect. <lb/>
+        </hi>
+        <hi rend="bold italic"> Daily Telegraph</hi>
+        <hi rend="bold"> 27 April</hi>
+      </p>
+    </front>
+    <body>
+      <p>Last week a somewhat remarkable insect, having fourteen pairs of legs and long antennae, was found in a house in Emerson street. It was the smaller of two seen, the larger escaping. The specimen captured was sent to the Rev. W. Colenso, for his verdict upon it, and in return that gentleman writes as follows:— </p>
+      <p>
+        <hi rend="smallcaps">Sir</hi>,—The insect you have submitted to me for examination, belongs to the class Myriapoda, order Chilopoda, and to the genus <hi rend="italic">Scutigera</hi>. It is very much like the I species <hi rend="italic">Scutigira</hi>
+      <hi rend="italic">arancoides</hi>, (<hi rend="italic">Scolopendra coleoptra</hi>, Linn, and Fab.,) an European species but, I think, quite distinct: that species is said to be venomous, and is much dreaded in Hungary. This insect is new to me, never having seen one before, and I almost doubt it being indigenous;—perhaps introduced in the egg state (with many others) through shipping. </p>
+      <p>We have here in N.Z. 2 species of the genera <hi rend="italic">Julus</hi> and Scolopendra, allied insects belonging to the same order; this last contains the well-known Centipede so common (and large too) at the North. And I may mention a remarkably fine and (<hi rend="italic">illegible</hi>) specimen of <hi rend="italic">Julus</hi>, measuring 6 inches in length, (which was found living at Dannevirke in a bunch of bananas from Fiji.) I exhibited and described this insect two years ago at our Institute meeting, and published also in “Transactions N.Z. Institute.” vo1. xxvi p.106,—<hi rend="italic">Julus (Spirostreptus) Fijiensis</hi>. </p>
+      <p>Fresh forms of insects are being continually introduced into the Colony from abroad, among fruit and other Island produce. You say, in your accompanying note, that another but larger one was also seen in the house where this one was captured. If this one should also be obtained, I should like to see it.—I believe they mostly roam at night, seeking food. I am, &amp;c., </p>
+      <p>
+        <hi rend="smallcaps">W</hi>
+      <hi rend="smallcaps">.Colenso</hi>. <lb/>Napier, April 25, 1896.</p>
+    </body>
+  </text>
+</TEI>

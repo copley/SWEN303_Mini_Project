@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0606">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1885 August 12: to several</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Colenso’s printed circular letter.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person">several</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1885-08-12">1885 August 12</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1885 August 12: to several (ie. this is Colenso’s printed circular letter.)
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, August 12<hi rend="sup ">th</hi>, 1885.</p>
+         <p>
+            <hi rend="smallcaps">Dear Sir</hi>,</p>
+         <p>At the earnest request of the Government I have recommenced my work on the Maori-English Lexicon, on which I was originally engaged for a limited time just 20 years ago.</p>
+         <p>One of the principal conditions of agreement between us is, that the Government should request all their Chief Officers residing in Maori Districts (and also all others who may feel inclined) to assist me in this work; and this the Government have agreed to do; and, also, have further informed me, that they have done so by Circulars individually addressed to their Officers, as well as by Public Notice in the Gazette. And, as I suppose you have been made acquainted by them of this arrangement, I now address you this note to solicit your aid.</p>
+         <p>1. In sending to me as early as convenient any list or memoranda of new or strange words, names of things, idiomatic phrases, sentences, proverbial sayings, songs, &amp;c., &amp;c., <hi rend="italic">peculiar to your District</hi>, that you may have made or jotted down, however rough; supposing you to have done so. Or, should you not have already committed such to writing, then, perhaps, any such that you may know or hear of.</p>
+         <p>2. Also, in your stirring-up some of your intelligent Maoris to do so; viz., to write down the names of things (however large or small, important or insignificant); of acts, deeds, works, doings; of states of mind &amp;c., &amp;c., that are <hi rend="italic">peculiar to them as a tribe or to their</hi> District, giving also (where known) the corresponding word or name as used by other Maoris.</p>
+         <p>3. In your kindly giving me the name or names of any well-informed and skilled Maoris near you, to whom I could also write for similar (or more recondite) information: of course they should be such persons as could be depended on, and also possess a good heart for this kind of work. I have found some Maoris particularly inclined this way.</p>
+         <p>4. And, by-and-by, with your consent, I may further trouble you with some peculiar words, names, phrases, &amp;c.,—which, many years ago, I roughly collected or took down (either when travelling in, or hearing Chiefs from, your District,) for after investigation and enquiry.</p>
+         <p>Hoping to have your hearty assistance in this matter.</p>
+         <p>             I am, Dear Sir,</p>
+         <p>                             Faithfully yours,</p>
+         <p>                                             WILLIAM COLENSO.</p>
+      </body>
+   </text>
+</TEI>

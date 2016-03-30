@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrL-2005">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Undated: Colenso to McLean</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1025789</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="-----">Undated</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>Undated Colenso to McLean (#1025789) </p>
+		</front>
+		<body>
+			<p>Friday aftn. </p>
+			<p>Dear Sir </p>
+			<p>In your note of Wednesday last , You ask for the name of a man who was in my employ &amp; who had saved some of your sheep:— </p>
+			<p>This man’s name is Joshua Lear—he is still in my employ (himself and wife living with me as servants.)—I suppose, by your enquiry, you may be thinking of rewarding him—but I question whether he did more than his bare duty (under the circumstances). </p>
+			<p>I am,  </p>
+			<p>Dear Sir </p>
+			<p>Yours truly </p>
+			<p>Wm. Colenso. </p>
+		</body>
+	</text>
+</TEI>

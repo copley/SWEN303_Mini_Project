@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0831">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1892 June 7: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1892-06-07">1892 June 7</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1892 June 7: to Harding<note xml:id="ftn3-589" place="foot" n="589"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke<lb/>Tuesday June 7/92<lb/>III p.m.</p>
+         <p>Dear Mr Harding</p>
+         <p>Your letter of the 5<hi rend="sup ">th</hi> is <hi rend="italic">just now </hi>brought in, &amp; I am writing at <hi rend="italic">once</hi>! Not that there is anything of great importance in yours to me to reply to—but to return quickly <hi rend="italic">to you </hi>yours to your Father!—which in your haste (or sleepiness, by your “cosy fireside,” as you say) you have put up with mine! I need not observe—<hi rend="italic">I have not read it</hi>—save the opening address: of course I could have forwarded it to N., but then that <hi rend="italic">might </hi>lead to a remark, or thought, of irritation on your part, so I determined to send it back to you by mail leaving here early tomorrow.</p>
+         <p>All that you have so correctly graphically &amp; poetically written in yours, of the <hi rend="italic">weather </hi>there with you last Saty. &amp; Sunday—is equally correct <hi rend="italic">re </hi>the same at <hi rend="italic">Woodville</hi> &amp; (I am told) here: with, however this <hi rend="italic">grand </hi>difference—I saw <hi rend="italic">no </hi>fire <hi rend="italic">there</hi>!! &amp; only bore up and got through w. <hi rend="italic">difficulty</hi>. I went, as usual, on Saty. aftn. to Wdv. (<hi rend="italic">Duty </hi>called!)—in the storm: arriving at the Hotel, I was told, my rooms were <hi rend="italic">occupied</hi>!—and I could only have a small (<hi rend="italic">cold</hi>) bedroom!—It turned out, that Mr. &amp; Mrs. Beetham w. their family (4 I think), arrived there on Friday, <hi rend="italic">en route </hi>for Napier: and the Landlord finding they were going on by 12.30 train on Saturday, let them have my 2 large rooms, in one of which a fire: but the weather on Saty. mg. prevented their going on, &amp; so there they were!!—I had “to grin &amp; bear,” and I assure you <hi rend="underline italic">it was a terrible time</hi>—especially on Sunday from noon till VII, p.m. At <hi rend="italic">night</hi> the lamp gave out heat after 2–3 hours burning:—at Ch. that mg. Congn. 8 (so I <hi rend="italic">shortened</hi> Service): and in evening—16!!—The <hi rend="italic">cold </hi>brought back Rheumatism, &amp;c, &amp;c. I much feared <hi rend="italic">the result</hi>—but I thank <hi rend="smallcaps">God</hi>, I got through all, &amp; returned hither safely yesterday; (another cold &amp; wet day;)—but this mg. it is <hi rend="italic">fine </hi>again—heavy frost last night, &amp; snow, on hills.—–</p>
+         <p>I go wholly w. you, in yr. saying “Something grand &amp; striking in the Mohammedan midnight testimony.” Just so, in that still more striking one of the Jews,—of old—&amp; confirmed by Jesus— “Hear O Is.—<hi rend="italic">one </hi>
+            <hi rend="smallcaps italic">Lord</hi>
+            <hi rend="italic">.”</hi>
+         </p>
+         <p>Thanks for your clippings: I think there is an error in that <hi rend="italic">re </hi>Marsdens. I remr. the arrival of the “Triton” at Hokianga. I dare say I have some <hi rend="italic">old </hi>&amp; probably val. p. stamps.<note xml:id="ftn3-590" place="foot" n="590"> Harding wrote after Colenso’s death, “Several times I told him that he possessed a small fortune in old New Zealand stamps alone yet a few months ago he told me that he had lately destroyed over a thousand very old envelopes with their letters, without remembering the value of the stamps.”</note> That account of Bathurst being a priest of Rome and yet a Registrar of the Ch. of E.—is <hi rend="italic">ugly</hi>: I fear there are <hi rend="italic">many </hi>others like that—concealed enemies! &amp; not to be wondered at, bearing in mind the mummeries and vagaries of the Ritualists and <hi rend="italic">H. Ch.</hi> party. You will have heard of the death of M.R. Miller before this can reach you. Am pleased to find “Hinemoa” <hi rend="italic">safe</hi>.—Capt. R. thinks my draft L. to N. Mr. <hi rend="italic">too short</hi> (!) &amp; so I have lengthened it, &amp; shall send it to him again—he is to be in Wgn tomorrow. His speech (in “Herald” of 6<hi rend="sup ">th</hi>) at Hastings on 4<hi rend="sup ">th</hi> is an excellent one, omitting introdn.—<hi rend="italic">re </hi>
+            <hi rend="underline italic">fem.</hi>
+            <hi rend="italic"> franchise</hi>; a fad—I cannot believe in.</p>
+         <p>Glad to hear yr. son is so <hi rend="italic">much better.</hi>
+         </p>
+         <p>With kind regards</p>
+         <p>Yours very truly</p>
+         <p>W. Colenso.</p>
+         <p>Hamilton has <hi rend="italic">just sent</hi> me a copy of the <hi rend="italic">new </hi>Insect Book—more anon. </p>
+         <p>I see, Rev. D’Arcy Irvine is in <hi rend="italic">some mess!</hi>
+         </p>
+         <p>I send you a <hi rend="italic">portion </hi>of a sheet prospectus new Eng. Dicty. Did you get <hi rend="italic">Holloway’s Amc.</hi>?—only for the cuts. Have <hi rend="italic">not </hi>seen Kiplings <hi rend="italic">latest</hi>. Do not wholly forget Appx. No.1. Journals House 1861 for Petition v. <hi rend="italic">Renata</hi>.</p>
+      </body>
+   </text>
+</TEI>

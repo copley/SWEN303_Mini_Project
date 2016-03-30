@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0746">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1890 August 21: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0495.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1890-08-21">1890 August 21</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1890 August 21: to Harding<note xml:id="ftn3-479" place="foot" n="479"> ATL qMS-0495.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke<lb/>August 21/90.</p>
+         <p>Dear Mr Harding</p>
+         <p>Many thanks for your long &amp; valued letter of the 17<hi rend="sup ">th</hi>.—the very sight of your well-known handwriting has served to cheer me up—<hi rend="italic">here </hi>at <hi rend="italic">this time</hi>. At <hi rend="italic">present</hi> I have not much <hi rend="italic">to do</hi>, or rather, perhaps, much that I <hi rend="italic">can </hi>do, including also a—<hi rend="italic">weariness</hi>! Almost indescribable, but <hi rend="italic">you </hi>will understand me, I know, when I say I should like to have <hi rend="italic">you </hi>to talk to, but, alas! I have been here (this trip) 3 weeks, &amp; have found scarcely any one to converse with. I fear this letter will prove scarcely worthy of sending to you. But I will give you a little of my doings &amp; circunmstances since my last.</p>
+         <p>Returning from Woodville on the 11<hi rend="sup ">th</hi>., with a hurt ancle, I quietly laid myself up here—&amp; did not put on my boots for 4 days—then, all right again.</p>
+         <p>I suppose I told you in my last of the 12<hi rend="sup ">th</hi>., that Haggen had informed me, on the 11<hi rend="sup ">th</hi>., he should publish a report of my <hi rend="italic">special </hi>sermon, &amp; I had desired him to send me ½ dz. copies of his P. He did give a report of it in his Paper of 13<hi rend="sup ">th</hi>.,<note xml:id="ftn3-480" place="foot" n="480">
+               <hi rend="italic">Woodville Examiner</hi> 13 August 1890.</note> but I did <hi rend="italic">not </hi>get my copies: on my return to W. on the 16<hi rend="sup ">th</hi>., I called, &amp; he assured me, the 6 copies had been duly sent, &amp; so said the yg. woman in his shop—then I went to the P.Master—who knew <hi rend="italic">nothing </hi>about them (of course!) and the worst was—I could not get a copy “for love or money”—all sold—–In that issue was a short local thus: “Rev. W.C. will shortly give a Lect. in aid of the Presbytn. Ch.”—I had caused another short advt. to appear in his P. of 15<hi rend="sup ">th</hi>., that a <hi rend="italic">Continuation </hi>or <hi rend="italic">Sequel S.</hi> would be preached by me on Sy. Night, 17<hi rend="sup ">th</hi>.—that day was a fine one at Wdv.—but a <hi rend="italic">great no. </hi>of the inhabitants had started early (as had been arranged) to search the “Gorge” for the body of the missing traveller, Walton:—yet, a good congn. was assembled at Evg. S., and I was enabled to do my prescribed duty.—–</p>
+         <p>On My. mg. early, rev. R. Stewart called on me, <hi rend="italic">re </hi>said <hi rend="italic">“Lecture”. </hi>I had previously heard from him (on 15<hi rend="sup ">th</hi>. <hi rend="italic">re </hi>the same) &amp; had briefly replied. I had left w. Morton (one of Commee. P. Library) a short list of subjects (6)—on any of which I could give a L., if needed for P.L.—or any other good cause: and so, as R.S. was <hi rend="italic">now </hi>settling down there &amp; a Manse, &amp;c., about to be built, they concluded to draw me out! Well, I agreed: then the subject; Haggen also came across, and it was decided—“Maori Legends.”—So much for <hi rend="italic">that</hi>. Monday was fine, but I found my ancle <hi rend="italic">not strong </hi>enough to walk a few miles into the country (as I had intended) so gave that up. Haggen also said, he should give a report of my Sermon No. 2. On Tuesday I left.</p>
+         <p>Arriving here, 19<hi rend="sup ">th</hi>., I found several letters:—and so, that aftn. &amp; next mg. I was occupied in replying to some of them. Then, last evening—I sought my “author’s copies” (Papers in “Trans.”)—and lo! Those I wanted for Lect were <hi rend="italic">not here</hi> in the lot. This mg. <hi rend="italic">early </hi>I called on Robertshawe (to whom I had formerly lent <hi rend="italic">some</hi>), but <hi rend="italic">NO</hi>. And so I have been <hi rend="italic">obliged </hi>to write to Rev. R. Stewart, to announce in the Wdv. paper the postponement of Lect. There was no other alternative left me; had <hi rend="italic">you</hi>, or Hamilton been at N. I could have well managed it. And, further, were I <hi rend="italic">sure of not </hi>having Ch. duty again at Wdv. next Sy. I could have gone to N. &amp; back (though, perhaps, scarcely worth such toil or fatigue): however, this untoward incident has served to vex me pretty considerably!!—–</p>
+         <p>I do not <hi rend="italic">at present </hi>know how it will be at Wdv. next Sy. The Bp. may come on, or send some one—I shall, I suppose, know tomorrow.</p>
+         <p>I suppose you will have heard there <hi rend="italic">re </hi>this missing man—Walton: it seems to <hi rend="italic">me</hi>, clear enough that the unfortunate man was thrown violently <hi rend="italic">at the bridge </hi>into the river, &amp; was killed.</p>
+         <p>One of my letters, I found here on Tuesday, was from Gray, “Actg. Hon. Secy. Athenaeum, Wgn”; and a most surprising one! Saying—“7 years ago I had obtained Sir G. Grey’s MSS. of Maori Poetry, &amp;c, from ref. Liby. at Ath.”—&amp; now I was to return it!!!—I replied, I had (<hi rend="italic">unearthed</hi>—from <hi rend="italic">lumber </hi>at Wgn.) a <hi rend="italic">bundle </hi>of MSS. through Messrs. Lyon &amp; Jonas Woodward assisting in ?1867 (or so); had <hi rend="italic">lost </hi>a deal of val. time in carefully going thro’ them; &amp; soon after returned the lot: they were merely the <hi rend="italic">origl. </hi>drafts (or <hi rend="italic">part </hi>of such) of what had been pubd. there in Wgn. (by R. Stokes) in the vol. of Maori Poetry; and conseqly. were not of that immense value which Gray had <hi rend="italic">set </hi>on them, as being “the only copy of the work in existence”!! &amp;c.—–You <hi rend="italic">may </hi>yet hear something about them.—It is possible (?)—seeing Gray fixes “seven years,” since they were missing from “Ref. Liby. Athen.”—that your new friend Tregear may know something: but that G. must find out.—It amused me very much (aye, and “riled” me, too!) to see how <hi rend="italic">studiously </hi>Gray had drawn up his letter of enquiry. </p>
+         <p>I think the Jury were right in their v. re Weber’s remains: I was up here in the Bush at that very time &amp; the weather, I well recollect, was awful! Rain daily, “creeks” &amp; rivers very high. And I notice, that while watch, money, &amp;c. were found w. him, there was <hi rend="italic">no compass</hi>: in <hi rend="italic">cloudy </hi>w., in virgin N.Z. Bush <hi rend="italic">without </hi>a compass it is terrible: I have <hi rend="italic">proved </hi>this by sad experience. I wish I had a copy <hi rend="italic">to spare </hi>of the report of Sermon No. 1. (I have, at last, gained 2!) I would <hi rend="italic">gladly </hi>send it: I shall, with this, send a ciopy of No.2,—which is a fair “report” <hi rend="italic">as far as it goes</hi>.—</p>
+         <p>I see by Papers Mrs Hamilton &amp; 2 child. are gone S. I have not heard from H. since my letter to him, perhaps I offended him w. my <hi rend="italic">plain</hi> speaking. I hear, from N., there is <hi rend="italic">much </hi>dissatisfaction at <hi rend="italic">sale </hi>of Maori Carvings!—In today’s paper, the marriage of Miss Annie Marie McKain of Petane to a R.I. Louis of Canterbury—by rev. Mr Paterson at <hi rend="italic">his house</hi>: also, the death of infant daughter of Edmund &amp; J.H. Black, at residence of Mr Robert Lamb. Mr Hill, was <hi rend="italic">Chn</hi>. &amp;c. at “Service of song”—(repeated, &amp; re-repeated!!) at U.M.Ch. Carlyle St., last night. I <hi rend="italic">hear </hi>that Mr MacDonald (our <hi rend="italic">new Secy.</hi>) is to marry Sutton’s 3<hi rend="sup ">rd</hi>. daughter. Two good articles in “Herald” this wk: one, in defence of the poor, ill-used Chinese, &amp; pitching-in to Berry <hi rend="italic">most deservedly</hi>: and one, <hi rend="italic">against </hi>Bible reading in schools.—–</p>
+         <p>A very aged lady—Mrs Steed, 86, mother of J. Steed, now of Woodville, died there last week, and I was saved the heavy job of burying her by Mr Robertshawe kindly going: the cemetery there is near the “Gorge” 4 m. from town! and in rain, too!!—</p>
+         <p>Young Reardon, surveyor, (a son of R. shoemaker,) is coming out <hi rend="italic">against </hi>Capt. Russell for the House!! (what next?) I fear the “Assaye,” barque, from London, is <hi rend="italic">gone</hi>! &amp; in her <hi rend="italic">all </hi>Sir W. Buller’s valuable Library, &amp;c, &amp;c.—–I notice in this mg.’s “Herald”:—“The Wesleyan drum &amp; fyfe band has not been formed under the leadership of Mr. Walter Prime, and in connn. w. the Band of Hope. More instruments are to arrive” The “D.T.” says— “A speaker of Saln. Army, called football a devilish game—in his oration last night.”</p>
+         <p>Now I must stop: tired. <hi rend="italic">Very glad to hear</hi> of yr. dear little son improving. <hi rend="italic">Kind </hi>regards, </p>
+         <p>Yours affecty. W. Colenso.</p>
+         <p>P.S. I think I shall be here until <hi rend="italic">end </hi>of this month at least.</p>
+      </body>
+   </text>
+</TEI>

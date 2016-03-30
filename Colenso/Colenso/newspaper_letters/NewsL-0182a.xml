@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0182a">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Letter: 1896 Short cut to Napier Terrace. Hawke’s Bay Herald 21 February.</title>
+      <author>
+        <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+      </author>
+    </titleStmt>
+    <publicationStmt>
+      <p/>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+        <date when="1895-12-11">1896 February 21</date>
+        <publisher>
+          <name type="organisation">Hawke’s Bay Herald</name>
+        </publisher>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <creation>
+      <date when="1896-02-15">1896 February 15</date>
+      <name type="place">Napier</name>
+    </creation>
+  </profileDesc>
+</teiHeader>
+<text>
+  <front>
+    <p><hi rend="bold">1896 Short cut to Napier Terrace.<lb/>
+    <hi rend="italic">Hawke’s Bay Herald</hi> 21 February.</hi></p>
+  </front>
+  <body>
+    <p rend="center">NO THOROUGHFARE.</p>
+    <p rend="justify">THE Public are hereby informed that thoroughfare through my enclosed grounds on the hills, Napier, can no longer be allowed. Persons trespassing after the last day of this month (February), will be prosecuted. That none may plead ignorance, and that this notice may be fully known, it will be advertised for one whole week in each of our three daily town papers.</p>
+    <p rend="center">WILLIAMCOLENSO.</p>
+    <p><hi rend="sup ">* * *</hi> See my letter in another column. February 20th, 1895.</p>
+    <p><hi rend="smallcaps">Sir</hi>,—From an advertisement in another column the public will know, that all thoroughfare through and over my ground is permanently closed, and this applies to <hi rend="italic">all alike</hi>, including a few friends and neighbors to whom I had given permission, as I cannot possibly make any distinction.</p>
+    <p>I have now leased my premises to the Napier Golf Club, who will join with me in keeping off trespassers. But I had previously determined to put a stop to this incessant trespass, which had increased so rapidly at the end of last year, and should have done so, but for the very dry and hot weather which bad burnt up the grass in my paddocks, and I really pitied the small school children living on the hills, some of whom, unfortunately, had to go home to dinner in the extreme heat of the day.</p>
+    <p>All losses and injuries (hitherto quietly borne) have been many and great, all my ducks, and a number of my fowls killed by dogs of trespassers; fences, and side cuttings well grassed and firm, shamefully broken down; trees and shrubs continually wantonly plucked, wrecked, and thrown on the path; gates left open, so the horses got out and became impounded; the fields trampled in all directions—not caring even to keep their one track or pathway, and, not least, no privacy, and the fear and danger from fire (smokers’ matches).</p>
+    <p>That there is great need of a shorter road (than the long round-about one by Milton-road from its saddle) to connect Napier Terrace and Barrack Hill, the cemetery and botanic gardens, and indeed all the southern part of Scinde island with the town, is well known to all who have to travel over that ground; and this, I may say, was an additional reason with me for hitherto allowing so much of daily trespass. And this shorter road may yet be had; the first three chains of it, from Napior Terrace to suburban section 32 (church land), having been already by the Government reserved for a road, and much (nearly two thirds) of the land required to make a good carriage road would come through my grounds, and <hi rend="italic">I am still willing to give it</hi>—as, indeed, I offered it to the Borough Council sixteen years ago, furnishing them at the same time with Mr Rochfort’s carefully prepared plan of the proposed road showing its gradients, and that it was twelve chains shorter than the present road. And this new road would not only be so much shorter but be a far better road for travellers than the present disagreeable, close, hot, and tedious upper Milton-road.</p>
+    <p>The other owners of the land required are the Church Trustees (who I believe will again readily consent to grant their portion), and Mr R.D.D. M‘Lean—for a short distance only, but should Mr M‘Lean not consent, that would make no difference, as I can easily meet that, by giving a little more land, and while the new road according to Mr Rochfort’s plan would join on to Milton-road at my upper gate there, the cutting and gradient would be very different from the present steep horse track up my hill.</p>
+    <p>And so—in closing my private grounds against the public, as I view it, they will become the gainers; for they have the alternative of a good carriage road ½ chain or more wide in their own hands and this thought goes a great way toward supporting me—although the cost of fencing would come heavy upon me. Let the matter be taken up heartily by the people of the borough, especially by those who reside on the hills, and the Council seeing now the absolute necessity of the thing, must grant their request.—I am, &amp;c.,</p>
+    <p>
+      <hi rend="smallcaps">                                   William Colenso.</hi>
+    </p>
+    <p> Napier, February 15th, 1896.</p>
+  </body>
+</text>
+</TEI>

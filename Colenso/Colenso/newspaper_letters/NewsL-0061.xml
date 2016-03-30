@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0061">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1865 To the editor. Hawke’s Bay Herald 19 December.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1865-12-19">1865 December 19</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1865 To the editor.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 19 December.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—I notice, with regret, in the leading article of your paper of this day, that you charge me with “perpetual railing at the runholder.” This, I think, is saying a little too much; particularly as in the letter on which you are animadverting, I took care wholly to disown any such intention. You freely and unasked republished my 1st letter (on separation) to the electors of Napier; (for which I thank you and feel obliged;) could you not also republish in your next issue my 2nd letter to them? (the one which you have this day censured;) that your numerous readers among the runholders and their friends may see and judge for themselves of my “very bad taste,” and “perpetual railing against them.” </p>
+         <p>		I am, yours &amp;c.,</p>
+         <p>
+            <hi rend="smallcaps">		William Colenso</hi>. </p>
+         <p> Napier, Dec. 16, 1865.</p>
+         <p>[Mr. Colenso’s second letter is an appeal to the electors for support—such as is usually considered an advertisement. Nevertheless, we should have published it before now, had its length, about a column, and late demands upon our space, not prevented our doing so. The remark with regard to Mr. Colenso’s “perpetual railing against the runholder” had less reference, however, to his letter to the <hi rend="italic">Times</hi> than to his speeches, session after session, in the Provincial Council.—Ed. <hi rend="italic">H.B.H</hi>.]</p>
+      </body>
+   </text>
+</TEI>

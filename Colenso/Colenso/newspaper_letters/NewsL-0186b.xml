@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0186b">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1896 The proposed museum. Hawke’s Bay Herald May 19.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1896-05-19">1896 May 19</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1896-05-04">1896 May 18</date>
+        <name type="place">Dannevirke</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1896 The proposed museum.<lb/></hi>
+        <hi rend="bold italic">Hawke’s Bay Herald</hi>
+        <hi rend="bold">19 May.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>, — I was very much surprised on Saturday last (16th instant), in seeing in your paper the following sentence contained in a letter from Mr John Harding:— “Will Mr Colenso please tell me, who informed him that I had promised £200 to the (Museum) fund?” And my first thoughts were to write to you immediately, and to refer you to Mr Harding's own letter in one of the Napier papers of last year, in which he had plainly made the said offer. But as Mr Hill, Inspector of Sohoola, had arranged to meet me here on Saturday night,—and as we two had talked, about that offer at the time of its publication,—I resolved to wait his arrival. Well, he came, and we soon entered on the subject, and Mr Hill assures me of the <hi rend="italic">great</hi> mistake I had made; for Mr Harding’s offer at that time was “£25,” or “£50,” and not £200. Depending on Mr Hill's accuracy, <hi rend="italic">I am very sorry</hi> I made such a great mistake; and now make this public apology to Mr Harding, (having also already written to him). I cannot account for it. It was not done in a hurry—off-hand, as it were, at our meeting on Monday night, (11th)—for it had been in my memorandums and calculations and mind for two or three months past. Possibly the wish may have been father to the thought (expressed), and then there is (for certain) the “old man’s” defective memory—Alas!—I am, &amp;c.,</p>
+      <p>
+        <hi rend="smallcaps">W. Colenso. </hi>
+      </p>
+      <p>Dannevirke, May 18th, 1896. </p>
+    </body>
+  </text>
+</TEI>

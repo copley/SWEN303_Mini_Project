@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0002">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1834 January 28: Hadfield to his father Joseph</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 4)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 20.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1834-01-28">1834 January 28</date>
+                  <name type="place">St. Michael’s [Azores Islands]</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70741/">Joseph Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1834 January 28: Hadfield to his Joseph Hadfield 
+         </p>
+      </front>
+      <body>
+      <p>St. Michael’s </p>   
+         <p>Jan. 28th 1834</p>   
+         <p>My dear Father, </p>   
+         <p>By the <hi rend="underline">Ellen</hi> which arrived here the day before yesterday I received a letter from my mother of the 22nd. of November from which I learnt that you were all well, which was satisfactory after a silence of more than three months.  As she left <hi rend="underline">Cowes</hi> late in December I was suprised that I had not later intelligence, but I must now wait for another arrival.  She had a passage of thirty days, and is the only vessel that has been able to work her way out for the last six weeks.  Till today the wind has been almost incessantly from the S.W.  She returns to-day, and I hope will have a shorter passage for the sake of Mr. Iven’s fruit which has been prepared for some time past.  My mother seems to have been anxious to hear of my arrival as the weather appears to have been very bad with you, but as I informed you before, the weather was beautiful the whole of my passage. </p>   
+         <p>I was glad to hear that Charles was appointed to a ship that was likely to go to the Mediterranean, that is, I suppose, the most <hi rend="underline">agreeable</hi> station for a ship to go to.</p>   
+         <p>I should think it would be a very pleasant expedition for three years.  Every thing else, I believe, goes on with you much in the same way as when I left you.  I hope the crops that we harvested turned out pretty well; you must give me an account of all that you are doing, and must remember to leave the fields for hay <hi rend="underline">earlier</hi> than we did last year in case of a dry spring.  I long to teach these animals out here something about farming; they seem such a set of thick-headed fellows.  The land is capital but as they never manure it and always get two crops a year from it, their crops consist of very indifferent corn, about a half of an English one when they ought to be double.  But the whole system is bad – almost all the land is entailed, which does not suit barbarians, for each man while he is in possession endeavours to make every possible farthing that he can out of it regardless of the injury he is inflicting on his successors.  It is a climate that will produce everything, but from the ignorance of the people, the orange and a little wheat are the only exports; sugar, coffee, tobacco and even tea, with all sorts of spices, nutmegs, cinnamon, &amp; all the productions of the hot climates come to perfection here.  It is about the least variable climate in the world, the <!--[torn]--> variations being about 24 degrees from 54’ to <!--[torn]--> has improved very much within the <!--[torn]--> since I have learnt from <hi rend="underline">experience</hi> <supplied>[to adjust]</supplied> my habits to the climate I find I rejoice in a quantity of exercise &amp; very little to eat, with early rising.  Indeed I am much better than I have been for years.  I have very good shooting and as I am almost the only person in the island who does shoot, I have no need of a game-keeper.  I think nothing of killing forty quails in the course of a fore-noon with my single barrel but if I had a double barrel I could kill a great many more as they always fly in pairs.  Thomas Ivens sometimes goes out with me but as they fly rather <hi rend="underline">quick</hi> and he shoots rather <hi rend="underline">slow</hi> he seldom kills above one or two.   No body has shot here for the last two years, for if a man could shoot quails Peter used to say that he could shoot men and consequently take him for a soldier.  There was a conspiracy formed here the other <!--space[]--> consisting of 600 or 700 persons, but was discovered in time to prevent it taking effect.  People in England have been very much mistaken with regard to the political feelings of the Portugese.  I doubt very much whether Maria will be able to establish herself firmly.  The Portugese are very backwards in civilisation, and it is an erroneous opinion to suppose that the manners of a people can be formed by a government.  The government must be suited to the people and not the people to the government.  For instance, the system of trial by jury, than which nothing can be better in a civilised country, is very injurious here where a man has no regard to the obligations of an oath.  You must excuse this, as I really have nothing to tell you, but merely write to let you know I am well as I know that you are kind enough to like to hear.  As I know you must be now tired of reading this I will write a few lines more to Octavia in answer to some lines of hers in my mother’s letter.  Hoping that this will find you all well, I remain with love to all</p>   
+         <p>Ever your affectionate son,</p>   
+         <p>Octavius Hadfield.  
+</p>
+      </body>
+   </text>
+</TEI>

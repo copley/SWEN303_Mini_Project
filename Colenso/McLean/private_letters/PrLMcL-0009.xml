@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0009">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1852 February 5: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1019377</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>Encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1852-02-05">1852 February 5</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1852 February 5 McLean to Colenso (#1019377) </p>
+		</front>
+		<body>
+			<p>Wellington 5 Feby 1852 </p>
+			<p>Dear Mr. Colenso </p>
+			<p>I take advantage of the Rose sailing in the morning to say that I can secure scrip for you by taking a quantity myself at the same time for about 8/ per acre, but I have not agreed to invest for you as yet for the following reasons. 1st. Earl Grey’s late despatches have altered the Act passed by the Legislative Council entitled a Bill for settling the Claims of the New Zealand Company a copy of which however you have in your possession and to which you can refer more particularly as I forget even the exact title of it at the present moment. The squatting regulations will also be suspended for a time and superseded by the new instructions from home, and thirdly I am not yet sure that you can select land exchange for scrip at Ahuriri, although you can in any of the purchased districts up here, having these circumstances before me I declined investing your ₤150 until I am further advised and shall act according to your next instructions holding the bargain open which I consider good as scrip is as high as 10/0 as long as I can. I am only a few days back from the West Coast. I should have written to you by the Bishop but I had scarcely a chance of doing so as I was not aware he was bound for Ahuriri until I got to Otaki from which place I rode with him to Manawatu making no delays on the journey. Have you fixed anything about the site for a station. I see Bethune has some packages for you I trust they will reach safe. I send you one Spectator on church matters. I have another or two packed up for you but I cannot lay hands on them just now. </p>
+			<p>Give my own and Mrs. McLean’s kind regards to Mrs. Colenso and the children. </p>
+			<p>And believe me yours sincerely </p>
+			<p>Donald Mclean </p>
+		</body>
+	</text>
+</TEI>

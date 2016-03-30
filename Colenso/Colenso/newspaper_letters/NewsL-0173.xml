@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0173">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1894 To the editor. Hawke’s Bay Herald. 7 letters written 20, 23, 26, 29 November; 6, 13, 21 December (publication dates unknown).</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald.</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1894 To the editor.     <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald. </hi>
+        <hi rend="bold">7 letters written 20, 23, 26, 29 November; 6, 13, 21 December (publication dates unknown).</hi>
+        <hi rend="bold">
+          <note xml:id="ftn59" place="foot" n="59"> These 7 letters, along with a further 3 written in 1897,  were republished as a booklet,<hi rend="italic">Certain errors of the Church of Rome</hi>, and are republished in Vol. 3 of this series in <hi rend="italic">What I believe to be genuine and authentic</hi>—<hi rend="italic">Ed.</hi>
+          </note>
+        </hi>
+      </p>
+    </front>
+    <body/>
+  </text>
+</TEI>

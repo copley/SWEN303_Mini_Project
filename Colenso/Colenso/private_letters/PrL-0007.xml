@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0007">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Private Letter: 1836 September 9: to Coates</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Hocken Library Ms Vol 63; ATL qMS 0491.</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71268/">Coates</name>
+        </correspAction>
+      </correspDesc>
+      <creation>
+        <date when="1836-09-09">1836 September 9</date>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>1836 September 9: to Coates<note xml:id="ftn1-8" place="foot" n="8"> Hocken Library Ms Vol 63; ATL qMS 0491.</note>
+      </p>
+    </front>
+    <body>
+      <p rend="end">Paihia, Bay of Islands<lb/>Septr.9/1836</p>
+      <p>D. Coates Esqr.,</p>
+      <p>Sir,</p>
+      <p>In great haste, the vessel having fired her gun, I write you these few lines to request you to pay my father on account of Salary, the sum of £11. Eleven Pounds—and charge the same to the a/c of—</p>
+      <p>Yours very truly</p>
+      <p>William Colenso.</p>
+    </body>
+  </text>
+</TEI>

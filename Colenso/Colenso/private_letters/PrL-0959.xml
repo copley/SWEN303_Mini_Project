@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0959">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1896 February 27 To Mrs Hollis</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Mrs Katherine Hollis née Buckland, from the private collection of Julie Hollis; see also letter to Kate Buckland dated 19 September 1894.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/60226/">Dannevirke</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75301/">Katherine Hollis</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1896-02-27">1896 February 27</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1896 February 27 To Mrs Hollis<note xml:id="ftn3-775" place="foot" n="775">Mrs Katherine Hollis née Buckland, from the private collection of Julie Hollis; see also letter to Kate Buckland dated 19 September 1894.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Baddeley’s Hotel,<lb/>Dannevirke,<lb/>Feby. 27<hi rend="sup">th</hi>., 1896.</p>
+         <p>Dear Mrs Hollis</p>
+         <p>At last! I am enabled to write to you, and to acknowledge receipt of your wedding-card of—Oh! a long time ago! and to thank you heartily for so kindly remembering me with them.—</p>
+         <p>I trust you and your husband, Mr. Hollis, are quite well and happy together—increasingly so in each other’s company. I write this note from your old place of residence—but, first of all, for explanation <hi rend="italic">re </hi>my long silence.—</p>
+         <p>On the receipt of your cards at Napier, (which were addressed to me <hi rend="italic">here</hi>,) some time after their arrival at this place, I sought to learn <hi rend="italic">your address</hi>, not given on the cards:—I wrote to Mr. Baddeley, also to Rev. E. Robertshawe, &amp; subsequently to Mrs. Hunter,—but all to no purpose, no one knew: then I sought to elicit something from P.O. stamp on envelope, but it was so badly done and smudged withal, that I could make nothing out of it: and so I was obliged to “give it up”, and wait for Time to reveal.—</p>
+         <p>I came hither on Monday last, all day yesterday at Woodville Horticultural Show: and, in accidentally finding from a <hi rend="italic">new</hi> hand here in this hotel named Agnes ____, that she came from West Coast &amp; “Hawera”, I was led to make enquiries after <hi rend="italic">you</hi>, and to my surprise and delight, I found Agnes to be the very proper person so long wanted! who knew you so well and so kindly, and also your good husband: and so I lose no time in writing to you. Mr. and Mrs Baddeley were also highly pleased in hearing fully of you &amp; such <hi rend="italic">good things</hi> too—doubly acceptable.</p>
+         <p>I came hither to go to the Woodville Show; and to hold Service next Sunday mg., when Mr. Robertshawe and the Bishop will be away in the Weber District. This visit to the Bush is my <hi rend="italic">first</hi> since last autumn (May 1895)—having then on the day of my return to Napier sadly crushed my right hand in Railway Carriage.—A serious injury! at first fearing I should lose my thumb, but <hi rend="italic">now</hi> (at last!) nearly quite well—after a long, tedious &amp; painful time!—and my stay here will be a very short one, returning after next Sunday; but I <hi rend="italic">may</hi> come again this autumn.</p>
+         <p>The place is clean &amp; dry and “going ahead” (they say) and this is shown (?) in the great number of new houses: but <hi rend="italic">money</hi> (all say) is scarce. Allardice’s house is let to Scrimgeour formerly of “Empire” H., Waipawa. Mrs. Hunter’s remaining daughter was lately married to Thompson—formerly of Bank and Mrs. H. is going to leave her big “house of 7 gables”, as being too large &amp; lonely. Mr. and Mrs. Robertshawe are well. I am keeping well: <hi rend="italic">older</hi>, of course, and <hi rend="italic">feeling</hi> more &amp; more of the forced company of <hi rend="italic">Old Age</hi>: but with (I trust) a kind of lightsome &amp; cheerful spirit, and the knowledge—<hi rend="italic">I am going </hi>
+            <hi rend="underline italic">Home</hi>.—</p>
+         <p>With kind regards &amp; best wishes—to you both: Believe me,</p>
+         <p>dear Mrs Hollis, yours sincerely,</p>
+         <p>W. Colenso</p>
+      </body>
+  </text>
+</TEI>

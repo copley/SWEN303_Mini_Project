@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0551">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1883 November 18: to Buller</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-papers-0048-22.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/28468/">Buller</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1883-11-18">1883 November 18</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1883 November 18: to Buller<note xml:id="ftn3-208" place="foot" n="208"> ATL Ms-papers-0048-22.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Novr. 18, 1883</p>
+         <p>Dear Dr. Buller,</p>
+         <p>I find, from a Wellington paper to hand yesterday, that you are (or were) at Wellington, therefore I write you a few lines to accompany a pamphlet of mine lately printed here,—a copy of which I should have sent to <hi rend="italic">you</hi> before, had I not been absent in “the Bush,” and also known of your being at Home: I hope you may find both time and inclination to go over its few pages.—</p>
+         <p>I scarcely need to say a word <hi rend="italic">to you</hi>
+            <hi rend="italic">re </hi>the publication <hi rend="italic">here</hi> of these papers: you will see the reason why,—and not unlikely the <hi rend="italic">other</hi> reason (or reason<hi rend="underline italic">s</hi>) why those papers were there—with you— “rejected.”</p>
+         <p>Our branch Members responded well to my “Circular,” some going in for 6 copies! to send abroad, (which, from the feeling shown I had expected,)—but I much fear the re-action will be a blow (a calamity!) to <hi rend="italic">our</hi> young and rising branch. Of course, I ceased writing any papers, (although I had begun, and even read at our first meeting in May, the <hi rend="italic">first part </hi>of one on “Hawaiki,”) and now that our session for ’83 is just ended, I have <hi rend="italic">no </hi>papers to send in! save a Botanl. <hi rend="italic">one</hi> of my own, read at our concluding meeting last week,—at the last hour—to save appearances. Your <hi rend="italic">Board</hi> of Governors have dealt us an ugly blow.—–</p>
+         <p>I hope you are keeping well, I am tolerably so and am about starting again for “the Bush.”—</p>
+         <p>I have not sent a copy of the pamphlet to any other Wellingtonian.—</p>
+         <p>             Believe me, yours sincerely,</p>
+         <p>                                                             Wm. Colenso.</p>
+         <p>P.S. A few overplus copies are still on hand for sale at Craig’s <hi rend="italic">to Members</hi>.  W.C.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0151">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1889 Remarkable Spider’s Web. Daily Telegraph , 9 October.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1889-10-09">1889 October 9</date>
+          <publisher>
+            <name type="organisation">Daily Telegraph</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1889-10-08">1889 October 8</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1889 Remarkable Spider’s Web.<lb/>
+        </hi>
+        <hi rend="bold italic"> Daily Telegraph</hi>
+        <hi rend="bold">, 9 October.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>—I thank you for giving your readers in your paper of this evening, a more full and better notice of the meeting of the Philosophical Society on Monday night. There is, however, one short sentence I should like to correct; namely,— “Mr Colenso exhibited a spider’s web an inch and a-half long.” Had I merely done that, I fancy it would have been laughable. The web I showed was (as to length) seven and a-half inches long; but it was not for its mere length that it was shown, but because of its curious structure—a closely woven hollow tube of about one inch diameter throughout, and it being the web, or home underground of a very large spider, which was also exhibited with it,—perhaps the largest N.Z. spider yet known, extending more than three inches when alive and very stout, it required a very large tumbler to cover it. It is a very fine specimen of the endemic N.Z. genus <hi rend="italic">Macrothele</hi>, of which only one species was known, <hi rend="italic">M. Huttonii</hi>, also found here on Scinde Island and in my garden. But this one, <hi rend="italic">M. gigantea, Col.</hi>, is a very much larger animal, with different characters.—It was detected by Messrs McKay and McVay, nearly two years ago, in the forest S.W. from Dannevirke, who found the spider out on a ramble, traced him to his concealed home, captured him, and dug up the long web out of dry stony ground, and kindly and carefully brought both web and living spider to me, then staying at Dannevirke.—The specimens are unique and perfect, and well worthy a lengthened notice. —I am, &amp;c., </p>
+      <p rend="end">
+      <hi rend="smallcaps">William Colenso</hi>. </p>
+      <p>Napier, October 8th, 1889. </p>
+    </body>
+  </text>
+</TEI>

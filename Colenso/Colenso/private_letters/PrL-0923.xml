@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0923">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1895 January 25: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0498.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1895-01-25">1895 January 25</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1895 January 25: to Harding<note xml:id="ftn3-719" place="foot" n="719"> ATL qMS-0498.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>Jany. 25<hi rend="sup ">th</hi>., 1895.</p>
+         <p>Dear Mr Harding</p>
+         <p>I really must write to <hi rend="italic">you </hi>tonight, for I have not done so for this year! Your kind long &amp; interesting letter of 3<hi rend="sup ">rd</hi>. inst. being still unanswered. I was very pleased to hear of you &amp; your having arrd. <hi rend="italic">safely</hi> at Wgn., &amp; were <hi rend="italic">all well </hi>at time of writing, which blessing I trust continues with you.</p>
+         <p>I have been very busy since my last, but the heavier portion I finished last wk.—<hi rend="italic">i.e. </hi>my Botanl. papers, which I sent to Ed.—Sir J.H., &amp; recd. his note in reply— “just in good time, as he was leaving” (to morrow 26<hi rend="sup ">th</hi>.) “w. Governor &amp; party for S. Islets. I sent you Papers—1, <hi rend="italic">re </hi>“Jones” (of Baron Munchausen—or Admirable Crichton—<hi rend="italic">fame</hi>), 1, Hill’s Bimetallism, w. Editor’s article: and 1, Consecration of Bp. Wms. on 20<hi rend="sup ">th</hi>. (of which you have had a similar show there at Wgn. this day.) I hope you recd. ’em all. I shall send you, w. this, a copy of “D.T.” contg. my L. to “N.Z. Herald” (re Polack &amp; Co.),<note xml:id="ftn3-720" place="foot" n="720"> The Discovery of Moa Remains. <hi rend="italic">New Zealand Herald</hi>, 15 December 1894.</note> which <hi rend="underline italic">somehow</hi> McD. <hi rend="italic">republished </hi>of his own accord.—–</p>
+         <p>Were we together I have <hi rend="italic">many things </hi>to relate, but <hi rend="italic">must select</hi>. Last wk. I waited on Walker (Ed. H.), having previously arranged—at iii p.m., to show him copies of early ptd. works, mss., &amp; R.C. <hi rend="italic">images</hi>, mentioned in my letter no. VI. He seemed much pleased, particularly w. 8vo. Ed. N.T. Maori: I gave him a copy of “<hi rend="italic">Sg. Ty. Waitangi</hi>,” ptd by Didsbury—strange that W., as <hi rend="italic">Ed.</hi>, did not possess a copy!—–</p>
+         <p>I have arranged for a visit, some early night, to Hd. off., to <hi rend="italic">see </hi>their comps. at wk. indeed, I have 2–3 times mentd. it to <hi rend="italic">Peter D. </hi>Of late there has been a regular fusillade in “H.” &amp; in “D.T.” on Bimetallism v. Monometallism. Haggen, very long letters, &amp; frequent too, Hill, ditto, and <hi rend="italic">now </hi>Sutton. Ellison also, 2–3: McDougall in “D.T.”, &amp; W. in “H.” <hi rend="italic">against </hi>the Bimetallists, &amp; I think <hi rend="italic">Mc. </hi>has the best of it.—</p>
+         <p>Changes here, in Ch. (&amp; in other) matters since my last.—Rev. A.M. Bradbury has resigned, &amp; Welsh, from Wairoa, comes in: W. is <hi rend="italic">now </hi>at W., &amp; I have consented to act until he returns, say 2–3 Sundays: otherwise I should now have been inland, &amp; probably at Norsewood.—Archdn. S.W., the Dean, St.H., &amp; Webb go to Genl. Synod at Nelson: you may probably see <hi rend="italic">some </hi>of them (cler. &amp; lay) in their passage thro’ your city—espy. <hi rend="italic">Bp. Wms</hi>. That Sy. (20<hi rend="sup ">th</hi>.) here was certainly a <hi rend="italic">grand </hi>one—in imposing show &amp; ceremony, &amp; <hi rend="italic">number</hi>, at all events: of course, <hi rend="italic">not </hi>½-told in “H.”—in fact could not be in a Daily. All came off without a “hitch”,—I <hi rend="italic">endured</hi> all very well—the Services being very long.—</p>
+         <p>Hill’s off. is now <hi rend="italic">upstairs</hi>—in my old Treasurer’s Room; also <hi rend="italic">out </hi>of his front book-room: F. was <hi rend="italic">nearly </hi>evicted! it was a toss-up, <hi rend="italic">which</hi>: the rooms wanted for the <hi rend="italic">new Dept</hi>., advcg. money by Govt. Have not seen H. for this year, though here in N. yesty. I reminded Dinwiddie, of Annl. Mtg. “<hi rend="underline italic">first</hi> My, in Feby”. I hoped it may come off on its own <hi rend="italic">proper </hi>day: I dislike those puttings-off.—</p>
+         <p>I told you of Anderson leaving me in March—bound for <hi rend="italic">Home</hi>! well: a fortnight ago I had my talk w. <hi rend="italic">him</hi>, showing him the folly of such a thing—as far as <hi rend="italic">he </hi>was concerned, (he has much fallen off of late, losing strength, laid up occasionally, &amp;c.)—and that I should oppose to my utmost <hi rend="italic">their son </hi>going w. them! (Fat in fire, that night: Robert, however, does not want to go, nor to leave me) next day I was asked, by R., for the son (John) to come in to see me: <hi rend="italic">Yes</hi>: &amp; we talked for an hour—he, too, was w. me, in <hi rend="italic">not </hi>wishing to leave N.Z., &amp; to cut it short the “auld wifie” is to go <hi rend="italic">alone </hi>(she came out <hi rend="italic">so</hi>) in March; &amp; R. &amp;Son, remain <hi rend="italic">here</hi>: for a long time (2 yrs. or more). <hi rend="italic">R</hi>. has done <hi rend="italic">nearly all</hi> domestic work &amp; we shall toddle along together I dare say: <hi rend="italic">this eases my mind considerably</hi>—now, I <hi rend="italic">can </hi>go to Bush, &amp;c, &amp;c.—–</p>
+         <p>Wonders will never cease! on Thursday night (viii), 17<hi rend="sup ">th</hi>. inst. <hi rend="italic">Herbert Jones </hi>called!! I recd. him <hi rend="italic">very distantly</hi>—refused his hand, &amp; rated him. Enqd. If he had not recd. my L. to him at Auckld.? Yes. I repeated the prominent parts.—He remd. till ix.30, &amp; then to call the next day at ii,—this he did &amp; stayed till iv; I gave him <hi rend="italic">2 </hi>of my Napier pubs., &amp; 2 others he had recently got at Craig’s; &amp; we <hi rend="italic">parted friendly</hi>!—He has copies of nearly all vols. of Trans., &amp; would obtain that of vol.I. (for my “Essays”) at Wgn. He denied wtg. the art. in the “Herald”, &amp; sd. it was copied from “Manawatu Times”. I have recd. several letters from all quars., enqg. re, Insects, plants, blights, &amp;c, &amp;c., some most strange ones: among them, 1 from yr. bror. W.J. over Blenheim way.—I sent copies of Xmas. “Herald”, contg. no. VI, to Sir W.B.—<hi rend="italic">no </hi>acknt. (&amp; with it a note), &amp; of the “N.Z. Herald” to Hutton, &amp; (through you) to Hamilton—<hi rend="italic">no ackngt. also, curious</hi> “blights” (?) on poplar leaves to Maskell—<hi rend="italic">no </hi>ackgnt. (Is M. <hi rend="italic">vexed</hi>—being an out-and-out Romanist?) Can you put me in a <hi rend="italic">good </hi>way—of offering some of <hi rend="italic">our </hi>pubs for sale? I have been thinking of speakg. to Crerar, &amp; to Howe Bros., but I <hi rend="italic">don’t </hi>like to vex Craig. Craig <hi rend="italic">could </hi>sell <hi rend="italic">more </hi>if he really <hi rend="italic">cared </hi>much about it; I give way, constantly.—–</p>
+         <p>I don’t suppose you knew W.J. Burton’s wife, at Meeanee? she died 2 days ago: I went to see her 3 wks. back—quite resigned, &amp; <hi rend="italic">more</hi>, desirous of departing—in a tranquil state of mind. I have a very unpleasant matter to meet—on 1<hi rend="sup ">st</hi> prox. (ugly!) I find, I hold ’tween 40 &amp; 50 Bk. N.Z. shares—the <hi rend="italic">call</hi>—<hi rend="underline italic">₤10. ea</hi>. in ’95; <hi rend="italic">⅓ at once</hi>: this was unexpected: I fear it may <hi rend="italic">ruin </hi>some. One <hi rend="italic">respect. </hi>Settler here, holds 150 shares!—the ship “Margt. Galbraith”—lately arrd. here, after a <hi rend="italic">long </hi>passage (123 days), was “<hi rend="italic">5 days </hi>hove to embayed by icebergs”. I send some scraps. Capt. R. comes out in Th. Royl. on Monday next!! to ansr. Carnell &amp; Seddon. Craig is well, so is yg. Crerar, also Fanning, &amp; Ferguson.</p>
+         <p>           And now Good Bye. Kind regards &amp; best wishes—</p>
+         <p>                           yrs sincerely,  W. Colenso.</p>
+         <p>You omitted to tell me, If you had seen before that <lb/>
+            <hi rend="italic">petition</hi> to the House, I sent you.—–</p>
+      </body>
+   </text>
+</TEI>

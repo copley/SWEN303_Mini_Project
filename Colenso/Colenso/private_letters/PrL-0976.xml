@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0976">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1896 October 22: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0499.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1896-10-22">1896 October 22</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1896 October 22: to Harding<note xml:id="ftn3-802" place="foot" n="802"> ATL qMS-0499.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Octr. 22<hi rend="sup">nd</hi>./96</p>
+         <p>Dear Mr Harding</p>
+         <p>I have to thank you for yr. kind letter of the 12<hi rend="sup">th</hi>. inst., &amp; tho the time has not come round for me to do so—yet I write now—<hi rend="underline italic">1</hi>
+            <hi rend="sup underline italic">st</hi>. to congratulate you on the well-being of Mrs Harding and her new son—<hi rend="italic">may such continue</hi>!—</p>
+         <p>
+            <hi rend="italic">2</hi>
+            <hi rend="sup italic">nd</hi>
+            <hi rend="italic">. after </hi>my last, reading <hi rend="italic">again </hi>your letter, I felt a wee (no! a big) bit vexed w. myself on finding I had omitted all you had written on last p. (a kind of big P.S.) <hi rend="italic">re </hi>the P. Progress Ms. in Maori I have. One consolation however sprung up! that I had surely told you <hi rend="italic">all about</hi> it before.(?) It is a <hi rend="italic">good </hi>transln.—but it requires sharp revision by a competent Mao. scholar, as the skilled translator only knew the lang. of the Northernmost tribe—near N. Cape, <hi rend="italic">then </hi>different from <hi rend="underline italic">now</hi>—much <hi rend="italic">more tribal</hi>.—It is also closely written on folio fcp. <hi rend="italic">without </hi>lines &amp; <hi rend="italic">without </hi>margin, &amp; on <hi rend="italic">both sides</hi>. And (<hi rend="italic">my private </hi>and great objn.)—It is but a <hi rend="italic">dream</hi>!—And the Maoris have already too much of that kind of thing—both of their own &amp; of <hi rend="italic">pakeha</hi> raising. A few years ago on <hi rend="italic">such</hi> being ptd., the <hi rend="italic">first </hi>qu. would be “Is it true?” and If ansd. in the negative, “Away w. it”. No doubt there are some truths in it,—as in other like tales; but the <hi rend="italic">present</hi> day of fads &amp; faddism is not in my opinion a good one for this tale. I have had several overtures about it in past years: 1<hi rend="sup">st</hi>. from Bp. Selwyn: 2<hi rend="sup">nd</hi> R.T.S. thro’ an agent. Besides there is a transln. (so-called!) in existence—an 8vo. with plates!! under auspices of Sir G. Gy., I believe I have 2–3 copies.—–</p>
+         <p>
+            <hi rend="italic">3</hi>
+            <hi rend="sup italic">rd</hi>. Guess my <hi rend="italic">surprise</hi> in receiving proofs of another lot of “A.” Mao Lexn. on the night of the 10<hi rend="sup">th</hi>.—8 Galley slips—I was not a little vexed, because while the <hi rend="italic">only </hi>memo. that came with it was the usual one of “waiting, return quickly”—and then—somehow—2 days on way! I had my <hi rend="italic">hands full</hi>—in preparing for the Monday night, 12<hi rend="sup">th</hi>. mounting spns., ferns, &amp;c., as promised being again deserted by Hill: so I did not look at “proof” until xi, p.m. on that Monday night—tired too! having been 4½ hours on my legs, &amp; got back worn, fagged! indeed I climbed this hill w. difficulty: well, I stuck to that all next day, &amp; sent it back on Tuesday night to P.O., and hope to have had a <hi rend="italic">Revise</hi> before this: Mackay only sent me a <hi rend="italic">single </hi>proof (it was <hi rend="italic">arranged</hi> for 2). Costall &amp; Burns sent 2, each time.—I have written a memo. to Mackay:—but (<hi rend="italic">I tell </hi>
+            <hi rend="underline italic">you</hi>) I would rather it had <hi rend="italic">not </hi>been printed—for (Alas!) I find my memory <hi rend="italic">sadly deficient</hi> in Maori from such a long spell of non-usage. This proof reading will, I fear, keep me from going inland for some time, as I would rather correct <hi rend="italic">here</hi>.——</p>
+         <p>4. A curious (?) matter: a letter to hand from Luff—asking for his <hi rend="underline italic">big</hi> glazed picture—Hooker in the Himalayas—to be returned next week: L. wants it for exhibition. Of course, it will be sent, but I would much rather be spared packing, &amp;c. <hi rend="italic">You </hi>may see it there.</p>
+         <p>5. I enclose a clipping—sent me from England, by <hi rend="italic">3 correspondents</hi>—2 strangers!—the Dean is much taken with it. <hi rend="italic">Of course </hi>there are <hi rend="italic">errors</hi> in it.</p>
+         <p>6. Shall send you “D.T.” of this evg.—2–3 matters in it: notably a <hi rend="italic">new </hi>move (?) <hi rend="italic">re </hi>Maoris from Hawaiki! of which, no doubt, <hi rend="italic">lots </hi>in years to come!! to <hi rend="italic">suit </hi>Hector, Tregear, Buller, Travers, &amp; Co <hi rend="italic">or </hi>the contrary!</p>
+         <p>7. I attended Mrs Williams’ funeral, &amp;, though the day was very fine, caught <hi rend="italic">another relapse </hi>of my obstinate cold and cough in cemetery—no doubt through my having been <hi rend="italic">shut up </hi>so long. My Housekeeper &amp; others begged me to stay at home but I could <hi rend="italic">not</hi> think of that: Mrs. W. was the first Eng. lady I knew in N.Z., and for <hi rend="italic">many </hi>years was very friendly, though of <hi rend="italic">late years </hi>the <hi rend="italic">very opposite</hi>. R.I.P.—and as I happened to hear that her son, our Bp., was about leaving on 12<hi rend="sup">th</hi>. for his <hi rend="italic">great </hi>N. tour (retg. at end of Decr.) I went to Cathdl. on Sunday mg. 11<hi rend="sup">th</hi>., and after Service went in to Vestry, to say Good bye &amp; wish him well—our interview was <hi rend="italic">very friendly</hi>: he feelingly spoke of his mother—and I reminded him—what a little 5 yr. old child he was when I came. It seems somewhat strange, that Mrs W. should have only <hi rend="italic">the week </hi>before congratulated <hi rend="italic">her daughter</hi> (Archdn. Sam’s wife) on her <hi rend="italic">Golden Wedding</hi>! reversing the order in <hi rend="italic">Hamlet</hi>—viz.—–<lb/>—“The funeral baked meats<lb/>Did coldly furnish forth the marriage tables.”</p>
+         <p>8. <hi rend="italic">Our </hi>last Inst. Mtg. was the <hi rend="italic">most </hi>wretched one (as to attendance) that I have ever known in <hi rend="italic">that </hi>building. Only about 10! Room packed w. chairs over 150, &amp; forms. Dinwd. was for adjg. “Yes,” I said, “If <hi rend="italic">fine </hi>w., <hi rend="italic">better </hi>attendance &amp; myself <hi rend="italic">well</hi>, could be guaranteed”!—Not a single officer present—<hi rend="italic">nor any </hi>member that I knew—save the Dean. The Dean made a nice little speech at <hi rend="italic">close</hi>” “vote of thanks to self &amp; Norris” but no one to second!!! Even Craig absent! Large—in bed, unwell, (soon after, well again.) I saw Craig, aftds.—asking reason, went w. <hi rend="italic">wife</hi> to hear (again!) the mountebank Baptist revivalist <hi rend="italic">Soltan</hi>!!! It is beyond my comprehension, why the good old <hi rend="italic">staid &amp; solemn</hi> Presbytn. Ch. of Scotland should encourage such creatures! To me they are just as Salvation Army mob, Adventists, Mormons, &amp;c.—On Monday night last, Rev. Mr. Paterson conducted Salvn Army doings— “All to bring Sankey’s Hymns”: this being <hi rend="underline italic">their</hi> “<hi rend="underline italic">denial</hi> week”: and all hands (also <hi rend="italic">agents commissd.</hi>) going round begging to make up the sum reqd.!! much as foolish protestants subsg. towards a R.C. Ch. One of thos <hi rend="italic">agents </hi>came here, on 20<hi rend="sup">th</hi>. “he did not belong to them, not he!” it was a pd. job, &amp;c. I told him, as I had told one of their “Captains” some years ago—I would give ₤5. to the Band to play the Rogues’ March to their leaving the town.</p>
+         <p>Hony. Secy. D., told me at Meeting, he had recd. 4 Papers! from Taylor White all stuffed w. <hi rend="italic">Maori </hi>names! he, D., <hi rend="italic">could not read them</hi>. I dare say that <hi rend="italic">these</hi> will <hi rend="italic">pass muster</hi> at Wgn.!!</p>
+         <p>I haveonly been <hi rend="italic">once </hi>in town on a <hi rend="italic">week-day</hi> on business. I bought a Bible, 8vo. at Craig’s—<hi rend="italic">Brevier</hi>—but I cannot say I like it, it is rather heavy, &amp; not clear, or rather, small thinface letters. I have a Bible (O. &amp; N.T.) <hi rend="italic">R.V.</hi>, too heavy to carry about, and a N.T., R.V., Lg. Primer, Crown 8vo., that suits me very well. I note what you say <hi rend="italic">re</hi> the , and what some Eng. Cl. had written concg. it, (<hi rend="italic">you </hi>had <hi rend="italic">not</hi> mentioned that <hi rend="italic">before</hi>) but that is <hi rend="italic">not new</hi> to me, in Bp. Natal’s works is a Paper on it,—besides notices in other books on the Egyptians <hi rend="italic">using </hi>the <hi rend="italic">crux ansata</hi>. I do not bel. Jesus was crucified on a high <hi rend="italic">sawn </hi>timber , as represented—and so I have <hi rend="italic">preached</hi>—more likely on a <hi rend="italic">low rough ragged tree</hi>—as was commonly the case,—and <hi rend="italic">so </hi>some of the early martyrs are <hi rend="italic">drawn </hi>in <hi rend="italic">ancient </hi>pictures. Peter, Ap., uses the term <hi rend="italic">tree</hi>, in his preachings, &amp;c.—I have <hi rend="italic">long </hi>been of opinion that there has been an enormous amount of error and folly connected w. the —in all our Churches from R.C. downwards: as to the <hi rend="italic">Fathers</hi>, they did, &amp; caused, their full share of that kind of work. I was much pleased to see at Mrs. Wms. funeral, that while there were dozens of wreaths &amp; bunches of flowers—there was <hi rend="italic">not a single </hi>!—Not however that I approve of <hi rend="italic">flowers </hi>at <hi rend="italic">such times</hi>: to me, it is revolting.—I smile (?) at your descrn. of your Ch. “<hi rend="italic">celibates</hi>”! give them play &amp; ere long they may go over to Rome! <hi rend="italic">the sooner the better</hi>.—–</p>
+         <p>I thank you heartily for your usual full acct. of Phil. Socy. Mtg., strange that, <hi rend="italic">gold in Moa bones</hi>. I copied that portion for Hamilton, Dunedin.</p>
+         <p>
+            <hi rend="italic">23</hi>
+            <hi rend="sup italic">rd</hi>
+            <hi rend="italic">. </hi>I send to P.O. “John Hskg.”—is out again &amp; again ramping! How some folks get “D.D.” is a marvel <hi rend="italic">to me</hi>—save by “<hi rend="italic">cheek</hi>” &amp; <hi rend="italic">back-stairs </hi>influence.</p>
+         <p>Good bye, yours ever, W. Colenso.</p>
+         <p>P.S. a p. is now publ. at Hastings! I have not seen it. Hoskings &amp; Suttons duel no. 2, <hi rend="italic">not</hi> reported in N. papers—<hi rend="italic">few present. </hi>Where was John’s clan?</p>
+      </body>
+   </text>
+</TEI>

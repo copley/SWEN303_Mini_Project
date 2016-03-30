@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1114">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>12 October 1865: Hector to Hooker.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">James Hector</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Kew DC 174, 467-468, ATL Micro-MS-Coll-10-16, 483-485.</p>
+         <p>Transcription published in "My Dear Hooker: 
+Transcriptions of letters from James Hector to  
+Joseph Dalton Hooker between 1860 and 1898", Rowan Burns &amp; Simon Nathan.  Geoscience Society of New Zealand miscellaneous publication 133B, 2012.  ISBN 978-1-877480-21-8. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133B.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1865-10-12">1865 October 12</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hector to Hooker, 12-10-1865, Kew DC 174, 467-468, ATL Micro-MS-Coll-10-16, 483-485.</p>
+      </front>
+      <body>
+      <p> 
+Colonial Museum</p>
+            <p>Wellington </p>
+            <p>12th October 1865</p>
+            <p>My dear Hooker, </p>
+            <p>As I have not heard from you for the last
+ two mails I suppose you have been enjoying 
+summer holidays. However it is possible that 
+my last mail may have gone on to Dunedin and
+it will be some days before the letters can be returned to this place.</p>
+            <p>  I have very little news to give you as I have hardly been out of Wellington since I came up.  The Assembly is still sitting &amp; wrangling as usual &amp; as yet have hardly got through any
+any of the real business. For in
+stance they have not voted my estimates! The Colony is very 
+hard up in consequence of the attitude of the Home Govt. who will neither bear the expenses
+of this tedious war – but the Colonists do without
+[?] it or put an end to it the best way they can, or on the other hand give the Guarantee to help
+ to sell the Loan 
+which has already been expended on Imperial troops. I see no cure for 
+the mess till every soldier is out of the country 
+&amp; the Natives get a little harsh treatment from 
+the Colonists when required. If Great Britain 
+would withdraw the troops &amp; Guarantee the t---- Million Loan 
+that has been expended for the for the [sic] Colonists in carrying out a Native policy which they know to be useless, the 
+Colonial Office would never need
+ to ask another sixpence from
+ Parliament for New Zealand. 
+The way in which the General Govt. has been pulled up &amp; the discredit that has been unjustly 
+thrown on New Zealand by the discussions in 
+Parliament &amp; the illtempered correspondence 
+between the Provinces &amp; the General, has stopped all influx of capital &amp; arrested all the 
+Public works in the Colony. Things never looked
+ worse &amp; were it not for the confidence I have in the natural Resources 
+of the Country &amp; the importance 
+of developing these at once, I would not have the
+face to ask for expenditure on
+ account of science. However as all my staff 
+have come up &amp; the museum is far advanced I 
+hope they will not cut down the Dept. now.  
+ </p>
+ <p>Buchanan has been spending all his spare time in collecting but does not find this neighbourhood so rich as he expected. He says 
+it falls far short of Otago both in Cryptogams &amp; flowering plants
+. It is richer in forrest trees. We are getting an index to your handbook, of 
+ative names. I shall send you a copy to print 
+with the 2nd Edit. if you like to do so. Mantell &amp; Colenso have furnished most of the names. There is not a copy of your Handbook to be
+had now. I wish some more were sent out they 
+have sold at 16/- p. part, the purchaser of the 
+first part being required to pay at the same time for the 2nd part also.</p>
+            
+            <p>I am longing to hear something of the tracings of the fossil plants I sent you home, 
+also of the 
+Moa bones
+. I have got several other fine 
+skeletons, especially one
+ of 
+Dinornis 
+giganteus
+ that I am going to set up. The bones conform to this species, but the Head which is 
+8 1/2 inches long is 
+that of Owen’s Genus 
+Palapteryx
+!!  </p>
+            <p>I suppose Haast will be telling you all the news of the shift which the Gold ------- has 
+made from Otago to the West Coast of Canterbury. The area is small as compared to Otago as 
+the Gold does not appear to cross to the Eastern Watershed at all &amp; there is only a strip about 
+4 miles in width being on the Coast on the 
+West slope. The sudden slope &amp; enormous volume of water descending by short
+ straight channels to the sea has served to sluice off a 
+tremendous bulk of Auriferous Tertiary formations &amp; so do a deal of work in preparing the way for the ------. The Gold rock crops out on the West slope thus. 
+reminding me very much of the British Columbia except that there is no Coast range of Volcanic rocks. In Otago on the other hand the Gold rocks form
+ a broad central area of about
+14 times the area of the West Coast slope, but from its possition it has 
+not been so violently denuded. The yield from the new diggings 
+with a population of 
+20,000 miners is about 
+45,000 p. month just now. The 4 or 5 ------ 
+rushes  that took place to various parts of Otago 
+each reached for a short time about 70,000 p. month. It is very wonderful to see such a 
+difficult &amp; densely bushed country opened up as 
+the West Coast has been during the last 6 
+months. There is a rumour of Gold being disc
+overed in the Auckland Province. If there could
+only be a good rush then the Maori influence would soon be at an end.</p>
+            <p>Haast no doubt will send you his Rept. on the West Coast diggings this mail. As usual
+he drags in Glaciers in rather 
+a violent way to account for everything. He always forgets that 
+coincidence is not necessarily causation.</p>
+            <p>Ever Yours Sincerely </p>
+            <p>James Hector. </p>
+</body>
+   </text>
+</TEI>

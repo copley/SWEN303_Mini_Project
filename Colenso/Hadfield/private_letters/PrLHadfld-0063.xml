@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0063">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1847 May 18: Octavius to Octavia Hadfield</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  "Letter 17."  Page 160.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 4.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1847-07-18">1847 May 18</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key=" http://wtap.vuw.ac.nz/eats/entity/70767/">Octavia Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1847 May 18: Octavius to Octavia Hadfield</p>
+      </front>
+      <body>
+      <p>Wellinton <!--sic--> N.Z. May 18. 1847</p>
+      <p>My dear Octavia</p>
+      <p>Since I have been ill, I have kept no notes of letters that I have written, &amp; consequently never remember whose letters I have answered, or whom I may have appeared to neglect; but by the blessing of God we have been so thoroughly united together in love that what we express to one we intend for all;-&amp; you are all so associated in my mind, that I feel it requires a positive exertion of thought to think of one without thinking of all:- this must be my apology, if I have neglected to answer any letters.  </p>
+      <p>The last letter which I have had the pleasure of receiving was from Amelia, dated Nov.; pray thank her for me.  It conveyed intelligence as satisfactory as I could expect: to hear that you are all well &amp; happy is my delight.  I sometimes fancy I may be induced to try &amp; pay you a visit, but when I know what a precarious tenure of life, with my present disease, mine is, I feel that it would be foolish to let my mind dwell on the subject.  A good opportunity of making the attempt might lead me to do so.  The Governor, Captain Grey, told me a short time ago, before he returned to Auckland, that he wished to return to England &amp; that if he did, &amp; I had any desire to go he must request me to allow him &amp; Mrs. Grey to take charge of me.  I do not think he can leave the country at present tho' a Lieut-Governor is now daily expected for this part of the country.  But though I have a great desire to see you all, you must not assume or imagine that I am impatient, or anxious to leave this country while I can do any good in it,- no, unless I clearly see, what I consider an indication of the Lord's will, I shall continue here, &amp; await my dismissal from the body.  Others seem to think that I am still useful here in communicating a little with natives, and giving advice to those who have less experience of New Z than myself, tho' I confess it appears to me that my usefulness in this respect is small. </p>
+      <p>The dear friends with whom I am residing are as kind and unremitting in their assiduous attentions as ever, &amp; I know not how to love them enough: may God in His infinite goodness bless them more &amp; more!  How blessed is the service of the Lord!  How unutterable the blessings enjoyed by his people!  To know that God is our God for ever &amp; ever- to feel that we shall have the privilege of loving Him eternally,- to feel that He is an ever-present friend now, befriending us in all things, however minute, &amp; that He is an everlasting Friend- oh how the thought transcends any distinct conception which the mind can form!  How much more certain &amp; real these objects of <hi rend="underline">faith</hi>, than any knowledge derived through the senses!  I have occupied my thoughts very much in contemplation,- allowing them to dwell on God - Christ - the Holy Spirit - the soul - immortality - man in his primitive state - the conscience - the law written on the heart - much obscured by the fall - <supplied>[refurbished]</supplied> and then on the Glorious Gospel &amp; it's fullness - the grace &amp; love of God etc  I seem to long to communicate my thoughts on some of these subjects to others; but writing fatigues me, &amp; I do not express my thoughts with facility &amp; precision.  I am really astounded at the illogical and absurd manner in which the whole of the Puseyite tribe write; they are not deficient in intellect - or in education, but lamentably so in love of truth, they seem to have loved a lie &amp; to have been given up to believe it.  I think all true christianity ought to endeavour to ascertain what are essential points in christianity, &amp; then to allow no other differences whatever to interrupt their communion with persons differing from them.  What inveterate folly it is to exclude from our church numbers of worthy dissenters by enforcing absurd, obsolete rules which all acknowledge to be in themselves indifferent.  But I am filling up my paper with remarks which you can easily find better expressed elsewhere.  </p>
+      <p>I seem to have wished to defer any remarks upon the present disturbed state of the country: but I must touch upon it.  Matters were assuming a more quiet aspect a few weeks ago, when a midshipman (Crosier, I fancy an Isle of Wight youth) of H.M.S. Calliope, accidentally wounded a chief of Wanganui; some of his tribe, who had been in a state of irritation ever since the execution of one of their party under martial law last winter, (I questioned the legality of this at the time &amp; wrote on the subject); committed, on the 18th of last month, a barbarious act of murder on Mrs. Gilfillan &amp; three children: five of the murderers were apprehended by some loyal natives, &amp; being immediately tried by martial law, four were executed, &amp; the fifth, a boy, was transported.  The military post at Wanganui consisting of 300 soldiers is now surrounded by about 550 natives, who are expecting reinforcements.  They have succeeded in killing one soldier who foolishly exposed himself.  Mr. Taylor was, &amp; still is, absent at Auckland, whither he was summoned to attend the central committee of missionaries (these are not times for these formalities in business)  Mrs Taylor and her five children arrived here last night, having been advised by the friendly natives to leave as it was no longer secure.  I have not yet seen her.  Mrs. Govett went on from Waikanae &amp; is I believe, still there.  It is one of the worst affairs I have known of late, in the country.  I confess I do not see any prospect of an end to it.  Whatever absurd people who know nothing on these subjects - whether in or out of the House of Commons - may say, no imaginable amount of military forces can act effectively in a densely-wooded, mountainous country, &amp; where no provisions or means of communication exist.  To effectually conquer a people like the New Zealanders would require a very large force &amp; an enormous expenditure for a long period of years: &amp; even granting these conditions success is not so very certain where we can scarcely lay claim to justice, - witness Afghanistan - the pestilence in Karachi, the little progress of the French in Algiers, etc.  Had the assistance of the government &amp; that of the settlers generally, been given towards the encouragement of christianity in this country, I believe, in all human probability, its triumph would have been as complete as it has ever been in any part of the world: but as it is, it can scarcely fail to retrograde; for what can a missionary do when this kind of excitement prevails.  But one's hope and trust is in the Lord.  I will write again shortly.</p>
+      <p>Give my kindest love to my dear Father &amp; Mother and all who are either at home or to whom you write.  I saw Aleck's arrival at Madras in an Indian paper.  I hope George will prosper at Malta.  Believe me, my dearest Octavia, your very affectionate Brother,
+      </p>
+      <p>Octavius Hadfield.</p>
+      </body>
+   </text>
+</TEI>

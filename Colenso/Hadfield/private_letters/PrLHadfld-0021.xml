@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0021">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1839 April 19: Octavius to Georgina Hadfield</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 41)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 23.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1839-04-19">1839 April 19</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/70864/">Waimate</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70902/">Georgina Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1839 April 19: Octavius to Georgina Hadfield
+         </p>
+      </front>
+      <body>
+      <p>Waimate,</p>
+      <p>New Zealand.</p>
+      <p>April 19th. 1839.</p>
+      <p>My dear Georgina,</p>
+      <p>As an opportunity offers itself for me to write, and tho' I have but little to tell you, I avail myself of it, I wrote to my Father on the 9th. of March.  The last letter I received was from Caroline, dated August.  I am now expecting to hear every day.  Letters are seldom lost, and I am sure some of you must have written.  When I write to you I scarcely know which to address, at such a distance you appear one and where I address one I must be considered as writing to all.  My letters must be catholic epistles in our dear family.  I must confess that even at this distance from you I do not feel grieved at being separated from you; I have indeed lost your society, but I still though absent, commune with you all and fail not daily.  Nay, many times a day, to bear you all in my bosom before our dear and common Father in Christ Jesus, and beseech Him to bless you with every covenant blessing, which His most compassionate, tender and loving heart can desire for His redeemed children, purchased with the precious blood, even the blood of our adorable and blessed Emmanuel, yes, I pray that you may be meek and lowly, sitting at the feet of Jesus as your only and Divine Master and that in the midst of the novelties of the present day, you may be kept sound in the faith ever looking up to Jehovah as your God your Covenant God.  Oh I do find that the popular notions of universal pardon and universal mercy and the universal love of God, which seem to throw a false glitter over the Divine character, and are so seductive to sentimental minds, are most unscriptural, bewitching indeed in their outward look, but totally injurious in their real and necessary tendency.  But of that love which is special, sovereign, absolute and electing, as it is revealed in scripture.  Yes of the love of God in Christ Jesus, His most dear and most precious Son, of the love of that God Who chose us, and redeemed us, and called us, Who hath restored us times out of number, Who hath kept us and fed us, and will keep and feed and restore, and that from His own mere grace and bounty <!--typescript: bountry-->, from nothing seen or foreseen in us, from no cause whatsoever in us, save our misery, in Himself His own most unmerited love, and for His unutterable glory, - "that in the ages to come" may it be our most happy privilege to live in the daily, hourly, and momentary enjoyment of, - Oh, my dear sister, I write as I would speak to you, I would that you could even imagine when you read this that I were present with you.  Oh, this is but a moment of time, of what shall be eternity.  In this world we shall be disappointed in everything.  We must not even value our relations, our friends, our comforts, Yea, even those blessed means of grace that we enjoy here, - Ah, these pass away.  But while the world presents a wilderness, there is one spot must be exempted where we can always find a sufficiency, from the many perfections of Jehovah Himself, the portion and inheritance, present and eternal, of His beloved and Covenant people.  He may indeed say have I been a wilderness unto Israel?  - I have left you all, even "Father and Mother and brothers and sisters for Christ's sake", &amp; I do enjoy more of my blessed Saviour than ever I could have imagined would be the portion of God's children on earth.  I do trust that you are praying for me, and that I shall by your prayers be blessed abundantly in my sould and in my labours.  I was refreshed by what you told me concerning some of the dear Saints at Whitchurch, namely that they remembered me with love and affection.  I remember them frequently in my prayers, and I hope you will remember me to them, if not by word of mouth, by letter.  "I am" like the Apostle of the Gentiles, "sorrowful, tho' always rejoicing".  I do not like the work I am now engaged in; when I say like, you must not think I have any reference to my own comfort etc.  But you must fully remember what my opinions have been for some years, i.e., that my heart has been set on preaching the Gospel to the heathen.  I used often to say that I had not one view (whatever others might have on the subject of civilisation etc.) and thus was an exhibition of Christ and the blood of Christ.  These views since I have been here are strengthened, if possible ten-fold.  These were my views as a layman, how then must my soul be grieved when now that I am a minister, an ambassador from Christ, appointed by the Holy Ghost to feed to church of God, and have solemnly declared in the presence of God and man that I would give myself up to this glorious work, (for which indeed I the chief of sinners, and most rebellious and corrupt of all God's children, am totally unfit) to find myself even in the midst of a heathen country impeded from the exercise of my ministry.  I never contemplated being connected with the school, being in orders, and I do find that my conscience will not allow me to continue in it long.  That I am in Priest's orders is the Lord's doing.  I felt fully confirmed when I left England that I was called to the ministry by the Holy Ghost, and that the Lord would accomplish His own eternal purpose in me, and when requested by the Bishop without my hinting it, to allow him to ordain me, I could not refuse.  Thus on my arrival, less than twelve months after I left England, I found myself in New Zealand in Priest's Orders.  I am now engaged in the School, teaching things which I believe to be useless, to some inattentive boys, whilst the Heathen (at Tauranga a place likewise called Poverty Bay where there are many natives) are crying out, lorne ones, and helpless, and all here are unwilling to go except the two Mr. Williams, both of whom must be detained here necessarily.  It is out of the question my having the school myself, and is not contemplated and therefore Mr. W.W. cannot possibly go.  Another thing which disheartens me in the school;  I did expect to be engaged in instructing the children of those who were devoted to the Lord, but I fear that many of them here are chiefly set upon making themselves comfortable in this world by acquisition of land etc. and also strive little to lead the minds of their children to anything beyond worldly advancement.  This may appear harsh, but I believe it to be true.  I have hitherto learnt nothing of the language, being engaged in the school, and being in doubt as to whether to remain in New Zealand in the present situation of the church here.  But I feel that I have been brought here by the Lord, and am sure He has work for me.  I preach on the Lord's day to an English Congregation, of about 60 persons altogether.  This is a great privilege and tho' many connected with the Mission dislike my preaching, yet I do rejoice that one or two have told me that they bless and praise the Lord for the privilege of attending my ministry, and tho' I was told that my preaching would drive all the unbelievers away in despair, I thank God my little congregation is very attentive and increases.  I have the satisfaction to know God orders all things for me, and that in my present situation He is accomplishing His own wise purposes.  My soul is grieved day by day when I contemplate the Church in this land, but I cry unto the Lord and that constantly for His blesssing upon His church.  There are many unbelievers among the natives though I fear in rather a low state, but oh, how can it be <!--previous editor's note: [missing]-->  
+      </p>
+      </body>
+   </text>
+</TEI>

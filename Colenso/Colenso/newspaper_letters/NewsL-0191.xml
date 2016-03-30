@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0191">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1896 The moa . The Press 14 November.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1896-11-14">1896 November 14</date>
+               <publisher>
+                  <name type="organisation">The Press</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1896</hi>
+                  <hi rend="bold"> The moa</hi>
+                  <hi rend="bold">. 	<lb/>
+                  </hi>
+                  <hi rend="bold italic">The Press </hi>
+                  <hi rend="bold">14 November.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—I have received a copy of your paper of 2<hi rend="sup ">nd</hi> inst, containing a long and very interesting paper by Captain Hutton on the “Moa.”</p>
+         <p>There is much, very much, in the paper that is really “food for thought,” gleams of sunshine (as it were) now and then occurring amid the dark mazes of an entangled wood—all on a subject or subjects of high interest to this rising colony and to science in general, which are sure to be taken up and carried on in days to come. There are, however, two prominment errors (as I view them):—1. (The minor one.) In which Captain Hutton mentions Polack as being “the first to publish anything about the moa.” 2. (The other.) The adhering so pertinaceously to the old threadbare legendary story of “Hawaiki,” and of the Maoris’ emigration therefrom to New Zealand—as if such were physical facts.</p>
+         <p>I have frequently said, written and published, that the sooner that myth be abandoned (as forming any foundation for truth re the Maoris being here) the better, for it will ever prove a terrible stumbling-block, and sure to become the prolific cause of  many more erroneous deductions.</p>
+         <p>I shall post with this a copy of the <hi rend="italic">New Zealand Herald</hi>, containing a letter of mine written nearly two years ago, on Captain Hutton’s quotation from Polack’s book.<note xml:id="ftn63" place="foot" n="63"> The Discovery of Moa Remains. <hi rend="italic">New Zealand Herald</hi>
+                     <hi rend="bold"> </hi>15 December 1894—<hi rend="italic">Ed.</hi>
+                  </note> I could say a good deal more on the subject, but I forebear; merely adding that Polack also published 2 vols. additional (not a second edition) in 1840 on New Zealand, in which he brought forward everything he could think of respecting the Maoris, illustrating his second work with many good wood cuts of articles of Maori manufacture (taken of course from what he took Home with him, and these can be depended on, but not his so-called portraits of Maoris and views of scenery.) Yet he never once mentions or alludes to the “large fossil ossifications” on which Captain Hutton dwells. Now, Professor Owen had published his first paper on the Moa (Dinornis) in 1839, which caused so much talk at Home at the time, and Polack was then residing in London, as we find from the date he gives in his introduction, and no doubt must have heard all about it. There is much in Polack’s four volumes re New Zealand of his day that is valuable, but such is like gold in quartz, &amp;c., and must be well worked and sifted to obtain it. Unfortunately Polack is so egotistical, and so addicted to drawing the long bow, and uses high flown stiltified language in every paragraph—even concerning the smallest unimportant matter—that it requires extra patience to bear with him, especially for me who knew him so well.—Yours, &amp;c,</p>
+         <p>													W.<hi rend="smallcaps">Colenso.</hi>
+               </p>
+      </body>
+   </text>
+</TEI>

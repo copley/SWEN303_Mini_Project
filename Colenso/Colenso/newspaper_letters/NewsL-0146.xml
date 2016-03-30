@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0146">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1888 More Errors Respecting Renata! Daily Telegraph 25 July</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1888-07-25">1888 July 25</date>
+          <publisher>
+            <name type="organisation">Daily Telegraph</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1889-07-24">1889 July 24</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1888</hi>
+        <hi rend="bold">More Errors Respecting Renata! <lb/>
+        </hi>
+        <hi rend="bold italic">Daily Telegraph</hi>
+        <hi rend="bold"> 25 July</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—In your issue of this evening you have the following item of news (mentioning the residence of the late Mr Alexander Kennedy). You say:—</p>
+      <p>“The house at the foot of the Shakespeare-road was built by the late Mr Kennedy thirty years ago, on land that he bought from Renata. It was on the site of an old pah.” </p>
+      <p>In this short sentence, as I view it, there are several errors. </p>
+      <p>1. Mr Kennedy could not have bought the said piece of land from Renata, as Renata never possessed a foot of land in Scinde Island (now Napier.) </p>
+      <p>2. The chiefs (owners) sold it in its entirety to the then Land Purchase Commissioner, Sir Donald McLean. There was no reserve. </p>
+      <p>3. The said land was early laid off in town sections, as may be seen in the (old) Government map of the town. </p>
+      <p>4. There was no “old pah” on that spot, but below—seaward from the hotel adjoining—there was a very small fishing village, only occasionally inhabited. </p>
+      <p>Moreover, the law was such at that period (and for long after), that no European could possibly purchase land from a native chief. </p>
+      <p>Alas! poor Renata! both living and dead, errors are foisted upon thee! —I am, &amp;c., </p>
+      <p rend="end">WIILIAM COLENSO.            </p>
+      <p>Napier, July 24, 1888.</p>
+    </body>
+  </text>
+</TEI>

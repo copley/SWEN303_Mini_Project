@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0805">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1891 November 14: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0496.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1891-11-14">1891 November 14</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1891 November 14: to Harding<note xml:id="ftn3-555" place="foot" n="555"> ATL qMS-0496.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Saturday night,<lb/>November 14, 1891.</p>
+         <p>Dear Mr Harding</p>
+         <p>It is exactly a fortnight since I last wrote to you! (How time speeds by!)—and although I have had you very often in <hi rend="italic">mind</hi>, I have not begun to write for <hi rend="italic">many</hi>
+            <hi rend="italic">reasons</hi>—a main one being a rather serious attack of Influenza which commenced w. me on 6<hi rend="sup">th</hi>. inst., &amp; has not yet left! rendering me unfit for any &amp; every thing—at a time, too, when I have <hi rend="italic">had</hi> &amp; <hi rend="italic">still</hi> have, more than ordinary work <hi rend="italic">to do</hi>—which can not be put off.—</p>
+         <p>During this interval I have received 2 kind notes from you, viz. of 8<hi rend="sup">th</hi>. &amp; 12<hi rend="sup">th</hi>. (this last to hand <hi rend="italic">last</hi>
+            <hi rend="italic">night</hi>): &amp; thank you for them. I sent you a paper or two—the last being the “Herald” of 12<hi rend="sup">th</hi>., containing report, &amp;c. of <hi rend="italic">your</hi> old Ch. here, which I thought would interest you: I marked Mr Sidey’s errors (as to nos.)—how <hi rend="italic">he</hi> came to make them I cannot well imagine—as he bears such a name for being such an expert <hi rend="italic">at figs</hi>.—However, someone has <hi rend="italic">gently </hi>corrected him in this mgs. “Herald”—showing there are <hi rend="italic">20 Epis.-Cl.</hi> now in H. Bay.—I hope the “Standard” I sent reached you. I have now 2 curious papers to send you (w. this in a small packet): one a clipping sent to me from California, Dr. Yates, evidently, following <hi rend="italic">your</hi> example in “Inland Printer,”—there are errors in it (such as <hi rend="italic">your</hi> trained eye would not pass!) but the worst one is that calling me “<hi rend="italic">the translator</hi> of the N.T. into Maori”: how he could have made <hi rend="italic">that </hi>(&amp; twice, too!) I cannot understand, seeing he<hi rend="italic">had</hi> a copy of the <hi rend="italic">Jubilee</hi> Paper printed here by you.—I must ask you to return me <hi rend="italic">this</hi> clipping—anon. The second, is a strange little pamphlet: <hi rend="italic">why</hi> sent to <hi rend="italic">me</hi> from Londn. or by whom, I cannot divine. <hi rend="italic">This</hi>, you can keep.—I shall enclose a clipping from “Herald”, <hi rend="italic">re</hi> your Ebenr. Baker—<hi rend="italic">again</hi> trotted out in Wgn. P.—(This is something <hi rend="italic">after</hi> the one you sent me, <hi rend="italic">re</hi> a “Mrs. Paynton,” of which, however, I say <hi rend="italic">very little</hi>, only, that <hi rend="italic">we</hi>
+            <hi rend="italic">here</hi> have Mrs. Williams (the Bp’s. widow), also Archdn. S’s. wife, both in N.Z. some years <hi rend="italic">before her</hi>!—&amp; there are several <hi rend="italic">others</hi> at the N.) Another wee clipping I add “for the fun of the thing” (as the boys say), <hi rend="italic">re</hi>
+            <hi rend="underline italic">a</hi> lost <hi rend="italic">Chq.</hi> which has been in “D.T.” nearly 2 months! &amp; has <hi rend="italic">quite a history</hi>! It is one <hi rend="italic">said</hi> (but disputed) to have been pd. to busybody S.J. in squaring: I cannot venture to give what has been said, both <hi rend="italic">pro</hi> &amp; <hi rend="italic">con</hi>. <hi rend="italic">Guess it</hi>! The 2 principals are tartars, &amp; well-met!!—</p>
+         <p>When I last wrote, on 31<hi rend="sup">st</hi> ult., I was preparing to go to Taradale on 1<hi rend="sup">st</hi> inst. I went performed that set duty, &amp; retd. next mg. by Rymer: went straight to see Mr Parkinson, <hi rend="italic">in bed</hi>: found him <hi rend="italic">apparently</hi> better than I had expd.—<hi rend="italic">he has been kept there ever since</hi>! (I was w. him again this mg.) &amp; <hi rend="italic">will be</hi> for, say, 2, 3 or 4 weeks longer!! This insisted on by his Dr.—Allen: but great fears are felt &amp; expressed <hi rend="italic">for him</hi>—</p>
+         <p>This, so suddenly &amp; unexpectedly coming, has given us a lot of work—and <hi rend="italic">me</hi> in particular here in town, as I <hi rend="italic">must</hi> (at least) take 2 <hi rend="italic">full</hi> S. every Sunday. Last Sy. I was there, though more fit for my bed owing to this Influenza-attack, indeed I broke down altogether in the Evg. S., but the Congrn. were <hi rend="italic">very</hi>
+            <hi rend="italic">good</hi>), &amp; seeing how it was patiently waited until I had recovd. &amp; then I continued; but to climb this hill (2<hi rend="sup">nd</hi> time) at night was a trial: tomorrow mg. I am to be at the Port Ch. (&amp; O. Dean at St. Augustine’s) &amp; in the <hi rend="italic">evg</hi>. I am fixed for Augustine’s. Dean Hovell’s hands are <hi rend="italic">full</hi>: forty. he is keeping well.—The Bp. is gone on his N. tour—which was <hi rend="italic">fixed</hi>, &amp;c. he will return (D.V.) before Xmas. I hope I may be able to render assistance at this time of need; Rheumatism <hi rend="italic">slight</hi>—but this Influenza is <hi rend="italic">heavy</hi>. Several are more or less ill: Horace Baker wife &amp; family all laid up! The very cold w. of the beginning of this week, did much dry-ing.</p>
+         <p>Sunday, 15<hi rend="sup">th</hi>., IX.10 p.m.———–</p>
+         <p>I am just returned from Augustine’s, (took my S. at Port Ch.) and found duty rather heavy this day—mainly owing to the <hi rend="italic">cold &amp; strong Sy.</hi> indeed, I went out of doors at a risk &amp; no doubt have increased (or brought back) influenza by so doing, as it was much more easy yesty. I regret to have to go to R.M. Court <hi rend="italic">tomorrow mg.</hi> “10.30”,—a <hi rend="italic">squabble</hi> between a man called Pedersen, &amp; his neighbour P.Blom’s widow.—Several are laid up w. this epidemic, some very bad, Knowles’ Gardener<hi rend="italic">is dying</hi>, and so some others—unknown to us.—</p>
+         <p>I must look over yours, as I wish to close this tonight, so that you may get it <hi rend="italic">before</hi> your Meeting on Wedy.</p>
+         <p>I thank you for what you wrote re your meeting <hi rend="italic">last</hi> week: &amp; have had 2 letters from Sir W. Buller—one written the day <hi rend="italic">before</hi> Ly. B’s. death, when <hi rend="italic">he </hi>(&amp; she?) <hi rend="italic">little thought</hi> death was near. I wrote to him a few words of sympathy and he has recently replied in an affecting heart-broken strain: in his <hi rend="italic">first</hi> letter he assured me of his being at the meeting when my <hi rend="italic">Moa P.</hi> should be read: but <hi rend="italic">this</hi> I do not now expect. I hope all may go off well. I was <hi rend="italic">pleased</hi> to see “Herald” copy your art. in “Typo” on “The Labour Press”. [I abominate those Americanism’s—labor! color!!!] I think that “Waip. Mail” also copied it. I note what you say re <hi rend="italic">Icerya</hi> &amp; <hi rend="italic">Vedalia</hi> but the big &amp; ugly <hi rend="italic">Icerya</hi> is still plentiful <hi rend="underline italic">here</hi>. James Sidey has got a good billet in London, &amp; is soon to leave us: I told him—while I rejoiced at his promotion, I was sorry at <hi rend="italic">his leaving</hi> N., we want to keep <hi rend="italic">such</hi> yg. men, &amp; get rid of Booth’s mob. Thompson, schoolmr. <hi rend="italic">resigned &amp; leaving</hi>; his furne. &amp; books, &amp;c, <hi rend="italic">sold</hi> by A. on 12<hi rend="sup">th</hi>. Cannot write any more!—</p>
+         <p>Would you had <hi rend="italic">better</hi> news re yr dear son but <hi rend="italic">we will hope on</hi>—</p>
+         <p>With kindest regards,</p>
+         <p>Bel. me yours truly, W. Colenso.</p>
+         <p>16<hi rend="sup">th</hi>. My. mg.</p>
+         <p>I just add, in packet, one of Dr Yates’ <hi rend="italic">last</hi> books to hand by last S.F. Mail—that <hi rend="italic">you</hi> might <hi rend="italic">see</hi> it: return early</p>
+         <p>more anon, when I hope to ansr. yr letter. W.C.</p>
+         <p>feel better this mg. <hi rend="italic">but</hi> have to go to R.M. Court!—</p>
+      </body>
+   </text>
+</TEI>

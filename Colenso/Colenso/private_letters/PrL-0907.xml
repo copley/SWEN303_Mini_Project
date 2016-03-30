@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0907">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1894 September 4: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0498.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1894-09-04">1894 September 4</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1894 September 4: to Harding<note xml:id="ftn3-694" place="foot" n="694"> ATL qMS-0498.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Woodville, 4/ix/94</p>
+         <p>Dear Mr. Harding—</p>
+         <p>I think I informed you in my last of my coming this way for Ch. duty, but it was not my intention to be so long in these parts: Mr. Eccles, at Auckland, not getting round quickly has caused me to remain for a 3<hi rend="sup ">rd</hi>. Sunday (2<hi rend="sup ">nd</hi>. inst.) and I begin to retrace my steps tomorrow to Napier: Last Sunday was a day to be remembered! it snowed (<hi rend="italic">much </hi>on Saty. nt., all the low hills around being covered, &amp; some remg. till last evening! Very cold it was—in, &amp; out of, Ch.—the lamps howr. were lit early in the mg. &amp; that warmed a little: I was enabled to get thro’ all duties of the 3 Sundays, &amp; Eccles returns to this place on Friday night (7<hi rend="sup ">th</hi>.)—being much better but <hi rend="italic">weak</hi>.—–</p>
+         <p>I have been keeping well on the whole, w. daily twinges of my old Rheumatism—but bearable w. hope. Your kind letter of 26<hi rend="sup ">th</hi>. Augt. I found (w. others) awaiting me at Dannevirke, and I thank you for it: as usual, it was a “<hi rend="italic">bitter sweet</hi>”, 10 out of work, &amp;c—&amp; then <hi rend="italic">in work</hi>: 20. Victor again up &amp; down—may this find the dear boy <hi rend="italic">better</hi>, or, at all events, free from pain.—You will indeed, <hi rend="italic">lose</hi>, in the <hi rend="italic">general </hi>relinquishing <hi rend="italic">Chair</hi>; would that we had such an one, but then he would be out of element—of touch—<hi rend="italic">here</hi>. I see in Wgn. p., that Buller is down for more <hi rend="italic">bird </hi>notes <hi rend="italic">tomorrow </hi>evg. Hill, was gazetted to take Chn. <hi rend="italic">last night</hi> at Ty. Ch. Clive Sq.—Missiony. Mtg.—this I presume is what Mellon told me of, &amp; I mentioned to you in my last.</p>
+         <p>I omitted (however) telling you of 2 calls I had: one, a Mr. Wildman formerly a printer, from Auckland, a tall stout man, who looked in one evg., twilight, but would not stay long “fearing to break his neck! in going down the zig-zag way”!! and <hi rend="italic">one</hi>, a yg. man named Rayner, agent (?) or somethg. for the “Bulletin” p., he promised to call again: was chatty, &amp;c., his card (which I had preserved for you) is a peculiar one—<hi rend="italic">as if a slice of wood</hi>, <hi rend="italic">athwart </hi>a branch, or sapling, in colour grain, &amp; microscopic ducts: have you seen anything like it? R. asked me to allow him to take my likeness (profile!) proceeding <hi rend="italic">instanter </hi>to do so! I refused, &amp; rose up—stating, I could give him a small photo—this I got, &amp; then showed him <hi rend="italic">yours</hi> (for Inland Printer, Chigo.), <hi rend="italic">this </hi>he admired, but left both saying he should call again in few days (he found me busy): he has not done so (down to time of my leaving on 17<hi rend="sup ">th</hi>.) and I heard, at Craig’s, he had taken some of our old town “Celebrities”—as George Richardson, &amp;c—he seems to have <hi rend="italic">a special knack that way</hi>—some exhibd. in Craig’s window:—<hi rend="italic">I felt glad I had escaped</hi>.—Of course, you will have heard of the death of Mr<hi rend="underline">s</hi>. <hi rend="italic">David</hi> Sidey: she had long been <hi rend="italic">going</hi>, as Mr. S. told me, 2 months ago, “no hope of recovery”. This mis. man Bierre is awaiting trial, in gaol; no one would stand bail! as far as I know, his pilferings are as follows:—</p>
+         <p>   Jockey Club (he Secy.)                  £100<lb/>       Build. Society                                    100<lb/>      Foresters                                                 70 (or more)<lb/>     Road Board                                        166<lb/>      Insurance Money                           70<lb/>       Ch. Rngd. offertories                     40</p>
+         <p>besides 2–3 heavy mortgages on his freehold, &amp; his salaries, ₤400. &amp; no one knows <hi rend="italic">how </hi>he squandered it all—not a drinker, nor gambler, but an everlasting smoker!!—<hi rend="italic">All </hi>hands <hi rend="italic">there </hi>seem to have trusted him, &amp; even the <hi rend="italic">last </hi>Sunday’s Ch. offy. (before he ran away) he coolly took w. him as pocket-money!—Mr. Sidey also told me, that his bankruptcy (7–8 yrs. ago) was a “very <hi rend="italic">shady one</hi>”. The worst is,—wife &amp; family (5 or 6) to be provided for!! Eldest son, is in My. Roberts &amp; Co. off., but salary, ₤<hi rend="underline italic">25</hi>.</p>
+         <p>Since I left N., I have received 4–6 Wgn. papers, contg. letters from Atkinson, Tregear, &amp; others, <hi rend="italic">re </hi>A’s. paper: I don’t know who sent them to me: <hi rend="italic">not you</hi>—from writing, address. I posted a paper to you this mg.—mainly for art. on <hi rend="underline italic">Caxton</hi>, and the Marq. Salisbury’s able speech.—</p>
+         <p>I have lost much val. time in my coming to the Bush—not having any thing w. me to do—save <hi rend="italic">now</hi>, <hi rend="underline italic">lately</hi>, writing by S.F. Mail. I thank you for the clippings, kindly sent (I shall return the <hi rend="italic">larger </hi>one— “<hi rend="underline italic">Old times Mrs. Gillies</hi>”:) she well describes Pakanae, from <hi rend="italic">her </hi>point of view—but the most out-of-the-way spot for a <hi rend="italic">Mission</hi> station to the heathen—<hi rend="underline italic">solitary</hi>!! I saw it, &amp; shuddered! Bp. Selwyn said, mine was the <hi rend="italic">worst </hi>(of ours) he had seen, but then I had lots of Maoris close by. The marker “hortus siccus” makes me to laugh! I cod. tell you a good ? story of an <hi rend="italic">early </hi>one. “Cook’s First V.”, I should like to <hi rend="italic">see</hi>—but must not order any more. By letter from L., I find I have some books on the way out. I suppose you saw the acct. of the finding of an <hi rend="italic">old </hi>parcel in L. of Sir G. Grey’s <hi rend="italic">works</hi>—ptd. by Stokes at Wgn.,—&amp; also ptd. at Auckland.</p>
+         <p>Did you know Balfour of Mohaka? a <hi rend="italic">sad </hi>endg. <hi rend="underline italic">that</hi> (Dont like it!!)<note xml:id="ftn3-695" place="foot" n="695"> Colenso’s old correspondent David Balfour drowned at Puketapu on 13 July 1894 while trying to rescue a sheep from a drain.</note>—I shall send you a cat.—in it 2 wks:—<hi rend="italic">one</hi> I have, &amp; read <hi rend="italic">thro</hi>’! much of interest in it; how strange! that the imperishable clay vols. from liby. Kgs. Assyria should now <hi rend="italic">support </hi>those relations of wars—Samaria, Judah, &amp;c—in Kings and Chronicles—<hi rend="italic">but </hi>with <hi rend="underline italic">much less</hi> of slaughter—such, <hi rend="italic">enormous losses </hi>(written Oriental fashion), were, however, pretty clearly shown to be increased, by Bp. Natal: this wk. is probd. by S.P.C.K. and so, the enlightened &amp; wise of H. Reps. reduced ₤500. N.Z. Inst. by ₤<hi rend="underline italic">1</hi>.—the <hi rend="italic">only </hi>reduction!! Your really nice list of poetry—extract from Southey has pleased me exceedgy., and, as you say, so apt, too: I shall take care of it. I lost (by lending!) my Southey: &amp; a year ago, was talked over by Craig to purchase a <hi rend="italic">wee </hi>one (sm. Hymn Bk. size), the type too small for pleasant reading:—I wanted (again!!) to go over “<hi rend="italic">Thalaba</hi>”. I find I have missed several books, one, in partr., I mourn, <hi rend="italic">vol. IV.</hi> of Colenso’s Pent.,—I suppose I had lent it to Locke!—I brought with me “Tennyson”, and I copy 2 sm portions which arrested my attention—<hi rend="italic">you </hi>will see their application. While at Dannevirke 10 days ago, I saw Mr. Grubb.—From “Own Correspdt.” Waipawa, I find, Hill has been preaching in Metht. Ch. at Makaretu, on a Sunday. Your drafting a schedule &amp; ticking off items—amuses me: for I have often done the same—more freqy. however to England. I should like to make an example of <hi rend="italic">Eugene </hi>(by Cat, &amp;c, on back) <hi rend="italic">after his </hi>set day: &amp; thank you heartily for exposing the Imposter. Now my good friend I must close, I have <hi rend="italic">enjoyed </hi>this evg. <hi rend="underline italic">w. you</hi> (as of old): kindest regards to you, &amp; young: ever yours sincy., W. Colenso.</p>
+         <p>— “Sighing weariedly, as one who sits and gazes on a faded fire, when all the goodlier guests are past away, Sat their great umpire,” – – –<lb/>                                                           “<hi rend="italic">The Last Tournament</hi>.”</p>
+         <p>— “As the crest of some slow-arching wave,<lb/>Heard in dead night along that table-shore,<lb/>Drops flat, and after the great waters break<lb/>Whitening for half a league, and then themselves<lb/>Far over sands marbled with moon and clouds<lb/>From less and less to nothing.”——<lb/>
+            <hi rend="italic">Idem</hi>
+         </p>
+      </body>
+   </text>
+</TEI>

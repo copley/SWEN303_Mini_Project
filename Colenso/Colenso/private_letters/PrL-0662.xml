@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0662">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1888 February 23: to Grey</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Auckland Council Libraries GLNZ C28.11 (Grey New Zealand letters).</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/48318/">Grey</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1888-02-23">1888 February 23</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1888 February 23: to Grey<note xml:id="ftn3-387" place="foot" n="387"> Auckland Council Libraries GLNZ C28.11 (Grey New Zealand letters).</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke,<lb/>(70 Mile Bush,)<lb/>Feby. 23<hi rend="sup ">rd</hi>. 1888.</p>
+         <p>Dear Sir George Grey</p>
+         <p>I came hither early in this month on my usual autumnal Botanical ramble in these sequestered woods and glens,—and since I have received a long and interesting (though painful) letter from our mutual friend Sir J.D. Hooker—which I have this day answered.</p>
+         <p>In it he has given me a message for you, which I copy:</p>
+         <p>— “Give Sir George Grey my warmest salutations when you see or write to him: and tell him, I keep the nuggets he gave me as a cherished keepsake.”—</p>
+         <p>I had sent to Sir Joseph a copy of the Napier “Herald” containing the report of your speech there and Public Meeting,—besides my frequently writing to him.</p>
+         <p>Hooker and his Lady had been having a <hi rend="italic">sad </hi>Xmas:—<lb/>1<hi rend="sup ">st</hi>. the death of her Father<lb/>2<hi rend="sup ">nd</hi>. the death of her last surviving brother, Frank Symonds, at Tonga. I believe you knew him well: also, his brother Capt. Symonds,—as both had lived long near you.—</p>
+         <p>I was much grieved, the other day, to see in the Papers, of your being severely ill at Kawau: I trust, dear Sir George Grey, that you are now quite recovered.—</p>
+         <p>I am keeping well,—with the use of all my faculties, &amp; don’t need glasses: only I find my knees to be <hi rend="italic">not </hi>so strong nor so ready as of yore in our tangled forests.—–</p>
+         <p>With kindest regards,</p>
+         <p>Believe me,</p>
+         <p>Dear Sir George Grey,</p>
+         <p>Yours truly,</p>
+         <p>Wm. Colenso.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0033">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1841 August 31: Octavius Hadfield to his father Joseph</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. "Letter 36". Page 76.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 25.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1841-08-31">1841 August 31</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/46417/">Port Nicholson</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70741/">Joseph Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1841 August 31: Octavius Hadfield to his father Joseph 
+         </p>
+      </front>
+      <body>
+      <p>Port Nicholson,</p>
+      <p>August 31st. 1841</p>
+      <p>My dear Father,</p>
+      <p>I take up my pen to write you a few lines, as I hear there is a vessel about to sail for South America by which an English mail will be sent.  I wrote last about a month ago to Maria &amp; that when I was last here.  Since that I have received a letter from Octavia dated March 31st. &amp; one from Charles of Oct. '40, I try to thank them for their kind letters.  I have been disappointed this morn: on receiving two "Records" of May 5 &amp; 8 not to find a letter from home, but I have reason to be thankful in having heard so lately that you were all well with the exception of dear George, concerning whom I feel very anxious.  I hope you have been better supplied with letters from me lately, as I suppose my letters give you as much pleasure as yours do me.  I have not however been for a long time favoured with one from you.  I have little to relate since I last wrote.  My work continues I trust, to prosper among these people far beyond my most sanguine expectations or those I suppose of any in England.  I baptised 31 adults a few days ago at Waikanae.  I mentioned in my last letter my interesting visit to the other side of the Straits.  I sometimes think however, that I have too much to do, &amp; that consequently I do nothing properly, I am wasting my time &amp; depriving myself of comfort for want of leisure for reading etc.  I have been called over here by the arrival of the Governor, who with his various followers, including Mr. Dawson &amp; Mr. Clark (from te Waimate) arrived here a few days ago.  I have had a good deal of conversation with the Governor about the natives etc., he is very civil &amp; kind; I dined with him a day or two ago; &amp; seems inclined to uphold religion in the land to the best of his power.  He was at church on Sunday when I preached, tho' it was a miserable day.  Mr. Dawson is going on to Wanganui about 100 miles from this, I shall accompany him, as Mr. Mason has been expecting me for some time.  Here are <hi rend="underline">three thousand</hi> persons, (English), &amp; no clergyman, I have had some strong hints to induce me to remain here till somebody comes but I cannot.  The respectable people of the place &amp; the government are very civil to me.  There are a Mr. &amp; Mrs. St Hill with whom I am residing who are always remarkably kind.  We are expecting a bishop out here, I hope he may arrive soon.  I do not much like the Church Missionary Society, there was a late letter from Mr. Vores to the "ordained missionaries" which has done no good, &amp; I think there is one <hi rend="underline">cut</hi> at me, but whatever they may say of my entering into other men's labours &amp; those the labours of laymen, I treat such an insinuation with the contempt it deserves, <hi rend="underline">none</hi> having ever preached the Gospel within 300 miles of my sphere of labour; but why speak of such subjects, were it not to show the ignorance of people at home in <hi rend="underline">all</hi> that concerns the mission.  I never write to them, neither shall I on these subjects.  It is far from pleasant to have our motives misrepresented, our labours cramped etc. by <hi rend="underline">our friends</hi> &amp; those who are sitting at home enjoying the peace &amp; comforts of life; but enough of this, nay too much, excuse my infirmity, but some people seem to have no regard in writing for the feelings of men, &amp; we are all too susceptible of anything which looks like a reproof.  Political news I grieve to find by the papers is very bad.  May the Lord have mercy on our highly favoured yet ungrateful nation.  Excuse this; I will write more fully when I have more leisure.  Give my warmest love to all &amp;</p>
+      <p>Believe me my dear father,</p>
+      <p>Ever your affectionate son,
+      </p>
+      <p>Octavius Hadfield.</p>
+      <p>I have written to ask Alexander to come here on his way home shd. he visit England.</p>
+      </body>
+   </text>
+</TEI>

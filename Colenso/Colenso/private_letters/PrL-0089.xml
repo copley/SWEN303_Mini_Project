@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0089">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: Translation.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Hocken Library Ms Vol 63; ATL qMS 0491. p.296. “Translation by William Colenso”. Colenso also sent a copy in Māori (p.299).</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1850-06-22">1850 June 22</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p rend="center">Translation.<note xml:id="ftn1-128" place="foot" n="128">Hocken Library Ms Vol 63; ATL qMS 0491. p.296. “Translation by William Colenso”. Colenso also sent a copy in Māori (p.299).</note>
+         </p>
+      </front>
+      <body>
+         <p rend="center">—————————————</p>
+         <p>This Letter was written at Port Nicholson, at the house of Governor Eyre, on the 22<hi rend="sup">nd</hi> of June was it written, 1850.—</p>
+         <p>To Christian Takamoana, to Thompson Peka Peka, to Leonard Kawepo. O Sirs, Listen hither: this is a word of mine to you. My writing to you is not because I have heard of the ill-treatment which your Minister has received at your hands. O Sirs, listen hither, my sorrow is not a common sorrow, it is a very great sorrow indeed. Yes, indeed, that you did not esteem your Minister and allow him to remain in peace. You did not consider that a Minister’s work is to do good, and this it is which induces them to settle down in the midst of the Natives.—Notwithstanding I have nothing now to say, because I consider that the ill treatment of your whiteman has been fully made up to him: that is, that new thoughts have arisen, good thoughts. That it is all over by this time, and that no such thing will take place again. That is all.</p>
+         <p>                               From Governor Eyre,</p>
+         <p>                               From the Governor of Port Nicholson,</p>
+         <p>                                       (Signed)</p>
+         <p>E. Eyre.</p>
+         <p>To Christian</p>
+         <p>Takamoana &amp; party</p>
+         <p>Waitangi.</p>
+         <p>(Address Translation)<note xml:id="ftn1-129" place="foot" n="129"> Hocken Library Ms Vol 63; ATL qMS 0491. p.298.</note>
+         </p>
+         <p rend="center">O. H. M. S.</p>
+         <p rend="end">
+            <hi rend="italic">Care of Revd. W. Colenso</hi>
+         </p>
+         <p>To Christian Takamoana         </p>
+         <p>               To Thompson Peka Peka</p>
+         <p>               To Leonard Kawepo,</p>
+         <p>                               Waitangi,</p>
+         <p>                                 Ahuriri.</p>
+         <p>Govt House</p>
+         <p>Wellington</p>
+         <p>22 June 1850</p>
+         <p rend="end">                                                    (True Translation</p>
+         <p rend="end">                                            Willm. Colenso.)</p>
+      </body>
+  </text>
+</TEI>

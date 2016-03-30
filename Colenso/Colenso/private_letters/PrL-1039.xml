@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1039">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1898 March 24: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0499.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1898-03-24">1898 March 24</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1898 March 24: to Harding<note xml:id="ftn3-888" place="foot" n="888"> ATL qMS-0499.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Thursday night<lb/>24/III/98.</p>
+         <p>Dear Mr Harding</p>
+         <p>Many thanks for your kind remembrance of me with Newspapers this day: also, for Spencer’s <hi rend="italic">little tractate </hi>(of which more <hi rend="italic">anon</hi>). In looking—casually—into your paper I find the enclosed clipping <hi rend="italic">advertisement</hi>, (which I was right glad to <hi rend="italic">see</hi>—for I was about writing to London for those very books!) Please procure me the <hi rend="italic">two </hi>marked &amp; forward:—I enclose a postal note in payment.</p>
+         <p>It is some consolation to find the unhappy man P. making a confession—but I am shocked at his attempts to lead astray Jellicoe after his trial! now we know why J. <hi rend="italic">endeavoured </hi>to do so much for him!!!</p>
+         <p>What a lot of passengers <hi rend="italic">Home</hi> per Ruahine! hope she with her cargo may arrive safely—I should not like to be in her with such a motley lot! all sorts.—I notice 3 <hi rend="italic">Revds</hi>: do you happen to know, “Teakle,” and “Maxwell”? of what Denom.—I see McDonnell is gone by her; did you <hi rend="italic">know </hi>
+            <hi rend="underline italic">him</hi>—when <hi rend="italic">here</hi> a wild Irish youngster some 40 years ago?—</p>
+         <p>Mr. Hill returned from the N. this mg., he had plenty of rain while away: he kindly called this afternoon &amp; spent an hour: apparently very well.</p>
+         <p>Weather very fine here—almost an old “Indian summer” season—begun already: I hope it may not be ended before I get away inland.—</p>
+         <p>I received a note from my <hi rend="italic">old </hi>Scotch friend, Peter Gow, this day. Among other items of interest, he says— “We have our Sunday School house finished, and opened by a speech from Rev. Paterson &amp; others and Tea after for children: we are ₤100 behind, but that is all the debt on the buildings belonging to the Ch. property, &amp; that is not much. Mrs. Trestrail helped much: I am sorry to say, she is not very well just now, not able to come out to the Service on Sunday: all the rest of the good people around are well.”—</p>
+         <p>This note is only a scrap one—written purposely to get those 2 books. I am rather tired tonight, eyes <hi rend="italic">weary</hi>! with close work on <hi rend="underline italic">small</hi> Ruahine plants—dissecting, &amp; with microscope. Good bye Yours ever</p>
+         <p>W. Colenso.</p>
+         <p>25<hi rend="sup ">th</hi>. Fine: I’m off to town business. In “Herald”—Rev. J.G. Paterson, at Gisborne—to conduct election of a Mr. for St. Andrew’s Ch. there—3 Candidates Rev. E. McCully of Sydenham, J.A. Simpson of Xt.Church, &amp; Robert Gray of the Hutt.”</p>
+         <p>
+            <hi rend="italic">Heoi ano.</hi>                    W.C.</p>
+      </body>
+   </text>
+</TEI>

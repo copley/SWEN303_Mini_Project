@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0106">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1882 To the benevolent: a case for charity. Daily Telegraph 23 November</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1882-11-23">1882 November 23</date>
+          <publisher>
+            <name type="organisation">Daily Telegraph</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1882-11-21">1882 November 21</date>
+        <name type="place">Norsewood</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1882 To the benevolent: a case for charity. <lb/>
+        </hi>
+        <hi rend="bold italic">Daily Telegraph</hi>
+        <hi rend="bold"> 23 November</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—As both the D.T. and its contemporary the H. have ever been ready to advocate the cause of real Charity in their columns, I beg permission to say a few words in behalf of a very poor widow with a large family of small children; whose sad case should, I think, have been duly made public long ago through our Napier papers, and that, too, by some one well acquainted with their situation. For I feel assured that had such been done not a few in Napier and the Hawke’s Bay District would have willingly responded to the call. This poor woman is now the widow of T. Scheffler, (who died in the Napier Hospital a few weeks back,) and she has been left with six small children, (the eldest being only about 8 years old!) with the probability of soon adding another to her little circle. It is well-known that T. Scheffler had long been laboring under an incurable disease, which also disabled him from constant work for some time previous to his death, consequently his little savings had all been consumed before his decease. The Waipawa County Council kindly allows her ten shillings a week, and this, perhaps, just keeps the widow and family from absolute starvation. But they are in want,—in great personal want,—and their miserable old house (or shed !) is neither wind nor water tight, and with only the cold and damp earth floor; and, unfortunately for them, their neighbors are mostly poor also, and therefore can do but little. Some small help however she has received, in the way of old clothing, &amp;c, &amp;c, which is gratefully acknowledged. And as she bears the sterling good character of a home-loving hard-working motherly and thrifty woman, all those little aids she has economised to the furthest:—More, I think, on this head I need not now write; I would much rather preach a sermon on it to a large audience. </p>
+      <p>I write this to you from Norsewood, where I have been residing more than a fortnight. I had privately heard of this poor widow’s case last month in Napier,—and I looked forward, almost daily I may say, to some one from this neighborhood (Norsewood) writing to the D.T., or to the H., in behalf of this poor friendless destitute and uncomplaining soul and her big family of six wee bairnies! but as such was not done, and as I was coming hither, I purposely deferred my writing until I should have made full enquiry on the spot; this I have now done, and I therefore appeal to the truly benevolent (and especially to the Christian Mothers) of Napier and of Hawke’s Bay to render some little and seasonable help. </p>
+      <p>This poor widow is a German, as her late husband also was; and this may be a reason for no public appeal having been made by her German friends or neighbors. But (as I take it) true charity looks neither to Nationalities nor to Creeds,—it is of too high, too holy a nature for that. </p>
+      <p>Any monies sent to me shall be faithfully applied, and a public account rendered of my stewardship; or such may (I suppose) be sent to the Rev. Mr Sass, the German Lutheran Minister at Norsewood, to be used for her benefit: I mention this, although I have not spoken to him on the subject. Please add:—Rev. W. Colenso (1st Donation) paid, £2; ditto (2nd Donation, £1).—</p>
+      <p>I am, &amp;c, </p>
+      <p rend="end">
+        <hi rend="smallcaps">William </hi>
+        <hi rend="smallcaps">Colenso</hi>
+        <hi rend="smallcaps">.                                  </hi>
+      </p>
+      <p> Norsewood, 21st November 1882.</p>
+      <p>P.S. I trust, the Editor of the Herald will kindly also take up this matter; and possibly re-publish my letter.—W.C. </p>
+    </body>
+  </text>
+</TEI>

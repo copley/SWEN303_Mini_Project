@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0117">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1884 Mr Colenso and Nebuchadnezzar. Daily Telegraph 8 May.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1884-05-08">1884 May 8</date>
+               <publisher>
+                  <name type="organisation">Daily Telegraph</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1884 Mr Colenso and Nebuchadnezzar.<lb/>
+                  </hi>
+                  <hi rend="bold italic"> Daily Telegraph</hi>
+                  <hi rend="bold"> 8 May.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—Your paper of Saturday last has just reached me here, and I notice in the “Supplement” a text taken from the book of “Daniel” by Rev. J. J. Lewis respecting the great Assyrian monarch Nebuchadnezzar, and his supposed worship of “the King of heaven” as the one true God. Curiously enough, it was only yesterday that I was reading in a late number of the London Times, (having brought my file with me for quiet reading,) a most interesting account of the discovery of two inscriptions of King Nebuchadnezzar at Mount Lebanon; communicated to that journal by the learned Assyriologist M. Ch. Clermont-Ganneau. He says:— </p>
+         <p>“Those two large unknown inscriptions of Nebuchadnezzar, were found on Lebanon by M. Pognon, Assistant-Consul of the French Republic at Beyrout. . . These texts are engraved on the rock, in the Wady-Brissa, one of the wildest valleys on the eastern slope of Lebanon, near the Orontes. They measure about 5 metres 50 in breadth by 2 metres 80 in height. They are written, the one in archaic and the other in cursive cuneiform characters, forming a whole of 19 columns. . . The two inscriptions each contain a different text. They commence by the titles of Nebuchadnezzar:— “Nebuchadnezzar, King of Babylon, the illustrious Pastor, the servant of Merodak the great Lord, his Creator, and of Nebo his illustrious son, whom his Royalty loves.” </p>
+         <p>“M. Pognon” (an accomplished Oriental Scholar) “is of opinion, that these texts mark the site of a timberyard, whore trees were cut to be sent to Babylon. The name of Lebanon is repeated several times in mutilated sentences, where it is a question as to the wood employed in Nebuchadnezzar's buildings. ... The supposition of M. Pognon on the general purport of these two texts becomes very probable if one compares it with certain facts more or less known. We are aware, from the other inscriptions of Nebuchadnezzar which have reached us, that the great King of Babylon employed a considerable quantity of wood for his sumptuous building of temples and palaces. In one of these inscriptions, preserved in the British Museum, he even says expressly “that he has employed for the woodwork of the Chamber of Oracles the largest of the trees which he has had conveyed from Mount Lebanon.”—</p>
+         <p>The whole of the description is very interesting, and is long. I have thought that the above extract from this communication of an historical fact respecting Nebuchadnezzar, (mere outline though it be,) worthy of sending to you for your readers just now. I note that Mr Lewis takes for a real historical truth (!) the text he has quoted, together with all its strange apparel and circumstances; on this assumption, however, (with its diffuse superstructure,) I, at present, make no remark.—I am, &amp;c, </p>
+         <p rend="end">
+                  <hi rend="smallcaps">William Colenso</hi>
+                  <hi rend="smallcaps">.</hi> 
+               </p>
+         <p>Matamau, “70-mile-Bush,” <lb/>May 6, 1884.</p>
+      </body>
+   </text>
+</TEI>

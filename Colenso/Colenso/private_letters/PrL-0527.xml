@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0527">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1883 February 26: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1883-02-26">1883 February 26</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1883 February 26: to Balfour<note xml:id="ftn3-174" place="foot" n="174"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Monday 26 Feb 1883</p>
+         <p>Mr Balfour</p>
+         <p>Dear Sir</p>
+         <p>I must write you a few lines, if only to thank you for your last kind note of the 19<hi rend="sup">th</hi>.</p>
+         <p>I am glad to know you have so much good feed with, &amp; around you,—here it has been quite the contrary till <hi rend="italic">now</hi>—the long-wished for rain came at last, on Thursday 22<hi rend="sup">nd</hi>, mild, thick, “dropping fatness”, &amp; continued for 2 days,—also, since in showers, doing a great deal of good, the grass here on the hills has grown 2 inches already. Your account of the fast growing of the ferns is surprising, one would suppose there must be good strong roots below.</p>
+         <p>I hope you have duly received the copy of the Annual Report I sent you. I was much pleased to find you were <hi rend="italic">all well</hi> at Glenross; health is a great blessing; how truly great we never know until we have lost it. Yesterday I was not at all well, but by keeping shut up, &amp; taking only a little tea &amp; bread, I am nearly alright again today; but there is much sickness <hi rend="italic">about</hi>—including the nearer country, the young &amp; the strong seem to have their share of that &amp; deaths.</p>
+         <p>I thank you for the flg stems, &amp; for the one capsule; this latter I prized, &amp; set it aside carefully to dry. I had noticed, at first, a small worm hole just where the little flower had fallen, and, today, in going to look at (in replying to your letter), I found the said little rasca­lly worm had eaten a way right to the base; being snugly ensconced within. Wasn’t I vexed.</p>
+         <p>My attention was doubly attracted to the <hi rend="italic">last</hi> capsule of the year; thr­ough your saying “the plant had a <hi rend="italic">longer &amp; narrower leaf</hi>”; this accords with several specimens sent me last year for Xmas 81, by J. Stewart from Takapau, none were <hi rend="italic">in flower</hi>, the season having passed; it <hi rend="italic">may</hi> prove to be <hi rend="italic">S. falcatus</hi> (see your Hand Book)—let me have a <hi rend="italic">leaf</hi> of it when you next write, also a few more <hi rend="italic">fl stems</hi>—although dry.</p>
+         <p>So P.D. is in the Co Council, also in the H. Board; I am pleased at both, but I am <hi rend="italic">sorry</hi> that Mr Kinross is out of this <hi rend="italic">latter</hi>,—he should be a member of it.</p>
+         <p>I trust when you do come to town you will find a few hours to look at some of our new books.</p>
+         <p>I was sorry to see in the paper that P.D. could <hi rend="italic">not stay</hi> to the dinner given to Bennet, owing to his <hi rend="italic">being taken ill</hi>; I do not like those fre­quent attacks which P.D. of late is subject to—I fear he has too much of worry &amp; bother, &amp; I have, in a quiet way, spoken to him about it.</p>
+         <p>May this find you well &amp; happy; with kind regards</p>
+         <p>             Yours truly</p>
+         <p>                             W.Colenso</p>
+      </body>
+   </text>
+</TEI>

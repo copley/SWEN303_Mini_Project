@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0654">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: Date?: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-1: Undated: but probably 19 October 1887.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/4123/">Napier</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1887-10-19">1887 October 19?</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>Date?: to Harding<note xml:id="ftn3-378" place="foot" n="378">ATL MS-Copy-Micro-0485-1: Undated: but probably 19 October 1887.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>Wednesday 19<hi rend="sup">th</hi>.</p>
+         <p>Mr R.C. Harding</p>
+         <p>My Dear Sir</p>
+         <p>Herewith I return your handsome Book: I have looked over it (not, however, so as to examine thoroughly, &amp;c.)—and thank you for kindly thinking of me, &amp; so allowing me such a treat!—–</p>
+         <p>How such an expensive <hi rend="italic">outlay</hi> can ever be made to pay—is quite a mystery to me! I cannot help thinking, that in not a few instances the proprietors have carried their rage for novelty <hi rend="italic">too far</hi>.—</p>
+         <p>I was rather surprised to see such a very long report of <hi rend="italic">our</hi> paper in “Evg. N.”—and, an almost “Typo” view of it! I thought too, that, “D.T.” might have said a <hi rend="italic">little</hi> more. Following out your suggestion <hi rend="italic">re</hi> the sketch of Paihia (as it was 50 yrs. ago, &amp;c)—to have a lithog of it appended to my Paper (<hi rend="italic">i.e.</hi> If Editor &amp; Board <hi rend="italic">consent</hi> to it being pubd. in vol. xx!)—I spoke to Secy. Hamilton yesterday about it, &amp; for him to write to Sir James Hector, &amp;c.—As you are one of the Council—perhaps you might say a <hi rend="italic">timely word</hi> to H. I have also, offered to meet the expense of same—<hi rend="italic">if needed</hi>.</p>
+         <p>I purpose leaving for Bush next week, and will, if I can well do so, drop in on you first to say Goodbye.</p>
+         <p>                                             Hoping you are well</p>
+         <p>                                     I am yours truly</p>
+         <p>                                                                                             W. Colenso.</p>
+         <p>P.S. I send you an Almanac for 1888!—you can burn it.</p>
+         <p>                                                                                                     W.C.</p>
+      </body>
+  </text>
+</TEI>

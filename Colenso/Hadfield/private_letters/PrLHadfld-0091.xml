@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0091">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>"1865?": Octavius Hadfield to his brother Charles Hadfield</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions, spine title "Hadfield, Typescript Miscellaneous Fragments 1833-1897", stamped 19 Dec 1979.  Section: Fragments - Fragmentary extracts from the letters of Octavius Hadfield.  "EXTRACT NO. 1."  Page 23.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 10.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="-----">"1865?"</date>
+                  
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70819/">Charles Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>"1865?": Octavius Hadfield to his brother Charles Hadfield</p>
+      </front>
+      <body>
+      <p>The government has been availing itself of native allies who, with some local troops have been punishing the <hi rend="underline">Hauhaus</hi> on the East and N.E. coasts.  But even this is a somewhat dangerous course: it may be found difficult by and by to control these native allies.  However I am not stating any positive opinion in matters occurring at a distance and which I only know superficially -- that is through occasional statements in the local press.  I cannot say whether the fanaticism is gaining ground or not in other parts of the country; in my neighbourhood there never was more than a very feeble attempt at it and even that has sensibly declined.</p>
+      <p>I have on the last three sundays<!--sic--> administered the Holy Com. at three different places and on each occasion had reason to think that there was more earnestness about the people than usual.  L. Williams, the son of Bp.W. has held on bravely at Turanga notwithstanding the threats of the fanatics.  His wife and family went away in April.  I rather imagine the tide of feeling is beginning to turn, and that in each district order may be restored before very long.</p>
+      <p>I recently had a letter from Sir W. Martin asking me to give him my views about <hi rend="underline">Hauhaus</hi>, and the general state of the natives.  This I have done.  But the present mode of governing the country, with constantly changing officers of the executive is so unsatisfactory to my mind that I can hardly bring myself to think steadily on the subject.  No sooner does a little light begin to appear than some new change obscures all ones prospects.  I often however think of an over-ruling hand.  Certainly all would be hap-hazard if left merely to human guidance.  So I still hope some good may come out of the present evil.  It is impossible to read history without perceiving how little the greatest actors on the scenes have foreseen the results that their own actions were bringing about. </p>
+      <p>With reference to our N.Z. affairs I do not know that much can now be done for us in England.  The sending out the troops in the first place was the great error committed by the Col Office.  They had correct information; but they preferred believing statements of their own (or rather colonial) agents.  When troops were once sent out it seemed a pity not to utilize them, so the Waikato war was begun.  The home govt. put the Gov in the difficulty.  They gave him troops and sent out an impatient, obstinate old general; and of course with the home govt. and the colonists besides the general, thought the sooner the war was begun and finished the better.  This is really the history of the Waikato war and its consequences, that is its cause.  They all thought it an easy matter to conquer this country; but the result has proved their mistake.  I presume Mr Fox who has gone home will write about N.Z. affairs.  He is a clever fellow and very pleasant in private; but far too quick and hasty to display much wisdom in his proceedings.  He writes remarkably well, but I scarcely fancy gives himself time enough to weigh and consider his facts and deductions.  At least he is very prone to fall into errors of date etc. etc. which really alter the whole merits of a question. </p>
+      <p>Well I must conclude this as I have a good deal to do and to write at present.  I hope Kate will add a line but this is uncertain.  In the mean while she unites with me in love to you all.</p>
+      <p>Your affectionate brother
+      </p>
+      <p>Octavius Hadfield.</p>
+      <p>Col. C.J. Hadfield</p>
+      <p>Excuse any blunders.  I have not time to read it over.</p>
+      </body>
+   </text>
+</TEI>

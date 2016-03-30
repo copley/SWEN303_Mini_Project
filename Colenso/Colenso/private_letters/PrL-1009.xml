@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1009">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1897 September 26: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0499.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1897-09-26">1897 September 26</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1897 September 26: to Harding<note xml:id="ftn3-847" place="foot" n="847"> ATL qMS-0499.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Sept 26<hi rend="sup">th</hi> 1897</p>
+         <p>Dear Mr Harding</p>
+         <p>Your kind long full letter of 20<hi rend="sup">th</hi> July recd. by me, was duly opened by me <hi rend="italic">this</hi> mg., and now I feel impelled to write to you <hi rend="italic">at once</hi>, though I had intended <hi rend="italic">not to do so</hi> until <hi rend="italic">after</hi> S.F. Mail leaves us—for which I had not yet made my preparation. And I now write to you to say—<hi rend="italic">Close,</hi> if possible, your disposal of Pg. Off.—even if you lose (pro tem) a little thereby—seeing you have this suitable office as <hi rend="italic">Reader</hi> open to you; I am greatly pleased in hearing this.—From what you incidentally say of McKay I gather he is <hi rend="underline italic">friendly</hi>: I wish I had <hi rend="italic">known</hi> this <hi rend="underline italic">yesterday</hi>! as last night I posted my <hi rend="italic">last</hi> proof (corrected) of “<hi rend="underline italic">Eng</hi>.-Mao.” sheet!!—I suppose I told you of <hi rend="italic">his</hi> finding in Mr Amelius Smith’s office my <hi rend="underline italic">old</hi> Ms. of Eng. Maori, (dated, Jany./67!)—also, that in my replying to McKay I <hi rend="italic">had</hi> said, (upon his hint to me) that I did not expect to get any more proofs until <hi rend="italic">after</hi> Session Pt. Judge then of my astonishment—last <hi rend="italic">Tuesday</hi> mg. (21<hi rend="sup">st.</hi>)—on receiving proof<hi rend="underline">s</hi> of <hi rend="italic">remg. portion</hi> of <hi rend="italic">Maori</hi>-Eng., and also of <hi rend="underline italic">Eng</hi>-Maori—with all copy returned (done with)—and enquiry as to getting out little book—in the most friendly way (as, indeed, always w. <hi rend="underline italic">him</hi>). I had only on Monday night begun to breathe! having been hard at work on <hi rend="italic">last</hi> &amp; <hi rend="italic">long</hi> L. to Grogan—&amp; was looking forward to going down town—not having been there for 6 wks,—so I had to “gird up my loins” and commence afresh—I sent off the Mao.-Eng. <hi rend="italic">proof</hi> (for Revise) on <hi rend="italic">Friday</hi>, &amp; <hi rend="italic">last</hi> night, the Eng.-Mao. ditto ditto, &amp; with it, to finish—my <hi rend="italic">Preface</hi>—<hi rend="underline italic">long</hi>, indeed, necessarily so: but <hi rend="italic">this</hi> (written nearly 2 yrs ago!) I <hi rend="italic">had intended</hi> to <hi rend="italic">send on first to you</hi>, for your <hi rend="italic">friendly</hi> valued criticism: no man knowing so much of the unfort. past <hi rend="italic">re</hi> Lexicon.—However it has occurred to me, <hi rend="italic">now</hi>, seeing your position (assumed) w. Mackay to ask you to see him and perhaps get him to let you read my <hi rend="italic">preface</hi>, Ms. copy, and then you could write me <hi rend="italic">re</hi> same. I have, in ansr. to M’s. queries said, to get up little book, much like Didsbury in ’89 got up that “Biogl. lit. N.Z”, in green cloth, &amp;c., stitched w. <hi rend="underline italic">thread</hi>—<hi rend="italic">not stapled</hi>. You tell me there is no mention of any of my papers in Liby.—but in <hi rend="italic">this </hi>work (<hi rend="italic">supra</hi>) there are several—including “<hi rend="italic">Ruahine</hi>”, &amp; others; but I will, ere long, look out copies (tho’ but <hi rend="underline italic">few</hi> left of that, &amp; 3 Lit. Papers), also of <hi rend="italic">yr. ptg.</hi> and send them to you for presentation. I have also been <hi rend="italic">long</hi> and closely employed in looking out (from many bundles in the rough) spns. for Kirk—as he said “I had promised them”: no doubt he is right, but I do not remember it. Oh! the job, my poor arm! up and down ladder, bundles plants, going over them, &amp;c. however the <hi rend="italic">worst</hi> of that is <hi rend="italic">over.</hi>—–</p>
+         <p>
+            <hi rend="italic">Re</hi> Grogan (I don’t <hi rend="italic">know</hi> him:) I hope he will be satisfied now (&amp; drop his “friending” me!) I sent you a copy of my <hi rend="italic">last</hi>—in which I have spoken (<hi rend="italic">once more</hi>) <hi rend="underline italic">plainly</hi>:—I also sent you yesty., “D.T.” of 24<hi rend="sup">th</hi> for <hi rend="italic">Edl. article</hi>: I <hi rend="italic">could not</hi> go to Norsewood demonstration wh. I regret: legs still <hi rend="underline italic">weak</hi>, fingers not yet close on palm (perhaps never may!)—I am pretty well. Rev. Lewis, Woodvlle, called on 23<hi rend="sup">rd</hi>., Hill, yesty.; gone N. for 5 wks: J.D.O. also called <hi rend="italic">last</hi> wk: &amp; McLean, &amp; Knowles, but I don’t encourage visitors—time too <hi rend="italic">precious</hi>. Weather fine on the whole. May write you again shortly, and if so will endeavour to reply fully to yr L.</p>
+         <p>Goodbye; kind regards and best wishes.</p>
+         <p>Yours <hi rend="italic">truly,</hi>      W. Colenso</p>
+         <p>
+            <hi rend="italic">P.S.</hi>
+         </p>
+         <p>Did you know “Mrs Edwards”?—widow of Edwards who kept Shksp. Rd. hotel!! erst in Pl. Cl. She was buried on 24<hi rend="sup">th</hi>  Property all goes to his brother—a clerk in Wilson &amp; Cotterill’s office.——</p>
+         <p>Mentioning “widow”—reminds me of Mrs Cullen on opp. hill—she must build a big house—for Boarders, who never came or rather, <hi rend="italic">never stayed</hi>, <hi rend="italic">borrowed</hi> to build and furnish—ran wildly into debt and now lost all! Bankrupt. house and land adjg. <hi rend="italic">sold</hi>—low!—also, furniture, &amp; the widow rusticating in a 2 roomed cott, at Taradale!</p>
+         <p>I omitted to say, I had visits from Rev. Redstone, &amp; Sir W. Buller, gone to Fiji: have we heard the <hi rend="italic">last</hi> of Horowhenua? Hill has <hi rend="italic">sold</hi> many of his Maori <hi rend="italic">curios</hi>: “<hi rend="italic">Money</hi>” w. H. “being the <hi rend="italic">principal </hi>thing”. The “judgment of Court” re “Tasmania” seems very proper. Mr. Paterson has been to Gisborne vacant Sc. Ch., Ryburn gone to Whanganui, <hi rend="italic">rather curious</hi>, <hi rend="italic">present</hi> offg. Minister Sc. Ch. Dannevirke—is a <hi rend="underline italic">young</hi> Graduate from Oxford, M.A., unordained, &amp; <hi rend="italic">Irishm. Much</hi>
+            <hi rend="underline italic">fuss</hi>
+            <hi rend="italic"> </hi>here last wk. with Non-Coms. “Xn. Endeavour S.,”—very pleased to find Dr. Sidey did <hi rend="italic">not </hi>attend: I don’t think your friend Grant was there. The Baptists &amp; Brownists, &amp; <hi rend="italic">other modern </hi>sects, <hi rend="italic">must </hi>now make a stir—unfory. <hi rend="italic">others </hi>are <hi rend="italic">drawn</hi> in. Bp. Wms.<hi rend="italic"> </hi>is on his return by “Rimutaka”, Synod meets on 12<hi rend="sup">th</hi>. Novr.</p>
+         <p>27<hi rend="sup">th</hi>. “Tasmania’s” mails &amp;c abandoned! a Mrs Dean an <hi rend="italic">old </hi>resident died suddenly on Saturday, at her son in laws storkey in Milton Road.</p>
+         <p>Weather <hi rend="italic">fine</hi> today and I am going to town</p>
+         <p>A Dieu</p>
+         <p>Yours faithy</p>
+         <p>W Colenso.</p>
+         <p>viii.15, a.m.</p>
+      </body>
+   </text>
+</TEI>

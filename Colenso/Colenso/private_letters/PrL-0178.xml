@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0178">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1864 December 2: to Catchpool</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-Copy-Micro-0193.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73058/">Catchpool</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1864-12-02">1864 December 2</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1864 December 2: to Catchpool<note xml:id="ftn2-92" place="foot" n="92"> ATL Ms-Copy-Micro-0193.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Auckland,<lb/>Friday night<lb/>Decr. 2/64.</p>
+         <p>Dear Catchpool</p>
+         <p>Many thanks for your kind note of Novr. 26<hi rend="sup ">th</hi>. The mere sight of your well-known writing did me good.</p>
+         <p>Yesterday—just at close—I was somewhat roused by Weld’s placing your Papers on the Table “by command.”—To day I purposely went over to see what they were. I enclose you a List; I was <hi rend="italic">surprised </hi>to find among them your private letter to me of last year (which I had—at Fox’s request,—left with him for his information,) and also my memo. to him concerning the same! fortunately there is nothing in either of any material conseq. other than concerning our matter. I suppose <hi rend="italic">I </hi>shall have to follow this up in a few days:—I shall take counsel w. Fox, Fitzherbert &amp; Weld, before I do any thing—I enclose a copy of my memo. to Fox, for your information. I send you a Paper of today—containing also an “<hi rend="italic">order paper</hi>” of tomorrow’s work! <hi rend="italic">Most</hi> are for having a <hi rend="italic">short</hi> Sess.—but at this rate such cannot be—a few days will decide. You will see there a notice of Motion from G. Graham respecting Members recg. P. money.—I saw the great goose this day and he will let it drop (at least he says so). Two things agitate Auckld. the removal of seat of Govt. to Wellington—and Weld’s strange resolutions—to request home Govt. to withdraw Troops—but <hi rend="italic">this</hi> he <hi rend="italic">cannot</hi> carry—&amp; is in a fix. He has unwisely called it a Ministl. quest.—and no one knows whether his My. will remain in Off. or not. Fitzh. <hi rend="italic">financial </hi>statement comes off tomorrow,—what they intend—where the money is to come from—we shall hear. I must refer you to the papers for Pol. news—do not trust the New Zealander—rather the Herald—or the Cross. D.Bell <hi rend="italic">is seeking</hi> to do something for himself. I hope he will not get in—any how! When Ormond came into the Ho. I went over &amp; shook hands w. him. I am getting to dislike <hi rend="italic">this kind </hi>of Pol. life very much: no sincere desire to do good—so much intriguing—scheming—party-champagne-drinking &amp;c &amp;c. I see but few who care to work.—I have seen the Govr. 3 times out, &amp; he has talked w. me; he wishes me to go to the Chatham Islands &amp; other N.Z. islets—botanizing—but I doubt his sincerity towards <hi rend="italic">me</hi>. I was invited to his evening party—(dancing, &amp;c.) last night but I did not go:—about 150 were present—many <hi rend="italic">yg. </hi>officers. 5 or 6 men o’ war now here, &amp; troops such a lot. Auckland is going in for separation, &amp; may get it. The <hi rend="italic">immediate </hi>removal to Wellington, &amp; <hi rend="italic">no Aucklander </hi>in the My., has greatly soured them. Dr.F. is always at Weld’s back; but there is <hi rend="italic">no strength</hi> in the My. You must not believe <hi rend="italic">all</hi> the speeches you see were spoken as they are; the gilding of the reported palm does much, and the taking 30–40, or more copies by each Member of a daily does more,—Many of the Southern Members are rich—<hi rend="italic">I </hi>am not.</p>
+         <p>A short Bill has been introduced to place Civ3il Officers on <hi rend="italic">same </hi>footing as militia officers—by the M. Off. Amendment Act of 1862—so that any civil offr. losing his life, or receiving hurt in service, gets a pension, &amp;c. [I have had a letter from Dr. Hector, speaking very highly of my essay (“as a work of wh. N.Z. may justly be proud,”) <hi rend="underline italic">private</hi>.] Turton has got a good apt.—as you will see—£600. a yr. &amp; expenses, &amp;c. I shall try &amp; make some better arrangement w. <hi rend="italic">Weld</hi>, if he remains in My., before I return—that is, if we do not fall out: which I shall try <hi rend="italic">not</hi> to do. It is said we are only to be here a fortnight or 3 weeks—I hope so. I have not been well: the <hi rend="italic">great </hi>diff. in living, &amp; irregular hours, tell upon me. I was 36 hours very ill—but by fasting, &amp;c—I got over it. I hope Mrs Catchpool &amp; yourself are well, and that you have visited the garden on the hill. Weather fine—showery &amp;c.—Rely on my doing all I can: &amp; Believe me</p>
+         <p>Yours truly          W. Colenso.</p>
+         <p>P.S. there will be <hi rend="italic">no</hi> Appropn. Act this session. We are not working today as Weld &amp; Fitzherbert were <hi rend="italic">fagged</hi>: we work tomorrow instead. And on <hi rend="italic">Monday</hi>. The Taranaki murder &amp; mutilation is causing some excitement.      A Dieu.</p>
+      </body>
+   </text>
+</TEI>

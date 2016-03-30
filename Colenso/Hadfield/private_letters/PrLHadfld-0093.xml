@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0093">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unknown date: Octavius Hadfield to unknown person</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions, spine title "Hadfield, Typescript Miscellaneous Fragments 1833-1897", stamped 19 Dec 1979.  Section: Fragments - Fragmentary extracts from the letters of Octavius Hadfield.  "EXTRACT NO. 8."  Page 26.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 10.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="-----">Unknown date</date>
+                  
+               </correspAction>
+               
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Unknown date: Octavius Hadfield to unknown person</p>
+      </front>
+      <body>
+      <p>Then I went to take the Petition to the Queen containing the names of Ngatiana<!--amended with MS annotation from "Ngatiara"--> <!--previous editor's note: (?)-->, that <supplied>---------?</supplied> and those with him might see it.  I read it aloud to them.  Afterwards I said Eruiua do you approve of what is contained in this Petition?  He replied that he did.  I asked are you willing to attach your name to this Petition?  He replied I am.  I said to him hold the pen- His hand held the pen- I then wrote his name.  And so with reference to Matioro.  I enquired of him, he assented and I held the pen.  Their two names were written -- these names attached to seal the Petition.  These are the names of the <!--previous editor's note: [torn]--> who saw them sign their names. 
+      </p>
+      </body>
+   </text>
+</TEI>

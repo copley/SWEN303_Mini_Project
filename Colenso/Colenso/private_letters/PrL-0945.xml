@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0945">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1895 October 30: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0498.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1895-10-30">1895 October 30</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1895 October 30: to Harding<note xml:id="ftn3-757" place="foot" n="757"> ATL qMS-0498.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, 30, x, 1895.</p>
+         <p>Dear Mr Harding</p>
+         <p>Although I am feeling all unfitted for <hi rend="italic">letter</hi>-writing—yet I must not any longer delay thanking you for your last (to hand) very full &amp; long &amp; kind letter of 18<hi rend="sup ">th</hi>. inst.,—especially as I last week essayed writing you a sheet (n.p.) <hi rend="italic">re </hi>our <hi rend="italic">last </hi>Phil. Inst. Mtg.—since then I have seen a short local, <hi rend="italic">re same</hi>, in “Evg. News”, the clipping, made by a friend in town &amp; sent to me, I enclose.—Your <hi rend="italic">excellent</hi> report of your meeting<hi rend="underline">s</hi> I have read with pleasure &amp; <hi rend="underline italic">thanks</hi>. In the clippings <hi rend="italic">re </hi>same (enclosed by you), I notice 2–3 things: (1.) the tree Lizard, shown by Buller (from <hi rend="doubleunderline underline italic">Luff</hi>!) that “changes its colour”, &amp;c—perhaps the one desd. by me— “Trans.” vol. XVII, p.149: (in a note I have just written to Buller on other matters—I have mentioned it. (2.) <hi rend="italic">re Mitten</hi>—he is a Grocer (I believe), and helped Hooker largely in the smaller Crypts, Mosses &amp; Hepaticæ: no doubt <hi rend="italic">Kirk </hi>has been (as usual) coquetting with him. (3.) <hi rend="italic">Whence </hi>did K. get the <hi rend="italic">Dactylanthus</hi>, he seems to make so much of. I am much pleased to find <hi rend="italic">you </hi>coming out well, &amp; correcting, &amp;c &amp;c, in days to come, you will have occasions to do pretty much in that line.—</p>
+         <p>You will, I think, be a little surprised to know—that I have had a visit from <hi rend="italic">Tregear</hi>! and, more, received him, &amp; parted, <hi rend="underline italic">kindly</hi>!! It came about in this way: my man told me there was a man outside who wished to see me, Robert saying— “his name is <hi rend="italic">Geer</hi>”:—I replied, “Let him come in”: (I was in <hi rend="italic">back room</hi>, exmng. plants:) I came into parlour, asked my visitor to sit, &amp;c.—where from? from Interior Patea, &amp;c, on his way to Wgn. &amp; called to see me, &amp;c,—so we talked about interior, &amp;c &amp;c, and not, for at least 15–20 min., did I <hi rend="italic">suspect </hi>whom it was—&amp; then it <hi rend="italic">flashed </hi>on me, and I soon fixed it (inferentially)—&amp;, as I had begun—kind &amp; courteously—<hi rend="italic">so </hi>I was determd. to carry it out to the end. I never once prond. his name, never referred to his work! though I took him into my <hi rend="italic">little </hi>room, &amp; showed him a Ms. of Mao. Lex., &amp; talked about <hi rend="italic">it</hi>. &amp; then into back-room, &amp;c—he stayed I think much over an hour: and I have since been chuckling over the yarn <hi rend="italic">he would tell you</hi>!! On the whole I am glad I did <hi rend="italic">not </hi>know him early:—I pitched into <hi rend="italic">Governors </hi>of Inst.—but T., &amp; also Buller (in a note), seem to lay all blame to <hi rend="italic">Hector</hi>.</p>
+         <p>Hill has just retd. from E. Coast, &amp; I am to go thither on Friday next, tea &amp; evg.—H. is off to Norsewood, &amp; Bush Schools on 4<hi rend="sup ">th</hi>. prox., he says, he has brought some spns. plants.—</p>
+         <p>I sent you a paper containing Breakwater Demonstration.—I see Parker (from Wms. &amp; Kettle) has been selected to fill Black’s place. I suppose you knew Donald McLean of Maraekakaho, lately deceased:—a very fine healthy man apparently I am told. I am keeping pretty well, daily grunting under peculiar Rheumatic pains, but bearing &amp; struggling, &amp;c. The <hi rend="italic">one thing </hi>I want—is a <hi rend="italic">little company</hi>—which I <hi rend="underline italic">cannot</hi>
+            <hi rend="italic">here </hi>have: this <hi rend="italic">may </hi>yet drive me to the Bush for a season—but I hope not, having no work there. The Dean kindly called yesty. aftn. &amp; spent a full hour w. me, I like <hi rend="italic">his chat</hi>, also his preaching. The <hi rend="italic">duel</hi> ’tween Buller &amp; MacKenzie astonished me! I had supposed that B. (the <hi rend="italic">Chn</hi>! at great Pub. Mtg.) was in high favour at Court. I should like to see a <hi rend="italic">full acct</hi>.—If in Hansard, anon, I will purchase <hi rend="italic">that No. </hi>I shall send a sm. book-post pckt. Hope you &amp; yours are all quite well. Kindest regards—–</p>
+         <p>Believe me, Yrs faithy.            W. Colenso.</p>
+         <p>
+            <hi rend="italic">Re </hi>our <hi rend="italic">last Instit. </hi>Meeting for 1895. (Should have been held on Monday 14<hi rend="sup ">th</hi>., but put off till Monday 21<hi rend="sup ">st</hi>.)</p>
+         <p>Mg. fair—aftn. cloudy: <hi rend="italic">rain sunset.</hi>
+         </p>
+         <p>The changes in the weather I was sorry to see—yet rain was desired &amp; welcomed: I would fain have put off going out—but <hi rend="italic">must </hi>go! both <hi rend="italic">promise </hi>&amp; duty <hi rend="underline italic">called</hi>.—</p>
+         <p>At vii.30, left house, crawled down hill in dkness. &amp; w. <hi rend="italic">difficulty</hi>! Arriving at rooms—Hony. Secy. &amp; Mr Hill,—the Dean entered with me, (I had written in the mg. to him asking his attendance if <hi rend="italic">disengaged</hi>, “as, in all proby., it was <hi rend="italic">my last </hi>appearance on the boards”!)—At viii. only a <hi rend="italic">few</hi>—Ringland, Pinckney, Large, Whitelaw, G. White &amp; wife, &amp; 3 others: Large &amp; Dinwiddie, were for adjg. the meetg. till next Monday—asked my opinion. I replied, “If we could be <hi rend="italic">sure </hi>of next My. being <hi rend="italic">fine</hi>, &amp;c.” Then Craig &amp; 2 others came, &amp; so we agreed to wait 10 min., &amp; then begin; the rain, too, having ceased. At set time commenced, about 12 present. Read my Botanl. paper short (descr. 3 new ferns), and gave in another short Bot. p. (a <hi rend="italic">few new </hi>Fungi, &amp; Hepaticæ, sent to Kew in Jany. last): and exhibited <hi rend="italic">draft copies </hi>of my larger Botl. p. (no. 3) of which plants I showed many mounted spns., as, also, spns. of <hi rend="italic">new </hi>Ferns (50 yrs. old!!), &amp;c, &amp;c, all mounted, &amp; ticketed: Hony. Sy. handing them round.—Then Large proposed Heslop (School Master) as new m., seconded by Hony. Secy. &amp; carried on voices.—Then it was agreed on (between Chn. and Hony Secy.) that Taylor White’s papers, and Hony. Secy’s. one, should be taken as read—in order to my proceeding w. (<hi rend="italic">Lecture</hi>) my p. on the <hi rend="italic">Antarctic regions</hi>.—</p>
+         <p>Before I did so, however, I gave the <hi rend="italic">following</hi>:— <lb/>“Mr. C. gave an intg. communication or lecture (<hi rend="italic">instead of a written p.</hi>) on the Antarctic Regions, prefacing his remarks with obsg. that in conseq. of the treatment his 2 papers read here last year had recd. from the Governors of the Instit., (which <hi rend="italic">animus</hi> had also been invariably shown by them to <hi rend="italic">all his similarly written papers</hi>,) he had informed by letter the Council of this Society, that he would <hi rend="italic">never more write for it</hi> a paper contg. “<hi rend="italic">Reminiscences of the past,</hi>” although greatly requested so to do. [<hi rend="italic">This to be entered on Minutes</hi>.] Then I commenced—1<hi rend="sup ">st</hi> obsg. <hi rend="italic">that day </hi>(21<hi rend="sup ">st</hi>.) was <hi rend="italic">the day </hi>on which Cook landed at Anaura and he &amp; his party <hi rend="italic">first drank N.Z. fresh water. </hi>(2) that during the past week (<hi rend="italic">i.e. </hi>from 13<hi rend="sup ">th</hi>. to 15<hi rend="sup ">th</hi>.) C. had been <hi rend="italic">in </hi>H.B. quietly &amp; leisurely sailing round it: (3) that on the 15<hi rend="sup ">th</hi> happened the <hi rend="italic">affair </hi>at <hi rend="italic">Cape Kidnappers, </hi>&amp;c. Then followed the statement made by Chn. of the Geographical Congress, London, (in July) on introducing <hi rend="italic">Hooker</hi>—that <hi rend="italic">H. was the </hi>
+            <hi rend="underline italic">only one</hi>
+            <hi rend="italic"> surviving from Ross’ Antarctic Expedition</hi>: the powerful effect reading <hi rend="italic">that </hi>had on <hi rend="italic">me</hi>! how I reckoned (<hi rend="underline italic">12 or more</hi>) distinguished sc. men <hi rend="italic">I had personally known in N.Z.</hi>—all gone! &amp; I left as a <hi rend="italic">last leaf </hi>on a poplar tree!! &amp;c &amp;c &amp;c (I mentioned / seriatim) their <hi rend="italic">names </hi>&amp;c &amp;c &amp;c, gave some of their <hi rend="italic">oral </hi>relations, and read striking passages from Ross’ Voyage with comments,—closing w. showing its plates, which I had torn out &amp; mounted for that purpose. A few unimportant questions were asked by the Dean, &amp; by Dinwiddie: and by &amp; by a cord. v. thanks by Dean, 2ndd. by Craig, &amp; responded to by W.C. Meeting was very attentive, &amp;c. Coffee, &amp;c, served round after Bot. paper &amp; spns.—Meetg over by x. and I retd. to my House by x.30, thoroughly <hi rend="italic">tired</hi>, crawlg. up this hill w. diffy.—all hands, of course, gone <hi rend="underline italic">to bed</hi>!</p>
+      </body>
+   </text>
+</TEI>

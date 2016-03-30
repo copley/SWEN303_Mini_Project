@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0113">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1884 Scinde island. Hawke’s Bay Herald 25 January.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1884-01-25">1884 January 25</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1884 Scinde island.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 25 January.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—In your leader this morning you state, in writing of Scinde lsland (Napier),— “It is said that Captain Cook sailed round the Island,”—and then, as usual, you proceed to draw certain deductions therefrom. May I ask of you,—By whom has this been said? I never before heard it. Were it not that you were writing on a very serious subject, I would not trouble you with this question; looking on the statement as the veriest moonshine! But as, of late, so much nonsense has appeared in both of our Papers,—concerning our Bay and waters, rivers and travelling shingle, Cape and harbour and breakwater,—and all, more or less, draperied in the costume of truth and facts,—I have deemed it proper to write you this short letter lest that statement of yours uncontradicted should also be added to the multifarious heap I have alluded to, and in time to come be brought forward to do mischief.— I am, &amp;c., </p>
+         <p>					W.<hi rend="smallcaps">Colenso</hi>. </p>
+         <p> Napier, January 24, 1884.</p>
+         <p>[It is a common belief that Captain Cook sailed round the island, and we are surprised that Mr Colenso has not before heard it. We can give no authority except report for the statement, and therefore we used the qualifying expression, “It is said.”— Ed. <hi rend="italic">H.B.H</hi>.] </p>
+      </body>
+   </text>
+</TEI>

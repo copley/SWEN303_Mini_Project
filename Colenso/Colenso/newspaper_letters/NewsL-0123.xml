@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0123">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1885 On Education. Daily Telegraph 27January.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1885-01-27">1885 January 27</date>
+          <publisher>
+            <name type="organisation">Daily Telegraph</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1885-01-25">1885 January 25</date>
+        <name type="place">Norsewood</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1885 On Education. <lb/>
+        </hi>
+        <hi rend="bold italic">Daily Telegraph</hi>
+        <hi rend="bold">27 January.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>—I have been patiently waiting for the time of your extra excitement and labour to pass away; and now that I hope such is the case I venture to send you this communication. I feel the more encouraged to do so, from your having had lately in your paper several articles and notices on Education—particularly on Technical Education and its importance and great advantages to our rising generation.</p>
+      <p>A short time ago I was reading, here in the woods, Professor Tyndall’s admirable inaugural address of the 62nd Session of the Birkbeck Literary and Scientific Institution; and I could not help thinking how very much there was in it highly suitable for ourse1ves, here,—both Teachers and Learners, and in these two classes I include <hi rend="italic">all</hi>. And so I quickly made up my mind to ask you to give your numerous readers a few striking portions from it, which I also have condensed and. extracted to form the main portion of this letter.</p>
+      <p>In the unavoidable absence of the Lord Mayor, Alderman and Sheriff Whitehead presided, who was supported by several gentlemen of note,—the audience being very large.</p>
+      <p>The Chairman said he was glad to find that among the subjects taught there was that of Technical Education. The City Corporation and the Guilds of the City bad done much of late years to promote technical education of various kinds, not only in London but the provinces also, thus bringing about a better state of things in the manufacturing districts—particularly, those of Yorkshire. In Bradford a few years ago it was customary to send the youths of that town to the weaving schools of Germany for the purpose of learning the rudiments of the trade they intended to carry on in the Yorkshire town. Thanks mainly to the Clothworkers’ Company there was now a weaving school in Bradford, that company having contributed £5,000 towards the erection of the building, £500 towards the machinery required, and £500 annually towards the maintenance of the school The result was that, instead of Yorkshire boys being sent to Germany to learn the rudiments of their trade, German lads were sent to Bradford to acquire this knowledge. Facilities for acquiring technical education had also been afforded to the artisans of Bradford, and in both these instances the technical schools were almost entirely maintained by the City Guilds.</p>
+      <p>Professor Tyndall, in the course of his address, said it was in compliance with an express desire that be should base his address on the experiences of his own life.</p>
+      <p>– – – In the days of his youth, he directly derived profit from Dr. Birkbeck’s movement. About 1842, he was a member of the Preston Mechanics’ Institution, and doubtless the instruction he then and there received entered into the texture of his mind and influenced him in after life, After quitting school in 1839 he joined a division of the Ordnance Survey, intending if possible to make himself master of its operations, as a first step towards becoming a civil engineer. Draughtsmen were best paid, and be became a draughtsman. But be habitually made incursions into the domains of the calculator and computer, and thus learned all their art. In due time he mastered all the mysteries of ordinary field work, and afterwards successfully made trigonometrical observations. On leaving the Ordnance Survey in 1842 his salary was a little under 20s a week; and he had often wondered since at the amount of genuine happiness which a young fellow of regular habits, not caring for either pipe or mug, might extract even from pay like this.</p>
+      <p>In 1847, he accepted a post as master in Queenwood College, Hampshire – – – Here he learned, by practical experience, that two factors went to the formation of a teacher. In regard to knowledge be must, of course, be master of his work. But knowledge was not all. There might be knowledge without power—the ability to inform without the ability to stimulate. Both went together in the true teacher. A power of character must underlie and enforce the work of the intellect. There were men who could so rouse and energise their pupils—so call forth their strength and the pleasure of its exercjse—as to make the hardest work agreeable. Without this power it was questionable whether the teacher could ever really enjoy his vocation—with it he did not know a higher, nobler and more blessed calling than that of the man who, scorning the cramming so prevalent in our day, converted the knowledge he imparted into a lever, to lift, exercise, and strengthen the growing minds committed to his care.</p>
+      <p>We blessed God for our able journalists, our orderly Parliament, and our free Press; but we blessed Him still more for “the hardy English root” from which these good things had sprung. We needed muscle as well as brains, character and resolution as well as expertness of intellect. Lacking the former, though possessing the latter, we had the bright foam of the wave without its rock-shaking momentum. – – – He did not work for money, nor was he even spurred by “the last infirmity of noble mind.” He had been reading Fichte, Emersen and Carlyle, and had been affected by the spirit of those great men. The Alpha and. Omega of their teaching was loyalty to duty. Higher knowledge and greater strength were within reach of the man who unflinchingly enacted his best insight. It was a noble doctrine and held him to his work.</p>
+      <p>In concluding Prof. Tyndall asked his audience to accept his address as a fragment of the life of a brother who had felt the scars of the battle in which many of them were now engaged. Duty had been mentioned as his motive force. In Germany one heard this word much more frequently than the word glory. The philosophers of Germany were of the loftiest moral tone. In fact they were preachers of religion as much as expounders of philosophy. – – – He asked two Prussian officers whom he met in the summer of 1871, at the Pontresina, how the German troops behaved on going into battle,—did they cheer and encourage each other? The reply he received was, “Never in our experience has the cry, ‘Wir müssen siegen’—we must conquer—been heard from German soldiers; but in a hundred instances we have heard them resolutely exclaim, ‘Wir müssen unser Pflicht thun’—we must do our duty.” It was a sense of duty rather than love of glory that strengthened those men and filled them with an invincible heroism. We in England had always liked the iron ring of the word “duty.” It was Nelson’s talisman at Trafalgar. It was the guiding star of Wellington. When, in his days of freshness and of freedom, our Laureate wrote his immortal ode on the death of the Duke of Wellington (portions of which both he and others might well take to heart at the present moment,) he poured into the praise of duty the full strength of his English brain:—</p>
+      <p>“Not once or twice in our rough Island story<lb/>The path of duty was the way to glory:<lb/>He that walks it, only thirsting<lb/>For the right, and learns to deaden<lb/>Love of self, before his journey closes<lb/>He shall find the stubborn thistle bursting<lb/>Into glossy samples which out-redden<lb/>All voluptuous garden roses.”</p>
+      <p>                               I am, &amp;c.,</p>
+      <p>
+        <hi rend="smallcaps">William Colenso</hi>
+      </p>
+      <p>       Norsewood, January 25, 1885.</p>
+    </body>
+  </text>
+</TEI>

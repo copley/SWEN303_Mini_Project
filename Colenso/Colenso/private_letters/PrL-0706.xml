@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0706">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1889 February 25: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-1.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1889-02-25">1889 February 25</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1889 February 25: to Harding<note xml:id="ftn3-432" place="foot" n="432"> ATL MS-Copy-Micro-0485-1.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Feby. 25/89</p>
+         <p>Mr RC Harding</p>
+         <p>My dr Sir</p>
+         <p>Thanks for your kind remembrance of me with clipping fm. Bay o’ Plenty Times—It bristles w. falsehoods!! If that woman lived <hi rend="italic">there </hi>(Otuihu!), well, the <hi rend="italic">less </hi>said the better: Kororareka was bad enough—but O.—————.</p>
+         <p>
+            <hi rend="italic">Many </hi>older European females than her in N.Z.—witness (<hi rend="underline italic">here</hi>) late Bp. Wms.’ widow.—–</p>
+         <p>I was in town 4 hours this day! returned done up!! I have to go to Clifton on <hi rend="italic">Wednesday</hi> next. Any other <hi rend="italic">spare</hi> mg. w. you—run up.               Yours truly,</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

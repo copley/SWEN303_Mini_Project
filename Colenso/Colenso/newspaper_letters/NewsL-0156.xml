@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0156">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1890 A reply to Old Ratepayer. Bush Advocate 30 October.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1890-10-30">1890 October 30</date>
+          <publisher>
+            <name type="organisation">Bush Advocate</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1890-10-30">1890 October 30</date>
+        <name type="place">Dannevirke</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1890 A reply to Old Ratepayer.  <lb/>
+        </hi>
+        <hi rend="bold italic">Bush Advocate </hi>
+        <hi rend="bold">30 October.</hi>
+        <hi rend="bold">
+          <note xml:id="ftn54" place="foot" n="54"> “Old Ratepayer’s” letter was published on 28 October 1890, in reply to a letter by “Traveller” on 23 October. The content and style of “Traveller’s” letter are very reminiscent of Colenso, who is, however, not known to have written anonymous letters, though there are anonymous letters in the <hi rend="italic">Hawke’s Bay Herald</hi> are suspiciously Colenso-like—<hi rend="italic">Ed.</hi>
+          </note>
+        </hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—I wish to say a word respecting a letter signed “Old Ratepayer,” that appeared on Tuesday last. I do not intend to remark upon the whole of its contents, but merely on one of its sentences, which is quite enough for me, for “as the sample is, so is the sack.”</p>
+      <p>The writer says:— “I can find terrible evidence that the results of the existence of five drinking shops are such as no sane man would seek to justify. In our streets on week days and Sundays alike, in the morning, at noon, and at night, we can see poor unfortunates robbed of manhood and respectability tottering along to a drunkard’s grave.”</p>
+      <p>Now, the fitting reply to this calumniator—this defamer of your rising and quiet township—would be in an English word of three letters, It is a <hi rend="italic">lie</hi>, or Thou art a <hi rend="italic">liar</hi>, aye, and a big one too.</p>
+      <p>Indeed, were I a little younger than I am, I would go a little further, and challenge him to the proof, and then, on his failing, give it to him without mercy, although, I fear from his style and tone, he is one of those “old,” thick-skinned, hardened fellows (most liars are!) spoken of by Hudibras:—</p>
+      <p>“Some have been beaten till they know  <lb/>What wood a cudgel’s of by th’ blow!       <lb/>Some kick’d until they can feel whether    <lb/>A shoe be Spanish or neat’s leather.”</p>
+      <p>It so happens that I have been residing here nearly a month in the oldest hotel in the township, and with two other hotels within sight and within call from my parlor (there are 4, not 5); and that I have had to traverse continually the streets of Danevirke, more regularly, I may say, on Sundays, morning, noon and night, in my going to and from Church, and never have I once met or seen a drunken man in the street!</p>
+      <p>Indeed, your active and indefatigable policeman—seen on duty in all weather, and at all times, would take good care of that; and I may further observe that the low and dirty writer of that lying letter (for, as our forefathers said, “It is a dirty bird that defiles its own nest”) in so scribbling not only lowers this striving rising township, but its police, and its Magistrates,—including yourself, Mr Editor, a J.P., and I think you should not have inserted such a bare-faced lie in the columns of your paper, without the defamer of Danevirke signing his own proper name to his letter; or, at least, a short note of your own appended to it.</p>
+      <p>That some of our hard-working fellow countrymen, living a toiling and solitary life in the bush, while engaged in their heavy work of bush-felling, without comforts (especially in the winter just past, and the present wet and stormy spring season), that some of them may and have drunk a little too much beer (or say “whiskey” to please Old Ratepayer) when they now and then meet in this place, and that “for auld lang syne—I would not deny; also, that at such seasons they may be and are a little jolly—noisy it may be to the finer nerves of “Old Ratepayer”—but such things at such times are to be expected, and will occur.</p>
+      <p>It was but a short time ago that I mentioned with much pleasure to a gentleman how pleased I was to see such a large number of good-looking, respectable, decently dressed young men here, and not one of them under the influence of liquor.—I am, etc.,</p>
+      <p>
+        <hi rend="smallcaps">                                   William Colenso.</hi>
+      </p>
+      <p>Danevirke, Oct. 30th, 1890.</p>
+    </body>
+  </text>
+</TEI>

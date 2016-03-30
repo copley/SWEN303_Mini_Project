@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0030">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1842 April 19: to the CMS Secretaries</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Hocken Library Ms Vol 63; ATL qMS 0491.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/6871/">Paihia</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="organisation" key="http://wtap.vuw.ac.nz/eats/entity/72116/">the CMS Secretaries</name>
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/5754/">London</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1842-04-19">1842 April 19</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1842 April 19: to the CMS Secretaries<note xml:id="ftn1-31" place="foot" n="31"> Hocken Library Ms Vol 63; ATL qMS 0491.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Paihia, April 19<hi rend="sup">th</hi>. 1842.</p>
+         <p>Secretaries,<lb/>C.M.S. House,<lb/>London.</p>
+         <p>My dear Sirs,</p>
+         <p>1. I wrote you on the 1<hi rend="sup">st</hi>. current, per “Mandarin,” via Calcutta, since which your Letter to us, of October 1/41, has been received.—</p>
+         <p>2. I would thank you to cause the enclosed Letter for Mr. Bates, containing a Draft on yourselves for ₤30 to be delivered to him. Pray excuse my troubling you with the same, as I have no acquaintance in London to whom I might apply to execute a similar commission for me.—</p>
+         <p>3. Having written you so very recently, and intending to write you again very shortly, I have nothing at present to communicate. Save, that we have at last received Information of several of the Government Offices at Auckland being totally consumed by fire. They were close together in a row, and built of wood, so that, on the fire seizing one, it was not long ere the whole was in flames. We have not heard whether any of their Books or papers were destroyed.—</p>
+         <p>Praying that the <hi rend="smallcaps">Lord</hi> will graciously vouchsafe us to dwell in the light of His reconciled countenance through Jesus Christ,</p>
+         <p>I am,</p>
+         <p>My dear Sirs,</p>
+         <p>Ever most truly and obediently yours</p>
+         <p>William Colenso.</p>
+      </body>
+  </text>
+</TEI>

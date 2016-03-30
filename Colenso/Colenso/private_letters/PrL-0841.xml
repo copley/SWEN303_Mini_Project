@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0841">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1892 August 9: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4. Letter addressed to “A. Luff Esq., Post Office, Wellington,” endorsed “Rec’d Augt, 11/92. Reply &amp; picture (Sir J. Hooker) forwarded per Ry. on loan Sept. 10/92”.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1892-08-09">1892 August 9</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1892 August 9: to Luff<note xml:id="ftn3-604" place="foot" n="604"> ATL MS-Copy-Micro-0485-4. Letter addressed to “A. Luff Esq., Post Office, Wellington,” endorsed “Rec’d Augt, 11/92. Reply &amp; picture (Sir J. Hooker) forwarded per Ry. on loan Sept. 10/92”.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke,<lb/>Tuesday night.<lb/>August 9<hi rend="sup">th</hi>., 1892.</p>
+         <p>Dear Mr. Luff,</p>
+         <p>A few days ago I was gladdened with the sight of your well-known &amp; familiar handwriting, in a kind letter, and a paper from you! it brought to mind <hi rend="italic">many </hi>old &amp; good reminiscences of days long passed, &amp; set me a thinking over them, &amp; of our time passing rapidly away! I thank you for remembering me. You mention your son—our having met now &amp; then at Woodville—and I can assure you his kind company has been a great treat to me, for of all the younger men that I am personally acquainted with, I give the preference to your son. Indeed I looked for him last Sunday at Woodville, expecting, or rather, hoping, to see him. I fear, however, that that pleasure will not be mine much longer, as the Church of E. Vestry that met there last week have appointed the Rev. J.C. Eccles of Waipawa to become their resident Minister, and as the newly erected Parsonage is now finished I suppose he will soon be there residing. However, the Vestry have also passed a resolution asking me to continue to hold Divine Service in their church until Mr. Eccles arrives. I suppose I shall do so. I have this day written to him to know his movements; we have long been on the most friendly terms, and, as a matter of course, I shall be very ready to help him, though, I confess, the arrangement has taken me by surprise. Mr. Eccles has been, for some time past, not working harmoniously at Waipawa (although their Minister for 17 years!) owing to the great difference of opinion between them about dividing the Parish—Kaikoura, Te Aute, Patangata, &amp;c., on to the Coast, to have a resident Minister.</p>
+         <p>But, my dear sir, I must tell you one thing: that I have <hi rend="italic">you </hi>very often in mind! Whether at Napier, in the old room where you and I have so often sat together and chatted, in days long past: or where here &amp; at Woodville. And Why so? you may ask:—because at N., I, stretched on my old sofa, have always before my eyes those 2 coloured pictures in gilt frames I purchased at the auction of your goods: and here, &amp; at W., your <hi rend="italic">Concordance </hi>(also purchased then) is ever being used, &amp; of great service—my own older one being too big to carry about with me.</p>
+         <p>I have this evening finished my letters &amp; Papers for Home, and so I write you this. I sent a Woodville P. to you this mg. Good-bye, my dear Sir, kind regards.</p>
+         <p>             Yours truly,</p>
+         <p>                             W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,20 @@
+extends ../node_modules/jade-bootstrap/_bootstrap
+head
+    title=title
+
+//This page demonstrates the edit page. Sets up the edit container to
+//allow the user to edit the docs.
+
+block body
+    +navbar("Colenso1 Database", "dropdown_menu")
+        +nav_item("/", "active") Home
+        +nav_item("/browse") Browse
+
+    .container
+        h1 Colenso Document Edit page.
+        p Please edit the document below then click Submit.
+
+    .container
+        form(action='/submit?path=' + path, method='post')
+            textarea(name = 'text', style= "height:300px; width:100%") #{search_result}
+            button.btn.btn-large(type="submit") Submit

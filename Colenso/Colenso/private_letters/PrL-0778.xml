@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0778">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1891 April 27: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0496.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1891-04-27">1891 April 27</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1891 April 27: to Harding<note xml:id="ftn3-524" place="foot" n="524"> ATL qMS-0496.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke<lb/>Monday night.<lb/>April 27, 1891.</p>
+         <p>Dear Mr Harding</p>
+         <p>Your <hi rend="italic">long</hi> &amp; welcome letter of yesterday is to hand, and though you have only recd. my last (of 24<hi rend="sup">th</hi>) this <hi rend="italic">day</hi>—I will write to you again—to enclose P. Notes for those 2 books, &amp; to request you to do, as you have suggested,—send them <hi rend="italic">to N.</hi> &amp; <hi rend="italic">not here</hi>, as I had written to you:—that is, if I shall be in time.—</p>
+         <p>For your dear son’s sake, I hope you are having similar weather to our’s <hi rend="italic">here</hi>—which is A,1: I can well understand how the dear little fellow must be affected by the weather.—</p>
+         <p>You have indeed given me a Bookbuyer’s Catalogue, in your letter—enough to set me a-longing, and a-dreaming all night. It is well, “<hi rend="italic">You did </hi>
+            <hi rend="underline italic">not</hi>
+            <hi rend="italic"> attend</hi>” (as you say) or, – – – . The fulsome “Dedications” you mention, remind me of these in my set of the “Spectator” (7–8 vols)—but all pale before <hi rend="italic">that</hi> in the authd. version of our Bible! Had I ever known of your want to see (or use) a <hi rend="italic">Greek</hi> Homer I could have supplied—with pleasure. Your scraps of Maori exam. &amp;c. interest me: can a copy of <hi rend="italic">that “brief”</hi> be purchased? (i.e. cheaply). I have always told the Maoris to <hi rend="italic">square</hi> their matters re Land <hi rend="italic">before</hi> they come to the Ld. Court,—and that by a <hi rend="italic">mutual</hi> “give &amp; take” system, or plan: otherwise they may yet be <hi rend="italic">ruined</hi>: <hi rend="italic">I greatly dislike those Courts.</hi>
+         </p>
+         <p>You will, doubtless, have heard of more Govt. alterations at N.—Your Cousin R., ousted from the Harbour Bd. &amp; <hi rend="italic">Carnell</hi> (!) put in: “Herald” takes it up strongly, &amp; <hi rend="italic">very properly too</hi>: Miller, too, <hi rend="italic">out</hi> of Gaol! Capt. Preece sent off to the S. Williams, Land off., ditto. Fitzroy no longer Sheep Inspector, (<hi rend="italic">this</hi> may be right enough): where &amp; when will these doings end!—</p>
+         <p>I don’t think that either “Wahineki<hi rend="underline italic">n</hi>o”, or “Wahineki<hi rend="underline italic">m</hi>o,” is a “Christian<hi rend="italic">name” (as you say) </hi>of a little girl: more likely her<hi rend="italic">Mao</hi>.<hi rend="italic"> </hi>name.</p>
+         <p>I am delighted to know that, <hi rend="italic">at last</hi>, you have seen some <hi rend="italic">very commendatory notices of your “Typo”</hi>—you have long deserved it! May such both continue &amp; increase.</p>
+         <p>Thanks for your nice little present—Australian Fungi, with cold. plates of same: we have several of them here in N.Z.—&amp; some (a good many) are in Hooker’s <hi rend="italic">Flora Tasmania</hi>, 4to.—unforty., Bentham, in his later work (<hi rend="italic">Flor. Australiensis</hi>) does not give any of the smaller Crypts.,—nothing below Ferns.—</p>
+         <p>Did you ever get any reply from Luff, <hi rend="italic">re</hi> that Map? If you have <hi rend="italic">not</hi> enqd.—please, don’t trouble him—unless you should happen to see him, &amp; <hi rend="italic">at leisure</hi>.</p>
+         <p>I have been looking into Davis’ “Bibliographia”, pubd. by L. &amp; B., &amp; shall by &amp; by call yr. attention to a <hi rend="italic">few</hi> of the <hi rend="italic">strange</hi> books mentioned in it, &amp; also <hi rend="italic">strange notes</hi>—some, however, are <hi rend="italic">good</hi>.</p>
+         <p>
+            <hi rend="italic">Kindest regards &amp; </hi>
+            <hi rend="underline italic">best wishes</hi>
+            <hi rend="italic">. Don’t overtask yourself.</hi>
+         </p>
+         <p>Yours truly, W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

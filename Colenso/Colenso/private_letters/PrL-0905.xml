@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0905">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1894 August 14: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0498.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1894-08-14">1894 August 14</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1894 August 14: to Harding<note xml:id="ftn3-692" place="foot" n="692"> ATL qMS-0498.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Tuesday nt.<lb/>Augt. 14/94.</p>
+         <p>Dear Mr Harding</p>
+         <p>Your letter of 29<hi rend="sup ">th</hi> ulto. has been here on my table ever since the receipt: I have had very much writg. to do (w. <hi rend="italic">much</hi>, too, of other matters) so that I have not well been able to reply, indeed I find, that, since date of my last to you, I have written 84 letters—some, of course <hi rend="italic">very long</hi>.—And as I am about to leave for Woodville, where I have to remain for 2 Sundays, (Eccles being very ill &amp; confined to bed from severe Influenza.)—I have thought it best to write to you before I leave Napier, &amp; so clear off that debt. I have however sent you a paper or two, &amp; will put up another w. this tomorrow. You kindly sent me 2 Wgn. p. with your last letter, contg. mention of your Instit. Meeting—and, also, <hi rend="italic">Maskell’s paper. </hi>How will <hi rend="italic">that p</hi>. be treated for next vol.? Will it be <hi rend="italic">served up as Atkinson’s</hi>? Our Mtg. came off last night, and it was one of the best attended I have known for a long time: at <hi rend="italic">first</hi>, I had feared things might again go awry; President absent, <hi rend="italic">ditto </hi>V.P., <hi rend="italic">ditto </hi>Hon. Secy. (these 2 latter at Wgn.), Hill also <hi rend="italic">inland</hi>, but he had promised <hi rend="italic">to come</hi> if I would appear—&amp; <hi rend="italic">he did so</hi>, &amp; took chair. Weather <hi rend="italic">charming </hi>(several days of late), moonlight <hi rend="italic">lovely</hi>, audience <hi rend="italic">good </hi>&amp; I <hi rend="italic">well</hi>: the Dean, Drs. Spencer &amp; Moore, Craig, Crerar Jr., your Uncle John (looking <hi rend="italic">jovial—like a good old toper</hi>!!<hi rend="italic"> </hi>but not so Large, much so as Sowry) Pinckney, Miss Browning, Mrs Hill, &amp;c &amp;c &amp;c—big room nicely full. You will have seen in papers advts. the <hi rend="italic">subjects </hi>of my 2 papers,—the 2<hi rend="sup ">nd.</hi> was got up to please Mr. Grubb &amp; his friend D. Robertson, C. Clerk, G.P.O., it gave me a deal of labour exhuming and looking up <hi rend="underline italic">old</hi>
+            <hi rend="italic"> </hi>(very old) stores! I often thought on <hi rend="italic">you</hi>, when so occupied, as there were not a few antiquarian tit-bits (letters &amp; notes) you would like to see—indeed I had put out 2–3 to send, but your last letter has plainly told me, Not to do so: for in my last I had sent you 3 (2 old ones, &amp; the copy of mine to Hon. Secy. made almost <hi rend="italic">purposely </hi>for you) and you sent them back <hi rend="italic">without a word</hi>!! save one brief laconic remark “I have never before seen <hi rend="italic">Cur </hi>written for “<hi rend="italic">Sir</hi>”:—but there—let it pass.—To return to my p., no. 2; I said, :this could <hi rend="italic">not </hi>be handed over to Inst., as it was made for P.O. Wgn.”—but certainly some of the reminiscences—of the Bay (1835–1844), and of <hi rend="italic">this place</hi>, too, were peculiar—<hi rend="italic">unique, &amp; little known</hi> (from 1845–1865) I have to <hi rend="italic">close </hi>this up tonight, &amp; forward tomorrow.—“Herald”, this mg. had its <hi rend="italic">usual </hi>short careless local! and “D.T.” this evg. (just to hand) only a little better—I shall send you both. You will have heard of the death of Scully, and of others, a Mr. MacMichael of Green Meadows, who is much mentioned <hi rend="italic">for good</hi> in our papers, but Mr. Sidey told me he did not know him—he was buried by the Presbytn. Minister (McCully) at Havelock. You will be sorry to hear Rev. R. Fraser has been very ill w. Influenza—but is now better—they had a very good time of it at Havelock (but you know this!) Did you know Bierre of Dannevirke? a complete scamp! some hundreds of ₤s. intrusted with,—Rd. Board, Foresters’, Jockey Club, Insurance, Ch. (Engd.) offertories, &amp;c &amp;c—<hi rend="underline italic">all gone</hi>! &amp; also 2–3 Mortgages: well, he is arrested on warrant &amp; must stand trial!! a letter today from Hamilton, he &amp; his <hi rend="italic">well</hi>, but cold &amp; winter severe. I trust it will be fine, or fair while I am inland, or <hi rend="italic">I may feel it</hi>. I would not go thither on any other account but <hi rend="italic">this</hi>. You gave me <hi rend="italic">good </hi>tidings of Victor, I hope such continues: but <hi rend="italic">poor</hi> tidings of Ptg. Off., which I hope is <hi rend="italic">better</hi>. And now, good bye—with kind regards—Yours truly, W. Colenso.</p>
+         <p>P.S. Although I leave for Woodville, I shall make my head-quarters tonight at <hi rend="italic">Dvk. as before.</hi>
+         </p>
+         <p>
+            <hi rend="italic">Addendum.                           </hi>(late, night.)</p>
+         <p>I have sealed up my letter: I omitted an incident at meeting. In paper, no.1, were 2 journeys to W-Moana &amp;c, &amp; 2 crossings in jeopardy. I had finished Part I. when, some one on the <hi rend="italic">qui vive </hi>at the door, open, caught Hill’s eye, &amp; H. said, “Yes, bring in Coffee”, which was agreed to.</p>
+         <p>That read, “C.” came in, kindly served by 3–4—Crerar, one, Pinckney, another, &amp; so on: I was courteously pressed to partake but I refused—at length, saying If a glass of stout, port wine, or ½ glass Brandy were offered me, I would accept it w. <hi rend="italic">thanks</hi>. Your Uncle near me smiled:—Dr. Moore said, “come over to my house, close by, &amp; take some”—which I refused.—</p>
+         <p rend="center">______</p>
+         <p>I utterly dislike this “Coffee &amp; Cake” movement!—to <hi rend="italic">me</hi>—it seems so <hi rend="italic">unnatural</hi>—suited, well enough, to Conversaziones, Soirees, socials, &amp;c, &amp;c—but not to such meetings as ours <hi rend="italic">should </hi>be—as they <hi rend="italic">were</hi>—and as <hi rend="italic">intended </hi>by Rules, Papers, &amp;c, <hi rend="italic">to be</hi>. I fear, not a few <hi rend="italic">young </hi>thoughtless folk become members (?) or attend, out of mere curiosity, &amp;c &amp;c &amp;c</p>
+         <p rend="center">_______</p>
+         <p>Now I shall put this inside a paper, with a clear conscience, because my letter is <hi rend="italic">very light</hi>, under weight.</p>
+      </body>
+   </text>
+</TEI>

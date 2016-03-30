@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0059">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1865 Mr. Colenso and separation. Hawke’s Bay Times 7 December. Hawke’s Bay Herald 9 December.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1865-12-09">1865 December 9</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1865 Mr. Colenso and separation.</hi>
+            <hi rend="bold italic">	
+               <lb/>Hawke’s Bay Times</hi>
+            <hi rend="bold">7 December.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald </hi>
+            <hi rend="bold">9 December.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>—With permission, and through your columns, I should like to say a few plain words to the electors of the Electoral District of Napier on the subject of Separation;<note xml:id="ftn24" place="foot" n="24"> In this case, separation of the Middle (South) island from the North—<hi rend="italic">Ed.</hi>
+            </note>—or, rather, of my having voted for it through believing in it, and of my future conduct respecting it.</p>
+         <p>And this I the more readily do, because some of my supporters have told me,— “they regret my having voted for it”; others have asked me “if I could not modify my views”?—while others (I hear) speak of all Separation in a raw-head-and-bloody-bones kind of way,—as containing every thing that is evil! but (it may be) hobgoblin.like, unreal, and undefinable.</p>
+         <p>No doubt Separation is a word big with meaning;—and, moreover, there are many kinds of Separation, some of which wouid be at any time positively injurious; but I do not intend to enter into a consideration of any of them in this letter.</p>
+         <p>Two or three points will, I believe, be granted me by all:—1. That I formerly opposed Separation;—2. That I voted for it reluctantly, while the Weld FitzGerald Ministry was in power;— 3. That I still consider it as an evil;—4. That if good government for the Colony as a whole can be had without it, so much the better; in which case I should (as before) oppose it;—and 5. That it is not impossible that I may (from having seen, heard, and read so much about Separation, and of many existing evils sought to be corrected by it), that I may know a little more of it, and of what it really means, and what good it might affect if properly brought about (<hi rend="italic">as I understand</hi>), than some of those who now most loudly oppose it.</p>
+         <p>Be this as it may, I think I see a reasonable way to get over the difficulty, and to reassure several of my supporters, from whom I am sorry to differ. Always bearing in mind,—that it is on the matter of Separation <hi rend="italic">alone</hi>, that (as far as I know) any difference exists between us. If I knew of any other I would not now write.</p>
+         <p>This, then, I am prepared to pledge myself to, (that is, if such should be the wish of two-thirds of the electors) namely, <hi rend="italic">not to vote for Separation, neither to support it, while two-thirds of my constituents continue to be against it</hi>.</p>
+         <p>I am the more inclined to offer this pledge from the information I continue to receive, that a large number of the electors of Hawke’s Bay are against Separation. For while, on the one hand, I could not consent to go to the General Assembly as a mere delegate from the electorate—on the other hand, I must, as their representative, ever have a due regard for their wishes.</p>
+         <p>Further, it must not be forgotten that we have now another Ministry in power, from whom much in the way of reform may be reasonably expected. So far, then, times have altered since I gave my reluctant vote.</p>
+         <p>Again, if Separation be a truth in Nature,—one that must come to pass,—the fact of the Napier constituency and representative not helping her on will not very materially retard her progress. And should Separation ever be carried in the General Assembly of New Zealand, such will not be done through the addition of the single vote of a member for Napier. Separation,—to be agreed to by the Imperial Parliament of Great Britain, and so to become law,—will only be affirmed when such has been carried in the General Assembly by a large majority. No New Zealand majority of “one,” nor “low fluke” (as in the removal of the Seat of Government) will ever effect such an important question.</p>
+         <p>Commending these few sentences to the fair consideration of the electors, (and purposing to write to you again next week on another branch of this subject,)</p>
+         <p>				I am, yours, &amp;c.,</p>
+         <p>
+            <hi rend="smallcaps">					William Colenso.</hi>
+         </p>
+         <p> Napier, December 2, 1865.</p>
+      </body>
+   </text>
+</TEI>

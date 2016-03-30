@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0840">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1892 August 1: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1892-08-01">1892 August 1</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1892 August 1: to Harding<note xml:id="ftn3-603" place="foot" n="603"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke<lb/>Augt. 1/92 (VIII, p.m.)</p>
+         <p>Dear Mr Harding</p>
+         <p>I feel inclined to write to you this evg.—although my last was on 27<hi rend="sup ">th</hi> ult.—but this will <hi rend="italic">not </hi>require any answer, else I would not inflict it:—for you are far too busy, &amp; <hi rend="italic">yr. time</hi> precious. My reasons are (at least) 3—</p>
+         <p>1.) to send you enclosed clippings.</p>
+         <p>2.) to acknge. rect. regd. packet—<hi rend="italic">this evg.</hi>
+         </p>
+         <p>3.) ditto “Typo”: w. a few remarks thereon &amp; I may add—that I took your long &amp; prized letter of (I <hi rend="italic">believe</hi>) Sy. 24<hi rend="sup ">th</hi> but <hi rend="italic">dated </hi>by you, &amp; <hi rend="italic">plainly</hi>, too, “28,” &amp; stamped “Wgn. 25<hi rend="sup ">th</hi>.”—to Woodville w. me on Satury. last, intending to ansr. it pretty fully on Sunday aftn, but my present lodgings are so dreadfully draughty (from door, window (<hi rend="italic">opposite!</hi>) and from chimney jambs) that I could <hi rend="italic">neither </hi>sit to write <hi rend="italic">nor </hi>to read <hi rend="italic">quietly</hi>, so gave it up!—got disquieted &amp; lost much val. time. I have however <hi rend="italic">this mg</hi>. read your letter over again &amp; very attentively &amp; <hi rend="italic">thank you much for it</hi>: (more anon.) only (still) non-content on 2 points, viz. (1) your <hi rend="underline italic">mere acknt</hi>. of “Holloway’s Almanac”! (which was not what I wanted—but your <hi rend="italic">opinion </hi>&amp;c on those (<hi rend="italic">to me</hi>) <hi rend="underline italic">handsome</hi>
+            <hi rend="italic">wood-</hi>cuts (?) of some of those “stately homes of Engd.” I (&amp; others, in N. &amp; here, to whom I showed them) have been particularly struck w. their <hi rend="italic">beauty</hi>: insomuch that I sent my copy back to England to a friend there. (2) Your dry 2-<hi rend="italic">word remark</hi> on my paper re Dr Mantell: true you had heard it read, &amp; <hi rend="italic">well did you describe </hi>that reading &amp; meeting; but (I think) it would be impossible for any-one, however <hi rend="italic">gifted</hi>, to have given it that attention it <hi rend="italic">required </hi>in merely <hi rend="italic">hearing </hi>it read—there is so much of dates, &amp;c &amp;c that demands close attention &amp; scrutiny: I should <hi rend="italic">not like</hi> to have to get out another such paper.—</p>
+         <p>I have been much <hi rend="italic">amused</hi> ? w. your graphic relation of <hi rend="italic">B. </hi>his <hi rend="italic">paper </hi>&amp; <hi rend="italic">war trumpet</hi>. Of course, it <hi rend="italic">was Locke’s</hi>, &amp; in our Museum! but (tell it not in Gath!) I <hi rend="italic">had described it </hi>in one of my <hi rend="underline italic">back</hi> papers in “Trans.”, glottis and all! and Parkinson had given a <hi rend="italic">drawing</hi> of it, <hi rend="underline italic">&amp;c</hi>—which I had shown to L. <hi rend="italic">before </hi>he got that trumpet, &amp;, in fact, was the cause of his going on that search. It is just possible my paper (<hi rend="italic">supra</hi>) was read &amp; pubd. <hi rend="italic">before </hi>you joined H.B.P.I. (and so of my <hi rend="italic">full </hi>paper on “Maori proverbs”—to which <hi rend="italic">I had particularly called </hi>
+            <hi rend="underline italic">yr. critical attention</hi>
+            <hi rend="italic"> in connection w. Smith’s </hi>
+            <hi rend="underline italic">pillaged</hi>
+            <hi rend="italic"> paper on Mao. Prov. </hi>in a <hi rend="italic">late </hi>vol. of Trans.—but of this, too, you took <hi rend="italic">no </hi>notice!)—I fear <hi rend="italic">B. </hi>has done much in that kind of way: a few years ago I took him to task <hi rend="italic">for it</hi>—when he apologized. John White, the same &amp; <hi rend="italic">more so</hi>, &amp; (I <hi rend="italic">think</hi>) your friend Tregear. By the way, I have <hi rend="italic">lately </hi>recd. a copy of the “<hi rend="italic">Polynesian Jl.</hi>” I was <hi rend="italic">struck </hi>w. the <hi rend="italic">handwtg. </hi>in address; I enclose it—you will also recognise it. This no. <hi rend="italic">seems </hi>an extraordinary one! If any value is to be given to the <hi rend="italic">Heiroglyphs</hi> of Easter Island—wh. are <hi rend="underline italic">translated</hi>? <hi rend="italic">I have not yet read it</hi>.</p>
+         <p>I was <hi rend="italic">pleased</hi> on reading your memo. enclosed w. returned <hi rend="italic">old</hi> letters, to find, that <hi rend="italic">you had again read them</hi> before sending away! but there is certainly <hi rend="italic">another</hi> error on part of Methodists, in saying, Watkin was in N.Z. <hi rend="italic">before</hi> N. Turner, <hi rend="italic">i.e.</hi> in “1830”: <hi rend="italic">I don’t believe it</hi>, but were I at N. I could ascertain: W. came to the Bay of Islands in the ’30’s (possibly 37–38, or so,) for he &amp; his w. &amp; family <hi rend="italic">lodged </hi>some tiome in <hi rend="italic">my house</hi>—they had come from the <hi rend="italic">Islands </hi>(Tonga, I think) under plea of <hi rend="italic">ill-health</hi>: (a plea <hi rend="italic">too often </hi>taken up by the W. Misss. <hi rend="italic">there</hi>!) You may recollect his son being at N. about Novr./89, at <hi rend="italic">their </hi>anniversary, they called on me &amp; got me to take chair in their Ch., and W. &amp; myself had some talk about that arrival of theirs in the Bay—but he was too young then to remember it.—Bumby, too, I knew,—a fine <hi rend="italic">young </hi>man, but <hi rend="italic">utterly unlike </hi>that horrid caricature of him in “<hi rend="italic">Brett</hi>”! he, too, had lodged in my house—but only for 1 night; he was drowned poor fellow! soon after his arrival in N.Z.———I question N. Turner being still alive.—</p>
+         <p>
+            <hi rend="italic">Re </hi>“Typo”:—dare I tell you that I was somewhat grieved to see it—hoping it had <hi rend="italic">quietly </hi>died, w. the <hi rend="italic">end </hi>of 1891.—I would you had allowed it to expire, &amp; I am <hi rend="italic">not</hi> the only one of <hi rend="italic">your friends</hi> who has expressed same opinion. However—here it is, &amp; a <hi rend="italic">good </hi>number, &amp; (as you say) “on better paper,” &amp; with its <hi rend="italic">coloured</hi> decorations <hi rend="italic">more expensive</hi>! Your leading art. is <hi rend="italic">good</hi>—only, I could wish Froude <hi rend="italic">had carried out </hi>what he pretends he did! Ditto of Southey! who emitted much <hi rend="italic">wretched rot. </hi>I notice your <hi rend="italic">date </hi>of pubn. “Jany. 1892,” but surely you have reviewed or mentioned things of <hi rend="italic">later </hi>dates! In fact, wod. it not be <hi rend="italic">better</hi> to state, <hi rend="underline italic">fairly</hi>
+            <hi rend="italic">in imprint real date</hi> of pubn. <hi rend="italic">Re </hi>your notice of Blade’s “Pentateuch of Ptg.”—here, <hi rend="underline italic">again</hi>, you wholly ignored my memo. concg. it to you, several months ago, when I saw a copy at Craig’s &amp; <hi rend="italic">wrote to you specially concg. it. </hi>I had told C. that I should do so, &amp; he more than once enqd. <hi rend="italic">re </hi>any reply. Moreover, you have an advt. <hi rend="italic">re </hi>Bassett &amp; his “Printing World Journal”: I had requested you to remind him of <hi rend="italic">me</hi>—or rather what I (foolishly!) had sent him, by post, &amp; at his own <hi rend="italic">most pressing request </hi>both as a Printer &amp; a Cornishman &amp; from the <hi rend="italic">same </hi>native town as myself—but <hi rend="italic">for another </hi>firm, or Company, in L. <hi rend="italic">under</hi> which he was then working<hi rend="italic">—copies of all my pubs</hi>.—valued <hi rend="underline italic">by me</hi> as worth more than £5.—&amp; never any acknowledgt.!!! And now, 2 things wh. in my opinion disfigure sadly your “Typo.” (1.) that <hi rend="underline italic">ugly</hi> advt. on p.6, “Barnhart” &amp;c. (2.) your sticking, somehow, to those hideous obscure ghost-like <hi rend="italic">foreign </hi>abominations used <hi rend="italic">for</hi> apostrophes!!! I have <hi rend="underline italic">often</hi>
+            <hi rend="italic"> marvelled</hi> how <hi rend="italic">you</hi>, w. your refined &amp; critical acumen could ever have taken to such frightful things!—–</p>
+         <p rend="center">________</p>
+         <p>In conclusion: a few words <hi rend="italic">re </hi>self. I went, as usual, on Saty. to Wdv. for Sunday Ch. Services, &amp; had yesterday (Sunday) <hi rend="italic">glorious weather</hi> for once!—and, in Evg., a <hi rend="italic">good </hi>Congn., though still very cold, snow on hills around. The <hi rend="italic">annual</hi> meeting of Ch. of Engd. is to be held there on Thursday next at 7.30 p.m. &amp; they wish me to be present (Rev. E. Robertshawe will be there), but I do not think I shall go—for if I do I must <hi rend="italic">either </hi>remain (idle on F. &amp; S.) until Monday! or return to Dvk. on Fry. to go down again on Sy.!!</p>
+         <p>My good friend Rev. R. Stewart is about to leave Wdv. (where he has done so well—in <hi rend="italic">both ways</hi>) <hi rend="italic">for Westport</hi>; he went down to see them &amp; to preach, &amp;c, &amp; has been called &amp; fixed, &amp;c. <hi rend="italic">I am sorry for this</hi>—perhaps a bit of selfishness in it. I have not yet seen him, since his return on Friday last, but wrote to him, to say, I would visit the Manse when I go again to Wdv. I cannot walk <hi rend="italic">well</hi>! This is from the remr. of <hi rend="italic">that Influenza</hi> attack, it was so w. me 3 months ago—feet sore in soles, &amp; particularly <hi rend="italic">under toes</hi>, when I put my foot on ground &amp; walk, but when sitting or even standing still quite at rest. And then semi- or hybrid-lumbago (from Rheum. &amp; Infl.—) pretty common: however an <hi rend="italic">old </hi>m. must <hi rend="italic">not </hi>complain, for he has a 100 things to be thankful for! I envy your <hi rend="underline italic">long</hi>
+            <hi rend="italic"> </hi>sleep—&amp; at your call too!!—Not a word now about Victor—I suppose &amp; hope he is well. Once more ADieu! I am tired</p>
+         <p>Kindest regards</p>
+         <p>Yours always</p>
+         <p>W. Colenso.</p>
+         <p>P.S. I did not intend for you to keep that Spanish tract—please return it.—–</p>
+      </body>
+   </text>
+</TEI>

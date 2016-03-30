@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0705">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1889 February 22: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-1: year not given, but must be here.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1889-02-22">1889 February 22</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1889 February 22: to Harding<note xml:id="ftn3-431" place="foot" n="431"> ATL MS-Copy-Micro-0485-1: year not given, but must be here.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Friday mg.<lb/>22nd</p>
+         <p>Mr. RC Harding</p>
+         <p>My dear Sir</p>
+         <p>Your enquiring (I was going to write—inquisitorial!) memo., with accompanying memo. of a/cs., came to hand last evg. These latter I do <hi rend="italic">not</hi> understand: so, stand over till we next meet here.—</p>
+         <p>As to the <hi rend="italic">former</hi>—I was thinking of sending you <hi rend="italic">Bibliothecæ Cornubiensis</hi>, 2 vols: only the work is in Im. <hi rend="italic">folio</hi>!—to satisfy your enquiries:—In reply: <hi rend="italic">born </hi>1811 (now in 79 yr) Penzance, Cornwall, England. “Offices in wh. you wkd. at home” !!! You <hi rend="italic">may</hi> say—Watts &amp; Son, Temple Bar, Crown Court—[where I did a little for B. &amp; F. B. Sy.]</p>
+         <p>
+            <hi rend="italic">[pages missing]</hi>
+         </p>
+         <p>orders”—1844.—</p>
+         <p>2 years residing with Bp. of N.Z. (Selwyn) at St. John’s Coll. Waimate. </p>
+         <p>And (to forestal enquiry from same name (and not common)—often of late yrs. made to me, by letter, &amp; word of mouth,) you may add—1<hi rend="sup ">st</hi>. cousin to late Bp. Natal (2 brothers sons)—<hi rend="italic">Natal</hi> being of worldwide notoriety.</p>
+         <p>Will all that <hi rend="italic">suffice</hi>? Your note reminds me of Peni te Ua, &amp; his queries <hi rend="italic">to me </hi>(!!) in N. L. Ct., Hastings.</p>
+         <p>Have dispatched this day to Wellington, 1<hi rend="sup ">st</hi>. copy for press Ty. Waitgi. book (⅔ds. of whole)—when I go to town next wk. will try to look in——<hi rend="italic">into passage!</hi>
+         </p>
+         <p>Yours truly (in haste)                       W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

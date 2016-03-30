@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0972">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1896 September 6: to Mortensen</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MTG HB m84/20, 57802.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75270/">Mortensen</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1896-09-06">1896 September 6</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1896 September 6: to Mortensen<note xml:id="ftn3-794" place="foot" n="794"> MTG HB m84/20, 57802.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke,<lb/>Sunday afternoon,<lb/>Septr. 6<hi rend="sup">th</hi>., 1896.</p>
+         <p>Dear Hans Mortensen</p>
+         <p>Yesterday I received your kind letter of the 3<hi rend="sup">rd</hi>. instant, and, as I am <hi rend="italic">idle</hi>—confined to my room, &amp; <hi rend="italic">no </hi>Church work—I have made up my mind to write you a few lines; for I shall not soon find time to do so when I get back to Napier.</p>
+         <p>I have had rather a trying time since I came to the Bush a fortnight ago: my <hi rend="italic">first Sunday </hi>(23<hi rend="sup">rd</hi>. August) at Waipukurau was a very good one: on the Monday I came to this place, all right: on the Friday I went to Woodville, and then my troubles began: that night the rain commenced, and it rained all the time I was there, so that I was confined to my room, and did not put on my boots until I came away on Monday by express, <hi rend="italic">I did not go into the town at all</hi>, my lodgings was at the “Commercial hotel,” near the Railway Station. And here, shut up in my room, I have been ever since, as it has been raining <hi rend="italic">all last week</hi>, and I caught a very bad cold, which also hindered my going to Waipukurau, where I was (again) to have preached <hi rend="italic">this</hi> day—but I could not go. The sun is shining <hi rend="italic">today</hi>, and I purpose leaving here on Tuesday next (8<hi rend="sup">th</hi>. instant) for Napier: this visit of mine to the Bush, has been a very sad one, such a great waste of time! such a rainy season.—</p>
+         <p>You, too, as well as at Napier, have been having plenty of rain. I hope you will not have lost any lambs, owing to the wet weather, and even <hi rend="italic">now</hi>, though the sun is shining, I fear the rain is not over.</p>
+         <p>It was very kind of you, Dear Hans, to write to me, in the middle of your heavy daily work: I think I must ask you, <hi rend="italic">Not to write again just now</hi>, but wait until you have a <hi rend="italic">spare </hi>hour, if you ever have such. I believe that you and I often think of each other, and I venture to hope that I may yet be able to pay you (&amp; Norsewood) a longer visit in the summer.</p>
+         <p>I agree with you in all you have written about Axel, and I do hope that he will get on <hi rend="italic">well </hi>at Auckland. I received a letter the other day from an old settler there, he says, there is plenty of work at Auckland, and the mines, for those who are able and willing to work: so, I hope, Axel may get on. Should you hear from him, let me know, as I am much concerned about him, as <hi rend="italic">I always have been</hi>.</p>
+         <p>Your remarks, also, Dear Hans, about <hi rend="italic">rest </hi>&amp; <hi rend="italic">peace </hi>&amp; <hi rend="italic">love</hi>, &amp; <hi rend="italic">life eternal</hi>, being <hi rend="italic">in store</hi>, and <hi rend="italic">sure</hi>, and <hi rend="italic">in safe keeping</hi>, for all believers in Christ—in <hi rend="italic">His teaching </hi>as set before us in the Gospels, is <hi rend="italic">correct</hi>, let us ever keep that in mind, and so, <hi rend="italic">following the example set before us of Jesus</hi>,—<hi rend="italic">endeavour to </hi>live as <hi rend="italic">practical Christians</hi>: showing by our fruits, our Faith.</p>
+         <p>Glad to hear that <hi rend="italic">all yours </hi>were well: plenty of sickness, and colds about. Kind love to you <hi rend="underline italic">all</hi>.</p>
+         <p>           Believe me ever,—–</p>
+         <p>                           Yours sincerely,</p>
+         <p>                                           W. Colenso</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1116">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>24 January 1867: Hector to Hooker.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">James Hector</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Kew DC 174, 488-491, ATL Micro-MS-Coll-10-16, 526-530 .</p>
+         <p>Transcription published in "My Dear Hooker: 
+Transcriptions of letters from James Hector to  
+Joseph Dalton Hooker between 1860 and 1898", Rowan Burns &amp; Simon Nathan.  Geoscience Society of New Zealand miscellaneous publication 133B, 2012.  ISBN 978-1-877480-21-8. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133B.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1867-01-24">1867 January 24</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hector to Hooker, 24-1-1867, Kew DC 174, 488-491, ATL Micro-MS-Coll-10-16, 526-530.</p>
+      </front>
+      <body>
+      <p>
+Wangapeka, Nelson Province, N.Z.</p>
+            <p>24th January 1867</p>
+            <p>My dear Hooker, </p>
+            <p>Many thanks for your interesting letter of 4t
+h Sept. which has just reached me. I have 
+been in the Mts. for the last 2 months &amp; have 
+had rough work of it as the Country is the most 
+inaccessible in N.Z. &amp; the weather has been horrible. Nevertheless I have never spent time to 
+more advantage Geologically as the natural sections are so fine &amp; varied
+ that I have cleared 
+up many points that were before doubtful &amp; obscure, &amp; I almost fancy I begin to see 
+something like a reliable classification of our formations begin to loom out. There is still a great deal of contradictory evidence
+ as to our 
+Coal deposits &amp; that is 
+the subject I am most 
+interested in at present. The 
+widest deduction I have got to is
+ that we have been putting the cart before the horse in laying so much
+ status 
+on the presence of Granite &amp; Igneous rocks as 
+causing disturbances. In this district the disturbances since 
+Miocene times have been most 
+gigantic &amp; are distinctly
+ seen – yet there are 
+no Igneous rocks of such modern date – the 
+Granite behaves in all the dislocations quite
+ as passively a part
+ as Clay slate. </p>
+            <p>The 
+faultings
+ are the real first effects of the cause whatever it is &amp; the usual 
+ccompanying volcanic &amp; metamorphic phenomena not being present here, must be looked on as accidental &amp; not necessary consequences of dislocations of the Earths crust – but at any
+rate they must not be considered as the 
+causes
+ – either proximate 
+or remote of these 
+dislocations. You will be glad to hear that I have also 
+at last
+ found Pelaeozoic Fossils, 
+Trilobites Orthis &amp;c. in Calcareo
+us slates in our upper Auriferous
+ rocks so that we get a clue
+to the arrangement of our slate Formations. 
+ I have also got a lot 
+of Fossils of newer 
+formations &amp; plenty more Fossil plants, but the latter will be more confusing than ever. 
+However I shall take your advice &amp; describe them all provisionally as soon as I can. We must 
+at least get local field names for 
+them as characteristic of the 
+various strata, even though they be very wide of their real relationship to a tr
+ue Botanical classificati
+on [therefore] I am  much 
+obliged for the hints you have given h----- &amp; th
+ey will be duly turned to account in the 
+omenclature I adopt. On the whole the resembla
+nce to the Vancouver Is. fossil Flora is very 
+marked as far as I can remember, but of course
+ exact comparison can only establish this. I am 
+certain you will find some of the 
+Damara araucarioides
+ among my Nanaimo &amp; Bellingham 
+Bay fossils &amp; the Podocarpus is just the old Taxites[?] again. The mineral resemblance of the
+beds &amp; their distributi
+on also “bears” out this similarity &amp; in Tasmania &amp; Victoria the same 
+appears to be the case. I have wondered if all these Coal deposits which invariably occupy narrow valleylike depressions in very ancient rocks can have been the subalpine equivalents 
+of the more extensive &amp; regular Coal strata such as of N.S. Wales which latter may have been 
+the delta or Coal plain deposits of the same period. In that case it would be only in accordance with what we know of alpine Floras 
+at present that there should be a greater 
+affinity among the plants embedded in the alpine valley deposits than 
+in those of the low grounds. I think this is worth looking into, 
+only as you remark, it would be necessary to 
+verhaul all the collections[?] from the 
+various Coal deposits in the world. </p>
+            <p>If I was only home for a spell I would brighten[?] up &amp; look into all these points. I 
+feel quite rusty here all alone 
+as I have no one to discuss some matters with. I am glad you like the notion of the Volcanic
+ origin of Hydrous &amp; Anhydrous
+ Coals. Certainly tell Lyell anything I --- may write
+ you if you think it worth 
+while. Since I wrote you 
+I have seen a great deal to confirm me in it.</p>
+            <p>I am sorry I should have mislead
+ you about[?] the Mt. Egmont plant. Buchanan got 
+it from a Gardener who vowed that he had it so
+me years ago from Mt. Egmont – but I have 
+not much confidence in the “cove” in question &amp; I can easily be
+lieve it came out of Hulks’ Garden at Taranaki. I am sorry Colenso 
+should give you so much bother with his 
+Cryptogams.
+ I never attempt to collect any as I 
+know nothing about them except that I would be deceived by all sorts of forms &amp; stages of growth. </p>
+            <p> I have been up some Mts. lately &amp; got some alpines but the 
+H.Bk.
+ was left by mistake 
+at Motueka &amp; till I get 
+it I wont say whether there is anything good, new or rare. Some are 
+new to me, but then I dont know what has been got
+ in these Mts. before. At present we talk of 
+N.Z. Botanically as ours – but in time we local
+ workers with the help of your invaluable book 
+will have to work out the Bot.
+ peculiarities of all our Nat. systems which are quite as 
+diversified as those of the Grampians, 
+------ Mts. or Norway Mts. I dare say.</p>
+            <p>  Was not 
+Cordyline stricta 
+in the large 
+N.Z. Flora
+? or was it only mentioned as a 
+synonym as it is in the 
+Handbook
+? At any rate there is a second narrow leaved
+, 
+lax-flower
+Cordyline
+ which has a stem &amp; I think bluish (not blue though) flower but I am getting 
+specimens of it for you. These since I wrot
+e I have seen lots of the Southern 
+Cor. indivisa 
+which is also in the South part of the Wellington Province N. 
+Is. &amp; is the true 
+C. indivisa
+ – but the broad leaved[?] Ti of the Taupo district
+ though it has the same leaves (or nearly so) 
+must surely be a different thing as it has 40 to 50 heads, has 
+a huge Flower head with long &amp; 
+broad ---asts &amp; has 
+black shining seeds
+. This is the true Toii of the Maoris that they make 
+mats of – not the one they eat
+!! That is the Ti-Tawhiti or 
+Stranger-Ti
+ which grows with
+ 50 to a 100 heads on thin flexible stems which grow 
+very rapidly as the Maoris propagate it by 
+layers &amp; cut out lengths 
+of the stems to eat. They bake it 
+&amp; beat it to a pulp extracting a
+starchy matter which they boil to a gruel. I 
+heard that the Ti Tawhiti never flowers &amp; was 
+introduced to the various locallities by the natives, but the only one I have seen which was up 
+a spur of Mt. Egmont had dead Flower stalks on it &amp; I have specimens.</p>
+            <p> I was very much surprized to find a strong resemblance in the Flora of the Cape
+Farewell district to that of the N. part of the Auckland Province. The same heathy flora as 
+round the Bay of Islands with Epacris, rushes, 
+Gleichenia dicarpa
+ drosseras &amp; small Towhai
+(Weinmannia signlinola) only 
+Pomaderis 
+is 
+wanting
+. This flora extends down the West 
+Coast on certain soils as far as 20 miles S. of
+ the Buller River or the same range as the 
+Nikou
+Palm. Why is it that in the N. the 
+Nikou
+ loves the deepest shade &amp; shelter in forrest &amp; dells –
+but on the West Coast you will se
+e whole forrests of nothing else standing bluff &amp; ----- 
+through with battered leaves on the most expos
+ed headlands when all the rest of the 
+vegetation is beat down by the wind to a clear 
+felt like mass that you can walk on many feet 
+above the ground?</p>
+            <p>By the way – The dwarf 
+Weinmannia
+ that grows in the heart lands of the N. has 
+always pinnate leaves &amp; is supposed to be the young state of 
+W. racemosa 
+but the shrubby 
+plant occupying the same 
+situation in this Island 
+never
+ has pinnate leaves, I shall try to find 
+out more about this as I hear that
+ old Dr. Sinclair always insisted
+ that the little
+ shrub with the Pinnate leaves was a distinct species. But you must be sick of discussing the N.Z. Flora now I
+should think. When we get the 2nd vol. &amp; suggt.
+ we must go to war among ourselves &amp; neve
+bother you except as Umpire by right of conquest. I am very sorry so few of the plants 
+reached you alive. I left two cases ready for sending off to you when I was last in Wellington. 
+I suppose they are on their way. I will not forget seeds. They are just coming in. The 
+Cinchona
+ seeds I have sent to the Gov.’s Garden 
+at Kawau at the place where they will have 
+most chance.</p>
+            <p>Thanks for your kindness in writing to the Sec. R.S.
+ I wrote to him &amp; remitted the
+money for the first year but
+ I intend to correspond[?].</p>
+            <p>Ever Your Sincere Friend </p>
+            <p>James Hector. </p>
+            <p>Cant you send me a copy of your lecture on 
+Darwin. I wish I could have made a 
+2501st auditor.</p>
+</body>
+   </text>
+</TEI>

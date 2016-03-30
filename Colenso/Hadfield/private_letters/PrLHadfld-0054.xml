@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0054">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1845 October 25: Octavius Hadfield to his brother Rev. George Hadfield</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  Page 125.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 1.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1845-10-25">1845 October 25</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70976/">George Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1845 October 25: Octavius Hadfield to his brother Rev. George Hadfield</p>
+      </front>
+      <body>
+      <p>Wellington,</p>
+      <p>New Zealand.</p>
+      <p>October 25. 1845</p>
+      <p>My dear George,</p>
+      <p>I had the pleasure some time ago, of receiving a very interesting letter from you, informing me that you had again resumed work in improved health; I cannot express to you the satisfaction it afforded me.  I trust sincerely, that you have, through the blessing of God, continued to improve in health.  It is important in the present distracted state of opinion in the church, that those who love sound doctrine, who are anxious to promote the extension of the truth, and not mere human crotchets, should devote their powers, be they great or small, on the right side to the service of the church.  I rejoice, therefore, that you are enabled to do a little, a little I say, using your own words, but who on earth can estimate the value of one immortal soul?  By what finite standard shall we venture to measure that which is infinite and eternal?  How remarkable is the present stae of the church in England!  Were it not that the heart, the obdurate heart, is concerned, and that it is not a subject for the intellect only, one would imagine that something like an aberration of the faculties of the latter must have taken place in many, ere the widespread zeal for antiquated inanities could have risen to its present pitch: but a conviction of the heart's deceitfulness, and Satan's manifold devices, precludes the necessity of any such hypothesis, to account for the fact of men imagining they are doing God service while fighting against God and His truth.  I make this remark because I suppose that much must be written now upon the matters in dispute, and it appears to me that so far as the reason is concerned they admit of a satisfactory solution; for they nearly all turn on historical facts, and arguments to be deduced from them.  It appears clear that there is a use of tradition and an abuse of it.  There are some things so clearly revealed in scripture that they are intelligible to all unprejudiced minds; these, tradition, (I mean of course historical evidence) cannot affect, it can neither give weight to them, nor invalidate them, they are wholly beyond its province.  There are others which, though clear to those who are able to take a comprehensive and critical view of the whole Scriptures, are not so self-evident to all.  Such, for instance, as the charge of the Sabbath to the Lord's opinions, not only on religious subjects, but even worldly ones.  I have frequently lamented my neglect of the many opportunities, when I had the benefit of your instructions, which I possessed, of acquiring knowledge, and learning how to use it: the little, however, that I did acquire I often feel grateful to you for.  I meet with men here, possessed of considerable knowledge, who seem incapable of generalisation, unable to separate that which is merely accidental from what is essential, and consequently puzzled on all occasions, in new circumstances in a new country.  I suffer so much from headache now that I am not able to think much, I am however, trying to do a little towards improving the mode of acquiring this language.  I contend that the literal mode of translation is bad, because corresponding words in a language of a civilised and an uncivilised people are not identical, that is, that a complex idea, represented by a word, in the one, will not be found when analysed to be composed of the same ingredients as the corresponding complex idea in the other, and consequently that a literal or verbal translation will not give a correct version of ideas: but I find only two or three persons who will care about these matters; in the meantime people are teaching religion, while grossly ignorant of the language.  There is another subject on which I am somewhat engaged, and that is a plan to be recommended to the government for making the natives understand and submit to our laws; no plan has hitherto been adopted.  The Judge here, Mr. Chapman, and others, approve much of its outline.  We are expecting our new Governor, when I hope something will be done. Everybody seems able to find faults with the existing system, but nobody seems inclined to take the trouble to propose a better. I am afraid I shall have exhausted your patience with my prolixity, but though I am confined to bed, it being the only place where I have any ease, I should not wish you to think that I am unable to amuse myself, or altogether unable occasionally to assist others who have now more to do, but have less time to think. My complaint remains as it did, and my friends as kind and attentive as ever.  I sometimes entertain an idea of trying to visit you, if my life should be prolonged, but as even now I am subject to violent vomiting which gives me intense pain in the back, I can scarcely venture to attempt it.  I have written several times to them lately at home, and Mrs. St. Hill told me a day or two ago that she was writing to my Mother, so I say no more about myself.  I do not think I have heard from you since February, but as we hear an English mail has arrived at Auckland, I am expecting to hear daily. The feeling and conduct of the natives generally through the island is good, and though the accounts of matters in the North which you may see in the papers may lead you to suppose the reverse, I do not think there is any material change in their religious feelings.  With kind affectionate love to all at home.</p>
+      <p>Believe me, my dear brother,</p>
+      <p>Yours affectionately,
+      </p>
+      <p>Octavius Hadfield.</p>
+      </body>
+   </text>
+</TEI>

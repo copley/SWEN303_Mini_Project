@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0177">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1895 Was it a just judgement? Hawke’s Bay Herald April 26.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1895-04-26">1895 April 26</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1895-04-25">1895 April 25</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1895 Was it a just judgement?   <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald</hi>
+        <hi rend="bold"> April 26.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—I thank you for publishing in your paper of this day the able and fitting letter from “Humanity,”—and him, too, for writing it: I hope, also, it may be productive of good. I had very nearly written a letter myself on the same thoughtless and harsh decisions: of such we have seen too many of late through out Hawke’s Bay; and the marvel with me has ever been—Why the public put up with it?—When inland a month ago, and speaking on a public matter, I said,— “No man with a pronounced moral or political ‘fad,’ should be entrusted with the office of a parish schoolmaster, or Minister—and to that I would add—of J.P. Such creatures are always narrow-minded, perhaps born so! I could say a great deal more on this subject, but I forbear,—I am, &amp;c., </p>
+      <p>
+      <hi rend="smallcaps">             W. Colenso</hi>. </p>
+      <p> Napier, April 25, 1895.</p>
+    </body>
+  </text>
+</TEI>

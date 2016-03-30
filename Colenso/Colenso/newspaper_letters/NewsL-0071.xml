@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0071">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1869 Cook’s centenary. Hawke’s Bay Herald 1 October.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1869-10-01">1869 October 1</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <creation>
+          <date when="1969-09-30">1869 September 30</date>
+          <name type="place">Napier</name>
+        </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1869 Cook’s centenary.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald </hi>
+            <hi rend="bold">1 October.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—In your last issue you say “Wednesday next, the 6th October, will, we believe, be the centenary of Capt. Cook’s first landing in New Zealand.”</p>
+         <p>There is a little error here, as Captain Cook landed on the 8th. Five years ago I wrote thus:— “On the north-west shore of Poverty Bay, in the evening of Sunday the 8th. October, 1769, being early summer, Capt. Cook, Sir Joseph Banks, and Dr. Solander, had the pleasure and privilege of first landing in New Zealand. This present year of grace, 1864, has been lately signalised by Great Britain and the civilised world as that of the ter-centenary commemoration of the immortal British Poet, ‘of all nations and of all time’; and, surely, five years hence the colonists of New Zealand will suitably commemorate the Centenary landing of the adventurous and celebrated British Navigator <hi rend="smallcaps">Cook</hi>—<hi rend="italic">the great Navigator of and for all nations</hi>—on these shores with his illustrious band of devoted disciples of Natural Science!”* </p>
+         <p>At the time of writing the above (March, 1864), I hoped that Poverty Bay would continue to increase in prosperity, and that steamers from north and south would, in October, 1869, take many a colonist there to celebrate on the spot the centenary of our great countryman’s discovery and landing.</p>
+         <p>Captain Cook entered Hawke’s Bay on Thursday, October 12th; anchored that night not far from Long Point; continued to coast within it until Sunday, the 15th October, on which day the second fatal affray with the natives took place off our south cape, which he then named Cape Kidnappers.</p>
+         <p>Most heartily do I wish that Friday, the 8th October, will be suitably celebrated by the Colony; particularly by us here in Hawke’s Bay, and this for several reasons. I may mention the following:—</p>
+         <p>1. Ours is the only Province in New Zealand bearing a name of his giving: 2. Our town of Napier is the only New Zealand town built on a site of his seeing: and, 3, he has said many interesting things, about our Bay (which he sounded all round) and its neighbourhood.</p>
+         <p>True, the time is now short; but could not something be done among us towards commemorating his landing—something in which all could unite? Say, a general holiday proclaimed by the Government,—cricket and rural games in Clive square, or on the hill, a tea or evening party, <hi rend="italic">soirée</hi>, or <hi rend="italic">conversazione</hi>, in the Oddfellows’ Hall, with music, songs, &amp;c, &amp;c. Something in which all settlers could unite.</p>
+         <p>As your next Friday’s paper (bearing, too, a name of Cook’s giving) will be published on the 8<hi rend="sup ">th</hi>.—the very day of his landing, I will, with your permission, prepare for its columns an epitome of what <hi rend="smallcaps">Cook</hi> saw and did here during his first week in New Zealand.—&amp;c.</p>
+         <p>
+            <hi rend="smallcaps">					William Colenso.</hi>
+         </p>
+         <p> Napier, Sept. 30, 1869.</p>
+         <p>[We have to thank Mr. Colenso for his kind offer, of which we shall gladly avail ourselves.—<hi rend="smallcaps">Ed</hi>.]<note xml:id="ftn30" place="foot" n="30"> Colenso’s paper “In Memory of Capt. J. Cook, R.N.” was published in the Hawke’s Bay Herald, Napier: 8 October 1869, p.3. It is reprinted in “Colenso’s published papers 1: 1842-1884” in this series—<hi rend="italic">Ed.</hi>
+            </note>
+         </p>
+         <p>* Essay on the Botany of New Zealand (North Island), page 1; in Transactions and Proceedings of the New Zealand Institute, 1868, vol. I.</p>
+      </body>
+   </text>
+</TEI>

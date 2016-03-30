@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0762">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1891 January 5: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0495.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1891-01-05">1891 January 5</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1891 January 5: to Harding<note xml:id="ftn3-505" place="foot" n="505"> ATL qMS-0495.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Jany. 5/91<lb/>(1 p.m.)</p>
+         <p>Dear Mr Harding</p>
+         <p>My man just back from town bringing me your kind &amp; valued note of the 2<hi rend="sup">nd</hi> inst. I thank you for it, &amp; drop all besides! to reply at once, &amp; so to say a few more words <hi rend="italic">re</hi> early ptg. presses. (Although I am far from well—&amp; have been in this way several days, Rheum., Diarrhea, colic, general weakness:—I greatly prefer Bush air, &amp;c.)</p>
+         <p>I <hi rend="italic">cannot</hi> understand that of B. Isaacs, quoted by you; &amp; <hi rend="underline italic">less</hi> so the <hi rend="italic">Italic</hi> note: some part of it must be wrong. Had the date been 18<hi rend="italic">45</hi>, I think I could, perhaps, throw light on it. (?)</p>
+         <p>Thus:—(1) I brought out with me a Stanhope Press (purchased by C.M.S. late in ’33, or very early in ’34—I <hi rend="italic">think</hi> the former date.</p>
+         <p>2. In a few years after (say, by, 1840) I recd. the <hi rend="italic">2</hi>
+            <hi rend="sup italic">nd</hi> press (which I had written for) a <hi rend="italic">Columbian</hi>:—&amp; used <hi rend="italic">both</hi>.</p>
+         <p>3. The Bp. arrd. in 1842, bringing w. him a <hi rend="italic">little</hi> press (bed scarcely <hi rend="italic">fol.</hi> fcp. size,—I only <hi rend="italic">saw it</hi>
+            <hi rend="italic">once</hi>, [I always supposed, Nihil, (a nice young man, aftds. ordained &amp; died soon after in the N. Isles)<note xml:id="ftn3-506" place="foot" n="506"> Reverend William Nihill died at Netche in the Loyalty Islands.</note> did not like for me to go into his P.O.—a <hi rend="italic">very small</hi> room in an outhouse, owing to the state it was in] although living 2 yrs. (’43–’44) close to it, &amp; had a deal to do with it—in transln. &amp; correcting <hi rend="italic">proofs, for the Bp. &amp; Rev. W. Cotton</hi>.: there was <hi rend="italic">not much</hi> printed at it,—could not be, for want of type, &amp; regular workman: Mr. Nihil was the <hi rend="italic">printer</hi> (so called), who had a few lessons on leaving England. I enclose a <hi rend="italic">valued</hi> proof, (<hi rend="strikethrough">please return it</hi>, <hi rend="italic">no keep</hi> it.) Such was printed every week, when the Bp. was at Home; contg. <hi rend="italic">his</hi> Sermon for the Sunday, &amp; was given away to <hi rend="italic">readers</hi> (Maori) at Ch. door. Two small books (sq. page, ½ size of slip enclosed) were ptd. at Bps. Press for the Chaplain, Rev. W.C. Cotton, while I was there: 1. “<hi rend="italic">Agathos</hi>”<hi rend="italic"> </hi>translated into Maori. (I think the work was by Wilberforce), only a few pp. 2. I forgot <hi rend="italic">this</hi>: I had copies of both,—having had to do w. transln. &amp; corrn. of proofs.</p>
+         <p>3. Now I left in Sept.1844: a <hi rend="italic">few</hi> months after was Heke’s war: then, <hi rend="italic">suddenly</hi> &amp; owing to it, the Bp. removed to Auckland, &amp; <hi rend="italic">also</hi> removed the press. of C.M.S. from Paihia to Auckland, (the Bp. had <hi rend="underline italic">now</hi> its superintendence, &amp; Mr. Telford the printer from Home, went to A. with the Bp., party &amp; press). I could well suppose the Bp. (or someone for him) selling <hi rend="italic">his small press in the Bay</hi> before leaving it.</p>
+         <p>4. “Purewa”, was the Maori name of the press &amp; Bp’s <hi rend="italic">residence</hi> near Auckland at the first: I have seen the name as an imprint on their early tracts.</p>
+         <p>5. Taylor is right—“The gospel pubd. Paihia 183<hi rend="italic">5</hi>” (quoted by you with?). <lb/>In <hi rend="italic">1835</hi>—I printed, &amp;c &amp;c 2000 copies Eps. to Eph. &amp; Phil., 12mo. 16pp.—<lb/>In <hi rend="italic">1835</hi>,—I printed, &amp;c—1000 copies of Gospel St. Luke, 12mo. 68 pp.—<lb/>In <hi rend="italic">1835</hi>,—ditto 500 copies Multipn. &amp; other tables, &amp;c, &amp;c.—</p>
+         <p>(all this, from my P.O. <hi rend="italic">Ledger</hi>.)</p>
+         <p>I find, also, this entry <hi rend="italic">against the Wesleyn. Mission</hi>—</p>
+         <p>1842, Nov.23, 1 ream Demy <hi rend="italic">issued</hi> for Calendars, Maori, pp.</p>
+         <p>Pd. Pressman 2 days (say)</p>
+         <p>Wkg. off, drying, pressing, &amp;c.—12/-</p>
+         <p>(No entry of it having been paid.)</p>
+         <p>I quote this to show that they were not doing much in ptg., or, perhaps had not the type—figs. &amp;c. No doubt Woon’s letters (which I have) will reveal something: anon. I intend to look them over.—</p>
+         <p>There were 1, or 2, presses at Korokareka in the <hi rend="italic">latter</hi> end of 1840—as I printed at Paihia for the Governt. at close of that yr. the <hi rend="italic">first</hi> Govt. Gazette which, I recollect, a printer at Korokaraka had <hi rend="italic">refused</hi>!!—owner (?) of the <hi rend="italic">little Newspr</hi>. of that place.—(I possess the correspondence w. Govt. abt. it.) One of those presses might have been sold to Isaacs, who, in taking it to Paramatta, <hi rend="italic">added</hi>, &amp;c.—</p>
+         <p>Of one thing I feel very certain, that Mr. Marsden <hi rend="italic">never sent, never had a Press in N.Z.</hi> Mr. M. was a chatty old gentm. &amp; conversed freely w. me, at his own house in P., &amp; also in Sydney—often: also here in N.Z., &amp; never alluded to such a thing; though often on ptg., press work, books, &amp;c for Maoris.—</p>
+         <p>Besides: there was Mr Wade, a Secy. in Off. C.M.Sy. for some years, who had espy. to work up all reports sent home by Missn. from this N.Z. Mission,—whom I knew in Ln. in 1833. &amp; we came out together—and he <hi rend="italic">never</hi> said a word or a hint of any such thing.</p>
+         <p rend="center">———</p>
+         <p>I never before saw yr clipping from “Typo”—“Historic Presses”! the reason is this—that <hi rend="italic">yr</hi>. <hi rend="italic">no.</hi> of “Typo”, reached me at Dannevirke, when I was <hi rend="italic">doubly busy</hi>—in Ch. matters, having for several weeks <hi rend="italic">2 Churches</hi> to attend to, Dvk. &amp; Wdv., so “Typo”, w. English Serials then recd., were all put aside <hi rend="italic">there</hi> in my strong iron box (I have several boxes <hi rend="italic">there</hi> now, w. Books, &amp;c, &amp;c.)</p>
+         <p>Again: in my life of Marsden (unfy. at Dvk.) which I have had to use of late—Lectures, &amp;c—there is nothing of the kind mentioned: though <hi rend="italic">many</hi> minor matters are.</p>
+         <p>“Wohlers”, was a German Missy. (from some <hi rend="italic">small</hi> G. Society) at S. end of the S. Island: had been there many years, but I never thought much of the man nor of his writings (<hi rend="italic">translations</hi>),—indeed I had <hi rend="italic">him</hi> in particular (together with Rev.—Stack, of (near) Lyttleton) in my eye—when, in an early paper, I said—neither Mao. legends, nor <hi rend="italic">translations</hi> of any such, should be looked for from <hi rend="italic">S</hi>. Island.—</p>
+         <p>I had forgotten that <hi rend="italic">you </hi>were Reporter in Tanner’s case before Mr. Justice Richmond, &amp; Co.—</p>
+         <p>On 19<hi rend="sup">th</hi>. Decr., <hi rend="italic">day</hi> of my return to Napier, I wrote to McGlashan Auckd.—enclosing chq. £7.10 (!!!) for <hi rend="italic">3</hi> copies “Early Histy. N.Z.”—&amp; told him my opinion of it—strange to say, <hi rend="italic">no receipt</hi> yet to hand!!! (And have posted this day 2 copies to my 2 sons in Engd. (long promised them) costing me 5/3 ea.—i.e. 7lbs.)</p>
+         <p>I was obliged to go to town yesterday tho’ not well: I had bought at Craig’s a copy of D. &amp; Ws. Almanac—and was disgusted with it, (accts. even on the back of <hi rend="italic">Diary</hi> pages!!), but you may have one. Well, I found out, that in their list of <hi rend="italic">Licensed</hi> Ministers of Ch. of E.—my name was left out, (although they had last year printed it—<hi rend="italic">in full</hi>, &amp;c—in the little book they did for the Synod.)—and so, again, in <hi rend="italic">Directory</hi>. I called on Fielder about it, he <hi rend="italic">astonished</hi>! So, taking a copy of Synod pamphlet w. me, I went over to see <hi rend="italic">Peter</hi>: at <hi rend="italic">first</hi> he would <hi rend="italic">not</hi> allow it, but I brought him to do so, &amp;c, &amp;c—P.said, it was Hoben’s doing!—H. was to be dischgd.—but he begged to be kept on, in some <hi rend="italic">other</hi> capacity, &amp; P. did so, &amp; gave <hi rend="italic">him</hi> the Almc.—P. says he has lost £30 by him—his lying &amp; cheek &amp; carelesss. <hi rend="italic">re</hi> advts.—&amp; 3 or 4 weeks ago they <hi rend="italic">cut him adrift</hi>—he is at Auckld. now.—Hill told me yesty, that old Pirani is taken on again.</p>
+         <p>Rev. J. Parkinson here again this aftn, &amp; it appears that I (as “emergency man) <hi rend="italic">must</hi> take the Service in Cathl. on Sy. mg. next,—&amp;, also, at Augustine’s in the evening:—I would gladly be off the Cathl. S.—but <hi rend="italic">must</hi> go &amp; do my best:—(D.V.).</p>
+         <p>Hill will be going down to XtCh.(say) on Friday week. Had I not <hi rend="italic">refused</hi>, every early overture, as I did—to help the Ch. in the Bush &amp; supposing I should still be needed there—I would go: but I <hi rend="italic">cannot</hi> now. I <hi rend="italic">early</hi> knew Hooker would <hi rend="italic">not be there</hi>. I am sorry to say (<hi rend="italic">to you only</hi>), that there is a great (growing) unpleasantness between the Bp. and myself—<hi rend="italic">caused</hi> by that young foreigner, Clarke, placed by the Bp. at Wdv. as Lay reader, (story is too long to write it,)—and <hi rend="italic">no one</hi> can <hi rend="italic">see it ending</hi>! <hi rend="underline italic">I feel that I am right</hi>
+            <hi rend="italic">!</hi>
+         </p>
+         <p>Am still on my (small) Botanl. paper: much broken in on of late: 3 visitors this aftn. from 2 to 5.30! O. Dean &amp; wife live on hill next door to Fannin: I hear the Holt <hi rend="italic">family</hi> are much incensed! &amp; have <hi rend="italic">shown</hi> it.</p>
+         <p>
+            <hi rend="italic">I have to reply yet </hi>to your Queries &amp;c in a (or in 2) former letter, &amp; will try to do so, when my Botl. Paper is finished.</p>
+         <p>To my<hi rend="italic">great surprise </hi>I recd. a lg. letter from Kirk—together with a “<hi rend="italic">specimen</hi>” (5 pages) of the “Students’ Hd.Bk. N.Z. Flora”—Hookers’ of course w. Kirk’s (!!)<hi rend="italic">alterations</hi>! (bah!) K. wishes me to help, &amp;c. &amp;c. <hi rend="italic">Now</hi> I know why K. came <hi rend="italic">here</hi> (while I was in the Bush), &amp; got from H. those Taupo spns. <hi rend="italic">H. had promised me</hi>! I have <hi rend="italic">told H. of it</hi>—no reply.—You gave me a <hi rend="italic">good</hi>
+            <hi rend="italic">bit</hi> of <hi rend="italic">pleasing</hi> news, in what the Dr. had sd. re your dear son, &amp; I <hi rend="italic">believe him</hi>.—</p>
+         <p>             Once more, <hi rend="italic">A Dieu</hi>! Kindest regards &amp; best wishes.</p>
+         <p>                             Yours truly.</p>
+         <p>                                             W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

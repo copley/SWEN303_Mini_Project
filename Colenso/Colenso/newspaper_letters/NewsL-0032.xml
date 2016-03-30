@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0032">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1860 Open column. Hawke’s Bay Herald 8 September.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1860-09-08">1860 September 8</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1860 Open column.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 8 September. </hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—Having noticed an assertion in your last week’s Herald, that— “The proceedings of the (Native) Conference are actually over, and the members of it on the way to their respective homes, before the Governor’s opening address is placed in the hands of the chiefs of this district!”—I have the honor to inform you, that “the Governor’s opening address” was not only received here by our Superintendent before his late visit to Wellington (six weeks back), but that they were at that same time, in the hands of the chiefs of this district.</p>
+         <p>		I am, Sir,  Yours tru1y,</p>
+         <p>
+            <hi rend="smallcaps">		Wm. Colenso.</hi>
+         </p>
+         <p>Napier, Sept. 4, 1860.</p>
+         <p>[Our infornition was received from a gentleman well known as an authority in native affairs, who had just returned from the interior, and who, in travelling, visited several pahs at which the Governor’s speech had not been seen. And our own copy of the <hi rend="italic">Maori Messenger</hi> containing the address in question had only just come to hand at the time we penned the paragraph to which our correspondent adverts. Ed. <hi rend="italic">H.B.H</hi>.]</p>
+      </body>
+   </text>
+</TEI>

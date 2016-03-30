@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0041">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1843 February 9: Octavius Hadfield to Mrs. John Mason</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  Page 92.  "Extracts of letters from Octavius to Mrs. Mason."  Unspecified source of extract, time of extracting, person who extracted and nature or extent of excluded material - enquiry emailed to Frith Driver-Burgess at Wellington City Libraries on 27.11.15 regarding this.  These extracts are all from letters written within the first months following Rev. John Mason's death, which Octavius Hadfield witnessed and described in his letter to the C.M.S., reproduced in their obituary, available at http://www.enzb.auckland.ac.nz/document?wid=4078&amp;page=1&amp;action=null <!--"&amp;" in this URL should be interpreted as & by anyone reading this document in unrendered TEI format--></p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 27.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1843-02-09">1843 February 9</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/24651/">Otaki</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71002/">Mrs. John Mason</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1843 February 9: Octavius Hadfield to Mrs. John Mason
+         </p>
+      </front>
+      <body>
+      <p>Feb. 9th 1843 "Last evening on my return I found your letter <!--blank--> here.  You appear not to be in very good health; but I hope you may be improving in that respect in this.  The Lord however strengthens your soul by His Spirit, and enables you to look forward to that Glory which Christ has purchased and prepared for those whom the Father hath given Him.-- May the Lord direct you by His counsel during the remainder of the time He may please to keep you here below.-- I am sorry the natives have been troublesome.  I spoke to them tho' not so strongly perhaps as I ought to have done about behaving properly to you.-- I will write a few lines to Wainua <!--blank--> "---------"-- I met Mr. Bray in the Sound, he reached it the same day that I did- He appears very active and zealous, but not very communicative so that I could not form an opinion of him,-- I however liked him- I spent a fortnight there among my old friends - He returned immediately.  So much time spent among the natives without a place for retirement till I chequed at night, unfits me for communion with God.-- May the Lord strengthen me a little longer till he may be pleased to take me. " - - - - - - Let me hear from you when ever you have an opportunity, The lads are in a hurry to return, Ever yours most sincerely in the Lord. <!--MS annotation: (see letter)--> 
+      </p>
+     
+      </body>
+   </text>
+</TEI>

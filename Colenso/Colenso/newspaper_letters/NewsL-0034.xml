@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0034">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1860 Open column. Hawke’s Bay Herald 3 November.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1860-11-03">1860 November 3</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1860 Open column.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 3 November.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—Believe me, I unwillingly address you on this occasion. A sense of duty, however, prompts me to notice and refute the strange statements of your correspondent “Sincerity,” which appeared in your last issue. Had Mr. Sincerity confined his remarks to myself,—or, had your paper a merely local circulation,—I certainly should not answer his letter. But, seeing that the Bench (of <hi rend="italic">three</hi> magistrates), the Rev. Mr. St. Hill, Mr. Grindell, and myself, are all more or less attacked, to be altogether silent would be anything but proper. </p>
+         <p>I pass by the grammar of your correspondent (as he may be a foreigner, and therefore to be excused); also, his sneering and lowering remarks upon the magistrates (as he may have had a case unexpectedly decided against him in this very Court, and such might cause him to see things as if he wore green specs.); and shall proceed to notice what he says touching Mr. St. Hill and myself. Remarking, by the way, that Mr. Sincerity’s statements are all of the <hi rend="italic">argumentum ad hominem</hi>, or, rather, <hi rend="italic">ad populum</hi> class; and therefore, at this peculiar time, calculated to do very much more harm than good. </p>
+         <p>Of Mr. St. Hill he says,—that “he took far too much interest in the case on behalf of the Maori race.” And asks, “What right had Mr. St. Hill to converse with, or, perhaps, to prompt Capt. Lambert, one of the J.P’s. who took the lead of the Bench on this occasion?”.... “Have we not had enough of the interference of clergymen in public affairs? Have we to sit quietly by and see them exerting themselves on behalf of the Maories? Have we to come to the conclusion that they will always cross our path in favor of the so-called “ignorant,” but, I say, cunning race? Whatever the intentions of these two gentlemen are, I will say they came into court for a specified purpose, and I maintain that they had no more right to interfere in the usual course of justice than any one else.”</p>
+         <p>Alas! for the fussy vehement, and overtoppling indignation of Mr. Sincerity!! Now what are the facts of the case? the plain naked truth? Why, simply, that Mr. St. Hill sat as far from the Bench as the walls of the court allowed him,—that he never rose from his seat to speak to the Bench, but that Capt. Lambert (in an interval while the clerk was making his entries,) did rise and say a few words to him, of  (as I believe, who sat next to him,) a purely common-place nature:—and that Mr. St. Hill, after quietly sitting for about 2 hours, silently left the Court.</p>
+         <p>How could it be supposed that any person—much less such a personification as <hi rend="italic">Sincerity</hi>—could trump up such a story as this from such very slight grounds! </p>
+         <p>Concerning myself: I am (<hi rend="italic">in addition</hi>) charged with— </p>
+         <p>1. “Interfering.” </p>
+         <p>2. “Suggesting additions to evidence made on oath.” </p>
+         <p>3. “Not only trying but succeeding in making alterations in the evidence given by a Maori in a Court of Justice.”— </p>
+         <p>(Shall I call this a wickedly clever climax—suggesting—trying—succeeding?) </p>
+         <p>But what are the facts,— the plain unadorned and simple truth? </p>
+         <p>1. That the defendant’s attorney (Mr. Allen<note xml:id="ftn14" place="foot" n="14"> WC: A gentleman who has only been a few months in the Colony, and who consequently knows very little of the Maoris and less of their language. </note>), at the commencement of his cross-examination of the plaintiff Te Moana-nui, had more than once charged the Interpreter to the Court (Mr. Grindell) with holding a conversation with the plaintiff in the Maori language. (Forgetting that the defendant (John Blane) was standing between him and Te Moana-nui, and that he (Mr. Allen) had himself just said that “the defendant well-knew the Maori tongue.”) </p>
+         <p>2. That the Bench decided, the defendant’s attorney should propose his cross-examination questions to the Bench for their approval, prior to their being put to the plaintiff by the Interpreter of the Court. </p>
+         <p>3. That owing to Mr. Grindell the Interpreter being also Clerk to the Court he had a very heavy duty to perform, which I may truly call a 7-fold one, <hi rend="italic">viz</hi>:— 	<lb/>I. To attend to a question put by the defendant’s attorney, often deep subtle, and peculiar, and very difficult to be rendered in the Maori language, and then to its modification by the Bench. 	<lb/>II. To write such down. 	<lb/>III. To put such in the Maori tongue. 	<lb/>IV. To hear and obtain Te Moananui’s answer. 	<lb/>V. To translate orally and off-hand the same to the Bench.	<lb/>VI. To write the answers (translated) in the Court books. <lb/>VII. To read it,<hi rend="italic">as written</hi>, to the Court. </p>
+         <p>4. That I, being in the Court, and holding the office of Interpreter to the Provincial Government,) was asked by the Bench, whether the charge made by the defendant’s attorney against the Court Interpreter was correct; and was also requested by the Bench to watch the case on behalf of all parties. </p>
+         <p>So much for the charge of “Interfering.” </p>
+         <p>Further: touching my “suggesting additions.” All the suggestions I recollect having made, were three; one to the defendant’s attorney, one to the Interpreter, and one to the Bench. (1.) The defendant’s attorney put,— “Have you ever had any transactions with the defendant?”—On this (and merely in order to save time and any further <hi rend="italic">strong</hi> remarks from that gentleman to the Interpreter, and to make it plain to the Maori,) I suggested, that it would be requisite to define the “transactions,” so as to be by the Maori understood. (2.) The Interpreter had used the words. “<hi rend="italic">rironga mai</hi>” (good and pure Maori,) two or three times to Te Moana-nui, who, however, did not seem clearly to comprehend them; when I suggested (to the Interpreter,) “<hi rend="italic">hamaitanga</hi>” (a word of similar meaning) to be used instead. (3.) On the word “<hi rend="italic">kite</hi>” being used (as commonly) for to see, I remarked (to the Bench), that that word also meant <hi rend="italic">to know, to understand, to beware of,</hi> &amp;c.,—and, that the plaintiff, from his answers and remarks, had so understood it. </p>
+         <p>I scarcely need add, that I never once spoke to Te Moana-nui during the many hours the examination lasted. </p>
+         <p>So much for my “Suggesting additions.” </p>
+         <p>As to the charge of my “not only trying but succeeding in making alterations in that evidence,”—this is soon disposed of. </p>
+         <p>I have already shewn how closely and heavily the Court Interpreter was engaged, and that, too, while he knew the Court was waiting for him! </p>
+         <p>On two occasions only (as far as I recollect), after he had read his <hi rend="italic">written</hi> answers, did I remind him, that he had omitted writing a small portion; at one time, <hi rend="italic">one</hi> word; at another, a short sentence of <hi rend="italic">four</hi> words. <hi rend="italic">Which words he had himself rendered in English to the Court when first giving his oral translation!</hi>
+         </p>
+         <p>So much for my “making alterations in Sworn Evidence”!!! </p>
+         <p>Let any one ask the defendant (John Blane), who heard all that I said, and who knew all the Maori language spoken in Court, whether I had dared to act as Mr. Sincerity had dared to say I did?</p>
+         <p>Had I not, Mr. Editor, already taken up so very much of your valuable paper, I should like to say a few concluding words to this Mr. Sincerity: but, as it is, I will merely call his attention to my letter in your last issue,— “that a man is in common justice bound to ascertain the truth of a charge before he makes it.” And so I leave him to his own sincere and unenviable musings, and to the fair judgment of your many readers. </p>
+         <p>			I am, Sir, yours &amp;c.,</p>
+         <p>
+            <hi rend="smallcaps">W. Colenso</hi>. </p>
+         <p> Napier,  October 29, 1860.</p>
+         <p>P.S.— In your next, and with your permission, I intend giving an illustration of Maori examination in a Court of Law.<note xml:id="ftn15" place="foot" n="15"> He didn’t—<hi rend="italic">Ed.</hi>
+            </note>
+         </p>
+      </body>
+   </text>
+</TEI>

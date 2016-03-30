@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0745">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1890 August 19: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-1.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1890-08-19">1890 August 19</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1890 August 19: to Harding<note xml:id="ftn3-478" place="foot" n="478"> ATL MS-Copy-Micro-0485-1.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Tuesday 19<hi rend="sup ">th</hi>.</p>
+         <p>Dear Mr Harding</p>
+         <p>Here am I already writing to you! Last nt. or rather this mg. a <hi rend="italic">long</hi> &amp; repeated dream of <hi rend="italic">you</hi>—&amp; your merciless legal examiner Lascelles!!—You (at first) suffered so much under his fire—that you fainted in Ct., was carried out &amp; brought back to witness box; long &amp; wearisome it was: the audience even disapproving, &amp; the Judge repeatedly remonstrating—the cause, <hi rend="underline italic">myself</hi>! though <hi rend="italic">what for</hi>? I don’t know. You gave L. some ugly hits, which <hi rend="italic">told</hi>, but which made him <hi rend="italic">furious</hi>. No doubt all that arose from this trial, or hearing, repeated by you in this green book!—It was a scene, &amp; a <hi rend="underline italic">hearing</hi>!!—</p>
+         <p>But I should not write to you now about that <hi rend="italic">long</hi> &amp; strange dream had I not forgotten last night to pay you the enclosed: &amp; this I may say was owing to your refusal to take 10/- for 2 c. “Typo”, 1892:—for, before you came, I had determined to draw Chq. for ₤2. &amp; to pay you all (3) together. This is for 1 dozen portraits, recd., &amp; also for 3 copies of that Commission hearing. ₤1. + 9/- = ₤1.9.0.—–</p>
+         <p>I <hi rend="italic">may </hi>return from Dvk. before you leave N., &amp; if so you shall hear from <hi rend="italic">&amp; see</hi> me: but if you should leave &amp; I still in Bush, just let me know <hi rend="italic">in time</hi>, of your day for passing through &amp; I will meet you—there or somewhere. I find my <hi rend="italic">last </hi>vol. of J. White, from Didsbury, is vol. V. Dinna forget “Appx to 1861”—if with you.</p>
+         <p>Yours ever,  W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

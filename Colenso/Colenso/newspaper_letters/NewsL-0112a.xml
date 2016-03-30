@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0112a">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1883 Mr Colenso and the Auckland Weekly News. Daily Telegraph 13 July</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1883-07-13">1883 July 13</date>
+          <publisher>
+            <name type="organisation">Daily Telegraph</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1883-06-22">1883 June 22</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p><hi rend="bold">1883 Mr Colenso and the Auckland Weekly News.<lb/>
+      <hi rend="italic">Daily Telegraph</hi> 13 July</hi></p>
+    </front>
+    <body>
+      <p><hi rend="smallcaps">Sir</hi>,—Will you kindly find room in your columns for the accompanying letter ( written by me 3 weeks back to the Editor of the Auckland Weekly News; but which, it seems, he will not do me the scant justice of publishing in his paper,—or noticing in any kind of way. </p>
+      <p>I should not greatly care to trouble you in this matter, were it not, (1) that the Auckland Weekly News has several subscribers here in this District, (indeed, one of them has kindly brought the discourteous sentence complained of to my notice,) and, (2) that this is not the first unjust remark of the kind that has appeared in that news paper respecting my papers published in the annual volumes of the “Transactions, N.Z. Institute”; neither is this my first letter of complaint to the Editor of that paper of such matters,—but all, apparently, alike written by me in vain. As an old original subscriber to the Auckland Weekly News,—one who, when in 1803 as a member of the House, gladly assisted in launching the craft,—the treatment I have received from its Editor is, to say the least of it, both unbusinesslike and ungenerous. —</p>
+      <p>I am, &amp;c, </p>
+      <p><hi rend="smallcaps">William Colenso.</hi></p>
+      <p>Napier, July 13, 1883. </p>
+      <p>[To the Editor of the “Auckland Weekly News,” Auckland.]</p>
+      <p><hi rend="smallcaps">Sir</hi>,—In a review of the <hi rend="italic">Transactions N.Z. Institute</hi>, vol. XV.,  given in your paper of June 16th., you have the following sentence respecting my 3 Botanical papers published in that work:—</p>
+      <p>“W. Colenso contributes lengthy descriptions of supposed new ferns and flowering plants, some of which have been described by other authors.” </p>
+      <p>Of course, it is not to be expected that the Editor of a paper, or the Reviewer of such a scientific work as this should be fully acquainted with the technicalities it contains; but this statement of yours is far too sweeping to be quietly passed over. Having, perhaps, the largest Botanical library of any private person in the colony,—time at my command,—good health,—love and zeal in the pursuit of my favourite science,—and, possibly, some knowledge of our Botany; I will thank you to point out <hi rend="italic">those plants</hi>, (discovered and lately described by me in the said volume of “Transactions,”) <hi rend="italic">which</hi>, you say, “<hi rend="italic">have</hi>
+      <hi rend="italic">been described by other authors</hi>.” For their sake, as well as my own, I make this request, that I may be enabled to make them full reparation.—Yours truly, </p>
+      <p rend="end">WILLIAM COLENSO. <lb/>Napier, June 22nd., 1883.</p>
+    </body>
+  </text>
+</TEI>

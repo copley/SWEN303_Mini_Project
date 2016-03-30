@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0149">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1889 The Crown of Thorns. Hawke’s Bay Herald 1 July.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1889-07-01">1889 July 1</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1889 The Crown of Thorns.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald </hi>
+                  <hi rend="bold">1 July.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—I have been a wee bit amused this dull wet morning in reading in your paper of this day your notice of “The Crown of Thorns.” That is to say,—of “the cheek” of that correspondent to an American paper; who goes on to relate an “incident,” which (he says) took place when he and his party were lately travelling in the Holy Land. As if such a discovery of that thorny plant, and its probable use, were only then made for the first time! On the contrary, the plant itself has been well known, often desribed, and commonly received as having furnished that especial wreath, for about 140 years.</p>
+         <p>It was discovered by Hasselguist, a distinguished Swedish Botanist and pupil of Linnæus, while travelling in Syria and Palestine in 1750 for the purpose of Botany. He died a martyr to science in those burning deserts, in 1752, at the early age of 30.</p>
+         <p>Indeed, there are two shrubby thorny plants there indigenous to that country, and both common; either might have served for that especial purpose.</p>
+         <p>1. <hi rend="italic">Paliurus aculcatus</hi>, Lam.,(<hi rend="italic">Rhamnus paliurus</hi>, Linn.) This is supposed by many to be the plant from which the crown of thorns was composed; and from the pliability of its long slender branches, it seems highly probable. Its fruit has a very singular appearance, resembling a head with a broad-brimrned hat on,—the French call the shrub <hi rend="italic">Porte-chapeau</hi>. Fifty years ago it grew in my garden in the Bay of Islands, and on my coming hither to reside in 1844, I brought away cuttings which grew well until killed (with many others) by a deep deposit of mud left on the ground from a very severe flood in 1845.</p>
+         <p>2. <hi rend="italic">Zizyphus spina-Christi</hi>, Willd., (<hi rend="italic">Rhamnus spina-Christi</hi>, Linn.) Hasselquist says of this plant,— “In all probability, this is the tree which afforded the crown of thorns put upon the head of Christ. It grows very common in the East. This plant is very fit for the purpose, for it has many small and sharp spines which are well adapted to give pain: the crown might be easily made of these soft, round and pliant branches; and what in my opinion seems the greater proof is that the leaves very much resemble those of ivy, as they are of a very deep glossy green. Perhaps the enemies of Christ would have a plant somewhat resembling that with which emperors and generals were crowned, that there might be a calumny even in the punishment.” No doubt, Linnæus agreed with him, and hence gave the plant its trivial name, “<hi rend="italic">spina-Christi</hi>”—Christ’s thorn, which it still bears; but notwithstanding that, the former one, <hi rend="italic">Paliurus</hi> 
+                  <hi rend="italic">aculcatus, </hi>is now generally lelieved to have been the plant.</p>
+         <p>Dean Alford in his Greek Testament, in his brief note on the Crown of thorns, (Matt. 27, 29,) seems to confuse several plants, which, as he truly says, were unfit for the purpose. Those remarks, however, of the Dean’s, are good,— “It does not appear the purpose of the Crown was to wound, or simply for mockery—and equally uncertain is it, of what kind of thorns it was composed.” And,— “some <hi rend="italic">flexile</hi> shrub or plant must be understood”:—unfortnnately, adding,— “possibly some variety of the cactus or prickly pear.” (!!!) Whereas the Cactus family are inhabitants of tropical S. America and found nowhere else. The Dean was a better theologian, or, rather, Grecian than a Botanist and Scientist. I should, however, mention that other theological writers before him had made the same mistake. Dr. Clarke, for instance, findiug the <hi rend="italic">Cactus</hi> (Opuntia) <hi rend="italic">Ficus Indicus</hi> common in Syria and Palestine imagined it was indigenous there, and so has a good deal to say about it. But the Cactus never was known until after the discovery of America, when the Spanish, Dutch, and other traders, having failed in bringing the valuable Cochineal plant into their settlements in the Mediterranean, and the Cape of Good Hope, introduced the thorny <hi rend="italic">Cactus Ficus Indicus</hi>, in the vain hope that the Cochineal insect would feed upon it. Finding a congenial climate the Cactus took possession of the soil, and passes for indigenous.—I am, &amp;c.,</p>
+         <p>
+                  <hi rend="smallcaps">					William Colenso.</hi>
+               </p>
+         <p> Napier, June 27, 1889.</p>
+      </body>
+   </text>
+</TEI>

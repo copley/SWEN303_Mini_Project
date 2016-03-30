@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0900">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1894 June 3: to Mortensen</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MTG HB m84/20, 57802.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75270/">Mortensen</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1894-06-03">1894 June 3</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1894 June 3: to Mortensen<note xml:id="ftn3-686" place="foot" n="686"> MTG HB m84/20, 57802.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke<lb/>Sunday night,<lb/>June 3, 1894.</p>
+         <p>Dear Hans Mortensen</p>
+         <p>This is, I believe, <hi rend="italic">my last night here</hi>, and as I have been having you and Axel and the rest of your family and people much in my mind of late, I have thought it better to write you a few lines—I have been grieving much over my <hi rend="italic">not having been well able to see you at Norsewood</hi>, being very desirous of doing so; and what has made if <hi rend="italic">all the worse </hi>with me, has been the thought, that you (all) have been of opinion that <hi rend="italic">I could have gone to Norsewood </hi>to see you,—had I a heart to do so.</p>
+         <p>After our meeting here in the road a few days ago, I was taken very bad, obliged to see the Doctor, and stay in bed, and take medicine. I am now pretty well again, and have suffered <hi rend="italic">very little </hi>of late from Rheumatism.</p>
+         <p>I hope you and yours are all well. I intend going to the Hospital at Waipukurau on Tuesday next, to see Charlie, if the weather should suit on that day.</p>
+         <p>As to the pumpkins, I think I must leave them: I found that my man had raised a few in my garden, this year, and they are plentiful at Napier, also here, and at Woodville.</p>
+         <p>Having been so long absent, I shall have plenty writing to do on my return to Napier, but I will write to you again some day. </p>
+         <p>Kind regards to all: Goodbye. </p>
+         <p>God bless you, </p>
+         <p>Yours truly, </p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

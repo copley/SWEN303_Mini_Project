@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0135">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1853 December 12: to McLean</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Object #1018317 from MS-Papers-0032-0221.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1853-12-12">1853 December 12</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1853 December 12: to McLean<note xml:id="ftn2-24" place="foot" n="24">ATL Object #1018317 from MS-Papers-0032-0221.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Eparima</p>
+         <p rend="end">Decr. 21, 1853</p>
+         <p>D. McLean, Esq.,</p>
+         <p>My dear Sir,</p>
+         <p>You will almost be surprised to receive a note from me from <hi rend="italic">this </hi>place, and in <hi rend="italic">pencil</hi> too! But, the fact is―I came here yesterday with only <hi rend="italic">one </hi>Native by way of the Coast, (by which route I intend returning to Waitangi on Monday next,) looking out for a piece of ground as a residence. ―</p>
+         <p>I have at length concluded to purchase 3 or 4 spots―if all such are still open. Some, I should suppose, must be so―as the Land is not yet purchased by you. ―</p>
+         <p>The places I have selected are as follows: </p>
+         <p>100 acres at Ouepoto, commencing from S. Headland:</p>
+         <p>60 acres at Pohatupapa (where, however, there are <hi rend="italic">not</hi> 25 a. of level ground):</p>
+         <p>240 (say) at Porangahau; from above the <hi rend="italic">pa </hi>(N. Bank) to Pipitawai (the old village). The River, the S. &amp; SW boundaries, the hills on W. &amp; N. sides; &amp;, on reaching the E. termination of S. spur of hills, thence, in a straight line, across the swamp to Pipitawai. (see enclosed sketch)</p>
+         <p>60 acres of forest Land at Eparima</p>
+         <p>___</p>
+         <p>
+            <hi rend="underline">460</hi> acres</p>
+         <p>The last is conditional―i.e. at present. But I have no doubt whatever that <hi rend="underline italic">I</hi> shall succeed in getting the Natives to sell you some forest land, upon the promise of my coming into their neighbourhood.</p>
+         <p>Ouepoto I like best of all <hi rend="italic">for a residence</hi>; but there is no wood, &amp; disagreeable neighbours.</p>
+         <p>Pohatupapa, I secure chiefly for the little wood, which is also so easy of access from Ouepoto.</p>
+         <p>Porangahau―I take nearly <hi rend="italic">all</hi> the flat (marshy though it be in winter and spring, as I have often <hi rend="italic">proved</hi>). The River is said to be the boundary, but I shall endeavor to get the natives to sell you the two dotted peninsulas, which will soon be islets, and which (if I get them) I shall make to be such; as, in so doing, it will wonderfully ease their village, &amp; all the neighbouring banks, in time of waipukes.</p>
+         <p>You will therefore see that I have selected 460 acres! = £230. ―which money I shall be ready to pay in Cash, either at Wellington, or here: but (I suppose) that the two last mentioned spots (300 acres) would not have to be paid for until you have purchased. ―</p>
+         <p>Now if you can aid me in any way towards acquiring immediate legal right to those spots you will confer an obligation. I need some one to act <hi rend="underline italic">promptly</hi> for me in the matter. You may….<hi rend="italic">[page(s) missing]</hi>
+            <note xml:id="ftn2-25" place="foot" n="25">As his next letter to Elizabeth shows, he failed to secure these coastal “spots”.</note>
+         </p>
+      </body>
+   </text>
+</TEI>

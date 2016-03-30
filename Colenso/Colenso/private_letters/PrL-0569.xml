@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0569">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1884 July 27: to Lund</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Papers-0031-51.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/74379/">Lund</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1884-07-27">1884 July 27</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1884 July 27: to Lund<note xml:id="ftn3-249" place="foot" n="249"> ATL MS-Papers-0031-51.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>July 27/84</p>
+         <p>Mr. H. Lund</p>
+         <p>Dear Sir</p>
+         <p>Yesterday, young <hi rend="italic">Alpers</hi> brought me your letter of the 23<hi rend="sup ">rd</hi>. As you had requested—I gave him the name of the specimen of fern you had enclosed, (<hi rend="italic">Polypodium rupestre</hi>),—you also ask for “the name of <hi rend="italic">the Fern tree</hi>”,—but which <hi rend="italic">one</hi> of them is it that you mean? seeing there are 8 or 9 of them.—Alpers could not tell me: so this must stand over.—</p>
+         <p>I was sorry to hear of your having been so unwell, &amp; can only hope the worst is <hi rend="italic">past</hi>—our winter, too, drawing towards its close.</p>
+         <p>I hope you may yet find the fruit of that Lance-wood tree: where the young ones are plentifully—<hi rend="italic">there the old trees are</hi>:—it grows to about 15­–20 feet, straight stem, bark chanelled, &amp; branches at top, and the leaves of the old trees are not ⅓ size (length) of the young ones.—But do not run any risks (wetting, cold, &amp;c.) in looking after it. I wrote a note to Rees Watkins, to ask him, simply to enquire after those seeds,—supposing that you might have sent them to me by some <hi rend="italic">private</hi> hand (the worst of all means!) and so they had gone astray: but now from your note I know all about them.</p>
+         <p>I shall hope to be in your neighbourhood (weather permitting) by the end of August—to spend a few days: you may mention this to Birnie, &amp; to Baddeley, if you know them, &amp; should see them.—</p>
+         <p>I am pleased to find that you have secured some good spns. of ferns, and wish you all success in that pursuit.</p>
+         <p>I was <hi rend="underline italic">very busy</hi> when Alpers called (as indeed <hi rend="italic">he saw</hi>), and so had no time to have much talk with him. I shall always be glad to hear from you.</p>
+         <p>And am, Yours truly,</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0934">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1895 May 3: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0498.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1895-05-03">1895 May 3</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1895 May 3: to Harding<note xml:id="ftn3-737" place="foot" n="737"> ATL qMS-0498.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Davis’s Hotel<lb/>Makotuku.<lb/>May 3<hi rend="sup ">rd</hi>. 1895</p>
+         <p>Dear Mr Harding,</p>
+         <p>Your kind letter of 28<hi rend="sup ">th</hi> Apl. reached me <hi rend="italic">late </hi>on night of 28<hi rend="sup ">th</hi>. and I, leaving N. <hi rend="italic">next mg</hi>., brought it on w. me to this place—here I read it,—with others, including Eng. Mail to hand same time. <hi rend="italic">Imprimis</hi>: you astonish me! in saying my <hi rend="italic">last </hi>to you (luckily <hi rend="underline italic">unansd</hi>.) was dated 29<hi rend="sup ">th</hi>
+            <hi rend="underline italic">March</hi>!!! I could scarcely believe it, but you are correct! to think of a whole month passing &amp; <hi rend="italic">no letter </hi>from me. And there were many items of a little interest to write about during that <hi rend="italic">long </hi>interval. Your graphic remarks on <hi rend="italic">weather</hi>, &amp;c, <hi rend="italic">Easter Day</hi> will also suit for <hi rend="italic">it here</hi>: our rain, &amp;c began on Thursday night: I went to Cathl. S. Sy. mg. (a <hi rend="underline italic">lull</hi>, which deceived me) I came back ½ drowned as I had gone without cloak or umbrella. It was really a saddening sight to see at close of ordinary Mg. S., the <hi rend="italic">crowds </hi>of wom. girl childn &amp; some men in the 3 entrances (&amp; in body of building) not daring to go out in the downpour, but go they must! &amp; did at last: I, in my returning (1 hour after) stood <hi rend="italic">in </hi>porch, or under portico, of Theatre Royal, to draw breath, &amp; to drip, ere I began the ascent before me.—And again, on 28<hi rend="sup ">th</hi> (date of yr. L.) &amp; for 2 days before, <hi rend="italic">heavy </hi>rains &amp; <hi rend="italic">gale </hi>prevailed: Monday doubtful: Tuesday 30<hi rend="sup ">th</hi>. <hi rend="underline italic">very fine</hi>, atmosphere beautifully clear, Ruahine w. her snowy mantle looking charming, and also Ruapehu &amp; range remarkably well defined, wholly covd. w. snow. May 1, fine: 2<hi rend="sup ">nd</hi> wet (showery) 3<hi rend="sup ">rd</hi> this day, rain: I go on <hi rend="italic">to Dvk. </hi>to day &amp; tomorrow <hi rend="italic">to Wdv. </hi>
+            <hi rend="underline italic">No</hi>
+            <hi rend="italic"> </hi>Ch. work, only <hi rend="italic">last</hi> autumnal visit. May 1, <hi rend="italic">all </hi>day at Norsewood, seeing my old Scandin. friends, &amp; spent a <hi rend="italic">most pleasant </hi>day! truly <hi rend="italic">red. l.</hi> one, got back by vi.15: and that night from <hi rend="italic">vii.30–till xii, spent here w. Lund, ditto ditto</hi> w. L. on the <hi rend="italic">Tuesday</hi> nt. (this had been fixed, a month before) I brought w. me, Camden’s “Brittania” (big. fol. from Motil. Liby., borrowing from, or <hi rend="italic">thro</hi>, D. Hony. Secy.) on account of its many <hi rend="italic">tables</hi> of Brit. &amp; Sax. Coins, also a <hi rend="italic">bulky 4to.</hi>—<hi rend="italic">own </hi>pubd. by Socy. Antiquaries, containing <hi rend="italic">hundreds </hi>of Brit. &amp; Saxon Coins—well-engraved copper-plates: some (few) of these L. possesses: &amp; also a 12mo., <hi rend="italic">scores </hi>of mod. coins of XVIIth. &amp; XVIIIth. cents., <hi rend="italic">this </hi>vol. I had brought <hi rend="italic">w. me</hi> from Engd.!! I gave L. my 4to., which pleased him much; I spent a most enjoyable time w. L., here in my private parlour warm, draught<hi rend="italic">less</hi>, &amp; cosy: in many respects my time w. him <hi rend="italic">here </hi>served to remind me of hours with you. And I go on by <hi rend="italic">goods train </hi>at noon to Dvk. You write of weddings: well, I suppose you will have heard of the Waipawa <hi rend="italic">one</hi> (the yg. pair born &amp; brought up there) Rathbone’s son &amp; Harry Baker’s daughter. For years I have been declaiming agt. that portion of our Ry. thro’ Gorge, or, rather, the Bozotian stupidity of the creature who planned &amp; <hi rend="italic">executed</hi> it—in <hi rend="italic">destroying by fire &amp; </hi>“<hi rend="italic">blazing</hi>” the old settled vegetation of the ravine’s mountain side—that, allowed to remain <hi rend="italic">in naturalibus </hi>would have, in a very great measure, <hi rend="italic">prevented slips</hi>:—it is a curious fact, that I, at an <hi rend="italic">early </hi>date, (’40’s.) wrote to Featherstone as <hi rend="italic">our </hi>Govr.—warning!! not, of course for <hi rend="italic">Raily. </hi>roads, but<hi rend="italic"> mail</hi> coach ones. The sooner the Gorge line is abandoned the better, I should not like to go through it, <hi rend="italic">shortly after </hi>heavy rains.</p>
+         <p>
+            <hi rend="italic">Friday 7</hi>
+            <hi rend="sup italic">th</hi>
+            <hi rend="italic">. </hi>Weather again glorious! Early this mg.<hi rend="italic"> </hi>I called on Bp. Williams, spent 10 m. w. him: well &amp; chatty;—will be moving inland, S., shortly.—A large sale by auction of books at Lyndon’s this night (8 o’clock) several good ones among them—both old &amp; new.—Met with several of <hi rend="italic">our </hi>friends in town this day, among them, Craig, Sidey, Patterson, Hill (returned), W. Dinwiddie, &amp; others, all kind, &amp;c. As you truly observe, something peculiar, almost mysterious, in this case of <hi rend="italic">Laws</hi>: I cannot see him (the husband) to be quite free from blame, but where is the money? I hope your Father, Brother, &amp; others (office-bearers) may <hi rend="italic">not </hi>suffer: at all events it is a sad &amp; heavy loss to the Society.—</p>
+         <p>I recd. today, from Dinwiddie my “Author’s Copies”—of <hi rend="underline italic">part</hi> only of my Papers—just what I had expected, and now I almost vow to write no more of “reminiscences”; Hill is “wroth”; the Committee <hi rend="italic">may </hi>take it up; the Dean, also, is much vexed:—One item that serves to blow up the fire, is the fact (as observed by Dinwiddie, &amp; <hi rend="italic">shown </hi>to us), that Taylor White’s <hi rend="underline italic">additional rubbish</hi>—on Maori Rat and the aliases of the <hi rend="italic">Moa </hi>(<hi rend="underline italic">many birds</hi>!)<hi rend="italic">—not read, </hi>even, here, have been published!! Hill will do his best at the next meeting (10<hi rend="sup ">th</hi>.) His eldest son, at Wilson &amp; Cotterill’s, <hi rend="italic">came of age</hi> last mo., I suppose you know him. Hill is looking <hi rend="italic">much </hi>better: came down to write—but finds he has <hi rend="italic">no office</hi>! (<hi rend="italic">i.e.</hi> the room in Hd. Buildings for him not yet got ready) so he had to go Home &amp; scribble there. This evg. (iv.) Mr. Burnett of Woodv. called (long-promised), and soon after <hi rend="italic">the Dean</hi>—remained till vi., a <hi rend="italic">gloriously good chat</hi>! I am pleased in knowing of your several jobs, would that they <hi rend="italic">paid </hi>
+            <hi rend="underline italic">better</hi>.—</p>
+         <p>Now I must close, thumb painful.</p>
+         <p>Kindest regards to <hi rend="italic">all </hi>of <hi rend="italic">your </hi>clan.</p>
+         <p>And believe me yours faithfully</p>
+         <p>                                                   W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

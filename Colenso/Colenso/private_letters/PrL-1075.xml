@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1075">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1899 January 20: to Ethel Florance</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Puke Ariki, New Plymouth, accession number ARC2005-335.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/74086/">Ethel Florance</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1899-01-20">1899 January 20</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1899 January 20: to Ethel Florance<note xml:id="ftn3-940" place="foot" n="940">Puke Ariki, New Plymouth, accession number ARC2005-335.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Waipukurau, Jany. 20<hi rend="sup">th</hi>
+            <lb/>1899.</p>
+         <p>My dear Ethel</p>
+         <p>(I trust you will fully forgive me, If, in addressing you again in my <hi rend="italic">old old way before</hi> you ever left your parental Home at Woodville) I have done so too freely: this, too, it <hi rend="italic">may</hi> be, my <hi rend="italic">last</hi> open &amp; friendly note to you.) Your very kind letter to me—from your own true self, as always of old,—from Christchurch dated Decr. 28, duly reached me, &amp; I thanked you heartily for it. I fancied I followed you, from Jany. 1<hi rend="sup">st</hi>., looking on the map, &amp; calculating your daily progress, &amp; not forgetting you in my prayers: looking, also, at the photo. your Brother sent me, of their House &amp; dog, &amp; themselves (3), &amp; <hi rend="italic">fancying </hi>your <hi rend="underline italic">reception</hi>! And I leave you to guess—how delighted I was, to find in Edgar’s letter to me of your <hi rend="italic">safe arrival</hi>; I must quote your dear Brother’s words:— “Ethel arrived safely &amp; got here on Tuesday, a little bit shaky from her voyage, but is now as lively as a cricket…. My pony Zoe knew Ethel again, and Jock the dog made friends directly.”—(There is <hi rend="italic">no date</hi> to this concluding part of Edgar’s letter—the <hi rend="italic">beginning</hi> was written on “19<hi rend="sup">th</hi>. December”.) There has been a Mail to the Chathams since, but I (or we, at Napier) only knew of it on <hi rend="italic">the day before</hi> the Mail was to be made up at Lyttleton, so I had <hi rend="italic">no </hi>chance of writing to you (all): and so, again, this last or presently leaving Mail, only a few hours notice given here.</p>
+         <p>I know well you must have enjoyed your visit—I trust you will be able to come <hi rend="italic">away </hi>trusting <hi rend="smallcaps">God</hi> for a future happy meeting: I can however just fancy one item of sadness, your dear Mother not enjoying good health, (as per both your Father’s &amp; brother’s letters) but she may have recovered before you leave. I see by Dr. Sidey’s advertisement in paper today, that your School re-opens on 7<hi rend="sup">th</hi>. Feby., so, I suppose you may have but a <hi rend="italic">short</hi> stay at Christchurch, and so I write you this note to greet you on your arrival.</p>
+         <p>I thank you for sending me my scrapnote to you of Decr. 5<hi rend="sup">th</hi>.—to show me my little mistake as to my having, also, informed <hi rend="italic">you</hi> of my visit to the H. Sch. on Monday, if I failed to do so on the Thursday; <hi rend="italic">so far</hi> you were quite right, dear Ethel; but I am <hi rend="italic">certain</hi> I told Miss Matthews, that, if (owing to weather on that wet week) I did <hi rend="italic">not</hi> visit on Thursday, <hi rend="italic">I should on the Monday</hi>, for I recalled well why I did not say, on <hi rend="italic">the next day—Friday</hi>: because Miss Matthews had told me, that the <hi rend="italic">Friday</hi> was a <hi rend="italic">non</hi>-visiting day. I am sorry, very sorry, my dear young friend, that I consider myself obliged, <hi rend="italic">driven</hi>, to hold to my determination—<hi rend="italic">not</hi> to visit you again at the H. Sch., unles in case of <hi rend="italic">serious illness</hi>, which, <hi rend="smallcaps">God</hi> grant, may never occur. I can not write any more, at present, on this distressing, distasteful subject. I write early to you at XtChurch, hoping you may have time to write to me openly &amp; fully, as of old.</p>
+         <p>I came hither on the 12<hi rend="sup">th</hi>.—to go to Ormondville to take the Ch. Service for Mr. Wills, who is gone to Nelson: I went there on Saturday 14<hi rend="sup">th</hi>., staid at Vicarage, was very kindly received by Mrs. W. who is a nice lady, and a specially clever painter in water colours, both of landscapes, and our indigenous Maori flowers—she has two albums filled with them while her lovely N.Z. sketches, in frames &amp; glazed, decorate all her rooms: I am sure you would be delighted to see them: the Sunday unfortunately was a rainy day, yet I managed to hold the two Ch. Services; returning hither on the Monday: on Tuesday I went over to Waipawa, &amp; shall go back to Napier tomorrow—Saturday.</p>
+         <p>Edgar—dear loving fellow! (bearing in mind <hi rend="italic">our</hi> old loving meetings—all 3 of us!) says, “Won’t Ethel have such a lot to tell you, when you meet.” Alas! <hi rend="italic">when</hi> may that be?</p>
+         <p>Yesterday I had a long letter from Mr. Burnett—he had been <hi rend="italic">very ill</hi> laid up some weeks with sciatica, obliged, at last, to go to Nelson to the salt water baths there, and is now returned to Woodville: Mrs Burnett had gone to Nelson. Mr. Eccles, too, had been very ill, so that Mr. Bolton took Church Services. Should you come to Woodville on your way back, which I don’t expect, you may see some of your <hi rend="italic">old </hi>friends there. Good bye, <hi rend="italic">dear Ethel</hi>, so kind to <hi rend="italic">me</hi>—in my distress. May our Heavenly Father ever preserve you.</p>
+         <p>With kind regards, Yours sincerely</p>
+         <p>12 x 12 + 144.                   W. Colenso</p>
+         <p>P.S. I haven’t your <hi rend="italic">exact</hi> address here with me—it was in your former letter: I hope this may find you.</p>
+         <p>P.S. Please remember me very kindly to your dear aged Grandmother.</p>
+      </body>
+   </text>
+</TEI>

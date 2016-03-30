@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0054">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1864 Macaulay’s New Zealander on London Bridge. Hawke’s Bay Times 13 May.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1864-05-13">1864 May 13</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Times</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1864 </hi>
+            <hi rend="bold">Macaulay’s New Zealander on London Bridge.</hi>
+            <hi rend="bold">
+               <lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Times</hi>
+            <hi rend="bold"> 13 May.</hi>
+         </p>
+      </front>
+      <body>
+         <p>[Having also republished, in our issue for ( ) the quotation alluded to below by Mr. Colenso, we now copy his letter from the New Zealander of March 26th.—<hi rend="italic">Ed. H. B. T.</hi>]</p>
+         <p>To the Editor of the <hi rend="italic">New Zealander</hi>.</p>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—In your issue of the 18th ultimo, you have the following quotation from a London paper:— “<hi rend="smallcaps">A Drop of Comfort</hi>.—There is just one consolation arising out of this now old New Zealand war. If we abolish the New Zealanders, we shall abolish that eternal fellow of Lord Macaulay’s creation, who, on the average, finishes three hundred and sixty-five leading articles every year. If there <hi rend="italic">is</hi> no New Zealander, he can’t well come and sit on the broken arch of London bridge, and sketch the ruined Cathedral.”</p>
+         <p>Of course, we have all heard over and over the quotation from Lord Macaulay, but I very much question its “creation” by him. Lord Macaulay was certainly not the author—the originator of that idea. I confess I have often marvelled at no one of the many critics and scholars connected with the press in England having long ago pointed out the source whence, in all probability, Macaulay derived it. That Macaulny was a very extensive reader, and possessed a very retentive memory, his works everywhere show. And while it is scarcely fair to charge such a man with being a plagiarist (at all events, certainly not a wilful one), one cannot forget how in his celebrated Essays he has severely lashed some of those authors whom he was reviewing for the crime of plagiarism. I doubt, however, whether Macaulay himself intended the short sentence now under consideration in any other light as a referential one. His own words, “when <hi rend="italic">some traveller </hi>from New Zealand,” would almost lead to such a conclusion. However, sir, I will just give you the quotation at length, which I believe to have been the origin of the idea with Macaulay, and which will be found in pp. 6 and 7 of the translator’s preface to La Billardiere’s celebrated voyage in search of La Perouse, (Stockdale’s quarto edition, London, <hi rend="smallcaps">a.d.</hi> 1800.)—a. work which it is almost certain Lord Macaulay must not only have read, but have read with great pleasure:— </p>
+         <p>“Having mentioned providence, a word not very comnon in some of our modern voyages, we are tempted to add a consideration which has often occurred to our minds, in contemplating the probable issue of the zeal for discovering and corresponding with distant regions, which has long animated the maritime powers of Europe. Without obtruding our own sentiments on the reader, we may be permitted to ask whether appearances do not justify a conjecture that the Great Arbiter of the destinies of nations may render that zeal subservient to the moral and intellectual not to say the religious, improvement, and the consequent happiness of our whole species? Or, whether, as has hitherto generally happened, the advantages of civilisation may not, in the progress of events, be transferred from the Europeans, who have too little prized them to those remote countries which they have been so diligently exploring? If so, the period may arrive when New Zealand may produce her Lockes, her Newtons, and Mentesquieus; and when great nations in the immense region of New Holland, may send their navigators, philosophers, and antiquaries to contemplate the ruins of <hi rend="italic">ancient*</hi> London and Paris, and to trace the languid remains of the arts and sciences in this quarter of the globe.”</p>
+         <p>If my conjecture be correct, and if such have not been already publicly noticed, it is rather a curious coincidence that it should be first publicly pointed out in New Zealand, and that, too, in the columns of the “<hi rend="smallcaps">New Zealander</hi>” newspaper.</p>
+         <p>In conclusion, sir, it may not be altogether amiss to give also the quotation from Macaulay (so often referred to) in his own words.</p>
+         <p>Speaking rhetorically of the Roman Catholic Church, Macaulay says:—</p>
+         <p>“And she may still exist in undiminished rigour when some traveller from New Zealand shall, in the midst of a vast solitude, take his stand on a broken arch of London bridge, to sketch the ruins of St. Paul’s.” (Essay on “Ranke’s History of the Popes,” vol. 2.)</p>
+         <p>			I am, sir,</p>
+         <p>				Yours very truly,</p>
+         <p>					W.<hi rend="smallcaps">Colenso</hi>.</p>
+         <p> Napier, March 5, 1864.</p>
+         <p>* This word is italicised in the preface.—W.C.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0007">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1837 November 10: Octavius to Octavia Hadfield</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 14)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 18.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1837-11-10">1837 November 10</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key=" http://wtap.vuw.ac.nz/eats/entity/70767/">Octavia Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1837 November 10: Octavius to Octavia Hadfield
+         </p>
+      </front>
+      <body>
+      <p>Nov. 10th. 1837.</p>
+      <p>My dear Octavia,</p>
+      <p>You will think that I ought to have written to you before as you were so kind as to mention several things in your note which you sent by that time.  But I have been so much engaged in reading that I have had no time to spare.  Be so good as to return my thanks to Mr. Mitchell for the interest which he takes in me.  I have for some time been fully acquainted with the difference between being ordained for foreign places &amp; for those at home. But you know my principles too well to think that I would go one inch out of the way which I believe the Great Jehovah has from eternity marked out for me.  I believe that I have been called to the work of the ministry of the Gospel among the Heathen.  Under this conviction I am content to follow the ordinary path of missionaries.  Ezra when warned of danger said "should such a man as I fear" &amp; I would say, "should such a man as I (wishing only to do the <hi rend="underline">will of God</hi>) make provision" - but I will not proceed. You, I dare say, have in this anticipated my line of thought.  I am to appear before the Bishop of London before Xmas for ordination; whether I shall be able to pass in proper examination I do not know.  George hopes I shall, &amp; I must hope the same.  I have hitherto, I think, had the arm of the Good Lord with me guiding me &amp; bringing about His own purposes (for I never intended to seek ordination so soon as this you know) &amp; I trust I shall have even to the end.  You must, I think, feel the need I now have of the prayers not only of those who love me but who love the Lord, that I may glorify Him.  Be earnest then, my love, when you have leisure, when you have a little time to spare, in asking of the Prayer hearing &amp; Prayer answering Jehovah, that I may be strengthened both in body &amp; soul, &amp; may work all the good pleasure of His will.  Acquainted as you are with your own heart &amp; with the Gospel of Jesus, you will not be surprised when I say that the Prince of Darkness for some months assaulted my soul with various temptations previous to my application to the C.M.S. temptations which led me to think that the Lord could never employ such a wretch as I in His glorious work, temptations that so far overcame <supplied>[me]</supplied> that you must have remarked in me when at Whitchurch &amp; when I was with you, much that was unworthy of a follower of Jesus.  But thro' the grace of Jesus I have triumphed over him.  On the whole it is to me a sign that I was about the Lord's work from which he would have dissuaded me.  You, I think, will not (tho' some might) think me a superstitious enthusiast.  I have been led more to see <supplied>[in]</supplied> the deep corruption of my heart, the effisacy of the blood of Jesus &amp; the covenant love of the Eternal Jehovah to His elect.  I have been in excellent health since I saw you, &amp; therefore pretty well employed; I have to lament my illness in previous times.  I do not find reading injures my health.  I was unwell yesterday from overheating myself but I am now well.  Aleck went to London on Monday week.  I suppose you have heard from him; I have not.  I was glad to hear from my father's letter that he was pretty well, &amp; that all the rest were tolerably so.  I hope you take care of the flowers, give them <hi rend="underline">air</hi> when the weather is <hi rend="underline">damp</hi>, but very <hi rend="underline">little water at any time</hi>.  I hope I shall be able to pay you &amp; them a visit after Xmas.  The people here enquire after you &amp; G. when I see them.  Miss Atkins asks always kindly after you.  Old Twynam is rather ill.  We are going on pretty well here on the whole.  I must now wish you good evening.  Give my love to Father, Mother, Henry &amp; all one by one.  I hope all Friends, rich and poor are well.</p>
+      <p>Believe me ever your most aff. Brother,</p>
+      <p>Octavius Hadfield.
+      </p>
+      </body>
+   </text>
+</TEI>

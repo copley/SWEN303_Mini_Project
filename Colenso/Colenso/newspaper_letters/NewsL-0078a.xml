@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0078a">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1878 Philosophical Society. Hawke’s Bay Herald July 17.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1878-07-17">1878 July 17</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1878-07-16">1878 July 16</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1878</hi>
+        <hi rend="bold">Philosophical Society</hi>
+        <hi rend="bold">.       <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald</hi>
+        <hi rend="bold"> July 17.</hi>
+      </p>
+    </front>
+    <body>
+      <p><hi rend="smallcaps">Sir</hi>,—I thank you for your (painful) notice this morning of the failure of the meeting of the Philosophical Institute last night. So far, you are right, but you have omitted a portion, which, I think, ought also, in all fairness to be told—at least for the information of the members of the said society. <hi rend="italic">Another</hi> member, a lady, Mrs May, also attended, kindly bringing with her four other ladies; those five ladies came at the proper hour, 7.30,—and, I assure you, I was very glad to be there to receive them,—they sat until 8.20, patiently awaiting the arrival of some Members, but no one came save Mr Smith! You, sir, and a few others, may guess my enviable situation as the Honorary Secretary to the said <hi rend="italic">Philosophical Society</hi>! </p>
+      <p>To Mrs May as one of our members, (always ready and willing to support every thing tending towards the advancement of Science, Literature, and Art,) and, also, to the other ladies, who, as visitors, so amiably accompanied her, I beg again to tender my deepest thanks and humble apologies,—as the Honorary Secretary to the said Society; who, in the performance of the duty imposed upon him, had unfortunately to announce the said meeting, and so to have caused them so much trouble and disappointment.—I am, &amp;c., </p>
+      <p>
+        <hi rend="smallcaps">W. Colenso, </hi>
+      </p>
+      <p>                                       Hon. Secy. H.B.P.S.</p>
+      <p>Napier, July 16, 1878.</p>
+    </body>
+  </text>
+</TEI>

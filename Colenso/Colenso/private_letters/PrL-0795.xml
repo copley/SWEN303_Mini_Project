@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0795">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1891 August 7: to Mantell</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-papers-0083-261.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73192/">Mantell</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1891-08-07">1891 August 7</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1891 August 7: to Mantell<note xml:id="ftn3-544" place="foot" n="544"> ATL Ms-papers-0083-261.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, August 7<hi rend="sup ">th</hi>., <lb/>1891.</p>
+         <p>Dear Mr. Mantell</p>
+         <p>I write a line to inform you that I am this day returning by Mail that vol. of the Quarterly Review to the G.A.L., through Capt. Russell—from whom I received it.—</p>
+         <p>I wired a line to you on Monday last to let you know I should do so.—</p>
+         <p>I have been working very hard at my paper day &amp; night (having had to hunt up so many authorities for necessary extracts,)—and am happy in being able to tell <hi rend="italic">you</hi>, that I have succeeded in triumphantly clearing <hi rend="italic">your</hi> honoured Father from the malevolent &amp; lying onslaught of that Reviewer. I hope the N.Z. Institute (i.e. Sir James Hector, Director and Editor,) will by-and-by publish it. I <hi rend="italic">may </hi>have to look to <hi rend="italic">you</hi> for <hi rend="italic">that</hi>.—</p>
+         <p>And I also hope, that that Reviewer may still be alive to read my <hi rend="italic">exposé</hi>.</p>
+         <p>Trusting you are keeping quite well—and with very kind regards                       I am</p>
+         <p>                             Yours faithy,</p>
+         <p>                                             W. Colenso.</p>
+         <p>P.S. If you can—by&amp;by—answer those 2 queries in my <hi rend="italic">former</hi> note I will thank you to do so.         W.C.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0614">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1885 November 12: to Wilkinson</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Hocken MS-1014/005.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/74479/">Wilkinson</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1885-11-12">1885 November 12</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1885 November 12: to Wilkinson<note xml:id="ftn3-329" place="foot" n="329"> Hocken MS-1014/005.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>Novr. 12<hi rend="sup ">th</hi>., 1885.</p>
+         <p>Dear Sir</p>
+         <p>I duly received your letter of 9<hi rend="sup ">th</hi>. Sept., and with it the book-packet (containing your N.Z. Dicty.,) you so kindly so liberally sent me: I also recognize the valued friendly-feeling tone in your letter,—and I heartily thank you for <hi rend="italic">all</hi>.—</p>
+         <p>I ought to have written to you long ago, if only to acknowledge receipt, and I should have done so had I earlier received copies of my Mao. Circular from the Govt. Printer: these are very recently to hand, and I am sending out copies in all directions; among others to all those Maoris whose names you so kindly forwarded to me. I hope some good</p>
+         <p>
+            <hi rend="italic">[Page(s) missing]</hi>
+         </p>
+      </body>
+   </text>
+</TEI>

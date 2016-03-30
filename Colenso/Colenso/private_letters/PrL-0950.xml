@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0950">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1895 November 13: to Hector</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Museum of New Zealand—Te Papa Tongarewa MU000095/011/0082</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">Hector</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1895-11-13">1895 November 13</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1895 November 13: to Hector<note xml:id="ftn3-764" place="foot" n="764"> Museum of New Zealand—Te Papa Tongarewa MU000095/011/0082 </note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Novr. 13<hi rend="sup">th</hi>, 1895</p>
+         <p>Dear Sir James Hector</p>
+         <p>Yesterday a man from the Country brought me a peculiar geological specimen:—it is a globular stone, 6½ inches diameter 19½ circumference, and weighs above 11 lbs., apparently composed of common fine-grained sandstone of small various-coloured grains, without admixture of shells. He found it on the exposed ragged summits of the broken hills in Chambers’ Run (Te Mata), and supposed it was an “aerolite”!! Evidently it must have been lying on the surface, as there is no mark on it of having been even slightly embedded, being also of an uniform grey colour, with here &amp; there adhering scraps (fragments) of a small Lichen (<hi rend="italic">Parmelia </hi>sp.). It seems heavy for its size and composition: but the greater curiosity is, its almost <hi rend="italic">perfect</hi> orbicular form, without any signs or indications of cutting, scraping, &amp;c. I have tried it with a magnet, and it is not in the least magnetic.—</p>
+         <p>I remember seeing (in my early days) when travelling along shore E. Coast, large round boulders, which sometimes were split showing central nuclei, and again I have seen them also with nucleus detached, small and round as this, but I do not recollect seeing any formed of sandstone, such as this. And as it is such a curiosity to me, I have thought it best to inform you of it, and if you wish to see it, I would send it on to you by train: <hi rend="italic">prima facie </hi>it serves to remind me of a Dutch cheese!</p>
+         <p>Hope you are keeping well: and with kind regards</p>
+         <p>I am Yours sincerely</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

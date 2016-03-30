@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0395">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1879 August 27: to von Haast</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-papers-0037-046.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9511/">von Haast</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1879-08-27">1879 August 27</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1879 August 27: to von Haast<note xml:id="ftn3-18" place="foot" n="18"> ATL MS-papers-0037-046.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>August 27, 1879.</p>
+         <p>My dear Dr. Von Haast,</p>
+         <p>I cannot tell you how very greatly I was gratified in the receipt of 2 copies of your “Geology of Canterbury &amp; Westland,”—which came to hand yesterday. I thank you much for them,—<hi rend="italic">i.e.</hi> one being for our little Society, which greatly needs all fostering influences. To tell you the truth, I had been of late daring to expect to hear from you,—having seen some poor notices of your Work in the N.Z. Papers, which had only served to whet my curiosity to know more; and I do believe I should have even written to you, but I pretty well knew you were <hi rend="italic">busy</hi>, very so,—in selecting and putting-up your many valuable exhibits for the Sydney Exhibn. and so I refrained. And now, I write, in haste by this steamer, hoping to catch you at ChristCh., for in my Wellington paper (N.Z. Mail) also to hand yesterday, I find you were leaving for Sydney.—</p>
+         <p>Of course I have only just dipped into your Book, (of which more anon,)—but <hi rend="italic">one </hi>sentence in particular caught my eye, and, I may say, incited me to write: <hi rend="italic">viz</hi>. (at p.238,) “I do not wish here to refer to a number of Papers in the “Transns. N.Z. I.”, treating of the age &amp; time of extinction of the <hi rend="italic">Dinorthidæ</hi> as I shall allude to them when treating of the subject which has given rise to so much controversial writing.”——Now, am I to understand by this, that you have still a work on the <hi rend="italic">Moa </hi>in hand, (or in mind,)—or, am I to take your Section B., chap: xvi, p.431,— “On the <hi rend="italic">Dinorthidæ</hi>”—as being that by you alluded to?—</p>
+         <p>My reason for asking this is, simply, because I should wish <hi rend="italic">you to see my paper</hi> on the <hi rend="italic">Moa</hi> (long delayed!) before that you should publish your work,—if still in progress. And this I would take especial care to do, even if it should (<hi rend="italic">again</hi>) be rejected by the Board of the N.Z.I.—</p>
+         <p>And having mentioned this, I should tell you, to remove all doubt, that the “Directors” refused my two Papers <hi rend="italic">re </hi>“the Ruahine mountain range” (H. Bay), save to make from them a mere “Abstract, and to eliminate all personal narrative,”—which I refused to allow. (You may see notice of them in our (H.B.) “Proceedings,” “Trans.” N.Z. I., vol.XI, pp 567&amp; <hi rend="italic">570</hi>.) Our Society, also, subsequently supported me, and the Directors were written to <hi rend="italic">officially</hi>—but it made no difference. I have only <hi rend="italic">recently</hi> got back my 2 Mss., after a hard struggle,—and it is <hi rend="italic">this long detention </hi>that I feel; moreover, a note came with them from Dr. H.— “to <hi rend="italic">return</hi> them directly”!!  I am, therefore, now in this position,—that I write no more for N.Z.I., not choosing to be a<hi rend="italic">second</hi> time subjected to such treatment, and we have, consequently, had no Papers at our last 2 meetings, which I have greatly regretted,—as I wished to carry out my series of Papers of “Contributions towards a better knowledge of the Maori Race.”            I may also say, that I fully informed Dr. Hector how things were here, before he left for Sydney, but I got no reply.—</p>
+         <p>I believe, that, to meet the wishes of our H.B. Members (N.Z.I.), the Mss. in question will be printed <hi rend="italic">here</hi> &amp; by subscription: this will be decided next week.—</p>
+         <p>And just so with my Paper on the <hi rend="italic">Moa</hi>: I should like to give a <hi rend="italic">resumé</hi> of the past,—<hi rend="italic">viz.</hi> of my early paper in “Tasmanian Journal,” and of its belongings, &amp;c., &amp;c.—(That paper was more complete than that one pubd. by Owen and it was accompanied also by 2 plates with descriptions!! (the only ones in that vol.!) which even <hi rend="italic">then</hi>,—40 years ago, were executed far better than these wretched things in “Trans.” vol. XI!) But I fear if I do, that also will be struck out by our “<hi rend="italic">Censors</hi>”! therefore I shall have to contract <hi rend="italic">that </hi>portion (which was read here before our Society <hi rend="italic">last </hi>year).</p>
+         <p>I notice that in your Book (p.431) you say,—my <hi rend="italic">Moa </hi>Paper was published in “Annals N. Hy.”, in “August/44”: Owen, however, in his <hi rend="italic">early </hi>work on the <hi rend="italic">Dinornis</hi> gives its date, as “May 1/4<hi rend="underline italic">2</hi>”; and I believe it was written in 184<hi rend="italic">1</hi>: but for <hi rend="italic">this</hi> I shall have to hunt up old Mss. &amp; <hi rend="italic">letters received</hi> from Tasmania, which will fix it.—</p>
+         <p>I was pleased to see your <hi rend="italic">note </hi>on p.440: but do not at all like your quotation from Prof. Flower at p.437.—</p>
+         <p>I have many other things to say, but I must forebear, for the present, hoping ere long to write you again.</p>
+         <p>One of these two copies sent (and that, unfortunately, mine,) has <hi rend="italic">no</hi> plate of “(<hi rend="italic">L</hi>.) skeleton of <hi rend="italic">D. maximus</hi>”: perhaps you may be able to send me one for it. What delightful plates yours are! what a <hi rend="italic">contrast </hi>between them &amp; those of “Transactions,” vol. xi.!!——</p>
+         <p>Moreover, if your Work is <hi rend="italic">for sale</hi> there at ChristChurch, I will thank you to direct the Bookseller to send me two perfect copies by book-post,—when I will immediately remit the amount.</p>
+         <p>Well: I wish you every success at Sydney. Perhaps, as you will meet there with Dr. Hector, it would be well for you to consider much that I have said herein <hi rend="italic">re </hi>N.Z.I. as <hi rend="italic">entre nous</hi>.</p>
+         <p>Believe me, always,</p>
+         <p>Yours very truly,</p>
+         <p>Wm. Colenso.</p>
+      </body>
+   </text>
+</TEI>

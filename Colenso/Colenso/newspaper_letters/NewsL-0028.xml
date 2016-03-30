@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0028">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1860 Open column. Hawke’s Bay Herald 4 February.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1860-02-04">1860 February 4</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1860 Open column.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 4 February.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—One month of our new year has already gone and we have entered on the short second; and the next month (March) is the one in which by law all persons wishing to become Voters must send in their claims to the Registration Officer. If they do not they lose their right for another year. And this also extends to the amending or altering of qualifications; that is, all such must be done in the month of March. Now we very well know that there was no small outcry made last year by a large number of Voters, at their being unceremoniously struck off the Roll by the Revising Officer. But the wrong is not by any means to be wholly placed to his accounts. In many cases it was the fault of the claimant, through not properly describing his qualification; and in others, through not giving a proper legal qualification. It was partly too (as in my own case) the fault of the transcriber of the attested qualifications—who made a “mull” of his copying. While, no doubt, a pretty good share is to be laid to the Revising Officer for the haste in which he hurried through his business and closed his Court. But, Sir, be it as it may, the past is past. Now then, what should follow?</p>
+         <p>1. Do you yourself, like a veritable good Editor and guardian of the People’s Public rights, begin sounding forth and weekly reminding them of their duty and privilege throughout this and the next month.</p>
+         <p>2. Do you, all of you, friends Countrymen and Settlers of this new and fast-growirg Province of Hawke’s Bay—all of you who have not yet been Registered—all of you who have been struck off and yet possess proper qualifications—all of you who have since got more and additional qualifications in other Electoral Districts of the Province―do you look to it, that you mind and register in time. Don’t forget that you must register yourselves in March, or you lose all chance and right for another year. I speak particularly to the working classes and the newly arrived among us.</p>
+         <p>3. Do you, all good settlers and well-wishers to the prosperity of our Province of Hawke’s Bay who are already registered and Voters,—do you all keep a good look-out in your various neighbourhoods, and see to it that you do your duty to your Country and to your unregistered neighbour, and remind him of what he has to do, and put him in the way how to do it.</p>
+         <p>4. Let us all unite in shewing to the N.Z. Provinces, and to the world at large, our <hi rend="italic">bona fide</hi> number of freeholders and qualified electors. Depend upon it there is no better way of stopping the “chaffing” and taunts of Wellington, and of those others (if any there be) like her;—and of shewing forth the wisdom of Governor Browne and his Ministers in forming and carrying the New Provinces Act. Indeed: is it not a duty which we owe them? And will not our shewing forth our true British strength tell in the House of Representatives soon about to meet? And while we have (as true chips of the old block—John Bull,) grumbled heartily at the Revising Officer; now let it be seen, that we are determined to a man to use our utmost exertions in again, demanding and securing our just and legal rights and privileges. Most particularly would I call upon all who last year were struck off the Roll to be very sure timely to reassert their proper and amended claims. If not, then the Revising Officer (who will be sure to be on the lookout,) may justly turn round in his turn, and say,― “great cry, little wool.”</p>
+         <p>5. Sir, I should very much like to see two things done: the one, for a Public Meeting to be called, here in the town of Napier, to consider this matter; the other, for a Working Committee to be appointed, in order to enquire after all unregistered persons—to communicate with them,—to put them in the proper way of legally registering,—to point out the legal objection which may be made,—to scrutinise the published Roll of the Registration Officer,—to attend the Revising Officer’s Court on behalf of registered electors residing at a distance,—and so do their utmost to secure to all their electoral rights.</p>
+         <p>I quite think it is highly needful fully to exert ourselves in this cause, for I well know the many enemies we have to deal with; on the one hand, the backwardness and the want of thought, the every-day moil and toil and the terrible colonial disease—procrastination or putting-off; on the other hand, the old Philistines, who hate nothing more than the idea of “the 40-acre wretches” becoming Voters, and so being equal with themselves. Such men (though few) will not be wanting to throw impediments in the way. But “forewarned, fore-armed.”</p>
+         <p>In conclusion, Mr. Editor, allow me again to beg of you, as a good and trusty “<hi rend="italic">Herald</hi>,” to sound your clarion truly and well, and to keep on sounding until the great tournament is ended, and for a guerdon you shall have much more than a fair lady’s praise.</p>
+         <p>		I am, Sir,</p>
+         <p>		Your most obedient,</p>
+         <p> 			
+            <hi rend="smallcaps">William Colenso.</hi>
+         </p>
+      </body>
+   </text>
+</TEI>

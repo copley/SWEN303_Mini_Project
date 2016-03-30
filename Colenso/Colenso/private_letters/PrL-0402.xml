@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0402">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: ?date: to Hector</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Content places it in late 1879, following the preceding.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">Hector</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1879">1879</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>?date:<note xml:id="ftn3-26" place="foot" n="26">Content places it in late 1879, following the preceding.</note> to Hector</p>
+      </front>
+      <body>
+         <p rend="end">Tuesday mg.</p>
+         <p>My dear Sir</p>
+         <p>As I am going to town this day, I purpose calling at your lodgings—but you may have left for Shrimpton’s.—So I write this.—</p>
+         <p>1. To say, that Mrs. Caulton, the keeper of the Athenæm, has the key of our Inst. Library (also there), by applying to her you can take any Book &amp;c you may require: I will see her today.—</p>
+         <p>2. That I purpose going again to town, <hi rend="italic">early Monday</hi> next, when I will again call:—(possibly, also, <hi rend="italic">on Saty. mg.</hi>
+         </p>
+         <p>3. I send enclosed a copy of my <hi rend="italic">last offl. re</hi> Lexicon: which, I think, you said you had not seen, &amp; which I should greatly like for you <hi rend="italic">to read</hi>. Please do so.</p>
+         <p>Yours truly<lb/>Wm. Colenso.</p>
+         <p>P.S. But I shall be <hi rend="italic">always</hi> at home, &amp; shall only be too glad to see you here—if you have any spare time to call.  W.C.</p>
+      </body>
+  </text>
+</TEI>

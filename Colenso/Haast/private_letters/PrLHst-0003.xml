@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1105">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>22 July 1881: Haast to Gore.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9511/&gt;Sir Julius von Haast">Sir Julius von Haast</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Te Papa MU000094/005/0221.</p>
+         <p>Transcription published in "The Correspondence of 
+Julius Haast and James Hector, 1862-1887", Sascha Nolden, Rowan 
+Burns &amp; Simon Nathan.  Geoscience Society of New Zealand Miscellaneous Publication 133D, 2012.  ISBN 978-1-877480-23-2. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133D.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1881-07-22">1881 July 22</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71203/">Gore</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Haast to Gore, 22-7-1881, Te Papa MU000094/005/0221.</p>
+      </front>
+      <body>
+      <p>Canterbury Museum</p>
+            <p>ChCh </p>
+            <p>July 22 1881 </p>
+            <p>My dear Mr Gore, </p>
+            <p>I wrote lately to Mr Stansell to let me have the readings of the Barometer 
+without 
+any corrections
+ &amp; the thermometer from 30
+th
+ Decb 1876 to 14
+th
+ January 1877, 
+wind etc.
+ as I 
+want to calculate the altitudes of
+ several positions I visited at that time. However he tells me 
+that he has returned the books to Wellingt
+on. Will you be good enough to send them to me.</p>
+            <p>Please remind Dr Hector of his promise to
+ send me a plaster cast of Colenso’s Bell &amp; 
+Sir G Grey’s stone idol. I have 
+got a cast made of Major Wilson’s stone bird &amp; place one 
+at the disposal of the Colonial Museum. </p>
+            <p>Yours truly </p>
+            <p>Julius von Haast. </p>
+</body>
+   </text>
+</TEI>

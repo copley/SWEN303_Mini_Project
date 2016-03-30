@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0339">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1877 May 1: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1877-05-01">1877 May 1</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1877 May 1: to Luff<note xml:id="ftn2-287" place="foot" n="287"> ATL MS-Copy-Micro-0485-4.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier. N. Zealand,<lb/>May 1/77</p>
+         <p>My Dear Sir</p>
+         <p>My last to you was on the 1 of April (finally closed on 7<hi rend="sup ">th</hi>.)—in it I sent various matters <hi rend="italic">re </hi>your settling for me w. Dixon &amp; Co. of Fench. Street, also 1<hi rend="sup ">st</hi>. of a Dft for ₤20. (the <hi rend="italic">2</hi>
+            <hi rend="sup italic">nd</hi>
+            <hi rend="italic">.</hi> of same Dft. I now enclose,—though, if my last month’s letter, <hi rend="italic">registered</hi>, should miss,—you will not be able to do any thing for me (as I have <hi rend="italic">no copies </hi>of D’s. Invoices &amp; Letters which I sent you). Shortly after my last I went inland,<hi rend="italic"> </hi>visiting schools, &amp; only returned on Saty. night (28<hi rend="sup ">th</hi>. inst.,)—when I found yor letter of March 9<hi rend="sup ">th</hi>., with lots of papers &amp; other letters. You have astonished me in saying there was no letter for <hi rend="italic">you</hi> by our N.Z. <hi rend="italic">January </hi>Mail: I wrote you a <hi rend="italic">long </hi>one, and a pretty full one, giving some important &amp; interesting news; I hope it has turned-up since you wrote, all the others I then wrote from here with yours, had been received &amp; answered by the March Mail.—I have seen Grubb about it this day, but he can throw no light upon it. However I am glad that the Papers reached you.—</p>
+         <p>I returned to Napier on Saty. night, to make out certain School Returns for the Edn. Board (&amp; through them for the Govt.,)—having received an official letter from F. on <hi rend="underline italic">25</hi>
+            <hi rend="sup underline italic">th</hi>
+            <hi rend="underline italic">.</hi> at night (Waipukurau), posted <hi rend="italic">that day</hi>. containing a telm. from Govt. to Chn. of Board dated <hi rend="italic">11</hi>
+            <hi rend="sup italic">th</hi>
+            <hi rend="italic">.</hi>, requiring “<hi rend="italic">early</hi>” reply, &amp; yet F. writes his letter on <hi rend="underline italic">17</hi>
+            <hi rend="sup underline italic">th</hi>
+            <hi rend="underline italic">.</hi> &amp; posts it on <hi rend="italic">25</hi>
+            <hi rend="sup italic">th</hi>
+            <hi rend="italic">.</hi>!! even then I am referred to 27 Clause of E.B. Act, which I found to state plainly, that E.Board must send in <hi rend="italic">their </hi>report &amp;c., “on or before May 1<hi rend="sup ">st</hi>.”!! So I set to work <hi rend="italic">hard</hi> on Sunday 29. &amp; on Monday 30, finishing by 2 pm. &amp; sending papers to secy. Fannin. <hi rend="italic">But</hi>, the work is <hi rend="italic">his</hi>, not mine. However, it is <hi rend="italic">over</hi>: I was vexed. And now I shall <hi rend="italic">have </hi>to return to Country again in a day or two.</p>
+         <p>I had fine weather while out &amp; rode many miles; finding rising before the sun, &amp; riding away in the cold mg., with severe hoar-frost &amp; bitter cutting wind, almost <hi rend="italic">overpowering</hi>. I rode from Wallingford to Porangahau, in time for school, &amp; next mg. rode back in time to catch the Coach. Last week I went on Tuesday to Ashley Clinton, 4¼ hours going &amp; 3½ hours returning, losing much time in Sandy Grant’s &amp; Bridge’s (late of A. Deane’s) gates—16 in no.,—opening &amp; shutting, 16 x 4 = <hi rend="italic">64</hi>. I saw <hi rend="italic">your </hi>freehold (that was). There is sad feeling among Settlers far back, owing to <hi rend="italic">no </hi>roads, &amp; Lambert (see his letter to County Council, on this subject) &amp; S.G. combining not to allow of any—without being <hi rend="italic">paid</hi> for the land: L. has locked his gates &amp; the settlers have forced them open. On Wednesday to Tamumu &amp; back. On <hi rend="italic">Thursday</hi> to Hampden, slept there that night, &amp; <hi rend="italic">early</hi> next morning, started for Bush Settlers some 5–7 miles beyond Ongaonga (Newman’s), or 4½ miles up the valley from Herrick’s, returning to Waipukurau that night having ridden about 40m.—The week before I rode in train &amp; Coach w. Grubb to Takapau &amp; Norsewood,—G. going on to Wellington, having a week’s holiday.—No going to Wairoa yet by sea, the steamer has been barred in there all this past month! with <hi rend="italic">less prospect than ever of getting out. </hi>The sea here today is awfully grand &amp; noisy, reverberating in this house: I never saw a larger surf here, breaking, too, a long way out, in a long succession of rollers; the wind being little, and <hi rend="italic">off the land</hi>, the Bay is calm,—or without broken water.—</p>
+         <p>Ormond &amp; Carruthers (&amp; 2 parsons!) nearly came to grief a fortnight ago, the “Wanaka” (<hi rend="italic">big</hi>) Steamer arrived in time of heavy sea: could not be boarded! Evening, “Sir Donald,” Str. made the attempt, &amp; in returning was carried onto Rangatira reef! as she could not be got off, &amp; seas breaking over her, signals made for assistance, (Kraeft being on board,)—Murray went out, but could not get near her! it was a time of peril; but, at last, she got off &amp; came in.—</p>
+         <p>Ford’s failure (Criterion) has caused <hi rend="italic">much talk</hi>: how? why? &amp;c &amp;c. Watt, bought all goods &amp;c. in <hi rend="italic">one lot</hi> at auction under Bill of sale, for ₤3800., and it is said, F. won’t pay 1/- in the ₤. I have heard he spent his time in Billiard room &amp;c., <hi rend="italic">trusting to Barmen</hi>!!!</p>
+         <p>A <hi rend="italic">new </hi>election (making 3<hi rend="sup ">rd</hi>.) is to come off for Waipukurau riding, last (2<hi rend="sup ">nd</hi>) being also decided illegal owing to Retg. Offr. Arrow: I <hi rend="italic">heard</hi>, that Syd. J. won’t stand again.—</p>
+         <p>Syd. J. &amp; his Dad. have an excellent opportunity of doing well with a Township at Takapau,—if they were but wise enough! but no, they will not sell a ¼ acre! &amp; only Lease for 21 years!! The Natives might do a good stroke, there, now; but no! they also follow suit!!</p>
+         <p>I heard that David Hunter employs nearly 100 men at his place. A Church is nearly built there;—also one at Nairn’s. At this latter in hoisting the big Bell, it &amp; the scaffold fell, &amp; one poor man was nearly killed.</p>
+         <p>Rees Watkins’ wife had twins about 3 weeks ago, &amp; yesterday she died! rather suddenly; her husband went off, as usual, w. the train, thinking she was better, &amp; she died in his absence.</p>
+         <p>I see that “Psalms &amp; Prayers as used at Trinity Church (Wesleyan)” are to be had at Dinwiddie’s,—this is to meet the great increase from Townsend’s!—</p>
+         <p>I think I told you I had put Sladen in Lawyer’s hands! <hi rend="italic">sorry to do it</hi>: so Lascelles has tackled him, &amp; Sl. <hi rend="italic">at last</hi> has seen Cotterill &amp; Moore (U. Bank) who blame the goose for not accepting my <hi rend="italic">easy </hi>terms: we find that he has given a <hi rend="italic">2</hi>
+            <hi rend="sup italic">nd</hi>
+            <hi rend="italic">. </hi>mortgage to his Brother for <hi rend="italic">₤2000</hi>!!!—and if I press, or sell, his brother will (I fear) get nothing! The Lawyers &amp; Moore were to meet today about it; so as to allow Sl. time to write to his father. I have also been <hi rend="italic">driven</hi> to put Mackay in Lascelles’ hands.—</p>
+         <p>My own health has been <hi rend="italic">good</hi>; though I daily have Rheumatic twitches, &amp; aches, especially on exposure. Nothing but my firm belief (as of old in toiling missy. days) “<hi rend="italic">the path of duty is the path of safety</hi>,” could have enabled me to face what I have of late.—I have often gone forth with many fears, &amp; returned rejoicing w. thankfulness.—</p>
+         <p>And now a word <hi rend="italic">re </hi>the War, of which we get telegrams (our last being “London 30<hi rend="sup ">th</hi>.” <hi rend="italic">yesterday</hi>!!) What a sad state of things: who can see the end of it? I greatly fear it will—it must—become general in Europe, &amp; then <hi rend="italic">our </hi>Cy. must also go in! As I have said before,—my sympathies are with the Ottomans, or Turks, believing that they are wronged—by that Colossal Czar. My prayer is, that our <hi rend="smallcaps">God</hi> may help the <hi rend="italic">wronged </hi>one. I have great faith in the Turks (i.e. the Mohammedans) for it is evidently now a war of Creeds. And, to me, it is pleasing, to find the R.C. Xns., the American ditto, and the Jews, united with their fellow-Countrymen against the assailing &amp; blaspheming foe! The Turks are <hi rend="italic">brave</hi>, &amp; they are temperate in eating &amp; <hi rend="italic">drinking</hi>, and, better still, they worship the <hi rend="italic">one true </hi>
+            <hi rend="smallcaps italic">God</hi>
+            <hi rend="italic">. </hi>No saints nor angels, no virgin nor Mediator, no Crosses nor Crucifixes, no images nor pictures, no holy water nor holy bread nor holy wine!—but <hi rend="smallcaps">God</hi> alone—<hi rend="italic">Allah</hi>! may <hi rend="italic">He</hi> protect &amp; deliver them. Amen.</p>
+         <p>With kind regards. Good bye. Yours ever</p>
+         <p>                             W. Colenso.</p>
+         <p>No.2                         Wednesday May 2<hi rend="sup ">nd</hi>.</p>
+         <p>I thought last night I had <hi rend="italic">finished </hi>to <hi rend="italic">you</hi> by this M. (having several others to write to),—but I have this day again gone over yours, &amp; I find 2 or 3 things to reply to:—at the same time I feel so-so,—influenza, I believe.—</p>
+         <p>You mention Witty &amp; Wairoa: he is residing there now,—going-in for Hop-growing! in which he <hi rend="italic">may </hi>succeed. I shall go there before very long—when river is open; &amp; purpose spending some days, when I will do your little work; I have purposely deferred it until I go thither. W’s. house &amp;c was put up to sale the other day, but reserve was not reached: you will see all about it in papres. Sir D. died wealthy (at least I think so: probate for (I beleve) ₤180,000—for which duty was paid.—<hi rend="italic">All</hi> left to the son; will was a very <hi rend="italic">short </hi>one. I heard Capt., &amp; Mrs H., were disappointed; but there was a Letter w. the will, addressed to young McLean to do something for them &amp; others;—&amp; I have heard that he had done, saddling the estate w. about ₤1000. per ann., for their lives.—The Natives I have heard, have made overtures to young Donald; &amp; he, guided by Hast, has replied,—shewing his willingness to meet them, where any needs exist, but not to upset &amp;c. any arrangements of Sir D’s.—I dare say he will go to Engld. before long.—</p>
+         <p>It is said the 2 Stokes are going home: I think they ought to do so. Berry has shut up his shop (which did so well), &amp; is going to reside in his <hi rend="italic">new </hi>House just built, N.E. corner of Cl.Sq., T Sn. no. 254.—</p>
+         <p>I send you, an Auckld. paper containing Dr Skae’s Report on Lunatic Asylum, &amp; a leaf from a Wgn. Paper containing Fox’s speech at Whanganui. I find the sea was high enough last evening to come over McVay’s &amp; Neal &amp; Close’s premises: so that, had <hi rend="italic">you</hi> been <hi rend="italic">in</hi> “<hi rend="italic">Lond. House</hi>,” you might have thought on Saxby &amp;c. &amp;c.! It is fine today.</p>
+         <p>     And once more good bye</p>
+         <p>             Yours truly,    W. Colenso.</p>
+         <p>No. 3 !!                                             May 4<hi rend="sup ">th</hi>. (night).</p>
+         <p>Yesterday I went down to see some of the damage done by the sea: I found all your seaside fence gone wholly!—&amp; the big corner stone you had there washed over towards C.P’s. stables!—part, also, of the new fence Sup. Ct. Ho. was smashed in. I noticed, this mg., the men engaged in baling out Criterin H. Cellar; such a lot of dirty sea water! The sea got in to Neal &amp; Close’s concrete Cellars &amp; did some damage.—P. Palmer’s 2 children are dead, both of croup: one being the little boy who used to play about the Stables. Fletcher’s wife (Blacksmith) is also dead; and several others of town &amp; Country.</p>
+         <p>G. Thomas is still in Fiji, and is well; he is almost “sure” of gaining the property there bought by his brother Henry: if so, it will be of value.</p>
+         <p>I found that Grubb had paid (somehow) the Rates for you at Wairoa. I paid him today his outlay, 5/- having money of yours in hand.—</p>
+         <p>Among the papers I send you, are, 1. a Waka Maori; and 2. a N.Z. Illustd. Herald, containing a large view of Auckland; I hope both may reach you.</p>
+         <p>Torre is here, but I have not yet seen him; Mr. Moore (U.B.) told me he was very well. Clive Square, lower Dickens Street, &amp; the pond opposite Morley’s, are full of water—forced through soil by heavy sea.—Note all in the late papers <hi rend="italic">re </hi>Mun. Council,—lighting town!! &amp;c &amp;c. Dr. Gibbe’s new house is advancing—looks well <hi rend="italic">on the whole</hi>, rather prominent &amp; striking there, but is too much <hi rend="italic">titivated </hi>for me. Tuxford’s <hi rend="italic">garden</hi> looks well; rain is wanted in our <hi rend="italic">hill </hi>paddocks, &amp;c.—I send you the <hi rend="italic">latest</hi> papers. And once more Good Bye—with every good wish, believe me <lb/>    Yours truly</p>
+         <p>             W. Colenso</p>
+         <p>H. Mackenzie is going to <hi rend="italic">buy, right off, </hi>the subn. Section I leased him at Hastings. W.C.</p>
+      </body>
+   </text>
+</TEI>

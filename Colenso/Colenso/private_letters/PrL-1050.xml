@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1050">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1898 May 19: to de Lisle</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MTG HB m64/14, m67/37, 57844.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75171/">de Lisle</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1898-05-19">1898 May 19</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1898 May 19: to de Lisle<note xml:id="ftn3-900" place="foot" n="900"> MTG HB m64/14, m67/37, 57844.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Gow’s Hotel,<lb/>Waipukurau,<lb/>May 19<hi rend="sup ">th</hi>. 1898.</p>
+         <p>Dear Dr. and Mrs. de Lisle.</p>
+         <p>I must no longer delay writing a few lines of greeting to you and your dear <hi rend="italic">boy</hi>, with all the rest. I am a wee bit afraid, that, if I say, I have been not infrequently thinking on <hi rend="italic">you all</hi>—during my long absence in the Bush District—you might reasonably question it, and perhaps add— “Why then did you not write?” The truth is, that I, who only came away for “a week or 10 days” (as I told my man, on leaving,) have been obliged to prolong my visit<hi rend="underline italic">s</hi>—at each place, owing to <hi rend="italic">superb </hi>weather—<hi rend="italic">kindness</hi> of folks—my own <hi rend="italic">improving </hi>health &amp; <hi rend="italic">strength for walking</hi>, with ½ dozen <hi rend="italic">et ceteras</hi>.</p>
+         <p>I left Napier on 26<hi rend="sup ">th</hi>. April, here &amp; at Waipawa till 30<hi rend="sup ">th</hi>.—on that day on to Woodville, having promised Eccles to be with him on May-day—his Harvest Thksg. Day: Church was nicely decorated with Macrocarpa &amp; White Chrysanthemums: good Congregations both mg. &amp; evg. During the week Eccles drove me about 4 days in his easy <hi rend="italic">low-step</hi> buggy—on one of them <hi rend="italic">again </hi>ascending <hi rend="italic">that </hi>mountain<note xml:id="ftn3-901" place="foot" n="901"> He had written to Hooker (2 July 1897), “My accident was a very peculiar one: at Woodville, 10–12 miles beyond is a mountain—Whariti—the last S. culminating peak of the Ruahine range, and I had for yrs. been very desirous of visiting it…. on April 1st, fine day… I hired gig, &amp; driver, &amp; went—road in capital order, horse excellent—on returning &amp; close to town, on good road, horse fell on side as if shot and I thrown high w. a somersault came down on right side, &amp;c &amp;c stunned—I thought my end was come.”</note>—though some feared (!) others deemed it foolhardy, and others (dear souls) still <hi rend="italic">worse</hi>! went up &amp; came down, however, <hi rend="italic">sans </hi>injury: but could not find my pretty <hi rend="italic">new </hi>fern that I had discovered there the year before (when I came to grief): the raging fires since having done much damage there: and those specimens obtained on that <hi rend="italic">former </hi>occasion having been lost.—Well: to please folks, I consented to remain for another Sunday (8th.) when I had to preach <hi rend="italic">2 </hi>Sermons, besides other Ch. work, with walking to &amp; from Ch. at both Services.—On Tuesday 10<hi rend="sup ">th</hi>. I came back to Dannevirke: 11<hi rend="sup ">th</hi>. out visiting. 12<hi rend="sup ">th</hi>. 13<hi rend="sup ">th</hi>. Rain, much desired: 14<hi rend="sup ">th</hi>. came to this harbour: and, it being cold &amp; wet, remained quietly incog. all Sunday. Yesterday was a regular gala day here! Gow’s nephew (a young man long been with Jones) married to “a nice young woman teacher in Tuke’s Sy. School”—an exceedingly <hi rend="italic">popular </hi>match, and so, all the village turned-out, with flowers—bouquets,—&amp; smiles &amp; good wishes, <hi rend="italic">ad lib</hi>, filling the Church, with lots outside. And (shall I relate it?)—the <hi rend="italic">strange part was</hi>—that bride &amp; b.groom, parents, friends, and Tuke, besought <hi rend="italic">me </hi>to aid in tying the knot! At first I refused—but obliged to give way—and so shared in the ceremony (my <hi rend="italic">last </hi>being in 1852!) then adjourned to father-in-law’s, where, in verandah and under trees in garden, ample refreshment &amp; pleasant talk; day gloriously fine. Tuke leaves tomorrow for outskirts, and I take Ch. duty here in his stead—hope weather may then be fine. I suppose you will have seen “Herald” of 16<hi rend="sup ">th</hi>.—lots (<hi rend="italic">too much</hi>) therein of me!<note xml:id="ftn3-902" place="foot" n="902">
+               <hi rend="italic">Hawke’s Bay Herald</hi>, 16 May 1898: From our Ormondville correspondent: “A chat with the Rev. W. Colenso is a privilege to be remembered for years, so entertaining is this veteran in the search for knowledge….”</note> Now Good Bye</p>
+         <p>Kind regards, </p>
+         <p>Yrs affy.</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

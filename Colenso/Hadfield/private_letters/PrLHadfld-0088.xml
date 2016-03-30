@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0088">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1870: Octavius Hadfield to an unknown sibling (probably a sister?)</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions, spine title "Hadfield, Typescript Miscellaneous Fragments 1833-1897", stamped 19 Dec 1979.  Section: Fragments - Fragmentary extracts from the letters of Octavius Hadfield.  "EXTRACT NO. 13."  Page 20.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 10.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1870----">1870</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1870: Octavius Hadfield to an unknown sibling (probably a sister?)</p>
+      </front>
+      <body>
+      <p>.. .. weak, if not too ill, to make it advisable for him to come.  But Sir William Martin has promised to attend.  He is a host in himself, that is provided his health, which is very delicate, holds out.  Our business is constantly becoming more important and serious.  I have never yet been to Dunedin so I shall have something new to see.</p>
+      <p>Possibly Kate may be writing.  I hope to be at home tomorrow and may be in time to post this, the mail leaving in the evening.  If she has written she will have told you more about the children than I can.  They are all thriving.  Their holidays have been rather too long, their governess being absent with a sister who has been very ill.</p>
+      <p>At present we have a reasonable prospect of going on living quietly in Wellington.  If my health lasts I think I can do the work, at least according to the measure of my poor abilities.  Kate is, I think, rather a favourite with the ladies in town.  We hear constantly from Henry.  He seems happy; he writes amusing letters to his sisters.  He finds Napier very hot, but he has not been unwell.  I hear he does his work well-- I saw the manager of the Bank had come to Wellington a week ago; and he spoke very well of him.</p>
+      <p>I hope long before this reaches you peace will have become established in Europe.  I really cannot see any hope for France.  It seems to me as if a judicial blindness had fallen upon the nation.  They seem to have on every occasion done the wrong thing.  It is useless for me to conjecture; but the surrender of Paris seems certain.  And then Rome.  To think that the downfall of the Pope - for I can never imagine him set up again -- should have followed so soon on his blasphemous claim to infallibility!  It would seem as if these events were almost in strict accordance with Stanley Faber's interpretation of prophecy. </p>
+      <p>The country is not quiet yet.  A government surveyor was assaulted at Waikato a few weeks ago; this looks like a challenge.</p>
+      <p>With best love to all my sisters.  Ever your affectionate brother,
+      </p>
+      <p>O. Wellington.</p>
+      </body>
+   </text>
+</TEI>

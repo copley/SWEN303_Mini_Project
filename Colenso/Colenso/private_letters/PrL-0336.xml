@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0336">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1877 January 23: to Hector</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Museum of New Zealand—Te Papa Tongarewa MU000094/003/0230.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">Hector</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1877-01-23">1877 January 23</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1877 January 23: to Hector<note xml:id="ftn2-283" place="foot" n="283"> Museum of New Zealand—Te Papa Tongarewa MU000094/003/0230.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>Jany. 23/77</p>
+         <p>Dear Dr. Hector</p>
+         <p>I have been thinking of writing to you for some time past—1. To hand you the enclosed (if <hi rend="italic">you</hi> may <hi rend="italic">know</hi> the writer? &amp; if you are able to aid him:—<hi rend="italic">I know nothing </hi>of him):<note xml:id="ftn2-284" place="foot" n="284"> With this letter is one from Charles B Plowright seeking to exchange English for New Zealand fungi.</note> 2. To thank you for 3 parcels of Books (your Museum pubs., <hi rend="italic">I suppose</hi>) lately to hand for our Branch Institute: you shall have an Offl. Recognition &amp;c. when we next meet.—</p>
+         <p>Hoping you are well          I am</p>
+         <p>Yours faithfully</p>
+         <p>Wm. Colenso.</p>
+         <p>Obliged to send it in its envelope—as the letter does <hi rend="italic">not</hi> contain my name.    W.C.</p>
+      </body>
+   </text>
+</TEI>

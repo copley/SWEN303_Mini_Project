@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0539">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1883 June 29: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1883-06-29">1883 June 29</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1883 June 29: to Luff<note xml:id="ftn3-190" place="foot" n="190"> ATL MS-Copy-Micro-0485-4.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Friday, p.m. 29th.<lb/>June, /83.</p>
+         <p>A. Luff Esq.<lb/>  Wellington.</p>
+         <p>My dear Sir, </p>
+         <p>I have been working doubly hard all this day (without dinner) to get off my 2 <hi rend="italic">last</hi> cases to Kew—to go tomorrow to Lyttelton—then pr. “Ionic”, &amp; my man is gone w. them to “Spit,” &amp; my letter just written to Capt. Hallett at Lyttelton—&amp; now I turn <hi rend="italic">to</hi>
+            <hi rend="italic">you</hi>.</p>
+         <p>Two days ago your kind note of 25<hi rend="sup">th</hi>. came to hand, &amp; last night your fresh remembrance of me in a copy of “N.Z. Times,” of Mondy last: for both, <hi rend="italic">thanks</hi>.</p>
+         <p>In your letter you remind me of your having written <hi rend="italic">last </hi>to me, &amp; expected to hear in reply: no doubt you are quite right, but words would fail to show how busy <hi rend="italic">I have been</hi>, and even now such is not over!—However, I must say, that I thought I had written to you; &amp; I may add, that both Grubb &amp; myself were wondering at our not hearing from you.—</p>
+         <p>I returned to N. from “Bush” on 3<hi rend="sup">rd</hi>. May, &amp; then had plenty to do for our first Socy. Meeting on 14th.—By the S.F. Mail <hi rend="italic">after</hi> my return I received a letter from my old friend Sir. J.D. Hooker, Kew, pointing out several plants, seeds, &amp;c., which were still <hi rend="italic">wanting</hi> there (!)—I had asked him to tell me if any were, but to my letter I had got his answer by the <hi rend="italic">prior </hi>Mail, &amp; he did <hi rend="italic">not</hi> mention any,—now I had seen many of those very plants (some of than rare) while last in the Bush, &amp; I felt a little vexed at my not having known of it earlier:—however, as it was <hi rend="italic">autumn</hi>, the proper season, the weather <hi rend="italic">then</hi> fine, &amp; myself <hi rend="italic">old</hi> &amp; knowing where to find them,—I went again to “Bush” on 22<hi rend="sup">nd</hi>. May, hoping I should only be absent 3–4 days: I got there in heavy rain!—rain (&amp; <hi rend="italic">high winds</hi> making it dangerous to go near those partly burnt bushes)—throughout May! but I waited: w. June came <hi rend="italic">fine</hi> weather &amp; I to work,—arriving here on 8th. Ever since I have been busy putting up spns. (altogether over 1000) for Kew, &amp; for other places and persons, at home &amp; abroad.—</p>
+         <p>I had also sent off a Case by “Brit. Queen,” &amp; 2 boxes by S.F. Mail to Kew: &amp; 2 other boxes by Mail to other parts—so you may see &amp; allow I have been busy.—</p>
+         <p>The weather is still very fine here: in fact, our usual <hi rend="italic">May </hi>w. <hi rend="italic">in June</hi>. Maney’s land &amp; sheep are to be sold (or, <hi rend="italic">were</hi>) this day: what will he &amp; his boys do now? Condie sold 2 lots of his (<hi rend="italic">Alley’s that was</hi>) last week; the lot <hi rend="italic">this way</hi>, @ £33 per ac. H.Williams bought it.—I thank you for the “Times” contg. notice <hi rend="italic">re</hi> late Bp. Natal,—but that subject is beyond the calibre of <hi rend="italic">that writer</hi>, both morally a intellectually. R.P. did better in “D.T.”—I send you a copy. I believe you get the “Herald” regularly, &amp; therefore will have seen what was therein, also <hi rend="italic">my addition. </hi>It surprised me greatly, for he had always been enjoying excellent health. What a no. of those <hi rend="italic">you</hi> so well know here, have lately died,—Lambert, Newman, Raven, Withers, <hi rend="italic">young</hi> Moggridge, &amp; others: &amp;, ere long, it <hi rend="italic">must</hi> be my turn to follow.—(I am the more sensibly reminded of this through the recent deaths of Hobbs, &amp; Buddle—whom <hi rend="italic">I</hi> also, knew). Well: it is a good thing to <hi rend="italic">know</hi> in whom one has believed, &amp; still believes:—“Led by a father’s gentle hand,” &amp;c. I envy those <hi rend="italic">sudden</hi> deaths.—I dare not, however, pray for it: but then w. the Great Spirit, the wish of the heart is <hi rend="italic">the</hi> prayer.</p>
+         <p>There was <hi rend="italic">no</hi> Meeting of our Socy. last week (June):—and I am about to call a Council on Monday or T., to consider about the approaching (July) one: you may have noticed that <hi rend="italic">3</hi> of my Papers—(see vol. XV. p. 542)—those too the most popular, &amp;c., here, when read, have <hi rend="italic">not </hi>been admitted this year. I do not know the cause: but I cannot go on writing for <hi rend="italic">them</hi> to have my ps. rejected.—If I supposed that you were <hi rend="italic">well</hi> acquainted w. Dr. Hector, I would ask you (as a member of <hi rend="italic">our</hi> Sy., &amp; as an old Friend) to endeavour to know why:—I should have called our Cl. meeting before, but I waited the Bp’s. return—also Holder’s.—Do you ever see Willis? if you should, just ask, If he has got <hi rend="italic">his </hi>copy.—vol. XV.</p>
+         <p>The spn. you enclose is a Moss, a <hi rend="italic">Dawsonia</hi>: it grows, as your son justly observes, in patches in the woods, but it is rarely found in fruit, let him look if be can find such,—a single large capsule on top of stem: 14in. is its maxm. height: I brought a lot from the Bush this last time, but all like this one barren.</p>
+         <p>My head is aching and I must close: have not read Treasr. “speech,”—see we are in for more Taxation!—</p>
+         <p>Health, on the whole, very good: sleepless nights are the worst. I did not see the Govr.—being absent.</p>
+         <p>Grubb is very well, and, as usual, <hi rend="italic">busy</hi>!</p>
+         <p>Hoping you &amp; all yours are well, I am</p>
+         <p>My dear Sir,</p>
+         <p>w. kind regards,</p>
+         <p>Yours truly,</p>
+         <p>W. Colenso.</p>
+         <p>Young “Ted” Wither is here, &amp; is to have charge of the <hi rend="italic">big</hi> and <hi rend="italic">fine</hi>
+            <hi rend="underline italic">new</hi> Bank building.                                             W.C.</p>
+         <p>I fancy that both J. Begg and Tyne will be taught a lesson!!</p>
+      </body>
+   </text>
+</TEI>

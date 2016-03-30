@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0909">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1894 September 19: to Miss Buckland</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Private collection Julie Hollis; see also letter to Mrs Katherine Hollis née Buckland dated 27 February 1896.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75301/">Miss Buckland</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1894-09-19">1894 September 19</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1894 September 19: to Miss Buckland<note xml:id="ftn3-697" place="foot" n="697"> Private collection Julie Hollis; see also letter to Mrs Katherine Hollis née Buckland dated 27 February 1896.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier,<lb/>Septr. 19<hi rend="sup ">th</hi>., 1894.</p>
+         <p>Dear Miss Buckland,</p>
+         <p>Two days ago I received your kind note of the 14<hi rend="sup ">th</hi>. inst., and I thank you for it. I was much pleased in hearing from you—that you were <hi rend="italic">now</hi> “much more comfortable than you were at Fielding”: may such long continue! I had previously heard of your leaving Fielding and being at Palmerston: Mr. Lund told me this, and that you were well, as we were fellow-passengers from Woodville to Dannevirke on Wednesday 5<hi rend="sup ">th</hi>. inst.,—I staying at Woodville a week longer than I had intended, owing to the non-arrival of Mr. Eccles from Auckland:—so I was there on the very <hi rend="italic">snowy</hi> Sunday (2<hi rend="sup ">nd</hi>. inst.), which visitation made it very cold in the Church, but the lamps were all lit up early in the morning to warm the Church. On my return to Dannevirke on the Wednesday, I found the fall of snow there <hi rend="italic">in the township</hi> was much greater than <hi rend="italic">in Woodville township</hi>—much the same I suppose as on the higher Woodville hills, where the snow remained until Monday night: this, of course, is to be accounted for, owing to the great difference in altitude of Dannevirke above Woodville, (and also Palmerston)—which you will find given in the Government <hi rend="italic">penny</hi> Railway Time-Table Guide. If you had snow there about you at Palmerston it would serve to remond you of the old Northern winter!—</p>
+         <p>I do not know when I may return to Dannevirke, or to the Bush District,—not being <hi rend="italic">able</hi> to mount the “Bridge,” and not <hi rend="italic">allowed</hi> to cross the Railway lines to the forest a little beyond the Station, is a great obstacle: but being what some folks term “an emergency man” for Church matters,—and always while able willing to help—I may be again suddenly called on to do so.</p>
+         <p>I will, with pleasure, send you some London Papers next week. I left a large lot at Woodville, and gave all I had remaining at Dannevirke to Doctor Macallan: you will not have to send any to him, neither return to me. I am keeping well.—Weather very severe here last night and all this day—a strong gale of wind and heavy rain from the E.</p>
+         <p>With best wishes</p>
+         <p>Believe me, Yours faithfully,</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

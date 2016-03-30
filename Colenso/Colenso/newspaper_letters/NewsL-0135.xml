@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0135">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1887 Preservation of timber. West Coast Times 13 July; reprinted from Napier News .</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1887-07-13">1887 July 13</date>
+          <publisher>
+            <name type="organisation">West Coast Times</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1887 Preservation of timber.    <lb/>
+        </hi>
+        <hi rend="bold italic">West Coast Times</hi>
+        <hi rend="bold"> 13 July; reprinted from </hi>
+        <hi rend="bold italic">Napier News</hi>
+        <hi rend="bold">.</hi>
+      </p>
+    </front>
+    <body>
+      <p>“William Colenso” writes as follows to the Napier News:—</p>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—In your paper of Monday 1st you state, “All who are interested in the preservation of timber will be glad to hear of Professor Poleck’s discovery, that timber which had been long immersed in water is thereby rendered free from liability to dry rot.”</p>
+      <p>I do not know who this Profesor Poleck is (not having even heard his name before), neither do I know his residence or country, but this modern “discovery” of the Professor’s has been known to the New Zealanders perhaps for ages. Hence they always procured and used such timber for the building of their principal chiefs’ houses, although to do so entailed a much larger amount of labor on themselves; destitute too as they formerly were of iron or any other metal.</p>
+      <p>When the chiefs of Hawke’s Bay in 1843–45 united to put up a dwelling house and a church for me at Waitingi, they obtained the timber for posts and pilasters mainly from the bed and banks of the river Tukituki (a great distance up the stream, even to beyond Te Mata, Mr J. Chambers) where it had long been imbedded and immersed. The difficulty of getting some of those long and thick logs, with their broken branches, out of deep water and from under high banks, was very great, and took a considerable body of Maoris a long time.</p>
+      <p>When dried and split and worked to a smooth surface (patiently dubbed down with a smooth act set transversely), the timber looked well; it was of various shades of dark color,—from red to a deep chocolate brown or even darker; some also, often had a peculiar partly honey combed appearance, as if worm eaten or half rotten; but all the kinds were said to be alike indestructible.</p>
+      <p>There are still some early settlers residing in Hawke’s Bay who will recollect the neat appearance of the inside pilasters of my house (detached study) at Waitangi made from such immersed timber—which was so often admired, but by no one more so then the late Bishop of New Zealand (Dr Selwyn), and by Sir D. M‘Lean, who had both travelled much among the Maoris.</p>
+      <p>No doubt the dark flat and wide slabs of wrought timber, formerly used as pilasters in the constructions of their chief’s houses, also as doors, both for them and for their storehouses, have often been noticed by settlers and visitors. Such timber was obtained from similar sources.</p>
+      <p>Another fact I may mention, further illustrating the same. In 1845 I set out piece of land adjoining my house, about two acres, to be dug, fenced, and drained. To please the Maoris, and more, to get it done at all, all the neighboring tribes must have a hand in the job, so as to obtain a share of the pay. The natives of Kohinurakau took the north side of the fence, and their posts were apparently weak, being very slender, about 2 and 3 x 4,composed of that kind of submerged and buried wood obtained from the river Tukituki under their pah (village). At first I objected to such slight posts, but I was assured these would stand good longer than the bigger or bulkier ones of new totara, &amp;c., so they went on with their job. When I left that place some twenty years afterwards, that slender pale fence which I had often seen rocking in times of a gale or flood was still standing. Not a single one of thoe slight posts had ever given way.</p>
+    </body>
+  </text>
+</TEI>

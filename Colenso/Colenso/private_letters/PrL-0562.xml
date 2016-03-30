@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0562">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1884 May 19: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1884-05-19">1884 May 19</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1884 May 19: to Balfour<note xml:id="ftn3-235" place="foot" n="235"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Monday night May 19<hi rend="sup">th</hi> 1884</p>
+         <p>Mr D.P. Balfour <lb/>“Glenross”</p>
+         <p>My dear Sir</p>
+         <p>Although I know my letter will not be sent off by P.O. to you before Thursday next, still I will write tonight—ere I commence Eng. wri­ting.</p>
+         <p>I have now before me your kind &amp; most welcome letter of April 21<hi rend="sup">st</hi>; which I saw for the <hi rend="italic">first</hi> time last Friday night—on which day—or night, I returned from “70 mile Bush”. I left here on 22<hi rend="sup">nd</hi> April, &amp; had fine weather all the time, except on two Thursdays (8<hi rend="sup">th</hi> &amp; 15<hi rend="sup">th</hi> inst), when we had rain; in the first entire week of May it was very cold, frost every mg, &amp; now around on high hills.</p>
+         <p>I went as far S as Woodville, where, however, I had a very short stay (only one clear day) owing to constant crowded <hi rend="italic">overloaded</hi> coaches; I enjoyed myself much in the woods, but the season was not good,—the Mosses, hepaticæ, &amp;c, not yet being in fruit. I had capital health, too, but in returning caught (as usual) a dreadful cold &amp; cough, &amp; a straitness of chest, &amp;c, in train—owing to the perverseness of 2 yg women who would have the sash down, even into the <hi rend="italic">dark</hi> night; I am only rallying a wee bit today, my poor pipes wheezing awa like a “Kist o’whustles”; I had left in­structions for all my letters, &amp;c, to be retained; consequently I found a pile—nearly 30 (too many),—but <hi rend="italic">yours</hi> was one of the very first I op­ened—ditto your little box.—The contents of box (packed on 7<hi rend="sup">th</hi>) were as dry as dust, but I have been soaking &amp; cleaning your 2 little plants, which please me much—from <hi rend="italic">general appearance</hi>, the flowers being <hi rend="italic">past</hi> recovery, &amp; perhaps were so (much advanced) when you gathered or dug them up. If you <hi rend="italic">can</hi> send me any more, please do so, in damp Moss—not soil. If not flowers, a root or two; &amp; if not roots (undisturbed) then, mark the spot, &amp; next season look out betimes. It will, I think, prove another <hi rend="italic">new</hi> spn of Orchid, or a rare one—. I have cleaned &amp; put into spirits for exam the two plants, &amp; their roots into my Orchid pot of soil.<note xml:id="ftn3-236" place="foot" n="236">
+               <hi rend="italic">Pterostylis patens</hi> Col.</note>—The black “Beetles” with a snout, I think I know, but bottle them up, &amp;—in due time—send them on!. Everything acceptable, &amp; sure to prove of service, sooner or later.­</p>
+         <p>I was obliged to go into town today, business pressing; &amp; the printing of the Ruahine pamphlet is begun in earnest (1<hi rend="sup">st</hi> proof <hi rend="italic">just</hi> in.)—You will see advt in <hi rend="italic">both</hi> papers. I did not get any papers in the Bush (free from that disturbance); &amp; I see now, that our Socy. held a meeting last week, but could learn nothing of it today!. It seems curious, that “D.T.” that advertised it, has <hi rend="italic">nothing</hi> about it, while “H” has <hi rend="italic">three sep notices</hi>; that used to abuse our meetings so much, or <hi rend="italic">me</hi> in particular.<note xml:id="ftn3-237" place="foot" n="237"> The <hi rend="italic">Hawke’s Bay Herald</hi> and its satirical “Knife Grinders’ Society” pieces.</note> I have an excel­lent letter from Mr R.Stout, Dunedin, <hi rend="italic">re</hi> last pamphlet,—he bought one at Wg.—he pitches in to Dr H. (like others) for not publishing them, &amp; sub­scribes £1.1.0. for 5 copies Ruahine one.</p>
+         <p>I cannot write any more, though lots to say.</p>
+         <p>With very kind regards to you all</p>
+         <p>Believe me Yours truly</p>
+         <p>W. Colenso.</p>
+         <p>P.S. I have also seen a spn or two of Polypodium rupestre, just like what you have described. W.C.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0736">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1890 February 4? to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-1; Undated: but must be 4 February 1890.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+      </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1890-02-04">1890 February 4</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1890 February 4? to Harding<note xml:id="ftn3-466" place="foot" n="466">ATL MS-Copy-Micro-0485-1; Undated: but must be 4 February 1890.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Tuesday night <lb/>4<hi rend="sup ">th</hi>.</p>
+         <p>My dear Sir</p>
+         <p>In our much talking last night we (or I) forgot some things—so I called to see you today, &amp; then went to Hamilton’s,—you had <hi rend="italic">just left him</hi>: I felt <hi rend="italic">too tired</hi> to return.—–</p>
+         <p>1. I wished to show you an advt. in “N.Z. Herald” of 25 Jany. re the little new book,—price 1/- postage 2d, &amp;c.</p>
+         <p>2. Also, to say—If you were writing to your friend Mr. B. by <hi rend="italic">this Mail</hi>, you should have my reserved copy for him: (of course, it is <hi rend="italic">now</hi> too late.) I hope to receive a few more copies shortly—<hi rend="underline italic">I need them</hi>.</p>
+         <p>As you said, you would be leaving for Wgn., soon, perhaps you may write, or send, to Mr B. <hi rend="italic">before</hi> you do so—to go by next S.F. Mail,—if so, <hi rend="italic">this said copy</hi> is at your service <hi rend="italic">for him</hi>: your brother could call for it.—</p>
+         <p>3. Enclosed is Chq. for £1.1.0, my subsn. for ’90—to the “Ph. Institute”—I send to <hi rend="italic">you</hi> as <hi rend="italic">the Treasurer</hi>: I mentioned it to Mr. Hamilton this mg.—–</p>
+         <p>4. Did you notice in “D.T.” of <hi rend="italic">last</hi> evg. Johnston’s <hi rend="italic">kind</hi> (?) remark on Rev. Mr. Wallace &amp; myself! &amp;c, &amp;c. How frequently that fussy person goes astray in his prolix &amp; lengthy communs.—</p>
+         <p>Yours truly</p>
+         <p>W. Colenso.</p>
+      </body>
+  </text>
+</TEI>

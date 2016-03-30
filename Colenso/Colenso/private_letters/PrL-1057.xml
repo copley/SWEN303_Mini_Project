@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1057">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1898 August 26: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0499.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1898-08-26">1898 August 26</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1898 August 26: to Harding<note xml:id="ftn3-912" place="foot" n="912"> ATL qMS-0499.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Waipukurau<lb/>Friday night, Augt. 26<lb/>1898</p>
+         <p>Dear Mr Harding</p>
+         <p>I must no longer put off writing to you: thanking you for yours of 17<hi rend="sup ">th</hi>. together with Catalogue of Books for sale by auction. (My recg. this Catalogue is one &amp; <hi rend="italic">chief</hi> reason for not having written, as I wished to go through it.) <hi rend="italic">This</hi>, then, <hi rend="italic">first</hi>: I cannot go in for any of those Books! many there are therein I should <hi rend="italic">like to see</hi>: and not a few I should like to <hi rend="italic">have</hi>—but, <hi rend="italic">as I cannot take them with me </hi>(like <hi rend="italic">some </hi>of my own, here,) I say— “<hi rend="underline italic">Farewell</hi>”: have not yet gone through more than half of Catalogue. The <hi rend="italic">first ed. </hi>of Buller’s Birds I would <hi rend="italic">not buy</hi>—<hi rend="italic">not even at a low fig</hi>. What I meant was—who is the Bookseller at Wgn. who has the sale of Buller’s <hi rend="italic">last </hi>ed.? (B. had told me, but I forget.) B. had <hi rend="italic">returned </hi>by me from here some 150 copies (more or less) and I wanted to know their <hi rend="italic">present</hi> fig.—<hi rend="italic">i.e.</hi> for a copy. But of no real consequence.</p>
+         <p>I came here <hi rend="italic">yesterday</hi>—to take Ch.S. for Tuke on Sunday. As before—he, in going his <hi rend="italic">long monthly </hi>round, leaves <hi rend="italic">Friday</hi> 9, a.m.. I have been extra busy of late, lots of <hi rend="underline italic">sundry</hi>
+            <hi rend="italic"> matters</hi>: 1, getting out a circular, a copy I enclose, I send to <hi rend="underline italic">all</hi> our Ministers, &amp; to a few others. Fannin sen., has been <hi rend="italic">very </hi>ill (and still confined to his bed—low &amp; weak) I went to see him—at <hi rend="italic">first </hi>I was <hi rend="italic">refused </hi>by his wife, but he, hearing my voice, insisted on my seeing him, &amp;c, &amp;c. I was only in his room a few minutes. He is, however, improving slowly: young Ferguson, fortunately, was handy, &amp; is doing much of F’s. work; <hi rend="italic">and </hi>preaching on the opening of the “<hi rend="italic">Seals</hi>”, &amp; the “<hi rend="italic">Millenium</hi>” with diagrams, charts, &amp;c, &amp;c, <hi rend="italic">weekly nights</hi>, &amp; Sundays!—Rathbone has been <hi rend="underline italic">very</hi> ill, but today a little better. This day has been a <hi rend="italic">very fine one</hi>, &amp; so, at N., <hi rend="italic">last Sunday &amp; Monday</hi>, but Tuesday &amp; Wednesday <hi rend="italic">bad</hi>, torrents of rain! heavy frost here this mg.—</p>
+         <p>Last Saturday I recd. a kind of <hi rend="italic">ultimatum </hi>from Seddon, (in reply to mine of a month ago;) <hi rend="italic">briefly</hi>—he will give order to print if I will pay half the cost: I had in <hi rend="italic">June</hi>, refused to do so, &amp; this I have repeated, am willing to endeavour to get out a part, say 6–8 months hence, as <hi rend="italic">clear copy</hi> for press will be required to <hi rend="italic">go twice</hi> (<hi rend="italic">written</hi>) by me—I cannot well explain in a short note to you;—I am also tied for time, having letters to write, <hi rend="underline italic">here</hi> to go by S.F. Mail. What grieves me is, the <hi rend="italic">good </hi>tone of most of the replies (letters of thanks for copies <hi rend="italic">sent</hi>), wishing strongly for the work <hi rend="italic">to be carried out</hi>,—and I have told S. this. It seems strange, that, while I have lots of letters to hand, from Home, America, the Continent, &amp; Australia <hi rend="italic">all thanking—</hi>
+            <hi rend="underline italic">not one</hi> from <hi rend="italic">all</hi> societies, auxiliaries, colleges, &amp;c <hi rend="italic">in N.Z.</hi>, save from Gore!!—</p>
+         <p>I am keeping well: hope you &amp; yours are all well. Have not yet seen Mr. Grant, neither Mrs Trestrail. Welsh &amp; wife <hi rend="italic">still unwell </hi>at Home. Kind regards.</p>
+         <p>Yours sincerely,                 W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

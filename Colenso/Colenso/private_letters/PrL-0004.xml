@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0004">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Private Letter: 1835 January 15: to Coates</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Hocken Library Ms Vol 63; ATL qMS 0491.</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/6871/">Paihia</name>
+        </correspAction>
+        <correspAction type="received">
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71268/">Coates</name>
+        </correspAction>
+      </correspDesc>
+      <creation>
+        <date when="1835-01-15">1835 January 15</date>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>1835 January 15: to Coates<note xml:id="ftn1-4" place="foot" n="4">Hocken Library Ms Vol 63; ATL qMS 0491.</note></p>
+    </front>
+    <body>
+      <p rend="end">Paihia, Bay of Islands, New Zealand,</p>
+      <p rend="end">January 15<hi rend="sup">th</hi>., 1835.</p>
+      <p>To Dandeson Coates, Esqr.,</p>
+      <p>Dear Sir,</p>
+      <p>The <hi rend="smallcaps">Lord God</hi> of Israel who never slumbers nor sleeps hath, in his manifold mercy, brought us safe to our “desired haven”!—Truly we are bound to offer a Long-year, a triumphant strain of ascription to our <hi rend="smallcaps">God</hi>, “who only doeth wondrous things”!</p>
+      <p>At Sydney, day after day rolled by, and we could not hear of any vessel about to sail for New Zealand.—At last we engaged the “Blackbird,” a small Schooner, of only 67 tons register,—and, on Tuesday the 9<hi rend="sup">th</hi>. Decr., went on board, in order to commence our second voyage:—She did not weigh anchor, however, until the next morning, and was not much under weigh more than 3 hours when she ran ashore on a small isle, within Port Jackson, called, “Sharks’ Island,” there she stuck fast for a few hours, but was got off, without damage:—we again proceeded, and, in the evening, <hi rend="italic">once more </hi>anchored <hi rend="italic">within </hi>Port Jackson.—The next morning we bade adieu to the shores of New Holland.~</p>
+      <p>At Sydney we found several friends—the Revd. Rd. Hill, did everything in his power to contribute to our comfort during our stay; for which I feel exceedingly thankful.—We also saw the Revd. Messrs. Cowper, Styles, &amp; Marsden, and were at the residence of the latter at Paramatta.—We were, also, introduced to a Capt. Brown of the XV. Madras Infantry, who was, <hi rend="italic">I believe</hi>, Sir, Secretary to the Church Missionary Committee, there;—he accompanied us in the “Blackbird” to New Zealand, on a visit to his brother:—he is a true disciple of Jesus.—</p>
+      <p>But to proceed with our Voyage:—for three weeks were we beat about, by contrary winds, in the South Pacific in our little bark;—which was not only very dirty and crammed with cargo, but very leaky! her leaks gained on her considerably, she drew, at last, 7 inches an hour, and kept a hand almost constantly pumping—but He who holdeth the winds in his fist, and ruleth the raging of the seas, kept us, by His Almighty power from any harm! and, on Tuesday the 30<hi rend="sup">th</hi>. Decr. allowed us to tread the shores of New Zealand!</p>
+      <p>We found our dear Brethren, who rejoiced to see us, in health.—The next morning the natives surrounded us, crying, “Ka pai Mihanere,” (very good Missionary,) when the Revd. W. Williams gave them to understand that I was a Printer, and come out to print books for them, they were quite elated;—no hero of “olden time” was ever received by his army with greater éclat. they appeared as if they would deify me! During the week I was busily employed with the natives in landing the goods; and, on Saturday, the 3<hi rend="sup">rd</hi>. January, 1835,—a memorable epoch in the annals of New Zealand—I succeeded in getting the Printing Press landed.<hi rend="bold">[2]</hi>—I was obliged to unpack it on board, but, I am happy to say, it is all safe on shore.—Could you, my dear Sir, but have witnessed the natives, when it was landed, they danced, shouted, and capered about in the water, giving vent to the wildest effusions of joy, enquiring the use of <hi rend="italic">this</hi>, and the place of <hi rend="italic">that</hi>, with all that eagerness for which uncivilized nature is celebrated. Certes, they had never seen such a thing before!—I trust soon to be enabled to get it to work. May the Father of mercies—to whose cause I desire to rededicate myself, body, soul, and spirit,—grant me strength and ability to work it for His glory! May it be instrumental, under His blessing, in bringing thousands to the Cross of our Immanuel!—and of rending that sombre pale of darkness and gloom, which “the Prince of the power of the air” has so long successfully wrapped around the inhabitants of these islands!</p>
+      <p>Our first Sabbath in this land, was <hi rend="italic">one</hi>, that will not, I trust, be easily forgotten.—After the Service, and a Sermon in the native language by the Revd. H. Williams—which was attentively listened to by about 60 natives, who exhibited more order and regularity, my dear Sir, than I have found, I am sorry to say it, in many places of worship in civilized, Christian England!—a little native was baptized, by the name of “Piripi,” (Philip.)—May he be added to the church triumphant!—The Revd. A.N. Brown preached a Sermon in English, and we commemorated the dying love of our dear Redeemer! Surely ’twas a “festal day.”—Our <hi rend="italic">first</hi> Sabbath in <hi rend="italic">this </hi>land—the <hi rend="italic">first</hi> in the year—blessed with witnessing the celebration of both Sacraments, and, what is far greater, of feeling an interest in the blood of Jesus, is more than we could have expected.—Truly the <hi rend="smallcaps">Lord</hi> is still good unto us—He hath not, blessed be his name, notwithstanding our manifold sins, forgotten us!</p>
+      <p>Throughout the Islands there appears to be, dear Sir, a universal movement—a mighty stirring of the People—the Chiefs of distant tribes come down to Waimate, and this place for Books and Missionaries! These seem to be the nil ultra of their ambition. I have seen them, myself, gladly bring their store of Potatoes for a book! May the <hi rend="smallcaps">Lord</hi> put into the hearts of the Christians of England, a universal answer to this universal cry, and question!—indeed, all Christians, who <hi rend="italic">have known the love of </hi>
+      <hi rend="smallcaps italic">God</hi>
+      <hi rend="italic"> in their own hearts, will, </hi>
+      <hi rend="underline italic">must</hi>, <hi rend="italic">come forward, in some shape or other, “to the help of the </hi>
+      <hi rend="smallcaps italic">Lord</hi>
+      <hi rend="italic"> against the mighty”</hi>! Would that I had the nature of a polypi, I would not hesitate to cut my members to pieces, instantly, and say to each, “Go forth, in the name of the <hi rend="smallcaps">Lord</hi>!”</p>
+      <p>The Committee of Missionaries, dear Sir, have thought proper to station the Press at Paihia; of course, I am here also:—so is Mr. Wade, for the present. Mr. Flett, also, remains here, for the present. The Revd. A.N. Brown<note xml:id="ftn1-5" place="foot" n="5"> The Fairburns left Paihia for Puriri in 1834.</note>
+      <hi rend="bold">[3] </hi>with his wife and family, is waiting for a fair wind, to carry him to his new station,—Puriri.—Several new stations are formed, and others forming, more will be added when there are labourers to “go forth”! Whilst in England, I heard a <hi rend="italic">great deal</hi> about Missions, and might have sometimes entertained an idea of the accounts published being exaggerated, but, I <hi rend="italic">now</hi> find that it is not so—<hi rend="italic">quite the contrary</hi>.—</p>
+      <p>It is a gladdening sight to see and hear the natives at Prayers.—It is generally conducted by a baptized native Christian,—whose tall commanding figure,—book in hand,—loosely wrapped in a blanket,—or flax mat,—after the manner of the ancient toga, forcibly reminds me of Raphael’s cartoon of “Paul preaching at Athens.”—Their language conveys in the sound, something <hi rend="italic">peculiarly devotional</hi>.—The Confession, Lord’s Prayer, and other portions of our beautiful liturgy, sounds, in the native tongue, really awe-inspiring.—Every morning and evening, the Chief and the Slave—the Cannibal Warrior and the “smiling babe”, are to be found prostrate before the mercy-seat of our Saviour and their <hi rend="smallcaps">God</hi>! If anyone’s heart wants animating towards Missions, he should witness this sight;—if he did not soften, he must be, indeed, “harder than the nether mill-stone.” I can now adopt the language of the Prophet:— “From the uttermost parts of the earth, have we heard songs—glory to the righteous!—even the name of the <hi rend="smallcaps">Lord God</hi> of Israel, in the isles of the Sea”!</p>
+      <p>I wrote you, dear Sir, a <hi rend="italic">short</hi> letter from Sydney, and I hope you have been so kind as to attend to my requests. Please present my best respects and Christian love to Revd. W. Jowett and the Revd. J. Dyer. (Fen Court, Fenchurch St.) not forgetting, Mr. Northover and <hi rend="italic">all</hi> enquiring brethren.</p>
+      <p>We left England without any printing paper, but I hope it will arrive by the time I am ready for it.</p>
+      <p>But I must, Sir, close:—I fear I have trespassed already, on your patience, at least.—May the “<hi rend="smallcaps">God</hi> of Israel” keep and bless you, in your “goings out and comings in”,—and, when your “labour of love” below is finished, give you, through Jesus Christ our Redeemer, a peaceful entrance into the New Jerusalem!</p>
+      <p>So prays, an <hi rend="italic">unworthy</hi> Missionary of Christ,</p>
+      <p>called,</p>
+      <p>William Colenso.</p>
+    </body>
+  </text>
+</TEI>

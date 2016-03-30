@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1019">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1897 October 31: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0499.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1897-10-31">1897 October 31</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1897 October 31: to Harding<note xml:id="ftn3-862" place="foot" n="862"> ATL qMS-0499.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">“Tavistock Hotel<lb/>Waipukurau<lb/>October 31, 1897.<lb/>(2 p.m.)</p>
+         <p>Dear Mr Harding</p>
+         <p>I duly received yours of 25<hi rend="sup">th</hi>. &amp; <hi rend="italic">you</hi> have been <hi rend="italic">much </hi>in my mind ever since. I trust you have entered on your <hi rend="italic">new </hi>line of <hi rend="italic">duty </hi>(<hi rend="italic">not work </hi>as you are so well-acquainted with it, &amp; <hi rend="italic">well-adapted</hi> for it) and that <hi rend="underline italic">all things</hi>
+            <hi rend="italic"> will </hi>now—or shortly—<hi rend="italic">run on smoothly &amp; fittingly with you</hi>. I came hither on Wednesday, 27<hi rend="sup">th</hi>.—was at Waipawa (all <hi rend="italic">day </hi>till evg.) on <hi rend="italic">Thursday. </hi>Friday I visited <hi rend="italic">your </hi>(<hi rend="underline italic">our</hi>) good friend Mr. Grant, &amp; spent an agreeable hour w. him—thence to Mr. Tuke’s, but he had gone off that mg. to Gwavas (Carlyon’s) to Baptize an infant, in <hi rend="italic">lieu</hi> of Gardiner, who is ill, &amp; gone to Napier, to proceed to a warmer climate in <hi rend="italic">hopes</hi>, &amp;c., but Bibby &amp; others think that Gardiner’s <hi rend="italic">work </hi>
+            <hi rend="underline italic">there</hi> is done!</p>
+         <p>I returned from Manse &amp; Vicarage <hi rend="italic">very tired</hi>—a <hi rend="italic">long </hi>walk for me! In evg. Mr. G. kindly came down &amp; spent a long hour w. me:—then Mr. Tuke came, &amp; staid till past ix.—<hi rend="italic">Yesty. </hi>I called on dear Mrs Trestrail, &amp; spent an hour there—enquired very affectionately after you: both Mrs.T. &amp; Mr.G. much pleased w. my 3 letters <hi rend="italic">re </hi>Grogan—also, Eccles whom I saw at Waipawa this mg. I had fully <hi rend="italic">intended</hi> going to Ch. &amp; even (at last) went so far as the hill side on wh. Town Hall stands, but the furious wind w. rain—drove me back. Tomorrow (D.V.) I return to Napier:—I see, in papers, “<hi rend="italic">Rimutaka</hi>” at Hobart &amp; left for Wgn. so Bp. W. will soon be here. Your Uncle John was a fellow-passenger w. me from Waipawa, returning from Napier, &amp; <hi rend="italic">looking </hi>remarkably <hi rend="underline italic">well</hi>. On Tuesday, 26<hi rend="sup">th</hi>. your <hi rend="italic">Father</hi> kindly called at my house bringing “Temple Magazine”. Mrs.A. ansd. bell—&amp; (she <hi rend="underline italic">says</hi>) he did <hi rend="italic">not </hi>speak—merely gave her the packet: I brought it on w. me, &amp; have read (or run through) it here: I thank <hi rend="italic">you</hi> for yr. so kindly remenbg. me; and Dean Farrar for what he has <hi rend="italic">in it </hi>written of Bp. Natal,—but it is <hi rend="italic">one </hi>thing to come out <hi rend="italic">now</hi>, and another thing to come out <hi rend="italic">when</hi> Dean Stanley did—w. a whole mob of clerics baying against him! I thought of sending you <hi rend="italic">that </hi>report, but I found I had fixed it in Stanley’s “Xn. Institutions”—a work I should like <hi rend="underline italic">you</hi> to read. I note what you say <hi rend="italic">re </hi>Infant Baptisms, &amp; could <hi rend="italic">tell </hi>you a <hi rend="italic">deal </hi>re same: <hi rend="italic">my stumbling-</hi>block w. Bp. Selwyn! who was <hi rend="italic">not </hi>so bad as many others—then &amp; <hi rend="italic">now</hi>. Your <hi rend="italic">new </hi>Gk. font is <hi rend="italic">not </hi>new with me—I have it (now 6–8 yrs. old) in 2 vols. Gk. Test. w. copious notes, transl., &amp;c &amp;c by <hi rend="italic">Dr. Short &amp; another, re R.V.</hi>, &amp; their <hi rend="italic">differences</hi>—viz. Uncial Mss., &amp; readings of R.V. Translation [I write from <hi rend="italic">wreck </hi>of memory <hi rend="italic">only</hi>, &amp; may be a bit wrong.] And, also, in my <hi rend="italic">older</hi> Gk. wke.—<hi rend="underline italic">scores</hi> of curious combinations of letters, &amp; <hi rend="italic">shortg.</hi> of words—veritable puzzles some of them. The night before I left I sent in “Dedn.” “Addendum”, &amp; proofs to P.O. w. letter explanatory to Mr. Mackay.—I hope <hi rend="italic">you two </hi>will get on <hi rend="underline italic">well</hi> together, that your duties may not prove <hi rend="italic">too onerous</hi>, &amp; that you may <hi rend="italic">keep your health</hi>: as I suppose you will have to work <hi rend="italic">full hours</hi>, w. <hi rend="italic">constant</hi> application <hi rend="italic">head-work</hi>, I feel it a <hi rend="italic">duty</hi> to advise you—to <hi rend="italic">give up Sunday work</hi>—or, when too late, you may find you were burning candle at both ends. Your brain, my friend, will <hi rend="italic">require relaxation</hi>—so seek to possess a sane mind in a <hi rend="italic">sane body</hi>.–</p>
+         <p>It is <hi rend="italic">more </hi>than 7 months since I entered a Ch.! Tuke pressed me <hi rend="underline italic">hard</hi> to preach this mg., and I <hi rend="italic">half </hi>consented <hi rend="italic">if able</hi>—when I should get there.—Mr. Grant had also asked me to do so here for him:—but I fear <hi rend="italic">my preaching</hi> days are over.</p>
+         <p>I note what you say, <hi rend="italic">re</hi> Travers and the <hi rend="italic">barbules</hi> of the spn. of <hi rend="italic">Regalicus</hi>.—but in Parkers <hi rend="italic">beautiful</hi> and coloured <hi rend="italic">drawings</hi> in <hi rend="italic">Zoologl. Mag. </hi>those are shown—carefully &amp; entirely.—great pity those plates were not with you: I have thought of sending you my copy—to <hi rend="italic">be shown</hi>.—</p>
+         <p>Thanks for your remarks <hi rend="italic">re </hi>Grogan. Curiously enough <hi rend="italic">Grant </hi>knew him, <hi rend="italic">before </hi>that he (Grant) came here, &amp; relates a curious story of him—too long for insertion. I think I shall republish <hi rend="italic">all</hi>—pamphlet fashion—am urged to do so by several.—</p>
+         <p>
+            <hi rend="italic">Since </hi>I came hither have seen a <hi rend="underline italic">sad</hi>
+            <hi rend="italic"> notice</hi> of Sir George in papers, in my letter to Mackay I said,—If <hi rend="italic">his </hi>decease is cabled <hi rend="italic">before </hi>the wkg. of “<hi rend="italic">Dedn.</hi>” to add—text line—on top—“<hi rend="italic">In Memoriam</hi>”.—</p>
+         <p>I do not know “Key to Psalms” by Rev.T. Boys: but what you mention <hi rend="italic">re </hi>Acrostic Pss., &amp;c. is largely brought forward by Perowne—in his Transln. w. <hi rend="italic">copious</hi> notes, &amp;c, &amp;c—2 vol. 8vo. large—2<hi rend="sup">nd</hi>. ed. P. praises Calvin &amp; Luther for their renderings—&amp; <hi rend="italic">far</hi>-sightedness.—</p>
+         <p>In a former letter you mentioned a paper on a Samoan bird—now nearly extinct. Curiously enough I have a val. account of it with <hi rend="italic">really </hi>sc. drawings, &amp;c., &amp;c, written &amp; published 50 yrs. ago, by Strickland—in his <hi rend="italic">unique</hi> &amp; costly work—cold. plates &amp; numerous dissections, impl. 4to., “<hi rend="italic">The Dodo &amp; its kindred</hi>”; the Samoan bird is a sp. of pigeon—Didunculus, and is allied to the <hi rend="italic">Dodo</hi>.—This fine book was early presented to me by its author, on seeing my <hi rend="italic">first </hi>paper on the “Moa”—in English pubs.—–</p>
+         <p>Let me have a <hi rend="italic">few </hi>lines from you at your early <hi rend="italic">leisure</hi> (if any?)—</p>
+         <p>         Kind regards to you &amp; yours</p>
+         <p>                         I am yours sincerely            W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

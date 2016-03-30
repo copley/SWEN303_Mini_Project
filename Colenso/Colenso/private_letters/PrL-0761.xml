@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0761">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1890 December 31: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0495.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1890-12-31">1890 December 31</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1890 December 31: to Harding<note xml:id="ftn3-502" place="foot" n="502"> ATL qMS-0495.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Decr. 31<hi rend="sup">st</hi>.<lb/>1890.</p>
+         <p>Dear Mr Harding</p>
+         <p>I am greatly indebted to you for your long interesting &amp; loving letters: indeed, &amp; acting honestly, I must tell you—that, you give me <hi rend="italic">too much</hi> of your val. time, knowing as I do, how closely you have to stick to your arduous &amp; unremitting profl. duties.—</p>
+         <p>Since my last to you (on 21<hi rend="sup">st</hi>) I have recd. 2 from you, viz of 22<hi rend="sup">nd</hi> &amp; 28<hi rend="sup">th</hi>—both of them have much interested me—party. the latter. I have just read it over <hi rend="italic">again</hi> (3<hi rend="sup">rd</hi> rg. of “proof”!) and there is much in it I should like to <hi rend="italic">talk</hi>
+            <hi rend="italic">over</hi> w. you—which we may do some day. I think I may throw some little light on that <hi rend="italic">early</hi> (or <hi rend="italic">first</hi>?) ptg. press, &amp;c.—I possess a copy of “Yate’s N.Z.” written by himself—from his papers, &amp;c, during a 5-months voyage to England, &amp; further supervised &amp;c by Secs. C.M. House, who pubd. it. It is a neat Vol. of 300 (&amp; odd) pgs. illd. w. fair &amp; truthful plates.—</p>
+         <p>(I should here premise, that Y. was <hi rend="italic">not</hi> liked by the Missionaries <hi rend="italic">then</hi> in N.Z., partly (perhaps mainly, bec. <hi rend="italic">he was always blowing his own trumpet, &amp;c</hi>.—(Much in E.Baker’s way)—as his book clearly shows. Yet, he was (I think) <hi rend="italic">the</hi> working Jny. of his time: he left N.Z. for home while I was in Sydney—so I never saw him.)</p>
+         <p>On a sep. paper I give you <hi rend="italic">verbatim</hi> what he says of printing, &amp;c. and pretty <hi rend="italic">sure</hi> I am, if anything of that kind (adduced by Sherrin) was correct.—Y. would (must) have mentioned it.</p>
+         <p>While I was in Sydney, waiting for a vessel to take us to N.Z., H.M.S. “Alligator” arrived from N.Z.—and the surgeon Dr. Marshall, a <hi rend="italic">good</hi> Xn., who knew the Misss. well, soon found me out, &amp; we were good acquaintcs. Well, he had left Y. in the Bay of Islands, he (too) mentions Y’s. printing supn.<hi rend="italic">in Sydney</hi>, where he Dr. Marshall had first become acquainted with him.—</p>
+         <p>Now for a <hi rend="italic">fact</hi>: Dr M. took w. him to Sydney (on his <hi rend="italic">first</hi>
+            <hi rend="italic">return</hi> thither from N.Z. &amp; the Missions,)—small school lessons in Maori words, &amp; <hi rend="italic">single</hi> texts in others, to be printed—which was done in 4to. fcp. I have had to saw up boards, &amp; paste on some scores of those small lessons, for our schools—scattered in N.Z. And, if there were <hi rend="italic">the means</hi> of printing such in N.Z., those small lessons would not have been ptd. at Sydney whence the commn. was so very <hi rend="italic">uncertain</hi> &amp; always <hi rend="italic">distant</hi>.—</p>
+         <p>(I fear I may <hi rend="italic">not</hi> have one of them left: but I will <hi rend="italic">look out</hi>.).</p>
+         <p>
+            <hi rend="italic">Tract No. 2.</hi> I was accepted, &amp;c. by the C.M.S. in 1833.</p>
+         <p>Tract, No.3. Marsden (I believe) in his commns. (unfrequent in those days,) w. the C.M.S., had urged the necessity &amp;c—of a Pg. Press being sent out, &amp;c—and in this he was supported by the Misss., party. by the late Bp. W., &amp; when I arrd. in N.Z. I was “billeted” at <hi rend="italic">his house</hi>, for the first few months, until he (&amp; the present Mrs. W.) left Paihia for the Waimate: we were therefore <hi rend="italic">often</hi> together, &amp; convd. about ptg. Mr W., <hi rend="italic">evidently </hi>had<hi rend="italic">never seen</hi> Typesetting &amp;c before: he was <hi rend="underline italic">often</hi>
+            <hi rend="italic"> </hi>in the Pg. Office, and well do I remember his exclamation of pleasing surprise on seeing a line spaced out in cpg. stick—“he had often wondered how it was done to have all the lines of equal length!”</p>
+         <p>Tract, No. 4. I never once heard of any such thing in N.Z. which then so recently used and for public good must have been well-known—if in the Land.</p>
+         <p>Tract, No.5. So with my fellow-voyager (Mr Wade, he, too, <hi rend="italic">for a</hi>
+            <hi rend="italic">season</hi>, connected w. the Press, and for some months (years, altogether) living at the Kerikeri (Great <hi rend="italic">Store</hi> Station), &amp; at Te Waimate where Yate had lived, &amp; where his goods &amp; chattels <hi rend="italic">were</hi>: besides Y. (a single man) always, when at Home lived <hi rend="italic">in Mr Clarke’s house</hi>: so, that all he had left in N.Z. were there.—Wade was particularly inquisitive (and prying): had been <hi rend="italic">used</hi> to Pg. Off.—as he used to <hi rend="italic">correct</hi> the proofs of the Ch. My. <hi rend="italic">books</hi>, serials, &amp;c, &amp; bring them to Watts’ office: and (like myself,) was extra vexed at Pg. Off. <hi rend="italic">Furniture</hi>, &amp;c, &amp;c, not turning up; &amp; in the <hi rend="italic">search</hi> for Paper, &amp;c. if anything of Ptg. Off. kind were in the Cy., such would be forthcoming. Sherrin (?) in “Ey. Histy.” quotes from Wade, re ptg. press, &amp;c—</p>
+         <p>Comparing <hi rend="italic">dates</hi>. (Yate’s in his Book, and Sherrin’s quotation (?)) I am inclined to think 2 things (1) Yate’s remark (per Sherrin) is connected w. something done by him &amp; the boy S. <hi rend="italic">in Sydney</hi>: <hi rend="italic">or</hi>, (2) that Y. brought w. him to N.Z. merely a toy-press—but I prefer the <hi rend="italic">former</hi> supposition. Again bearing in mind <hi rend="italic">those 2 dates</hi>:—and <hi rend="italic">knowing</hi>
+            <hi rend="italic">well</hi> the worry and hindrances attendant on arrival of vessel w. stores for Mission—&amp;, at that particular time, w. Yate’s <hi rend="italic">books</hi> ptd. in Sydney,—&amp; how long it would necessy. be before Y. could get a ptg. p., type, &amp;c—to his place so far inland, &amp; no roads., &amp; get it into wkg. order—it seems to me <hi rend="italic">impossible.</hi>
+         </p>
+         <p>Further: when w. Marsden at his house in Paramatta, &amp; often seeing him in Sydney: &amp; going w. him to view <hi rend="italic">the Press</hi>, &amp;c—in Campbell’s store at Sydney—never a sound about a <hi rend="italic">former</hi> (or <hi rend="italic">any other</hi>) Press: while <hi rend="italic">this one</hi> was eulogized &amp; talked about.—</p>
+         <p rend="center">_______</p>
+         <p>I have seen copies of those <hi rend="italic">little</hi> books printed at N.S.W. (by Y. on his <hi rend="italic">first</hi> visit) and also, possess copies of those printed there &amp; by him, on his <hi rend="italic">second</hi> visit.—W.C.</p>
+         <p>I hope you may be interested in all I have written on this subject. Seeing you were <hi rend="italic">under that</hi> promise to Wildman, you could not well divulge that matter to me: but W. should not <hi rend="italic">so</hi> have acted towards me—for we were in pretty large correspondence and I believe I gave him a book for his old Maori shelf.—</p>
+         <p>You touched a <hi rend="italic">sad</hi> chord, when you remarked <hi rend="italic">on the old corner of the table</hi> (where the Old Hermit writes o’ nights): I mean, my <hi rend="italic">not</hi> recg. you &amp; other kind visitors so affy. as I should have done: this, of late has caused me grief. Formerly I had 4 good visitors, all Cap. <hi rend="italic">H</hi>. Hill, Harding, Hamilton, Hovell. &amp; <hi rend="italic">now</hi>, only <hi rend="italic">one</hi>! Mr Hill was here w. me last nt. From VII–XI.20 (reminding me of <hi rend="italic">you</hi>.) the first visit since you left!! &amp; my <hi rend="italic">only</hi> visitor since my return. I have a <hi rend="italic">long</hi> L. from Hamilton—<hi rend="italic">anon</hi>!.</p>
+         <p>Heartily, wishing you a Happy New Year.——</p>
+         <p>I am my dr, Sir,</p>
+         <p>Yrs sincy.</p>
+         <p>W.Colenso.</p>
+         <p>Yates says:—</p>
+         <p>“When the lang. was in some competent degree fixed, &amp; a sufft. copiousness of words obtd., the wk. of translg. portions of the Hy. Scr. &amp; of the Liturgy of the Ch.of Eng. were commenced.————In the former part of the yr. 1830, I spent upwards of 6 months in N.S.W., occupied in carrying thro the press 117 closely-ptd. pp. of a selection from Scrip., the Liturgy, Catechisms &amp; Hymns, transld. into the lang. of N.Z. Nothing could exceed the gratification w. wh. these books were recd. on my return, by those who could read them. They were willing to rec. them as wages, or to purchase them w. anything they possd. of a saleable nature.</p>
+         <p>“During the 2 yrs. subsequent to this first successful attempt, the Translating Commee. assiduously prosecuted their important labours. At length—having ready for the press the whole<note xml:id="ftn3-503" place="foot" n="503"> WC: errors: <hi rend="italic">not</hi> so.</note> of the Liturgy of our Ch., with all* its services, a no. of Hymns &amp; Catechisms, w. the Gospels of St. Matthew &amp; St. John; the Acts of the Apostles, &amp; the Eps. of P. to the Rom. &amp; Cor.—it was detd. that I shod. visit N.S.W. for the purpose of carrying these works through the Press. This, w. other matters connected w. the Socy., occpd. me from Nov.1832 <hi rend="italic">to August 1833</hi>. On my return, being favd. w. a prosp. voyage of eight days, I arrd. in the By of Islands, bringing with me, as the most val. Cargo that ever reached the shores of N.Z., the above mentioned Books, of wh. 1800 copies were printed. I was much assisted, in correcting the press, by Edward Parry Hongi, a native youth of pleasing manners; whose conduct was such, as to gain the esteem &amp; love of those who knew him.”<note xml:id="ftn3-504" place="foot" n="504"> WC: I knew E.P. Hongi &amp; have his likeness.</note>
+         </p>
+         <p rend="end">(Yate’s N.Z., pp.231, 232, <lb/>1835.)</p>
+         <p>Dr. Marshall, says:—</p>
+         <p>“<hi rend="italic">1834. March 13.</hi> The Rev. W. Yate visited the ship, &amp; persuaded me to land w. him at Paihia, where, after accompanying him to the spot at which a boat waited to convey him across the Waitangi, or “River of Tears,” on his homeward way to Waimate, I spent the remainder of this &amp; the follg.day. I had previously become acqd. w. this clergyman in N.S.W., early in 1833, when he was superintending, at Sydney, the ptg. of the Book of Com. Prayer, a colln. of Hymns, &amp; portions of the O. &amp; N. Tests. in the N.Z. tongue, for the use of the natives”.—</p>
+         <p> (and then follow, a <hi rend="italic">good deal</hi> of what he saw in <hi rend="italic">the schools</hi>, &amp; of their work, &amp;c. Also, further on, of his visit <hi rend="italic">to Yate</hi> at Waimate, &amp; of what he saw there, &amp;c.)</p>
+         <p>Then, Dr. M. says:—</p>
+         <p> “Having, when in Engd. acqd. myself with the machinery of the Infant Sch. system,—I took the liberty of suggesting several alterations in the Sch. at Paihia, &amp; was flattered by having my recommendations attended to in every particular,—————&amp; had the happiness to procure a translation of most of the lessons, [at present they are merely taught in English,] the joint labour of Mrs. W. Williams &amp; Mrs. Brown, two of the fem. Misss., who worked at their voluntary task by nt. &amp; by day to get it completed in readiness for me to take to Sydney, where T.C. Harrington, Esq. &amp; other friends, enabled me to get them ptd. without expense to the Mission;—and at a subsequent visit to the Bay of Islds., it gave me great satisfn. to hear that they were in genl. use, &amp; considd. to be very accurate”.</p>
+         <p>(Marshall’s “Personal narrative of, two visits to N.Z.”, pp.25, 26, &amp; 46, 47.)</p>
+         <p>[What need of that—if a Pg. P. in the land?—Mrs W. (widow of the late Bp.)—Mrs.Brown—Archdn. Brown’s wife.] W.C.</p>
+      </body>
+   </text>
+</TEI>

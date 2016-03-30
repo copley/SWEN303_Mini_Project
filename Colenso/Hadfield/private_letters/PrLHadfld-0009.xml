@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0009">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1837 December 27: Octavius Hadfield to his sister Julia </title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 18)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 20.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1837-12-27">1837 December 27</date>
+                  <name type="place">Ventor, Isle of Wight</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70793/">Julia (nee?) Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1837 December 27: Octavius Hadfield to his sister Julia
+         </p>
+      </front>
+      <body>
+      <p>Ventnor</p>
+      <p>Isle of Wight</p>
+      <p>Dec. 27th. 1837</p>
+      <p>My dear Julia,</p>
+      <p>I should have written to you before this had I known your address, but not having it I could not.  My plans since you left home have been altered.  The Bishop of London refused to ordain me without a degree or two years residence at Islington.  He never laid down such a rule before.  He opposes the C.M.S. as much as he can but he can only do what the Lord permits him.  I am convinced that none can have any power against me, or any of the people of Jehovah's choice except it is given from above.  The C.M.S. wish me to proceed in a few weeks to New Zealand &amp; to be ordained by the Bishop of Australia at Sydney.  I did not like the idea of going out without ordination at first, but after much reflection and conversation I have agreed and decided upon proceeding there at the end of next month.  I am persuaded from a letter I saw of the Bishop of Sydney that he will ordain me.  George was good enough to go to London to endeavour to see whether anything could be arranged with the Bishop but it was of no use.  I went to London on Saturday week and remained there till Thursday evening.  I have fully settled everything about going to New Zealand.  They originally intended me for India, but as there is a vacancy in New Zealand and Mr. Williams there is oppressed with work, they wish me to help him at once with a school there.  But the principal thing they wish me to confine my attention to is the New Zealand language, that I may be able to translate the scriptures.  It is a fine work but I am altogether unfit for it.  May the Lord strengthen me and fit me for the work whereto he has called me and appointed me.  I shall be obliged to study Greek more perfectly and Hebrew also.  I believe that I may be able to translate better.  It strikes me very strongly as a mark of the Lord's direction and guidance that I should be sent to New Zealand.  I had thought of that place as you know for some years, and now they are going to send me there of their own accord, through the disposal of the Lord.  It is one of the best climates in the world &amp; in all human probability will agree with me, with the Lord's blessing.  In all things I see and acknowledge my Heavenly Father's love towards me.  I shall endeavour to pay you a visit before I leave England.  I seem to miss you here.  May the Lord bless and prosper you even to the end.  Study the Scriptures with diligence and seek for clear signs of divine truth through the teaching of the Holy Spirit, and the Lord will keep you to His Eternal Kingdom.  They are all pretty well here except Aleck who I believe is getting better.  Charles came over with me for a week.  Believe me ever, my dear sister.</p>
+      <p>Your most affectionate brother,</p>
+      <p>Octavius Hadfield.<!--Previous editor's note: Also attached to the end of this letter is a copy of another letter to Julia dated Feb. 3rd 1838.  For the transcript of this please look in normal chronological sequence - it follows the letter to Mrs Hadfield, dated 1.2.38-->
+      </p>
+      </body>
+   </text>
+</TEI>

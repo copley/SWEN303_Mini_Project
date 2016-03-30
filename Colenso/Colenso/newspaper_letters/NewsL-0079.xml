@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0079">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1878 Sunday-school picnics. Hawke’s Bay Herald 6 September.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1878-09-06">1878 September 6</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1878 Sunday-school picnics.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 6 September.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—Now that our Parliament have ceased for a while, perhaps you may find room for a few lines from me.</p>
+         <p>Yesterday I read, in a late number of the London <hi rend="italic">Times</hi> (just to hand by mail), of a very influential deputation of Irish gentlemen, who had recently called on the Rt. Hon. Mr Lowther, M.P., Chief Secretary for Ireland, “to present a memorial; signed by a very large number of Irishmen, asking to be enrolled as volunteers, ‘in support of the honour of the Empire’ under regulations similar to those governing the Volunteer forces in England, Scotland, and the Colonies.” Lord Monck, who was the first speaker, said, (among many other very good remarks,) that he, and those with him, thought,—that a judicious enrolment of a loyal Volunteer force would prove of vast advantage to Ireland; would be a sure and ready engine in the hands of the Government for putting down those sectarian outbursts; for the Government could refuse the parts where those disturbances occurred the power to form a corps. The Government could say,— “As soon as you show a clean bill of health and <hi rend="italic">do away eith your 12</hi>
+                  <hi rend="sup italic">th</hi>
+                  <hi rend="italic">. of July and St. Patrick’s Day disturbances</hi>, we will grant you your wish, but so long as that sort of thing goes on we cannot permit you to have Volunteer corps.”</p>
+         <p>I have always believed in that:— “Do away with (the cause of) disturbances” and heart-burnings. Thirty-five years ago I both spoke and wrote against the first public celebration of “St. Andrew’s Day” (as it is called),—saying,— “Banish all such from this young Colony, (S.S. Andrew, Patrick, George, David, and the Orange Days,) and let us here go in for a United Colonists Day.” To me,—it seems not altogether unlikely, that, a few years hence, some such question as this may form a legitimate one for our Debating Clubs,—which is the greatest cause of mischief to New Zealand, the introduction and keeping up of those fearful Sectarian blemishes, or the introduction of house sparrows and rabbits?”</p>
+         <p>For my own part I felt convinced, that it should be the aim of every good Colonist,—of every well-wisher to the human family,—to do all in his power firmly and consistently to put down narrow Sectarianism.</p>
+         <p>Yesterday two little girls called on me, (one at a time,) each with a begging card for donations to their respective Sunday School picnic. (The same thing happened last year.) And I was obliged to refuse to contribute—in that way—towards the upholding of narrow Sectarianism. At the same time I felt it was both an ungracious and unpleasant thing to do, to such nice young children whom I know and respect; for though I briefly told them my reasons, I fear they could not comprehend them.</p>
+         <p>I told them (just as I said last year),—that I would willingly give liberally, if their Teachers and Ministers would unite and have one really good holiday together,—taking the children (say) by train to the country; by which they would be able to see (perhaps with many of them for the first time!) the beauties of Nature, the growth of our district,—and the wonderful works of God.</p>
+         <p>I hear, that all the Protestant sects are moving just now; each to have their own little S. School pic-nic. Good: but why not <hi rend="italic">unite</hi>? and do it <hi rend="italic">well</hi>, nobly and <hi rend="italic">charitably</hi>! with all the several little S. Schools in our country townships also joining—like so many streamlets—and swelling the stream! that would be something like a holiday! a day of gladness and joy not likely to be forgotten.</p>
+         <p>I trust that no one who knows me will for a moment suppose,—that I propose such a plan in order to save money! In subscribing, as it is, suppose I were to give (say) five shillings to each, (as some do, “and have done with it”!) that would not amount to much,—say, £1 5s, or so. But, to enable the teachers and ministers to carry out the large-hearted and nobler scheme, I am willing to give £5, and to do the same every year as long as I may live.</p>
+         <p>A month ago you told us, in your paper, of the opening of the new Presbyterian Church at Waipukurau,—and that on that festal occasion there were ministers of various Protestant sects—Church-of-England, Presbyterian, and United Methodist,—all taking part in the proceedings,—like “brethren dwelling together in unity” and helping one another— “shoulder to shoulder.” Therefore, I ask again, Why not join in having a grand united S. School pic-nic for the benefit of the little ones?</p>
+         <p>And here I may, perhaps, in conclusion, set down, what a very intelligent person who was present at that meeting said to me in relating it, (though, possibly, our plain speaking and my plain writing may offend some one,)—he spoke of it approvingly, as “a great success” and as “a goodly show to see and to hear them,”—adding, “but was it a reality or a sham?” I replied,— “God knows, and they know, and time will show.”—<hi rend="italic">Verb. sap.</hi>—I am, &amp;c.,	<lb/>  
+                  <hi rend="smallcaps">William Colenso.</hi>
+               </p>
+         <p> Napier, Sept. 4, 1878</p>
+      </body>
+   </text>
+</TEI>

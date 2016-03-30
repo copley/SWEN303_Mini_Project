@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0574">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1884 August 22: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1884-08-22">1884 August 22</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1884 August 22: to Luff<note xml:id="ftn3-255" place="foot" n="255"> ATL MS-Copy-Micro-0485-4.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier,Friday night,<lb/>August 22/84.</p>
+         <p>A. Luff Esq.,<lb/>  Wellington.</p>
+         <p>My dear Sir,</p>
+         <p>Your kind &amp; most welcome Note of 19<hi rend="sup">th</hi>. inst., came duly to hand, and I thank you for it—though, I confess, when I saw your <hi rend="italic">well</hi>-known handwriting, I could scarcely believe my own eyes,—for I had begun to think you had entirely forgotten me.—</p>
+         <p>Now this note of yours has doubly pleased me; for its frankness, &amp; for its telling me, that <hi rend="italic">you</hi>, too, approved of the little new Book:—this, as far as I have heard, is the general opinion concerning it, &amp; I am glad that now—<hi rend="italic">at the end</hi>! I have written after this fashion, and <hi rend="italic">pleased</hi> my readers.—I have received several notes from Subscribers respecting it, most of them doing as you have—ordering more to send abroad: Tiffen (H.S.) was delighted, &amp; staid up all night to read it: so H. Nairn,—Bold,—Beamish—Balfour (of Glenross), P. Gow,—Horace Baker, &amp; many others you don’t know—but I must not omit Sir G. Grey, who (tho’ <hi rend="italic">busy</hi>) wrote me a very handsome letter, &amp; requested me to write my name in one (of his 6) as he intended that for the Auckd. Public Library.—</p>
+         <p>With this I send a Book packet to you, containing 3 copies,—one of which I have written your name on, &amp; mine in, &amp; beg you to accept that copy <hi rend="italic">from me</hi>.—There are still a few copies left: as I took the precaution (or, ran the risk) of having 100 <hi rend="italic">extra</hi> copies printed. Of these I have now given away 39—several to England, &amp;c., &amp; <hi rend="italic">one</hi> so far N. as Upsal in Sweden! The price to non-subsrs. is 5/-, though all subsrs. may still have copies at 4/-. I do not think however that I shall recoup outlay: I have already pd. nearly £50.—<hi rend="italic">all </hi>(save fut. postages) I am happy to say. At <hi rend="italic">first</hi>, I did not intend to go beyond 60 pages—for the “4/-” price advd., but as it went on, &amp; I adding Notes, Appendix, &amp;c., it increased: still, I had not intended the 4/- to include postages—wh. is 4d. on every single book in Colony,—8d. to England &amp; Australn. Colonies: &amp; Craig, who received over 50 of those names published, must have his 25%!—Very little cash has come in to <hi rend="italic">me </hi>yet, just £3. or so. I lost considerably by the former pamphlet: printing and advertising <hi rend="italic">here </hi>is so very expensive.—Mr. Sidey gave in his name, 2 days too late! which <hi rend="italic">I regretted</hi>: of course he could have done so earlier, as he is <hi rend="italic">often</hi> at Craig’s, now that he lives in town.</p>
+         <p>I note what you say, <hi rend="italic">re </hi>trouble from your thoughtless careless <hi rend="italic">White </hi>neighbours, on the matter of <hi rend="italic">their</hi> stock: just so it <hi rend="italic">was</hi> w. me <hi rend="italic">here</hi>, some years ago, hence I was obliged to <hi rend="italic">wire</hi> between rails to keep theirs out! and then had to put up with threatenings &amp; one day was told— “What business had I with so much hill land?” &amp;c &amp;c &amp;c.</p>
+         <p>I smile over your remarks about the New (&amp; <hi rend="italic">now</hi> dead!) Ministry, &amp; what they might do! when, lo! <hi rend="italic">before</hi> I recd. your letter—they were <hi rend="italic">no more</hi>! and now, what next? I hope to go inland (say) by 1<hi rend="sup ">st</hi>. Octr., &amp; again in Summer: but shall (D.V.) write to you<hi rend="italic"> first.</hi>
+         </p>
+         <p>Am much pleased to hear of yourself, &amp; family, being all so well:<hi rend="italic"> may you all long continue so</hi>: &amp; w. best regards: believe me, Yours truly,</p>
+         <p>W. Colenso.</p>
+         <p>     memo of acct.</p>
+         <p>     Dr. A. Luff, Esq<lb/>           To Wm Colenso</p>
+         <p>     1883.<lb/>  To 2 copies of “3 Literary papers” @ 3/- . .  6..0</p>
+         <p>     1884. To 2 copies of “In Memoriam” @ 4/- . . . . .8..0</p>
+         <p>       “             To 2    ditto           ditto           . . . . . . .<hi rend="underline">.  . . . . . .8..0</hi>
+         </p>
+         <p>
+            <hi rend="doubleunderline underline">₤1.2..0</hi>
+         </p>
+         <p>                                                                                     E.E. W. Colenso<lb/>                                                                                      Augt. 22/84</p>
+      </body>
+   </text>
+</TEI>

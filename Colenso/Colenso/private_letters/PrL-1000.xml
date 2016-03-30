@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1897 August 5: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0499.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1897-08-05">1897 August 5</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1897 August 5: to Harding<note xml:id="ftn3-835" place="foot" n="835"> ATL qMS-0499.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier                        <lb/>August 5<hi rend="sup">th</hi>, 1897<lb/>(night)</p>
+         <p>Dear Mr Harding</p>
+         <p>Having finished S.F. way, &amp; thinking you would like to hear from me at <hi rend="underline">N</hi>., I scribble to <hi rend="italic">you</hi> this night, though rather indisposed for much writing, &amp; arm, so-so. I believe I wrote to you from Gow’s on 20<hi rend="sup">th</hi>. I came away on 23<hi rend="sup">rd</hi> by the <hi rend="italic">Goods </hi>train, so as to be <hi rend="italic">driven hither</hi> by daylight—my <hi rend="italic">first </hi>movement <hi rend="italic">over </hi>that (so-called) New Road: Montgomery driver. Here I remained <hi rend="italic">shut up </hi>until Tuesday last,—not even out over doorstep! so much be my writing—business matters Govt. returns, &amp;c., <hi rend="italic">long delayed</hi>. Weather <hi rend="italic">fine </hi>at first, since rain, (&amp; rain <hi rend="italic">today</hi>—all day from N.)—Dr. de L., &amp; <hi rend="italic">others</hi>, Hill, Fannin, &amp;c., called, but I begged <hi rend="italic">not </hi>to do so, as I <hi rend="italic">needed </hi>
+            <hi rend="underline italic">quiet</hi>—<hi rend="italic">rest</hi>, I am still weak in legs, cannot walk so well as I could at Dvk., owing to so great confinement; on Monday last, My. drove me to Carlile &amp; McLeans—thence I walked carefully to P.O.—&amp; returned to Crerar’s (old) corner to My., &amp; had <hi rend="italic">quite enough of it</hi>.—Yesty. I sorted &amp; put up in bundles letters, &amp;c: today—such a lot of “<hi rend="italic">pie</hi>”! Catalogues, Circulars, &amp;c &amp;c—and in tearing up, I thought I would send <hi rend="italic">you a selection</hi>—a few of the more peculiar ones, If only to ask— “Are <hi rend="underline italic">you</hi>
+            <hi rend="italic"> troubled w. them</hi>? This “Tasmania” matter is <hi rend="italic">another sad </hi>one, and also from <hi rend="italic">same cause</hi>— “hugging the land”! I cannot exonerate the Captain. I see by tonight’s paper, Rev. Thomson, who took duty here in St. Paul’s during Rev. Paterson’s holiday, has been appointed to <hi rend="italic">Dannevirke</hi>—Cox went there to Sc. Ch. on the Sunday Clifford was here: I <hi rend="italic">cannot </hi>understand the stiff old <hi rend="italic">Sc. </hi>Ch. so taking-up with——–her <hi rend="italic">enemies</hi>. You may see in “Herald” of this day a report of Cathl. annual meeting last night: am very sorry to see <hi rend="italic">another </hi>foolish &amp; fashionable innovation attempted, which, I suppose, will be <hi rend="italic">carried</hi>! Tom. M. dead against it, &amp; for a Sunday left his place in Choir. I thank you for your long &amp; full letter: have read yr. paper on <hi rend="italic">Ig. fat.</hi>, You never mentd. to me, when here on that occasion anything about it—you have spun out a <hi rend="italic">long yarn</hi> over your marsh visitors I have seen a little of <hi rend="italic">ig. fat.</hi> in N.Z. some highly <hi rend="italic">curious</hi> aloft, on trees; and I have supposed them to be <hi rend="italic">not </hi>uncommon, but then little seen (by me) through <hi rend="italic">not </hi>commonly being a night-traveller: I have seen grand (fearful?) displays of phosphorescent fungi in forests by night: and also, <hi rend="italic">at sea</hi> (Bay of Islands) when late in my boat: splendid sights! fish &amp; animalcule. Kirk (as <hi rend="italic">I take</hi> it), is <hi rend="italic">again</hi>, all at sea <hi rend="italic">re his</hi> (?) <hi rend="italic">Drimys</hi>: such was known at Home <hi rend="italic">before </hi>K. saw N.Z., see p. 724, your HandBk. Fl. N.Z. for a memo.,—much after K’s. <hi rend="italic">old </hi>fashion—N.B. <hi rend="italic">Veronica Hillii</hi>—and his remarks <hi rend="italic">re </hi>Botany of E. Cape some short time ago: I will <hi rend="italic">lend </hi>you Mr. Adams’ letter: and Hill (who has read it) says, that Petrie told (or wrote to) him the same, saying <hi rend="italic">hard </hi>things of <hi rend="underline italic">me</hi>!! <hi rend="italic">re </hi>E. Cape Boty. Walker <hi rend="italic">yesty.</hi> took a good slice of my Pl. Add. for leadg. Art. Had a letter of congratn. from Luff!—and, from <hi rend="italic">Craig</hi>!! W. Dinwiddie kindly came <hi rend="italic">to see me. </hi>There was <hi rend="italic">no </hi>p. of your Dicty. to hand. I wrote to Mackay, &amp; expect <hi rend="italic">all </hi>remg. of “<hi rend="italic">A. Mao.</hi> eng.” this wk., <hi rend="italic">hope so</hi>.—</p>
+         <p>Now be content w. <hi rend="italic">this exertion</hi>—<lb/>&amp; w. love Believe me Yrs. truly</p>
+         <p>W. Colenso.</p>
+         <p>P.S. Be very loyal when Govr. comes.</p>
+         <p>P.S. Have only this day opened Hamilton’s 4to., part I, and am disgusted to find H. believes all the Maori emigrations backed by such authors as Gudgeon!!!</p>
+      </body>
+   </text>
+</TEI>

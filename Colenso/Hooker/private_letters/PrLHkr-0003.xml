@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1101">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>7 November 1879: Hooker to Haast.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>ATL MS-Papers-0037, folder 102-06.</p>
+         <p>Transcription published in "The Correspondence of Julius Haast and Joseph Dalton Hooker, 1861-1886", by Sascha Nolden, Simon Nathan &amp; Esme Mildenhall.  Geoscience Society of New Zealand miscellaneous publication 133H, 2013.  ISBN 978-1-877480-29-4. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133H.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1879-11-07">1879 November 7</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9511/&gt;Sir Julius von Haast">Sir Julius von Haast</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hooker to Haast, 7-11-1879 ATL MS-Papers-0037, folder 102-06.</p>
+      </front>
+      <body>
+      <p>  
+      Royal Gardens Kew</p>
+            <p>Nov 7/79</p>
+            <p>My dear Haast</p>
+            <p>I have just received your kind present of the Geology of 
+Canterbury &amp; Westland, 
+which I am reading with great interest. How I should have enjoyed the exploration of the Mt 
+Cook Glaciers with you, though I should gladly have been spared the sight of our poor friend 
+Sinclairs disaster. I assure you that I am very 
+proud of “my 
+[2] 
+Glacier”. The notices of plants 
+interest me very much, especially the 
+Veronicas &amp; 
+Aciphylla
+. 
+V. traversii
+is one of the 
+hardiest plants we have, but is the only species that has (unprotected) stood a single winter
+at 
+Kew. We have now 
+V. ly
+copodioides
+alive! but there is not a tithe of the New Zealand Flora 
+in cultivation in England, &amp; we still above all want the 
+Celmisias, 
+Olearias, the 
+[3] 
+Senecias, 
+Raoulias. I suppose however that your scrambling days are over 
+–
+&amp; I must live in the 
+delig
+htful memory of the enthusiasm with which I used to unpack the bundles of Treasures 
+that the C.O. bag brought from you. I still hope that Kirk or some competent botanist will 
+publish a 
+2n Edition
+of 
+the 
+N.Z. Flora</p>
+            <p>Dr Berggren has been at Kew for some mon
+ths working up his Cryptogams. He seems 
+to have been a good deal disappointed in the want of novelty which he met 
+[4] 
+with which 
+surprises me; as 
+except
+Colenso &amp; you &amp; I, no one had collected Musci or Hepaticae to any 
+extent in the Islands. </p>
+            <p>Dr. B. did not however visit Milford Sound or Dusky Bay where most novelty was to 
+be expected.
+We are tremendously busy here 
+–
+the duties increase, the collections accumulate &amp; 
+the correspondence requires to 
+exceed all
+bound
+s.
+</p>
+            <p>Ever my dear Dr Haast</p>
+            <p>Very sincerely yours</p>
+            <p>Jos. D. Hooker</p>
+</body>
+   </text>
+</TEI>

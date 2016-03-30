@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0107">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1851 April: to McLean</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Object #1014696 from MS-Papers-0032-0222.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/70244/">Waitangi</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1851-04">1851 April</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1851 April: to McLean<note xml:id="ftn1-153" place="foot" n="153">ATL Object #1014696 from MS-Papers-0032-0222.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Rev. W. Colenso</p>
+         <p rend="end">Waitangi</p>
+         <p rend="end">Monday morng.</p>
+         <p>D. McLean Esq.,</p>
+         <p>&amp;c &amp;c &amp;c</p>
+         <p>My dear Sir</p>
+         <p>Mrs Colenso gladly avails herself of an opportunity to send you a little Butter—to which I add a few nuts—having nothing better of fruit kind to offer.—</p>
+         <p>There are however a few bottles of gooseberry &amp; elder wine remaining which are wholly at <hi rend="italic">your </hi>service.</p>
+         <p>I saw a <hi rend="italic">Brig</hi> off on Saturday which (at first) I took for the Govt. Brig—but afterwards supposed to be a whaling one.</p>
+         <p>I suppose you heard of my “Maumauhaere-noa” to Molangiangi: whence I returned on Friday 4 a.m.</p>
+         <p>I should like to know when you may be coming this way—that I may be at home when you call.</p>
+         <p>I should have told you, that the 2 vols. of “Mitchell’s Travels in Australia,” which you so kindly lent me, are still here.</p>
+         <p>There is a young scamp of a Chief belonging to Ngatihineuru Tribe, but who chiefly resides at Tangoio, called Mohi Tarapuhi, of whom you should know something.—As, (in addition to his having taken a <hi rend="italic">second </hi>wife,) he has very recently taken away from her husband the <hi rend="underline italic">mother</hi> of his 2<hi rend="sup">nd</hi>. wife! with whom he is boldly cohabiting: relying upon our forebearance &amp; his nuinga.—</p>
+         <p>       Believe me</p>
+         <p>               Yours truly</p>
+         <p>                       W. Colenso.</p>
+      </body>
+  </text>
+</TEI>

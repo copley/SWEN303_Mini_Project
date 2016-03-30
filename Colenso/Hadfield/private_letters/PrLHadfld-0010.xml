@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0010">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1838 January 30: Octavius Hadfield to his mother Amelia Hadfield (nee White</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 20)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 20.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1838-01-30">1838 January 30</date>
+                  <name type="place">Place</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70719/">Amelia Hadfield (nee White)</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1838 January 30: Octavius Hadfield to his mother Amelia Hadfield (nee White)
+         </p>
+      </front>
+      <body>
+      <p>London,</p>
+      <p>Jan. 30th. 1838</p>
+      <p>My dear Mother,</p>
+      <p>I have been very busy all day and have only a few minutes to spare as I am just going to see Mr. Warren.</p>
+      <p>But I write you a few lines to say that the ship sails this week.  The Captain, whom I saw this morning, told me that I must be ready on Thursday but I do not think he will be off so soon.  He will not touch anywhere in the Channel.  I was much pleased with the ship.  She appears an excellent ship and has just been thoroughly repaired.  I have a cabin under the poop next to the stern cabin on the larboard <!--ie. not starboard-->side, about seven feet square &amp; at least seven feet high; it appears very comfortable; there is a very fine cuddy.  There are two chaplains and their wives going out in her and Mr. Porter, the young man Coates mentioned to me.  He appears a nice young fellow.  I think I shall be able to get everything, but Mr. Broughton will help me.</p>
+      <p>The instructions of the Com. were delivered to me and five other persons all going to different stations.  My instructions agreed with what I anticipated.  I am to look after the school at first, "my early labour" as I think it was expressed, and when acquainted with the language have plenty of work of all sorts.  We all had to address the Com. separately before about 100 persons looking on, &amp; tho' I spoke under excitement (occasioned by having been engaged in conversation with <supplied>[Lindley?]</supplied> Venn and Jowett about my opinions, arising, I think, from Mitchell's report, just before), I spoke my opinions and feeling plainly and much more at length than others.  But several men came up to me afterwards and expressed their agreement with my sentiments and invited me to their houses etc. so that I was consoled.  I will write more at length before I go to-night if I have time for tomorrow's post.  My love to all in great haste.</p>
+      <p> Your affectionate son</p>
+      <p>Octavius Hadfield.</p>
+      
+      </body>
+   </text>
+</TEI>

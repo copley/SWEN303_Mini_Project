@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0174">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1894 A New Pest. Daily Telegraph 10 December.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1894-12-10">1894 December 10</date>
+               <publisher>
+                  <name type="organisation">Daily Telegraph</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1894 A New Pest.<lb/>  
+                  </hi>
+                  <hi rend="bold italic">Daily Telegraph</hi>
+                  <hi rend="bold"> 10 December. </hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—I take the liberty of enclosing some leaves of a chrysanthemum. Under the cuticles of the back part of these are the chrysalides of a pest that is new to me, and probably to others. Can you get some kind entomologist to identify these for the benefit of myself and the curious who may not be acquainted with them?—I am, &amp;c., <hi rend="smallcaps">W</hi>
+                  <hi rend="smallcaps">.</hi>
+                  <hi rend="smallcaps">W</hi>
+                  <hi rend="smallcaps">. Yates.</hi>
+               </p>
+         <p>We forwarded the leaves to the Rev. W. Colenso, F.R.S., who writes to us as follows:— </p>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—I am now able to reply to your note of enquiry of the 3rd inst, containing some chrysanthemum leaves, having on them the larvæ of some insect. On examining them I found them to be unknown to me and probably not indigenous; so I sent them to Wellington to Mr Maskell, (who is <hi rend="italic">facile princeps</hi> in all such matters,) and from him I have just received an interesting report concerning them. Mr Maskell says:— “The insect is the larvæ of a fly, <hi rend="italic">Phytomyza affinis</hi>, Fallen: it came to Wellington a couple of years or so ago; but yours are the first specimens which I have seen from elsewhere. As the fullgrown insect is very active on the wing, I have no doubt that it will rapidly spread. This fly attacks apparently almost all the <hi rend="italic">Compositæ</hi> in New Zealand; and as this grub bores under the surface of the leaves and mines them in numerous channels it is not only most destructive but very difficult to get at. (You will find an account of it by me in vol. xxvi. of our “<hi rend="italic">Transactions</hi>” p. 663.)” </p>
+         <p>On referring to the vol. of “Transactions N.Z. Institute” for 1893, (mentioned by Mr Maskell,) I find, that he had sent Home specimens to Mr C. Whitehead, Adviser to the Department of Agriculture in England, to ascertain the true affinities; and Mr Whitehead, in replying, says, “This insect is very troublesome in England to many plants, mainly of the <hi rend="italic">compositæ.</hi> It is found in enormous quantities on chrysanthemums and on allied plants—I do not think arsenical washes would be effectual in preventing egg-laying. Spraying with paraffin or carbolic acid would be far more likely to keep the fly from depositing eggs.” </p>
+         <p>I may add, that I had gathered a few leaves from <hi rend="italic">sonchus</hi> (sow-thistle) last autumn, both at Woodville end here on Scinde Island, which had been so curiously “mined” and discoloured by this same insect, but such did not possess any larvæ, and I had supposed at first sight the leaves were visited by a fungus:” I am, &amp;o., </p>
+         <p rend="end">
+                  <hi rend="smallcaps">William Colenso</hi>
+               </p>
+         <p>Napier, December 8th., 1894. </p>
+      </body>
+   </text>
+</TEI>

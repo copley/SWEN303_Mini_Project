@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0926">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1895 February 26: to William Colenso</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-papers-10535-1.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1895-02-26">1895 February 26</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1895 February 26: to William Colenso<note xml:id="ftn3-723" place="foot" n="723"> ATL Ms-papers-10535-1.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke (80 miles S. from Napier N. Zealand).<lb/>Feby. 26th. 1895.</p>
+         <p>My dear nephew William,</p>
+         <p>I only came to this forest retreat on the 22nd, glad to get away (at last!) from Napier, where I have been doing extra and heavy Ch. work during the preceding four weeks, all the Ministers (including the newly consecrated Bishop, the Dean, and the archdeacon) being away at the General Synod (held triennially) of our Provincial Ch. at Nelson in the S. Island,—leaving this old man in charge: the Sunday before I came away (17th) I had both Mg. and Evg. S. in the Cathedral, which nearly broke me down, the building being so capacious, requiring almost lungs of 100-horse power to be heard in speaking and the Congn. so large and attentive, especially in the evening, and the weather at this season (our “dogdays”) so very hot! However, I was enabled to perform <hi rend="italic">that</hi>, and <hi rend="italic">all</hi> the other duties, (thank God, our Heavenly Father!) and crawled back—<hi rend="italic">up </hi>I should rather say—to my house at ix exhausted. Monday 18th I rested, Tuesday 19th I scribbled a <hi rend="italic">short</hi> letter to Willie, as the S.F. Mail was closing, and prepared to leave for my holiday (long deferred). And just before I came away your letter of Decr. 30/94 and Jany. 2/95, via Brindisi (with others also from Penzance) arrived, these I have brought on with me, to reply to from this place by first “Direct Mail”.</p>
+         <p>Your letter is a long and interesting one (though <hi rend="italic">sadly so</hi> in many respects!) I thank you for it. It is most unpleasant for you to <hi rend="italic">see</hi>, and for me to read the wretched state of Ellen’s residence! more so, perhaps, to <hi rend="italic">us</hi>, than to herself, poor soul! And I am gladdened to know, that <hi rend="italic">you</hi> have kindly and dutifully and Christianly, exerted yourself at once in her behalf. I esteem highly your remark,—“that it is only those who will visit at the Homes of the <hi rend="italic">very poor</hi>, and there being brought face to face with poverty, can in any way understand their wants. I think, however, that Sarah’s plan concerning the £100 sent, is by far the better one, <hi rend="italic">under all the circumstances</hi>: indeed, I may tell you, that it was owing in great measure to <hi rend="italic">your having led the way in that former matter of so investing</hi> Ellen’s own £200, that I, and S. followed in your own steps, fully believing myself that <hi rend="italic">you</hi>, in particular, would be sure to agree therein also. Moreover, had you earlier replied (as I had wished) on receiving that £5 I had sent you for Ellen in ’93, to you only should I have remitted the <hi rend="italic">£100</hi>: but as you were always so increasingly busy—in your trade, politics, and Ch. matters,—and Sarah having always shown herself (with me) as an A.1. Purser or Treasurer, and without family cares, I considered it better to include her with you in the settlement of it. I find, however, she has (rightly) seen the Post Master at Penzance, and has obtained from him a Memo <hi rend="italic">re</hi> investing that £100,—giving Ellen <hi rend="italic">£12.10.0.</hi> per ann. during life: which Memo. I have, and so the better way will be, <hi rend="italic">for Sarah alone</hi>, to carry out and finish that matter. Your plan is, no doubt, the more businesslike one: but then there are so many contingencies, which, if Ellen should live (say)15-20 years, might fail, in some respects at least, and continually cause much bother and worry: besides, I, my dear nephew, have been taught a <hi rend="italic">severe</hi> and <hi rend="italic">losing</hi> game by Banks, and Banking!—</p>
+         <p>I note what you kindly say about your allowing Ellen 4/- per week extra, until you hear from me in reply, and to meet that outlay of yours I enclose a P.O.O. for £5,—and will send you another £5, if<hi rend="italic">required</hi>, to get her a little plain furniture. I don’t know what you or your good wife would say, were you to see my House and Bedroom furniture! House, a wooden one, never painted since erection in 1859 (and then <hi rend="italic">only outside</hi>!) no bath-room, no W.C., no lavatory, a plain and shabby-looking old Hermitage! Bedding, an <hi rend="italic">old</hi> lumpy doe hair mattress of 1837, and so on. My old housekeeper has often twitted me about it. But I say, (1) Good enough for me: (2) I have all the <hi rend="italic">more</hi> for the poor: (3) it is only for a <hi rend="italic">little</hi> while longer.—</p>
+         <p>My last to you was on the 22nd Jany. which I hope you may shortly receive, and (together with your worthy Mayor and Bor. Council) early act on: as I wish to settle all such matters as quickly as possible. I think that letter will answer your remark concerning an Advertisement in our back Papers you wished to see, about sale of property here; ¾ths of that sale will be swallowed up in that £1000.—</p>
+         <p>I have smiled—or, rather, had a good laugh!—over your quotation from my letter of “Octr. 19/93”, about the buggy: as, evidently, you did <hi rend="italic">not</hi> read and consider it correctly. I had said, “<hi rend="italic">If it were</hi> not for <hi rend="italic">these</hi>” (my being overweighted) “I would keep a buggy, and horse, and bay, to drive.” But you wrote, thereon,—“By all means <hi rend="italic">keep that buggy</hi>, and horse and bay, etc. etc., and enjoy them,” etc., as if I had them already in use. Perhaps, after all, it was an inconsiderate expression of mine; for <hi rend="italic">residing, as I am</hi> at Napier, on the top of a high and broken hill, with no made carriage-road, yet! leading to it, I could not in any case well do so: and I have ever <hi rend="italic">preferred</hi> my own legs to carry me about, and shall, I suppose, to the end—</p>
+         <p>You mention a remark of Sarah’s to you, about the letter I had received from your step-son in Australia, which, it seems, I had sent to her: but, certainly with only a good intention. It is a great pity,—aye, a terrible thing! that there has long been, and is, such a want of love and unity in our family!—</p>
+         <p>You also rightly remark, that this large oil portrait of me, presented to me by our Philosophical Institute, is an honour to <hi rend="italic">you </hi>and our family, as well as to myself. But, as I take it, I (or <hi rend="italic">we</hi>) have still greater honours, here in N.Z.—viz, last month a prominent Settler of Wellington, christened his son “William Colenso”—this making the 7<hi rend="sup">th</hi>. so named and known to me in the colonies.—<note xml:id="ftn3-724" place="foot" n="724"> Probably William Colenso Harding 1894–1901.</note>
+         </p>
+         <p>I must now notice a few of your items. Mr. John James I knew very well, I see him as he was 65–70 years ago, (then an apprentice with dear old Mr. Dunkin, Saddler, (and Quaker) and afterwards in partnership with him: also, R. Victor, and the quaint old house! Some other aged Penzance folks, lately deceased, I remember well; as Mrs. St. Aubyn and her 3 daughters! very regular in their attendance at St. Mary’s (old) Ch. in my early days, often have I sat on Mr. St. Aubyn’s tombstone (raised and in shape of a coffin) in the lower S.W. corner of the then new (!) Burying Ground. I pity poor dear Mr. Hedgeland, but it is partly his own fault, he should <hi rend="italic">not</hi> have given way a hair’s-breadth in the senseless matter of the “Cassocks” at the beginning. If the papers I sent you last month reach you, (especially the “Herald” of Decr. 25<hi rend="sup">th</hi>.<note xml:id="ftn3-725" place="foot" n="725"> The seventh of his letters to the editor of the <hi rend="italic">Herald</hi>, later published as <hi rend="italic">Certain errors of the Church of Rome</hi>.</note>) you will see my <hi rend="italic">old</hi> and firm opinion, concerning the Ritualists and their Mummery!—We have too much of it out here, which I openly oppose and preach against—at the same time, I am <hi rend="italic">no</hi> “low Evangelical”.</p>
+         <p>I well remember Lariggan—with its lawn, roads, lanes pathways, stone stiles, and fields! at one time a favourite walk of mine by way of the Minney, Lovelane, and the Green—and will endeavour to get you some seeds of shrubs, etc. for your friend.—</p>
+         <p>Sarah has written me a pretty full account of your and her meetings and <hi rend="italic">non</hi>-agreeings about the Bk. Draft! I marvel at <hi rend="italic">that</hi>: and am right glad <hi rend="italic">you did not attempt it</hi>, for if you had, I should not again be writing to you. But I hope better things of <hi rend="italic">you both</hi>: and that you will <hi rend="italic">both</hi> bury the hatchet, and smoke the calumet of peace—may I add, for my sake!</p>
+         <p>My hand is tired—I write slowly now.</p>
+         <p> Best Love to your dear Wife, yourself, and family.</p>
+         <p>May God preserve you!</p>
+         <p>from your loving <hi rend="italic">old</hi> Uncle,</p>
+         <p>W. Colenso.</p>
+         <p>
+            <hi rend="italic">P.S.</hi> While I don’t seek it, I don’t care if Ellen should know this extra money is from me.</p>
+      </body>
+   </text>
+</TEI>

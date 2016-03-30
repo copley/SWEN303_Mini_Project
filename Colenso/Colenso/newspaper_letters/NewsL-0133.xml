@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0133">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1887 Mr. Colenso and the Borough Council. Hawke’s Bay Herald 19 February.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1887-02-19">1887 February 19</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1887 Mr. Colenso and the Borough Council.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 19 February.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>—I am just returned from the 70-mile Bush; and my attention has been drawn to your report, of our Borough Council proceedings in the <hi rend="smallcaps">Herald</hi> of yesterday (17th). In which Cr. Cotton, when speaking of the proposed new road from Napier Terrace to Milton Road, said:—</p>
+         <p>
+                  <hi rend="smallcaps">“</hi>He (Mr Colenso) was asked, when the roads committee should go up, and he said, ‘Oh, some fine genial day, when the wind doesn’t blow, and I can go with you and show you the place. I will let you know.’ Well, that was a very long time ago, but Mr Colenso had not yet made known when the committee should go.”</p>
+         <p>I would lose no time in stating publicly, that I am wholly ignorant of this statement; especially of the concluding words:— “<hi rend="italic">I will let you know</hi>.” I could never have used them for I have been throughout the whole past year waiting for this long promised visit of the specially-appointed Sub-Committee. And here, I think, I may very properly mention brief conversations I have had from time to time during the past 6–8 months, with several of the Borough Councillors, and also the Town Clerk, the Road Overseer, and Mr Rochfort, C.E. who surveyed the new road and drew the plan,—as to when, if ever, the long-talked-of visit was to be made by the appointed Sub-Committee. Indeed, I recollect saying on one occasion to Cr. Cornford, (in reply to his remark, that they (3) could never find spare time to come together,)— “Why not come singly? and make notes, and then meet at your leisure down in town and talk it over among yourselves.” </p>
+         <p>Of one other thing I am also certain (from your report), viz.—Had Cr. Cornford condescended to visit the place and <hi rend="italic">see the ground</hi>, he would never have so far demeaned himself, as to call the highly-approved, useful, simple, and little-expensive road— “a gigantic scheme of (expensive) roads”!! </p>
+         <p>I write briefly in haste to correct the errors referred to in your issue of tomorrow—I am, &amp;c.,</p>
+         <p>
+                  <hi rend="smallcaps">					William Colenso.</hi>
+               </p>
+         <p> Napier, Friday evening,</p>
+         <p>	  February 18th, 1887.</p>
+      </body>
+   </text>
+</TEI>

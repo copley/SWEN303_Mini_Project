@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0155">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1890 Church matters. Bush Advocate 16 August.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1890-08-16">1890 August 16</date>
+               <publisher>
+                  <name type="organisation">Bush Advocate</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1890 Church matters.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Bush Advocate </hi>
+                  <hi rend="bold">16 August.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir,—</hi>I noticed in your paper of Tuesday last a strange anonymous letter headed “Church Matters,” and I had hoped some one of your many readers here in Danevirke would have taken it up and replied to it in your paper of yesterday. As, however, no one has considered it worthy of notice, I would say a few words anent it,—although it is an old and standing rule with me never to condescend to notice anonymous cowardly letters. I am an Englishman, and like a fair open fight; not secretly lurking behind a flax bush, or hedge to get a shot or a stab at a victim, and then a run! “Fair play is bonnie play,” as my Scotch friends say. Of course it may be said, and that with some truth, that as long as the subject written on in newspapers (say an anonymous letter) is truthful, or beneficial, or fair, it matters not who wrote it; and to this I might subscribe (though the devil can quote Scripture). But there is this great difference: (1) An apparently fair matter may be brought forward by an enemy merely to bring about strife, he secretly chuckling over his success! (2) An anonymous writer (in these degenerate mercenary days) may write for pay! indeed, such is commonly and daily done; on one day for, and on another day against, the same thing, by the same writer! and so blowing both hot and cold! (3). What may appear to be fair to one bigotted party, is not so to another: As, for instance, the lamentable local option, and teetotal fads, or Mother Seigel’s pills or, the crusade against tobacco, or the vegetarian folly, or the fashionable bankruptcy following, or the football craze, or the gambling and totalisator nuisance. But the writer of a letter in the public papers in honestly giving his name to his letter shows a conviction of his principles, and his not being ashamed to own them; while he leaves his readers who may khow him to form their own judgment respecting him, and what he says. But all that by the way. Now then, to the said letter: The writer publicly and flippantly calls on the Rev. Mr Robertshawe to give up his sermon, publicly announced in his Anglican Church last Sunday, in order that he, and others may hear a travelling “preacher and lecturer, Mr Knott, in the Presbyterian Church next Sunday evening,” just as if Mr Robertshawe could thoughtlessly or very easily do so. This, alone, serves to show the true position of the writer—as being one of those young men, (he mentions) with itching ears! who, “unstable as water,” are even “halting between two opinions, and too often are the troubles of churches and congregations.” Still his request would not be so very bad were this present case anything like a former one which happened here, and of which he may have heard (he not then being a resident in Danevirke), and which he and others may suppose to form a precedent; I mean the Sunday of the first opening of the Scotch Church here, when the Rev. Mr Robertshawe kindly and christianly closed his own Church services that all might have the opportunity of joining on such a festal occasion, and hear the Rev. Mr Paterson preach. But there is no likeness between the two cases, for Mr Paterson, a Presbyterian Minister, came hither purposely for that one occasion, while this Mr Knott was here only last week holding forth in the Presbyterian Church, and is also advertised in your paper to come out again “on Monday evening next in the Town Hall!” thus affording those “young men” several opportunities of hearing him. And I may further mention that last Sunday I preached a special sermon in the Woodville Anglican Church, which had been also advertised in the Woodville Examiner, but it never occurred to me (and I am happy to say it was never done by any of my friends and hearers) to call upon my good friends, the Ministers of the other Churches there—the Rev. R. Saunders and the Rev. J. Saunders—to put off their preaching and Church services on the account of my advertised and special sermon, though it was of much general interest. I omit all reference to the small size of the Presbyterian Church; also the soft sawder and “ground bait” so cunningly referred to in the conclusion of his letter. As a well-wisher to, and a pretty frequent resident in, Danevirke I write this long letter, which I can truly and without misgiving call—<hi rend="italic">pro bono publico</hi>.—I am, etc.,</p>
+         <p>
+                  <hi rend="smallcaps">					William Colenso.</hi>
+               </p>
+         <p> August 15th, 1890.</p>
+      </body>
+   </text>
+</TEI>

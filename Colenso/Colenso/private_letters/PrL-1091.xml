@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1091">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1890 January 10 to Russell</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Archives New Zealand</p>   
+         <p>Transcription by Ian St George</p>
+            <p>encoded into TEI by Melissa Bryant, 23.10.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1890-01-10">1890 January 10</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/72672/">Russell</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1890 January 10 to Russell (National Archives, Wellington)
+         </p>
+      </front>
+      <body>
+      <p>
+Napier</p>
+<p>Jany. 10/90</p>
+<p>My dear Capt. Russell</p>
+<p>Your kind &amp; thoughtful note of the 7th. inst. (with Revise, &amp;c.) only reached me late this afternoon,—I reply at once.</p>
+<p>1. I have made those alterations in pp. 13 &amp; 14, pointed out by you:—and I agree with you: indeed, such had occurred to me when making the Copy for Press,—only I thought it better to adhere to the old Ms. in its entirety (as stated by me in the Preface): Bp. P., also, being dead.—Further, you, my dear Sir, little know the abuse—the scorn—we had to endure from him and his officials. It rose to such a pitch, that, only a short time before the arrival of Capt. H, we had held our Public Meeting at Kororareka with him &amp; his priests—within his own bounds! Which lasted 2 days, and in the open air, too!!–</p>
+<p>2. I have also, in accordance with your wish, made the alterations necessary, through the Appendices not being printed: please note, all I have written on the Revise is in red ink: of course, any further correction you may require, please make.</p>
+<p>3. In accordance therewith I have written a fresh table of “Contents”.</p>
+<p>I regret very much your not publishing with the brief Memo. 
+some portions (at least) of the Appendix no.1,—especially those early public documents, petitions,—letter from Viscount Goderich, &amp;c.——I cannot help thinking, they very properly appertain thereto—as a kind of prologue to the Play:—also, my enquiry relative to the exact day in which Capt. Cook took possession of N.Z., &amp;c.—not yet commonly known!</p>
+<p>I suppose, the little map of the locality in the Bay of Islands will also share the fate of the Appendices.—</p>
+<p>I would that I had earlier known of the intention of the Government: as such would have saved me a deal of worry and labour.</p>
+<p>Again thanking you my dear Capt. Russell—</p>
+<p>I am, with kind regards, </p>
+<p>yours faithfully,</p>
+<p>Wm. Colenso.</p>
+<p>Please direct that all Papers of the 2 Appendices may be returned to me. W.C.
+</p>
+</body>
+   </text>
+</TEI>

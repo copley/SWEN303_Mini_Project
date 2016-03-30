@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0014">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1838 February 3: Octavius Hadfield to his sister Julia</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 24)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 23.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1838-02-03">1838 February 3</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/5754/">London</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70793/">Julia (nee?) Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1838 February 3: Octavius Hadfield to his sister Julia
+         <!--Previous editor's note: (Please note.  The original of this letter to Julia is copied on the end of the earlier letter to her, dated Dec. 27th. 1837.  The two letters are found in chronological order following the letter to Mrs Hadfield dated Dec. 18th 1837.)-->
+         </p>
+      </front>
+      <body>
+      <p>
+      London. Feb. 3rd. 1838,</p>
+      <p>My dear Julia,</p>
+      <p>As I have time this evening I gladly employ it it writing to you my beloved sister.  I fully purposed seeing you before I left, but circumstances have prevented it.  I went to Whitchurch to see George and take my things that I had left there, and then returned to the island.  It was just at the time you were about to move and I was not sure whether you were at Bath or Cheltenham-- nor did I know where I should find you at the latter place, not having any knowledge of the street or number of the House you were going to.  It was not want of inclination.  But the weather also was very severe for travelling.  It is with unfeigned pleasure that I have read your letters that have lately been addressed to me and some of those to my sisters.  I rejoice that the God of all grace has been pleased to reveal His Son to your soul-- you have now I believe tasted that the Lord is gracious.  You now love Christ and heavenly things.  You now look forward to an eternal shade in glory, to the possession of an eternal inheritance in Jehovah's presence.  If this be so you are a new creature in Christ by the power of the Holy Spirit upon your soul.  You who once lived without Christ and therefore without hope, "being a child of wrath even as others," exposed to just condemnation and deserving nothing but hell, have now been brought to the knowledge of <hi rend="underline">Christ</hi>, to <hi rend="underline">some</hi> knowledge of your own heart (for the entire sinfulness of our own hearts can never be fully known) to a hatred of sin and a desire to serve the Lord and live to His glory.  If, I repeat, this He do, to whom belongs the praise?  My dear sister, you will not, I am sure, say to <hi rend="underline">yourself</hi>.  You will trace it up to its source of origin, Jehovah's <hi rend="underline">fire-checking love</hi> <!--first typescript: "free, electing love"; amended: "fire-checking love"-->  Who had chosen you in Christ before the foundation of the world, "that you should be <hi rend="underline">Holy</hi> and without shame, before Him in love."  Do you bear the image of Christ upon your soul, even in the slightest degree, then you have been regenerated and sanctified by the Holy Ghost, then Christ Jesus had washed away your sins and you are God the Father's sovereign choice for all eternity.  Remember that the object for which you are chosen is that you should be holy.  In proportion then as pride and self-will and every carnal affection is expelled from you, will you enjoy a proof of your calling and election.  You will repeat, by continually tracing up all the spiritual blessings you enjoy to the first great cause, be kept humble, sensible of your own demerits and of the Lord's unbounded love.  You will feel that "you love God because he first loved you"  May you watch and pray, that by the abundant out-pouring of the Holy Spirit, you may be enabled to withstand all the temptations of the Devil, and be enabled to overcome the world and to resist the motions of your corrupt heart, for be assured that as long as you continue in the flesh you will ever say, with the Apostle "I find a law in my members moving against the law in my mind, and bringing me into captivity to sin".  Excuse me, dear Julia, for thus writing to you and giving my advice.  It is with a desire for your welfare and with a desire of expressing to you the feeling of my heart, on this the last occasion on which I shall be able to write to you while in England.  I am now a sinful, weak and helpless creature, entering on a great work which requires the exercise of every Christian grace.  I am now leaving friends and home to go to a heathen land.  But I am going I believe in obedience to Jehovah's command, believing that God has appointed me to the work.  I go in dependence on His help, His support, His promises of continual support and strength.  I must watch and pray and read the word of God., and leave my soul in the hands of our unchanging, Covenant-keeping God who has said "I will be with thee".  Pray for me I beseech you, pray often for me, that I may walk humbly with my God, and may serve him to the Glory of His name.  I have been every day expecting to sail, I believe I shall not go till the end of next week.  I have a comfortable cabin and there is a nice young man named Porter going out to the New Holland mission in the next cabin.  <!--[blank - previous editor's note: (Illegible.)]--> The "<hi rend="underline">John</hi>" in which I go is a fine ship about 600 tons.  I heard today from Mrs Barrable that Capt. [Kightly?] <!--name transcribed in first typescript but replaced with [?] in revised typescript--> died on the 31st October, Emma will return.  I am going first to be engaged in a school in New Zealand.  I received the instructions of the Committee on Tuesday.  I heard from home today.  Remember me to Miss Lynn, and believe me, </p>
+      <p>Ever your affectionate brother,</p>
+      <p>Octavius Hadfield.
+      </p>
+      </body>
+   </text>
+</TEI>

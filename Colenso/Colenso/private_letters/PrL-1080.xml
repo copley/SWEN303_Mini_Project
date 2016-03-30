@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1080">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1886 August 13: to The Secretary of the  Royal Society</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         	<p>transcription of item at Royal Society in London, by Ian St George, provided to Colenso Project staff at Wai-te-Ata Press on 1.10.15 via email.  Ian wrote to the Royal Society to gain access to this item; it is not visible through their public-facing website.</p>
+            <p>encoded into TEI by Melissa Bryant, 21.10.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1885-08-13">1886 August 13</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="office" key="http://wtap.vuw.ac.nz/eats/entity/76081/">Secretary of the  Royal Society</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1886 August 13: to Secretary of the  Royal Society
+         </p>
+      </front>
+      <body>
+      <p>Napier, New Zealand,</p>
+<p>August 13th., 1886.</p>
+<p>Sir</p>
+<p>I have the honour to acknowledge the receipt of your official letter of June 5th., 1886, informing me of my having been elected a fellow of the Royal Society.—</p>
+<p>I scarcely know how to thank the Society sufficiently for this very high honour they have been pleased to confer upon me; I do so, however, heartily, and with a hope, that their kind election may serve to stimulate me yet more in pursuing in the paths of science.</p>
+<p>You also inform me, that, according to the statute, my attendance for admission is required on or before the fourth meeting from the day of my election, (kindly giving me the dates of those for several meetings:) I trust, however, the Society or Council, (seeing how very far off I am from England,) will graciously allow of an extension of time for my so appearing before them. I may here mention, that I have been for few years past looking forwards to my returning to England (either to remain there, or on a visit,) at no very distant date: at present (among other scientific matters,) I am engaged on the Maori-English Lexicon for the New Zealand Government; and I trust that this Work, together with my great distance from England, will be deemed by the Society as a sufficient cause to allow of a further time being granted me.</p>
+<p>I am,</p>
+<p>Sir,</p>
+<p>your humble servant,</p>
+<p>Wm. Colenso</p>
+<p>To The Secretary</p>
+  <p>Royal Society</p>
+    <p>Burlington House</p>
+      <p>London</p>
+
+<p>P.S.</p>
+<p>You also inform me, in a postscript to your letter, of the amount of annual subscription, &amp;c.;— For this I thank you, and should immediately remit the same, only I have heard from Sir J.D. Hooker, K.C.S.I., F.R.S., &amp;c., that he should pay that for me, which I suppose he has already done.—W.C.</p>
+<p>P.S. (2nd.) Further: as I have just received a few “Author’s Copies” of my recently written papers, published in the volume for this year (1886) of the “Transactions New Zealand Institute”, and am now sending a few Home by this mail; I venture to send a copy of the same to you for the Society; and I trust in my doing so I am not out of order. W.C.</p> 
+      </body>
+   </text>
+</TEI>

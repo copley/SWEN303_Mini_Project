@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0239">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1868 September 14: to McLean</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Object #1008040 from MS-Papers-0032-0222.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1868-09-14">1868 September 14</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1868 September 14: to McLean<note xml:id="ftn2-163" place="foot" n="163">ATL Object #1008040 from MS-Papers-0032-0222.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Monday night,<lb/>September 14/68.</p>
+         <p>My Dear Sir</p>
+         <p>A short time ago I heard from a friend at Wellington that my Essay on the Maories would not now be printed, “solely for lack of funds.”—</p>
+         <p>This afternoon I wrote a note to Dr. Hector, asking him what would be the <hi rend="italic">expense </hi>of printing it at <hi rend="italic">Govt. Press</hi>—and, if he could get any help from Col. Govt.,—Otago Provl. Govt.,—Institute,—Governor, or Members of G. Assembly, towards it:—and, also, if he &amp; his brother Commissioners (Dunedin Exhibition) would have any objection to return me the Mss. in order to <hi rend="italic">my </hi>getting it printed <hi rend="italic">here</hi>, at my expense—of course, being aided by subscribers: and I shall hope soon to get his reply.</p>
+         <p>Now it has occurred to me, that a few months ago you wrote me a note, asking for the loan of the same essay—and that possibly you might both <hi rend="italic">wish to aid the getting it published</hi>—by speaking a few words to some of your Countrymen from <hi rend="italic">Otago</hi> (for whom it was written), and also to any one else around you,—and be <hi rend="italic">well able</hi> to do so: hence I have told you all this. I have <hi rend="italic">not </hi>let Dr. H. know, that I am writing to you, or to any one else about it. I may add, that I gave Sir G. Grey my imperfect <hi rend="italic">Proof sheets</hi> (on to 88 page) of the said essay—which, he said, he was very glad to get, and had long been looking out for.—You will recollect a <hi rend="italic">Maori </hi>Robinson Crusoe, published some 20 years ago at Wellington:—have <hi rend="italic">you</hi> got it here? if <hi rend="italic">not</hi>, I will thank you to <hi rend="italic">borrow </hi>it (for me) from some one of your Wellington friends: I much wish to see it, and I have tried almost every where <hi rend="italic">I could</hi>: but you know <hi rend="underline italic">I</hi>
+            <hi rend="italic"> have few </hi>friends in the “Empire City.”—From the fact of the said book having been printed at Wellington, there must be several copies among the “gude folk” there.</p>
+         <p>From the day’s Auckland Paper, I see the Rarawa Native has been sentenced to Death—but he will <hi rend="italic">not </hi>be hung <hi rend="italic">I know</hi>, from what the Judge &amp; Jury said: now if you have any influence with the <hi rend="italic">new</hi> Governor—in Maori matters—do, my dear Sir, use it in this case. If he is sent to <hi rend="italic">penal servitude </hi>depend upon it there will be a N. Maori row—I hope the Governor will get <hi rend="italic">good </hi>counsel, &amp; that he will <hi rend="italic">act</hi> on it.</p>
+         <p>I was very glad to find you <hi rend="italic">fêted </hi>Sir George at Wellington, and that <hi rend="italic">you </hi>took a prominent part therein. It was quite by chance I fell in with him—at the Wharf—and I was glad I happened to be there—as (like w. Kg. Richard of old) “few cried God bless him.”—You so fêting our old Govr. is the best bit of news I have heard for some time.—</p>
+         <p>I was not out all last week! Weather wet; <hi rend="italic">very</hi> so for us, and it <hi rend="italic">still continues</hi>. I went yesterday—&amp; again today,—to see Carter, who has been very ill at the Club; confined a whole week and I knew nothing of it!—He is now better—but very weak. He told me, he was not able to write, Mrs. Carter is with him.</p>
+         <p>I hear, <hi rend="italic">you</hi> have a <hi rend="italic">long </hi>speech in the last “Hansard,”—that I hope to read tomorrow evening. Political news hence I must leave for others. Your place is looking very green: a new House is building on Sealey’s Hill nearly in a line with Dinwiddie’s from your verandah.</p>
+         <p>             Hoping you are quite well &amp;c &amp;c I am</p>
+         <p>                             My dear Sir</p>
+         <p>                     Yours truly     W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

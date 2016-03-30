@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0855">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1893 January 24: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1893-01-24">1893 January 24</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1893 January 24: to Harding<note xml:id="ftn3-628" place="foot" n="628"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Jany. 24<hi rend="sup ">th</hi>/93<lb/>(ix, p.m.)</p>
+         <p>Dear Mr. Harding,</p>
+         <p>I think it is high time for me to reply to your letter of the 15<hi rend="sup ">th</hi>. inst., duly recd. by me together w. Nautl. Almc. &amp; Quarritch’s Cat. Books—for all which, thanks. I was grieved to hear of your dear son being again so ill, and will dare to hope that he is now much better—if not quite well.—</p>
+         <p>I have not much to write about, (though should find <hi rend="italic">lots</hi> to chat over with you—if here): I have been very busy since my last (10<hi rend="sup ">th</hi>.–11<hi rend="sup ">th</hi>.),—first, on my 2 Botanl. papers for G. White—he having kindly given me “<hi rend="italic">till 15</hi>
+            <hi rend="sup italic">th</hi>.”—and so by dint of sticking to them—I finished &amp; sent in on 14<hi rend="sup ">th</hi>. Then (secondly), I took up my Crypts., Fungi, &amp; Hepat. for Kew, and have finished them—in about 300 lots w. notes on the Fungi: these in 2 small (?) boxes will go to England by “Arawa” next week.—</p>
+         <p>Thirdly—letters to England, a rather heavy job (with Papers, &amp;c.)—obliged to <hi rend="italic">omit </hi>ansg. several—in England, America &amp; Europe! My letter to Sir Jos. Hooker is only a <hi rend="italic">part </hi>reply to his 2 of <hi rend="underline italic">June</hi> &amp; <hi rend="italic">Octr.</hi>!! I must give up much of my letter-writing—<hi rend="italic">no time left for reading</hi>.—</p>
+         <p>The morning <hi rend="italic">after</hi> I had recd. your last I went to town—&amp; <hi rend="italic">first </hi>called at your old Ptg. office, door was open &amp; in I walked, but knocked at door; I saw some one in inner room with <hi rend="italic">back </hi>towards me, in shirt sleeves, and at first I took him for your brother—however I knocked &amp; knocked, &amp;, at last, advanced, still knocking! &amp; when I gained the inner door I saw it was your Father: well, I walked slowly up knocking away w. my stick, of which he took no notice—so, at last, I touched him! &amp; then a <hi rend="italic">start</hi>, &amp; a <hi rend="italic">welcome</hi>!! I had wished to see him to offer <hi rend="italic">use </hi>of N.A. just to hand, when I found he had it for ’93, also ’94!! we chatted for some time, lovingly like 2 old cronies: I told him of Victor, &amp; while we were still chatting the P.O.L. Carrier came in with letter, &amp;c, from you—and so I left your Father to enjoy his feast. I saw that one of the arrivals was a copy of your large thin compy. card, which you had also kindly sent me &amp; which now adorns my mantlepiece, w. a few other season’s gifts.—–</p>
+         <p>Mentioning that, (I am not going to be <hi rend="italic">hyper</hi>-critical, for I don’t like it,)—but are you right in your <hi rend="italic">first </hi>line <hi rend="italic">re </hi>Archimedes? “Find me a <hi rend="italic">lever</hi>” &amp;c: was it not a <hi rend="italic">fulcrum</hi>?—[Bah! I have written Arist. for <hi rend="italic">Archimedes</hi>!!]</p>
+         <p>
+            <hi rend="italic">Another </hi>(and a similar) <hi rend="italic">error</hi>, I think I hear you say—as in my last to you—of “<hi rend="italic">Seffern</hi>” for “<hi rend="italic">Sherrin</hi>”!—is it the proverbial <hi rend="italic">old</hi>-man’s memory? However, I am going to give you a Roland for your Oliver: and lest you should say “prodigious!” or “<hi rend="italic">Impossible</hi>” I intend to enclose that part of your letter—that you may <hi rend="italic">see </hi>it. Writing of D. &amp; Co., &amp; their treatment of you <hi rend="italic">re </hi>Almc., you say— “Have had no statement this time of <hi rend="underline italic">1882</hi> edition, nor has my letter of enquiry been ansd.”—–</p>
+         <p>You will <hi rend="italic">return to me </hi>this portion of your letter, enclosed.</p>
+         <p>Yes: I do remember the comp. C. Stewart, so long in “Hd.” office.</p>
+         <p>I enclose a little P.N. to pay for the N.A. you so kindly sent; buy a few Bananas for V. with overplus: I geny. have 2 each night for my supper—<hi rend="italic">formerly </hi>I would not touch them.</p>
+         <p>Holidays (Xmas. &amp; N.Yr.) I find did you harm, &amp; so perhaps your <hi rend="italic">local </hi>one yesterday: I see, Ormond’s and Russell’s horses were to the <hi rend="italic">fore</hi>. I should rejoice to hear of your having your hands <hi rend="italic">full</hi> of good professl. employ: and I hope to hear this <hi rend="italic">good </hi>news.—–</p>
+         <p>I find <hi rend="italic">some</hi> are intent on bringing Haggen forward for seat on Edn. Board: <hi rend="italic">I much regret it.</hi>—The Napier School is not yet opened, still in hands of Carpenters, &amp;c.—</p>
+         <p>I went to town today, on business (<hi rend="italic">first </hi>time for 9, 10 days). P.S. McLean told me a story, which <hi rend="italic">you </hi>will understand! Cotterill, who owns next section to N. &amp; Close their brick building, wrote to C. to ask permission to insert with <hi rend="italic">all &amp; best </hi>care an iron rod, or screw, in the brick-work: immediately came a reply from C. most indignant, &amp; rating the Lawyer sky-high! and now Cotterill has <hi rend="italic">ascertained </hi>that Close has built the said wall <hi rend="italic">on </hi>Cottl’s. land!! and so he claims it.—<hi rend="underline italic">tableaux</hi>! an old song, I have heard in the old country, has it,— “Who is match for a Lawyer has <hi rend="italic">only one more</hi>” (i.e. Devil). I enclose a clipping from “Herald” of this mg. Do you know W.? and what is <hi rend="italic">his </hi>teaching?—</p>
+         <p>Of course you heard of the big fire of last week: stock seems to have been <hi rend="italic">well </hi>insured!—F. Sutton told me today, he had been in to Hoadley’s to see what had been saved—and was surprised to see them in such <hi rend="italic">good order</hi>. I was surprised the day after the fire, to see the shop much as it was (with shutters up)—save a few panes broken in upper sashes. The adjg. ones—Hooper’s, Druggist’s, &amp; Taylor’s were all—<hi rend="italic">as they were.</hi>
+         </p>
+         <p>Mrs Hamilton kindly called on me this aftn. She, w. her mother leave on Sunday for Home—her mother to see her daughter in Convent at XtCh. Mrs Fannin, also, goes, same ship, to her <hi rend="italic">asylum</hi>, better always there.</p>
+         <p>I had intended to go inland (to Waipawa, &amp;c) next week, to endeavour to collect some money, long overdue, seeing folks will not answer letters—and this month, with Decr., has been a <hi rend="italic">trying one</hi>—so many demands—Rates &amp; Taxes. But yesty. I recd. a letter from Mr Tuke, Taradale, who is unwell &amp; sadly needs help—&amp; so I have agreed to be there next Sunday, &amp; this <hi rend="italic">may </hi>bar my going inland for a season.</p>
+         <p>I thought of retg. to you Quarritch’s Cat. of no use to me: I should like to <hi rend="italic">see some </hi>of his books. Did you notice, in yr. little spn. of <hi rend="italic">Leptospermum</hi> leaves, how the attack of the insect had completely altered the leaf—from glabrous to woolly! &amp; so, in <hi rend="italic">many other </hi>shrubs.</p>
+         <p>And now I must close! I am pretty well.</p>
+         <p>And w. kindest &amp; best regards to Mrs Harding yourself &amp; family I am yours truly W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

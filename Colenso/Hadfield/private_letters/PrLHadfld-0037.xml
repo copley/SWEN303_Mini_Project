@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0037">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1842 August 30, Hadfield to ?</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 88)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 20.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1842-08-30">1842 August 30</date>
+                  <name type="place">Kapiti Park</name>
+               </correspAction>
+               
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1842 August 30, Hadfield to ?
+         </p>
+      </front>
+      <body>
+      <p>Kapiti Pk.</p>   
+         <p>Augst 30th - 42</p>   
+         <p>I go on much as usual here.  I have however been moving about lately-  I was at Wanganui (Mason’s station) about five weeks ago, I saw the Dawsons there, who were quite well &amp; very kind &amp; civil to me- <!--? whether marks in typescript represent dashes, or full stops, or other--> On my return from that place I went to Port Nicholson, &amp; then went about 50 miles beyond it to a place called Wairarapa, which I had never visited before, the residents there are new comers, who having been beaten formerly in their wars had deserted their land, but who have now lately returned.  I did not see many of them as they were in the woods, looking for food, having not yet any regular plantations- I had an uncomfortable trip there as there was cold rain every day, &amp; some of the cliffs could only be passed by wading into the sea up to my waist- I passed another week at Port Nicholson &amp; baptised about 30 natives there with whom I was much pleased- I officiated there as usual to an English congregation, to whom notice was given in the public papers.  People came to hear me preach, tho’ I hear that many consider me an enthusiast &amp;c – Christs little flock how – ever must profit – I am happy to say, that I am relieved of the charge now as Mr. Cole is appointed there.  The bishop has arrived here though, I have not seen him as he was obliged to go to Nelson, I expect to see him on his return in a week or two- I do not know what he will do with me..or whether I shall remain where I am or not.  The Bishop I hear is much interested in the Natives &amp; has already some knowledge of their language.  Maunsell has published a grammar, which however I have not seen  He is a cleaver <!--sic--> fellow the only man we have who knows the language well- Many of our good friends here <!--[blank]--> that W. Williams knows the language &amp; they leave the translations for him while they under-rate Maunsells ability which always amazes me – Our N. Z. New Test, is a poor thing; which is vexatious when we have Maunsell here.  The natives around me continue to give me satisfaction &amp; afford me comfort, tho’ some serve the devil &amp; give me pain at times- I am sorry to say that they monopolize all my thoughts and the rest of the world engages but little of my attention.  Such a creature am I.  I would however, I think, to go among the Chinese.  </p>   
+         <p>I am very comfortable here; every body without exception is civil &amp; kind to me, wherever I go, &amp; my friends the St Hills are particularly, so, I am enjoying better health at the present time than I have for some years- Dr Fitzgerald did me much good, through the blessing of God- He persuaded me to eat and drink more and gave me some <!--[two blanks]-->.</p>   
+         <p><!--[blanks]--> I must however take care that the body does not get the upper hand- I now keep a goat &amp; a great many fowls, so that I have milk &amp; eggs in abundance.  I am able also to eat potatoes which I did not taste for years – So you see that I take care of myself though I be absent from you who used to take care of me.  I trust to know shortly that you are all well, &amp; enjoying the favour &amp; blessing of the Lord, living in love &amp; peace in the prospect of a better home which Jesus has purchased for us with his blood.  </p>   
+         <p>Please to remember me to all my kind friends; I ought to write to many, but I have not time and writing becomes a task to me.  
+O Hadfield
+</p>
+      </body>
+   </text>
+</TEI>

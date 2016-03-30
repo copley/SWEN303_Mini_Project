@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0140">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1854 October 4: to Elizabeth Colenso</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-papers-9478-1.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70617/">Elizabeth Colenso</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1854-10-04">1854 October 4</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1854 October 4: to Elizabeth Colenso<note xml:id="ftn2-36" place="foot" n="36"> ATL Ms-papers-9478-1.</note>
+         </p>
+      </front>
+      <body>
+         <p>No. 8)</p>
+         <p rend="end">WAITANGI, October 4<hi rend="sup">th</hi>., 1854.</p>
+         <p>Mrs. Colenso,</p>
+         <p>Otahuhu, near Auckland.</p>
+         <p>My dear Elizabeth,</p>
+         <p>Ten days ago (Septr. 22) I received your painful and extraordinary letter of the 27<hi rend="sup">th</hi>. May last! And, although I have now again read it carefully through (and that with almost more surprise &amp; keen feeling than when I first went over it) I cannot bring myself to follow your example, and so address you differently from what I have ever hitherto done. Neither shall I stoop to notice the many new and ill things you have therein written,—rather, willingly, would I forget them all: for, used as I have long been to harsh language and treatment, I would that the mother of 2 of my children had not so far forgotten herself as to write to me in such a sad, sad way, I fear, however, that anything I could now say, would have little if any influence with you, but I feel assured that you will by-and-bye bitterly resent the course you have taken. May God, in mercy, give you to see your error! May he not visit upon our 2 dear children the sins of their parents! This shall be my constant prayer.</p>
+         <p>The “Dolphin” is now at Ahuriri, whither I have been this day. Through Mr. Alexander’s kindness, I have arranged with him to have my dear little boy, Wi, brought down per next vessel to this place, which Mr. Alexander will be able to effect through his Auckland agent, Mr. Graham. As all circumstances connected with the dear child are now well known <hi rend="italic">here</hi>, I would venture to hint to you (for your <hi rend="italic">own good name</hi>) to do what you may have in your power for the child’s well and safe coming away from your neighbourhood. Any outlay you may have to make I will most faithfully repay through Mr. Alexander’s Auckland agent. I have given Mr. Alexander full authority to act for me in this matter which authority he will transmit to, or act upon through his agent; and as I believe Mr. Fairburn (your father) spoke to Mr. Alexander when at Auckland about bringing away my child, and as I also believe Mr. Graham to be well-known to Mrs. Fairburn, I cannot see any prospective difficulty.</p>
+         <p>I had intended to send forthwith a special (European) messenger by this vessel to fetch my child, but as Mr. Alexander hopes that some European men and women will be shortly coming to him from Auckland, and as wages are so high and my purse so low, I have abandoned my original intention. With this I shall also send a letter to “Matiu Porou and his wife Maraea” respecting the child, and so have done all in my power towards fulfilling my parental duty towards him.</p>
+         <p>It is true that I said in my letter to Mr. Hamlin (alluded to by you) that— “I always said I knew (I told the Bishop so before Mrs. Colenso) that it would not be advisable for the child to be taken to Mr. Fairburn’s. And now I would rather that the child should still go on with Mrs. Colenso and be put out somewhere in the neighbourhood of Auckland, than come <hi rend="italic">back here to be torn from me again, and that too by natives &amp; brought up by them</hi>. If he can <hi rend="italic">not</hi> go on to Auckland could he not be put with some quiet settler at Turanga for his <hi rend="italic">good</hi>?” (These are the very words.) But from your own showing he has for some considerable time been with <hi rend="italic">natives</hi>! Were he even now with some religious or steady <hi rend="italic">European</hi>, however poor, I would continue to fight with my feelings (as I have hitherto done <hi rend="italic">for all 3</hi>) and <hi rend="italic">not</hi> send for him. You also tell me that “my thus writing to Mr. Hamlin was the great inducement to you to take him on with you;”—which, however, is far from being correct, as your own long letter from Te Wairoa,, dated September 24<hi rend="sup">th</hi>., clearly shows; which letter of yours was written 3 days before Ihaka returned to you with my letter; and in which you <hi rend="italic">again</hi> expressed yourself in those kind words quoted in mine to you of 27<hi rend="sup">th</hi>. March last. But of this enough.</p>
+         <p>I have this day heard from Mr. Alexander that a Bill or Draft on Mr. Graham for £20 (which I had sent you in Jun. last) has been paid; whence I infer that you have also received the letter which enclosed it.</p>
+         <p>In your sad letter of May 27<hi rend="sup">th</hi>. you do not tell me a word concerning <hi rend="italic">our </hi>2 dear children, which, while in keeping with the tenor of that epistle, must be wholly at variance with their affectionate hearts, as well as with all religion natural or revealed. You wish (you say) “to have no farther communication with me;” Well, I will not trouble you; not, at least, until you are brought to a better frame of mind, but I shall henceforth resume writing to my (our) 2 children, whom I shall ever sincerely love, and whose welfare I shall both continually pray for and seek. I fear I shall not have sufficiently mastered my feelings to write to them by <hi rend="italic">this</hi> vessel “the Dolphin” which sails directly, but I may yet have an early opportunity by “the Antelope” (the vessel in which you embarked) and which, curiously enough, is now at Ahuriri. As an almost last request—May I earnestly ask you to give them <hi rend="italic">their Father’s love</hi>?</p>
+         <p>And now, Elizabeth in conclusion believe me, <hi rend="italic">I wish you well</hi>. I would that you had <hi rend="italic">not </hi>chosen the rash course you have; one, however, in which you have <hi rend="italic">deliberately turned aside</hi> from the plain path of duty, and therefore you can never be truly happy. I <hi rend="italic">cannot</hi> say (with you) that I wish to have no further communication with you; although, through my unfelicitous situation, I am necessitated to succumb to circumstances which I can neither avoid nor control. Would to God, Elizabeth, that you had listened to me—(that you had “submitted” yourself as a Christian wife should do) when we were at Te Waimate together; when I so often besought you for the sake of our future comfort and usefulness (which I then too truly saw imperilled) to give way; for, as sure as the majestic kauri tree in the forests around you was once contained in an insignificant seed, so surely may all that has since happened be traced up to that apparently insignificant source.—But freely forgive me all the uneasiness I have ever (unwillingly) given you; even as I do you: and, when you are restored to a happier frame of mind, think upon the Father of your children whom <hi rend="italic">you </hi>and <hi rend="italic">all </hi>(including our old domestic Matiaha) have deserted.</p>
+         <p>             Your unfortunate husband,</p>
+         <p>                             William Colenso.<note xml:id="ftn2-37" place="foot" n="37">
+               <p> Colenso wrote at the foot of the page, “N.B. The foregoing letter was returned to me from Auckland and received by me here at Ahuriri on the 28th. January, 1855 bearing on it the following letter by Mr. Fairburn, written across the same:Revd. W. Colenso, Ahuriri, Hawke’s Bay. C/o A1exander Esq., Ahuriri.</p>
+               <p>Mr. Colenso,</p>
+               <p>My daughter is not living with me at present; I, therefore, opened the letter directed to her by you.</p>
+               <p>The child Wi is gone to the Bay, having been taken from Matiu (with my permission) by its Grandmother and Grandfather; as therefore your letter to Matiu regarding the child will be useless, he having nothing more to do with it, I enclose it with this your own letter. Your draft on Mr. Graham for £20, I got cashed unknown to my daughter, she not being here at the time; finding, however, that she entirely disapproved receiving anything at your hands, I take this opportunity of returning it.</p>
+               <p>             (Signed) W. T. Fairburn, Nov, 6th./54.”</p>
+            </note>
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0150">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1889 A Queen’s Bench decision. Hawke’s Bay Herald 16 July.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1889-07-16">1889 July 16</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1889 A Queen’s Bench decision.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald </hi>
+                  <hi rend="bold">16 July.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—I thank you for your able and truthful leader of Saturday last (13th.)—also, for your sub-leader—same issue.—I cannot understand why any thinking person can take up pen in defence of the “Harmy” <hi rend="italic">processions</hi>, &amp;c.—I send you, enclosed, a clipping from L. <hi rend="italic">Standard</hi> of May 2nd—this decision of Judges in Q. Bench Court—one would think should settle the question—as far as to the illegality of all such disagreeable noisy public interruptions.—I am, &amp;c, </p>
+         <p>					W.<hi rend="smallcaps">Colenso</hi>. </p>
+         <p> Danevirke, July 15th, 1889.</p>
+         <p>The following is the clipping enclosed by our correspondent:—	<lb/>[The clipping is a report of a case in St Alban’s, England, in which a man was found guilty of causing a nuisance by playing an accordian loudly].</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0573">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1884 August 19: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1884-08-19">1884 August 19</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1884 August 19: to Balfour<note xml:id="ftn3-253" place="foot" n="253"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Aug 19/84</p>
+         <p>Mr D.P. Balfour</p>
+         <p>My dear Sir</p>
+         <p>I wrote to you last week, &amp; sent same post, another copy of “Ruahine”: nothing since from you. I recollect promising (I dare say thoughtlessly) I would write you again this week, &amp; say something about <hi rend="italic">Fungi</hi>—of course, your spns sent me. And first, this last, black “egg-spoon shaped” one; I have it still under a glass, &amp; damp, in hopes it may continue well, &amp;c, &amp; produce spores. At present it is all right—but much as it was. I know, I may say, the Genus,—but I cannot be positively certain at present, it may turn out to be a well known species, as, (if I am right) it belongs to a <hi rend="italic">very large</hi> genus.—I hope to get maturer spns from you.</p>
+         <p>2 I dare say you will remember well two curious little Fungi you sent me last year;—one, a rigid black hair like one, with small globular protruberances on some of its stalks, &amp;, at first, with a red-ink-outline-map like marking, horizontal on red leaves; (that I had last found, nearly 40 years ago, on the W slopes of Ruahine, “Calceolaria repens” gulley. Well, in a letter from Kew, I am told, it is <hi rend="italic">Xylaria filiformis</hi>, Fries. Another small &amp; pretty little fungus, (you sent in a tin box, living &amp; growing in a bit of sod,) having a round head as big as a small mustard seed, with <hi rend="italic">at first</hi>, a metallic glistening; afterwards on bursting, a brownish powder—lot of spores; (this, too, I had found on my Autumn visit). Well, this I am told, is <hi rend="italic">Tilmadoche mutans</hi>, Persoon, found in Shag creek.</p>
+         <p>I prepared a paper 2 months ago for the Institute; (but <hi rend="italic">now</hi>, I suppose I shall have to send this one, with two others on which I am working, to Wellington!!—What a position for <hi rend="italic">me to be in</hi>!). A paper containing a list, &amp;c., of those small Fungi I had last year shown there, &amp; sent to Kew, &amp; these two are among them,and,of course, “hon. mention” of you, and of Glenross. Get as many more sorts as you can, but let them be mature &amp; perfect; Your little sharp eyed son can well help you, &amp; there are many beautiful &amp; highly attractive spns to a childs eye among our N.Z.ones. Do you not sometimes come across some “<hi rend="italic">Wetas</hi>”, in clearing wood?. If so secure them in Whiskey. I have had a very fine, &amp; peculiar one brought me from Wairoa last week—in <hi rend="italic">gin</hi>! it has given me already a few hours study &amp; thought, there being several spns described, &amp; the diff. between them small—from book descriptions, and so difficult to distinguish, but I think this fellow will prove to be a new spn. The first fine Sunday I go in for <hi rend="italic">close</hi> examination; the wet warm cloudy weather still continues <hi rend="italic">here</hi>; grass, &amp;c. growing rapidly.</p>
+         <p>Your <hi rend="italic">Lizard</hi> (last one) is still alive in his Crystal Palace; I cannot get him to eat anything; flies he won’t look at—that is to eat them. It is exactly similar (tho smaller) to 2 I brought from “Bush” in Autumn—one of which got loose here in the house; but has not turned up since. I take this out, on the table <hi rend="italic">for a run</hi> sometimes, when he amuses <hi rend="italic">me</hi>,—if not himself; he comes up into my hands, &amp; looks about, &amp; jumps; &amp; sometimes hangs to my fingers by one tiny nail, or by his <hi rend="italic">tail</hi>—but then his tail is like that of a Chinaman,—<hi rend="italic">must not be touched</hi>. As the season comes on, and I at <hi rend="italic">home</hi>, send me as many as you can living,—in Moss, or leaves, but not in earth; also, of the “walking stick” insects; as I wish to get M &amp; F, &amp; there are several varieties, or species; these too, can be carried well in fine Moss, (or put into whiskey, &amp;c,) with a branchlet of the shrub on which they are found, as they are voracious eaters.</p>
+         <p>I have had several applications for extra copies of our book,—some, to send to addresses given at Home—Scotland, and England;—&amp; all came <hi rend="italic">in time</hi> for mail.</p>
+         <p>I suppose you will see in “Herald” of yesterday, a report of (part of) my letter to Editor Auckld paper (R.C.).<note xml:id="ftn3-254" place="foot" n="254"> Mr Colenso and the Auckland Freeman’s Journal. <hi rend="italic">Hawke’s Bay Herald</hi>, 18 August 1884.</note> I got our Ed to do so, partly, that folks here (&amp; especially that <hi rend="italic">clan</hi> the “Catholics”) should see, that I was perfectly willing to acknowledge an error in quotation &amp; to make public;—as, at Auckland, they had chuckled over it; and, partly, that <hi rend="italic">they</hi>, too, might know the <hi rend="italic">main</hi> reason why I did not again take up Father Chesnais. Our Ed however left out the Auck Edr’s <hi rend="italic">remark</hi> at the foot of mine,viz,— “he” (perhaps, they?) did not consider the <hi rend="italic">Encyc Britan</hi> as a <hi rend="italic">respectable authority</hi>!. Hear that!—all ye bonnie Scots; of your <hi rend="italic">great</hi> Edinburgh work!!! of 7, 8, editions.</p>
+         <p>It is in my mind to say to <hi rend="italic">you </hi>(knowing you as I do) that should you wish it—owing perhaps to your knowledge of <hi rend="italic">Latin</hi> having become rusty, through non-usage,—I would send you gladly the translations of a few pithy sentences, untranslated in the new book. I am led to make this remark, because a lady said to me, that I should have translated <hi rend="italic">all</hi>; &amp; because I have already offered to do so (in writing) to another subscriber, inland; so <hi rend="italic">don’t be offended</hi>.</p>
+         <p>Perhaps, I may have to ask you to translate for me, some words in <hi rend="italic">Burns</hi> or a Gaelic sentence.</p>
+         <p>This wet weather, w. the wind from the sea, <hi rend="italic">constant</hi>, does not agree w <hi rend="italic">me</hi>. More Rheumatism of late, &amp; today, than for a <hi rend="italic">long time</hi> before; I have also noticed how injurious that wind is to trees <hi rend="italic">near</hi> the sea, especially in the <hi rend="italic">Spring</hi> season; My Ngaios &amp; Acacias have suffered much, the ground is thickly covered with their leaves &amp; blossoms; About 25 years ago, this wind blew for a fortnight, &amp; half killed my big willows at Waitangi; they rallied, and shot out fresh leaves, when it came on again, &amp; eventually killed the trees there; they had borne three successive lots of leaves. No doubt it was partly owing to the fine <hi rend="italic">salt</hi> spray as well.</p>
+         <p>Well, now I think I have redeemed my promise (at all events, as to quantity) &amp; am now free; out of your debt for letter writing.</p>
+         <p>Kind regards to all at Glenross. <lb/>               Bel me, yours faithfully</p>
+         <p>                             W. Colenso.</p>
+         <p>P.S. <hi rend="italic">You</hi> will read, and smile, about the search for Gold; I always told them, but they would not believe.</p>
+         <p>P.S. (2nd) I thought I had finished, but I find I omitted <hi rend="italic">one</hi> thing, I daresay you will remember bringing me 2 small “<hi rend="italic">stony</hi>” spns?. One of them I tried then, by candle light with my knife, and saw it was <hi rend="italic">not</hi> stone; and what do you think it is? discovered by me the next morning before breakfast, on first seeing it.—Why, only a part of a <hi rend="italic">Date</hi> stone. Another subject (which the above brings to mind)—what about your invention, patent?. Do tell me.</p>
+         <p>Another letter <hi rend="italic">tonight</hi> from Mr Beamish—<hi rend="italic">in favour of</hi> “Ruahine”, &amp;c.—he is sending to England.</p>
+      </body>
+   </text>
+</TEI>

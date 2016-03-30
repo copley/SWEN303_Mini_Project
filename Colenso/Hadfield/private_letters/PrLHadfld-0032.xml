@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0032">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1841 July 28: Octavius Hadfield to his sister Maria</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  (page 73)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 25.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1841-07-28">1841 July 28</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/46417/">Port Nicholson</name>
+               </correspAction>
+               <correspAction type="received">
+                   <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70928/">Maria Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1841 July 28: Octavius Hadfield to his sister Maria
+         </p>
+      </front>
+      <body>
+      <p>Port Nicholson,</p>
+      <p>New Zealand,</p>
+      <p>July 28th. 1841</p>
+      <p>My dear Maria,</p>
+      <p>I begin a letter to you with much pleasure, tho' I have not much time for writing in this place &amp; I have a good many letters to write on business.  I have recd. letters of Nov. Dec. &amp; Jan. for which I feel thankful.  The last I wrote was to George about a month ago.  I have been here for a few days &amp; am now only waiting for a fine day to return home.  I was sent for to Waikanae, things here are in a bad way.  There is a population of 3000 persons &amp; no clergyman to attend to them, a layman sent down here by the bishop, has been behaving ill, &amp; must go, he has done the church much harm.  We are expecting the bishop shortly, I trust he will be able to restore matters again to order etc.  I preached to a good congregation, (consider the place of worship) on Sunday.  The respectable people are very civil to me &amp; wish me to remain here until the bishop makes his arrival; had I not such abundant employment among my own people I should be inclined to do so, as the flock is becoming scattered &amp; marriages are taking place in an irregular manner &amp; all kinds of evils are likely to ensue, many going away to the Wesleyans &amp; Presbyterians, so that the bishop may probably blame me when he comes, but I know not what to do.  The inhabitants also think that I ought to be more with them under present circumstances, so that I shall probably be censured generally.  There is not, I fear, a person who will be able to read prayers or keep a congregation together.  I was requested by a Mr. W yesterday to call on his wife who appeared to have been awakened by a sermon she heard from me when I was last here, she seems now in a pleasing stated of mind tho' she has suffered muh in mind &amp; even in body; she comes from London, &amp; told me she had never seen a bible in her youth! &amp; had never once entered a place of worship!!</p>
+      <p>The Governor is expected here daily.  Lieut. Dawson is expected down with him, having been appointed magistrated here.  I have not yet seen him.  I think I mentioned in my last that I was going across the Straits; I did so &amp; was more refreshed &amp; delighted than I have been before since I have been in N.Z.  The seed which had been sown in the summer I found had in many instances fallen on good ground &amp; sprung up &amp; brought forth fruit.  So that I could rejoice &amp; give thanks for the manifestations of Jehovah's rich grace &amp; love towards these dear people, chosen in Christ to everlasting life &amp; glory.  At Okukari in Queen Charlotte's Sound I found they had built me a house where I made myself very comfortable, &amp; the kindness &amp; attention of these dear people delighted my soul, thus tho' I have "left father, mother, brothers &amp; sisters" etc. I find them here.  Oh the goodness of the Lord in bringing me hither!  I had a congregation at that place of above 800, some of whom came from the neighbouring places.  I baptised seventeen persons with <supplied>[whose]</supplied> examination I was much pleased.  I then proceeded on to Rangitoto (Port Hardy), &amp; there I found these people whom I had visited before in Feb. vastly improved &amp; delighted to see me, their kindness &amp; civility was unbounded.  I baptised eight, among whom was the chief of the place, a man of about forty, &amp; three young women, who tho' they heard the Gospel for the first time in Feb. seemed to have remembered all that I said during the Sundays I was with them; they seemed exceedingly clear on doctrinal points, election, justificatoin, sanctification etc. so that I was amazed; two of them were the wives of one man &amp; one had been put away but the husband on his first hearing of the Gospel; they seemed very fond of each other &amp; seemed to be walking in the fear of the Lord.  To the Prince Jehovah be ascribed all the glory &amp; the praise.  They had built a new place of worship acording to my instructions &amp; seemed to spend all their time &amp; have all their thoughts set upon spiritual &amp; heavenly things.  After commending them to the care of God I left them with regret, they shedding abundant tears.  I promised to visit them again, if the Lord will, in Dec. &amp; proceed on to Blind Bay, Mission Bay, etc.  The wesleyan natives had been among them trying to pervert them from the truth &amp; telling them not to attend to me but they would not give heed to their follies.  I <supplied>[was]</supplied> exceedingly grieved with the proceedings of the wesleyans, but suffice it to say so without grieving you with details of their absurd proceedings.  </p>
+      <p>I &amp; my people are going on tolerably well on this side, but living among them I do not see so much the change, &amp; they have many disadvantages from being so near the white people, tho' here at Port Nicholson comparatively speaking, they are very orderly &amp; quiet &amp; well behaved to the natives.  I could relate to you much that would probably interest you were I to send you a kind of diary, but I have no time for it, &amp; after all one is in danger of becoming very egoistic, &amp; I am afraid this is a great fault of mine, though in letter-writing it is in some degree desirable.  However I like to let you know all my concerns, but don't wish to have them published to the world.  My people at &amp; about Otaki, one of my places, are not advancing much, those that are more immediately about me are doing well, but they have the cross to bear, as they are despised by some of their proud relatives.   I have just been writing to Alexander, tho' I never hear of him but thro' you.  I trust that I shall soon hear again from you, &amp; that you are all prospering, in the Lord.  I am very anxious about George.  I am glad that our parents were tolerably well when you last wrote.  I like to hear of all my friends at home, pray remember me kindly to all I used to know, especially the Warrens &amp; Griffins.  I spend but little time in reading or prayer &amp; my soul does not prosper, but I trust I may yet get into a more regular system.  Do you, who have time &amp; opportunity remember to pray for a poor earthern vessel containing what is valuable, but in itself very fragile.</p>
+      <p>With love to all, Believe me ever.</p>
+      <p>With much love &amp; affection</p>
+      <p>Your attached brother,
+      </p>
+      <p>Octavius Hadfield.</p>
+      <p>P.S. This colony I think must prosper from the spirited way in which some of the settlers seem to act.  There is some talent &amp; propriety here.  I, the day before yesterday after marrying a party accompanied them to a d&#233;jeun&#233; where everything was done with as much elegance etc. as it would have been in England &amp; the company was select.  This I did not expect when I came to N.Z. &amp; is a contrast to what I at other times have.  This day fortnight I was caught in a breeze when returning in my boat from Rangitoto &amp; slept by the side of my boat on the rocks, on an uninhabited island without water &amp; only a small fire during a frosty night &amp; nothing to eat, so much for variety.  But I can rejoice evermore at the prospect of eternal rest.  Adieu.</p>
+      </body>
+   </text>
+</TEI>

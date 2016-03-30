@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0017">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1865 September 7: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1000434</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>Encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1865-09-07">1865 September 7</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1865 September 7 McLean to Colenso (#1000434) </p>
+		</front>
+		<body>
+			<p>Napier 7 Sept 65. </p>
+			<p>My dear Sir </p>
+			<p>I am exceedingly obliged for the information conveyed in your private letter of the 1st. inst. </p>
+			<p>Native affairs on the East coast are assuming a very serious aspect and it is necessary to be prepared at all points for any thing that may occur. </p>
+			<p>The month of August was all along spoken of by the Hauhaus the 18 &amp; 28 of that month as the time for a general attack. I see your correspondent writes on the 24th. So that no doubt he was under the impression at the time that the August prophecies might be fulfilled. </p>
+			<p>Yesterday some of Karaitiana’s people threatened to pull down a hui or Hauhau flag of Paora Noinoi’s, you know what that would lead to. I have warned Karaitiana not to precipitate hostilities and I think matters will be quiet here for a time. </p>
+			<p>I remain </p>
+			<p>my dear Sir </p>
+			<p>yours faithfully </p>
+			<p>Donald McLean. </p>
+		</body>
+	</text>
+</TEI>

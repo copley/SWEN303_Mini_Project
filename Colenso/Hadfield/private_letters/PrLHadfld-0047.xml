@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0047">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1843 December 21: Octavius Hadfield to his mother Amelia Hadfield (nee White)</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  Page 101.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 30.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1843-12-21">1843 December 21</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70719/">Amelia Hadfield (nee White)</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1843 December 21: Octavius Hadfield to his mother Amelia Hadfield (nee White)</p>
+      </front>
+      <body>
+      <p>Wellington</p>
+      <p>New Zealand.</p>
+      <p>Dec. 21. 1843</p>
+      <p>My dear Mother,</p>
+      <p>Since I last wrote, which was only a few weeks ago, I have had the pleasure of hearing of you in a letter from Maria dated June.  I was much gratified by her letter &amp; beg to return my sincere thanks.  I have also received two letters of earlier dates from Octavia &amp; George. </p>
+      <p>The Bishop has just come to visit us &amp; I have come in here to meet him.  I was with him some hours yesterday, &amp; he purposes following me to Waikanae in a few days.  Mr. Cotton has been staying with me for a few days.  The Bishop is a most pleasing &amp; talented man, but I hear rather inclined to Popery.  Indeed I had a very strong instance of it a few days since, when I saw a letter of his addressed to a papist, the contents of which I certainly do not approved.  I had written very strongly to you  upon it, but on second thoughts destroyed my letter, as my remarks appeared to myself uncharitable.  I shall however have a further opportunity of seeing him shortly, &amp; forming a more accurate &amp; correct opinion of him &amp; his religious views.  I may have to act in opposition to him, but I hope that so painful a state of things may be spared me.</p>
+      <p>Matters among the natives are going on much as usual.  I think I can see, or rather foresee, that considerable difficulty will shortly exist in settling matters between the whites &amp; the natives; which will eventually lead to much evil, &amp; be very prejudicial to the cause of the Gospel.  The land question here is in a most complicated state: the Company misunderstanding the Government, &amp; the natives misunderstanding both: &amp; as a consequence considerable excitement existing.</p>
+      <p>I am called upon by all parties to give advice, &amp; both Colonel Wakefield, the Company's agent, &amp; Major Richmond, the Chief Magistrate here wish me to make a statement of affairs to the new Governor.  The truth is, it is not so much my knowledge of the state of things, which recommends me to them, as the difficulty of finding a person at once acquainted with the state of affairs, &amp; not personally interested in the question.</p>
+      <p>I much fear that there will be a rapid decay shortly in the religion of the natives, in saying so I believe I am almost singular in my opinion but I see causes working which must lead to it, if not shortly remedied.  I had great confidence in the Bishop he has plenty of ability, but now question whether he sees the question in a right point of view.  We must have scriptural remedies applied &amp; not ones of human intervention.  Would that I had more faith &amp; more holy love &amp; could watch &amp; pray more.</p>
+      <p>I have lately seen a brother of Major Richmond who knew Alexander in India.  I was much pleased with the manner in which he spoke of Alexander. </p>
+      <p>I thank you all very much for your letters which I occasionally receive, so write as often as possible.</p>
+      <p>I am staying with Mrs. St Hill, Mr. St Hill being absent.  She is such a delightful person that I get much good from being with her, but I must return home today &amp; this must be my excuse for writing such a hurried letter as I have forty miles to ride, &amp; a ship sails immediately.  Give my kindest love to my Father &amp; all at home &amp; remember me to my friends, &amp;</p>
+      <p>Believe me my dear Mother,</p>
+      <p>Your very affectionate son
+      </p>
+      <p>Octavius Hadfield.</p>
+      </body>
+   </text>
+</TEI>

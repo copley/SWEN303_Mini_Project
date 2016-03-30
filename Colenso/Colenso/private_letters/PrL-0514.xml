@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0514">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1882 September 23: to Drummond</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/13.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73880/">Drummond</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1882-09-23">1882 September 23</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1882 September 23: to Drummond<note xml:id="ftn3-159" place="foot" n="159"> ATL 88-103-1/13.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Saturday Sept 23<hi rend="sup">rd</hi>
+         </p>
+         <p rend="end">1882</p>
+         <p>Mr John Drummond</p>
+         <p>Dear Sir</p>
+         <p>I must no longer delay in replying to your welcome letter of the 18<hi rend="sup">th</hi>, which with the little box of worms I received all right, &amp; for which I thank you much. At <hi rend="italic">present</hi> I cannot say whether these specimens are new to science or not, as so many of our N.Z. earthworms have been described in different publications, both here in the Colony (in back Vols of “Trans N.Z. Inst”) and at home, but I hope soon to find that out.</p>
+         <p>I believe that I first saw this kind some 2–3 years ago, when staying at Norsewood,—a Scandinavian boy had a lot in his hand, which he had knotted up small, to go an eel-fishing; and he promised to get me some, but a week after he brought me a few in a box of earth, (in which he said he kept them for bait, &amp; out of which he had taken those others.) They were however so much smaller, that I would not bring any away, deferring it to a future time:—these shall be exhibited at our next (&amp; last) meeting Oct 9<hi rend="sup">th</hi>. You say, that Mr T. Bridges kindly brought these down for me; will you please <hi rend="italic">thank him for me for his kindness;—</hi>
+         </p>
+         <p>I note what you say about C. Palmer &amp; his <hi rend="italic">not</hi> getting the deeds &amp;c,—I feared there might be some little hitch, &amp; I am glad for your sake it is no worse; by all means wait Mr. Bridges return to us; what you aught to have got from C.P., is, a note, or order, to Mr B to have the deeds drawn in <hi rend="italic">your name</hi>, &amp; so save <hi rend="italic">2</hi> drawings, but this can be done when Mr. B. returns.—</p>
+         <p>I note also your kind offer to go Rock-hunting (as well as spider hunting)—but I cannot indicate any locality to you—that is, near you; and I fear you would not succeed <hi rend="italic">at first,</hi> even if I could do so; for the time, however, we have plenty, hundreds of specimens, &amp; most of them far better than those 2 or 3 I showed you (then just to hand) from Kohurau. J. Stewart of Takapau had sent <hi rend="italic">several lots</hi>;—if you were <hi rend="italic">un</hi>married, and had the time to spare, I would just say,—make J. Stewart’s acquaintance, &amp; go out to him on some <hi rend="italic">Saturday</hi> (or on one of his holidays), and so become initiated, and serve a 12 hours apprenticeship;—</p>
+         <p>That <hi rend="italic">old</hi> story (bosh; or rot;) which you quote <hi rend="italic">re</hi> “the Maori Traditions only going back 400 Years”, I have repeatedly upset (omitting their genealogical traditions), particularly in my essay in Vol I “Trans’’ and in my <hi rend="italic">later</hi> papers, as the <hi rend="italic">Moa,</hi> and their <hi rend="italic">varieties</hi> of Kumara, and of flax for weaving &amp;c, &amp;c; those <hi rend="italic">latter</hi> papers, D—may never have seen; but it is strange <hi rend="italic">how long</hi> an erroneous belief once received remains in full force &amp; vigour!. There are still lots of errors respecting the Maories &amp; old Maori matters that are currently <hi rend="italic">believed</hi> &amp; propagated by the Colonists—&amp; by those at home, <hi rend="italic">many of whom aught to know better</hi>, ⅓ THAT is—<hi rend="italic">to think</hi>;—</p>
+         <p>Winkelmann, of Te Aute, come down purposely to attend our last meeting; I only saw him in the room, &amp; then I was far too busy to attend to him, or to any one, (indeed, though I was there early, after being very hard at work all day, over J. Stewarts <hi rend="italic">specimens</hi>), and in my shirt sleeves too, until past 7.30;—having got all to rights by 7.35)—I even told the ladies as they came in, that I had not time to speak to them;—well, at the close, W remaining some 10 minutes with me, he gave me a rather big bottle crammed full of spiders, and in looking at them the next day, I find several of <hi rend="italic">yours</hi>—<hi rend="italic">with their yellow stripes</hi>—but <hi rend="italic">no male</hi> one among them; we’ll have him yet. I purpose showing a nice lot of Winkelmanns (fossil teeth &amp;c), at our next meeting; I have had them over 2 months, but most of J. Stewarts I had from him last Xmas, when I was at Takapau.</p>
+         <p>Quietly &amp; conveniently get all the information you can about these 3 worms, their <hi rend="italic">proper</hi> home,—nest, food,—how met with, whether single, or many together &amp;c. I shall “hold on” here as the seamen say, &amp; not close my letter until tomorrow night, as something may turn up; Good night.</p>
+         <p rend="end">Sunday evg 24<hi rend="sup">th</hi>
+         </p>
+         <p>Nothing of any great importance has reached me since I laid down my pen,—save a letter from the Ed of the “Journal of Science”, apologising for having omitted any notice of <hi rend="italic">our</hi> Society Meetings in the last No,—saying, it was the fault of the Printer, &amp;c.</p>
+         <p>It blew very hard here yesterday, so that the Circus folk were obliged to <hi rend="italic">lower</hi> canvas; &amp; could not exhibit in the afternoon; it was warm here last week,—today cold, &amp; a hailshower a little after noon.</p>
+         <p>I am thinking of going to Springfield (P. Dolbels<note xml:id="ftn3-160" place="foot" n="160"> Brothers Philip and Richard Dolbel came from Jersey in 1855. They bought Springfield Station (in Springfield Road) in 1865.</note>) to spend a day or two, this week,—I have <hi rend="italic">long</hi> been going; &amp; now the two boys (Richards sons) with whom I try to correspond, put in their voices, so I must give way and go.—</p>
+         <p>I have sent<hi rend="sup"> </hi>you a paper or two since you returned, and hope you received them all right. I hope to send you more soon.</p>
+         <p>And now with kind regards to yourself, your good wife, to my namesake, and to the wee littl’un—all 4, a regular quartette!</p>
+         <p>Believe me</p>
+         <p>Yours very truly</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

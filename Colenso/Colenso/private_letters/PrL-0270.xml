@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0270">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1871 November 9: to McLean</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Object #1004127 from MS-Papers-0032-0222.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1871-11-09">1871 November 9</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1871 November 9: to McLean<note xml:id="ftn2-196" place="foot" n="196"> ATL Object #1004127 from MS-Papers-0032-0222.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier</p>
+         <p rend="end">Thursday, Novr. 9.</p>
+         <p>My dear Sir</p>
+         <p>Last evening I received a letter from a native of Te Aute, and I think you should know of its contents,—as you may not now have any one there to acquaint you with what is going on, and you still have Karaitiana with you,—to whom a word in season may be of service.—</p>
+         <p>The writer of the letter says:—</p>
+         <p>“I tenei wiki he hui ki konei, nga kainga kotahi te kau, he Hapa, he Iriiri, he Komiti mo nga pukapuka mai o te Paremete a Henare Matua mo Tamaki, he unu mai i raro o te ringa o te Kawanatanga o Nepia, (kite mea ia e maunu,) <hi rend="italic">Ko Karaitiana ka noho ia ki raro ina korerotia a “Tamaki.”—</hi>
+         </p>
+         <p>And, in another letter <hi rend="italic">to a native </hi>(which I have,) also dated the 7<hi rend="sup">th</hi>. are these words:—</p>
+         <p>“I tae mai a R—— ki konei i tenei ratapu, i haere mai ki te Hapa, kit e Hui hoki mo nga pukapuka mai a Henare Matua, i tukua mai i Poneke. Tena pea te Kawanatanga o Nepia e hinga i a Henare Matua, ina hoki kai te unu a Henare i Tamaki ki waho i te hook a te Kawanatanga.”—</p>
+         <p>Rumours are also among the Natives as to what Karaitiana (or Manaena &amp; others) intend doing with regard to certain sales, Leases, &amp;c, &amp;c, of these outer plains.—</p>
+         <p>Note that sentence &amp; its meaning, “<hi rend="italic">Ko K. kakoho &amp;c</hi>.”</p>
+         <p>I write to be in time for the “Keera,” hourly expected: I would also call your attention to the enclosed cutting from the Extra of the “Herald”—to hand last night. Permit me, <hi rend="italic">again</hi>, to call your serious attention to it—for surely such can be no better than <hi rend="italic">murder</hi>. In a conversation I had with you here in May last, you assured me, that all such killing should be at an end—that Ropata was then on his <hi rend="italic">last </hi>journey, &amp;c &amp;c. There have been several since of this kind by those mercenary bloodhounds, and I <hi rend="italic">feel sure </hi>that the time will come when we shall suffer for it. What would have been said if such an action was done by the Russians to the French? Is not this horrid act <hi rend="italic">akin</hi> to the tragedy in the Santa Cruz islets—which we all deplore?—Great fault was found by us with the <hi rend="italic">ambush </hi>near Taranaki in ’62—when our officers were killed, but that is as nothing when compared with these. It seems to me that <hi rend="italic">of late </hi>much has been done (in this kind of way) to strengthen the King party; for <hi rend="italic">I know</hi>, that <hi rend="italic">nearly </hi>
+            <hi rend="underline italic">all</hi>
+            <hi rend="italic"> natives </hi>really view this pursuit of Te Kooti and this killing of the Maoris with him as a set to against the race, &amp; every event of this kind strengthens them, &amp; the Kg. party, wonderfully.—</p>
+         <p>Would to God that 6 months ago you had made a <hi rend="italic">golden bridge </hi>for Te Kooti to escape to Tawhiao!—that would have been the right thing.</p>
+         <p>I cannot write any more now:—I did not intend to write to you at all, or I would have done so before, I mean about my <hi rend="italic">own matters</hi>: I saw in the “Herald,” a report of what you said in the Ho.—“that I had received <hi rend="italic">no pay</hi> from March ’70, &amp; that the Work would <hi rend="italic">entail no further expense to the Country </hi>though <hi rend="italic">much remained </hi>to be done.”—All right:—I have yet to learn of <hi rend="italic">one </hi>in the Govt. ranks, from the General to the lowest Sub. who will thus work.</p>
+         <p>Believe me, yours very truly, </p>
+         <p>W. Colenso</p>
+         <p>P.S. Could you let Mr. Ormond see this? W.C.</p>
+      </body>
+   </text>
+</TEI>

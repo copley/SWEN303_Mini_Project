@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1048">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1898 May 18: to Hill</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Papers-0172.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/74331/">Hill</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1898-05-18">1898 May 18</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1898 May 18: to Hill<note xml:id="ftn3-898" place="foot" n="898"> ATL MS-Papers-0172.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Gow’s Hotel,<lb/>Waipukurau,<lb/>Wednesday<hi rend="italic">night<lb/>
+            </hi>18/V/98</p>
+         <p>Dear Mr. Hill</p>
+         <p>This has been a regular red-letter day <hi rend="italic">to me</hi>! and, as I have <hi rend="underline italic">you</hi> much in mind I must tell <hi rend="italic">you</hi> of it.—</p>
+         <p>An out &amp; out gala day <hi rend="italic">here. </hi>(Gow’s eldest nephew (long w. Jones) married to a “nice young woman”—match very popular, so all hands went to Ch., and as both bride &amp; Groom and Tuke, and a lot of others, wanted <hi rend="italic">me</hi> to help in tying the knot—the old m. consented, &amp; took part in ceremony—the <hi rend="italic">first</hi> since 1852!——</p>
+         <p>Then, as Tuke is leaving on Friday, to look after some scattered sheep, &amp; will not be back till Sunday evening I have consented to stay &amp; take S. for him next Sunday—but <hi rend="italic">must </hi>leave on <hi rend="underline italic">Monday</hi>
+            <hi rend="italic"> </hi>for N.</p>
+         <p>At last! to hand, a <hi rend="italic">bound</hi> copy of Spn. Mao. Lexicon! letter “A.” What a revelation—or resuscitation! of days &amp; months &amp; years <hi rend="italic">gone</hi> by!! (I could <hi rend="italic">cry </hi>over it; my thoughts are too solemn, too lonely, too <hi rend="italic">strange</hi>, to write, even to you!)—–</p>
+         <p>An <hi rend="italic">excellent </hi>letter from Brunnerton <hi rend="italic">re </hi>“Errors of R.” pamphlet. And <hi rend="italic">other </hi>good &amp; cheering letters to hand: so, <hi rend="italic">altogether</hi>, make this a Red Letter Day: and <hi rend="underline italic">you</hi>
+            <hi rend="italic"> shall know of it</hi>, &amp; so share my cake with me. A Dieu.</p>
+         <p>                                         Yours truly</p>
+         <p>                                                 W. Colenso.</p>
+         <p>P.S. Heigh ho! <hi rend="italic">you</hi> &amp; W. &amp; Co in <hi rend="italic">Herald </hi>of 16<hi rend="sup ">th</hi>!!</p>
+         <p>Remr. me to Burnett, Eccles, &amp; Sandel, if you see them.</p>
+         <p>I should also say,—</p>
+         <p>Before I agreed to help Tuke, (having seen in “Herald” of the Dean’s illness last Sunday) I wrote to the Dean, again, offering to help—if required: &amp; he has replied by wire “already arranged.”</p>
+         <p>Should you see Nicholls of Post Office, or Grant of “Examiner,” just say—I am <hi rend="italic">not yet</hi> at Napier. and tell Burnett of copy of Lex., “A.”, to hand.—–</p>
+      </body>
+   </text>
+</TEI>

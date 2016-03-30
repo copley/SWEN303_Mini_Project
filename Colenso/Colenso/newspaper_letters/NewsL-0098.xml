@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0098">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1881 Newspaper errors. Daily Telegraph 27 September</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1881-09-27">1881 September 27</date>
+          <publisher>
+            <name type="organisation">Daily Telegraph</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1881-09-26">1881 September 26</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1881 Newspaper errors. <lb/>
+        </hi>
+        <hi rend="bold italic"> Daily Telegraph</hi>
+        <hi rend="bold"> 27 September </hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—I have sometimes asked myself the question, Why is it that both you and your contemporary of the Herald make so many errors in your foreign telegraphic information?—generally, as to the dates and figures. In this morning’s paper we were gravely told, that our July mail was delivered in London on Sept. 23! Knowing this, at first sight, to be an error and a serious one, (for you had both informed us, about a month back, of the safe arrival at home of the July mail,)—l quite expected to see it rectified in your paper of this evening; and lo! you have made it still worse, in saying, that it was our May mail hence!!—but it was the August one. Such errors make little difference to me, and probably to most of us here in town,—but I know that they are of greater importance in the country; especially just now, after the late Post Office enquiry.—</p>
+      <p>I am, &amp;c, W. Colenso. </p>
+      <p>Napier, Sept. 26, 1881. [The “error,” if there be one, with which we are charged, is not ours, but Reuter’s, through whose agency we receive our cablegrams. Mr Colenso would have just cause to complain if we deliberately altered our messages to make the news fit into what we or anybody else might think was the correct groove.—Ed. D.T.). </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLTTR0001">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1852 July 9: Tamihana Te Rauparaha to Octavius Hadfield's brother George Hadfield</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71883/">Tamihana Te Rauparaha</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions, spine title "Hadfield, Typescript Miscellaneous Fragments 1833-1897", stamped 19 Dec 1979.  Section: Typescripts of inwards letters extracts + fragments.  "Copy of letter to Rev. George Hadfield."  Page 36. MS annotation correctly states: "Repeated p. 44-6"</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 10.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1852-07-09">1852 July 9</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/5754/">London</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70976/">George Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1852 July 9: Tamihana Te Rauparaha to Octavius Hadfield's brother George Hadfield</p>
+      </front>
+      <body>
+      <p>C.M. College,</p>
+      <p>July 9th, 1852.</p>
+      <p>My dear kind friend,</p>
+      <p>I write one more letter to you before I go away from England to say good-bye to you.- My ship sails on the 20th of this month from Gravesend.</p>
+      <p>You give my love to all:- to your dear Mother and your sisters.  The cup has come quite safely.  You tell your mother that I will carry it to your dear brother.  You give my great love to Henry and Mrs. Henry and all the family.  I cannot write a long letter for I am very busy I have no time.  I shall remember you all very much.  I am very sorry to go away to leave my very dear friends in Christ in the College, but I am yet very happy to go back to my dear Wife; to the land of my birth, and to my dear people, that I may lead them on and teach them in all the good ways which I have seen in this place.  I am very glad to know that you will pray for me, that my way may be made straight over the sea to N. Zealand.  I also will pray to God for my Dear friends in England, when I am on the sea, and will continue praying at N.Zealand.  I will not finish my prayers for you until the time when Jesus Christ shall come, and we shall meet in the clouds, we shall no more want to pray then.  That is all my talk to you, I will say a little word now to the Wife of your brother Charles.</p>
+      <p>My dear friend,</p>
+      <p>I am much obliged to you for your kind love to my Wife.  My Wife will remember you very much.  The beautiful box you have given her will look very nicely on the table in our house.  That is all my dear kind friend; it is very hot, and I am very busy: I can not write more, but I will write one word to my dear Henry.  You give it to him to read.</p>
+      <p>My dear friend Henry and Mrs. Henry</p>
+      <p>I write to you all: Goodbye, Goodbye my dear friendds.  I shall see you no more.  I go back to my land.  I will tell your dear brother how kind you have all been to take care of me.  Good-bye all.</p>
+      <p>From your loving friend in Christ Jesus
+      </p>
+      <p>Tamihana Te Rauparaha.</p>
+      </body>
+   </text>
+</TEI>

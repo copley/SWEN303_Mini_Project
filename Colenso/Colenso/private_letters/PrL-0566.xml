@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0566">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1884 July 1: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1884-07-01">1884 July 1</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1884 July 1: to Balfour<note xml:id="ftn3-244" place="foot" n="244"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Tuesday night <lb/>July 1/84</p>
+         <p>Mr D.P. Balfour</p>
+         <p>My dear Sir</p>
+         <p>Yours of the 29<hi rend="sup">th</hi> June I gladly scooped out of the box at the P.O. this morning,—and thank you for it, and its enclosure.­ I cannot throw any light on the delay of mine of the 17<hi rend="sup">th</hi> (Tuesday)­ just note P.O. stamp of <hi rend="italic">date</hi>.—I think I either sent it on that night, or early next day.­</p>
+         <p>Thanks, over &amp; over (from full heart) for your kindly expressed sympathe­tic feeling at my treatment re those books.—Every time since that I have gone to town, I have gone in purposely to see if they were there, &amp;, sure enough, they are all there stuck up ever since. </p>
+         <p>Last Sat week I was not a little surprised in a visit from Mr Inspec­tor Hill; (to whom I had not spoken since our inauspicious meeting of Feb 4<hi rend="sup">th</hi>)—I endeavoured to receive him courteously, though I did not shake hands.—He remained till dark (nearly three hours) and we had a <hi rend="italic">long</hi> talk,—and parted <hi rend="italic">better</hi> friends, for I did shake hands with him. His object,—was, to explain, &amp;c, &amp;c, several things—of that period;­ and to induce me to come forward again; as the Hon Secy.—&amp; to write papers; need I tell you I <hi rend="italic">refused</hi> all his solicitations. I told him about the books demanded, &amp;c. He was very angry,—&amp; was not at any Council (or ordy) meeting,—&amp; will take up <hi rend="italic">that</hi> matter at next C meet­ing:—now that I know he was not there, &amp; Locke, too, absent at P. Bay, I can pretty well guess, who did the low mean job. But eno. of that.</p>
+         <p>I am glad you have received Vol. XVI, &amp; I agree with you, re much in that Vol.,—others, too, are of the same opinion, as ourselves.­—</p>
+         <p>Thanks for the two leaves:—I know the plant well, and last summer ga­thered a lot of female specimens (it is diœcious)—but I am quite in­clined to think that mine may prove to be a new spn. I found one leaf, blown down, nearly twice the size of your big one. It is <hi rend="italic">Griselinia</hi>, a curious Genus. You speak of it as a climber,—look again, examine closely; hardly so. One species is an Epiphyte—nestling up in forks; and one, is a <hi rend="italic">very bulky</hi> dumpty trunk fellow.­</p>
+         <p>In the forthcoming “Ruahine” book, you will find mention made of them. This book is advanced to 64 pages, and about 10–12 more will finish it, &amp; it would soon be <hi rend="italic">out</hi>—but for the <hi rend="italic">election</hi> printing!—we must wait. I flatter myself, you &amp; a few others will be pleased with it.</p>
+         <p>You tell me of your <hi rend="italic">new</hi>
+            <hi rend="italic">fern</hi>, send me a <hi rend="italic">barren frond</hi>, or portion of one early, fert. one, afterwards; also Lomaria alpina,—as it is. I saw P.D. in town today, he was looking well; he can mount, &amp; ride a horse now. You will see <hi rend="italic">another</hi> letter of mine in “H”of yesterday.<note xml:id="ftn3-245" place="foot" n="245"> Father Des Chesnais’ Lecture. <hi rend="italic">Hawke’s Bay Herald</hi> 1 July 1884.</note> Hope <hi rend="italic">you</hi> may like it. It has caused some talk in town:—lots of thanks—also, shaking of heads &amp; sour looks:—and so the world rolls on. I am pretty well, &amp; very busy, &amp;, with kind regards, am</p>
+         <p>Yours truly W.Colenso</p>
+         <p>11/8/84 Think you have already quite enough of <hi rend="italic">my writings</hi>, so I do not write a letter,—besides this is Eng mail week, with lots of Book pack­ets to make up—for Engd &amp; Europe, just 30 in all.</p>
+         <p>Hope you will welcome this stray paper from the far N. Sent with a Scotch newspaper.</p>
+      </body>
+   </text>
+</TEI>

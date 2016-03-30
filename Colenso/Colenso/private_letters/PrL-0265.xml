@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0265">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1871 July 13: to von Haast</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-papers-0037-046.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9511/">von Haast</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1871-07-13">1871 July 13</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1871 July 13: to von Haast<note xml:id="ftn2-190" place="foot" n="190"> ATL MS-papers-0037-046.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier,<lb/>July 13 1871</p>
+         <p>My dear Sir</p>
+         <p>I cannot allow another opportunity to pass by and leave all your kind remembrances of me unacknowledged although I feel totally unfit for writing!</p>
+         <p>I have received your esteemed letter of March 3<hi rend="sup ">rd</hi> (received 29<hi rend="sup ">th</hi>.), also your pamphlet on the Moa, and a Lyttleton Times of April 8, containing some “Additional Notes” on the same,—for all which I thank you heartily,—which please accept.</p>
+         <p>Your letter &amp;c. found me laid up with Rheumatism, which, with but little variation for the better, has continued till now: and prevents my doing anything. Again &amp; again I wished, and even attempted, to write to you, but always put it off,—as I wished to give <hi rend="italic">you</hi> a better dish, to write to you more fully, than it since has been or is now in my power to do. (Against my wish the town-folks here again made me a Member of our Provl. Council, and to it I had to be taken and brought back in a Cab!) I can be on my back and read tolerably well, when pains are not over strong, or when not too dull from opiates,—but to <hi rend="italic">sit</hi>, especially in a writing position, is the great difficulty: had it been summer I would long ago have tried the Taupo sulphur hot baths:—but enough of this.—</p>
+         <p>I cannot now by any means go into—do justice to—or write to you as I wish to do on your new Book on the Moa: I hope to do this yet, but shall I ever? I have read your work with much interest. I am glad and rejoice with you in your many discoveries—which really seem to increase daily!</p>
+         <p>Two or three things, however, in which I venture to think you are somewhat aberrant, and in which I cannot agree w. you, I will briefly mention:—</p>
+         <p>I. “The proverb “<hi rend="italic">He Moa kai hau</hi>.” (a wind-eating moa)”—such <hi rend="italic">may </hi>be its meaning, but <hi rend="italic">I </hi>should <hi rend="italic">not</hi> so translate it, &amp;, consequently, what you have so ingeniously built thereon falls to the ground.</p>
+         <p>II. In Lyttleton Times—some 60 lines or so, from— “I have been told the present race”—to “wild man of the wood.”—I would you had not written most of this, as I think your <hi rend="italic">philological </hi>conclusions are incorrect. And as to Taylor, he is <hi rend="italic">no </hi>authority (w. me), his Book (mainly compiled by <hi rend="italic">others</hi>, whose brains, eyes, &amp; hands, he used, <hi rend="italic">&amp;c.</hi>) is a wretched <hi rend="italic">olla podrida</hi>: the most faulty I know of on N.Z., especially on every thing connected with the N.Z. language. <hi rend="italic">Taylor never knew Maori</hi>.</p>
+         <p>III. Your remarks on my (in 1840) supposing the N. Zr. to be of <hi rend="italic">Malayan </hi>origin—of the Cassawary, its troubles, &amp;c.,—might, I think, had better been omitted,—at all events, <hi rend="italic">not </hi>adduced to build any thing on, nor to support any hypothesis, seeing I had long ago abandonad all such <hi rend="italic">origin</hi> or national stem for the Maories: as, indeed, shewn in my essay (of 1864). In Mr. Stack’s paper (in same copy of Lyttleton Times) on same subject, there is much more that is incorrect—he even quotes <hi rend="italic">me</hi> (!) as <hi rend="underline italic">holding</hi> the foolish belief in the truth of the Maori migrations—whereas I have repeatedly stated my belief of such being mainly <hi rend="italic">mythical</hi>.</p>
+         <p>Go on my dear Sir, in your praiseworthy ransacking and collecting, and gather all you can, from <hi rend="italic">Nature</hi>, and add your own thoughts and conclusions thereto—you will yet get her to speak: but (if I may be allowed to say so,) eschew <hi rend="italic">all</hi> dependence on any thing philological respecting the <hi rend="italic">Dinornis </hi>&amp; its old congeners. You, in the M. Island, are much worse off than we here, respecting anything of philolog. Maori—and I am pretty sure that Mr. Stack <hi rend="italic">cannot</hi> help you in this respect—indeed, to judge from what I have seen, more likely to lead you astray, though not willingly, of course.</p>
+         <p>Mr. Mackay’s information (quoted by you top of p. 8, pamphlet) is correct: believe me, <hi rend="italic">no Maori </hi>of 30­­­–35 years ago, ever once supposed the Moa bones to be those of a <hi rend="italic">bird</hi>—they always obstinately denied it:—that they since have done so, is entirely owing to the <hi rend="italic">pakehas</hi>.—</p>
+         <p>You enquire after specimens of Maori carving—canoe figure heads, boxes, weapons, tools, &amp;c.,—there is absolutely nothing of the kind hereabouts, nor have there been for many years—the unfortunate wars of the last few years enabled the enemy to clear off or destroy every thing of that kind they could lay hands on.</p>
+         <p>No doubt you want such for your Museum, of which I have heard so much, (and which I should so like to see!) and I may tell you (<hi rend="underline italic">entre nous</hi>) that your better way would be, to get your Superintendent (or some <hi rend="italic">influential</hi> friend of the <hi rend="italic">present </hi>Ministry,) to try the <hi rend="italic">Native </hi>Minister, Mr McLean—he, I think, <hi rend="italic">may</hi> yet have something of that kind left.</p>
+         <p>Pardon this scrawl and ever believe me yours truly</p>
+         <p>Wm. Colenso.</p>
+      </body>
+   </text>
+</TEI>

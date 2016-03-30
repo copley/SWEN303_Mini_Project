@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0649">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1887 September 5: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1887-09-05">1887 September 5</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1887 September 5: to Balfour<note xml:id="ftn3-370" place="foot" n="370"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Monday, <lb/>Sept. 5/87.</p>
+         <p>Mr. D. P. Balfour, <lb/>Glenross.</p>
+         <p>My Dear Sir,</p>
+         <p>I duly received your long-waited for letter—dated 27th August (in reply, as you yourself say, to mine of 5th June)—and if ever I was disappointed in reading a letter of yours, I was on reading <hi rend="italic">this</hi>!</p>
+         <p>Indeed, I had a good mind to write “there and then” (late at night though it was) to tell you a bit of my mind and I suppose I should have done so but for your <hi rend="italic">weekly</hi> mail and there being no chance of sending it before <hi rend="italic">this week</hi>. Perhaps it is well I did not, as I should not like to <hi rend="italic">vex you</hi>. I had borne with patience (as I always do), your not writing, knowing how busy you always are (and rightly so, too, but to be told—You had “<hi rend="italic">nothing</hi>
+            <hi rend="italic">to write about</hi>”!!! quite upset me—coming, as it did, <hi rend="italic">at this time</hi>. “Mon”, I said, “What’s up now?” (aye, and a good deal more, I can tell ye!) all that was, because I had been fully expecting to hear from you your remarks on Vol. XIX “Transactions, N.Z. Inst,”—as there are some rare things therein, and some also of your own discovery.—Then, I had already received several letters, &amp;c,—some from England, about the <hi rend="italic">Huia</hi> and the Fern-tree, &amp;c.—(which had also been reproduced <hi rend="italic">there</hi>). Moreover, there was not a word about our Society’s meeting, (I know, from yours, you were not there, &amp;c.)—which was lengthily reported in “<hi rend="italic">Evening News</hi>” (do you see <hi rend="italic">this paper</hi>? let me know.)</p>
+         <p>In bed, that night, I kept thinking about it, and I suddenly thought I had got hold of a <hi rend="italic">clue</hi>: so down I went to town &amp; inquired of Hamilton “If your Vol. had been sent?”—and I <hi rend="italic">fear</hi> from his reply—it had <hi rend="italic">not</hi>!!! but will be I hope before now. Such being the case, explains nearly all.—and so I write you this long yarn about it. Now let me have a reply, &amp; a good one, before your sheep shearing troubles begin.</p>
+         <p>You will see my letter to “Evening Post” kindly republished in the “Herald”: too bad of E.P. to come out like that.<note xml:id="ftn3-371" place="foot" n="371"> Mr. Colenso and the Maori Lexicon. <hi rend="italic">Hawke’s Bay Herald</hi> 2 September 1887.</note>
+         </p>
+         <p>I have received some nice Ferns, &amp;c. of late, from Taupo &amp; from Poverty Bay—in the back mountains, and have <hi rend="italic">been</hi> so busy describing them. Have just finished my Botanical paper for next week (not a very good one this time) and have commenced <hi rend="italic">my</hi> “<hi rend="italic">Jubilee</hi>” paper for our October meeting which I hope to finish in time. I have been to Nat. Land Court at Waikawa, &amp; at Dannevirke (3 days), lately—and am <hi rend="italic">now</hi> (again) pretty well.</p>
+         <p>And so, with kind regards &amp; best wishes “for auld lang syne” </p>
+         <p>I am, Yours truly, </p>
+         <p>W. Colenso.</p>
+         <p>P.S. When you were in town—Why did you not look up your copy of Vol. XIX?</p>
+      </body>
+   </text>
+</TEI>

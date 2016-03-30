@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0784">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1891 June 9: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0496.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1891-06-09">1891 June 9</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1891 June 9: to Harding<note xml:id="ftn3-533" place="foot" n="533"> ATL qMS-0496.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, June 9<hi rend="sup">th</hi> 1891</p>
+         <p>Dear Mr Harding</p>
+         <p>Your long &amp; kind letter of the 1–5 inst. I duly recd. &amp; thank you for it. I <hi rend="italic">did hope</hi> to be able to ansr. before now, but <hi rend="italic">could not</hi>—I determined however to give you this evg. And now I see, in D.T., just to hand, the <hi rend="italic">death</hi> of <hi rend="italic">Wallace</hi>, very soon after your Uncle: 2 old men &amp; old Colonists <hi rend="italic">gone</hi> nearly together.—Finding yesty. that I could not write, I sent you 4 papers <hi rend="italic">together</hi>—1, the “Wairoa G.,” I must ask you <hi rend="italic">to return</hi> &amp; as you had said, you had not seen Carr’s last Report, I sent it, also the paper containing mention of <hi rend="italic">Miller’s</hi> meeting.</p>
+         <p>Several things have happened <hi rend="italic">since</hi> my last (28<hi rend="sup">th</hi> ulto.)—which <hi rend="italic">we</hi> should <hi rend="italic">talk</hi> about, but I cannot well write, of some, howr., I will.—</p>
+         <p>At that Meeting—which was <hi rend="italic">well</hi> attended, (all Borough Councillors, and Ormond, Sidey, Coleman, Tuke, McHardy, Knowles, Carlile, McLean, &amp;c)—I noticed a tall lanky youth w. <hi rend="italic">red</hi> hair, rather scantily dressed, &amp; often going out, sitting at reporter’s table; &amp; <hi rend="italic">today</hi>, on enquiry from Craig, I found him to be <hi rend="italic">Hoben</hi>. Heigh ho! And to <hi rend="italic">such</hi> a creature, D. &amp; Co. committed yr. Almanac!!!—What I sd. was very <hi rend="italic">well</hi> recd.—but I <hi rend="italic">knew</hi> McDougall would <hi rend="italic">not</hi> have it in.—</p>
+         <p>I have been <hi rend="underline italic">busy</hi>—even to desperation! over spns. for Kirk (&amp; not yet ½ finished!!) I have a lot to despatch this week—now that I know he receives <hi rend="italic">free</hi> of postage (per late letter from him <hi rend="italic">in reply</hi>). What causes me extra trouble is the continually referring to <hi rend="italic">so many</hi> vols. of “Trans. N.Z. I.”, never knowing <hi rend="italic">which one</hi> the plant is in, &amp; so often have to go over nearly all—&amp; <hi rend="italic">no specific Index</hi>. It has occurred to me—very often—to get my Bot. Papers in “<hi rend="italic">Trans.</hi>” <hi rend="italic">all bound</hi> up in 1 vol. w. Ms. Index (and I think the roy. 8vo vols. or papers can be cut down to demy 8vo) and, if I mistake not, you told me, how much <hi rend="italic">better</hi> L. &amp; B. bound books. I have had several vols. ruined by Dinwiddie’s men.</p>
+         <p>Let me know when you write.—I think I told you, that White (Hony. S.) wished me to contrib. at <hi rend="italic">this meeting</hi>. I in reply sd. “I wod. try”—but for W. “to let me know <hi rend="italic">early last wk.</hi>” Now Knipe wrote to me begging help for last Sy. (7<hi rend="sup">th</hi>) so that he might visit settlers far off, &amp; <hi rend="italic">remain</hi> absent, &amp;c. In reply, I said, the Bp. had arranged for me (w. <hi rend="italic">him</hi>) to go to Taradale, &amp;c. &amp;c. on <hi rend="italic">that day</hi> (&amp; <hi rend="italic">so</hi> I gave out at T. on May 31<hi rend="sup">st</hi>)—on 2<hi rend="sup">nd</hi> inst. Bp.called, again, to say that was <hi rend="italic">an error</hi>—it was to be on 14<hi rend="sup">th</hi>!—then I wrote to K. saying, I was free, &amp;c. and to write that I <hi rend="italic">supposed</hi> I should be w. Knipe on the 7<hi rend="sup">th</hi>, so <hi rend="italic">not</hi> w. Wh. on 8<hi rend="sup">th</hi>.—K. replied (wire) to put it off till 21<hi rend="sup">st</hi>!! &amp; then I let Wh. know—but he was at Taupo. On Saty. 5<hi rend="sup">th</hi>. I recd. White’s letter—&amp; had to go to work on Saty. evg. for a Paper! &amp; this I read last evg. Not many present (!!) say 15—the Bp. &amp; Dr. Moore, &amp; Craig, &amp; Mr. Hill of those I knew—&amp; Lessong, V.P. &amp; Chn.—The day had been fine (almost too fine) &amp; at VII.30 rain fell w. a dark sky! but it cleared before VIII. I felt—vexed, <hi rend="italic">hurt</hi>—when I found that <hi rend="italic">Presidt.</hi> Hill, who had retd. to N. on Saty. had left <hi rend="italic">by III p.m. train</hi>: he was <hi rend="italic">asked</hi>, by Craig &amp; others, to stay. <hi rend="italic">I will find out where he was this day</hi>. Taylor Wh. had <hi rend="italic">another monotonous</hi> interminable p. (nearly 20 pp. folio fcp. closely (&amp; badly) written—on the Maori dog—or, <hi rend="italic">rather</hi>, all dogs &amp; (nearly) in all languages—<hi rend="italic">name</hi> dog—largely aided <hi rend="italic">by Tregear</hi>—&amp; others: J.Wh. had applied to me, <hi rend="italic">re</hi> same at Xmas. &amp; I told him—“to think twice before he <hi rend="italic">again</hi> attempted it.”—or, at all events, <hi rend="italic">first</hi> to read my <hi rend="italic">exhaustive</hi> paper on the ancient M. Dog, in vol. X. “Trans.” (he was <hi rend="italic">not</hi> a Member <hi rend="italic">then</hi>)—this he has <hi rend="italic">not done</hi>, but has written N. S. E. &amp; W., &amp; <hi rend="italic">copied</hi> from newspapers (Otago, &amp;c)—and we were <hi rend="italic">doomed</hi> in the cold, big Musm. room, to listen to this read badly &amp; in a low tone by the Hon. Sy.—with his face to the Chr. After (say) 20 m. thus passed, &amp; seeing how <hi rend="italic">uncomfortable</hi> folks were (2 ladies went out), I rose &amp; proposed, the remr. to be deferred—but it went on! by &amp; by Dr M. rose &amp; again did so, &amp; it was carried:—now near X. And then I said my say—&amp; questions were asked by Bp., by Dr. M, &amp; by others—howr. all things have an <hi rend="italic">end</hi>! At X.15 we closed. No reporter, nor reporter’s aid, appeared on the scene during the reading. I went into Liby. to get vol. X., could <hi rend="italic">not</hi> find it. After all over—then we saw, <hi rend="italic">all</hi> those XX. vols. <hi rend="italic">securely packed up in big parcels</hi>, &amp; <hi rend="italic">placed on top shelf</hi>.——It was a tiresome time, save when engd. on my paper (or, rather, <hi rend="italic">notes</hi>) &amp; showing spns. &amp; plates—all <hi rend="italic">Hepaticæ</hi> and I think I pleased my audience: <hi rend="italic">I tried hard to do so</hi>.</p>
+         <p>Next Sunday I am to go w. Bp. to Taradale in his buggy (rain or shine!) W.C. at T., Bp on to P.tapu: he returns to T., <hi rend="italic">both</hi> to Meeanee (W.C. to preach) back to T. (Bp. preach)—at VIII.30 or IX. drive bk. to N.—I fear it will <hi rend="italic">try me</hi>—I mean <hi rend="italic">the driving</hi>.—</p>
+         <p>On Sy. 21. to Waipukurau.—</p>
+         <p>On Sy. 28 (I <hi rend="italic">expect</hi>) Waipawa: this I shall <hi rend="italic">know</hi> next week, &amp; if it is to be so, then I shall remain all that wk. <hi rend="italic">inland</hi>—somewhere. But my dear friend—while Man thus proposes—<hi rend="smallcaps italic">God</hi>
+            <hi rend="italic"> disposes</hi>.—Mr. Paterson (whom I saw in town today, &amp; who is well) is to be at Dannevirke <hi rend="italic">next Sunday</hi>—14<hi rend="sup">th</hi>. annivy., Tea Mtg. &amp;c.—</p>
+         <p>A very nice note lately to hand from Mrs. Trestrail, who desires kind remembrances <hi rend="italic">to you</hi>.</p>
+         <p>I have <hi rend="italic">recd</hi>
+            <hi rend="italic">the big</hi> parcel from you contg. those 2 books, &amp;<hi rend="italic"> </hi>though desirous of <hi rend="italic">seeing</hi> them, have not yet opened it!! and so w. other parcels of books from Engd. &amp; elsewhere, also T’s. Dy.!!!—I hope to have a little <hi rend="italic">clear</hi> time soon now.—</p>
+         <p>Now to yr. letter: I think I may throw a little light on Montgys. poem—i.e. the <hi rend="italic">omission</hi> you speak of. (see enclosed slip.)—</p>
+         <p>Thanks for ptd. slip—of matter for <hi rend="italic">next</hi> “Typo”—Craig early called me in to see that Book (“M. &amp; <hi rend="italic">W</hi>. of the time”), just arrived, &amp; he had cut it at “Colenso” &amp; read it: I told C. it was copied from your “T.”—wh. he did not <hi rend="italic">seem</hi> to know, although he remd. <hi rend="italic">the</hi> port. I find, that Crerar gave a copy to D.T., also to H. (acknd. by each)—but <hi rend="italic">nothing</hi> said on it by them.—</p>
+         <p>I <hi rend="italic">still</hi> want to know <hi rend="italic">where</hi> that Exhibition, you saw, (“N.Z. &amp; S.S.”) <hi rend="italic">was held</hi>.</p>
+         <p>
+            <hi rend="italic">Thanks</hi> double &amp; hearty, for your kind remarks (in return) on the “<hi rend="italic">Gospel</hi> Temp. Sy.” Just so from my good friend R. Stewart.—</p>
+         <p>
+            <hi rend="italic">That</hi> fellow Hawkins (formerly a youth in Robjohn’s store) is <hi rend="italic">now</hi> a J.P.(!!!) at Dannevirke: he took up Smith’s elect. cause heartily! &amp; has <hi rend="italic">his reward</hi>: he is “President” Gosp. T. Sy; one of Licensing Comee. there; “banjo soloist” at gatherings—weddings &amp;c, &amp;c,—a <hi rend="italic">great</hi>
+            <hi rend="italic">reciter</hi>, &amp; singer, &amp;c. &amp;c.—(so the world wags!)</p>
+         <p>Your relation of the Chinese performances is <hi rend="underline italic">capital</hi>: I shall copy portion for Engd. next week.—</p>
+         <p>Fannin tells me—his wife is much better—indeed “<hi rend="italic">quite well</hi>,” may such continue!—</p>
+         <p>I am not very well—flying Rheumatism (espy. in <hi rend="italic">seat bones</hi> owing to <hi rend="italic">hard</hi> seat <hi rend="italic">in</hi> Ch. (Augustine’s) &amp; cold feet &amp; legs <hi rend="italic">there</hi>) last Sy.—I went twice—in mg. to hear the Bp.—I also sleep badly—geny, <hi rend="italic">past II</hi>. a.m. although I keep up till XI.30–XII. I dislike to use opiates: <hi rend="italic">here</hi> in this house <hi rend="italic">I need</hi> society.—</p>
+         <p>Prebble has been <hi rend="italic">very</hi> unwell, confined to bed, w. Dr.,—but is better. The Dean is looking very well, &amp; he told me, he <hi rend="italic">was so</hi>—quite recovered:—he goes to Wgn. to preach Annivy. S. on 28<hi rend="sup">th</hi>.—</p>
+         <p>I am sure I asked you some time ago, &amp; I have <hi rend="italic">forgotten</hi> your reply—so I ask again. Which of our local p. is it, that you do <hi rend="italic">not</hi> get?</p>
+         <p>In your last you <hi rend="italic">omitted</hi> re your son: but yr Bror. told me, he was improving.</p>
+         <p>You would be surprised to see this front room (old parlour) of mine: become a veritable workshop! with so many bundles of plants—scores of books, &amp;c, &amp;c. Oh! When may I be free again!—</p>
+         <p>Capt. R.—had Enqd. largely for me in town, &amp; at last I saw him—he wanted to know <hi rend="italic">all</hi> about the ptg. of that 1<hi rend="sup">st</hi>. part of Dy.—&amp; I told him what little I knew.—<hi rend="italic">Something</hi> may come of it.</p>
+         <p>You must have had a trying time of it—in your family there, through severe illness of your aunt, &amp; death, too of her husband yr. Uncle: but, from the tone of your letter, I gather you got <hi rend="italic">well</hi> through it all.</p>
+         <p>
+            <hi rend="smallcaps italic">No</hi>: I did not (have not) read the “<hi rend="italic">Kahekurukariki</hi>” in May No. “Typo”: scarcely saw it! too busy by day—&amp; that <hi rend="italic">too small</hi> type &amp; long for night: “Typo” is here on my side table <hi rend="italic">waiting</hi>. I read howr. several of your <hi rend="italic">smaller</hi> pars. <hi rend="italic">Re</hi> Wills: I find that <hi rend="italic">Russell</hi> has left N. &amp; gone to Op., under arrgt. w. Bp., as Lay R. <hi rend="italic">pro tem</hi>. for that place. R. Will (or <hi rend="italic">is</hi> to) study for Orders—so <hi rend="underline italic">I hear</hi>
+            <hi rend="italic">.—</hi>
+         </p>
+         <p>And now,once more, Good bye. Your Parly. days <hi rend="italic">there</hi> are about to dawn—may some good result to us; &amp; (if poss.) <hi rend="italic">less</hi> taxn.</p>
+         <p>And w. kindest remembrances &amp; very best wishes, believe me</p>
+         <p>Yours heartily</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

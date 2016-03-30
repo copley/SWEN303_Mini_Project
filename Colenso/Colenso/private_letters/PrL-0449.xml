@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0449">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1881 March 28: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1881-03-28">1881 March 28</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1881 March 28: to Balfour<note xml:id="ftn3-84" place="foot" n="84"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier March 28<hi rend="sup">th</hi> 1881</p>
+         <p>Mr D.P. Balfour </p>
+         <p>My dear Sir</p>
+         <p>My conscience will no longer allow of my deferring writing to you—though I am again, very busy (indeed, was writing all day <hi rend="italic">Yesterday</hi>; scarcely caring to be disturbed for food).</p>
+         <p>I returned on Wed 16, &amp; found two letters of yours (4 &amp; 11) with a box of spe­cimens awaiting me; and further, that you yourself had been here the day be­fore; I wasto have returned on that day—but the crush of gamblers &amp;c, &amp;c, coming to the races was too great, so I went back to my lodgings. I found I had a deal to do; many letters to read &amp; reply to—I got the most of them answered last week—purposing, fully, to write to you on the Sunday; but, on Sat night, Webers long letter appeared in the D.Telegraph against the Jews, and that so stirred me (as I have said above), I gave all yesterday in writing a reply, &amp; in copying <hi rend="italic">half</hi> for the D.T., which I hope may appear in this evenings paper.<note xml:id="ftn3-85" place="foot" n="85"> Charles Weber, born in Hanover, but long in New Zealand, had written in defence of persecution of Jews in Germany. Colenso’s reply was published in three parts on 28, 30 and 31 March 1881.</note> I have often thought, how I should like for you (&amp; a few others whom I value) to see that D.T., &amp; the W. Mail—that is, for my scrib­bling—as you (and they) will never again see a line of mine in the Herald—indeed, I have <hi rend="italic">not looked at one</hi> for this year!!. But enough of all that! this week I have lots to do, with Lawyers &amp; others; also a Council meeting of our Society on Friday, for which I have to <hi rend="italic">prepare</hi>; and a meeting summoned at Tiffins on Wednesday, re planting the near Flats. Next week I hope to lie on my back &amp; breathe;—&amp; the week following (early) off to the Bush for my Autum­nal visit.—I did, however, manage to send you a whole lot of W. Mail (13 I think), containing that story,—hope you received them!, that, too, will show you of my extra writing.</p>
+         <p>Now to your 2 letters, &amp;c. (Before, however, that I take them up, I will just note a portion of yours, of Feb 26<hi rend="sup">th</hi>, which reached me March 2<hi rend="sup">nd</hi> just as I was leaving.—You say “I think it is a pity we have no Museum, where members could visit it, if not the public; I have no doubt if the nucleus was once formed, contributions would flow in”.—This is quite right in one sense, just as wrong in another. Calculate the cost,—the <hi rend="italic">ever increasing</hi> cost of a Museum and a Curator; ₤300 per ann. would go but a short way to­wards it; then “<hi rend="italic">The public</hi>” would not care two straws about it (does that ani­mal ever trouble Mrs Caulton about the Museum at the Athenæum?)— “the pub­lic” <hi rend="italic">wants</hi>, theatricals, &amp;c, &amp;c,—aye, even in “religious” services,—falsely so called.</p>
+         <p>Now in reply to your two letters. “Divot” I soon found out, inland, from my old. acquaintance John Stewart (&amp; afterwards, from P.Gow),—You might have call­ed it a turf, or a sod,—or a matted layer of Epiphytal vegetable roots from the trunk of a tree;—I opened your box the day I arrived; found the Divots all right, but not the flg specimen of <hi rend="italic">Fuchsia</hi>, about which you had taken so much extra care; the flowers being soft &amp; succulent were much bruised, &amp; I could not recover them in water, though I took much pains to do so; still I think they will prove to belong to<hi rend="italic">F. Colensoi</hi>, which, when I first found it at Wairarapa nearly 40 years ago had that rambling propensity; at present I cannot say any more about it.</p>
+         <p>I have secured your <hi rend="italic">Divot</hi> containing the 2 leaved Orchideous plant to a tree here, &amp;, I am watering it nightly (during this drought),—I hope it may flower; but the former specimen in the letter, was <hi rend="italic">the one</hi>—as it had frequently flow­ered in past seasons, having some 6–7 <hi rend="italic">old</hi> spike peduncles!. Keep a good look­out for flowers from this plant, as it <hi rend="italic">may</hi> prove to be new. A large Divot of another Epiphytal Orchis <hi rend="italic">Epidendrum autumnalis</hi>, which I brought last year from the Bush, is now flowering on the Ngaio tree, where I had fixed it.</p>
+         <p>A is a larger spn than <hi rend="italic">E. mucronata</hi>, &amp; is very sweet scented. <hi rend="italic">Cordyline Banksii</hi>, did very well with me in my old garden at Waitangi (near Clive.W.)—it flowered every year beautifully &amp; profusely.—but when my <hi rend="italic">big</hi> dwelling-house was burnt down, that and many other rare Ruahine plants (which also did well in the shade of the S.E. end of house)—<hi rend="italic">all went toge­ther</hi>.</p>
+         <p>I have had an offl. letter from Dr Hector, saying, that my Zoological paper will <hi rend="italic">not</hi> be printed, it arriving <hi rend="italic">too late</hi>; the Dr might (I think) have sent me a telegram to forward it, he knowing I had retained it, &amp; also the reason I did so, viz, I was waiting Van Haast’s reply to my enquiries about one of my insects,­ his reply was (after all my waiting for months) that he could not find his notes. I shall much like to know if my <hi rend="italic">other</hi> papers are printed; as this necessar­ily acts on my getting on with any others—and this is one of our main ques­tions on Friday next,—viz. about papers for the forthcoming session. Your “Creeper in blossom from the top of a Matai tree”—is, very likely, <hi rend="italic">Metro­sideros</hi>
+            <hi rend="italic">scandens</hi>,—but I should like to see its fruiting capsules. I had again found <hi rend="italic">M.</hi>
+            <hi rend="italic">scandens</hi> 2 years ago in the Bush, with <hi rend="italic">M. pendens</hi>, &amp;c. Your spn,—like Fuchsia—was <hi rend="italic">spoiled</hi>—being ½ rotten &amp; <hi rend="italic">mouldy</hi>, so that it would not bear handling, that is, the flowers. Better put up <hi rend="italic">all</hi> flowering spns in a <hi rend="italic">letter</hi>, or in a bit of paper, so that they may <hi rend="italic">dry quickly</hi>, or send one or two <hi rend="italic">in a</hi>
+            <hi rend="italic">newspaper</hi>. I have little doubt but you have several new things in your Bush—but the access is difficult for me, as compared with the 40 mile one.</p>
+         <p>Very glad to hear of Mrs Balfour &amp; family being well, and with kind regards </p>
+         <p>             believe me to be</p>
+         <p>                             Yours truly</p>
+         <p>                                             W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0126">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1885 “Veritas vincit”—truth conquers.Daily Telegraph 26 May.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1885-05-26">1885 May 26</date>
+          <publisher>
+            <name type="organisation">Daily Telegraph</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1885-05-24">1885 May 24</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1885 “Veritas vincit”—truth conquers.<lb/>Daily Telegraph 26 May.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—In the Supplement to your Paper of Saturday evening last you have published a sermon by Rev. De Berdt Hovell: will you permit me to offer two very short remarks upon it? (which, also, are not my own but drawn from a higher source.) I am the more induced to do this from Mr. Hovell’s opening words:— “Far be it from me to launch out into any new sea of speculation; seeing that the revealed word of God is clear and precise enough on this question to satisfy even the most curious.”</p>
+      <p>My <hi rend="italic">first </hi>observation is,—that such teaching or belief is <hi rend="italic">not </hi>that of the Scriptures.</p>
+      <p>My <hi rend="italic">second</hi> is,—that such teaching is unorthodox and wholly opposed to the Creeds of the Catholic Church, and to the authoritative official standard of the Church of England; whose IV. Article on this particular subject, “<hi rend="italic">The Resurrection of Christ</hi>,” I quote:—</p>
+      <p>“Christ did truly rise again from death, and took again his body, with flesh, bones, and all things appertaining to the perfection of Man’s nature; wherewith he ascended into Heaven<hi rend="italic">,” &amp;c.—</hi>
+      </p>
+      <p>And this doctrine the Rev. De Berdt Hovell, as a Licensed Minister of that Church, has both assented and subscribed to, and been sworn to observe.—</p>
+      <p>I will conclude with a quotation from a great Doctor of the ancient Church, <hi rend="italic">which </hi>I would beg to recommend to Mr Hovell’s particular consideration:—“Resurrexit Christus, absoluta res est. Corpus erat, caro erat, pependit in cruce, positus est in sepulchro, exhibuit illam vivam qui vivebat in illa.” <hi rend="italic">Greg. Serm. </hi>158. <hi rend="italic">De Tempore.</hi>
+      </p>
+      <p>I am, &amp;c.,</p>
+      <p>
+        <hi rend="smallcaps">William Colenso.</hi>
+      </p>
+      <p>       Napier, May 24th, 1885.</p>
+      <p>P.S. I feel constrained, in a postscript, on this occasion, to ask you, Mr Editor, to reconsider your former expressed determination,— “Not to allow of any religious controversy in your Paper.” In my doing so, I know I have with me a large number of your readers in Town and Country, many of whom have at different times, spoken (and written) to me about it, lamenting it. For, it seems to us, your Subscribers and readers, not fair that you should on almost every Saturday in your “Supplement,” give a Sermon (for, I suppose, Sunday reading,) which too, frequently (as in this instance) contains extremely strange and far-fetched notions of religion. It seems to us—the many, that your, columns should either be open to all decent writers and seekers after Religious truth, or closed against all, and not (as hitherto) open to a select few only. Otherwise, you yourself may unintentionally become the great disseminator of error in matters of religion,— which, I am sure, you cannot desire to do. Of course there is the danger of what is called “religious controversy,” but surely all such could be reasonably guarded against or kept within due bounds,—just the same as is now done by all respectable Editors in political and personal matters, even the mere length of a letter, or sermon, might be well fixed; also, the disallowing of all anonymous writers.</p>
+      <p>Of one thing I feel well assured,—(looking back on the past 50 years, and considering the uphill persevering progress of Truth, in spite of all difficulties, and of all opposition from Churches,)—that the time is not far distant when all truly respectable Newspapers of the day will allot sufficient space to the honest enquirers after Truth,—Truth in all her various forms and opinions,—particularly in Religious matters—the highest and most important of all to man. Free Public Opinion will both demand and obtain this right from a free and enlightened Press. Moreover, be it ever remembered, that from such search and publicity, Truth and True Religion have nothing to fear. For, as the Roman historian Tacitus justly remarks,— “Truth is <hi rend="italic">established </hi>by scrutiny and deliberation.”</p>
+      <p>                                                                                       W.C.</p>
+    </body>
+  </text>
+</TEI>

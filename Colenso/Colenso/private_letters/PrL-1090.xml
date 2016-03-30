@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1090">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1889 December 9 to Didsbury</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Archives New Zealand</p>   
+         <p>(National Archives, Wellington, Record No. 1889/3518)</p>
+         <p>Transcription by Ian St George</p>
+            <p>encoded into TEI by Melissa Bryant, 23.10.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1889-12-09">1889 December 9</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/13157/">G. Didsbury</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1889 December 9 to Didsbury (National Archives, Wellington, Record No. 1889/3518)
+         </p>
+      </front>
+      <body>
+      <p>
+Napier, Decr. 9th. 1889.</p>
+<p>G. Didsbury, Esq.,</p>
+<p>Wellington.</p>
+<p>Dear Sir</p>
+<p>I have to thank you for your kind memo. of the 5th. inst., (only just to hand!) in reply to mine of 23rd. ult.—and in my doing so could wish I had received it a little earlier: as I had also written to you a 2nd. letter on the 4th. inst., on the same subject,—and which, (I suppose) you must have received very soon after you had written to me.—</p>
+<p>No doubt you are quite right in your supposition re the detention of the Ms. (Copy for Press) I had earlier sent you—viz. the absence of the Col. Secy. at Dunedin: for, since my last to you, I have received a telegram from him at Dunedin, informing me, that he would attend to it on his return to Wellington.</p>
+<p>So, as I find both from you and from him that I shall be in time with this line to you, I now write a few more remarks on those Mss.</p>
+<p>1. I hope you may get them in time, &amp;c.</p>
+<p>2. I find, from your memo you had given in “an estimate for 40 pages.”——</p>
+<p>3. It is likely that what I have forwarded may exceed that number: and this I would endeavour to meet:—(1.) By myself paying you the cost for any extra pages: and (2.) By now pointing out to you what might be lessened from the heterogenous lot of “Copy” sent:—I could not have done this before.——</p>
+<p>	a. re Appendix I.—</p>
+<p>no.7. first English book: this might be given in a few lines—title, date, &amp;c.</p>
+<p>no.8. Busby to Europeans:— ditto ditto</p>
+<p>no.13. De Thierry manifesto:— ditto ditto</p>
+<p>no.14. Prospectus ½-Caste Institution:—ditto.</p>
+<p>	b. re Appendix II.—</p>
+<p>no.13. might be omitted.</p>
+<p>no.16. First Gazette: title, date, &amp;c, &amp;c, briefly given.</p>
+<p>	Further, I would suggest:—</p>
+<p>1. That nos. 3 &amp; 4, Appendix I. should not be printed in cols., as in copy.</p>
+<p>2. That nos. 4 &amp; 5, Appendix II, should be inserted (from Copies by you)—verbatim: these I think are absolutely necessary.</p>
+<p>3. And that the little simple map I furnished should certainly be inserted:—if not, also, the 3 plates: and should these 3 be inserted please see that “Herald” &amp;c (big &amp; ugly! too,) be struck out.——</p>
+<p>I would that I had early known of this delay or protraction: as, in that case, I should have worked more leisurely, and probably have done it better.</p>
+<p>I don't recollect if I told you in my letter of 23rd. ulto. (written in haste), that I had last autumn spoken to, and ½ arranged with Mr. R.C. Harding, a Printer here, to execute this little work for me: but I afterward thought it was more of a Public nature, and therefore wrote (in May) to the Government about it.</p>
+<p>With this I post a copy of a late little book printed by Mr. Harding for me; which, please, except: I could almost hope you may not have already seen it.*</p>
+<p>Hoping soon to hear from you (see a Proof, &amp;c.)—I am, Dear Sir, 
+yours truly...</p>
+<p>W. Colenso.</p>
+</body>
+   </text>
+</TEI>

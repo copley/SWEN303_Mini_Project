@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0002">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1848 To the editor. New Zealand Spectator and Cook’s Strait Guardian 6 May.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1848-05-06">1848 May 6</date>
+               <publisher>
+                  <name type="organisation">New Zealand Spectator and Cook’s Strait Guardian</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <creation>
+          <date when="1848-05-04">1848 May 4</date>
+          <name type="place">Wellington</name>
+        </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1848 To the editor. </hi>
+            <hi rend="bold italic">New Zealand Spectator and Cook’s Strait Guardian</hi>
+            <hi rend="bold"> 6 May.</hi>
+         </p>
+      </front>
+      <body>
+         <p>Wellington, May 4<hi rend="smallcaps">, 1848.</hi>
+         </p>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—It was with no small amount of suprise and deep regret, that I read in your paper of the 26th ult. the statement, that the principal chief of Hawke’s Bay, (and, in fact, of the whole district between that place and Turakirae,) Te Hapuku, had supplied the chief Te Rangihaeata with both arms and ammunition. </p>
+         <p>I was <hi rend="italic">surprised</hi>—although prepared from long experience to hear the natives evil-spoken of—because such a statement is altogether erroneous, (as I hope presently to shew): I was (and must necessarily be) <hi rend="italic">grieved</hi>, because such news (backed by your editorial remarks) is of a nature not only to alarm the quiet settler in the out-stations, but to make him view every little movement of the natives however inoffensive with distrust and anxiety—to cause both the Government and our friends in our mother-country to fear that war is again about to burst forth upon the colony—and to excite such powerful chiefs as Te Hapuku and his friends (seeing that they are continually misrepresented) into collision with the Government, or, at least, to cause those native chiefs to entertain a worse opinion of us than they have already. </p>
+         <p>I have stated my belief in the <hi rend="italic">falseness</hi> of such information: and this I will now endeavour satisfactorily to shew. </p>
+         <p>On several occasions during the past two years, while conversing with Te Hapuku, I shewed him the folly of aiding Te Rangihaeata in any way—with men, arms, or ammunition; and I was glad to find, that he agreed in general in what I said. On my return journey from this place in November last, I heard, that Te Rangihaeata intended if possible to effect an alliance with the Ngatikahungunu tribe, and to retreat upon the neighbourhood of Hawke’s Bay, by way of the Manawatu river. I consulted with some of the more influential chiefs, and, having gained their consent, I, before I got home, sent him word, that he was upon no account to pass Te Apiti. Early in January, a messenger from Te Rangihaeata to Te Hapuku arrived at Wakatu, (the, village of the latter chief, and near to my station) bringing with him two red and two white blankets as a present to Te Hapuku, and a request to assist Te Rangihaeata with arms and ammunition. A meeting of chiefs was held, and several professing Christian chiefs, headed by Leonard Te Kawepo my native teacher, spoke strongly against it. I was very ill at the time, but I sent to Te Hapuku to remind him of his promise and to encourage him to adhere to the same. And, a day or two after, Mr. W. Morris, master of the whaling station at Cape Kidnapper, calling upon me, I mentioned the circumstance to him, upon which he went to see Te Hapuku, and also advised him not to comply with the request of Te Rangihaeata. Te Rangihaeata’s messenger obtained nothing whatever from Te Hapuku in return for his blankets, save some native mats. But, on his leaving Wakatu, and arriving at Raukawa at the end of his first day’s journey, one of Te Hapuku’s men, who had escorted him thus far, took upon himself to say to Te Waerenga, an old man (one of the distant relations of Te Hapuku, formerly a Papist, but now a heathen) living in the village of Raukawa, that Te Hapuku had said, he was to give Te Rangihaeata’s messenger a musket,—and thus he obtained <hi rend="italic">one</hi> from him. The next Te Rangihaeata’s messenger resumed his journey, and Te Hapuku’s men returned to their village. On their reaching Wakatu and relating what had taken place, Te Hapuku became greatly enraged, and calling for one of his more courageous adherents (Hemi Kepa Te Uranga), ordered him directly to pursue Te Rangihaeata’s messenger, and to follow him day and night until he should overtake him, when he was to take away and bring back the musket. H. Kepa overtook him at Te Waipukurau village, where, with the assistance of Paul Te Nera, and George Oneone (Christian chiefs), and Matthew Meke the native teacher, the musket was taken from him. He begged hard to be allowed to retain, at least, the cock, but this was refused; he then entreated to have the ramrod given back, and lastly the screw from the same, just to shew to his chief, but he pleaded in vain; Hemi Kepa brought back the musket to Te Hapuku. </p>
+         <p>I left my station, on my usual autumnal journey throughout my district, on the 23rd of March; up to which time no other persons had come to Heretaunga from Te Rangihaeata, I came by the way of the river Manawatu; and left Ngaawapurua (a village a little above Te Apiti, and the <hi rend="italic">only</hi> route by which messengers from Te Rangihaeata could possibly travel towards Hawke’s Bay,) on the 5th ult, and on the 7th ult. some natives of my Party who had remained at Ngaawapurua, left that place and came on after me to the village where I then was; up to which date no strangers had passed up the river. On the 10th ult. I finally left the Manawatu district, when my Christian friends, Paul Te Nera and Matthew Meke, and others, returned to Heretaunga hy the same route by which we had come. And on my arrival here, I found a letter from home, from Mrs. Colenso, dated the 14th ult, (on which day too, I believe, the <hi rend="italic">Gypsy</hi> sailed from Ahuriri,) which, while it gives me full information concerning the natives at my station and neighbourhood, contains not a syllable respecting the arrival there of “twenty-five of Rangihaeata’s followers, and their subsequent returning loaden with arms and ammunition!!”—An event which, if true, would have necessarily caused no little stir in the neighbourhood. But I may further add, such could not possibly have been the case, because there was not time for a party to pass from Te Apiti to Hawke’s Bay (deducting the days in which the rain poured in torrents) during the short period which elapsed between my leaving Manawatu and the sailing of the <hi rend="italic">Gypsy</hi> from Ahuriri. Further, Mr. Editor, allow me to say, that you are not quite correct in stating, “that a large quantity of arms and ammunition, obtained from the wreck of the American brig <hi rend="italic">Falco</hi>, is known to be in the possession of Te Hapuku” For, none of the principal chiefs of Ahuriri nor their followers were at Table Cape at the time of the wreck of the <hi rend="italic">Falco</hi>; and those natives who did reside there at that time, and who were concerned in that matter, and who subsequently migrated south to Heretaunga with their illgotten property, restored, last autumn, the whole of what they had left to me (some few, however, of them had, at my request, formerly returned what they had to Mr. Perry at Table Cape, prior to their leavmg that place,) comprising, among many other things, muskets, powder, ball, and bayonets. </p>
+         <p>I pass by the mysterious shrouding (so to speak) of the affair—the departing from Heretaunga of the twenty-five armed men by night!—as being utterly unworthy of notice. It being well-known that the New Zealanders have a strong natural antipathy to night-travelling—and most particularly so where such is altogether needless. </p>
+         <p>You, also, (in your leading article in that number of your paper containing the information which is the subject of the present letter,) speak of “the natives as possessing the inclination to disturb the public peace, but as wanting the power to do so.” I trust, Sir, that you may never have to chronicle the rising-in-arms of the Ngatikahungunu tribe;—an evil, compared with which all that has hitherto happened, both North and South, would appear as mere child’s play. For, if once the sword of war is drawn in that quarter and against that powerful tribe, you may be assured of this, that the whole of the natives upon the Eastern coast, from the East Cape and inland to Taupo, inclusive, may be considered as united against the Government. </p>
+         <p>Knowing, as I do, the state of the native mind—the keen feeling of the first-rank native chiefs when falsely accused—and the absolute need of straining every nerve just now in order to preserve among us the blessings of peace—I could not conscientiously leave Palliser Bay (where I first saw your paper) for Wellington, and allow those natives who were then on their way towards Heretaunga with your news to depart without my writing a note to Te Hapuku upon the matter; a copy of which I subjoin, and which you are at perfect liberty to publish. I dare indulge a hope that I may possibly get an answer from him ere I leave this neighbourhood. </p>
+         <p>And further, and in conclusion, I would once more beg to be allowed to say—that, if ever peace is to be permanent among us—if ever this (hitherto unfortunate) colony is to flourish—it must surely be through a very different policy than that of laying hold of everything in the shape of <hi rend="italic">news</hi> that will “<hi rend="italic">tell</hi>” against the natives, and thus needlessly exasperating the native mind. If we and they are to dwell quietly together—if we realty possess an intellect superior to theirs—and it <hi rend="italic">we</hi> vaunt ourselves in being Englishmen—the descendants of a Christian nation the growth of nearly eighteen centuries—let us show our superiority, and evidence our desire to live peaceably with them, in our possessing a little of that pure and genuine philanthropy which thinketh no evil—beareth all things—and never faileth; otherwise our little children may yet become our teachers (or their children hand down their forefathers’ deeds to the succeeding generation) when they admonishingly sing—</p>
+         <p>“None but a madman would fling about fire 		<lb/>And tell you— ’tis all but in sport.”</p>
+         <p>		I am, Sir,</p>
+         <p>		Your most obedient servant,</p>
+         <p>
+            <hi rend="smallcaps">		W. Colenso</hi> 
+         </p>
+         <p>		Resident Missionary at Ahuriri.</p>
+         <p>Copy of a note written to Te Hapuku, and sent by some natives going to Hawke’s Bay, who were in possession of the report, stating,—that he had furnished Te Rangihaeata with arms, &amp;c. </p>
+         <p>No te Kopi, Aperira 29, i tuhia atu ai. </p>
+         <p>E ta, e te Hapuku, Tena koe, e rahi ano toku aroha ki a koe, e noho mai na i to kainga. E ta, tena koe, tenei ano taku korero ki a koe; nui noa atu taku oho maori ki te korero i te Nuipepa, i taia mai nei ki Poneke; mohou ia te korero nei. Na te kaipuke mai tenei korero, na Tipihi. Na, ko te korero tenei, e, Erua tekau ma rima o nga hoa a te Rangihaeata kua tae ake ki a koe, me nga taonga ano, he paraikete, he aha, he aha; a, kua utua mai e koe ki nga pu ki nga paura; a, i hoki po mai ratou i a koe na. </p>
+         <p>Na, ko te korero tena; a, e mea ana ahau, he parau. Ae, apopo tae atu ai taku pukapuka wakakahore ki Poneke. E ta, me he teka ano te korero nei, kaua koe e aha ki a Hanara. Engari, me tuhi mai koe ki te Kawana, kia rongo tera kitei te tikanga. E ta, ma Mata (Mrs. Colenso) e korero to te Nuipepa ki a koe. </p>
+         <p>Tenei hoki ahau te haere nei ki runga ki te wakapae teka, heoi, kei te Atua te wakaaro mo tana pononga. </p>
+         <p>Naku, </p>
+         <p>			Na to hoa aroha,</p>
+         <p>Na te Koroneho. </p>
+         <p>Ki a Te Hapuku. </p>
+      </body>
+   </text>
+</TEI>

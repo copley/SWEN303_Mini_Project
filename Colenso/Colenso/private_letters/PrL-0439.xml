@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0439">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1881 January 20: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1881-01-20">1881 January 20</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1881 January 20: to Balfour<note xml:id="ftn3-72" place="foot" n="72"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Jan 20/81 <lb/>(2pm)</p>
+         <p>Mr Balfour</p>
+         <p>My dear Sir</p>
+         <p>Last night I received your welcome note &amp; enclosure dated 13<hi rend="sup">th</hi> inst. I thank for it—or for all of them—to which I must add your little packet of plants of last week—I am now waiting (on my oars) to go down to our Council at 3 o’clock, &amp; in the meanwhile I write you this, for I am very busy. Our Council should have been held last week, but I waited for our President to return, as the Annual Meeting comes off on the 7<hi rend="sup">th</hi> Feb, &amp; I have <hi rend="italic">all</hi>
+            <hi rend="italic">the cooking</hi> to do, aye, and the dishes to wash up and put away afterwards. Now to your plants. The first lot contained an <hi rend="italic">Orchis</hi>, probably <hi rend="italic">Earina mucro­nata,</hi> small &amp; starved,—but as the flowers are unexpanded, I cannot possibly say; these plants come throughout N.Z.; also a <hi rend="italic">Fuchsia</hi>, in leaf only, and I be­leive it is the one Dr Hooker named after me, see p728 of Handbook,—but we want good flowering spns of this.</p>
+         <p>(2) the second one, just to hand, is another <hi rend="italic">Orchis</hi>, but it is impossible to say if it is a new species, or an old one, from this small spn with three lea­ves. This little plant has pleased me much, and, <hi rend="italic">dry</hi> though it was, I have been coaxing it with water and have partly <hi rend="italic">resuscitated</hi> this “dry bone”, and hope to succeed in getting it to live. I purpose tying it (loosely) in the gar­den to a tree, &amp; watering it daily &amp;c, &amp;c.</p>
+         <p>You say you have planted two—no good; sure to die; these fine aerial gentry won’t live in the earth; if you have a mossy branch of a living tree near you, or a good fork, tye them there, or send them on to me (or some more of the same species).</p>
+         <p>Perhaps your Moa Bones you may send me some day. Leave them in town at my neighbours Ridgways—or at Bowermans shop.</p>
+         <p>This reminds me of Mr T. Hallett, who nearly a month ago told me of his dis­covery of a very strange bone; well, he kindly promised to send it in to Crai­gs for me, &amp; about three weeks ago I received his letter, saying he had done so, &amp; wanted to know all about it; I have called &amp; sent ten times to Craigs­ but it is not there, &amp; so I have written to Mr T. Hallett.</p>
+         <p>Hope you will not have the least cause to trouble yourselves about the <hi rend="italic">Tutu</hi>; I noticed in the Waipawa Mail, a case or two near Te Aute, this week, which made me think of you. Do you see <hi rend="italic">this paper</hi> (W. Mail)? as I <hi rend="italic">only write</hi> for <hi rend="italic">that</hi> now; &amp; pretty much of mine of late therein.</p>
+         <p>8pm. I now close; A good Council meeting (I had <hi rend="italic">pressed</hi> in my notes to them for attendance). Elected 4 new members, all of whom nominated by me, viz. H.S. Tiffin, Leyland Wilson, Waipawa, and J. Drummond of Ongaonga.</p>
+         <p>Feb 14<hi rend="sup">th</hi>. As I do not think you get the “D.T” at Glenross—I send you a copy containing our <hi rend="italic">report</hi>—which is a fair simple outline.</p>
+         <p>I am <hi rend="italic">again</hi> in bonds; (as you will see); I hope to send you the Report by Saturday’s mail—it is now in the printers hands.</p>
+         <p>I was a wee bit disappointed in <hi rend="italic">not</hi> seeing you on that Monday, and I thought of the bairnies &amp; the <hi rend="italic">tutu</hi>
+         </p>
+         <p>             Yours truly</p>
+         <p>                             14/2.81 W.C.</p>
+         <p>P.S. Could you get us a member or two up your way? Goodbye</p>
+         <p>             With kind regards</p>
+         <p>                             Yours truly</p>
+         <p>                                             W.Colenso.</p>
+      </body>
+   </text>
+</TEI>

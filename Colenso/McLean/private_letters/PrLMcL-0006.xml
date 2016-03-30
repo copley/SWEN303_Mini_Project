@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0006">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1851 August 27: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1002673</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>Encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1851-08-27">1851 August 27</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1851 August 27 McLean to Colenso (#1002673) </p>
+		</front>
+		<body>
+			<p>My dear Mr Colenso  </p>
+			<p>Many thanks for yours of the first giving an account of the disagreeable floods &amp; other events at Heretaunga. </p>
+			<p>I had a conversation with Sir George Grey about a mission station and reserve for your purposes towards which he seems very favorably disposed. </p>
+			<p>Dr Sinclair often enquires for you and requested to be remembered to you when I should see you. Mr. Cole is shortly to be married to a widow lady lately arrived in the Colony. If all is well tomorrow I intend to get married myself to Miss Strang of this place, a young lady for whom I have for some time had an attachment. I hope that you will now consider my house your home when you visit Wellington. </p>
+			<p>I regret exceedingly to hear that Mrs Colenso is not very well. With kind respects to her and love to Fanny &amp; Rati<!--ie. Latty--> I am </p>
+			<p>my dear Mr Colenso </p>
+			<p>Yours sincerely </p>
+			<p>Donald McLean </p>
+			<p>Wellington 27 Augt 51 </p>
+			<p>I am not sure but I think I must leave for Ahuriri about the end of Septr. </p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0023">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1868 October 16: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1020251</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1868-10-16">1868 October 16</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1868 October 16 McLean to Colenso (#1020251) </p>
+		</front>
+		<body>
+			<p>My dear Sir, </p>
+			<p>Your correspondence relating to the Maori dictionary was laid upon the table. I was giving notice to have it produced when Richmond told me it had been already done. </p>
+			<p>Ormond at your request asked me to do this. </p>
+			<p>I had some trouble in getting a “Ropitini Kuruho”, and at last I had to borrow the Library copy, when I discovered that Mr. Lyon had one which he will lend if necessary. I went to all kinds of places in search of one. </p>
+			<p>I send you a Pilgrim’s Progress. </p>
+			<p>With reference to your essay on the Maori I had a hurried perusal of it and consider it a valuable contribution. I made the following remarks upon it in a letter to Hector. </p>
+			<p>“I am much obliged for the perusal of Mr. Colenso’s essay on the Maori. I consider it is well worthy of publication, and hope you will get it printed.” I first asked Richmond about it, and he referred me to Dr. Hector. </p>
+			<p>very truly yours </p>
+			<p>Donald McLean. </p>
+			<p>16 Octr. 1868 </p>
+			<p>Please return Hector’s note. </p>
+			<!--Editor's notes: Ropitini Kuruho = Robinson Crusoe; *James Hector had written to McLean    about Colenso’s essay on 13 October (#1020017). -->
+		</body>
+	</text>
+</TEI>

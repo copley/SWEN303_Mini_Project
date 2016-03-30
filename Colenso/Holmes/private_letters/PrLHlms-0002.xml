@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1108">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>27 February 1869: Holmes to Haast.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70510/">Robert Langley Holmes</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>ATL MS-Papers-0037-089, sheet 6.</p>
+         <p>Transcription published in "My Dear Dr Haast: 
+Transcriptions of selected letters from Robert Langley 
+Holmes to Julius Haast between 1864-65 and 1868-70 ", Rowan Burns &amp; Simon Nathan.  Geoscience Society of New Zealand miscellaneous publication 133C, 2012.  ISBN 978-1-877480-22-5. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133C.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1869-02-27">1869 February 27</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9511/&gt;Sir Julius von Haast">Sir Julius von Haast</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Holmes to Haast, 27-2-1869, ATL MS-Papers-0037-089, sheet 6.</p>
+      </front>
+      <body>
+      <p>
+Col. Museum </p>
+            <p>27 Febry. 69 </p>
+            <p>My dear Dr Haast,</p>
+            <p>I enclose herewith copy of your earthquake 
+paper, as printed for the Transactions. I 
+hope it will meet your approval. Only those 
+portions, already mentioned, were left out, 
+together with a few lines of unimportant matter here and there, kept back so as to allow the 
+paper to be printed on the sheet, which it now does, as you see to a letter. A few more words 
+or sentences would have necessitated a great deal of extra work and some expense, as the 
+Paper closes the Transactions proper. Part III will be Essays, many (5) of them have been 
+already been[sic] printed, but 3 (on botany) are 
+now in the hands of the printer. After the 
+essays comes Colenso’s “Maori 
+races” then an Appendix &amp;c. In all about 500 p.p. Your little 
+article on the Chathams, and H. Travers long one, are included in the enclosed; also Mr. 
+Dobson’s Address, by no means the most uninteresting part of the volume. I think you have 
+one of the little maps of Chathams, as lithographed to be appended to these papers, I need 
+therefore not send you another.
+ Dr Hector sent you a copy of
+ your notes (Chatham) but not 
+hearing from you when it was ready for the press,
+ he concluded that you had nothing further 
+to add on the subject, so it was printed off.</p>
+            <p>I suppose you have seen Dr Hector on his 
+way south, I hope he will
+ soon be back here 
+again. He will give you all the Wellington news
+. I have nothing more to add just now. </p>
+            <p>Yours very sincerely 
+R L Holmes. </p>
+</body>
+   </text>
+</TEI>

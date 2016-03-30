@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0977">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1896 November 26: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0499.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1896-11-26">1896 November 26</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1896 November 26: to Harding<note xml:id="ftn3-803" place="foot" n="803"> ATL qMS-0499.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Novr. 26<hi rend="sup">th</hi>., 1896 (night).</p>
+         <p>Dear Mr Harding</p>
+         <p>I duly recd. yours of the 15<hi rend="sup">th</hi>.—and was glad to find you &amp; <hi rend="italic">yours </hi>had returned safely &amp; well to Wgn: I had been thinking <hi rend="italic">much </hi>on you, knowing (from your former letter) the <hi rend="italic">time </hi>of your visiting Palmerston and the weather so changeable. You ran a <hi rend="italic">great </hi>risk in travelling in that inclement day—and you have had great cause for <hi rend="italic">extra </hi>thankfulness.—I have been desirous of writing to you—but had I not <hi rend="italic">again altered</hi> my day of going inland I should not now be writing to you from Napier. Last wk. I made arrangements for leaving N. for Bush on 24<hi rend="sup">th</hi>.—but when I found on Saty. (21<hi rend="sup">st</hi>.) that the election was to come off on 4<hi rend="sup">th</hi>. proxo. I, not wishing to be <hi rend="italic">inland </hi>during the turmoil, neither to be absent from N., decided to stay until that day was <hi rend="italic">over</hi>: as I feared I might not find clear time, <hi rend="italic">i.e. fine days</hi>, to fulfil my promise to Borough of Woodville, viz. to name their 700 trees &amp; shrubs (indig.) lately planted out in <hi rend="italic">Park</hi>. Besides, not yet having got rid of my cold &amp; cough (w. loss of voice), I <hi rend="italic">must </hi>be careful. I am however much better than I was when I wrote last, &amp; on the whole am pretty well.</p>
+         <p>I thank you for <hi rend="italic">all </hi>the information you have given me, especially the account of yr. Phil. Meeting; I was much interested in the account of those walls, &amp;c., at <hi rend="italic">Ponape</hi> (?) and immy. thought on <hi rend="italic">those </hi>so well described by Capt. Hall in vol. I, “Trans. N.Z. I.”, with <hi rend="italic">plates</hi>—Rapa Island: look it up. I <hi rend="italic">knew</hi>
+            <hi rend="italic">Capt. H.</hi>, when M.P. at Wgn., we were staying in same Hotel.—While on this subject I may mention, a passage-at-arms between Profr. Hutton &amp; W.C., <hi rend="italic">re </hi>“Moa”: see “Press”, Novr. 14<hi rend="sup">th</hi>.,<note xml:id="ftn3-804" place="foot" n="804"> Colenso W. The moa. <hi rend="italic">The Press</hi> 14 November 1896.</note> 17<hi rend="sup">th</hi>. (I think I must have sent you a copy of “D.T.” of 2 yrs ago, contg. my long letter (<hi rend="italic">first </hi>pubd.) in Auckld. “Herald” on this subject:<note xml:id="ftn3-805" place="foot" n="805"> The Discovery of Moa Remains. <hi rend="italic">New Zealand Herald</hi> 15 December 1894.</note> I sent one, <hi rend="italic">then</hi>, to H., &amp; <hi rend="italic">now </hi>I sent him another copy, w. a letter) I am sorry to say—<hi rend="italic">his back is up</hi>!—curiously enough we had <hi rend="italic">recently </hi>been corresponding <hi rend="italic">lovingly</hi>—his <hi rend="italic">former </hi>letter commencing “My dear Colenso”: 3 days after “Dear Mr. C.”—but besides what was in my letter, pubd. in “Press”,—I had told him privately of 2 errors in his lately pubd. “Catalogue” of Museum,—1. re the <hi rend="italic">bell</hi>—he says “the Maoris brought it w. them from Hawaiki”: 2. <hi rend="italic">re </hi>the meaning of the word “<hi rend="italic">pakeha</hi>”, he says— “Divinities, gods from the sea” and <hi rend="italic">now </hi>, in his <hi rend="italic">last</hi>, he says, “<hi rend="italic">that </hi>information <hi rend="italic">re pakeha </hi>was obtd. from J. White.” I should have taken up his <hi rend="italic">pubd. letter</hi> (in reply to mine) were this not election time. I <hi rend="italic">may </hi>yet do so. I note your remarks <hi rend="italic">re </hi>“Pilgrims Progress”—my copie<hi rend="underline italic">s</hi>: yes, lately found—w. many other <hi rend="italic">precious </hi>things, stowed away in packing, any how! on leaving Waitangi—30 yrs. ago!! some of <hi rend="italic">these</hi> you would like to see: some, indeed, have <hi rend="italic">surprised me</hi>! I had clean forgotten them. Among them, also, 2 copies, <hi rend="italic">new</hi>, bound by myself in leather (183_), of <hi rend="italic">N. Test., 8vo</hi>: one I intend for your Wgn. pub. Library and the other for pub Liby. in Penzance. Bp. Stuart sadly wanted a copy of P. Progress in Maori, &amp; I cod. not give him my copy,—bound by Dinwiddie, also “Rob. Crusoe”.</p>
+         <p>You seem to have had <hi rend="italic">no </hi>day of rest! I think you run a gt. risk in <hi rend="italic">so</hi> working on <hi rend="italic">that Sunday</hi> you mention: at same time I <hi rend="italic">can</hi>, I <hi rend="italic">do</hi>, sympathize w. you, &amp; admire yr. zeal in the good cause. Am pleased to find you side (in part) w. me <hi rend="italic">versus </hi>Soltan. I have been <hi rend="italic">idle</hi> in Ch. matters since my last, save on 1<hi rend="sup">st</hi>., when I assisted Welch at Aug’s preachg. at Mg. S., &amp;c. W. feels the heavy dutie<hi rend="underline">s</hi> on that day—the gaol service, &amp; the Sy. school (<hi rend="italic">very large</hi>) &amp; <hi rend="italic">no </hi>Superintendent. Last Sy. <hi rend="italic">thretg. rain</hi>, dull, cloudy, &amp;c, I did <hi rend="italic">not </hi>move out. A fortnight ago I had a revise of pp.17–32, Mao. Lex, “<hi rend="italic">A</hi>”—&amp; did hope to have had more proof by this. I send you a paper or two—in one, McLean’s speech, which was good, &amp; does him much credit: I have heard, that Carnell’s was a sad affair: but above all—the <hi rend="italic">fellow </hi>Fraser V. Russell—bangs Banagher!!</p>
+         <p>I have been doing some <hi rend="italic">strange </hi>work of late! going through <hi rend="italic">old </hi>letters &amp; Mss., have already burnt <hi rend="italic">several hundreds </hi>of letters—from 1835 downwards, saving their envelopes &amp; stamps,—<hi rend="italic">&amp; occupied in like manner today</hi>—&amp; have a full week’s work of same sort before me: several strange (long forgotten) papers have turned up—among others, the Requisition from N. electors to me to stand for Genl. Assy. rather curious coming to light at <hi rend="italic">this time</hi> after its long buried sleep! &amp; not a few of your <hi rend="italic">old </hi>well-printed “<hi rend="underline italic">Times</hi>”. As you may readily suppose—I have both mourned &amp; rejoiced: and, at times, thought, How <hi rend="italic">you</hi> would have liked to see some of those diggings! I had a visit also from E.G. Wright (of Canterbury) on his way to the Rotorua Baths:—he is (as I suppose you know) <hi rend="italic">out </hi>for Ashburton: I saw his long &amp; good Address in the “<hi rend="italic">Press</hi>”: his comee. &amp; electorate approve of his being absent—on Doctors’ order.</p>
+         <p>I have recd. nos. X Rays—<hi rend="italic">thanks</hi>: but I do <hi rend="italic">not know</hi> the folks caricatured. I see Bell is your Mayor: I suppose, <hi rend="italic">Luke </hi>had <hi rend="italic">no </hi>chance.—I am very quiet here, <hi rend="italic">few </hi>visitors save in the begging line: I go to town once a wk., or 10 days, &amp; <hi rend="italic">only</hi> on business. Weather changeable—but fine on whole. I may mention (<hi rend="italic">to you</hi>), among other things of <hi rend="italic">old </hi>that I found, was my <hi rend="underline italic">first</hi>
+            <hi rend="italic"> paper</hi>, written for Mechanic’s Institute in Penz., when I was 18–19—on St. Michael’s Mount, &amp;c &amp;c—and the trade of the ancient Phœnicians to West Cornwall, it was snugly ensconced in my old <hi rend="italic">portable</hi> wtg. desk, where it had lain from 1834!! and my finding <hi rend="italic">this</hi>—set me athinking <hi rend="italic">re </hi>publishing that paper of mine (in part on the same subject) sent in to Hector last yr., &amp; <hi rend="underline italic">sat on</hi>! Here I think I must <hi rend="italic">stop</hi>.</p>
+         <p>Goodbye: kind regards to you &amp; all of yours. Believe me</p>
+         <p>Yours very sincerely</p>
+         <p>W. Colenso.</p>
+         <p>
+            <hi rend="italic">P.S. </hi>Since writing this a letter from my eldest son who arrived Home—<hi rend="italic">safely </hi>4<hi rend="sup">th</hi>. Octr. <hi rend="italic">Laus Deo</hi>!</p>
+      </body>
+   </text>
+</TEI>

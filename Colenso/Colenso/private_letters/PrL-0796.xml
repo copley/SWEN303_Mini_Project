@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0796">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1891 August 7: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0496.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1891-08-07">1891 August 7</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1891 August 7: to Harding<note xml:id="ftn3-545" place="foot" n="545"> ATL qMS-0496.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Augt. 7/91: vi. p.m.</p>
+         <p>Dear Mr Harding</p>
+         <p>Yours of the 2<hi rend="sup">nd</hi> inst. is to hand, &amp; I thank you for it: I feel a kind of conscience twinge that I <hi rend="italic">must</hi> write, but would rather be hearing you, or some other: for I am <hi rend="italic">tired</hi>
+            <hi rend="italic">writing</hi>! Last wk. I was working steadily on a paper of Maori matters for Socy. (so as to be ready—if wanted): while so engaged, a letter from Mantell, promising aid <hi rend="italic">re</hi> Moa-affair, but requesting XC to be “retd. <hi rend="italic">at once</hi>”, &amp; that “<hi rend="italic">to Librarian</hi> G.A.L.” On Monday I wired, sayg. “<hi rend="italic">end of this</hi> wk.” &amp; on Monday I commenced my heavy job in real good earnest! I have found it <hi rend="italic">heavy</hi>, very so—so much hunting up <hi rend="italic">old</hi> authorities (<hi rend="italic">before</hi>
+            <hi rend="italic">date</hi> of Colony!) and by sticking to it, dy. &amp; nt. I finished my paper last nt. (XI) and this day retd. XC. in regd. parcel <hi rend="italic">to Capt. R., </hi>who had sent it to me, telling him of Mantell.</p>
+         <p>In XC. Dr. Mantell was <hi rend="italic">sadly hit</hi>, &amp; most undeservedly so—a <hi rend="italic">cruel lying thing</hi>. However I have used my <hi rend="italic">pen in his defence, heartily, </hi>and I think I have brought him off triumphantly: ditto myself &amp; all from <hi rend="italic">Owen’s</hi> own book &amp; other good authorities. I should like for you to see my paper—but won’t risk it: my only fear is, that Hector <hi rend="italic">may</hi> keep it back! It <hi rend="italic">must</hi> however be printed somewhere; of course I shall read it here at Mtg.—tho’ <hi rend="italic">not at this next</hi>. Two days ago a note from Hill, re “<hi rend="italic">saying</hi> something” at next Mtg., informg me of 3 papers ready: Pinckney on Ferns: Westall Climatology: Hill Geology: in replyg. I sd “3 P! What more do you need?”</p>
+         <p>In that XC. is a review of the 2 Montgomery’s poetl.wks. (I should much like to keep the book a week longer.) I thought again on <hi rend="italic">you</hi>: &amp; this day in looking into my parlour bookcase I found <hi rend="italic">James </hi>Mtgy’s. poetical wks—which I had lost sight of: his <hi rend="italic">memoir</hi> would <hi rend="italic">interest you.</hi>
+         </p>
+         <p>Last Sy. (2<hi rend="sup">nd</hi>) <hi rend="underline italic">it blew great guns here</hi>! I had evg. S.at Augustine’s, &amp; had quite enough to do to walk thither—the roar &amp; rustling of big Bl. gums was something awful! I met but <hi rend="italic">very few</hi>, yet had a decent congregation. I ran down to town in hurry on Saturday to see Parkinson—he &amp; wife gone to Sydney, on Doctor’s orders, may be 6–8 wks. absent. Last night, <hi rend="italic">very late</hi> wrote a letter to “Dy.T.” re “Sea Serpents”:<note xml:id="ftn3-546" place="foot" n="546"> The Sea Serpent. <hi rend="italic">Daily Telegraph</hi> 8 August 1891.</note> I find this evg. acknd. but not <hi rend="italic">yet</hi> inserted.—“E.N.” has been reporting in full Seddon’s speech &amp; last evg. an out &amp; out slashing Art. on “Herald” in <hi rend="italic">defence</hi> of W.C. Smith: but I suppose you see <hi rend="italic">all! </hi>No reply<hi rend="italic">(of course) </hi>from Govt. to my last to Cooper. The more I think over it, the more I am convinced, that Tregear has been (<hi rend="italic">somehow</hi>) the great obstacle:—More anon: have not yet looked into his book; neither opened your big parcel of 2 Books! <hi rend="italic">When</hi> shall I do this? I see a move for Govt. to reprint the <hi rend="italic">Pilgrim</hi> in Maori: it is a <hi rend="underline italic">poor</hi>
+            <hi rend="italic"> translation</hi>: I happen to have a <hi rend="italic">good</hi> &amp; <hi rend="underline italic">complete</hi>
+            <hi rend="italic">one</hi> (both m. &amp; f.) done by one of our <hi rend="italic">best Maori</hi> Scholars (and a good man), <hi rend="italic">before</hi> formation of Colony—this (if <hi rend="italic">either</hi>) should be printed: but it is no use <hi rend="italic">my</hi> writing to Govt.—or to any one! I hope that old Maori printed version will <hi rend="italic">not</hi> be again published, &amp; you may mention this matter. I may tell <hi rend="italic">you</hi>, that attempts have been made in past yrs. to get my Ms. P.P. printed—but I was (&amp; am?) against it: the Maoris have already <hi rend="italic">too much </hi>of<hi rend="italic">Dreams &amp; visions, &amp; wonders!!—</hi>
+         </p>
+         <p>Have you <hi rend="italic">noticed</hi> in Collier p.141, “<hi rend="italic">Massey, a Book of the Beginnings</hi>”?—I fancy one of Tregear’s r<hi rend="italic">esources</hi>! I see at p.112, Collier—“T.B. Harding, 8vo H. Bay, Report,” &amp;c.—<hi rend="italic">Have you any copies left</hi>? There is a “Life of Browning” just out, by a Mrs. Orr, a review of it in “Standard” take a spn— “R.B. was born at Cumberwell 1812, “<hi rend="italic">soon after a great comet had disappeared in the sky</hi>,” &amp; <hi rend="italic">he died at end of 1889</hi>, on the night when a new star appeared in Orion,” &amp;c. &amp;c. Is it not sickening?—</p>
+         <p>I have had <hi rend="italic">no</hi> visitors for many days: <hi rend="italic">good</hi>: but 1 “friend” yesterday w. a huge portfolio of photos enlarged—<hi rend="italic">would not listen to him</hi>! There has been some kind of a Ch. row between O. Dean &amp; Puflet, at Spit—(<hi rend="italic">vid</hi>. “E.N.”) but I don’t know the real affair. Some days here <hi rend="italic">very</hi> fine,—on the whole weather has been fine throughout.</p>
+         <p>2 or 3, at the last 2- or 3 “meetings”: this is what I wish to see H. for on Friday—as he (as Prest.) knew nothing of it, &amp; Wh. <hi rend="italic">doubted</hi> my reply being so—but I kept a copy &amp; I find <hi rend="italic">it is so</hi>: I <hi rend="italic">may</hi> send mine to Wgn. to Gore. Hill’s Lect. was interestg. but <hi rend="italic">vastly too much tautology</hi>! <hi rend="underline italic">over &amp; over</hi>, craters, volcanic rocks, steam, snow, degs of lat., alt., up &amp; down, in &amp; out, not only his <hi rend="italic">own</hi> journeys, but something from all others—gleaned from books I had lent him. H. deserved all the praise &amp; thanks, but had he skimmed his big dish &amp; given us the cream, togr. with Map, &amp; photos, it would have been better: the <hi rend="italic">prepared</hi> photos. (done in a hurry) were bad, artistically, but of some <hi rend="italic">slight</hi> use: Sanders (Draper) managed the Lantern.—</p>
+         <p>I have had no visitor since my last save Dr Sp. who kindly called in the evg. on his way Home—I had not seen him since summer! He sd. there was much Rheumatism in N. just now.</p>
+         <p>
+            <hi rend="italic">13</hi>
+            <hi rend="sup italic">th</hi> (IX. p.m.) I am preparing to go down to town tomorrow mg. early, and so I must finish this to night.—This day has been another delightful one here &amp; I hope with you for the sake of Victor. I purpose enclosing 2 £10. notes, tomorrow: 1 is a <hi rend="italic">gift</hi> and 1 to be <hi rend="italic">repaid</hi>
+            <hi rend="italic">anon</hi>, no hurry: For I don’t like you being pursued by blackcare.—The portion of your last, <hi rend="italic">after receipt of mine</hi>, was done I fancy in a hurry, and <hi rend="italic">so</hi> 2–3 things I had mentioned are not noticed. I have seen no one here, not likely now—as I don’t call on anyone in all in Napier—unless it is Fannin, who never comes this way. I have been all day writing—<hi rend="italic">finishing</hi> one of my papers for Institute. Have recd. 1 copy of your July “Typo.” but not yet read it—shall, I trust, tomorrow evg. So Goodbye, w. every good wish &amp; kindest regards, yrs truly</p>
+         <p>W. Colenso</p>
+         <p>P.S. I shall send you a “<hi rend="italic">Report</hi>”</p>
+      </body>
+   </text>
+</TEI>

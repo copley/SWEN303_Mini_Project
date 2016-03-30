@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0047">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1863 Open column. Hawke’s Bay Herald 29 August.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1863-08-29">1863 August 29</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1863 Open column. 	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 29 August. </hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—I am desirous of calling your attention to a portion of the leading article in the “<hi rend="italic">New Zealander</hi>” of the 21st inst., containing a very grave and unpleasant misconstruction arising from an apparently slight error in your ‘Herald,’ of the 15th inst. </p>
+         <p>The Editor of the “<hi rend="italic">New Zealander</hi>” says:— “When Archdeacon Brown, and the settlers around him, were warned to escape for their lives from Tauranga, and when Wm. Thompson issued his mandate to slay and spare not, we gave it as our conviction that he had a great ultimate object to attain in clearing the Bay of Plenty of its “<hi rend="smallcaps">Fleas</hi>.” That object, we said, was to receive shipments of supplies, and send off gunpowder and warlike munitions and stores, unwatched and unnoticed, from Tauranga to the Thames. Our then convictions have been more than confirmed, they have been all but realised by intelligence received from Napier yesterday, by the Wonga Wonga.—On the 12th instant, the schooner Janet, 23 tons, Paul, sailed from Napier for Tauranga, with 160 bags flour, and 100 native passengers. Of this <hi rend="italic">significant shipment</hi>, the “Hawke’s Bay Herald” of the 15th writes thus:—</p>
+         <p>“The flour per Janet, shipped in large quantity by the natives here, and in handy 50-lb bags, has given rise to much speculation as to its ultimate destination—some going so far as to say that each bag contained a canister of gunpowder. Who doubts the perfect correctness of these ‘speculations’? and who but feels surprise that the Auckland was not rather instructed to cruise off the Mayor Island,* than at the mouth of the Wairoa?” And so on. </p>
+         <p>Now all this is owing to an error in the Herald of the 15th inst., (most unintentional on your part I have not the slightest doubt). There you state (as quoted),—the Janet sailed hence for <hi rend="italic">Tauranga</hi> instead of <hi rend="italic">Turanga</hi>. The former place, in the Bay of Plenty, being Wm. Thompson’s nearest seaport; the latter, the (now) common Maori name for Poverty Bay. </p>
+         <p>It is very easy to understand how such an announcement of flour (“powder”) and a hundred native passengers hence to Tauranga (Bay of Plenty), must have increased the suspicions and fears of Auckland. And  I venture to think, such fears and suspicions would have been greatly lessened had you also stated, (what I, at the time, understood, to be the case,)—that the 100 natives had mainly come down in the Janet from Turanga to the mill-feast here—had brought down a large lot of seed potatoes to the Natives of Ahuriri, and were now taking back flour in return. Of course, of the powder, I know nothing.</p>
+         <p>		I am, Sir,</p>
+         <p>		Yours truly,</p>
+         <p>		WM. COLENSO.</p>
+         <p>P.S. I notice also the same error of Tauranga for Turanga, to be in the “<hi rend="italic">Waka Maori</hi>,” published by you.—W.C. </p>
+         <p> *Off Tauranga, Bay of Plenty.</p>
+      </body>
+   </text>
+</TEI>

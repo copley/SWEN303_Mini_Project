@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0058">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1846 August 1: Octavius Hadfield to his father Joseph</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  "Letter 21."  Page 139 of this volume - typed page numbers from second page of this letter are 78-81.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 1.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1846-08-01">1846 August 1</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70741/">Joseph Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1846 August 1: Octavius Hadfield to his father Joseph</p>
+      </front>
+      <body>
+      <p>Wellington N.Z. Aug. 1 1846</p>
+      <p>My dear Father,</p>
+      <p>Hoping for an opportunity of sending a letter direct to England, I have delayed writing rather beyond what I intended.  I now write via Sydney.  I have been in daily expectation of hearing from home, not having received a letter since dear Maria's of 1 Nov.  As the accounts given me then of you all were as good as I could expect, I have not had any unusual anxieties about any of you; but I am always desirous of hearing how you all get through the winter, more especially yourself and my mother and some of the delicate ones.  I am afraid my precarious state of health has been a cause of solicitude to you, and rather trying at your advanced age, but still, solicitude arising from such a cause ought not to be of a painful nature,  Its tendency should rather be to concentrate all our hopes on that blessed abode where there shall be no more sorrow, &amp; to which we may all come through the mercy of God, by faith in our Redeemer.  I derive consolation from this fact.  But how painful would be my feelings, if your solicitude on my account arose from any other cause, from ungrateful or disgraceful conduct tending to raise feelings of indignations in your mind against a hypocritical professor of religion &amp; thus disturb the train of thoughts which should now be bent on Heaven.  Sin is the only evil, nothing but sin in ourselves or our relatives should give us real pain.  What is death, when the dead have died in the faith of Jesus Christ, Who lives for ever, &amp; in whom though they be dead, they still live.?  What is affliction, if we are thereby prepared for glory?  What is sorrow here, if its fruit be eternal joy?  What are those trials, which in our ignorance we call misfortunes, if they are parts of a Heavenly Father's discipline, intended to produce in us those dispositions, by which alone, for aught we know, we may be able to appreciate &amp; enjoy the spiritual blessings which Heaven contains.  What are all these, I ask, but so many ministering spirits, helping us forward in our journey?  How often in this world's concerns, do we "mistake true friends for enemies"?  How much more likely are we in spiritual concerns, to fall into the same error, when we are such inadequate judges as to the suitability of means to ends; and thus to call good evil, and evil good.  May God in His mercy give us true wisdom, and bring us repentance towards God &amp; faith in our Lord Jesus Christ, &amp; heavenly rest.  But I am forgetting that these are subjects on which you converse with all those around you; I shall now give you a little N.Z. news.  I remain much in the same state I have been in for many months.  I manage generally to stay out of bed about two hours in the course of the twenty-four, This I find as much as I can bear.  I cannot say I am any better, because on the slightest exertion of either mind or body the pain returns with all the former intensity.  All my friends continue as kind as ever.  Till lately, when unable to control my wandering thoughts, I occasionally ventured to wonder why I was permitted to live on in apparent uselessness; but during recent troubles here, I have been unable to shut my eyes to the fact that affairs here would have taken a very serious turn had I not been able to give the Governor accurate information concerning the natives of this part of the country, &amp; also represent the measures and motives of Government in their true light to the natives, being the only person in whom a large body of them have entire confidence. Since I last wrote, several murders have been committed in this neighbourhood by a band of vagabonds - outcasts from various tribes, amounting to about 150, under the notorious savage, Te Rangihaeata. The indignation manifested by the natives (i.e. nine-tenths of them) of this part of the country at their conduct is very satisfactory, and must be regarded as a prelude to more advanced civilisation. The only evil attending it is that the government here being weak, many of them have volunteered their assistance to put down the rebels, and have been armed for that purpose. Though they have shown the best feeling in thus coming forward to assist the settlers and Government, my fear is that a taste for war may be revived, and their recent peaceful habits be interrupted. It is however, a great point gained, and one for which perhaps a little present good may be sacrificed; to get, them to acknowledge the importance of lending their assistance to put down disturbers of the public peace, and to establish law and order.</p>
+      <p>The Governor has apprehended Te Rauparaha &amp; several others on suspicion of being favourable to the rebels  This step will produce either a very good or a very bad effect according to their guilt or innocence. I have felt some satisfaction in being able to assist the Governor with my advice as he appears a man sincerely intent upon doing what is right. He is a clever man, but fails rather in clearly seizing his object, and making every step he takes tend towards it,— he wants firmness and determination. He has been in this part of the country for the last month, and he comes to me almost every day that he is in Wellington to ask for my advice in some matter concerning the natives, and as he almost invariably acts upon advice I give him, I feel a degree of responsibility which is rather too much for my state of health. I am thankful that hitherto I have not had to regret any advice I have given.  The Governor told me that he landed at Waikanae last Sunday, and attended divine service there; he added that the impression made on his own mind by what he saw there was such as to convince him that the effect produced by christianity and civilisation on these people was greater than any that had been produced in any other part of the world within the range of his information. He was especially struck with the fact that three days after apprehending a very important chief, he could go almost alone and unarmed among 4 or 500 men, and kneel with them in worshipping in the same house of prayer without the slightest disturbance. As he is a man of extensive reading, and who has been much among aboriginal people, his opinion is of some value, &amp; I confess I feel somewhat gratified by it.  How thankful ought I to be that I have been employed even for a few years as an instrument in working out the Lord's gracious purposes towards these people.  Some months ago I mentioned that I had been writing a few remarks, upon native usages and customs in reference to land use, and also as to the best mode of civilising and governing the natives, Though these remarks were very short, the Governor was much pleased with them, and as the two judges thought highly of them, he has sent them to the Colonial Office. They were likely to correct some erroneous ideas, and to furnish some new ones, and thus to do some good; but had I expected that they would have been thought so valuable I would have worked out the subject better. I trust that our present disturbances here will soon end, but I am by no means certain that they will.</p>
+      <p>I trust that I will shortly hear from you.  Pray give my most affectionate love to all. &amp; </p>
+      <p>Believe me my dear Father,</p>
+      <p>Your very affectionate son,
+      </p>
+      <p>Octavius Hadfield.</p>
+      </body>
+   </text>
+</TEI>

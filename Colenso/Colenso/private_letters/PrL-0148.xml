@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0148">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1858 April 15: to McLean</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Object #1016078 from MS-Papers-0032-0221.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1858-04-15">1858 April 15</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1858 April 15: to McLean<note xml:id="ftn2-46" place="foot" n="46">ATL Object #1016078 from MS-Papers-0032-0221.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Waitangi<lb/>15th. April 1858</p>
+         <p>Dear Mr. McLean,</p>
+         <p>A rainy day with wind from the S. keeping me indoors, enables me to put in practice what, during the last week, I have several times thought of—viz, writing you; just to let you know (in the absence of your <hi rend="italic">aid</hi> Mr. Cooper) how it is with us—Natives. The more so as only last Thursday I returned from Poukawa.—</p>
+         <p>Well then, to begin at the beginning. I left you and Hapuku at Awanui; returning—<hi rend="italic">facing</hi> the rain—I got back drenched, having had two somersets by the way; &amp; so much bruised from the last (here too on Waitangi flats!) as to be glad enough to keep my bed for 2 days—thinking how ever <hi rend="italic">you</hi> managed to get on in the rain—to say nothing of the <hi rend="italic">heke</hi>! Early in the following week I got a visit from old Waka, from whom I got a good deal of news—among other things—that they were dreadfully incensed at the other party’s daring to sell Puhara’s House, &amp;, that they had determined Mr. C. should never dwell there. (This I have heard repeated 2ce since, but, as he will have to pay them money, they <hi rend="italic">may</hi> not be really serious.) That Renata will not remove to Omahu, but will stick hard &amp; fast to Te Pakiaka; &amp;, by and bye, when the Mill shall be finished, will put up a permanent pa for himself, at Wakaparata.—</p>
+         <p>Just at this time came 2 <hi rend="italic">ope’s</hi>; <hi rend="italic">one</hi>, a kind of taua from Taupo to fight agt. Hapuku on account of Matiu—bringing plenty of arms &amp; ammunition, which, I believe, has been handed over to Tareha—this party, was angry enough at H. having removed inland:— and <hi rend="italic">one</hi>, a deputatn. from Werowero to get these <hi rend="italic">disaffected</hi> ones to attend his levee or Coronation!—Twice I combatted their arguments—here at Waitangi—assuring them, that this new mode of proceeding they had pitched upon was the very rail road to their ruin: they, modestly &amp; good-tempered enough, acknowledged, that all I had said they had already heard from nearly every respectable pakeha—but that inasmuch as Kawana had called (or, rather, treated) Potatau as a taurekareka, &amp; had said, he should not know him as a King; &amp; all who should, would be considered enemies, (which was all the same as a challenge), he, Potatau, would shew the Native <hi rend="italic">mana</hi> &amp; would fight!! saying,—“Kaua koe e mahara e, Kaore o matou hoa; he hoa ano kei to matou tuara, Ko te iwi o Paranehe” (France)—we have had letters thence, telling us to sell no more land; and the “Pikopo’s” here are our friends, &amp;c., &amp;c., &amp;c.——That this was at the bottom of their thoughts, hence the making of Powder &amp; retaining Gold fields, (in order to work them), was now their main object. I sent word to Ngatikahungungu—<hi rend="italic">not</hi> to go to the hui; but they said (to the deputatn.) that had peace been really and firmly made here, they would go, but as it was, Te Moananui alone should go, who left a fortnight ago.—I sent strong &amp; plain verbal messages to Potatau; which, they said, they would “tell him, as I was a friend to the Maori”—speaking very distrustfully, &amp; <hi rend="italic">much worse</hi>, of nearly all high authorities,—which I was very sorry to hear.——</p>
+         <p>Last week another ope,—abt. 20, came, headed by Te Paerata, to get his people to the hui, he met Noa at Petani on his way N., no more however have gone. Tareha is busy, making his Pa Wakaairo smaller, more compact, and more easily defended. There is a sad split between them &amp; Rangihiroa on account of the money he got from you: they did say, the road from Tarawera to Mohaka should <hi rend="italic">not</hi> be made by him, &amp; I was charged to inform Mr. A. of it; &amp;, from the road to the land being such an easy transition, they now claim afresh all Lands right on to Tarawera at least! but I should tell you that their design is, to advocate <hi rend="italic">the right of Ngatimatapu</hi>, (Petane), to the Land of the Roadmaking, &amp; the other Rangatiratanga.</p>
+         <p>We have had no news nor returns yet from Porangahau, where they are still dividing their profits:—fame says that Purvis, who is still there among them, has received £500 at least: his brother, Hy., told me, last week, that P. was going to England almost directly.—Hapuku I found busy, having got up <hi rend="italic">all</hi> the <hi rend="italic">take’s</hi>, &amp;, in a day or so would proceed to put up the smaller fencing (<hi rend="italic">Wana’s</hi>), which, with <hi rend="italic">aka</hi>, were all ready. Some of the posts are very large—drawn from the Mill by 10 bullocks. I was surprised to find <hi rend="italic">no one</hi> of the inland Natives helping him, save Pao. Nikahere, and Pao. Kopakau: the <hi rend="italic">site</hi> is intermediate between Tauatepopo and the small Kahika bush which stands in the raupo swamp—in fact, it is <hi rend="italic">on</hi> the line of road as laid out by Roy; &amp; Gill and Hap. had been having words about it; Hap. telling Gill, that if he (G.) could <hi rend="italic">not</hi> make a road over the lower ground, he himself would do that part. I found them all in pretty good spirits—with a certainty of soon wanting food; which want, of <hi rend="italic">potatoes</hi> especially, was common everywhere inland. One very great evil I had painful proof of—the selling of spirits by the Draymen (wholesale! and legally enough, perhaps, in 2 gall.) not only to the Natives, but to the Road Parties: this will turn <hi rend="italic">the line of road</hi>, which should be a benefit, into a curse.—Hap. shewed me a block of Land, between Tauatepopo &amp; the little Lake, which he intended to sell immediately to Mr. Cooper, on his return. One incident occurred while I was there, Ho. Pura, (a Pakowhai native) had his collar-bone broken by the felling of a tree.—</p>
+         <p>Strangely enough—especially when considered in connexion with what Karait. had said, &amp;, subsequently, Ropiha’s Son and Tribe—they wished me to reside among them as their Minister—a straw thrown up shews wh. way the wind blows.—</p>
+         <p>Perhaps you will hear from Mr. Curling that I have contracted w. Sebley &amp; Thomas to build me a Ho. at Napier; for which Kauri, &amp;c., has been ordered. I have also offered nearly all my Lands (Town and Suburbn.) for sale, ditto the <hi rend="italic">Trees</hi> of this place—as the “Herald” will shew. And a surveyor is now laying-out the whole of that Basin (Nos. 39–44, surburban) Town of Napier, where I have projected a Street, or Place, in the Centre of the hollow, &amp; a Terrace on the hill. I will send you a plan when ready.</p>
+         <p>None of the natives about me know anything certain of my movements. They have held, however, two “Komitis”; &amp; I have had visits from Te Hira, &amp; from the old Lady Winipere, (Karaitiana’s Mother), &amp; firewood sent by Renata!! Waka, who comes &amp; goes, has pressed me—if I will leave—to take from their Land further up the flat, or on the other side, or by the Church, or anywhere—to all which I am deaf, &amp; dumb, too.!!</p>
+         <p>A great no. of Taupo &amp; other Natives have returned; and Ngatihori are now busy working timber for their Mill. I had forgotten to say, that one of this Tribe took away the Mailman’s Horse from him, the week after you left; alledging it as retaliation; Moa. however made him give it back.</p>
+         <p>And now my dear Sir, adieu. Believe me ever, <lb/>  Very sincerely yours <lb/>  Wm. Colenso.</p>
+         <p>P.S. Mackenzie is in gaol.</p>
+      </body>
+   </text>
+</TEI>

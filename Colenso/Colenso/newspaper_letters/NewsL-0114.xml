@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0114">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1884 Stamford-Street files. Hawke’s Bay Herald 23 February.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1884-02-23">1884 February 23</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1884 Stamford-Street files.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 23 February.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—In your paper of to-day you have a sub-leader on Stamford Street, and you begin it thus:—</p>
+         <p>“There seems to be some confusion in the public mind relative to the request made to the Borough Council to sell part of Stamford Street to Mr Colonso and to Mr Robjohns, who have properties abutting on that part of Stamford Street they wish to purchase”—winding it up by saying, our action in this matter “is a little disingenuous.”</p>
+         <p>Now, why not have told the whole plain and simple truth? and so have cleared the “confusion” (if such there be) “from the public mind.” You might have done so in a few words. As, however, you have not done so, but rather done all that you can to increase that confusion; I will now say a little thereon, and as briefly as possible.</p>
+         <p>1. “Stamford Street,” as it now is, is merely a short blind alley between 2 town sections, only 2½ chains long, and leading nowhere.</p>
+         <p>2. Mr Robjohns and myself are the sole owners of those 2 sections, and of course the only persons interested in that <hi rend="italic">cul-de-sac</hi>, or bit of street.</p>
+         <p>3. I am informed, that, by law, we are the persons who have the right of purchasing it under all the circumstances from the Corporation.</p>
+         <p>4. If this bit, or end, of what was once Stamford Street, could be used by us (or by anyone) as a way into the adjoining railway station, we would not think of buying it: it would be madness to do so.</p>
+         <p>5. For, as the law now is, to go through this bit of street on to the Railway Station, for any purpose, subjects the trespasser to £10 fine.</p>
+         <p>6. And seeing there are so many Railway lines laid down there close together, and also the fixed determination of the Government not to alter them, (and I, though a loser hereby, think they are right on behalf of the public,) I believe that, in writing my letter to the Borough Council, I chose that which was best for the public good: viz., to put a few hundred pounds into the public chest, rather than to draw therefrom for private advantage.</p>
+         <p>So much for the bare facts.</p>
+         <p>Now supposing (on the other hand,) I had sent in a letter to the Borough Council, respecting this end remaining of Stamford Street, asking for it to be formed and made, would you not be one of the first to charge me (or, Mr Robjohns and myself,) with seeking to improve the way into our own private properties at public expense? I think you would, in your usual happy manner! on anything respecting Mr Colenso.</p>
+         <p>Councillor M’Dougall’s remark in the Council on this occasion (as reported) was correct, being the plain common-sense view (apart from the <hi rend="italic">interested</hi> twistings of Councillor Neal, who has land there on t’other side.—where, he says, the railway goods shed and stores should have been, and he still hopes shall be!) Cr. M‘Dougall said,— “Either sell them the land, or make the street” Of course, if the Council should not now grant the prayer of my second letter, I shall be driven to apply for the making of Stamford Street. </p>
+         <p>You, also, kindly insinuate (in your usual happy manner), that the petition to Mr Maxwell asking him not to open the end of Stamford Street, was “got up by Mr Colenso” (in part, at least). May I tell you, that I knew nothing of it, never even once heard of it. On the contrary, I stated in Court on oath, that I would rather than £500 that Stamford Street had been kept open: and this I still say. </p>
+         <p>Before I close I would further observe, that I have thought I had lost quite enough in the deterioration of my properties on Wellesley Road and Stamford Street (myself and tenants), through the <hi rend="italic">laches</hi> or supineness of our Borough Council—or, of some one (“some one has erred”), as shown from official documents in the late Compensation Court held here in connection with this very matter. Moreover, (having mentioned the Compensation Court), I may inform the public, that the very compensation for loss on this same property lately awarded me in equity by the Chief Justice, and published by you in your paper, is now <hi rend="italic">refused</hi> me by the Government! who call on me to further prove my legal right to be paid it before the Court of Appeal at Wellington!! Perhaps this now move <hi rend="italic">you</hi> may also think right. — I am, &amp;c. , </p>
+         <p>
+                  <hi rend="smallcaps">		William Colenso.</hi>
+               </p>
+         <p> February 22, 1884.</p>
+      </body>
+   </text>
+</TEI>

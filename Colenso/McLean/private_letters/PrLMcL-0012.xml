@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0012">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Undated: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1022225</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="-----">Undated</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>Undated McLean to Colenso (#1022225)  </p>
+		</front>
+		<body>
+			<p>You refuse to obey the decision of the Court on the grounds that that decision is improper and illegal. The evidence proves that Complainant was struck on the head by you while he was in a sitting posture—that previous to the assault you had a violent altercation with Complainant and used towards him the epithets “bad man, thief, murderer.” It does not appear that he used any disrespectful or provoking expressions to you either before or after the assault. The forbearance with which he bore your attack was praiseworthy in the extreme and goes far to prove that your aspersion on his character is a mere calumny got up to serve your own purpose.— </p>
+			<p>The latitude which Teachers and Guardians and England are allowed in chastising children could not be safely extended to Teachers of tatooed New Zealanders.— </p>
+			<p>The authority of the Teacher would be gladly upheld by the Magistrate where that authority was properly directed. When the U.S. Brig “Falco” was wrecked at Table Cape Complainant was only one amongst a 100 who assisted in the plunder. This occurred 8 or 9 years ago and by the native law wrecks and other property cast on shore from the sea were the property of the natives who owned the soil on wh. the wreck might be cast. If the vessel had belonged to the natives the same result would, in all probability, have followed.— “Last year complainant gave up attending Divine Service”. It was then that complainant became aware of your criminal cohabitation with his relative Rebecca. All your charges from no 2 to 6 occurred subsequent to that knowledge. You had been in the habit of insulting Complainant through the other natives. Complainant is thought well of by, I believe, all the European residents who know him. </p>
+			<p>You ought to complete your work of usefulness by shewing your children! how to respect the law. A Court of Magistrates has nothing to do with your general usefulness, in deciding against you in a case of assault. Would it not much more become you, as a Christian Teacher and peacemaker to ingenuously acknowledge your error and cheerfully pay the fine than to set these natives the example of setting the law at defiance. Never heard of your inflicting personal chastisement as a punishment for crime before except once, when the native took the law into his own hands and felled you to the ground. Such might and probably would have been the case in this instance if Complainant had not been aware that he could obtain redress by applying to British law. </p>
+			<p>By the English law the use of harsh language accompanied by simply laying hands upon a person is considered an assault.— </p>
+			<p>In this instance </p>
+			<p> 	The assault was wanton and unprovoked </p>
+			<p> 	And was attended with slight bodily injury (a kick on the head with one’s foot could hardly be otherwise)  </p>
+			<p> 	And was proved by a credible witness according to the legal meaning of the term.— </p>
+			<p>All this conduct on the part of the Complainant arose out of the knowledge of your criminal connecxon with the female domestic alluded to. I don’t think Complainant ever meant or said that he would do you bodily injury and the expression “afraid to meet me” only referred to the charges he could bring against you.— Complainant and party were on the banks of the river on property not claimed or occupied by you and a New Zealander does not like to be summarily ejected from his own soil “the fat of his forefathers”. Hence his reluctance to move off at your bidding. Complainant is a sickly nature. You are reported to be an adept at pugilism. It does seem strange that a missionary of 20 years standing should first arouse the evil passions of a native and then strike him—but that you did so is beyond a doubt.— </p>
+			<p>If you “honor and obey the laws of your country” and if you profess to be a moral Teacher and an example to your “tatooed children” why don’t you shew them the respect that is due to a Court of Justice by at once paying obedience to its edicts. Your “children” will say “Te Koroneho would not obey the sentence of the court and why should we”. However unjust you may believe the sentence to be you ought, as an example to others, be willing to give it effect. Your allowing a distress to be levied on your property will not give you any more right of appeal than you would have otherwise. You say you conscientiously refuse to pay the fine. Go a little deeper into the recesses of your heart and you will find wounded pride has more to do with it than conscientious feeling. A few weeks back if a similar case, in all its circumstances had been brought against some other European in this District you would have pronounced the sentence fair and equitable. Your native friends? will not require to be called upon to remain quiet while the law is being put in force. They will do so of their own accord. “For otherwise you have not the power to do so” is an extraordinary expression to come from a person of 20 years experience of the New Zealander. Do you seriously believe that these natives will incur the displeasure of the Makarini and the British Government by attempting to save, from the just sentence of the law, a man who is waddling in the mire and suffering the merited penalty of a great moral crime. Have you not written 23 pages of foolscap to prove their want of gratitude? </p>
+			<!--This is annotated “Mr. Alexander’s remarks on Wi Tipuna versus Colenso” and may be a response to Colenso’s request that McLean “shew this letter to your two brother Magistrates residing here—Messrs. Alexander and Patterson”.-->
+		</body>
+	</text>
+</TEI>

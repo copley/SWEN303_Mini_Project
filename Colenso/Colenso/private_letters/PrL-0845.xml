@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0845">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1892 September 20: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1892-09-20">1892 September 20</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1892 September 20: to Harding<note xml:id="ftn3-614" place="foot" n="614"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke (!!!)<lb/>Tuesday night<lb/>Septr. 20. 1892.</p>
+         <p>Dear Mr. Harding</p>
+         <p>
+            <hi rend="italic">Here </hi>am I, again! like “a bad 1d. <hi rend="italic">returned” </hi>[that is an old Cornish saying]—and forsooth feel inclined to write <hi rend="italic">to you</hi>! Last night, <hi rend="italic">late</hi>, I recd. your capital letter of the 18<hi rend="sup ">th</hi>—such a <hi rend="italic">long </hi>one, too! (Oh! how I envy you!!) Believe me, it wonderfully refreshed me—after a long &amp; hard days work: packing for bringing—&amp; packing (or putting away into places) for <hi rend="italic">leaving</hi>—this is always a tiring job w. me.—–</p>
+         <p>I was not certain until Friday night (16<hi rend="sup ">th</hi>) that I should be returning hither—but Eccles wrote to me such a kind &amp; pitiful letter (for himself &amp; Woodville) that I consented to return to the wheel (like the turnspit dog, or fox!), and so continue at Wdv. until E. is <hi rend="italic">free</hi>—some 2 months from this.—–</p>
+         <p>Last week I was in town on Friday &amp; on Saturday, (no one called on me,)—but yesterday, IV.30 p.m. Hill called, having seen my man in town &amp; heard I was leaving, &amp; spent ¾ hour : he told me how utterly unable he <hi rend="italic">felt</hi> on My. nt. at our meeting, having been over-long at that School &amp; with a sore throat, &amp;c—he had heard from Large &amp; White, how it was w. me, but he would have it, I did well! (President’s soap!) Just as H was leaving, Eccles came, &amp; staid till dusk: so I had 2 <hi rend="italic">good chats.——</hi>
+         </p>
+         <p>I have been recg. during last few days a no. of circulars, &amp;c—to <hi rend="italic">all </hi>of which I say <hi rend="italic">NO</hi>. I shall send you 1 or 2, also Drew’s letter, having promised it—I replied yesterday:—he is right, 26 <hi rend="italic">for </hi>23,—but the error <hi rend="italic">may</hi> be the Printer’s: I told him, I <hi rend="italic">have </hi>the Moa Paper he party. mentions, (indeed, I too had said so in “St. quo,” but I had <hi rend="italic">quoted </hi>from Owen’s 2 vols. 4to. in our Liby.,)—and that I did not write so much <hi rend="italic">for myself </hi>as <hi rend="underline italic">to rescue</hi> Dr. M.</p>
+         <p>The Ch. of E. “Synod” is now in full swing at N., but I, being merely a nondescript, alias an “Offg. Minr.”, <hi rend="italic">sans </hi>parish! have <hi rend="italic">no </hi>seat therein. Hill is terribly irate at <hi rend="italic">this</hi>, &amp; was determd. to bring it up, (he being a Synodsman) but I <hi rend="italic">conjured </hi>him <hi rend="italic">not</hi> to do so: at same time I don’t like it, <hi rend="italic">don’t think it fair</hi>,—I posted a letter of <hi rend="italic">enquiry </hi>(not having heard anything!) to Capt. R. yesty., &amp; lo! today he entered train at Hastings—for Wgn. he did <hi rend="italic">not </hi>shake hands w. me, although I was at the door seat by wh. he came in), but merely asked how far? and passed on to the <hi rend="italic">further end</hi>, &amp; talked w. Carlyon—all the way to Waipawa, aftds. going into smoking c. I sd. I had written to him yesty: he replied, “I shall get it there.” Possibly he (<hi rend="italic">&amp; O.</hi>, who was also in train, &amp; whom I saw on platform at Te Aute, stretching his legs,) may be vexed w. me for preaching sternly and fully against racing, betting, &amp; <hi rend="italic">Totalisators</hi>,—if so: <hi rend="italic">so be it</hi>! I told Mr. Paterson lately, that <hi rend="italic">we were as one </hi>in that matter.</p>
+         <p>But I must not omit, a <hi rend="italic">full third, </hi>of my eldest son’s letter, written from Hythe, Southampton, dated 3/8/92, which may interest <hi rend="italic">you</hi>. He was writing about his wife &amp; daughter—their state of health; then he says, “Mr. Jno. Harding of Mt. Vernon, however will be able to give you a personal account. You will wonder how Mr. H. came across them. It was rather curious and all owing to that small greenstone pendant you sent me years ago, &amp; which is the only ornament my wife has upon her watch-chain. She (&amp; May, daughter) had been over to Southampton, &amp; having to wait some time for the Hythe ferryboat walked on the pier, where they met an elderly man who recognising the greenstone entered into conversation, and turned out to be Mr. Jno H. I havent seen him, for tho my wife gave him our address he has not looked me up; he gave her “Hill Lane,” where he was staying with a niece or grand-daughter. He also said, he was going back in a fortnight, or so, &amp; would certainly look you up.”——(verbatim.)</p>
+         <p>Also, a very long letter from Hamilton on fcp. fol.!!—on some of his “finds”—asking innumerable questions!—<hi rend="italic">as usual</hi>:—I sometimes fancy, some of them must be for <hi rend="italic">others</hi>? I cleared out from Dvk. &amp; had 2 heavy cases of Books, over 1 cwt.! I found in that Sp. pamphlet I had sent to you the <hi rend="italic">enclosed </hi>memo. In <hi rend="italic">accidentally </hi>looking into an uncut no. of “Hansard,” (No. 19, July 1886) contg. remarks in Ho. on J. Wh’s. Mao. Histy., I noticed, at p.1, the following: “There was one gentleman engaged for many years in compiling Mao. Lex., &amp; the work proposed,” (by Mantell) “now was simply giving employment to a class of people he” (the Speaker) “cared little about—these pakeha-Maoris,” &amp;c [Hon. Mr, <hi rend="italic">Wilson</hi>!]—Again:— “For the last 20 yrs. a Maori scholar had been engaged in compiling a Maori Lex., but the probability was the work would occupy him for the remr. of his life, &amp; that even then it would not be completed.”—[Hon. Mr. Menzies.]—This, &amp; more, on a <hi rend="italic">good </hi>motion by Mantell—which was <hi rend="italic">carried</hi>: but what are the results? See also No. 20, well worth your purchasing a copy of each.</p>
+         <p>I cannot exactly swallow all that Maskell has said, <hi rend="italic">re </hi>Haast: I bear in mind how M. has treated me, <hi rend="italic">re </hi>Icerya, &amp; the <hi rend="italic">many</hi> Cocci I had sent him in years gone by: I suppose you know he is a Romanist!!which sets him so strongly against Tregear.—–</p>
+         <p>Am <hi rend="italic">glad </hi>to find you <hi rend="italic">can </hi>report,—“still <hi rend="italic">busy</hi>: <hi rend="italic">fine </hi>weather: <hi rend="italic">all well</hi>”:—what an excellent line!—&amp; this, too, from Wgn.!—</p>
+         <p>I <hi rend="italic">may </hi>return to Bush shortly, “for a season”: shall know in a day or two. Am <hi rend="italic">not </hi>at all desirous of going to our Sy’s. Meeting tomorrow—nor to read any P. there,—having nothing really worthy! Could not compass it <hi rend="italic">in Bush</hi>.—Good night.</p>
+         <p>12<hi rend="sup ">th</hi>.<note xml:id="ftn3-615" place="foot" n="615"> These two addenda in sequentially numbered pages in the letter of 20 September should have been dated 22nd and 23rd. </note> XI. p.m. Just returned from Socy’s meeting—about 30 present: read my 2 papers: 1. Jottings, Bush, <hi rend="italic">Botanical</hi>: 2. a Refulgent phenomenon, which caused me to bring forward &amp; dissect the <hi rend="italic">said </hi>legendary sign seen by Constantine, A.D. 312.<note xml:id="ftn3-616" place="foot" n="616"> Colenso W. 1899. Of a Radiant Phenomenon: “In hoc signo vinces.” <hi rend="italic">Trans NZ Inst</hi>. 32: 305–309.</note> Dr. Spencer, &amp; Heath, &amp; Owen, &amp; others made a few sensible remarks, &amp; Holder (as usual!) a very foolish one—which, however, caused <hi rend="italic">a laugh</hi>. I did not feel “at <hi rend="italic">Home</hi>”—&amp; Hill Chn. seemed also out of sorts. 2 new Members were nomd. &amp; secd. right off, &amp; elected of course!—At X.30, I in Library packing up specimens, McDougal came in rushing for news! I referred to G. White who has my 2 papers. Perhaps I may <hi rend="italic">never </hi>go there again! this is a melancholy thought.</p>
+         <p>A letter to hand from Eccles begging me to return to Woodville to hold Div. S. there until he is free! some 10 wks. hence.—Now that I have <hi rend="italic">cleared out wholly</hi>, I don’t relish going back again: I know not who was there <hi rend="italic">last </hi>Sunday——Good night–</p>
+         <p>
+            <hi rend="italic">13</hi>
+            <hi rend="sup italic">th</hi>
+            <hi rend="italic">. </hi>I must now close my long letter—&amp; long, w. little of real stuff in it.—I omitted to say (<hi rend="italic">to you</hi>), that last night I left house at VII.30, Robert w. me carrying spns: arrd. at ’45, on top of stairs White &amp; Lessong they led us into <hi rend="italic">Library</hi>, gas burning: I proceeded to unpack, &amp; dispose on long table. Dr. Sp. &amp; Large came in, staid a while, &amp;c. I remarked on time passing, now VIII, &amp; small co. when, at last, (I out of breath! &amp; in great pain from shoulder,) L. asked “If I were ready to go into the Lecture Room”?!!! at <hi rend="italic">first </hi>I did not understand: I soon knew his meaning &amp; now I had to collect hurriedly my spns. &amp; at VIII.10 enter Museum—to find about 30 or more all seated, w. H. in chair. this sadly put me out,—&amp; I feeling <hi rend="italic">tired</hi>:—Evidently they had been there waiting 10–15 m. &amp; so I began badly.—I give <hi rend="italic">you </hi>all this, because I have sd. <hi rend="italic">“Did not feel at Home</hi>”!—</p>
+         <p>I write in much pain from shoulder to fingers. Weather <hi rend="italic">very fine</hi>—but <hi rend="italic">not well </hi>eno. to go to town—tho’ <hi rend="italic">much </hi>business there.</p>
+         <p>Yours faithy,</p>
+         <p>W. Colenso.</p>
+         <p>P.S. 21<hi rend="sup ">st</hi>. <hi rend="italic">None </hi>of circulars &amp;c are to be returned. Good bye!</p>
+      </body>
+   </text>
+</TEI>

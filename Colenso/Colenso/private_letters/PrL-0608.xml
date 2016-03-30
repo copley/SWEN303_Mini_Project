@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0608">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1885 August 28: to von Haast</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-papers-0037-046.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9511/">von Haast</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1885-08-28">1885 August 28</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1885 August 28: to von Haast<note xml:id="ftn3-320" place="foot" n="320"> ATL MS-papers-0037-046.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, August 28<hi rend="sup ">th</hi>. 1885.</p>
+         <p>My dear Dr. Von Haast,</p>
+         <p>I have to thank you for your kind letter of the 14<hi rend="sup ">th</hi>. inst.,—which I do most heartily. I have been putting up the <hi rend="italic">few </hi>Moa bones I had left, and this day I sent them to the Port to go to Lyttleton by “Wairarapa” tomorrow, and hope they may safely reach you. <hi rend="italic">You must be sure to let me know of all </hi>
+            <hi rend="underline italic">extra</hi>
+            <hi rend="italic"> expenses attending them. </hi>At one time (1851) I had a rare lot—but <hi rend="italic">lost all </hi>in the fire that destroyed my dwelling house at that period. <hi rend="italic">Do not </hi>trouble yourself about <hi rend="italic">adding </hi>thereto (as you have so generously said,) allow me to say (<hi rend="italic">now</hi>) I do not require them:—besides you can make a far better use of them among your numerous <hi rend="italic">confreres </hi>at Home &amp; abroad—all over the world!—who would prize them highly.—</p>
+         <p>I note what you have said, again, <hi rend="italic">re </hi>the bronze Bell, &amp;c.—and I think I must let <hi rend="italic">you </hi>have the Bell for your great Exhibn; in my doing so I shall have to write something about it. And I purpose sending the Bell, with the 2 <hi rend="underline italic">early</hi> printed volumes, to <hi rend="italic">you direct</hi>, during the summer: so that you will have them in your <hi rend="italic">own custody</hi>. As to the “specimen sheets of the Maori Dicty.,”—I think it may be better to withhold these, provided I can get my <hi rend="italic">first part</hi> of that Work ready for press and the Govt. by January (as promised by me), as this will be much more correct, and it is to be printed by them “forthwith,” and would, I suppose, be quite ready for your Show in the English summer: but we shall see.</p>
+         <p>I have commenced my heavy and long job! but with anything except a kindly attention towards it!! I ought to have 2 or 3 skilled assistants.—–</p>
+         <p>Hoping you are quite well, (I am very much better,)</p>
+         <p>I am Yours faithfully,</p>
+         <p>Wm. Colenso.</p>
+         <p>P.S. Note—on <hi rend="italic">bottom </hi>of case (<hi rend="italic">on the outside</hi>) is my address—which will serve when it comes back. W.C.</p>
+         <p rend="center">A brief Memo. of Moa bones.</p>
+         <p>No. 1. Tarsus, tibia &amp; femur,—and portion of lumbar verteb. &amp; a lot of smaller bones—all of <hi rend="italic">one </hi>specimen, from P. Bay; I have also the <hi rend="italic">other 3 </hi>leg bones, &amp; a few smaller ones, ribs, &amp;c.</p>
+         <p>No.2. from inland here, Patangata.—</p>
+         <p>No.3. a small fine tibia, in excellent preservation, from inland, H. Bay—</p>
+         <p>No.4. a fragment from our Limestone quarry: there are many such &amp; buried deep.—</p>
+         <p>                                                                                     W.C.</p>
+         <p rend="center">Memo: a few remarks hastily jotted down on portions of <lb/>M. le Quatrefages Paper on Moas &amp; Moa-hunters”—<lb/>“Annals of Nat. Histy.,” vol.14, p.104. et seq.—</p>
+         <p rend="center">______</p>
+         <p>p.134  “Documents,” &amp;c.—nearly all this par. is<hi rend="italic">strange </hi>to me.<lb/> “Two-agt.-two like the Moas” (!!) all this—like much of Taylor’s—exposed in my late “3 Lity. Papers,”) is farrago!—It is only<hi rend="italic">one </hi>word— “Tautauamoa,” and means, a <hi rend="italic">private</hi> quarrel between 2 of the same vill. &amp; tribe;—<hi rend="italic">Tau</hi>, v. to attack, fight, &amp;c.: <hi rend="italic">Tautau</hi>, v. <hi rend="italic">diminutive </hi>of same; <hi rend="italic">moa</hi>—a plot in a cultivation; over such, its bounds, &amp;c., most of those little vill. fam. feuds arose:—hence (as I take it) that term.—–</p>
+         <p>
+            <hi rend="italic"> “  Note</hi>—John White &amp; Travers (!)—see my remarks vol.xii. “Trans. N.Z. Inst.,” p.103, et seq.</p>
+         <p>
+            <hi rend="italic"> “  Note</hi>—Maning’s Prov.—I never heard of it; &amp; greatly doubt it. Unforty. it is <hi rend="italic">not</hi> given in Maori, save <hi rend="italic">one</hi> word, &amp; this is <hi rend="italic">incorrect</hi>! no such word that I know of in Maori.</p>
+         <p>p.161 Of Mr. Stack’s nursery tale of “<hi rend="italic">feathers.</hi>” (So Locke,) “Trans.” vol.xii p.82, &amp;c.—<hi rend="italic">guard.</hi>
+         </p>
+         <p>p.162 “Hair purely <hi rend="italic">Melanesian</hi>.” (This is far-fetched; &amp; could, if <hi rend="italic">true</hi>, be easily accounted for.)</p>
+         <p>p.162-3 stratum super stratum, &amp;c—of bones, &amp; of shells:–N.B. see what I have written bearing on <hi rend="italic">this </hi>(<hi rend="italic">i.e. </hi>shells), “Trans.” vol.xiii.p.145, <hi rend="italic">notes</hi>.<lb/>The Maoris had their<hi rend="underline italic">set</hi>
+            <hi rend="italic"> seasons </hi>for every thing, which were rigidly observed.—–</p>
+         <p>p.164. “Dog w. brown or yellowish coat.”—<lb/>See, my paper on the N.Z. Dog: Trans. N.Z. I. vol.x.p.131 (&amp;c.)</p>
+         <p> “  “Moreover,—of the flesh of dogs,” &amp;c.—<lb/>this is far-fetched (again) but see my paper<hi rend="italic">loc.cit. </hi>on this subject.</p>
+         <p> “  <hi rend="italic">Note</hi>: “They are carrying some dogs w. them, &amp;c.”<lb/>         When I read this—I was astonished!—I went to back-room, &amp; got Grey’s work, quoted, &amp; there it is: but (as<hi rend="italic">I don’t</hi> believe in translations of Maori) I went to the <hi rend="italic">original</hi>—also pubd. by Grey, and in the <hi rend="italic">year previous </hi>to the transln.—and would you believe it?—such is <hi rend="italic">not there</hi>! This did not greatly surprise me,—as I know well the ornate &amp; rhetorical flourishes in the Eng. transl. I will copy for you the <hi rend="italic">whole</hi> of that part of the legend (or voyage) verbatim:—<lb/> “Na, kua ekeki Rangitahua, he moutere, kei waenganui moana. Ka whakahoroa I reira te waka nei a Aotea, ka aukhatia, na, e aukhanua, ka a mai hoki to Porua waka, a te Ririno, na ka potua nga kuri erua, kotahi I taona, kotahi I haematatia, ko whakapapatuakura I taona, ko Tangaka kariki I haematatia, &amp;c”——</p>
+         <p>Transl.— “Lo! (the canoe) got aground on Rangitahua, an island in midst of the sea. Then they pulled her (Aotea) to pieces, and re-laced her; while doing this, the canoe of Porua arrived, the Ririno; then they killed 2 dogs;<note xml:id="ftn3-321" place="foot" n="321"> WC: These 2 dogs being <hi rend="italic">trained</hi>, were <hi rend="italic">pets</hi>, &amp; the occasion a <hi rend="italic">great one</hi>.—Then these 2 Chiefs fell out—E. &amp; W.—(a <hi rend="italic">notable </hi>thing)—as if <hi rend="italic">such</hi> could be!</note> one was cooked in the oven (for food), and one was torn asunder raw &amp; made an offering to the god—or demon!</p>
+      </body>
+   </text>
+</TEI>

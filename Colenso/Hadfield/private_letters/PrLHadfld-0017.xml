@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0017">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1838 May 11: Octavius Hadfield to his mother Amelia Hadfield (nee White)</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 30)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 23.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="18xx-xx-xx">18xx Month xx</date>
+                  <name type="False Bay" key="http://wtap.vuw.ac.nz/eats/entity/70845/">False Bay</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70719/">Amelia Hadfield (nee White)</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1838 May 11: Octavius Hadfield to his mother Amelia Hadfield (nee White)
+         </p>
+      </front>
+      <body>
+      <p>Cape of Good Hope,</p>
+      <p>Simon's Bay</p>
+      <p>May 11th. 1838</p>
+      <p>My dear Mother,</p>
+      <p>I am glad of the opportunity of writing to you, which I now have.  I had written a letter in the hopes of sending it by some homeward bound ship, but as we sail now I could not fulfil my wish.  I however shall enclose it as I wrote it with that intention, and I am sure you feel interested in all my concerns.  About four weeks ago we passed the island of Trinidad in Lat. 20.31 south and 29.31 west.  It was uninhabited and we were off it all day.  That is all we have seen since we crossed the line on the first and second of May.  It blew a gale and the sea ran very high, and on the 6th. again we had very heavy weather but we are all getting used to it on board.  I now never feel any sea sickness.  I never enjoyed such good health as I did while we were crossing the line, and in hot weather I got so strong and stout that I scarcely knew myself.  We came to an anchor here yesterday afternoon after having been out <hi rend="underline">three calendar months</hi>.  I do not altogether blame the ship, she sails fast but the Captain has never crossed the line before and tho' an excellent sailor rather timid and does not carry <supplied>[canvas]</supplied> enough.  Moreover the ship is lifted and will not bear much on the wind.  We put in here for water and provisions.  We did not go into Table Bay as it is getting late in the year for it.  Some of our passengers are gone over to Cape Town but as the Captain would only give 24 hours I did not feel inclined to go 24 miles there and back in the time.  I have been highly delighted since I have been here in looking for flowers, only I feel the want of some of you to admire them with me.  I went up last evening for an hour, and this morning took a walk of 10 or 12 miles looking for curious kinds of flowers with the Rev. W. Spalling.  The flowers surpassed every thing I expected but I have the last two years forgotten the names of the few I knew.  I collected about 60 beautiful specimens.  The cactus mesembrianthemum, crassula versicola, aloe, Yucca, gloriosa (the stem and flowers about 20 feet high). Diascia ala, Epacris grandiflora, a great variety of heaths, the lobelia acuta and several others with many geraniums and beautiful flowering shrubs which I have seen in greenhouses but am not acquainted with, in great abundance, the Caltha Ethiopica and many Irises growing in the most wild places give me the greatest entertainment.  </p>
+      <p>I must add for those who attempt Cape flowers at home that the soil is very light and composed of very fine dry bog earth with about an equal portion of sand and large flint stones which keep it light and drain off the water.  But enough of flowers.  I shall be wearying you with my fervent feelings.  But I write as I feel, and after all, you do not want any information but that I should write as I speak.</p>
+      <p>Simons Bay lies in the N.W. part of False Bay which you will find just to the east of the Cape of Good Hope.  The small town is about 24 miles over land.  I have been much entertained in looking at the stars in the evenings and learning their names.  There is, however, no fixed star in the S. hemisphere so brilliant as Sirius.  I am writing in a room where some of my friends are talking so that you must excuse this letter.  I have been lately quite contented and comfortable on board tho' most of them on board, both passengers and crew do nothing but grumble and I must say that there is cause for it.  I now pass a great deal of my time reading my Greek and Latin and in making some progress with my Hebrew which is very easy and amusing (tell George that Lee's grammar is the best).  I am happy to say that I am on very friendly terms with all the passengers who are uncommonly attentive and civil to me, especially the two chaplains who are well disposed men and appear very anxious to do good.  About ten of us on board meet daily, morning and evening in one of the Chaplains' cabins for prayers which is very pleasing to me.  I never felt happier.  I believe that I am in the path of duty and therefore of peace and comfort.  I feel that the work I am going about is blessed, and a work in which I may look for the blessing of God.  I hope that the prayers of my dear family at home will be ever offered up for me that I may be supported in every time of need.  I fear nothing, I am in the hands of a Covenant-keeping God Who daily reveals more of Himself to me and opens my sinful heart to apprehend Him.  I must close my letters as they are waiting to go to Cape Town and there are several vessels ready to go.  The <hi rend="underline">Melville</hi> 74 is here.  I saw Captain Gilespie R.M. whom I had seen at Portsmouth, he desired to be remembered to Charles and now my dearest mother I shall wish you good bye till I get to Sydney.  Give my love to Father and all my dear ones at home and all the friends that I love.</p>
+      <p>Good bye</p>
+      <p>Your affectionate son
+      </p>
+      <p>Octavius Hadfield.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0798">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1891 August 19: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0496.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1891-08-19">1891 August 19</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1891 August 19: to Harding<note xml:id="ftn3-548" place="foot" n="548"> ATL qMS-0496.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, August 19/91<lb/>ix, p.m.</p>
+         <p>Dear Mr Harding</p>
+         <p>Your welcome &amp; expected letter is just brought in, I thank you for it,—it has served to <hi rend="italic">cheer!—</hi>This day (tho’ fine &amp; warm)<hi rend="italic"> </hi>has been a heavy one w. me, &amp;, I am sorry to say, <hi rend="italic">almost</hi>
+            <hi rend="italic">wasted</hi>—nothing grieves me more than this, yet sometimes (tho’ rarely) it <hi rend="italic">is so</hi>, &amp; I cannot help it!—</p>
+         <p>First—I see your letter was written on <hi rend="italic">15</hi>
+            <hi rend="sup italic">th</hi>, posted Wgn. <hi rend="italic">18</hi>
+            <hi rend="sup italic">th</hi>, &amp; 19<hi rend="sup">th</hi> here. <hi rend="italic">I fear you were ill</hi>? I am gladdened however in knowing of your little boy being in such good spirits, &amp; better.—</p>
+         <p>Today—at noon! I opened your big parcel, contg. those 2 Books: Hill’s (no doubt) is <hi rend="italic">the one</hi> I had mentioned to you at the time, I have looked that sentence up for you, &amp; will copy it:—</p>
+         <p>—“<hi rend="italic">Buffonia tenuifolia</hi> is well known to be a satire on the <hi rend="italic">slender</hi> botanical pretensions of the great French geologist, as the <hi rend="italic">Hillia parasitica</hi> of Jacquin, though perhaps not meant, is an equally just one upon our pompous Sir John Hill. I mean not to approve of such satires. They stain the purity of our lovely science. If a botanist does not deserve Commemoration, let him sink peaceably into oblivion. It savours of malignity to make his crown a crown of thorns, &amp; if the application be unjust, it is truly diabolical.”—</p>
+         <p>(Sir J.E. Smith’s <hi rend="italic">Introdn. to Botany, </hi>p.192).</p>
+         <p>A good deal more of a similar strain precedes this. And here I note (from your <hi rend="italic">former</hi> letter forgotten at the time)—that I fully agree w. you in your remark on <hi rend="italic">Mauisaurus</hi>! horrid, abominable, all such are directly opposed to the good old Linn. <hi rend="italic">canons</hi>—which, till <hi rend="italic">now</hi> (of late) &amp; <hi rend="italic">here in N.Z.</hi> were always rigorously upheld!—</p>
+         <p>“Generic names derived from barbarous languages ought on no account to be admitted” (<hi rend="italic">can. </hi>VII.)</p>
+         <p>“No generic names can be admitted, except such as are derived from the Gk. &amp; Lat. languages” (<hi rend="italic">can</hi>. XVI) [See “3 literary Papers,” p.30.]</p>
+         <p>I believe it was my coming out so strong on <hi rend="italic">this</hi> &amp; <hi rend="italic">kindred</hi> matters, that caused Dr. H. to reject my p.—I am <hi rend="italic">sorry</hi> to notice <hi rend="italic">plenty</hi> more such in <hi rend="italic">this</hi> vol. (XXIII)—I was occupied in cutting its pages this mg.—By the way how are you to get yours? I must see about it. I posted Dr Yates’—<hi rend="italic">cost 3/11</hi>!!!</p>
+         <p>To return to the 2 big books:—I was disappd. in Hill’s—I had hoped (or <hi rend="italic">rather</hi> thought) it was more general, &amp; not a British <hi rend="italic">Herbal</hi>: however, here it is! a <hi rend="italic">standing monument of labour</hi> especially in its numerous plates.—“<hi rend="italic">Barbados</hi>”—I shall take up again: much in it, after my fashion (taste?) and I like it. It reminds me strongly of a 4to. I borrd. from our library, of a work on the <hi rend="italic">Island</hi> of Mana by a resident Cleric—who goes back to Cæsar’s times, &amp;c. &amp;c.—This book belongs to Meinertzhagen who has some <hi rend="italic">other curious old books</hi> there.—</p>
+         <p>Last wk., after I had sent you my letter—I recd. a big regd. parcel from P.O.—my unfort. Ms., Mao. Lex. letter “A” <hi rend="underline italic">came back</hi>
+            <hi rend="italic"> </hi>after 5 years (&amp; more) sojourning at Wgn.! I did not care to open it—yet I did so, <hi rend="italic">today</hi>, &amp; found an offl. letter <hi rend="italic">inside</hi> from Lewis saying—it was returned in compliance w. my wish—&amp; that it was the ms. <hi rend="italic">I had “sent to them in Feby. 1886</hi>”. So, I have tied it up again!———Were you here we would talk over it.</p>
+         <p>You mention the “Pilgrim” as being <hi rend="italic">patronised by Govt.—</hi>what about Xn. passing by the Cave of Pope?</p>
+         <p>I could almost regret your not having got a copy of “D.T.” contg. my “Sea Serpent” letter. I had some trouble in getting extra copies from Pallot—as he had none left at Office! but he did procure me a few, which I distributed.—</p>
+         <p>I have been keeping pretty well until today: last Sy. <hi rend="italic">mg</hi>. I had the whole S. at St Augustines, &amp; in the evg. assisted the Bp. there, who preached:—I suppose I shall be called on again there for next Sy. You will have heard of the death of Capt. Carter’s ygst. daughter aged 20, buried on Monday in <hi rend="italic">heavy rain</hi> (Sunday <hi rend="italic">fine</hi> but threatening,) I noticed, last nt in Lond. “Standard”, that the Govt. stated, in Ho. of Com., the Postmr. General was about to introduce a Bill, <hi rend="italic">to do away with postal charges for re-addressing</hi>!!!—I cut it out this mg. &amp; put it up in a note to Capt. Russell.—In D.T. of this evening, is the long &amp; important judgment in Renata’s Will C. My housekeeper tells me, that in “E.N.” of this evg. it is stated, Archd. <hi rend="italic">Sam’s</hi> daughter was marrd. this day in Cathedral.</p>
+         <p>If you know anything more of <hi rend="italic">Opotiki</hi> matters, do let me know. I should like to know, whether Russell (whom the Bp. sent there) gets on any better w. <hi rend="italic">that Editor</hi>! (Here, I think, I will stop.)</p>
+         <p>20<hi rend="sup">th</hi>. Day gloriously fine—I went down to town: saw some of your old friends. Sidey, Paterson, Craig, all well: I got a copy of “D.T.” from Craig contg. “<hi rend="italic">Seaserpent</hi>”!! which I send w. this—also, send, copy of “Herald” of Monday last—that you may see the <hi rend="italic">hole</hi> in its <hi rend="italic">old</hi> cargo in which it has stowed away an ext. from “Typo”! also, a letter <hi rend="italic">re</hi> ’Pukurau School! (N.B. Sidey <hi rend="italic">as Chn</hi>. did well on Tuesday at E.Board;—<hi rend="italic">praised much for it in town this day</hi>: I wish Sutton would resign.)</p>
+         <p>Both the Dean &amp; the Bishop were talking w. me about my “Jottings” paper: &amp; this reminded me—that you <hi rend="italic">acknd</hi>. receipt—did you run thro it?—I find (as I <hi rend="italic">had supposed</hi>) my Housekeeper made a grand mistake <hi rend="italic">re</hi> “<hi rend="italic">Archd. </hi>S.W’s daughter”, it is <hi rend="underline italic">an</hi>
+            <hi rend="italic">S.W.</hi> of town &amp;c.—(Wedding—thus:— “Mr Thomas Ellery to Miss Rose Williams, daur. of Mr S.W. of this N. town: they are going to reside at Whanganui.”)</p>
+         <p>I have mentioned “Jottings”:—&amp; this leads me to ask (1) Did you find time to read my paper on the <hi rend="italic">Moa</hi>? also: (2) that of <hi rend="italic">Proverbs</hi>, &amp;c. of the Maoris: you have never noticed them to me, &amp; I wished you to read <hi rend="italic">Moa</hi> (in <hi rend="italic">connection</hi> w. Tregear’s paper on same subject—which you mention in this last letter): &amp; <hi rend="italic">Proverbs</hi> ditto w. Smith’s plagiarism in vol. XXII. I note a “Profr. Pond” read a Paper (Auckland) on “the Veg. food of the Maoris” (but <hi rend="italic">not</hi> pubd. in vol. XXIII)—now what could he say more than I had done in my <hi rend="italic">exhaustive</hi> P. on that same subject, in vol. XIII?—Have you <hi rend="italic">vol. XIII</hi>? If <hi rend="italic">not</hi> I must send you a copy of my said P.—</p>
+         <p>I am rather anxious about you, <hi rend="italic">mainly</hi> from <hi rend="italic">date</hi> of <hi rend="italic">posting</hi> your last. May this find you &amp; yours well &amp; <hi rend="italic">happy</hi> (<hi rend="italic">i.e.</hi> lighthearted).</p>
+         <p>             Yours very truly.</p>
+         <p>                             W. Colenso.</p>
+         <p>P.S. You are quite right—“2 Typos:” overlooked in hurry.</p>
+      </body>
+   </text>
+</TEI>

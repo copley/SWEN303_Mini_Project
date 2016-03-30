@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0057">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1865 Correspondence. Hawke’s Bay Times 4 December.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1865-12-04">1865 December 4</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Times</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1865 Correspondence. </hi>
+            <hi rend="bold italic">	
+               <lb/>Hawke’s Bay Times</hi>
+            <hi rend="bold">4 December.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—I am of opinion that you deserve thanks for departing a little from the usual routine of a Newspaper Editor, and republishing, in your issue of the 16th inst., the letter from “Old Lanka” to the Editor of the Wellington Independent, concerning the ancient bell found in the Northern Island of New Zealand.</p>
+         <p>Such a strange attempt at drollery, and at accounting for an ancient relic found in a far-off land, as that made by some would-be Ceylon <hi rend="italic">savant</hi> in the Colombo Observer, in the article “A Story of a Bell,” (also reprinted by you,) was never before heard of! He has, however, the felicity of being “alone in his thoughts” (not glory).</p>
+         <p>While at Wellington I received a copy of the letter written from Ceylon to Otago about the bell; in which it was stated that the inscription was in Tamil, and that it had been translated as follows:—</p>
+         <p>“THE BELL <hi rend="smallcaps">belonging/belongs</hi> TO THE SHIP MOHIDIN BUX”</p>
+         <p>—The word belonging, or belongs, being written <hi rend="italic">twice</hi> in the inscription; and that its age had not been ascertained.</p>
+         <p>Now such information is far from being either final or satisfactory.</p>
+         <p>Among other things it is still enquired:—</p>
+         <p>1. What is the meaning of <hi rend="italic">Mohidin Bux?</hi>
+         </p>
+         <p>2. When was the name of <hi rend="italic">Mohidin Bux</hi> first given to ships of Southern India?</p>
+         <p>3 Was any peculiar kind or class of vessel meant by the <hi rend="italic">Tamil</hi> term translated ship? and if so, are such vessels now being built? and if not, when did they cease to be built?</p>
+         <p>4. When did the ancient <hi rend="italic">Tamil</hi> character used in the inscription on the bell go out of use?*</p>
+         <p>5. Have such peculiarly made and inscribed bells been cast since European commerce with Southern India? and if not, when did such cease to be cast?</p>
+         <p>6. What is the nature of the mixed metal of which the bell is composed? and has such composition been used in modern times?</p>
+         <p>7. How did it come into New Zealand? and when?</p>
+         <p>It is believed that this ancient relic may yet prove to be an important witness. Many skilled sons of science and Oriental linguists are even now at work in different parts of the globe, respecting this bell. Its tale has yet to be told.</p>
+         <p>			I am, &amp;c.,</p>
+         <p>
+            <hi rend="smallcaps">					W. Colenso.</hi>
+         </p>
+         <p>*  The characters in the inscription are much more ancient than the<hi rend="italic">Tamil</hi> and cognate characters used by the Serampore Mission in their translations, and also by the British and Foreign Bible Society trom the beginning of their publications.—W.C.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0101">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1882 The treatment of native prisoners of war. Timaru Herald 21 April.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1882-04-21">1882 April 21</date>
+               <publisher>
+                  <name type="organisation">Timaru Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1882 </hi>
+                  <hi rend="bold">The treatment of native prisoners of war.</hi>
+                  <hi rend="bold">	
+                     <lb/>
+                  </hi>
+                  <hi rend="bold italic">Timaru Herald</hi>
+                  <hi rend="bold"> 21 April.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—Without apology or introduction I write to tell you that I have been very much pleased in reading a long extract from one of your papers (<hi rend="italic">Timaru Herald</hi>, 20th March, 1882) given us in our local—<hi rend="italic">Hawke’s Bay Herald</hi>—on Wednesday last. I could only wish I had a few copies of your paper containing it (in its entirety), to send to my friends in England by this outgoing mail. It is a long time since I have seen anything so real and so truthful, affecting the poor misguided and hunted Maoris who were in arms against us. </p>
+         <p>I send you herewith a copy of a pamphlet I published at that time (ten or eleven years ago), in which you will find not a little wholly in agreement with what you have now published in your paper. I hope you may find time to read it through. My writing it nearly cost me a prosecution!<note xml:id="ftn43" place="foot" n="43"> The issues of the <hi rend="italic">Hawke’s Bay Herald</hi> for 1871–1876 are missing from “Papers Past” so I am unable to find any information on Colenso’s putative prosecution—<hi rend="italic">Ed.</hi>
+                  </note> It is a great gratification to find another mind, both independent and at a distance, agreeing with one. </p>
+         <p>I think, however, your opinion of Te Kooti too severe; hitherto you have only known him through his bitter implacable foes! Perhaps what I have also published at the end of the said pamphlet, may serve to give you a more favorable opinion of him. Once more thanking you for your able article, </p>
+         <p>	I am, &amp;c.,  <hi rend="smallcaps">	Wm. Colenso.</hi> 
+               </p>
+         <p> Napier, April 15th, 1882.</p>
+         <p>[We have to thank Mr Colenso for forwarding us a copy of his pamphlet on Kereopa.—Ed. T.H.]</p>
+      </body>
+   </text>
+</TEI>

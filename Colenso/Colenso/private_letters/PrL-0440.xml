@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0440">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1881 January 21: to Drummond</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/13.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73880/">Drummond</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1881-01-21">1881 January 21</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1881 January 21: to Drummond<note xml:id="ftn3-73" place="foot" n="73"> ATL 88-103-1/13.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Jan 21/81</p>
+         <p>Mr J. Drummond</p>
+         <p>Ongaonga </p>
+         <p>Dear Sir</p>
+         <p>I cannot think of sending you my “Official note” without adding a few lines, though sadly pressed for time just <hi rend="italic">now</hi>.</p>
+         <p>First, allow me to congratulate you upon your election, and that not on the bare thing itself but on the <hi rend="italic">pleasure</hi> it gave us to do it. Of course I have always been present at the nomination, &amp;c, &amp;c of <hi rend="italic">all</hi>, but I never saw more unanimity, and great satisfaction expressed—wishing, that <hi rend="italic">more</hi> of our <hi rend="italic">young</hi> &amp; real Hawke’s Bay men would follow your example;—we have had one or two of late.</p>
+         <p>Three others (besides yourself) were also elected—Mr H.S. Tiffen, Mr W.F. Wilson (Edt A. Mail) &amp; Mr Leyland, Clive;—we had a rather large attendance of Council Members too.</p>
+         <p>Do not trouble yourself about the 21/- sub, just now. I will pay that.—Our Annual Meeting comes off on 7<hi rend="sup">th</hi>. Feb.­</p>
+         <p>By the way—I should much like you to have <hi rend="italic">last years</hi> Vol (XII) of “Transactions N.Z. Inst”, for two reasons—it contains large amount of <hi rend="italic">my</hi> work;—and a good deal of old Maori lore &amp; in­formation, which you (I think) would like; at all events such will be <hi rend="italic">valuable hereafter</hi>. The Vol cannot be bought, at shops, but I could get you one from Wellington for 21/6.</p>
+         <p>Let me know if you wish me to do so—and never mind sending the money <hi rend="italic">now</hi>. I have got several for new members.</p>
+         <p>Hoping you are well &amp; doing well, also your good wife and <hi rend="italic">boy</hi>.</p>
+         <p>I am Dear Sir</p>
+         <p>Yours truly</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

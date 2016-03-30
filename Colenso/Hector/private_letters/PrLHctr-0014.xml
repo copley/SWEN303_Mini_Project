@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1122">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>26 March 1881: Hector to Hooker.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">James Hector</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Kew DC174, 655-656, ATL Micro-MS-Coll-10-17, 236-240.</p>
+         <p>Transcription published in "My Dear Hooker: 
+Transcriptions of letters from James Hector to  
+Joseph Dalton Hooker between 1860 and 1898", Rowan Burns &amp; Simon Nathan.  Geoscience Society of New Zealand miscellaneous publication 133B, 2012.  ISBN 978-1-877480-21-8. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133B.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 13.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1881-03-26">1881 March 26</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hector to Hooker, 26-3-1881, Kew DC174, 655-656, ATL Micro-MS-Coll-10-17, 236-240.</p>
+      </front>
+      <body>
+      <p>Colonial Museum of New Zealand, Wellington</p>
+            <p>26th March 1881 </p>
+            <p>My dear Hooker,</p>
+            <p>            I have just finished my batch of printing for the year &amp; start in a few days for Melbourne to close our share of
+ the Exhibition. I feel some difficulty in replying to your 
+enquiries about Kirk – of his standing as a 
+good botanist you can judge 
+better than I can.  Of his knowledge &amp; experience as a practical botanist I cant say much. I dont think he has been tried in that branch. As a science teacher he is very good for ------ classes, tho rather given to long terms &amp; mannerisms. He would do better for under-graduate work, except for his deficiencies  outside his science. False quantities[?] dont do when the students are getting the 
+Classics ---– 
+But he is a very good man in every way &amp; would do his best in any position 
+he might accept. It is very difficult for me to give you an idea of him. He is tall, very sparse, 
+dyspeptic, reserved &amp; given to methody preaching – about 50 or 52.</p>
+            <p>In a
+ separate parcel I have sent you early sheets of Vol. XIII. If you can find any one 
+to notice it in Nature in a kindly spirit it would be doing us a service when the Vote  comes 
+on. You will see that Colenso is doing some critical botany &amp; that Armstrong wants the old nomenclature of Ferns. Knight asks me specially to call your attention to his  new 
+Lichen. Buchanan has made a splendid collection of Alpines from my old ground &amp;
+ I hope 
+by next mail to send you a lions share of the plunder.</p>
+            <p>We have been greatly pleased with Miss North &amp; delighted with her drawings. She is quite a wonder in the way of industry &amp; genius[?]. I am sorry she suffers so much from 
+Neuralgia contracted in Japan. I advise her to 
+spend a few weeks quietly at the hot springs &amp;
+then flee for home where she will get comfort &amp; 
+rest – as climate is a very second matter in 
+such cases.</p>
+            <p>I am so sorry I cant see more of her &amp; act as [her] ------, but this Melbourne work will call me off at once. She has made some fine pictures here. </p>
+            <p>I am
+ going to send all our best timbers from
+ Melbourne to you. I could not do so from 
+Sydney as I had to husband my resources &amp; show them over again. I send you a set of
+Photos of the Sydney Exht. &amp; will send a set of the Melbourne ones when I get one. </p>
+            <p>
+Ever Sincerely Yours</p>
+            <p> 
+James Hector.  </p>
+</body>
+   </text>
+</TEI>

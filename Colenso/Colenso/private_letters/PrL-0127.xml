@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0127">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1853 January 2: to Baker</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0492. Hocken MS vol 63. p.385.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/70244/">Waitangi</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/72768/">Baker</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1853-01-02">1853 January 2</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1853 January 2: to Baker<note xml:id="ftn2-10" place="foot" n="10">ATL qMS-0492. Hocken  MS vol 63. p.385.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Waitangi, Hawke’s Bay,<lb/>Sunday,<lb/>January 2, 1853</p>
+         <p>Mr. Charles Baker</p>
+         <p>My dear friend.</p>
+         <p>Your letter of the 25<hi rend="sup ">th</hi>. of November just reached me early this morning.—And although it is quite against my practice, either to open or answer—Letters on the <hi rend="smallcaps">Lord’s</hi> day, yet in this case, I have done so; and that because the vessel which brought it to Ahuriri returns to Wellington tomorrow. I have said, that I received your Letter<hi rend="italic"> early this morning</hi>; I deferred, however, the opening it until I returned from Church; and I am right glad that I did so, otherwise I fear my going thither would have been to little profit.—</p>
+         <p>—In fact, were it not that I find you have commenced your Letter in your usual way,—with “My dear friend,”—and closing it with your telling me of your being my “faithful brother,” I should scarcely care to answer it at all—from the strange language you have been pleased to use therein. I can, however, allow <hi rend="italic">you</hi> to say a great deal, after what others have both said &amp; done, when I consider that you know but little, very little, of the rights of the case. I am sorry, however, my dear friend, to see in <hi rend="italic">you</hi>, notwithstanding your many gracious teachings from on high, which should have imbued you more deeply with the Spirit and manner of our Saviour Christ,) much of that self-complacent and pharisaical spirit which I have long heard of and even noticed) as peculiarly belonging to our (i.e. the evangelical ) party, but which I, for one, have always utterly disclaimed! Oh! how much, how very much <hi rend="italic">you</hi> still need of the Holy Teaching of the Spirit of Him who prayed for his murderers—who willeth not the death <hi rend="bold">[2] </hi>of a Sinner:—who graciously dignified the poor adultress with a <hi rend="italic">kind</hi> word, while her self-righteous &amp; indignant accusers were driven away with shame—who leaveth the ninety &amp; nine whole to seek the <hi rend="italic">one lost sheep</hi>—who says to you and to me, “who art thou that (so harshly) judgest another man’s servant? to his own master he either stands or falls.—who has set us a lesson (Vide Gal. vi. 1: Matt. xviii. 21, &amp;c: Luke vii. 36, &amp;c.; and xv. &amp;c.) which it seems, <hi rend="italic">You have yet to learn</hi>. Had you, my friend, attended to this Divine Teaching, you would not now (as I find from your Letter) be with Simon the Pharisee, or the elder son who was angry with his father for receiving his once lost but returned brother. I may almost say (with the martyr, Bradford,) “These men begrudge me the pardoning grace of <hi rend="smallcaps">God</hi>.” However, I am, as I was, a poor Sinner: <hi rend="italic">now</hi>, as before, dependent entirely upon the merits of my loving <hi rend="smallcaps">Lord</hi> who came to save his people from their sins—who loves them when unlovely, when enemies—how much more than when they are wandering (truant children), and falling and maimed, and smarting. And who will love them even to the end, and who will save them with His strong arm &amp; everlasting Salvation. Yes, I have sinned greatly: I know it: I feel it: <hi rend="italic">I am a Sinner.</hi>—But I am a sinner <hi rend="italic">saved in the </hi>
+            <hi rend="smallcaps italic">Lord</hi>
+            <hi rend="italic">. </hi>He has been with me all my days and will to the end. You—or, rather, those of the day who only recollect somewhat of my poor imperfect attempts at preaching the Truth—must know, that I never taught any other than the utter <hi rend="underline italic">impotency of man to good</hi>, and, the <hi rend="underline italic">unchangeable love &amp; mercy of </hi>
+            <hi rend="underline smallcaps italic">God</hi>. These truths I have ever taught: hence the great secret of my success among this people. And when I say, I have taught them (as you, and others have besides me,) I have <hi rend="italic">felt</hi> them; I have <hi rend="underline italic">practised</hi> them. I have scarcely ever entered a chapel but the feeling of my being the greatest sinner therein has been almost overpowering. My sins have been a means (under God) of my <hi rend="italic">sympathizing </hi>with the poor Natives in their affliction, and they <hi rend="bold">[3] </hi>need such sympathy. <hi rend="italic">I am</hi> a sinner; <hi rend="italic">not</hi>, I was. Yes: one for whom Christ came, and taught and died; one redeemed by Him, therefore I shall be saved, in spite of my own sins and sinfulness, and my brethren’s unjust and severe treatment of me, and the devil and death, and all united, <hi rend="italic">I shall be saved</hi>—for Jehovah hath said Amen.—</p>
+         <p>But I return to notice a few points in your painful Letter: and, as I cannot write much, you must, (for the time, at least,) be content with my plain &amp; concise statements.—</p>
+         <p>1<hi rend="sup ">st</hi>. then, I am not, I never was, and I trust I never shall be, “<hi rend="italic">a Hypocrite</hi>”:—no, never.—</p>
+         <p>2<hi rend="sup ">nd</hi>. I have not “<hi rend="italic">apostasized</hi>”: I trust in <hi rend="smallcaps">God</hi> that He will also keep me from both of those great Crimes.—</p>
+         <p>By-the-bye, do you know what “<hi rend="italic">a Hypocrite</hi>” is?—and what “<hi rend="italic">an Apostate</hi>” is? Can you consistently call David either a Hypocrite, or an Apostate? who to his crime of adultery (even when he had several wives), added that of murder. (My old friend, Baker, your warm feelings have completely smothered your judgment.)</p>
+         <p>3<hi rend="sup ">rd</hi>. I have never “abused the Confidence of any of my Xn. friends”: <hi rend="underline italic">never</hi>: in all my letters I have plainly spoken my feelings, perhaps too plainly for some folks, or for my benefit.—</p>
+         <p>4<hi rend="sup ">th</hi>. Injury may happen to the cause of Christ through my unhappy error, (<hi rend="underline italic">as</hi> the prophet said to David—I have given cause to the enemies of the <hi rend="smallcaps">Lord</hi> to blaspheme,)—although I believe that the cause of Christ is far above receiving any real injury from man; but the injury done to my flock here is (unintentionally I know,) <hi rend="italic">by the Bishop</hi>: this last I am now, with <hi rend="smallcaps">God’s</hi> gracious help, doing all I can obediently and Christianly to counteract.—</p>
+         <p>5<hi rend="sup ">th</hi>. I have not, I can not, I durst not, “separate myself from the Society.”—I do not understand this strange sentence.</p>
+         <p>6: Your advice (!!) about my <hi rend="italic">leaving</hi> New Zealand is sad, <hi rend="bold">[4] </hi>very sad, most sad. I did not come to N. Zealand (as I have often told you &amp; others) for any other purpose but to serve the <hi rend="smallcaps">Lord</hi>. That I shall do, in some way or other, till death. I am <hi rend="underline italic">still</hi>
+            <hi rend="italic"> His Servant </hi>as much as ever. He, who saw all from the beginning, &amp; who called me by his grace into his Vineyard, took me for better for worse. He will not <hi rend="italic">cast me away</hi>. Yet I know not what work he may have for me to do, or where: an obedient Israelite will follow the guiding of the hand, although, it may be, limping and in pain from the bites of the fiery serpent.—</p>
+         <p>7<hi rend="sup ">th</hi>. Your remarks upon certain observations of mine made (as I suppose, in the freeness &amp; simplicity of Christian friendship,) 18 years ago, are so infelicitous that I will not write of them.———Did not <hi rend="smallcaps">God</hi> bless me during those “9 years of single blessedness” (at which you unhappily seem to sneer)? and, were not you and all the Mission indebted to my constant &amp; self-denying labours, and <hi rend="smallcaps">God’s</hi> blessing thereupon?— But this I will boldly say—that, of the two, whether to be a settler, (as some of the Missionaries were, dwelling always at home &amp; attending to the domestic wants of a large family, as you speak— “<hi rend="italic">a stagnant Missionary</hi>”, as Fox terms it,) and so jog on quietly receiving those hundreds of years of the C.M.S., while the Heathen were still such at no great distance from the door; or, whether to do as I have,—laying oneself out in every way, working every day and every where, always in the very van of the battle,—and, at the close of nearly 20 years of active &amp; heavy work, to stumble badly &amp; be bruised, <hi rend="italic">I would choose, my friend, </hi>
+            <hi rend="underline italic">the latter</hi>. Not, mind, that I would deliberately sin that good might come; no, not so; but I would rather be so overtaken with a fault and trust the <hi rend="smallcaps">Lord’s</hi> mercy, than consent to exist after that other fashion. Don’t misunderstand me; <hi rend="italic">sin is ever sin</hi>; even although God, in his gracious prerogative, brings good out of it.— <hi rend="bold">[5]</hi>
+         </p>
+         <p>8. <hi rend="italic">None</hi> of “my” true “friends,—that is, no real Christian friends, will be ashamed to see me.” No, my brother, (for such I still call you,) real Christians will magnify with me the <hi rend="smallcaps">Lord</hi> for His wondrous grace &amp; unchangeable love, and be strengthened in their own gracious faith thereby (1 Tim. i. 16: Ps. xxxii. 6: Matt. v. 19.) This has been done already here by a few among my poor flock, upon whom the Divine Spirit has, I believe, breathed. I have received several letters from different <hi rend="italic">white</hi> friends upon this sad affair, but only <hi rend="underline italic">one</hi> had written me in a truly Xn. way, and that, too, from a quarter the least expected—the Chaplain at Wellington.</p>
+         <p>You seem to forget one thing (among many others) of which I will just remind you: that I wrote to the C.M.S. to be allowed to return to England (at the completion of the Prayer Book) to seek a wife, and that through your influence on some of the N.D. Comee. my request was negatived, and that in such a way, (<hi rend="italic">kind</hi>, I mean,) that I could not repeat it without injuring the work of the Mission.</p>
+         <p>I wrote the Bishop a <hi rend="italic">private</hi> confidential letter, which he, most strangely, (see exhortation in our Communion service, &amp; the Commission of the cxiii. canon,) immediately made public. I told him, moreover, therein, that there were many things which might extenuate my error, then an <hi rend="italic">old</hi> one, but these my judge cares not to hear.—</p>
+         <p>I have no intention <hi rend="italic">whatever</hi> of leaving this place and neighbourhood. It will be for the Society to say, whether they will disconnect me, an old faithful servant of theirs, for <hi rend="italic">one</hi> error. You do not know the whole truth, perhaps you never may. I am willing to bear the scorn and scoff of a world for which (as <hi rend="italic">you know</hi>) I have ever cared but little; although, I confess, that the harsh &amp; censorious letters &amp; judgment of those whom I have long considered as friends &amp; brethren, wound me deeply and would be almost unbearable, had it not been for the help afforded by the Friend, who sticketh closer than a brother. <hi rend="bold">[6]</hi>
+         </p>
+         <p>You advise me, “to go out like Peter &amp; weep bitterly.” But you little know the sad nights &amp; days of weeping which I have already had—long, long ago; long before you left Uawa. Did you but know but a small portion of what I have suffered on account of Sin, you would not thus speak. If I need any thing I need Consolation; and, blessed be <hi rend="smallcaps">God! He</hi> has it in store, for poor, broken-hearted, weary and heavy-laden Sinners like myself, who, through grace, believe in His Son Jesus Christ.—</p>
+         <p>If there is one thing which grieves me just now, upon the reading of your letter, it is, (what I have often heard mentioned at home, in my boyish days, as having been generally noticed by old persons,) that people who deal in severe and harsh judgments have often such befall home upon their own families.—Our Saviour, too, has said as much, Matt. vii. My friend, you have a large family: May <hi rend="smallcaps">God</hi> bless them, &amp; keep the lads from evil! Amen.</p>
+         <p>You forget, I fear, our old English proverbs:— “That a friend in need, is a friend indeed:”—and, “That prosperity makes friends, but adversity tries them.”—</p>
+         <p>If you can conscientiously write to me <hi rend="italic">as hitherto</hi> (saving this <hi rend="italic">last</hi> letter) <hi rend="italic">do so</hi>. But I would beg to be excused from receiving any more such epistles as this last:—I hope you have kept a copy of it.—</p>
+         <p>You make what use you please of this Letter.—And,</p>
+         <p>Believe me,</p>
+         <p>Ever yours sincerely,</p>
+         <p>(although in bonds,)</p>
+         <p>William Colenso.</p>
+      </body>
+  </text>
+</TEI>

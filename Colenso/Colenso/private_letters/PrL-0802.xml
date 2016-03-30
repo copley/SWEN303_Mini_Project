@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0802">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1891 October 7: to Mantell</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-papers-0048-22.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73192/">Mantell</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1891-10-07">1891 October 7</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1891 October 7: to Mantell<note xml:id="ftn3-552" place="foot" n="552"> ATL Ms-papers-0048-22.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier,<lb/>October 7<hi rend="sup ">th</hi>, 1891.</p>
+         <p>My dear Mr. Mantell,</p>
+         <p>I have determined to send my paper on those unhandsome remarks of the Quarterly Reviewer <hi rend="italic">re </hi>your esteemed deceased Father to the “Wellington Philosophical” to be read there—I being a Member of the same. So I forward it this day to the care of the Secretary Mr. Gore:—and I have also written a note to the Director of the Institute Sir James Hector about it, asking him, as a <hi rend="italic">brother-</hi>Geologist of your late Father, to support it: and observing that <hi rend="italic">you</hi>, as his son, might like to see the Paper <hi rend="italic">before</hi> that it is read.—I hope you may both be able to be present at its reading; it has been long ready, and I might have sent it before.</p>
+         <p>Now that Hamilton has left us, there is no one that I know of—among my probable audience of our Society, should I read it <hi rend="italic">here</hi>,—that would care 2 straws about this paper: it would “be caviare to the general” (as Hamlet says)!</p>
+         <p>I think you will agree with my paper—throughout,—I hope so.—</p>
+         <p>             With kind regards,</p>
+         <p>                     I am,</p>
+         <p>                                     Yours faithfully</p>
+         <p>                                     W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

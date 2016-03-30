@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0056">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1865 To the editor. Hawke’s Bay Herald 29 July.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1865-07-29">1865 July 29</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1865 To the editor.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 29 July.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—Being still here—through the non-arrival of the Egmont—I have opportunely seen the letter signed “Fact” in your issue of this morning.</p>
+         <p>Of course, “Fact” (writing as he did on the 20th inst., and knowing my passage was taken to leave Napier on the 21st), little thought that I should be here to see, read, and reply to his accusations.</p>
+         <p>Before, however, I proceed to do so, I would just tell “Fact” two things—first, that he is well known to me even in his <hi rend="italic">present</hi> disguise; and, second, that I am right glad I am <hi rend="italic">here</hi> to meet his charges, to which I may add my belief, that he will not find many in Hawke’s Bay to go with him in his doubly dark attempt at assassination of character,—to wit, under the assumed garb and name of “Fact,” and behind my back in my necessary absence; when I could not possibly be here to speak for myself, nor even heard in my own defence! before what he wished should be accomplished. “Fact,” who has sometimes quoted scraps from Shakespeare, should not wholly have forgotten what Shakespeare says as to such dastardly conduct:—</p>
+         <p>Who steals my purse steals trash;* ’tis something, nothing;	<lb/>’Twas mine,’tis his, and has been slave to thousands; 	<lb/>But he that filches from me my good name, 	<lb/>Robs me of that which not enriches him, 	<lb/>And makes me poor indeed.</p>
+         <p>—Now then for “Fact’s” figures, statements, and conclusions.</p>
+         <p>1. That “I sold myself and the people in (Mr.) Fitzgerald’s Superintendency for a <hi rend="italic">sinecure</hi> office and a salary of £250.”</p>
+         <p>My answer is,—My salary under Mr. Fitzgerald was £150 (not £250), and as to the office being a <hi rend="italic">sinecure</hi> (that is, having nothing to do), I leave that to those who knew me when in office, and how I worked therein for the good of the Province. Best proved, I think, by the true <hi rend="italic">fact</hi>, that the people of Napier have always repeatedly returned me as their member.</p>
+         <p>2. That “the Society paid me for improvements I had made at Waitangi;—that I got out of them two lump sums of £70 and £92, besides other sums, &amp;c., &amp;c.”</p>
+         <p>My answer is,—That I never received a single penny from the Society for any of those “improvements” at Waitangi. What the Society did pay, in part, for, was towards the outlay on the <hi rend="italic">large</hi> Mission-house which stood at Waitangi, which contained 15 rooms on the ground floor, and was burnt down with out-buildings in 1853, which house “Fact” never saw.</p>
+         <p>3. That “a second time I received the enormous sum of £350 of public money for those so-called improvements.”</p>
+         <p>My answer is,—That I did receive £300 (not £350) on my being obliged to leave the place, according to the award of the arbitrators, backed (I may say) by the common-sense feeling of the people generally of Napier, as shewn at their public meeting, and by <hi rend="italic">their</hi> petition to the General Assembly in my favor, as recorded in the <hi rend="italic">Hawke’s Bay Herald </hi>of the day.<note xml:id="ftn23" place="foot" n="23"> 2 August 1862—<hi rend="italic">Ed.</hi>
+            </note> And, further, I may inform “Fact” that I was so far from wishing to receive the said £300, that I actually offered to pay £400 to be allowed to remain and enjoy my “improvements”; this <hi rend="italic">latter</hi> I wished, and strove hard to accomplish it.</p>
+         <p>4. (Last, greatest, jolliest, and best!) That “I have actually bagged during the past year £500 of public money;—that I got this wholesale plunder, through advocating in the House, in my place as representative of the people, that a lexicon of the Maori language should be prepared, and that £500 should be paid to me for preparing it. Anyhow, I carried the motion and got the job for myself. Perhaps,” “Fact” goes on to say) “I may have written the book;” but, while “he does not know about that,” he again asserts, “I have nobbled the <hi rend="italic">five hundred pounds</hi>.”</p>
+         <p>My answer to all this is the plain truth, as it stands recorded in the journals of the House of Representatives, from which I now copy <hi rend="italic">verbatim</hi>:—</p>
+         <p>“<hi rend="italic">Resolved</hi>,—That it is highly desirable, as soon as the finances of the Colony will permit, that a sum of nioney be devoted for the purpose of commencing a standard Library Dictionary or Lexicon of the <hi rend="italic">Maori</hi> language.” (7th August, 1861, p.126.)</p>
+         <p>And this is ALL, to the present!! No Maori Lexion has been (as far as I know) ordered by the Government;—no sum stipulated (or even mentioned) for doing it;—no monies paid.</p>
+         <p>And now, Sir, if “Fact” has any spark of British manliness left in him, let him shew it by being as ready openly to acknowledge his error, as he has been ready to charge me with it.</p>
+         <p>Once more to use his words— “Hoping that the sketch of the Napier ‘patriot’ (by “Fact”) will not be thrown away upon the Napier public,”</p>
+         <p>			I am, &amp;c,</p>
+         <p>
+            <hi rend="smallcaps">			Wm. Colenso</hi>.</p>
+         <p> July 25, 1865.</p>
+         <p>
+            <hi rend="bold">1865 To the editor. 	<lb/>
+            </hi>
+            <hi rend="bold italic">Wellington Independent</hi>
+            <hi rend="bold"> 26 October.</hi>
+         </p>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—In your issue of this day you have stated that— </p>
+         <p>“Mr. Cracroft Wilson, C.B., moved that the statement of Joseph Jeans, now on the table of the House be printed; and in doing so called the attention of the Speaker to the fact, that Mr. Colenso had put two marks of interrogation against a certain word in this document, and his initials in the margin.” </p>
+         <p>“The Speaker said his attention having been drawn to this defacing of public documents, he must request that the like might never occur again.” </p>
+         <p>As it is but right that the public should fully know what this “defacing of public documents,” really amounts to, I beg to trouble you with the following:—</p>
+         <p>On the 1st of August copies of several papers relative to the murder of Mr. Volkner were laid on the table of the House; among them was a letter from Mr. J. Mackay, Civil Commissioner, to the Government, covering a “statement of Joseph Jennings, a Portuguese resident at Opotiki,” (relating what he knew, or had heard, of the murder of Mr. Volkner,) in which letter Mr. Mackay said, “I beg to call your attention to these documents, as they contain, what appears to me, to be the most distinct and straightforward account which has yet been given of that unfortunate affair.” </p>
+         <p>I, Sir, who had read with much interest the various (and far more full) statements which had been made by Captain Levy, by his brother, by Mr. Hooper, and also by Mr. Grace, (and which had all appeared in print), I on reading the said papers early in August, drew a line, in pencil, <hi rend="italic">under</hi> the word “straightforward,” and put (as a query) two ?? in the margin. At the same time honestly writing my name in full in the margin, and so openly avowing it, little dreaming of doing any wrong. </p>
+         <p>This, however, some eight or nine weeks after those papers had been read by all the members, who of course, had noticed my very simple remark, has been suddenly made a grave charge against me by Mr. Cracroft Wilson, C.B., and has been termed a “defacing of public documents” by Mr. Carleton, the Acting Speaker. </p>
+         <p>I am, Sir, Yours, &amp;c., <hi rend="smallcaps">Wm</hi>
+            <hi rend="smallcaps">. </hi>
+            <hi rend="smallcaps">Colenso</hi>
+            <hi rend="smallcaps">.</hi>
+         </p>
+         <p>Wellington, October 21, 1865.</p>
+      </body>
+   </text>
+</TEI>

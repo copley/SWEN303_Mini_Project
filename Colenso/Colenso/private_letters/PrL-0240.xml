@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0240">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1868 September 14: to Hector</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Museum of New Zealand—Te Papa Tongarewa MU000147/002/0073</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">Hector</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1868-09-14">1868 September 14</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1868 September 14: to Hector<note xml:id="ftn2-164" place="foot" n="164"> Museum of New Zealand—Te Papa Tongarewa MU000147/002/0073</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Septemr. 14/68.</p>
+         <p>Dr. Hector,</p>
+         <p>Dear Sir,</p>
+         <p>In the past month I have been thinking of troubling you with a line (a <hi rend="italic">last</hi> line, I may say,) concerning the unfortunate Essay: but I have hitherto put it off, thinking you were much too busy to be approached.—</p>
+         <p>But a short conversation I lately had here with Sir G. Grey—<hi rend="italic">en route</hi> for Wellington—prompts me now to do so.—Besides, I have thought, that I should not allow the session to pass before writing to you, (if I wrote at all,)—as you have all your former Otago co-adjutors now with you.</p>
+         <p>I should tell you, that I heard from Wellington about 6 weeks ago,—that the Essay was not likely to be printed, “solely owing to want of funds.”—</p>
+         <p>Assuming this to be the true position, I would now ask:—</p>
+         <p>1. What would be the expense of printing it at Govt. Press—say, per page, or per sheet,—1000 Copies?</p>
+         <p>2. In the event of such being done, would the Govt. aid, in any way; or the Provl. Govt. of Otago,—or the Governor,—or your Institute,—or the Members, G.A., generally?</p>
+         <p>3. or could subscribers’ names be readily obtained—at once, and on the spot at your headquarters (now that the Houses are sitting), so as to <hi rend="italic">ensure</hi> a lessening of printing expenses.</p>
+         <p>4. or have you (and your fellow Commissrs.) any objection to my getting it printed (say <hi rend="italic">here</hi>) at my own expense, and, in my doing so, could I <hi rend="italic">depend</hi> on any known help from any quarter, public or private.</p>
+         <p>(I would willingly subscribe 20 guineas towards its being printed at Govt. Press.—if only to enable me to fulfil the many promises I have made about it to those who were enquiring—one of whom, <hi rend="italic">Crawford</hi>, I see, has lately died.)</p>
+         <p>Or could <hi rend="italic">you</hi> point out any <hi rend="italic">better</hi> way, than what I have touched on?</p>
+         <p>Could you write to me shortly in reply?—I wrote to you about 2 months ago, I suppose you received it.</p>
+         <p>I am</p>
+         <p>Dear Sir</p>
+         <p> Yours truly</p>
+         <p> W. Colenso.</p>
+         <p>P.S. I gave Sir G. Grey one of the <hi rend="italic">imperfect</hi> Proof Copies of the Essay—which he seemed <hi rend="italic">very glad</hi> to get, saying, he had been long looking-out for it,—but it only went to the 88 page. I have still 3 of such imperfect Proof sheet Copies by me,—have you any of its <hi rend="italic">later </hi>sheets or pages by you? that you could send me. I ask because I recollect seeing a Proof Copy when at Wellington in ’65, which was <hi rend="italic">complete.</hi>
+         </p>
+      </body>
+   </text>
+</TEI>

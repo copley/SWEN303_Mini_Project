@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0045">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1863 Correspondence. Hawke’s Bay Times 6 February.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1863-02-06">1863 February 6</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Times</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1863 Correspondence. 	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Times </hi>
+            <hi rend="bold">6 February.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—I have just seen, in a copy of the <hi rend="italic">Herald</hi> dated “Saturday, February 4,” a query by “Enquirer.” If Enquirer is an elector, and has the manliness to give his real address, he shall have his enquiry fully answered by</p>
+         <p>
+            <hi rend="smallcaps">					Wm. Colenso</hi>.</p>
+         <p> Wednesday.</p>
+      </body>
+   </text>
+</TEI>

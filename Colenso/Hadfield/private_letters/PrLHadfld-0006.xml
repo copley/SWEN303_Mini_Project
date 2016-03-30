@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0006">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1837 October 5: Octavius Hadfield to his father Joseph</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 12)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 18.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1837-10-05">1837 October 5</date>
+                  <name type="place">Whitchurch</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70741/">Joseph Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1837 October 5: Octavius Hadfield to Joseph Hadfield
+         </p>
+      </front>
+      <body>
+      <p>Whitchurch</p>
+      <p>Oct. 5th. 1837</p>
+      <p>My dear father,</p>
+      <p>I was very sorry to hear by my mother's letter to George that you had been unwell, but was glad that you seemed to be getting better.  I hope that you have since she wrote been improving still more, and that you are now quite well.  I shall like to hear from some of the party concerning you again ere long.</p>
+      <p>For some time I have been considering seriously my future course of life.  Knowing your small resources it has been a grief to me to be living on those resources, without any apparent prospect of maintaining myself, while my health continued in a precarious state.  And I fear I have been the cause of much anxiety to yourself.  Two reasons I might give for not hitherto seeking any employment, one the weakness of my health which at an early period of my life I thought might recover thro' care, (as is now the case), another that my mind has been strongly impressed with a desire of becoming a minister of the gospel and more especially to the heathen, a desire which nothing could root out.  When I endeavoured to divert my mind from it my conscience was not at ease.</p>
+      <p>Since I last wrote to you, after consideration and prayer to the Lord, for His Heavenly guidance, I wrote a letter to the Church Missionary Society asking them if they were in want of a man for their work abroad as I should like to be employed by them.  They answered that they would like a personal interview at once as they were pleased with my letter.  I went up to town last week and had some communications with several leading men among them, and after a great many questions and answers, and much consideration on their part they decided upon accepting me.  I had a long conversation with their medical advisor with whom I was much pleased, and who entered fully into my case and seemed to understand me very well, and who gave a favourable report to the Cttee. of me.  They asked me if I wished to go to any particular part of the world, but I told them I was indifferent about it.  They will probably send me to the climate that the Dr. thinks me most suited for.  I cannot well go abroard for a year and a half or two years.  There is something painful in leaving home and friends but Christ has said "if any man love father or mother more than me, he is not worth of Me".  I must not risk my Heavenly Father's displeasure.  I returned from London yesterday.  I saw Mr. Warren twice, he seemed pleased on hearing that I had succeeded.  I must now stop.  George will add a few lines.  Be so good as to show this to my mother, I will write to her soon.</p>
+      <p>Believe me, My dear Father,</p>
+      <p>Ever your affectionate son,</p>
+      <p>Octavius Hadfield.</p>
+      <p>My dear Father,</p>
+      <p>I was very sorry to hear from my mother of your illness. I should have written at once to you but for Octavius' absence.  I hope you are now convalescing and recovering strength and appetite.  I need not add to what he has written.  I am glad they think his health promising.  He brought me the &#163;100 note from Mr. <supplied>(Harren?)</supplied>.  If he stays a shorter time with me than that which you specified, the difference will be at his servie.  Books and travelling may require something.  Hoping you are better.  I am as ever</p>
+      <p>Your affectionate son,</p>
+      <p>G.H. Hadfield.
+      </p>
+      </body>
+   </text>
+</TEI>

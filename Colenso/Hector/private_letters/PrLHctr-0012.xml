@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1120">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>8 August 1868: Hector to Hooker.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">James Hector</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Kew DC 174, 527-528, ATL Micro-MS-Coll-10-16, 602-604.</p>
+         <p>Transcription published in "My Dear Hooker: 
+Transcriptions of letters from James Hector to  
+Joseph Dalton Hooker between 1860 and 1898", Rowan Burns &amp; Simon Nathan.  Geoscience Society of New Zealand miscellaneous publication 133B, 2012.  ISBN 978-1-877480-21-8. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133B.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1868-08-08">1868 August 8</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hector to Hooker, 8-8-1868, Kew DC 174, 527-528, ATL Micro-MS-Coll-10-16, 602-604.</p>
+      </front>
+      <body>
+      <p> [Wellington?] </p>
+            <p>
+ 8th August 1868 </p>
+            <p>My dear Hooker,</p>
+            <p>            I have to thank you for your letter of 31 May. The mention that Lyell is interested in my work is very gratifying and greatly strengthens my hands.</p>
+            <p>
+            I enclose a copy of a memo: which will s
+how the steps I have taken to
+information about childbearing 
+among the Natives for Darwin. </p>
+            <p>Also notices
+Branch and also at our big gathering of the N.
+Z. Institute which comprises all the societies 
+throughout the colony incorporated under the Act of
+ Parliament I sent you last year, when it 
+was passed.</p>
+            <p>  
+Also notices of our proceedings both at the Phil. Society which is the local Wellington
+Branch and also at our big gathering of the N.
+Z. Institute which comprises all the societies 
+throughout the colony incorporated under the Act of
+ Parliament I sent you last year, when it 
+was passed.</p>
+            <p>  
+We have meetings of one kind or other 
+every week. The Society meets for discussion 
+every third week &amp; an adress &amp; conversazione of
+ the Institute inter---- 
+along with lectures by
+my self. The first of which is on Tuesday next.</p>
+            <p>
+I enclose you all our proceedings up to date 
+&amp; it would be very useful if they were noticed in some of the 
+scientific Journals</p>
+            <p>            I will send them regularly. We are to publish proceedings containing a notice of what
+is said in discussion at all the societies &amp; Transactions containing the 
+papers at length. There 
+have already been some capital papers read both in Auckland &amp; here. I set Kirk &amp; Colenso 
+to a little scientific skirmish about
+Pittosporums
+ &amp; Travers &amp; Buchanan at one another about 
+e distribution of 
+Veronicas
+. Mantell I have managed to commit to a thorough overhaul of all we know about Moas &amp; the authority we have
+ for different species &amp; their distribution. </p>
+            <p> I suppose when I raise my voice   
+ about Geology some one will be down on me in time - 
+ but it will all help to have us going &amp; I trust will show a result creditable to the colony.  </p>
+            <p>            We have our meeting in the carved Maor
+i house which is 50 ft long &amp; surround by
+carved figures of the most hideous description each 4 ft high. When lighted up &amp; the long table covrd. with Moa bones it formed a 
+sight that would be famous in London.  </p>
+            <p> I meant 
+ to have sent some papers by this 
+mail but have been too busy. Haast is out of work now &amp; wants to get on to my staff but I fear 
+there is little chance for this year of getting 
+even the votes we have.  </p>
+            <p>
+Very Sincerely Yours </p>
+            <p>James Hector.</p>
+            <p>
+I send a sample of the Meteorological return I publish each month. Do you care to get 
+this?  </p>
+            <p>
+            At this time you will be in the midst of your
+ work at Norwich. I have lots of seeds for you but hardly dry
+ yet. I hope Mrs. Hooker is 
+all right – give her my kind remembrances. </p>
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0042">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1843 February 20: Octavius Hadfield to Mrs. John Mason</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  Page 92.  "Extracts of letters from Octavius to Mrs. Mason."  Unspecified source of extract, time of extracting, person who extracted and nature or extent of excluded material - enquiry emailed to Frith Driver-Burgess at Wellington City Libraries on 27.11.15 regarding this.  These extracts are all from letters written within the first months following Rev. John Mason's death, which Octavius Hadfield witnessed and described in his letter to the C.M.S., reproduced in their obituary, available at http://www.enzb.auckland.ac.nz/document?wid=4078&amp;page=1&amp;action=null <!--"&amp;" in this URL should be interpreted as & by anyone reading this document in unrendered TEI format--></p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 27.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1843-02-20">1843 February 20</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/24651/">Otaki</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71002/">Mrs. John Mason</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1843 February 20: Octavius Hadfield to Mrs. John Mason
+         </p>
+      </front>
+      <body>
+      <p>Otaki February 20th 1843</p>
+      <p>My dear Mrs. Mason</p>
+      <p>The natives are in a great hurry to go away this morning; and I have therefore scarcely time to write.  I have received all your letters and forwarded those for the post- - - - - - I am glad you gave some books to the Natives to whom you allude, He was just getting into his canoe, and I had none prepared; but I thought he would find Weimiar <!--blank-->, who would have explained. -------- Mr St Hill has been staying with me a few days, making selections of land, for native reserves.  He has just left me. - <!--blank--> He says that there are no grave stones at Wellington.-------I am writing in to <!--MS marginal annotation: For too?--> hurried a way to speak deliberately of yourself, but I have a hope that you may, having been brought by the Lord to this land, be directed to some work here for the Lord, I have no particular thing in my mind, but I think with your views of what Christ has done for you, you would be delighted in spending yourself for the welfare of His people who are His body and consequently are with Himself-and we know from His own words that what is done for His people he considers as done for Himself.  May the Lord direct you- John Williams has been very long ill.  I did not think he would recover------- a large blister and medicines seem to have benefited him,- I wished for him to remain but he wants to go. - Many thanks for the Greek Test- which I highly value I assure you.--ever yours faithfully in the Lord-
+      </p>
+     
+      </body>
+   </text>
+</TEI>

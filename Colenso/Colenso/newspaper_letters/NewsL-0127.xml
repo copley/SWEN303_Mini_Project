@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0127">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1885 Local option. Hawke’s Bay Herald 27 May.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1885-05-27">1885 May 27</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1885 Local option. 	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 27 May.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>, — Permit me to add a word or two more, by way of explanation, to my letter that appeared in your columns of Thursday last. This I find I am obliged to do from a remark made by your “Argus” in his “Jottings” in yesterday’s <hi rend="smallcaps">Herald</hi>. (Although I must confess, that, as I happen to know “Argus” and also his ’cuteness, I cannot but believe that he saw my meaning clearly enough.) I should have said a little more at the time,—and so have fully set forth my meaning,—only I feared to trespass too largely on your space.— — </p>
+         <p>I fully agree with “Argus,” as to Local Option being carried out by the inhabitants of any village or locality apart from outsiders, where such villages or localities are isolated or confined to themaelves, (say, like Ashley-Clinton, Makareta, Kumeroa, and others in the large Bush Districts)—but where those villages are on the main lines of public roads, such also (as in their case), being <hi rend="italic">the only great Colonial thoroughfares</hi>, (as I had shown in my letter,) it is a different thing altogether. In all such cases, especially when far apart or distant from other townships, (as I had also shown in my letter,) then the outsiders and particularly the travelling public should also be allowed to have their “say” in the matter; because it was for them as well as for the inhabitants of the said village or locality, that those roads were made and are being kept up at the public expense. </p>
+         <p>And this argument is still the stronger—cuts the deeper, when further considered in connexion with public Government buildings—as Court-houses. For the Court-house at Ormondville was not erected there mainly for the benefit of that small village (like, for instance, their two little chapels, and the public school-house,) but for the whole large district including outsiders and the travelling public.—I am, &amp;c, </p>
+         <p>
+                  <hi rend="smallcaps">					William</hi>
+                  <hi rend="smallcaps">Colenso</hi>
+                  <hi rend="smallcaps">. </hi>
+               </p>
+         <p> Napier, May 26, 1885.</p>
+      </body>
+   </text>
+</TEI>

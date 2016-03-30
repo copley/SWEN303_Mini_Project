@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0595">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1885 April 19: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1885-04-19">1885 April 19</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1885 April 19: to Balfour<note xml:id="ftn3-300" place="foot" n="300"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Norsewood, Sunday night, <lb/>April 19, 1885</p>
+         <p>Mr D.P. Balfour <lb/>Glenross</p>
+         <p>My dear Sir</p>
+         <p>I have been thinking of writing you a letter (not that I owe you one) although I have not very much to say—of novelty or news—in writing from the woods.</p>
+         <p>I left Napier on the 9<hi rend="sup">th</hi> (a week later than I had intended when I last wrote to you,—I delayed purposely, to allow the Easter holidays &amp; Waipukurau races to be over first). I got here all right, and for a whole week had most delightful weather,so clear &amp; bright, and without high winds; it is a fine sight to see the sun set without a cloud behind the sharp rise of the range. However all things must end, and our fine weather ended on Friday:—and ever since it has been raining <hi rend="italic">heavily</hi> to make up for it!. On my passing through Ormondville, on Thursday 9th, the P. master from this place was on the station platform, and he told me he had a letter for me (afterwards correcting, with, “it is a packet”). I did not get it early, and when I did, lo, it was a little box from you.</p>
+         <p>I had hoped to find our <hi rend="italic">Orchid</hi>,—Your little curious &amp; <hi rend="italic">fragile</hi> fungus, was all right, securely <hi rend="italic">moored</hi> therein by you. It is a peculiar one; I found it in several places in these woods (hanging from denuded logs) in January, but had great difficulty in <hi rend="italic">collecting</hi> good spns, as it was all but <hi rend="italic">un­touchable</hi>; however the best I did secure, I put up for <hi rend="italic">Kew</hi> before I came away—making of <hi rend="italic">Fungi</hi> alone, more than 250 lots—and since I have been here I have gained (say) 50 more—with lots, lots Hepaticæ &amp;c.</p>
+         <p>I have been pretty well on the whole, save this plaguy Rheumatism, which still <hi rend="italic">sticks</hi> to me in my right shoulder, &amp; has caused me off &amp; on much grief &amp; vexation, through the raps &amp; twists &amp; falls, in the woods, I have had <hi rend="italic">through</hi> it. Indeed, I may say to you (as I said to D. Guy, who riding along in the showery weather saw me coming out of the forest,) “It looks funny, or uncanny, to see an old man suffering from Rhmsm dodging about in the damp woods &amp; getting any amount of twists &amp; knocks from Supplejacks, Rotten logs, Slippery roots!!. But it keeps my <hi rend="italic">mind</hi>, &amp; hands too, fully em­ployed.</p>
+         <p>I was sorry to hear of the decease of Breingen—so soon too after Maney­—2 Meanee men, well known to both of us. I have not seen or heard from P.D. for about <hi rend="italic">2 months</hi>; Hope he is well.</p>
+         <p>I do not intend to return to N, till first (whole) week in May.</p>
+         <p>I hope you are all well at Glenross. I fancy <hi rend="italic">you</hi> will not build a redoubt against the Russians. <hi rend="italic">Too much fuss about defences.</hi>
+         </p>
+         <p>With kind regards</p>
+         <p>Yours truly </p>
+         <p>W. Colenso.</p>
+         <p>P.S. Shall be pleased to receive a good long letter from Glenross.</p>
+      </body>
+   </text>
+</TEI>

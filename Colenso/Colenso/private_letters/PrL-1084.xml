@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1084">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1842 August 10 to R Davis</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>ATL Micro-Ms-Coll-04-34</p>   
+         <p>transcription by Ian St George</p>
+            <p>encoded into TEI by Melissa Bryant, 21.10.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1842-08-10">1842 August 10</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71642/">R. Davis</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1842 August 10 to R Davis (ATL Micro-Ms-Coll-04-34)
+         </p>
+      </front>
+      <body>
+      
+<p>
+Paihia August 19th., 1842</p>
+<p>My dear Sir,</p>
+<p>I have, in the course of conversation, heard that at your last Meeting held in this Station, a resolution to print a Dictionary of the New Zealand language by the Revd. W. Williams, was adopted by the Committee.</p>
+<p>In consequence of that information, I have to request that you will be so kind as to lay this letter of mine before the Committee at your next meeting for their consideration.</p>
+<p>Without wishing to make my letter unnecessarily prolix— by entering into a statement of my great surprise at such a Resolution as the one alluded to having received the Committee’s sanction, when at a former meeting held only a few weeks previous (with the same Members present) that very same proposition was rejected: or, by adopting a train of reasoning in order to shew that such work is, in the present prospective state of New Zealand, probably but little required,— I would beg leave to mention that a Dictionary of a barbarous language is only likely to be used by students of that Language, and such, alas! Can neither reasonably be expected among the generality of Emigrants to a new Colony, nor the rising generation of New Zealanders.— And here, I would, to prevent misconception, beg to remark, that it is not supposed but that communication will continually pass between the Settlers and the Aborigines: but (as a judicious and influential Settler [James Busby Esqr.] very lately remarked) perform up for many reasons will not leaven the Native Language, and the present and next generation of the latter, will never gain a knowledge of the English language from books: a code of barbarous jargon, (such as is now in use) will, doubtless, in spite of all attempts on our part to the contrary, be the common medium of communication.</p>
+<p>The points, however, to which I would call the Comee. attention, are the following:—</p>
+<p>1. The length of time, and consequent expense, which it would necessarily take to get the said work printed at the Society’s Press: as all has to be done by one person, who has besides many other things to attend to.</p>
+<p>2. The very great hindrance which the printing of this Book will necessarily cause to other work – work, too, which is wanted for the Mission (Here, I may state, that I have just received information that the Revd. Messrs. Hadfield, Maunsell, and Mason, have been obliged to have sundry small Books, which they required for their Natives, printed at the Portnicholson and Auckland printing-offices.)</p>
+<p>3. The expense (as formerly shewn by me) to which C.M. Society will be put in the publishing of this work; with very little prospect in the of the outlay ever being met. For,</p>
+<p>4. If printed here, and (contrary to all reasonable expectation) a demand be made for the same; the probability is, that some one of the many engaged in speculation, is this lottery-like age, will send a copy to England or America, get it printed and hastily got up, and sell it perhaps at less than half of the price at which we could afford to do so.</p>
+<p>5. The certainty that if printed in England the work might not only be published and here long before the time would elapse until it could be printed at our press, but got up in a manner more in keeping with the taste of the day, and at a very much less expense, and the Copyright, moreover preserved to the Author.</p>
+<p>6. If however, it still be urged, that it is the opinion of the Comee. that such a work would be useful, and that in order to induce accuracy it should be printed in New Zealand; would it not (may I, with all due deference, be allowed to suggest,) be advisable for the Committee to recommend the Author to get it printed at some one of the Printing-Offices in the land;— even as Mr. Maunsell’s Grammar has been printed – without saddling the Society (in the present state of her funds) with any unnecessary expense?</p>
+<p>In thus addressing the Comee. on this subject, I trust that no motive whatever will by any person imputed to me, save that of an earnest desire to do my duty as a Missionary to God and the Church Missy. Society.</p>
+<p>I have to request that this Letter of mine, be inserted on the Minutes of Comee.</p>
+<p>I am &amp;c &amp;c</p>
+<p>(Signed) W. Colenso</p>
+
+      </body>
+   </text>
+</TEI>

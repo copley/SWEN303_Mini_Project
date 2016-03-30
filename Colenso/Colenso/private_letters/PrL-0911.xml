@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0911">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1894 September 23? to Hill</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MTG HB m58/50(b), 57787: month and year not given, but fits here.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+      </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1894-09-23">1894 September 23</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1894 September 23? to Hill<note xml:id="ftn3-699" place="foot" n="699">MTG HB m58/50(b), 57787: month and year not given, but fits here.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier,<lb/>Sunday 23<hi rend="sup">rd</hi>., III, p.m.</p>
+         <p>Dear Mr. Hill</p>
+         <p>I have found the Bp’s. letter &amp; it <hi rend="italic">is</hi> as I had said—I shall give you 2 extracts (<hi rend="italic">verbatim</hi>) therefrom, <hi rend="italic">instead</hi> of sending, as I promised: I now purpose going to town tomorrow to <hi rend="italic">show letter to the Dean</hi> as he, <hi rend="italic">seemed</hi> to me, to be too much inclined to doubt the <hi rend="italic">efficiency</hi> of the Bp’s. paper—<hi rend="italic">i.e.</hi> 
+            <hi rend="underline italic">License</hi>.</p>
+         <p>Mg. fine—I to Augustine’s—now cloudy, but as the glass is high &amp; steady, I think it may continue fine tomorrow. May meet with you in town somewhere. Yours ever</p>
+         <p>W. Colenso.</p>
+         <p>P.S. According to <hi rend="underline italic">rule</hi>—I <hi rend="italic">should</hi> be leaving for Bush on Tuesday—May yet go on Wednesday, or so, if <hi rend="italic">expelled—–</hi>
+         </p>
+      </body>
+  </text>
+</TEI>

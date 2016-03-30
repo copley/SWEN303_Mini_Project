@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0786">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1891 June 30: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0496.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1891-06-30">1891 June 30</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1891 June 30: to Harding<note xml:id="ftn3-535" place="foot" n="535"> ATL qMS-0496.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Tuesday<lb/>
+            <hi rend="underline italic">aftn</hi>, June 30/91</p>
+         <p>Dear Mr Harding—</p>
+         <p>Here am I, once more! at the wheel, or the spit, or the grindstone—viz. corner of old table: <hi rend="italic">you can</hi> fancy me here, I <hi rend="italic">cannot you</hi> there!—</p>
+         <p>I returned last night from the Bush &amp; Waipawa—pretty (or very) well: had a fine wk. of w., rain began on Saty. evg., Sunday &amp; yesty. damp &amp; showery: today is delightfully, fine.—</p>
+         <p>Here, among a <hi rend="italic">batch</hi> of letters &amp; papers, was yours of 18<hi rend="sup">th</hi>. which arrd. at N. a few hours after I had left. In my next I will fully reply &amp;c &amp;c. And this mg.—busy here—yours of 28<hi rend="sup">th</hi> came to hand: I thank you for all. Am sorry to hear of the illness of your 3 children, &amp; hope they are now better, &amp; soon will be quite well.</p>
+         <p>I have many letters to answer but write to <hi rend="italic">you</hi>, <hi rend="italic">first</hi>—the enclosed will explain why.—Please read &amp; seal mine to Capt. R. &amp; forward if <hi rend="italic">necessary</hi>: by this I mean—that I would <hi rend="italic">rather you could send me the Vol. I want</hi>—from Blair, or from any one of your friends. No doubt Collier used that copy in G.A. &amp; I do not know <hi rend="italic">their present rules</hi>
+            <hi rend="italic">re</hi> their books.—I am very desirous of getting the loan of Q.R. No. XC. while <hi rend="italic">I am able to</hi> sit up &amp; write.—</p>
+         <p>I spent a <hi rend="italic">very nice</hi> couple of hours w. your friend Mr Grant, at Gow’s (priv. room) on Friday night, Mr G. came down purposely to see me &amp; staid till nearly X o’clock. More than once I thought on you.</p>
+         <p>If I can find time I will look into Buller’s <hi rend="italic">big</hi> book under “Huia” before my next, &amp; report. Your <hi rend="italic">report</hi> of Corkscrew Gulley is very amusing, &amp; has pleased me greatly—I mean <hi rend="italic">this</hi>—now to hand in your letter—in <hi rend="italic">addition</hi> to the original. Miss Herbert is also <hi rend="italic">dead</hi>: &amp; both before Mrs R. could arrive in Engld. I find (&amp; am <hi rend="italic">astonished</hi>!!) that J.White’s relatives have sent in a petition to the Ho. for money!!! Was sorry to see the remark on Hdbk. N.Z. Fl.—viz. that Kirk’s getting it out would do! I hope he may be bound down not to interfere w. 1<hi rend="sup">st</hi>. Ed—merely add new sps., &amp; correct a few errors.</p>
+         <p>Am very sorry to hear the sad account of Tregear’s health, Do ask him to take care of himself—<hi rend="italic">not</hi> to <hi rend="italic">overtax</hi>, &amp;c &amp;c. I care precious little, <hi rend="italic">now</hi>, about <hi rend="italic">Politics</hi>—generally:—as to do so is, I fear, of little use. Someone at <hi rend="italic">Auckland</hi> has sent me a copy of the “Herald” contg. Buller’s speech at Te Aroha: have no time to read it. Morrison (<hi rend="italic">our</hi> H.B. Herald’s Correspdt.) has sent up a <hi rend="italic">glowing</hi> account of our <hi rend="italic">Dean</hi> there among you. Tuke came in from Taradale early this mg. to nail me for his Ch. there—next Sy.! Shrimpton is the <hi rend="italic">new Chn.</hi> H.B. Council: McVay’s brother the <hi rend="italic">new</hi> Bk. pt. Kinross’ estate pays <hi rend="italic">another</hi> 1/- in the £—It was reported yesty. (&amp; ? wired to you there, &amp; all N.Z.?) that Ormond had been washed off bkwtr. <hi rend="italic">on Sy.</hi> &amp; <hi rend="italic">nearly</hi> drowned,—but it is <hi rend="italic">all false</hi>!!!—</p>
+         <p>Here I must stop. Hope to hear of bairnies being <hi rend="italic">well</hi>, &amp; your &amp; Mrs. Harding’s heart <hi rend="italic">cheered</hi> thereby.</p>
+         <p>A Dieu! Yours faithy., W. Colenso.</p>
+         <p>If <hi rend="italic">you</hi> send me a copy—burn <hi rend="italic">all enclosures.</hi>
+         </p>
+      </body>
+   </text>
+</TEI>

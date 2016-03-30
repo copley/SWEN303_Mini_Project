@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1113">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>13 September 1865: Hector to Hooker.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">James Hector</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Kew DC 174, 464-465, ATL Micro-MS-Coll-10-16, 479-481.</p>
+         <p>Transcription published in "My Dear Hooker: 
+Transcriptions of letters from James Hector to  
+Joseph Dalton Hooker between 1860 and 1898", Rowan Burns &amp; Simon Nathan.  Geoscience Society of New Zealand miscellaneous publication 133B, 2012.  ISBN 978-1-877480-21-8. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133B.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1865-09-13">1865 September 13</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hector to Hooker, 13-9-1865, Kew DC 174, 464-465, ATL Micro-MS-Coll-10-16, 479-481.</p>
+      </front>
+      <body>
+      <p> 
+Geological Survey Office</p>
+            <p>Wellington </p>
+            <p>13th September
+ 1865 </p>
+            <p>My dear Hooker,</p>
+            <p> I got no letter from you by last mail but from a note that the Governor showed I was 
+glad to see that your father is better again. The N.Z. Parliament is sitting just now but they have got into such bad blood in setting up about
+ this War expedition that they are not well disposed to spend much money on science. At the Govn. suggestion I proposed the 
+examination of the South Island as you wished 
+but the Ministry would not propose it to the House even. Next year however the House may be in a more amiable temper.</p>
+            <p>I am now in my new quarters at least the 
+portion that is to be built in the mean time 
+which is only one fourth of the whole building 
+as designed. It is nothing but a large oblong 
+Hall lighted by a 
+clearstory. Part of it I have fenced off as
+ offices in the way they do at the 
+Brit. Museum. As a Museum I shall not have much
+ to start it with at 
+first as all my past 
+collections had to be left in Dunedin. However 
+I shall have a good set of Tertiary Fossils &amp; 
+Recent Shells &amp; a fair share of Rock Specimens
+ &amp; must just work hard collecting till the 
+specimens of all kinds accumulate. I am very 
+anxious to hear what you say about the Fossil 
+Plants, the tracings of which I sent some mails since. The West 
+Coast Coal fields will soon be
+developed now through the agency of the 
+Gold that is now being found in their 
+neighbourhood. Haast has been over there lately
+ &amp; will send you a copy of his Report I have 
+no doubt.  </p>
+            <p> Mantell put a Question to the Govt. the other day in the House about the distribution 
+of your Flora. The Govt. said they had got 
+two hundred copies according to agreement &amp; to 
+give away &amp; that as the copy right was the publishers they had no control in the matter. You should therefore urge the Publishers to send some
+ copies out for sale as lots of people want 
+them who wont get any of the 200
+ from Govt. &amp; the Booksellers
+ out here have not ordered 
+any, being under the impression th
+at the whole Edition was to be sold by the Govt.</p>
+            <p>I got hold of a copy of Lyell’s 
+New Elements
+ lately &amp; have been
+ reading his chapter 
+on the Miocene Flora.If I could send home a 
+collection of our Fossil Plants do you think that 
+Heer[?] would work them up – In any future collecting I will bear it 
+in mind at any rate. I 
+have one box of leaf impressions packed for you already of most of what you have received drawings. Buchanan is going 3 weeks to collecting plants from some out of the way places in Otago before he comes North. I heard from him yesterday that he had got some good mosses but nothing else worth while. He 
+will be up here next steamer &amp; I shall let him collect a while in
+Spring. Sir G. Grey proposes a trip this season to examine the Inlets off the NE Coast of N.Z. If I go I shall take Buchanan. Colenso is so sea sick that he wont face the sea at all. He is a Member of the House &amp; is here just now. 
+He tells me he is sending you a new moss this mail. </p>
+            <p>I have no news at all that you wont find in 
+newspaper ----. I have been working like aCarpenter for the last month.  
+With kind regards to your 
+father &amp; to Mrs. Hooker</p>
+            <p>Ever yours sincerely</p>
+            <p>James Hector. </p>
+            <p>Mantell sends his regards. </p>
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0015">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1839 September 23: to Clarke</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Hocken MS-0498/012/343.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71374/">Clarke</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1839-09-23">1839 September 23</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1839 September 23: to Clarke<note xml:id="ftn1-16" place="foot" n="16"> Hocken MS-0498/012/343.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="center">
+            <hi rend="italic">Copy of a Letter from Mr. Colenso <lb/>to Mr. Clarke, Septr. 23/39.</hi>
+         </p>
+         <p rend="end">Paihia, Sept. 23/39</p>
+         <p>My dear Sir,</p>
+         <p>I beg to inform you that I have received, from Mr. Wade, your official letter to him of the 19<hi rend="sup">th</hi>. Inst. containing the Resolutions of Comee. respecting the Press, and am happy in finding that Mr. Wade is “empowered to take the requisite steps for the erection of necessary buildings” at Waimate, and sincerely hope that the necessary assistance will be rendered him, so that he may be enabled to fulfil the wishes of the Parent Comee. on this head, as speedily as possible.</p>
+         <p>With regard to the Resolution— “That the Press be immediately removed to Kerikeri, and that Mr. Kemp be requested to make room for its reception in the Store, where it may be erected and continued at work,” I confess I am not a little surprised; and that <lb/>1<hi rend="sup">st</hi>. Because there is no reason whatever assigned for its temporary removal to that Station;<lb/>&amp; 2d. Because that its removal to any place, as a mere temporary arrangement, prior to its being removed to the Waimate, (the location assigned it by the Parent Comee.,) is not only uncalled-for, but must unavoidably be attended by hindrance in its working, together with needless loss of time, and damage of property:—for it would take me, no small period of time to get all the Type, &amp;c., &amp;c., in a condition to transport across the Bay to Kerikeri, then to unpack them &amp; get all to rights for a temporary sojourn of a few months, &amp; then, again to take to pieces and pack up for the second removal to the Waimate. Saying nothing of the extra trouble and labour to Mr. Kemp, nor of expense to the Society.</p>
+         <p>I make no remark, my dear Sir, in reference to the peremptory removal of the Press and myself to Kerikeri, nor of the “requesting of Mr. Baker to hire a small craft” for that purpose, before even Mr. W. or myself were informed of such a step being about to be taken; nor of all this being done without any Member of Comee. having held the least consultation with either Mr. W. or myself on the subject.</p>
+         <p>On the whole, I am, from a serious consideration of the hindrance to the work of the Press, of the loss of time, &amp; of the unnecessary expense &amp; probable damage to the Society—compelled most seriously to object to the removal of the Press to the Kerikeri Store, there to be worked as a temporary arrangement, prior to its being located at Waimate; and shall necessarily be obliged to write to the Parent Comee. on the matter in question, unless the Resolution passed by the N.D. Comee. on this subject be rescinded.</p>
+         <p>I am,</p>
+         <p>My dear Sir</p>
+         <p>Yours respectfully</p>
+         <p>(Signed) W. Colenso</p>
+         <p>
+            <hi rend="italic">Printer</hi>.</p>
+      </body>
+  </text>
+</TEI>

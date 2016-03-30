@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0053">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1864 to the Secretary, Wellington Chamber of Commerce. Wellington Independent April 21.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1864-04-21">1864 April 21</date>
+          <publisher>
+            <name type="organisation">Wellington Independent</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1864-03-12">1864 March 12</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1864 to the Secretary, Wellington Chamber of Commerce. </hi>
+        <hi rend="bold italic">Wellington Independent</hi>
+        <hi rend="bold"> April 21.</hi>
+      </p>
+    </front>
+    <body>
+      <p>Napier, March, 12, 1864. </p>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—Having been requested by the Commissioners of the Royal Exhibition at Dunedin to contribute the Essay “on the Botany, Geographic, and Economic of the North Island of New Zealand,” and having undertaken the task, I naturally seek for every aid which will the better enable me to fulfil the same. And being well aware that the Wellington Chamber of Commerce possesses much valuable information relative to the indigenous vegetable resources of its Province; and believing that it would willingly aid in making such known, especially on such an occasion as this; I venture, sir, to solicit the assistance of your Chamber in preparing the said Essay, and would be greatly obliged in receiving from you, at your earliest convenience, any information respecting the useful indigenous vegetable resources of your Province—whether timbers, barks, gums, drugs, fruits, vegetable fibres, &amp;c.—as well as the quantities annually used within the same. </p>
+      <p>               I am, dear sir, yours very truly,       <lb/>
+      <hi rend="smallcaps">Wm. Colenso</hi>.</p>
+    </body>
+  </text>
+</TEI>

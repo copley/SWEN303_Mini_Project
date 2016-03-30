@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0076">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1850 April 27: Octavius Hadfield to his sister Amelia</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  "Letter 5."  Page 226.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 8.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1850-04-27">1850 April 27</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71117/">Amelia Hadfield (daughter of Amelia Caroline Hadfield, nee White)</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1850 April 27: Octavius Hadfield to his sister Amelia</p>
+      </front>
+      <body>
+      <p>Wellington. April 27. 1850.</p>
+      <p>My dear Amelia</p>
+      <p>I am not certain whether when I wrote last I acknowledged receipt of your letter, &amp; also those from George &amp; Julia of June last.  I must thank you all for them if I have not done so already.  I came in here yesterday from Otaki, which I left the day before, in order to assist in making some arrangements for attending to some natives living in the vicinity of this place.  I hear a vessel is just sailing home, &amp; though I am rather busy I must write a few lines by her.</p>
+      <p>I was much gratified by hearing that you had purposed coming out here on hearing of my recovery, not that I ever doubted of your readiness to do so, as you were quite ready to have come with me when I left England, but as being a fresh assurance of your willingness to come &amp; reside far off from home in order to be with me. To tell the truth however, I am glad that you did not come. In the first place, I am so much away from what I call my residence that you would be left much alone under very novel circumstances, therefore without <hi rend="underline">two</hi> came, I am afraid it would rather cause me anxiety about you than relieve me from any I now have. Again you would find the change of life very great, &amp; one which with every resolution you might make not to care about it, anything but pleasant there are certain comforts which if people have been accustomed to them during many years they find it hard to forgo. Besides I am at present a <hi rend="underline">rolling</hi> <hi rend="underline">stone</hi>. And though I know you would not willingly bias my judgement, I should doubtless myself be influenced by considerations respecting you, if you were with me, in taking any step for removing to any out-of-the-way place: I wish to be quite free to do anything—to remain as free as I have ever been. Under all circumstances I do not think I should like you to come alone. Nothing could I like better than to have you all out here, or any number down to two, but <hi rend="underline">one</hi>, I am afraid, would be a source of anxiety to me.</p>
+      <p>Since I last wrote, I was very unwell for some weeks, with rheumatism succeeded by diarrhoea which lasted for some weeks longer, &amp; rather alarmed the doctor; but I have been quite well and strong again for some weeks past.  The doctor says I forget how ill I have been for so many years; I ought to go quietly to work for a year or so &amp; my constitution would gradually harden &amp; be equal to rough work again.  It is however, difficult when pressing matters call for consideration to be able to abstain from being rather more absorbed in them than is good for weak health; but I am more prudent than I used to be.</p>
+      <p>The natives are going on well at Otaki and its neighbourhood, they are making rapid improvement in their habits &amp; mode of life generally. The original believers among them left all to follow Christ: they were neglected by their relatives, and lived in comparative poverty: now they have had the satisfaction of seeing most of their relations join them, many, I think, sincerely; &amp; their decency of conduct and industrious steady habits have raised their outward condition to one of comparative comfort, without being such as to be any temptation to over carefulness about worldly things. I am now making some attempts to benefit them in temporal matters, in which, so far as I can yet see I think I shall be successful. </p>
+      <p>Mr. Williams is always active and ready to co-operate in anything for their good; &amp; his industry and diligence in the discharge of his duties are very great.  Mrs. W. has lately been very ill in consequence of a premature confinement, but she is now nearly well again.  I met Mr. Taylor (of Wanganui) at Otaki the day before yesterday. He is going on pretty well: his great drawback in usefulness is his ignorance of the language. </p>
+      <p>The St.Hills are quite well, &amp; as glad to see me as ever.  Windle is at school here, He will go to Auckland by &amp; by to the Bishop's school.  Another brother from Calcutta is expected daily: he will, I believe, be ordained by the Bishop.  I met Jerningham Wakefield this morning, who has just come out. I have seen nothing of the Bishop for some time, nor have I heard very much from him. I suppose he thinks, as I am now Archdeacon he can entrust matters down here to me! As I am on very good terms with the clergy in this part they readily attend to suggestions, so all goes on smoothly.  Give my affectionate love to all our dear family &amp; believe me</p>
+      <p>Your very affectionate brother
+      </p>
+      <p>Octavius Hadfield.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLElizbthC-0001">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Undated: Elizabeth Colenso to McLean</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70617/">Elizabeth Colenso</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1021917</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>Encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="------">Undated</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>Undated <!--McLean’s diary 1 May 1851: Mrs. Colenso very kind in supplying medicine for sore throat and headache.--> Elizabeth Colenso to McLean  (#1021917) </p>
+		</front>
+		<body>
+			<p>Thursday Evening </p>
+			<p>My dear Sir </p>
+			<p>Having experienced what it is to have a sore throat and fearing yours may increase—I send a little treacle posset and some purging Pills also a little Nitre, hoping you may experience some relief from them if you choose to take them—a stocking taken warm from the leg and put round the throat on going to bed is said to be a good remedy. I am </p>
+			<p>sincerely yrs </p>
+			<p>E. Colenso. </p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1058">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1898 August 29: to Lund</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Papers-0031-51. Annotated “W.C. died in Jan. 1899.”</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/74379/">Lund</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1898-08-29">1898 August 29</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1898 August 29: to Lund<note xml:id="ftn3-913" place="foot" n="913"> ATL MS-Papers-0031-51. Annotated “W.C. died in Jan. 1899.”</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Gow’s Hotel,<lb/> Waipukurau,<lb/>August 29/98.</p>
+         <p>My dear Mr Lund</p>
+         <p>Here am I, again in my <hi rend="italic">old </hi>quarters—in the same room where you &amp; I spent our <hi rend="italic">last </hi>hour together. I duly received your kind and most welcome letter, &amp; brought it on with me to answer.—I arrived here on <hi rend="italic">Thursday</hi> 5 p.m. train, (to see Tuke before he should leave for his outlying flock on Friday mg.) Of course I came as before to take Ch. duty yesterday. Weather fine since my arrival—particularly so on Friday last, when Ruahine Mountain range appeared transcendently lovely, covered with pure virgin snow from summits to bases, with every outline of their sharp pinnacles showing conspicuously against the clear dark blue sky! it was a grand sight,—as I told Gow, &amp; others, worth coming from N. to see. At such seasons I always speak the grand old Hymn of the Waldenses:—<lb/>“For the strength of the hills we bless thee!<lb/>  O<hi rend="smallcaps">God</hi>,—our Fathers’ <hi rend="smallcaps">God</hi>,” &amp;c.<lb/>and well they might: for their craggy mountains saved their remnants from the<hi rend="doubleunderline underline italic">Xn</hi>. slaughtering mercenaries of the wretched Popes!—But, I suppose, where you now are, you may daily see still grander mountain scenery: <hi rend="underline italic">may you enjoy it</hi>.</p>
+         <p>True, the weather has been fine since I came—but before that it was very wet, we had just a week of continuous rain at Napier, extending inland, (whence, I presume, the extra snow on the range,)—again the Railway near Waitangi was in danger, &amp; part submerged, so that for a short time trains could not wholly run, &amp; boats had to be used, at the “Washout”: in coming hither last Thursday we came snail’s pace over the soft yielding parts and the whole flat country around looked broken, wet, &amp; hideous! at Dannevirke the snow fell heavily for 24 hours or more, so that snow balling seemed to have been the order of the day! C. Baddeley, I am told, is just gone to Australia—a move, I believe, in the timber trade. Fannin, Jr. has <hi rend="italic">sold out</hi> &amp; quitted Dannevirke: regretted by several. His Father has been <hi rend="italic">very ill</hi>, &amp; is now better, though scarcely out of danger, &amp; very weak. Allan Maclean of Duart Havelock died yesterday; Rathbone, senr., is dangerously ill. I suppose you see some papers. Spring is well advanced here now: Nature is again repeating her oft-told pleasing tale. You did right in selling your goods, though at a loss, &amp; also in leaving Mrs Lund here at Waipawa till <hi rend="italic">October </hi>or later. <hi rend="italic">Festina lente</hi>.</p>
+         <p>With kindest recollections and regards, Believe me,</p>
+         <p>Yours sincerely, W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

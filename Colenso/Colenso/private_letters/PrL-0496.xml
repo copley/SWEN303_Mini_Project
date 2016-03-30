@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0496">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1882 April 6: to Drummond</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/13.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73880/">Drummond</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1882-04-06">1882 April 6</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1882 April 6: to Drummond<note xml:id="ftn3-136" place="foot" n="136"> ATL 88-103-1/13.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Thursday </p>
+         <p rend="end">April 6<hi rend="sup">th</hi> 1882</p>
+         <p>J .Drummond</p>
+         <p>Dear Sir</p>
+         <p>I was pleased last night in seeing a letter from you;­—as it is a day of <hi rend="italic">heavy</hi> rain here today (keeping<hi rend="sup">-</hi>me from going to town, &amp; yet doing great good)—and as there is a <hi rend="italic">slight</hi> error in your letter, I have thought I would reply at once,.—</p>
+         <p>I fear that my chance of going to the Bush this autumn is now being rapidly reduced to a minimum; Sickness <hi rend="italic">there</hi> (more than in town here) has hitherto served to bar me;—Indeed. I have been strongly advised in <hi rend="italic">all</hi> quarters<hi rend="sup">,</hi>—not to go—just now, at all events. However I will still hope to be able to move in that direction at the end of next week—. The sickness <hi rend="italic">here</hi>, though more than ordinary,(and, like that of the Fever Kind, infectious) has not been so very great—and it is, &amp; has been, worse, when numbers are compared—viz Waipukurau, Norsewood, &amp;c. The town <hi rend="italic">flat</hi>—is not, cannot be, naturally unhealthy; very far from it; just the contrary; &amp; so it has always been,.—</p>
+         <p>But your long letter is mainly about <hi rend="italic">your pumpkin,</hi> &amp; its inter­minable &amp; peculiar discussions; and it is your remark, or rather your (mis)quotation of a line or two of mine in my letter to Newman, that causes me now to write, to correct it.—You say (of<hi rend="sup">-</hi>me) “I see in your letter that you say “A pumpkin is a fruit, not a vegetable”. Now did <hi rend="italic">I</hi> say that—at least I did not intend to say so,—but ra­ther—thus,</p>
+         <p>“In proper language, the <hi rend="italic">edible part</hi> of the pumpkin (in which are the seeds) is a fruit, &amp; not a vegetable; but the <hi rend="italic">plant</hi> itself is a vegetable &amp; not a <hi rend="italic">fruit</hi>; and further I also said that <hi rend="italic">both</hi> (dispu­ters) were, to an extent, right.</p>
+         <p>I think Mr N. puts it fairly enough, in his <hi rend="italic">very</hi> short note of 3 lines;—He mentions, also, more then <hi rend="italic">one</hi>,—using the term “the others”—but it is not worthy of so much writing.</p>
+         <p>I am pleased to know the Papers I have sent you from time to time reached you; The Eng Mail we hope to receive here on Saturday, when I may get more, and if so, will not forget you.</p>
+         <p>I find from Dr Hector they have <hi rend="italic">nearly finished</hi> printing Vol XIV “Transactions”, (though the binding—such as it is—takes a long time there being now such a lot of members;) so, when you next write, perha­ps you can forward me your <hi rend="italic">sub £1.1.0</hi> for <hi rend="italic">this year</hi> (also Mr Mac­farlanes)—there is no <hi rend="italic">hurry</hi>; only those that pay up early, always get their books from me early; and I should like for <hi rend="italic">you</hi> to have one out of the first lot to hand.—And with kind regards</p>
+         <p>I am, Yours truly,</p>
+         <p>
+            <hi rend="underline">Wm Colenso</hi>
+         </p>
+      </body>
+   </text>
+</TEI>

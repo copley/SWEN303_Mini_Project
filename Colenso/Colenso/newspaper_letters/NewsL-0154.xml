@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0154">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1890 The Rev. W. Colenso on football. Hawke’s Bay Herald 12 June.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1890-06-12">1890 June 12</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1890 The Rev. W. Colenso on football.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 12 June. </hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—In your paper of this morning you give your readers certain items of information received from your “Own Correspondent” at Woodville; closing with his statement, that “the Rev. W. Colenso, preaching at Trinity Church last evening, was very severe upon the athletic young man, especially the footballor,” &amp;c., &amp;c. Now, had your correspondent given the whole of what I said, or even only a little more than he has done, it would save my writing to you.</p>
+         <p>I did say what he has stated, and more to the same effect; but on these grounds and with these (and other) provisoes.</p>
+         <p>And to show you more clearly how it came about, I should first tell you what my text was, being the ground of my discourse: viz. “My joy shall be in the Lord.” Ps. 104, (The second Lesson, appointed, being also the appropriate last chapter of Joshua—in which Joshua, in his last words to his people, told them, that “he and his house would serve the Lord.”)</p>
+         <p>Having shown from this and other similar texts, something of the reality, the <hi rend="italic">joy</hi>, of true religion in the Jewish Church, from the O.T, as well as in that of the primitive Christian in the N.T., (by many ample proofs of <hi rend="italic">joy</hi> end rejoicing,)—and contrasting that with the slack, faint-hearted, outward joyless services of the Christian Church of this day;—and, moreover, calling the attention of my congregation to what Moses had said on this very subject, in his parting solemn words to the children of Israel,—<hi rend="italic">viz.</hi>: “All these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed,.... because thou servedst not the Lord thy God with joyfulness and with gladness of heart, for the abundance of all things.” (<hi rend="italic">Deut</hi>. 28, 47.) I pointed out the various sources of human <hi rend="italic">joy</hi> among us; from that of A.1,—<hi rend="italic">viz</hi>., a man and his wife living happily together and with their children attending regularly at church, (again exemplifying,—that “the voice of joy and health is in the dwelling of the righteous;”)—down, by a pretty gradual succession, to the lowest grade of animal human <hi rend="italic">joy</hi>, that of the athlete and the footballer. Bringing forward the many recent examples I had seen and known, at Woodville and elsewhere, when, on Saturday afternoons in particular, young men would wear themselves out till sundown—even in pouring rain and dressed up in thick coats of frieze! returning faint and weary and worn out, dragging their legs pitiably along the roads!! And then, on their being subsequently asked, “Why they were not at any church on the Sunday?” the reply would be, “Because they were too tired, quite done up, through their severe football exercise on the Saturday afternoons.” All such I denounced as wrong, (though no strict Sabbatarian,)—adding that all low animal and brutalising games so followed up and made their chief <hi rend="italic">joy</hi>, invariably drew away men from all intellectuality, all science, all games of mind and skill (as chess), all real knowledge, and all true religion. And further, (from recent statements made by eminent English physicians,) that no boisterous brutal athletes, (footballers and pugilists in particular,) have been known to live beyond the age of 40; and this, without taking into account the great number of deaths, and many serious casualties, we almost daily read of in the papers as happening, through these rough lowering brutalising games.</p>
+         <p>Further, that I liked fitting athletic exercises kept within their proper bounds, and not made a “craze” of.—<hi rend="italic">viz</hi>., their great aim and chief <hi rend="italic">joy</hi> of their hearts. And that such games as football were fitted only for school-boys, or for Maori men as they were 50 years ago: that, with Paul, I believed it to be far better on becoming a man, to put away childish things, &amp;c., &amp;c.—Yours, &amp;c.,</p>
+         <p>
+                  <hi rend="smallcaps">William Colenso</hi>.</p>
+         <p>Dannevirke, June 10, 1890.</p>
+      </body>
+   </text>
+</TEI>

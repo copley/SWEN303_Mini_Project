@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrL-1099">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Year? June 16: To McLean</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1022872</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>Encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="--06-16">June 16</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>Year? June 16 Colenso to McLean  (#1022872) </p>
+		</front>
+		<body>
+			<p>Napier, June 16</p>
+			<p>Dear Sir </p>
+			<p>I am very greatly obliged to you for your so very kindly thinking of me—as per your note of this morning. The natives who are largely indebted to me— are all on this side of the harbour, extending to W. Coast &amp; Wairarapa (although P. Torohoro, &amp; P. Kaiwhata also, each owe me small sums)— </p>
+			<p>I am yours truly</p>
+			<p> Wm. Colenso. </p>
+		</body>
+	</text>
+</TEI>

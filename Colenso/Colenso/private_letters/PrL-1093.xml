@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1093">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1891 March 20 to the Colonial Secretary</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Archives New Zealand</p> 
+         <p>Transcription by Ian St George</p>
+            <p>encoded into TEI by Melissa Bryant, 23.10.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1891-03-20">1891 March 20</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/72720/">the Colonial Secretary</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1891 March 20 to the Colonial Secretary (National Archives ***)
+         </p>
+      </front>
+      <body>
+      <p>Dannevirke,</p>
+<p>March 20th., 1891.</p>
+<p>Sir</p>
+<p>I have the honour to beg your kind attention to the following.—</p>
+<p>On the publication of the late John White’s “History of the Maories,” I obtained copies of the first two volumes, and I have been long waiting to see in the Government Gazette (Kahiti) the announcement of the succeeding volumes of that work.—</p>
+<p>Lately, however, I have incidentally learned, that while three or four additional volumes of it have been published, these are kept  back from public sale by the Government: and, supposing this to be true, I now write to you, Sir, to grant me a copy of each volume of the said work including volume 3 onwards,—for which I shall be also prepared to pay their full price if required.—</p>
+<p>I have the honour to be,</p>
+<p>Sir,</p>
+<p>Yr. mo. ob. servt.,</p>
+<p>W. Colenso</p>
+<p>The Hon.</p>
+<p>The Colonial Secretary</p>
+<p>Wellington.
+</p>
+</body>
+   </text>
+</TEI>

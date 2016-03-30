@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0555">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1884 January 16: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1884-01-16">1884 January 16</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1884 January 16: to Balfour<note xml:id="ftn3-221" place="foot" n="221"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Wednesday night <lb/>Jan 16<hi rend="sup">th</hi> 1884</p>
+         <p>Mr D.P. Balfour</p>
+         <p>My dear Sir</p>
+         <p>I returned late this evening from our Council meeting—and <hi rend="italic">my last</hi>. All the way back I have been thinking on Macbeths Expression— “I have done the deed!”. I cannot write to you of half I should like to say to you, if here; but I must write a few lines—to go (tomorrow mg) to post and to reach you with a London paper, &amp; a book packet, I had put up for you this morning &amp; sent off. In the L.P. you will, I think, find much of interest, Dr Sp only returned it two days back, &amp; in the B packet, a “<hi rend="italic">Kereopa</hi>” for yourself, &amp; a <hi rend="italic">double</hi> supply of all those 3 Tracts for your pub Library; (as you said both copies sent, were <hi rend="italic">out</hi>, &amp;c,)—and please note, that <hi rend="italic">now</hi> you are in possession of <hi rend="italic">those three papers</hi> of mine, which have been the means of <hi rend="italic">my displeasing</hi> the 3 Noble Estates, of Kirk, State, Science, (the Wellington &amp; Southern Scientists), &amp; yet I still dare to believe, that I have only told the <hi rend="italic">truth</hi>!. Time will show.</p>
+         <p>Last week I sent you Higinbothams Lecture, hope it reached you. I had sent to Melbourne for a few copies.</p>
+         <p>I have received an excellent note of thanks, &amp;c, &amp;c, from Sir G. Grey, for the copy of the <hi rend="italic">pamphlet</hi> I had sent him. He very highly approved of it, and has subscribed for six copies of the Ruahine Papers. Your long &amp; most welcome letter of Jan 5<hi rend="sup">th</hi> I duly received, &amp; thank you for it. I hope you may <hi rend="italic">get</hi> your money applied for from Welling­ton. I agree with you in sending to E for books. I have lots of book sellers catalogues here, &amp; could lend you 50—if needed. We have la­tely been going over a lot (though while I say we, the <hi rend="italic">heavy</hi> portion fell on W.C. of <hi rend="italic">course</hi>!) and by next mail I send for £50 worth. Am glad you got through so well with your <hi rend="italic">heavy</hi> shearing,—if you are not in a sheltered situation you must have felt the <hi rend="italic">wind yesterday</hi>; the long &amp; heavy rain of last night did <hi rend="italic">much</hi> good. I received the torn Australian Paper you sent me, <hi rend="italic">re</hi> the spider, and from the description—it must be identical with ours. <hi rend="italic">More anon.</hi> I gave in my <hi rend="italic">official notice</hi> in <hi rend="italic">writing</hi> today; it was read &amp; received with no <hi rend="italic">remark</hi>. I scarcely expected that,—but I <hi rend="italic">had</hi> heard of my (pro­posed) successor a fortnight back!. Our Annual General meeting is on Monday 4<hi rend="sup">th</hi> Feb, at 2pm, hope there may be a good attendance of members—that they may hear from me, the <hi rend="italic">reasons</hi>, &amp;c. I scarcely need to tell you (who <hi rend="italic">know</hi> well how I have always acted <hi rend="italic">for</hi> the Society)—that I have <hi rend="italic">felt </hi>(&amp; <hi rend="italic">still feel</hi>) it much.<note xml:id="ftn3-222" place="foot" n="222"> Colenso was probably referring to Hector’s rejection of his Ruahine reminiscences, published in 1884 as <hi rend="italic">In Memoriam</hi>; some Hawke’s Bay members supported Hector against Colenso.</note>
+         </p>
+         <p>Please excuse; I am tired, &amp;c—a <hi rend="italic">long</hi> Cl meeting this afternoon. With kind regards to <hi rend="italic">all</hi>
+         </p>
+         <p>Bel. me Yours truly</p>
+         <p>W. Colenso</p>
+         <p>P.S. Lift carefully, with a ball of earth,your Nikau in April or so, &amp; do not plant it too deep.</p>
+      </body>
+   </text>
+</TEI>

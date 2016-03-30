@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0088">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: Extract of a letter from the Bishop of New Zealand.</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Hocken Library Ms Vol 63; ATL qMS 0491. p.295.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+      </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1850-07-15">1850 July 15</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>Extract of a letter from the Bishop of New Zealand.<note xml:id="ftn1-127" place="foot" n="127">Hocken Library Ms Vol 63; ATL qMS 0491. p.295.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="center">———————————————</p>
+         <p rend="end">St. John’s College,</p>
+         <p rend="end">15 July 1850.</p>
+         <p>William Colenso</p>
+         <p>Ch. Miss. Station,</p>
+         <p>H. Bay.</p>
+         <p>My dear Mr. Colenso,</p>
+         <p>Your Letter of 23 February was more than 3 months on the road: and when I received it, it was too late to take any steps to assist you in the very unpleasant affair which your letter relates. I can only hope that it has pleased <hi rend="smallcaps">God</hi> to appease the tumult, and to bring back your people into their right mind. You will have received, I do not doubt, the advice &amp; assistance of your Archdeacon, who is better able than I am to understand the cause of Native feeling which led to the outbreak. The occurrence is so unusual, I may say, so unexampled in the whole history of the Mission, that I am quite at a loss to account for it, especially as I have not heard any thing of it from Archdeacon Williams. You may perhaps find an opportunity of telling Renata &amp; Katene, that this is not what I expected from them, and that if I thought that my Scholars would often act in this manner, I should break up the School tomorrow.”—</p>
+         <p rend="center">x x x x x x x x x x x x x x x x x x x x x x x x x x</p>
+         <p>“ I remain,</p>
+         <p>                       “ Your affectionate Friend &amp;</p>
+         <p>                                        Father in Christ,”</p>
+         <p>                               (Signed) G.A. N.Zealand</p>
+      </body>
+  </text>
+</TEI>

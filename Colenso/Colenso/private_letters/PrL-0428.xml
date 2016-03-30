@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0428">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1880 October 28: to Russell</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-Micro-Copy-485-1.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/72672/">Russell</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1880-10-28">1880 October 28</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1880 October 28: to Russell<note xml:id="ftn3-60" place="foot" n="60"> ATL Ms-Micro-Copy-485-1.</note>
+         </p>
+      </front>
+      <body>
+         <p>Norsewood, Octr. 28/80</p>
+         <p>My dr. Capt. Russell</p>
+         <p>Don’t start at seeing a note from me from <hi rend="italic">this place</hi>! I came here last week, intending to spend a few days enjoying the spring beauties of the grand old forests,but the weather has been greatly against me,—rain, almost every day; and heavily too! not to mentn. pretty severe Rheumatism! Being for a time shut up I have thought that I would write you a few lines. Next wk. early I hope to retn. to Napier, when I know I must be busy.—</p>
+         <p>On leaving N. Mr. Ormond &amp; myself occupied the same carriage, &amp; being alone we conversed: and among othet things <hi rend="italic">re</hi> the Mao. Lexicon:—</p>
+         <p>I may say, that, for some time before this, I had been again thinking over that matter, and had intended to mention it both to you &amp; to Mr. O.—And, in a few words, it was just this, <hi rend="italic">viz.</hi> Whether you and Mr. O. approved of your writing a letter (or 2 sep. ones) to Mr. Bryce, asking him, <hi rend="italic">once more</hi>, now that the great hustle  &amp; business of their Ptg. Off. is over,—if he would get the runn. of these few other pages printed (specially promised, too, by his predecessor in Office,)—if he will do so,<hi rend="italic">good</hi>; such will save me the trouble of re-copying <hi rend="italic">the same</hi> for press here, also the expense; (for printed they shall be;) if <hi rend="italic">not</hi>, why then I know the worst, and shall proceed to get them printed. Of course Mr. B. must, hereafter, in my doing so, be prepared to bear the responsibility—<hi rend="italic">when that time comes</hi>, which I fully believe in. As I view it (&amp; also not a few of my friends (in &amp; out of N.Z.) who have both written to me, &amp; published their opinions)—it is more needful than ever, that, at least, <hi rend="italic">those spn. pages </hi>should be printed—<hi rend="italic">wholly</hi> and that <hi rend="italic">soon</hi>; because what Mr. B. did get printed was only just enough to get me soundly laughed at <hi rend="italic">by the many</hi>! all which, additional! I have borne.—</p>
+         <p>Well: I may say, that Mr. O. quite agreed w. me, adding that on his return from Wallingford he would see you about it. And this he <hi rend="italic">may have done</hi>, &amp; if so, all right, but if <hi rend="italic">not</hi>, then you can (if you please) begin the matter w. him.—</p>
+         <p>Hoping you are well, &amp; w. kind regards, I am</p>
+         <p>My dr Sir, Yours truly<lb/>                  WC.</p>
+      </body>
+   </text>
+</TEI>

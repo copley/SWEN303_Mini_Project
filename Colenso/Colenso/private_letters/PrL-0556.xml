@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0556">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1884 February 15: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS Copy Micro 485 Reel 4. Letter addressed to A. Luff Esq., Post Office, Wellington.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1884-02-15">1884 February 15</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1884 February 15: to Luff<note xml:id="ftn3-223" place="foot" n="223"> ATL MS Copy Micro 485 Reel 4. Letter addressed to A. Luff Esq., Post Office, Wellington.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier. Feby. 15th., 1884</p>
+         <p>A. Luff Esq.,<lb/>  Wellington.</p>
+         <p>My Dear Sir,—To make sure of not delaying, I think I had better acknowledge receipt of your kind &amp; long letter of the 8<hi rend="sup">th</hi>. inst., this afternoon.</p>
+         <p>I returned from the “Bush” on Tuesday evening last (12<hi rend="sup">th</hi>.) &amp; found your letter w. others awaiting me:—I had been up there just a week, w. my usual luck! of days of rain,—but I had gained the 2 plants I had previously marked in flower, &amp;c., &amp; so I was rewarded &amp; pleased. I had gone thither on the Wednesday mg. (6<hi rend="sup">th</hi>.) as soon after our Annual Meeting as I could get away—posting to you a “D.T.” containing some account of it before I left.—I wished R.P. had given more about the meeting, &amp; less of Dr. H. &amp; myself.<note xml:id="ftn3-224" place="foot" n="224">
+               <hi rend="italic">Daily Telegraph</hi> 5 February 1884: “Mr Colenso read the correspondence that had passed between himself and Dr Hector, which apparently showed that the Society suffered through the neglect of the latter, due, it was thought, to the absence of any cordial feeling between the two gentlemen.”</note> To tell you all—or, at least, the principal parts of it,—first, during the whole past 6–8 months,—second, of our Council meetings &amp; of my strivings w. them,—third, of the various schemes in secret,—&amp; fourth, of our (½ rowdy) meeting would take up sheets of paper &amp; much writing. Dr. H’s. name has been made to appear too prominently—the real fault lying w. our (late) Council, who would not agree to have a <hi rend="italic">similar</hi> bye-law w. those of Auckd. &amp; Wgn. (This, however, I carried swimmingly at the A. Mg. despite Weber &amp; Holder who were nowhere—though most strenuously opposing! and whose amendments (only supported by themselves) were rejected.) Had the Cl. but listened to me, I should not have resigned: but I had had <hi rend="italic">hard uphill</hi> work w. &amp; through them all last year. With you, however, &amp; <hi rend="italic">very</hi>
+            <hi rend="italic">many</hi> other of our members, I fear, they will have made a mess of it! &amp; so they will surely find.—However, I am now <hi rend="italic">free</hi>: I served the Socy. zealously from the beginning (’74), at no small cost of time &amp; money—for my heart was in the work: &amp; when I dropped it I <hi rend="underline italic">felt it keenly</hi>: but enough.—</p>
+         <p>On <hi rend="italic">first</hi> reading your letter I was surprised &amp; could not understand your reference to Dr. H. &amp; the Society &amp; myself: for I had confused your word “<hi rend="italic">telm</hi>.” into “(D.)T.”—which I had recently sent you—but as it could not have left here until the 6<hi rend="sup">th</hi>., I could not understand how you got it so early: but I afterwards saw in the “N.Z. Mail” that a telegram had been sent to Wgn. from N.—and, I suppose, by my <hi rend="italic">old foe</hi> Walker. I don’t know if you still take in the “Herald”. If so (or if you have seen a copy of that of the 6<hi rend="sup ">th</hi>. inst.) you will have again seen one of W’s. <hi rend="italic">low</hi> skits—that shows the animus of the man!<note xml:id="ftn3-225" place="foot" n="225"> Richard Thomas Walker, editor of the <hi rend="italic">Hawke’s Bay Herald</hi>, to whom Colenso attributed the satirical series of  “The Knife Grinders’ Society”.</note> I did think—since my return—of writing about his telm. to Wgn., &amp; showing the real state of the thing, but I have not time—to waste.</p>
+         <p>One or two good bits of news I notice in your letter—your being <hi rend="italic">all well</hi>, &amp; your having had Gooseberries, &amp;c., in your garden. I have <hi rend="italic">not</hi> had <hi rend="italic">one</hi>: <hi rend="italic">neither</hi> cherries! &amp; only a few figs, gathered before being ripe. You kindly congrat. me on winning the Compens. case (I knew <hi rend="italic">you</hi> would), but I have <hi rend="italic">not</hi> got the money! The (mean) Govt. have informed my lawyer, that the said sum has been by them pd. into the hands of the Pub. Trustee, and we must <hi rend="italic">prove</hi> our legal title to it before Ct. of Appeal at Wgn.!!!—which, after some considn., I have determined to do (in April I think).—All that arises from my relying on (fat) Capt. Bower, our T.C., who, in his <hi rend="italic">last</hi> letter to me in ’82, told me, the matter between the Govt. &amp; municipal govt. here respecting that street was not settled, &amp; that “when it was I should have a definite reply”. That “d. reply” never came, &amp; when in Court in March ’83, on Robjohn’s case, I saw the Govt. plans &amp; heard what their Officers said about that street, I knew that it was <hi rend="italic">fixed</hi>,<hi rend="italic"> </hi>&amp; so I immy. sent in my claim,—but they wish to make it appear, <hi rend="italic">not </hi>
+            <hi rend="underline italic">within</hi> the 1 year allowed by law, (of course a mere quibble as against the <hi rend="italic">equity</hi> of the case already given <hi rend="italic">largely</hi> in my favour both by <hi rend="italic">their</hi>
+            <hi rend="italic">own</hi> Assessor (sent up purposely) &amp; by the Chief Justice—after much Court talk from lawyers) &amp; long consideration. As it now is, even if I <hi rend="italic">gain</hi> the case (a 2<hi rend="sup">nd</hi>. time) at Wgn., I fear the oyster will be swallowed up! leaving me the shells! and if I <hi rend="italic">lose</hi>—well—I hope to be able to bear it: perhaps to Petition Parliament.</p>
+         <p>I hope when your case comes on you may <hi rend="italic">do better</hi>: but, as you say, even if we lose we know we are right <hi rend="italic">in equity</hi>:—and <hi rend="italic">that knowledge</hi> will serve to sustain us.—</p>
+         <p>Grubb has been laid up! he must e’en go to Omahu Maori Races &amp; <hi rend="italic">Haka </hi>(!!), &amp; that too <hi rend="italic">not </hi>on a holiday: &amp; there he put his foot into a hole in the thick grass &amp; sprained his ancle badly: he was laid up several days, but he is now at O. &amp; getting round, though I have not seen him for a fortnight—not having been down to the town since my return. He got teased enough about it—viz., “through his learning to dance the <hi rend="italic">M. Haka</hi>.” which he said he went to see!!!</p>
+         <p>There has been a demand, N. &amp; S., for those “3 Lity. Papers”,—a dozen from Craig goes to Lyon &amp; B. tomorrow, and several subscribers for the “Ruahine” ones,—which, I suppose, will now be printed. Among other letters I have recd., I have an excellent one from Sir G. Grey, who says, he had read them carefully &amp; was greatly interested, considers them very val., of service, &amp;c., &amp;c.—&amp; subscribes for 6 copies “<hi rend="italic">Ruahine</hi>”. A letter from Sir G. was wholly unexpected: this, to me, is worth 1000 times more than anything pro or con of such persons as Travers, Stack, &amp; Co.—</p>
+         <p>I have no time, nor room, for anything political: you will see Smith’s speech at Waipawa—in much of it I go w. him. (I almost fancy the <hi rend="italic">Herald</hi> is fee’d for writing against him: <hi rend="italic">you</hi> &amp; I know this Paper of old!) I sincerely hope we shall not have to suffer any more taxation.—</p>
+         <p>I purpose going inland again for 2–3 weeks this autumn, &amp; (if the weather permits) as far as Woodville—perhaps in April.</p>
+         <p>Thanks for your son’s 2 pretty specimens: 1, a moss: &amp; 1, a Hepatica, probably a species of <hi rend="italic">Marchantia</hi>. I hope during this year to take up more fully the study of these plants—by this last Eng. Mail hence I wrote to England for 2 works to enable me <hi rend="italic">the better</hi> to do so, both German, one, ₤10. &amp; one ₤13. These are absolutely requisite for this work. I have <hi rend="italic">several</hi> high priced Books already on the Cryptogams, but I need more: and <hi rend="italic">now </hi>that I shall (at last) have some <hi rend="italic">spare </hi>time, I hope to use it pleasingly. I have <hi rend="italic">long </hi>wished to have those 2 works, but their <hi rend="italic">high </hi>prices deterred me: I could <hi rend="italic">not</hi>, however, say, w. the Fox— “They are sour!” Don’t <hi rend="italic">you</hi> blame me—for I have but inexpensive pleasures.—If I can carry out my plan (above) and get on at school, or study, I shall be glad to name your son’s Mosses, &amp;c. Please remember me very kindly to him.</p>
+         <p>The blight birds<note xml:id="ftn3-226" place="foot" n="226"> Wax-eyes.</note> steal the figs &amp; then (through thirst, we suppose) drown themselves in the horse-tub: 42 one time; 14 another; 36 another.</p>
+         <p>You will have heard of the Fire here in Town: &amp; of the dreadful murders at Ormondville! I was up in that neighbourhood at the time, &amp; I <hi rend="italic">wished</hi> the fellow had <hi rend="italic">finished</hi> his work w. himself. The mother &amp; children were much liked there &amp; spoken well of.<note xml:id="ftn3-227" place="foot" n="227"> The <hi rend="italic">Herald</hi> reported (12 February 1884) on the murders of his wife and three children by Roland Edwards, who was plainly psychotic. Nonetheless he was tried and hanged. Colenso later wrote to JD Hooker (12 July 1884), “I have also during the last 3 weeks, been daily visiting a poor fellow in condemned cell <hi rend="underline">here</hi> for murder (wife &amp; 3 children!) he is to die on 15th – a sad case in every respect.”</note>
+         </p>
+         <p>As a rule, I do not take shares in Co’s., but I did in “the N. Invest. Co.”, &amp; am better pleased w. the Bank Int. (6%) then a higher (say 7½) <hi rend="underline italic">and</hi> the bother of mortgages—owing to the prevailing dishonest—or, it may be, careless—principles of men. It needs a <hi rend="italic">sharp</hi> one to deal w. this gen., &amp; I am <hi rend="italic">not sharp </hi>in money matters.</p>
+         <p>Well, my dear Sir &amp; <hi rend="italic">old</hi> acquaintance, once more good bye. I <hi rend="italic">heartily</hi> wish you &amp; yours <hi rend="italic">well. </hi>Write when you can &amp; sometimes send a paper.</p>
+         <p>Believe me to be,</p>
+         <p>Yours faithfully,</p>
+         <p>Wm. Colenso.</p>
+         <p>P.S. Tylee is very ill: Oliver (Puketapu) is dead and Fielder has been very ill. W.C.</p>
+      </body>
+   </text>
+</TEI>

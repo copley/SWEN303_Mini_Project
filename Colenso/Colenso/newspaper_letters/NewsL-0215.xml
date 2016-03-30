@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0215">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Daily Telegraph 11 February 1899</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <date when="1899-02-11">1899 February 11</date>
+          <publisher>
+            <name type="organisation">Daily Telegraph</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold italic">Daily Telegraph 11 February 1899</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+        <hi rend="bold">Ode on the death of </hi>
+        <hi rend="bold">William Colenso</hi>
+        <hi rend="bold">. </hi>
+      </p>
+      <p>Proud Ocean, circling round New Zealand’s Isle, <lb/>  Mourn in loud murmurs on thy sea-girt strand! <lb/>Ye stars of Heaven, that o’er her gently smile <lb/>  ’Mid the dark hours of midnight, guard thy land! <lb/>For lo! our teacher and our friend lies sleeping, <lb/>While round his bier a myriad eyes are weeping. <lb/>Ye distant mountains, cloud-wrapt, cold and bleak, <lb/>  Whose rugged heights by man have ne’er been scaled,<lb/>Echo a mourning nation’s loss from peak to peak, <lb/>  As in full years a prophet dies bewailed. <lb/>   And Death! who spares nor age, nor power, nor worth, <lb/>  Claims him her own, and calls him from the earth.</p>
+      <p>Wake! long neglected lyre, in measured tones <lb/>  Breathe music to the wind, all soft and sweet, <lb/>As in its onward march it wildly moans, <lb/>  Or softly whispers hope and peace complete.<lb/>  Then shall our hearts be soothed, and ’mid the gloom, <lb/>  Shall dream of rest, and life beyond the tomb.</p>
+      <p rend="end">
+        <hi rend="smallcaps">Penlyria</hi>
+      </p>
+      <p>Repo Kite,<lb/>Napier, February 11th, 1899.<lb/>
+      </p>
+    </body>
+  </text>
+</TEI>

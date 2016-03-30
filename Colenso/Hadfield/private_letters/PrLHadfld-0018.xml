@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0018">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1838 December 11: Octavius to Octavia Hadfield</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 32)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 23.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1838-12-11">1838 December 11</date>
+                  <name type="place">Place</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key=" http://wtap.vuw.ac.nz/eats/entity/70767/">Octavia Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1838 December 11: Octavius to Octavia Hadfield
+         </p>
+      </front>
+      <body>
+      <p>Sydney,</p>
+      <p>Dec. 11th. 1838</p>
+      <p>My dear Octavia,</p>
+      <p>Your letter of the 9th. of May is the only one I have received since I left England.  I have written two since I received it, one to Amelia and one to George.  Tho' I wrote to George on November 30 having been delayed here again I write again as I may not have an opportunity of enjoying that pleasure for some time.  I must write you a hurried letter as I purpose sailing tomorrow morn in <hi rend="underline">H.M.S. "Pelorus"</hi>, and have not much time.  I feel quite delighted that the Bishop is going on to New Zealand.  The mission there is by no means I fear in a healthy condition.  His presence there will I trust be very useful.  I mentioned in my last letter that I had been detained since my ordination by dysentery from which I have quite recovered.  The Bishop had also detained me again, kindly wishing me to accompany him.  I like him much.  He is a man of great learning and wisdom.  His preaching does not quite satisfy me but I have heard some good sermons from him.  He purposes ordaining me as  priest at N.Z.  It is rather soon.  I feel the importance of the office but as the Bishop proposed it I think I can and ought to comply.  I feel comfortable in going to N.Z. (tho' I fear the mission has been much over rated and that there are many things there that I shall not like) since I am expressly ordained and sent there by the Bishop who alone <hi rend="underline">at present</hi> I conceive is the proper person to do so.  I think I may consider myself according to our Art. Lawfully called and <hi rend="underline">sent</hi>.  I much question the <hi rend="underline">authority</hi> of the C.M.S. Committee to send missionaries.  I look on them as <hi rend="underline">Patrons of benefices</hi> who nominate, but that a missionary required to be appointed by a <hi rend="underline">Bishop</hi>.  I was first amazed when at Salisbury Square by seeing two <hi rend="underline">ministers of Christ</hi> (when I left England) dismissed by the Commitee, <hi rend="underline">a layman being in the chair</hi>!!  I now go on with as full intention of continuing in N.Z. as ever I did.  Nevertheless, if I find the disorder there as great as is represented I fear I shall not continue.  The difficulties arising from missionary work would <supplied>[not]</supplied> I trust cause me to desist.  But if as I am led to believe is the case, every impediment is thrown in the way of every man of the slightest education and respectability, and none but half-dissenters, and those who will buy land, keep sheep and encourage the accumulation of wealth etc. are welcomed, I am afraid I shall not be very acceptable to them.  But I have hope that I shall find many statements false.  The Bishop is not satisfied with the clergy sent out by the "propogation" society.  He likes Bobart and Taylor (who is going out shortly to N.Z.) and I have been told that he would like me to remain here.  I have been preaching here once or twice every sunday since I have been well, in the two largest churches in the colony, and tho' the thermometer is about 80&#176; I do not feel fatigued by it.  They tell me I make myself heard better than any one here.  Of course I think little about the opinions of people in general, but people have already begun to talk about my preaching and to remark a difference on such subjects as the necessity of the everlasting Covenant, the completeness of the salvation that is in Christ etc. many have tried to persuade me to remain here but my duty seems to call me as much to N.Z. as ever.  Difficulties do not seem to discourage me yet.  I can say with Paul "none of these things move me, neither count I my life dear unto myself, so that I may finish my course with joy, and the ministry, that I have received of the Lord Jesus, to testify the gospel of the grace of God."  A boy of the name of Jones has just been with me to take leave of me.  He talks of going to N.Z. to see me next year.  He is a fine fellow, and proposes going to England soon to read at Cambridge.  If you should see him, for I have told him to go to see you, you must be kind to him.  </p>
+      <p> I expect to find more letters from you when I get to N.Z. which I expect will be in 10 days as the <hi rend="underline">Pelorus</hi> sails very fast.  I do not expect to suffer much from sea-sickness as the weather is warm and I shall be able to stay in the open air.  I trust you are all going on well.  However, I have this consolation, that the Lord will dispose of you all according to His will and at that I ought to rejoice.  I have written you a hurried letter but in ase the last I wrote did not reach you, you will, I trust be glad to hear.  I trust you will all write to me frequently.  Direct Waimate, N.Z. via Sydney.  Give my kindest love to my father and mother and all my brothers and sisters, and remember me kindly to all my friends.  </p>
+      <p>Believe me, My dear Octavia</p>
+      <p>Ever your affectionate brother      
+      </p>
+      <p>Octavius Hadfield.</p>
+      <p>Enclosure</p>
+      <p>Amelia Hadfield to Octavia Hadfied.</p>
+      <p>Dearest Octavia,</p>
+      <p>I could not resist the temptation of opening this letter which I trust you will forgive.  I hasten to send it to you.  We will write - perhaps tomorrow - as I am going to write to Mrs. <!--blank--> so adieu for the present, with Love from All to All.   A.J.H.</p>
+      </body>
+   </text>
+</TEI>

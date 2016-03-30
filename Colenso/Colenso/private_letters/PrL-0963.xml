@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0963">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1896 May 6: to William Colenso</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-papers-10535-1.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1896-05-06">1896 May 6</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1896 May 6: to William Colenso<note xml:id="ftn3-781" place="foot" n="781"> ATL Ms-papers-10535-1.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, New Zealand<lb/>May 6<hi rend="sup ">th</hi>., 1896.</p>
+         <p>My dear Nephew William</p>
+         <p>At Last! I am going to answer your kind (yet short) note of 12<hi rend="sup ">th</hi>. Septr./95: this is not, however, exactly an answer to <hi rend="italic">that</hi>, (as that was an ansr. to mine,) but, as it were, a new beginning. One reason I may mention why I have not written before, is, that I never received from you any acknowledgement of the seeds I had sent you—for your friend at Larrigan: another is, that I am getting <hi rend="italic">tired </hi>of writing Home—to Penzance in particular, getting nothing good in reply—to use an old Cornish saying— “More kicks than coppers”; and this, too, from <hi rend="italic">those </hi>I have done most for!!! There is much in this note of yours that pleases me: (1) Your <hi rend="italic">kind </hi>remarks on poor Ellen: (2) your being pleased with my paper on the Greenstone: (3.) also, <hi rend="italic">your </hi>approval of my having remembered the poor of <hi rend="italic">our </hi>Native town: (4) your disapproval (<hi rend="italic">dislike</hi>) of the follies &amp; mummeries of the extreme High Ch. &amp; Ritualist party—in <hi rend="italic">which I most heartily go with you</hi>, and<hi rend="italic"> use</hi> every <hi rend="italic">opportunity, in Ch. &amp; out of Ch., of letting them know—the </hi>
+            <hi rend="underline italic">Truth</hi>
+            <hi rend="italic">.</hi>
+         </p>
+         <p>And now for a bit of information that will please you:—you asked for a slab of Greenstone for the R.C.G. Museum at Penzance—well: <hi rend="italic">one is now on its way</hi>! I had from the beginning set aside 2, one (as above), and one for my son Latimer; but always put off the packing &amp; sending them <hi rend="italic">until</hi> I should also have my lot of dried plants, &amp; N.Z. made dress &amp; floor mats, &amp; baskets, <hi rend="italic">ready </hi>to send to Kew; (These, also, promised, 2–3 years ago.) A few days back my son Latimer (whom you may remember seeing at Penz.) suddenly arrived <hi rend="italic">here </hi>at Napier from England, and, after remaining a few days, left me last wk. for Wellington on his way back to England (<hi rend="italic">he was to leave Wgn. this day</hi>) I gave him the slab intended for him, &amp; <hi rend="italic">we packed w. it the one for Penz. which he will forward to </hi>
+            <hi rend="underline italic">you</hi>. I gave him your address. You can present it, in <hi rend="italic">our joint </hi>names (yours &amp; mine), and let a good label be attached, printed or well written perhaps on parchment,—stating, that its history (modern) will be found in vol. XXVII, “Transactions N.Z. Institute,” page 598. These 2 slabs are both alike as to size, &amp;c., &amp; both polished on one side only—that work being <hi rend="italic">dear </hi>out here: I believe they will still take a <hi rend="italic">higher </hi>polish. As Latimer returns by way of Sydney, he will not get back very early to England.</p>
+         <p>I have other Penz. letters to answer—one, Rd., &amp; one, Preby. Hgld. The Preby. has written to me, for a sunsn. towards Penz. Library, but I can scarcely afford any just now. I note, w. approval, your being in the Bor. C., &amp; always like to see <hi rend="italic">your name</hi> among them, though I merely <hi rend="italic">glance </hi>over the Penz. papers: giving them away to <hi rend="italic">Cornishmen</hi>.</p>
+         <p>I hope this may find you &amp; yours quite well: I am pretty well—with plenty <hi rend="italic">to do</hi>—I <hi rend="underline italic">love work</hi>. Kind love to you all.—</p>
+         <p>           Believe me your affectionate Uncle.</p>
+         <p>                                                                   W. Colenso.</p>
+         <p>P.S. Vol XXVII, was sent by me to the Penzance Library</p>
+      </body>
+   </text>
+</TEI>

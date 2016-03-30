@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0020">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1840 November 3: to Shortland</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Papers-0675. From typed copy. Colenso’s draft at ATL 80-038-09</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71518/">Shortland</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1840-11-03">1840 November 3</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1840 November 3: to Shortland<note xml:id="ftn1-21" place="foot" n="21"> ATL MS-Papers-0675. From typed copy. Colenso’s draft at ATL 80-038-09</note>
+         </p>
+      </front>
+      <body>
+         <p>Copy of Letter to Wy. Shortland Esqr. on age of Native Boy—Novr.3/40</p>
+         <p>My dr Sir</p>
+         <p>I have been given to understand that a little native lad of mine, named <hi rend="italic">Raru</hi>, (who was confided to my care by his parents when at Poverty Bay 3 yrs ago, and who Native like has absented himself from me for these 3 or 4 days past) has, without my knowledge been out in yr. Boat to day.—I am of course, certain, that his being my lad was not known to you—and, should be obliged, if he presents himself tomorrow, in your not allowing him to enter your Boat.—I would, my dr Sir, most cheerfully assist you with hands to man yr. Boat, were I situated as I formerly was with respect to Natives—but, <hi rend="italic">o tempora o mores</hi>, my whole estab. incldg. the little fellow, only consists of 2!—so you may guess I have several things to do which I wod. rather I cod. have done for me.—</p>
+         <p>I am under engagt. to the Chief of P. Bay to return the lad this Summer; were I not I would gladly part with him, for tho I have taught him to read &amp; write, &amp;c, he, unlike his relatives, whom I retd. a few months since, has behaved very badly to me.—</p>
+         <p>Pray excuse my troubling, &amp;c<lb/>Believe me Very faithfully yours</p>
+      </body>
+  </text>
+</TEI>

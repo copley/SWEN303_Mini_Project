@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0849">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1892 November 2: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1892-11-02">1892 November 2</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1892 November 2: to Harding<note xml:id="ftn3-621" place="foot" n="621"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke, Novr. 2/92:<lb/>IX p.m.</p>
+         <p>Dear Mr. Harding</p>
+         <p>Having got rid of my usual heavy <hi rend="italic">monthly </hi>job—<hi rend="italic">i.e. </hi>Eng. Mail—I feel inclined to <hi rend="italic">talk </hi>w. you tonight! would that I could realise it!! However, as that cannot be, &amp; I have recently recd. so many good things (tit-bits!) from you—I must e’en <hi rend="italic">write</hi>.—</p>
+         <p>On Saturday (29<hi rend="sup ">th</hi>) as I was leaving for Wdv. your packet came to hand, containing 2 copies Septr. “Typo,” Shortland’s Book, &amp; <hi rend="italic">your Ms.</hi>—of course I was obliged to go S. and leave them: on my return, on My., I found above further augmented w. a copy of “Ptg. World”: and this aftn. I have gone over this last with much pleasure, &amp; astonishment, at the <hi rend="italic">many </hi>wonderful machines &amp; inventions in <hi rend="italic">our craft</hi>; some (as the Linotype Composing Machine!) being far <hi rend="italic">beyond</hi> my comprehension.—–Many things in this work pleased me, but especially the memoir of <hi rend="italic">yourself</hi> with a <hi rend="italic">characteristic </hi>portrait—you alone! but why the face should have been semi-smutty (esp. when compared w. the <hi rend="italic">clean </hi>one of Nicholl, directly opposite) I can not understand. <hi rend="italic">I thank you for this copy</hi>, and am half-inclined to become a subsr. I note that Bassett was recovered: good. The letter from a Comp. at Plymouth, p.134, tickled my humour greatly.—</p>
+         <p>I am also much pleased with this no. of “Typo,” you have some <hi rend="italic">capital</hi> things in it—I would enumerate, but I have sent both copies to my 2 sons in England: you must send me 1 addl. copy for myself.—</p>
+         <p>Your Ms. (“Unwritten Literature”) has pleased me exceedingly: I have already read it <hi rend="italic">twice</hi>, &amp; shall go over it again, it is a Capital Paper: no marvel that your audience applauded you:—I would that Hector &amp; <hi rend="italic">Tregear</hi> were present: I think you might have brought forward a <hi rend="underline italic">few</hi> instances from my papers in “Trans.,” w. good effect—particularly our hero battling the waves, or [and also] that one used in planting the <hi rend="italic">kumara</hi>. I hope Maskell may have been taught a <hi rend="italic">useful </hi>lesson; he has always been savage on Tregear, &amp;, I believe, <hi rend="italic">from his being a Romanist</hi>!—<hi rend="italic">Your Paper </hi>
+            <hi rend="underline italic">must be pubd.</hi>—&amp; I hope in “<hi rend="italic">Trans</hi>.”—</p>
+         <p>I have not yet looked into Shortland’s Book: strange that I had never seen, never heard of it before!</p>
+         <p>I sent you a “Standard” containing a long art. on this repubn. of Cook’s <hi rend="italic">first </hi>Voyage: there is much in that art. which I agree with, &amp; some items <hi rend="italic">new </hi>to me.—This day I have posted to you 2 Santa Barbara papers—lately to hand from our Californian Member (H.B.Ph.S.) Dr. Yates: poor dear man! he, too, has <hi rend="italic">his trials</hi>,—only recently recovd. from severe Influenza; there are also a few items of interest in those 2 p., especially the art. on “<hi rend="italic">Mother Goose</hi>.” I have got 3–4 clippings for you—particularly the one on the <hi rend="italic">Corean Dicty</hi>.!!—</p>
+         <p>[By the way, Did you ever hear <hi rend="italic">anything</hi> during this late session of Parlt., <hi rend="italic">re </hi>the Mao. Lexicon? I cannot understand Capt. R’s. silence, (not even replying to my letters!) unless such may have arisen from his hearing of my <hi rend="italic">denouncing </hi>totalisators Betting &amp; Racing—in my Sermons.]</p>
+         <p>I note what you have <hi rend="italic">justly remarked </hi>on my Ms. (Mao. Dog) with you. I, too, <hi rend="italic">saw</hi> that: too severe on T.Wh., &amp; I had thought, my Paper will <hi rend="italic">not </hi>be pubd. in consequence of it: but even that I should not care for, as I <hi rend="italic">wished to leave behind me</hi>, my opinion of the man &amp; of his writing—for a <hi rend="italic">future</hi>
+            <hi rend="italic">gen</hi>.—it may be: but after all I shall be willing to expunge—all such acidities—though T.Wh. <hi rend="italic">dearly deserves it.</hi>—–I am very much pleased to know you are going to look up <hi rend="italic">Paikea</hi> in <hi rend="italic">that</hi> vol. of “Trans.” If I mistake not you will find <hi rend="italic">more </hi>there than in “Tidal Lore.” [But in “T. Lore,” some printer’s errors, I remember were corrected—as, for instance “Ulysses <hi rend="italic">boat</hi>” (!!!) to “U. <hi rend="italic">bout</hi>.”] I note your saying (from Tregear), that he had never seen the <hi rend="italic">Maori</hi> orig!—so of <hi rend="italic">all </hi>in <hi rend="italic">that vol. </hi>and in <hi rend="italic">several other </hi>papers of mine, <hi rend="italic">translations</hi>—<hi rend="italic">E. Coast </hi>legends, &amp;c, &amp;c.</p>
+         <p>I shall return your pretty &amp; good Fungus spn. with thanks.!!</p>
+         <p>With you, <hi rend="italic">again</hi>—as in many things—I mourn Whittier: as you say— “A <hi rend="italic">good</hi> man few better in this century.” I had not seen J.B. for several years: Fannin tells me, how <hi rend="italic">greatly</hi> he was altered—saliva dribbling down, &amp; voice weak, &amp;c, &amp;c.—<hi rend="italic">Sic transit gloria </hi>&amp;c. I did <hi rend="italic">not </hi>go to the funeral I rarely ever do go now)—through <hi rend="italic">fear </hi>of catching cold in standing at g.,—&amp; <hi rend="italic">not </hi>wishing to give offence—as I <hi rend="italic">keep my hat on</hi>!—I saw Mr. Orr, senr., in town that day—who was going to the funl.; he, too, seemed, infirm, &amp; said he was “<hi rend="italic">getting </hi>old”—I replied, “I <hi rend="italic">am </hi>old;” &amp; then it came out, that he is ahead of me in the race—being 83.—</p>
+         <p>At N. Railway Station this mg. in taking ticket, Welsman was there, w. several ministers, all (except dear old Mr. Cornford) unknown to me: W. introd. Rev. Dr. Brown, &amp; we shook hands: Dr. B. said, he had long heard of me &amp; wished to see me; he too was travg. by train to Sandon; I was obliged to tell him, I did <hi rend="italic">not </hi>talk in train, from inability to hear: so we were apart (I think he was travelling <hi rend="italic">2</hi>
+            <hi rend="sup italic">nd</hi>
+            <hi rend="italic"> Class</hi>); he is a thin, wiry man, long past mid. age.—Gow is very ill from Influenza—<hi rend="italic">a fortnight in bed</hi>! Henn leaves P.O. at end of this month! another <hi rend="italic">useful</hi> servant shunted off!—Am glad you saw Haggen, &amp; <hi rend="italic">told him the truth</hi>: I have always thought him to be out of his proper element as <hi rend="italic">Editor</hi>. My arm is still painful—more now in fore-arm and wrist &amp; fingers: I think it is <hi rend="italic">Influenza </hi>dregs; am done up! Farewell—</p>
+         <p>With kindest regards, Yours, &amp;c. W. Colenso.</p>
+         <p>
+            <hi rend="italic">Thursday night, 3</hi>
+            <hi rend="sup italic">rd</hi>
+            <hi rend="italic">. </hi>I now proceed: I suppose you will have seen <hi rend="italic">enough </hi>of the wretched Joshua &amp; Co. case! However the Jury could let that woman off, is a mystery to me: also, £150, each, to <hi rend="italic">those </hi>two young men!! I have a letter from N. today; in it I learn, the costs of that trial will be about <hi rend="italic">£</hi>
+            <hi rend="italic">2500. </hi>while that of the “Ahuriri” &amp; “Faily” steamers will also <hi rend="italic">count </hi>up!—–</p>
+         <p>This day has been rather a heavy one with me—often so, of late, if I over-work myself, as at Eng. M. times: I would I could sleep like you do—of course, I mean, <hi rend="italic">occasionally</hi>: but instead of that I dream horrid and <hi rend="italic">long </hi>&amp; <hi rend="italic">repeated</hi> dreams; so that between such &amp; pain in shoulder my nights are <hi rend="italic">not</hi> refreshing!—–</p>
+         <p>There is to be a great concert here tomorrow evening—in aid of the newly erected Ch. of Engd. Sunday School Ho., a large &amp; good building—well fitted for a Lecture room in the Winter. Miss Large is to be here, &amp; to sing 3 songs, (perhaps 6! w. <hi rend="italic">encores</hi>): I shall <hi rend="italic">not </hi>go; <hi rend="italic">partly </hi>from fear of draughts.—</p>
+         <p>Wallace, the Presbytn. Minister here has resigned: (they want a younger &amp; more able man, &amp; an <hi rend="italic">ordained </hi>one). A <hi rend="italic">good </hi>letter from Rev. R. Stewart, at Greymouth, assures me of his doing well there—45 at prayer meeting on the Wedy. evening—<hi rend="underline italic">good</hi>: I wrote to him last night. Fannin’s son, Seymour, (some time at Greymouth in a druggist’s shop,) has just been appointed Dispenser of drugs—at United Societies Pharmacy Napier. Did you know Dr. Innes? lately married to one of Sam. Davies’ daughters—Puketapu.</p>
+         <p>I expect to officiate for the <hi rend="italic">last </hi>time at Woodville on 20<hi rend="sup ">th</hi>., and I fear I shall <hi rend="italic">feel </hi>the parting much! I am in love w. the congn., &amp; they with me. My retreat to my solitary House at Napier, after so many months passed in Hotels &amp; in trains (much company to <hi rend="italic">see </hi>daily!) and regular Sunday’s duty will tend largely to <hi rend="italic">increase </hi>my solitude: well: I must <hi rend="italic">look </hi>up, &amp; hope for the best. (I <hi rend="italic">may </hi>tell <hi rend="underline italic">you</hi>—I <hi rend="italic">would</hi> that the rules (?) of an Epis. Ch. allowed of my occasionally helping Revds. Fraser, Douglas, Grant &amp; others!)</p>
+         <p>Mails in from N. &amp; S. but no letters. I shall keep this open until <hi rend="italic">after </hi>arrival of noon-tide mails tomorrow,—should there be one from Geo. White. Do you return Mao. Dog. Mss. as <hi rend="italic">early </hi>as convenient, as it will take <hi rend="italic">me </hi>(slow-coach, <hi rend="italic">now</hi>!) some time to copy it. I shall return your Ms. tomorrow, with this: it is far too valuable to be lost, and you are <hi rend="italic">not sure </hi>of your paper being published. Did you ever read Dr. Hocken’s paper on “Early explorations in N.Z.?—“Trans. Austral. Ass. Advt. Science,” 1891: at p.268, Dr. H. mentions my Paper published at Hobart, town, V.D.L.—<hi rend="italic">approvingly</hi> (!!): now I have often thought that could be well reprinted (much enlarged) with <hi rend="italic">plates</hi> (from own sketches): there <hi rend="italic">has been </hi>much enquiry after it: I am not sure that <hi rend="italic">you </hi>ever saw it. There are, however, a few general <hi rend="italic">errors </hi>in Dr. H’s. Paper.—</p>
+         <p>While writing this, <hi rend="italic">sad </hi>news has reached me: a nice young man named Clarke (from Kaikoura N.) who was formerly <hi rend="italic">here </hi>in Ry. Office, and lately (2 yrs. or so) at Woodville,—where I always chatted w. him on platform on Mondays, while waiting for train,—and only this wk. removed (promoted) to Napier, has this day got his 2 feet cut off there by train!!! I shall know more tomorrow. Last Monday, at Woodville, 3 Napierites were together talking—Holder, P. Dinwiddie, &amp; W.C. Peter told me he had been to Wgn.—I retorted, “Yes, seeking M.C.C.” A laugh.</p>
+         <p>
+            <hi rend="italic">4</hi>
+            <hi rend="sup italic">th</hi>
+            <hi rend="italic">. Novr. </hi>
+         </p>
+         <p>I have <hi rend="italic">felt</hi> those (or similar) “disparaging remarks” on Polyn. lit. mentioned by you, espy. on 2 mem. occasions: one, in house ’65 by Fitzherbert (who had <hi rend="italic">promised me </hi>all assistance in ’61!)—<hi rend="italic">very bitter</hi>, against Mao. Lex: &amp; one, in my room at Napier, (about Xmas. ’69,) by J.C. Richmond, then Nat. Minr.—urging “<hi rend="italic">no lit.</hi>; what earthly good of a Mao. Lex.” &amp;c.—<hi rend="italic">usque ad naus</hi>: so, that, I warmly &amp; <hi rend="italic">feelingly</hi> go w. you.—I hear this mg. from Station-master here that Clarke’s lower legs cut off! how very sad. I could <hi rend="italic">tell </hi>you something in connection <hi rend="italic">re </hi>“wheels within wheels.”—</p>
+         <p>
+            <hi rend="italic">12 mths. </hi>tomorrow (5<hi rend="sup ">th</hi>) since I was first attacked w. this “Influenza,” &amp; not yet free! shall I ever be?</p>
+         <p>Did you notice, among late telegrams—that “<hi rend="italic">Wm. </hi>Morris had refused the Laureateship”? Could <hi rend="italic">Wm. </hi>be an error for Lewis?</p>
+         <p>In “D.T.” of last night, Baker &amp; T. give a long list of 80 private houses to let or to sell in N.! w. situations &amp; rooms, &amp; prizes! &amp; also a <hi rend="italic">large </hi>no. of “Business premises”—and moreover, sections of land.</p>
+         <p>Thanks, my dear friend, for your just praise of Whittier. I have <hi rend="italic">here</hi>, in one of my travelling-companion books, a poem of his— “The Eternal Goodness”: I dare say <hi rend="italic">you </hi>know it: I have, sometimes, quoted a bit in a Sermon (as I have more freqy. Tennyson), and here I would call your attention to the last 5 verses.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0937">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1895 June 6: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0498.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1895-06-06">1895 June 6</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1895 June 6: to Harding<note xml:id="ftn3-742" place="foot" n="742"> ATL qMS-0498.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, June 6<hi rend="sup ">th</hi>. 1895.</p>
+         <p>Dear Mr Harding</p>
+         <p>I have to thank you for your letter of the 19<hi rend="sup ">th</hi>. &amp; 20<hi rend="sup ">th</hi>. May,—which I should have done earlier!!but for a <hi rend="underline italic">sad</hi>
+            <hi rend="italic"> </hi>accident to my right thumb on leaving Dvk. on 20th. ult., jammed in the big heavy <hi rend="italic">shut-to </hi>(<hi rend="italic">not</hi> slide) door of “Cage” in train. At first I thought I had broken joint, But though I have suffered much &amp; <hi rend="italic">lost many </hi>days time, I am getting round again—w. loss only of nail—but thumb still stiff &amp; in pain. I was <hi rend="italic">here</hi>
+            <hi rend="italic">alone</hi> for 8 days (no visitors, save Fannin on Sunday aftn.)</p>
+         <p>—I went down to town on Tuesday last (4<hi rend="sup ">th</hi>) first time for 5–6 wks.—My last to you was on 17<hi rend="sup ">th</hi>. May, from Dannevirke: I went again to Woodville on 18<hi rend="sup ">th</hi>., &amp; while there on evg. of 20<hi rend="sup ">th</hi>. saw in “Examiner” the sad &amp; sudden death of my dear old friend <hi rend="italic">Grubb </hi>announced—which gave me a great shock, so unexpoected!—I returned to Dvk. on Wednesday 22<hi rend="sup ">nd</hi>. &amp; stayed there until 28<hi rend="sup ">th</hi>. when I left for Napier. While there (at Dvk. &amp; at Wdv.) spent <hi rend="italic">several nights </hi>with Mr. Hill, who was then in those parts w. schools; so, on the whole, had a very agreeable time, such as <hi rend="italic">I </hi>may never have again! Weather very changeable during latter ½ of May, but <hi rend="italic">fine here</hi> from 1<hi rend="sup ">st</hi>. to 5<hi rend="sup ">th</hi>. incl. Rain commencing last night and all day but warm.—</p>
+         <p>I had to look up for Sainsbury &amp; L. information <hi rend="italic">re </hi>a road at Taradale Act passed P.Cl. 1865,—I found howr. little to purpose—but, among other old mss., I found a copy (<hi rend="italic">rough </hi>draft) of a letter to Ed. “Wkly. News”, Auckland, written in 1870, walking-in to <hi rend="italic">Gideon Smales</hi>!! which fully explains his recent hostility: I shall send it on <hi rend="italic">to you</hi> as it will both interest &amp; amuse you. <hi rend="underline italic">You</hi>
+            <hi rend="italic"> will be able to make it out</hi>—but do not fail to return it—anon. I had completely forgotten it!!!—–</p>
+         <p>This day I sent to P.O. for you a copy of “<hi rend="italic">Herald</hi>” of yesty. contg. a letter of mine (again) <hi rend="italic">re</hi> Rome—rather, I should say,<hi rend="italic"> the letter of Abp. of Canterbury re </hi>same;<note xml:id="ftn3-743" place="foot" n="743"> The re-union of churches. <hi rend="italic">Hawke’s Bay Herald</hi> 5 June 1895.</note> for which I have already, &amp; again, recd. thanks from a <hi rend="italic">few good </hi>men. You sent me a paper contg. a <hi rend="italic">long </hi>narration be Heke <hi rend="italic">re </hi>Urewera troubles. I hope all matters in that direction will be amicably settled. Some one, at Wgn. sent me a copy of “Melbourne Leader” of May 4<hi rend="sup ">th</hi>., contg. a <hi rend="italic">supplement </hi>full of Wgn.—scenes, &amp; public men, with some <hi rend="italic">errors</hi> in the long narration, as <hi rend="italic">usual</hi>! when will <hi rend="italic">all such </hi>end? I send you a clipping <hi rend="italic">re </hi>Adam Smith that is interesting: and a small one of a <hi rend="italic">most strange</hi> advertisement!!! </p>
+         <p>Thanks for yours (clippings) sent me, Charlie Thomas was always strange erratic—ready to pick up with (or be picked up by) any new fad: at one time a spiritualist: we have had many talks—but to no good purpose.</p>
+         <p>By the way—in this said “Supplement M.L.”, is a photo. of Tregear (the first I have ever seen) which does <hi rend="italic">not </hi>raise him in my estimation—and some atrocious stories <hi rend="italic">re </hi>his book (Dicty.) which, after Bp. Williams’ exposure, had better <hi rend="italic">not be said. </hi>By “Dy.T.” of this evg. Bp.W. returned to us this morning. I saw, &amp; spoke with, Mr. Crerar, <hi rend="italic">Sen</hi>. in town on Tuesday and I was astonished at his appearance so altered! thin, cadaverous: I did not know him, at first: I am told, he is going S. for health. Fannin is just got into his <hi rend="italic">new </hi>office: Hill, too, will have to follow. I think I must have told you that <hi rend="italic">Grubb </hi>was to have been my Executor by my old will: Knowles went to Wgn. to the funeral, perhaps you saw him. Hill had arranged, that <hi rend="italic">we 2 </hi>were to come out next mtg. of Instit., but on recg. my hurt I was obliged to let D. know early—I could <hi rend="italic">not</hi> help this time—if again. Is vol. XXVII printed?</p>
+         <p>My note to Hon, Secy. Dvk. Brass Band re Raffles &amp; <hi rend="italic">palmistry</hi>, caused them to notify in “Adv.”—py. <hi rend="underline italic">abandoned</hi>; so one point gained. On my return to N. I wrote offy. to Minister of Lands <hi rend="italic">against </hi>altering name of <hi rend="italic">Petane. </hi>Have had 2–3 letters from Buller. I symd. w. him in destruction of his country house or <hi rend="italic">grounds </hi>thro’ fire. You say he is going <hi rend="italic">soon</hi> to Engd., I have <hi rend="italic">not </hi>his last to me here, and I fear I shall not return <hi rend="italic">in time</hi> to catch him at Wgn. Fannin is still in <hi rend="italic">old </hi>rooms, but <hi rend="italic">must </hi>clear out. <hi rend="italic">Here</hi> (in this room over 50 vols. big &amp; little, most school prizes!!)—a large pretentious vol., 800, 600 pp., <hi rend="italic">well </hi>ptd. good p. &amp; well-bound— “Bible for Home readings”, largely illustd., <hi rend="italic">abounding </hi>in Script. verses,—much in way of qu. &amp; ansr. but all in <hi rend="italic">Adventist </hi>groove!! printed at Michigan pubd. there &amp; at Chicago,—a taking-kind of Book, but a very very sad one——at least <hi rend="underline italic">to me</hi>.</p>
+         <p>
+            <hi rend="italic">Dannevirke</hi>, 3<hi rend="sup ">rd</hi>. vii, p.m.—</p>
+         <p>I will now endeavour to finish my letter. I see in papers, <hi rend="italic">here</hi>, the marriage of one of Cowell’s daughters to a man named Hudson of Takapau: also, death of an old settler at Havelock named Vaughan. N. Karaitiana’s son has come to grief! in Bkptcy. court, yesty. Mont. Lascelles now actg. Offl. Assignee: <hi rend="italic">Mont. </hi>&amp; <hi rend="underline italic">Large</hi> (2 J.Ps.) gave out from Bench yesty, that, in future <hi rend="underline italic">first</hi> offenders from drink would not be let off easily!!! (the rock on which Sir W. Fox struck.) I have seen 2 excellent letters of late, repubd. in “Dy.T.”—one by Lorne formerly Govr. of Canada, showing that Prohibition there, &amp; in Ottawa, was useless: and one from Ld. Selbourne, also agt. it, and holding for all publicans who <hi rend="italic">may </hi>have to give up to be fairly compensated; <hi rend="italic">both </hi>giving <hi rend="underline italic">good</hi> substantial reasons for what they say.—–</p>
+         <p>I have lately recd. sad news from Home—Cornwall: 3 letters via “<hi rend="italic">Brindisi</hi>” written in 3 successive weeks and arriving here together: my younger son afflicted with <hi rend="italic">Blindness</hi>:—he has now been operated on for Cataract, &amp; I await the result—both eyes—his wife says, he had long been ailing—eyes affected, but he would not himself write to me, nor allow her to mention it—being otherwise in robust health. However on their applying to the best Eye-Doctor in their neighd., &amp; then he &amp; they referring to an eminent Oculist in London they found, his fee to go down was <hi rend="italic">₤100</hi>. &amp; so the Cornish physician with my son went <hi rend="italic">to him </hi>in L., pd. for examn. &amp;c., returned toPenzance, &amp; 2 Drs. perfd. operation—1 eye first.—You have kindly congratulated me on my specs from Dr. H., but they are of <hi rend="italic">little </hi>use: <hi rend="italic">not </hi>fitted for <hi rend="italic">small </hi>types. A curious coincidence! the <hi rend="italic">same </hi>day that Dr. H. examd. my eyes at N. was <hi rend="italic">the day</hi> when Dr. Helm examd. my son’s eyes! (both Drs. too with their names beg. with <hi rend="underline italic">H</hi>.—</p>
+         <p>I think <hi rend="italic">you ran too great a risk </hi>in your going in <hi rend="italic">such </hi>weather to hold Div. S., with winter coming-on; think <hi rend="italic">twice</hi> before you do it again. Thanks for 3 clippings: I knew Bollard, <hi rend="italic">well</hi>, ditto his wife: we were together<hi rend="italic"> </hi>at Bp. Selwyn’s: I saw him ordained—<hi rend="italic">never thought </hi>that much of <hi rend="italic">him</hi>, &amp; <hi rend="italic">so others</hi>. I don’t like <hi rend="italic">tone</hi> &amp;c. of Akaroa production: I fear a <hi rend="italic">bad </hi>lot (towards Maoris) <hi rend="italic">down there</hi>. And as to <hi rend="italic">the Party</hi>!! (y’clept ladies!!!) who rode out at such a time to bother the poor Maoris! I have a much higher opinion of <hi rend="underline italic">these</hi>.</p>
+         <p>Good bye: kind love to you and all yours. Glad to hear of your <hi rend="italic">not </hi>being “out on strike”.——</p>
+         <p>                           Yours ever,</p>
+         <p>                                                           W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

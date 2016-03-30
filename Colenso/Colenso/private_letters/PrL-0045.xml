@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0045">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1844 March 9: ?to Broughton</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 80-038 George Petersen papers; this appears to be a rough record of his order kept by Colenso.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+      </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1844-03-09">1844 March 9</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1844 March 9: ?to Broughton<note xml:id="ftn1-47" place="foot" n="47">ATL 80-038 George Petersen papers; this appears to be a rough record of his order kept by Colenso.</note>
+         </p>
+      </front>
+      <body>
+         <p>March 9/44. ordered <hi rend="italic">conditionally </hi>through Mr. N. Broughton—the following—</p>
+         <p>
+            <hi rend="italic">of Holtzapffel &amp; Co<lb/>  64 Cha. Cross &amp; 127 Long acre London</hi>
+         </p>
+         <p>1 Folio fcp. Pg. Press. with Iron Bed, chases,)<lb/>  reg. points, &amp;c, complete) 6.16.6</p>
+         <p>1 12-in roller stock &amp; frame (no made roller) )<lb/>  &amp; mould for castg. roller in— )</p>
+         <p>Assort. of Furniture &amp; Quoins —————— 5</p>
+         <p>
+            <hi rend="italic">of Watts—</hi>
+         </p>
+         <p>Small Pica     lower           upper           S. Caps         Ital</p>
+         <p>       a               750                     50                      20              )</p>
+         <p>       e               300                     40                      12              )</p>
+         <p>       i               320                     40                      12              ) 1 doz. lengths</p>
+         <p>       o               400                     30                      12              ) thin Brass Rule</p>
+         <p>       u               250                     15                      12              )</p>
+         <p>       h               150                     30                      12              ) 6lbs pg.</p>
+         <p>       k               500                     60                      12              )  Ink</p>
+         <p>       m               100                     15                      10              )</p>
+         <p>       n               220                     30                      10              ) 4 ream</p>
+         <p>       p                 70                    15                      10              ) fcp. ptg.</p>
+         <p>       r               220                     30                      12              ) paper</p>
+         <p>       t               320                     30                      12              ) good</p>
+         <p>       w               100                     15                      10              )</p>
+         <p>       g               120                     15                      12              )</p>
+         <p>Figures, stops—1-m rules, quads. &amp; spaces, as accord. to Eng. Tariff for Type of simr. weight</p>
+         <p>10 lts. S.P. Italic upper &amp; lower same sorts only as above &amp; accord. to above run of Letters</p>
+         <p>200 10m leads—200, 20m leads—4to pica</p>
+      </body>
+  </text>
+</TEI>

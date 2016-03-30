@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1088">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1889 November 23rd to Russell</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Archives New Zealand</p>   
+         <p>(National Archives, Wellington, Record No. 1889/3518)</p>
+         <p>Transcription by Ian St George</p>
+            <p>encoded into TEI by Melissa Bryant, 21.10.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1889-11-23">1889 November 23</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/72672/">Russell</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1889 November 23rd to Russell (National Archives, Wellington, Record No. 1889/3518)
+         </p>
+      </front>
+      <body>
+      <p>
+Napier</p>
+<p>Novr. 23rd., 1889.</p>
+<p>Dear Capt. Russell</p>
+<p>I am sending by Mail this day, addressed to you, my first instalment of Copy for Press of the little book for the government printer. I trust you will cause it to be put early into his hands.—</p>
+<p>I fear you may not have time to spare to run through it: though I should much like for you to look at the said résumé (authenticated as it is by Mr. Busby): and particularly at no.1 of the Appendix—as it is high time the matter I have there laboriously worked up should be set to rest. I may tell you, that I wrote to Vogel, when Agent General in London, to get Cook's log, &amp;c, looked up:—but he took no notice of my letter.—</p>
+<p>I trust you will also get the little (key) map published with the book: and, perhaps, the 3 plates of Views in the Bay.</p>
+<p>I have added, in appendix I, several interesting &amp; unique reminiscences of the olden time.</p>
+<p>But I won't worry you with a long note.—</p>
+<p>With very kind regards, and hoping that you are keeping ion good health</p>
+<p>I am,</p>
+<p>Dear Capt. Russell,</p>
+<p>Yours truly</p>
+<p>W. Colenso.
+</p>
+</body>
+   </text>
+</TEI>

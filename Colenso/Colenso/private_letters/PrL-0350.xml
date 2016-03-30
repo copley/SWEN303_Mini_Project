@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0350">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1877 November 13: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1877-11-13">1877 November 13</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1877 November 13: to Luff<note xml:id="ftn2-298" place="foot" n="298"> ATL MS-Copy-Micro-0485-4.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Nov. 13, 1877.</p>
+         <p>A. Luff Esq.,</p>
+         <p>My dear Sir</p>
+         <p>Yours of Sept. 14th. I received on the 8th. instant, &amp; was pleased to find you were all then well;—may this find you so! I was also gratified—<hi rend="italic">relieved</hi> I may say—to know you had recd. the tele­gram from Auckland in July, and I had the pleasing information that <hi rend="italic">all</hi> my telms. so sent were quickly received.</p>
+         <p>I have already written so much to go to you by this Mail—that this letter must be shorter than usual. Our new Bishop <hi rend="italic">elect</hi> is soon to be here—Witty’s Ho. is taken for him, rent £100. Bp. Williams is very ill—a fortnight in bed, &amp; it is <hi rend="italic">feared</hi>, departing! I went there but did not <hi rend="italic">see</hi> him.<note xml:id="ftn2-299" place="foot" n="299"> Williams refused to see him.</note> St. Hill (Rev.) was here yesty. &amp; gave me the above news: and Dr. Gibbes was also here last night (ea. spent about 2 hours!! so I had compy. on the 12<hi rend="sup">th</hi>!!) G. is removing to Havelock—into Braithwaite’s house, the Settlers guaranteeing G. £500 per ann. G. also entered into partnership w. a Doctor in Picton—who will reside in G’s house here in Town—name, <hi rend="italic">Caro</hi>. J.N. Wilson (alias Bear) has been by Grey’s Miny. called to Upper Ho., Governor would not immy. consent, &amp; a great row about it! (You will see in “Herald” how W. <hi rend="italic">demeaned</hi> himself—about me &amp; my <hi rend="italic">short</hi> letter at Pub. Mg. <hi rend="italic">re</hi> Ind. F. Fund.)<note xml:id="ftn2-300" place="foot" n="300">
+               <hi rend="italic">Hawke’s Bay Herald</hi> issues for 1 July to 31 December 1877 are missing from Papers Past.</note> They are filling-in Browning’s 4 Sns. in Clive Sq. adjg. Thomas’—taking the earth from his <hi rend="italic">hilly corner</hi> one in Tennysn. St. <hi rend="italic">South</hi>, &amp; Robjohns is also going to have his sn., the next one, “cut down like a cheese”!—I have given permission to Mills, the Rd. Contractor, to cut into 29 &amp; 30, Hyderabad Road, to make Road thereabouts.—I have let a sn. (<hi rend="sup">1</hi>/<hi rend="sub">8</hi> acre) at Waipawa next to Woods, for £10 year &amp; pg. ch. £100.—&amp; that is about all w. me. Sladen has paid off <hi rend="sup">1</hi>/<hi rend="sub">3</hi> of mtge. P.D. <hi rend="italic">nil</hi>. Robertson &amp; D., <hi rend="italic">nil</hi>. Mackay <hi rend="italic">nil</hi>.—But see Miller’s report <hi rend="italic">re</hi> Land sales &amp;c. [See N.Z. Mail, Wgn. of Octr. 27, for Judgment.]. Have sent to Wn. for Chief Justice’s Judgment in case Maoris v. Bp. of Wellington, if I get it will send it).</p>
+         <p>Jo. Rhodes just back from Canterbury, says “he rode over 200 miles through a fine grain grow­ing Cy., &amp; that wheat &amp; oats were now beating wool out of the market”. J. is looking well, he says his bror. Barney is failing fast. Ludlum of Hutt is just dead. Old Shirley in town yesterday was seized w. paralysis! Bradley, Taradale, got dragged by his horse, &amp; his upper teeth knocked out &amp;c., &amp;c. (see papers). “Mataura” w. immigrants arrd. on 9th. (holiday) all well, as <hi rend="italic">usual w. us</hi>, but one yg. man, (21) was brought on shore to Hospital &amp; died <hi rend="italic">yesterday</hi>!—It is said, “sea-sickness”—all the way! poor fellow, <hi rend="italic">you &amp; I</hi> can symp. w. him.<note xml:id="ftn2-301" place="foot" n="301"> Colenso suffered terribly from seasickness.</note> Also w. Mrs. Price (Thomas’ daughter) who suffd. much from sea-s., <hi rend="italic">taken in her cot</hi> from Eng. ship into “Rangatira”, &amp; after 8–10 days here, is gone (on her back) to Motuotaraia. She looks well, though, &amp; is cheerful: perhaps her <hi rend="italic">children</hi> &amp; <hi rend="italic">home</hi>
+            <hi rend="italic">may</hi> work wonders. Mr. Sidey is still in Australia.</p>
+         <p>You will see Mack’s (2<hi rend="sup">nd</hi>.) note &amp; my reply. I think you did <hi rend="italic">not </hi>act rightly w. me, in not giving me <hi rend="italic">the price</hi> of your 5 ac. at Wairoa. Such <hi rend="italic">seems </hi>scarcely the proper way w. a friend, or that of doing business,—which nowadays is often done “right off”—if at all.—<hi rend="smallcaps">pardon this plain speaking</hi>. Great drought here—no vegetables in my garden, nor any in town worth having. Hot winds exceedingly high for 3 weeks—those drying-­up W. ones; snapping off Poplars &amp; willows like carrots up at Meeanee &amp; Taradale, &amp; a few also <hi rend="italic">here</hi>. Do you <hi rend="underline italic">wish</hi> to subscribe to D. McLean’s <hi rend="italic">monument</hi>? If so send <hi rend="italic">me</hi> your subn. or <hi rend="underline italic">mention</hi> the sum, as I have been apptd. one of the “<hi rend="italic">Collectors</hi> &amp;c.”! Rather <hi rend="italic">too many </hi>calls of that kind, <hi rend="italic">just now</hi>. Must refer you to Papers all about the Parliament! a horrid mess they are in, &amp; doing <hi rend="italic">nothing</hi>! yet costing the country enormous sums.—A dissolution is expd. &amp;, it is said, J. Rhodes, R. Stuart &amp; J.N. Wilson are coming out!! Sutton (if he is wise) had better <hi rend="italic">retire</hi>. I have <hi rend="italic">not yet</hi> gone to any school, since my return from Wairoa,—it pulled me down sadly &amp; I am not yet well—perhaps <hi rend="italic">never shall be </hi>
+            <hi rend="underline italic">here</hi>. I think I must give up my office; but I am going to try (D.V.) next week.—</p>
+         <p>Thanks for your 10 papers—little however in them of <hi rend="italic">int. to</hi>
+            <hi rend="italic"> me</hi>: I <hi rend="italic">never read about the War</hi>; our telms. are <hi rend="italic">sufficient</hi>. Should like to have had Bradlaugh’s trial—complete—also his book (in which I believe to be a good deal of truth) also a copy of this book called “The Priest in Absolution” of which so much is said.</p>
+         <p>And now I must say Good-bye.</p>
+         <p>Believe me, ever yours truly,</p>
+         <p>W. Colenso.</p>
+         <p>Rev. W. Marshall has withdrawn his resignation!!</p>
+      </body>
+   </text>
+</TEI>

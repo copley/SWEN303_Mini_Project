@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0774">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1891 March 31: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0496.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1891-03-31">1891 March 31</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1891 March 31: to Harding<note xml:id="ftn3-519" place="foot" n="519"> ATL qMS-0496.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke<lb/>March 31/91: 9 p.m.</p>
+         <p>Dear Mr Harding</p>
+         <p>Your kind &amp; prized letter of 29<hi rend="sup">th</hi> reached me yesty., &amp; I must try &amp; write one to you in return: this, too, being not only the <hi rend="italic">last</hi> for this quarter, (how quickly time flies!) but the <hi rend="italic">last</hi> from this place of sojourn!! I leave on Thursday, stopping that night at Waipawa, &amp; back to N. on Friday.</p>
+         <p>There is much in yours (as usual) I should like to talk over w. you: I should also like to <hi rend="italic">look</hi> at Carpenter’s Bks.—possibly, there may still be some <hi rend="italic">that were</hi> mine among them! That old Herbal, or Botl. wk, you mention, you (if at sale) may go to 5/- –7/- for me. The “Pentateuch,” mentd. By L. &amp; B. in a/c., is not come <hi rend="italic">here</hi>—perhaps at N.W. Dy. T &amp; you have nicely &amp; fittingly described <hi rend="italic">Gordon</hi>: he sent me an admirable p. &amp; ink drawing, size fol. fcp.—as if a lot of things letters, cards, advts., &amp;c, &amp;c, were suddenly cast down &amp; partly overlapping ea. other, w. figures, too, &amp; borders!!! I cod. <hi rend="italic">not</hi> believe such were done by hand &amp; pen, rather photo-d., somehow, but Hamilton, who closely scrutinized it, said <hi rend="italic">it was</hi>! I have also from G. a photo. of Maori <hi rend="italic">carvings</hi>—arranged in borders very nicely; &amp; I did hope to get more such—hence my long letter, part in answr. to <hi rend="italic">his queries</hi>. (Is he a ½-caste?)—</p>
+         <p>I have just recd. a <hi rend="italic">long</hi> letter from Peacock (fy. in “D.T.” off.) I had sent him in Jany. a copy of yr “Typo” w. post.—He says, he subscribes to the “Inland Printer” but he never recd. the copy w. <hi rend="italic">that</hi> post., and only irregularly. He mentions <hi rend="italic">you </hi>
+            <hi rend="underline italic">very kindly</hi>, &amp; hopes you will <hi rend="italic">do well</hi> at L. &amp; Bs. I suppose he had heard of you from a<hi rend="italic">Mrs Edwards of N.,</hi> who was there staying, &amp; whom they were glad to see. He says, he &amp; his brother were doing <hi rend="italic">very well</hi>:&amp; that he had been over to Tasmania for a Xmas. holiday,—I have cut off the top of one of the 4to. ps. of his <hi rend="italic">long</hi> letter that you may see it: he says,— “My new letter-head is generally admired, &amp; looks very much like c.p., but it is not, it is a type block produced by the new Am. process of Photo-zinc etching. This block was made in Chicago, but we are starting a company to do this sort of wk. here”. Again:— “I pd. a visit to an old ptg. companionship of years ago. It was the Govt. Ptg. Off. Mr Strutt is now Govt. Ptr., in my time he was overseer. He recd. me kindly, &amp; I was shown into the old room, the same as ever! Frames as of old, &amp; what? The hands were nearly all the same that I used to work by the side of, very little change had been”—(see <hi rend="underline italic">top </hi>
+            <hi rend="italic">of portion enclosed, &amp; run on) </hi>and again:—“Of the 3 boys I brought w. me from N., the <hi rend="italic">first</hi> who came is still w. me, &amp; is now overseer; his name Paul Schwabe—he has a brother still at the “D.T.” office, graduating as a reporter. Mrs. E. recognised Paul as the little boy she used to give pennies to on Saty. Evgs., &amp; was pleased to see how well he has developed—steady respectable, industrious.”—</p>
+         <p>[I thought you might like to hear all <hi rend="italic">this</hi>, &amp; so I quote.]—–</p>
+         <p>In a letter from London (from Mr Boase author of “Bibliog. Cornubiensis”, &amp; its suppt. (just now finished) “Collectarea”—he, too, mentions a matter which <hi rend="italic">fits</hi> w. your <hi rend="italic">errata</hi>!—which I quote—</p>
+         <p>“The part of the wk. on which I espy. prided myself was the Collation—wh. I put in in place of a Contents, in it I mentioned all the pages even to the blank ps.,—the Binder without reading this, &amp; thinking no doubt he was doing something clever, took out the blank ps., &amp; has thus made all the copies imperfect.”—</p>
+         <p>[I must allow, I don’t understand this!]</p>
+         <p>A letter from Fannin, just to hand, he tells me of <hi rend="italic">Drennan</hi> (of Sy. Off.) having been struck w. paralysis &amp; taken to hospital: and that the Dean is still very poorly &amp; living on bread &amp; milk only.—F. had been having his holiday in a trip to Tangoio, &amp; there eating <hi rend="italic">blackberries</hi>!</p>
+         <p>What is Petherick’s “Monthly Torch”? <hi rend="italic">price</hi> &amp; <hi rend="italic">where</hi> to be had?</p>
+         <p>I shall look out for <hi rend="italic">Opotiki P.</hi>
+         </p>
+         <p>I cannot say, I prefer your altn. in “Typo”: at all events I think the 2 mthly. p. should be kept <hi rend="italic">more distinct</hi>: no doubt <hi rend="italic">many</hi> of the craft would like to bind up <hi rend="italic">the “Typo” part.</hi> Perhaps you are too far committed now to make any alteration. I am much pleased, however, at your being saved the expense, &amp; worry &amp; also netting something certain. Send me an extra copy of <hi rend="italic">last no</hi>. of “Typo”—my 2 are both sent to Engd.</p>
+         <p>I think, in yr. brief remarks on the 2 Opotiki cases, you should, in common justice, have added, that B. in coming-up for sentence was gently dealt with by the Judge: it is the opinion here, that <hi rend="italic">he</hi> saw but little diffce. in the <hi rend="italic">2</hi> “libels.”—</p>
+         <p>Don’t tell T. what I have <hi rend="italic">now</hi> said re Gordon.—</p>
+         <p>I am glad to receive from you any &amp; every indication of good in your dear little son: poor dear Mrs Harding must indeed have need of patience &amp; <hi rend="italic">strength</hi>: I hope her <hi rend="italic">maternal</hi> supply of nourishment is sufficient for the younger one.</p>
+         <p>When you next write, <hi rend="italic">return</hi> the portion of Peacock’s letter.—</p>
+         <p>Think on me—next Sunday! When I hope to be <hi rend="italic">quiet</hi>—ruminating at Napier, on the hill: &amp; <hi rend="underline italic">very likely</hi> thinking <hi rend="italic">on you</hi>!—</p>
+         <p>I am tired: Farewell!—</p>
+         <p>With kindest regards, Yours sincerely,</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

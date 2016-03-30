@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0427">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1880 October 18: to Drummond</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/13.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73880/">Drummond</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1880-10-18">1880 October 18</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1880 October 18: to Drummond<note xml:id="ftn3-59" place="foot" n="59"> ATL 88-103-1/13.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier</p>
+         <p rend="end">Monday Oct 18<hi rend="sup">th</hi> 1880</p>
+         <p>Mr J. Drummond </p>
+         <p>My dear Sir</p>
+         <p>I duly received your note of the 13<hi rend="sup">th</hi>, &amp; I both do, and <hi rend="italic">have</hi> sympathised with you in your <hi rend="italic">not</hi> getting a prize at the Show.—But then (as <hi rend="italic">I view</hi> it) you gained something <hi rend="italic">better</hi>, in your renewed Rifle Victory; and here again I go with you. I can only hope now that you are a married man &amp; with the <hi rend="italic">beginning</hi> of what may prove a large family, and a business, too, to look after,) that you may not be drawn out too much (more than you can spare, reasonably, I mean,) in keeping up your shooting pre-eminence, and in going abroad to matches.—</p>
+         <p>I should not be writing to you this day, were it not for the rain which has set in, &amp; which keeps me here; for I had arranged to be at Kaikoura today, &amp; at 40 mile Bush on Friday, so I am de­layed. At the same time I scarcely hoped to visit you (or “Ongar”) during this journey of mine.—though I hope to do so in the au­tumn season.</p>
+         <p>You may have heard how the sale of the new Township near you went off; I have heard nothing—not having made particular en­quiry, and seeing nothing in the papers about it. I have said “good-bye” to the town for <hi rend="italic">all</hi> this month—until I return from the Country—my dear old forests.</p>
+         <p>One thing however, I did see in the papers which pleased me, viz, <hi rend="italic">Robertson gaining his claim against Renata,—</hi>I felt greatly pleased at this, because (seeing it was said to have been, in part for shoeing at the <hi rend="italic">branch</hi> shop &amp; then looking at the date too) I could not but think it was, money which <hi rend="italic">you</hi> had earned when working there.—It was <hi rend="italic">sad</hi> to see those natives ever ready to strain a point to evade just debts; I have known from <hi rend="italic">them</hi> (though only of late) a little of that treatment.</p>
+         <p>I have to blame you for one thing—you never told me in your note how the <hi rend="italic">little son</hi> is,—ditto the good mother,—or whether your mother had returned to T.</p>
+         <p>I see the Eng Mail has arrived at Auckland, but I shall not get either papers or letters until I <hi rend="italic">return</hi>—early in Nov. And with kind regards to all</p>
+         <p>believe me</p>
+         <p>Yours truly</p>
+         <p>Wm Colenso</p>
+      </body>
+   </text>
+</TEI>

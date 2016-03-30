@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0226">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Hawke’s Bay Herald 9 September 1899.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1899-09-09">1899 September 9</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold italic">Hawke’s Bay Herald</hi>
+        <hi rend="bold"> </hi>
+        <hi rend="bold italic">9 September 1899.</hi>
+      </p>
+    </front>
+    <body>
+      <p>Mr Ridley L. Colenso writes as follows:— “Sir,—A paragraph in your Friday’s issue re the late Rev. W. Colenso’s library, is correct but misleading. A Hawke’s Bay Philosophical Institute deputation viewed the library, and came to the conclusion that there were far more books than they would know what to do with, especially as of some of the more valuable works duplicates were already in their possession. They consequently decided to approach Messrs Angus and Robertson’s representative in order, if possible, to secure those books they required. The town of Napier could have had the whole collection at Angus and Robertson’s prices.”</p>
+    </body>
+  </text>
+</TEI>

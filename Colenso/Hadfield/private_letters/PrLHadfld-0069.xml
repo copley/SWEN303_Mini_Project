@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0069">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1848 October 31: Octavius Hadfield to his sister Maria</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  "Letter 12".  Page 187.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 7.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1848-10-31">1848 October 31</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70928/">Maria Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1848 October 31: Octavius Hadfield to his sister Maria</p>
+      </front>
+      <body>
+      <p>Wellington N.Z.- Oct.31. 1848</p>
+      <p>My dear Maria</p>
+      <p>I have now been some time without hearing from any of you: the last letter I received was yours of Feb. which I acknowledged in letters I wrote in Aug. but there is some irregularity in the Post as a letter from Julia, dated Dec. only reached me last week: I beg to thank you nevertheless for your kind letters, however long they may be in finding their way to me.</p>
+      <p>There is so much sameness in my present mode of life that I can have but little to say that is interesting, but still I must write occasionally.  I read much &amp; think much,-as much as my head will allow me, but man's office on earth is to work &amp; without work one seems to be hardly able to consider one has any business in the world; but"the world is the Lord's &amp; the fullness thereof" &amp; it is His will that I should continue here.  I have lately been reading Simeon's life which has afforded me great pleasure.  His piety may have been equalled, perhaps surpassed by many others, &amp; his mental powers were by no means remarkable, but his unfailing faith, his consistency &amp; perseverance, &amp; his practical wisdom in applying the truths of the Gospel to the affairs of life (&amp; this last is what most surprises me), I think few have equalled.  What a contrast does such a life present to the ideal perfection- made up of outward rites &amp; ceremonies - of a Puseyite.  I have also been engaged with Luther &amp; his writings.  How entirely in all his writings, but especially in his Commentary on Galatians  did he make the articles of justification by faith only the foundation of all his attacks on popery- how clearly did that great man see, &amp; how firmly did he grasp that truth, which he shows that St. Paul called "the truth of the Gospel" which was to be maintained though opposed by "an angel from Heaven" or undermined by an inspired apostle, as in the case of "Peter" or by "false brethren".  Alas!  how Luther would have nauseated the trashy sentimentality of the present day, &amp; reprobated the madness of desiring to be "again in bondage" to a ceremonial law.  There appears to me a great deal of confusion in most modern writers on the distinction between the law &amp; the Gospel.  All the acts of a believer which are acceptable to God proceed spontaneously from his renewed spirit animated by the Life of Christ which is in him &amp; is his life; such acts are moral &amp; holy, &amp; are indeed in conformity with the holy will or law of God.  But no act, done either by a believer or any other, which is done in obedience to a law of external command, can be acceptable to God or be considered a religious or moral act; for the very fact of acting in obedience to an external command or law-, the very need of such a law to excite to action, implies a corresponding deadness to duty.  God is a spirit, &amp; every act pleasing to Him must flow from the spirit, &amp; not proceed from an external law.  So run my thoughts day &amp; night &amp; I sometimes put them on paper, but I can do nothing systematically, from the weakness of my head which soon aches if I overwork it.  </p>
+      <p>As we have had some earthquakes which have thrown all former ones into the shade I must say a few words about them.  We have been used, two or three times during the year, to feel shocks, &amp; once or twice at Waikanae I felt them rather severe.  On the 16th. at 2A.M. there was a very severe one, it lsted about 40 seconds, making the bed rock about under one rather strangely, &amp; causing books etc. to roll about the room &amp; out of doors throwing down chimneys etc.  On the 16th. in the afternoon at 4 oclock there was one still more severe; it threw down more chimneys, walls &amp; brick houses, making a great crash among all kinds of pottery, &amp; killing by the fall of a wall in a street an old soldier with his two children.  On the 20th. at 5 oclock there was another, still more violent, completing the work of devastation: happily no more lives were lost.  The hospital which has been such an object of interest to me from the beginning was sent in all directions by the second, &amp; sixteen patients made their escape only in time to save their lives.  The loss of property has fallen chiefly on government, its buildings, &amp; those of the merchants, having suffered most, but it is estimated at &#163;30,000.   This is rather a serious blow to this settlement.  I have mentioned the great ones, but 5 or 6 others were but little less violent; &amp; a continuous tremulous motion was kept up for some hours after each, &amp; the intervals filled up by slight ones; they have not yet ceased &amp; we are by no means certain we shall not have more.  The natives do not remember any so violent.  The centre seems to be somewhere near this, though a little to the south-west.  They extended to Taranaki, &amp; Nelson &amp; Akaroa on the Middle Island, &amp; over a space contained in circumference with a diameter of 3 to 400 miles.  <!--previous editor's note: (torn)--> the most severe one, the Lieut.Gov. appointed a fst to be held in order that we might humble ourselves before God, &amp; pray him to restrain His hand that further loss might not be sustained, as many were very frightened.  It was very well attended to by the whole population, &amp; produced a good effect, so much so that I think many have been led to think who seldom thought seriously before.  It is curious that about fifty people got into a ship, the "Sobraon" to go to Sydney, but this fine new ship was wrecked at the mouth of the harbour- all lives were saved, but they lost their property; even this produced a very extensive effect, &amp; some of the common people remarked that it was useless to run from God's judgements. </p>
+      <p>I see that it was proposed to start an extensive scheme for colonising this part of the country - a "church of England" settlement was to be formed.  I do not know that the report of these earthquakes ought to alarm people &amp; to deter them from coming.  They may never occur again.  Had it however, not been for these, I should certainly, considering the state of England, have advised people to join that settlement &amp; come out.  I see Mr. Simeon's name on the Committee so perhaps some Isle of Wight people may be coming out.  One thing I can confidently say that no labouring man or woman with ordinary industry will ever regret coming out here, that class is infinitely better off than they can ever hope to be in England.  But those who cannot work with their hands ought to have a moderate capital - a few hundred pounds at any rate.  General matters are going on well in this country natives etc, etc.  My kind friends are very well.  Now I must ask you to give my kindest love to my dear parents &amp; my brothers &amp; sisters, &amp; believe me</p>
+      <p>Your very affectionate brother
+      </p>
+      <p>Octavius Hadfield.</p>
+      <p>I am always glad to hear of old friends &amp; desire to be remembered to any that you may see.   Col. Wakefield died suddenly of apoplexy a few weeks ago.  It will not affect the settlement at all.</p>
+      </body>
+   </text>
+</TEI>

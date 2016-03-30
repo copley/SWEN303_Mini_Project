@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0618">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1885 December 18: to Hector</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Museum of New Zealand—Te Papa Tongarewa MU000095/003/0068</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">Hector</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1885-12-18">1885 December 18</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1885 December 18: to Hector<note xml:id="ftn3-334" place="foot" n="334"> Museum of New Zealand—Te Papa Tongarewa MU000095/003/0068 </note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Decr. 18<hi rend="sup">th</hi>, 1885.</p>
+         <p>Dear Sir</p>
+         <p>I have to thank you for your kind loan of Book &amp; spn. (<hi rend="italic">Sphenodon</hi>) from Col. Museum—to hand last week: I now return them to you by steamer leaving here tomorrow. Through your kindness I was enabled closely to examine and compare the few bones I had acquired of a small <hi rend="italic">Sphenodon</hi>: my paper on them was read here on Monday last, &amp; perhaps you may receive it by this mail.</p>
+         <p>I received the little case safely (though no note came with it), and hope it may reach you all right. The skeleton was partially disjointed in its case: I trust it was so when packed up.—</p>
+         <p>             I am, Dear Sir,</p>
+         <p>                     Yours truly</p>
+         <p>                     W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

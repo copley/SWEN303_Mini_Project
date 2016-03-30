@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0025">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1859 Open column. Hawke’s Bay Herald 6 August.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1859-08-06">1859 August 6</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1859 Open column.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 6 August.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—I believe you already know that I never notice anonymous letters. Exceptions, however, are found to all rules. And, inasmuch as “<hi rend="italic">Enquirer</hi>” (in your last) made a very proper enquiry, and that too in decent language, I am happy in being ready and willing to supply an answer.</p>
+         <p>I am also the more desirous of doing so; lest “Enquirer” (or others) should unhappily draw the erroneous inference, that the Superintendent’s writ and my own address to the Electors of Napier (both appearing at this time,) were elicited by or through his enquiry.</p>
+         <p>The facts, however, are simply these:―While the Provincial Council was sitting and near its close, a question was put (by, I believe the Superintendent himself, who had also previously obtained leave to bring in a Bill relative to this very matter,) as to the opinion of the Members concerning certain <hi rend="italic">special</hi> Acts of the Provincial Council of Wellington—<hi rend="italic">viz</hi>.:—such as “The Officers and Contractors Act;” whether such special Acts could be considered as legally applying to the Hawke’s Bay Provincial Council? Some of the Members were of opinion that they would apply; while others did not think so. You know, Sir, and the Public also, that we were not desirous of commencing our Provincial career by enacting too many new laws; and so it was finally agreed, <hi rend="italic">nem. con.,</hi> that the Superintendent should write to head-quarters and get the opinion of the Attorney-General on the subject.</p>
+         <p>He did so: but no answer had been received up to his leaving for Wellington in the “Wonga Wonga.” During his absence, however, an answer did arrive, which was duly laid before Capt. Carter on Saturday the 23rd of July; but, as the steamer was then coming in with the Superintendent on board, Capt. Carter thought it better to defer acting.</p>
+         <p>On the following (that is to say, <hi rend="italic">last</hi>) Monday, the Superintendent first saw the Government letters which had been received during his absence; and, of course, he lost no time in acting accordingly.</p>
+         <p>The opinion of the Attorney-General is, that all such Acts, although special, are in force until by the Council of Hawke’s Bay repealed; and therefore all Members of Council accepting any official appointment (whether of emolument or to the Executive) will have to go again to their constituents.</p>
+         <p>			I am, Sir, yours truly,</p>
+         <p>
+            <hi rend="smallcaps">		William Colenso.</hi>
+         </p>
+         <p> Napier, August 2, 1859.</p>
+      </body>
+   </text>
+</TEI>

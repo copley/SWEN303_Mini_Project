@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1097">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1864 March 11: To the Superintendent.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Letters in Auckland Museum Library ref MS-76.</p>
+         <p>Transcription by Ian St George</p>
+            <p>encoded into TEI by Melissa Bryant, 4.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1864-03-11">1864 March 11</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="office" key="http://wtap.vuw.ac.nz/eats/entity/76189/">the Superintendent</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>To The Superintendent, Napier March 11th 1864.</p>
+         <p>Letters in Auckland Museum Library ref MS-76.</p>
+      </front>
+      <body>
+      <p>Napier March 11th 1864</p>
+         <p>His Honor,</p>
+         <p>The Superintendent</p>
+         <p>Sir,</p>
+         <p>Having been selected and requested by the Commissioners of the Royal Exhibition at Dunedin to contribute to the essay on the Botany Geographic &amp; Economic of the North Island of New Zealand, and having undertaken the task, I have the honor to beg your Honor kindly to aid me in fulfilling the same, by forwarding to me at your earliest convenience any information, statistical or otherwise, relating to the Economic Botany of your Province, which it may be in your Honor’s power to afford. It being my earnest desire to do justice to every Province—particularly in shewing the large amounts of valuable timbers, barks, gums, drugs, fruits, vegetable &amp; fibre, &amp;c, annually used within the Province, (as well as the quantities exported therefrom, and, also, to give some approximate quantity of what may be still available, or annually so</p>
+         <p>I have etc</p>
+         <p>(Sd.) Wm. Colenso.
+</p>
+</body>
+   </text>
+</TEI>

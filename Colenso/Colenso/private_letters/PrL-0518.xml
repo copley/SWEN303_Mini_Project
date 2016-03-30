@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0518">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1882 October 21: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861. Endorsed “A 9/2/83 with cheque £1.0.0 &amp; tracing of Mantis”.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1882-10-21">1882 October 21</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1882 October 21: to Balfour<note xml:id="ftn3-164" place="foot" n="164"> ATL 88-103-1/07. Original at MTG HB 67861. Endorsed “A 9/2/83 with cheque £1.0.0 &amp; tracing of Mantis”.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Saturday Oct 21<hi rend="sup">st</hi> 1882</p>
+         <p>Mr D.P. Balfour</p>
+         <p>Dear Sir</p>
+         <p>I have been thinking much of you during this week,—and, this day Hamilton of Petane kindly called, and brought me several nice wee things (of Springs gifts), &amp; among them was a flowering branch of your famed <hi rend="italic">Divot</hi> plants.</p>
+         <p>First, perhaps, I should tell you that I have been laid up all this week with severe Lumbago,—which suddenly unexpectedly, &amp; <hi rend="italic">most unwelcomely</hi> visited me last Sunday morning. I was obliged to knock under &amp; go to bed, &amp; <hi rend="italic">take</hi> the brock or hedgehog, with me.</p>
+         <p>I had been working <hi rend="italic">doubly</hi> hard all the preceding week up to late on Sat night (intending to leave for the Bush on the 17<hi rend="sup">th</hi>)—had got my read papers, official letters, specimens, &amp;c, all packed, &amp; off to Dr Hector, &amp; others—when lo’ the crash came, &amp; the old tree fell!!. Yesterday (&amp; also a part of the day before) I got down again, &amp; tried to do a little writing, &amp; H, hearing of my state, came this mg with specimens &amp; staid 2 hours.</p>
+         <p>Last week I sent you a “D.T.” containing a fair report of our last meet­ing; there were <hi rend="italic">lots</hi> of <hi rend="italic">nice things</hi>; a whole table full; aye, 2 courses. Would that <hi rend="italic">you</hi>, and a few others I know were there. You would have had a feast.</p>
+         <p>Now to your welcome letter of 30<hi rend="sup">th</hi> Sept—to hand (post mark), 3<hi rend="sup">rd</hi> Oct. (I must mention this late date in my own defence). The little box of <hi rend="italic">Hepaticæ</hi> came to hand alright, &amp; was of service in helping me with what I had got from Mr Reader (S. Island); they were <hi rend="italic">quite</hi>
+            <hi rend="italic">ripe</hi> (those which had fruit), &amp; were shown as from Glenross at our meeting, I having dissected &amp; mounted them.</p>
+         <p>The “2 mutilated spns of ferns” from your sub Alpine Bush, I recognise &amp; should like to see more of them—especially of the pinnate one. I believe it to be <hi rend="italic">Asplenium</hi>
+            <hi rend="italic">Trichomanes</hi>, (a British fern—up to the extreme N in the Orkneys,)—I once found it on the stony tops of Puke-Kautuku, on Lauries run <hi rend="italic">before he was married</hi>!!—but I should like to see more of it,<hi rend="italic">whole plants</hi>.</p>
+         <p>The other bit (tip of a frond) is, no doubt, <hi rend="italic">Polypodium Australe</hi>.</p>
+         <p>Your 2 packets by Mr Tod, came safely to hand; I could not <hi rend="italic">well</hi> show your Fossils at the meeting, as I had so many, larger &amp; better (i.e. for my mix­ed audience); in a scientific point of view, yours are more interesting. The packet of <hi rend="italic">Fuchsias</hi>, contain (I believe) specimens of 2 kinds, <hi rend="italic">F.excor­ticata</hi>, &amp; <hi rend="italic">F.Colensoi</hi> (see p728 of Hand Book,) I have <hi rend="italic">F.procumbens</hi> here now in flower.</p>
+         <p>I have not seen P.D. since I last wrote,—<hi rend="italic">his absence</hi> prevented my going to Springfield, as I had arranged; I hope to get away to the woods next week. Keep a good lookout for flowers of your <hi rend="italic">Divots</hi>, and in drying any, let it be done <hi rend="italic">early</hi> &amp; without <hi rend="italic">much</hi> pressure, Just in a book, chan­ging place daily.</p>
+         <p>No doubt you are <hi rend="italic">busy</hi>. “All right”. I am getting better fast.</p>
+         <p>With very kind regards, Yours truly </p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0051">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1845 January 13: to Hamahona</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-0585. From typed copy, annotated “Copy of a Letter to Hamahona, Ẁarerangi”.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+            <correspAction type="received">
+               <name type="person">Hamahona</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1845-01-13">1845 January 13</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1845 January 13: to Hamahona<note xml:id="ftn1-53" place="foot" n="53">ATL MS-0585. From typed copy, annotated “Copy of a Letter to Hamahona, Ẁarerangi”.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Hanuere, 13, 1845.</p>
+         <p>Eta, e Hamahona,</p>
+         <p>Tena ra ko koe, erahi ano taku aroha atu ki a koe, ahakoa kahore ano ahau i kite noa i a koe, no te mea hoki kua rongo ahau no te Hahi koe, no, ki te mea ka pono tena kupa kua rangona e ahaa, no to Hahi koe, ka rongo mai ano koe ki taku nei tuhi, ta te mea hoki, E rongo ana nga hipi a te Karaiti kia ia, kiana minita, ae, ko tetahi tenei o nga tohu e mohiotia ai ratou; Na, kahore ahau i pai kia karangarangatia korua ko taua kotiro Iriiri kore, <hi rend="italic">[page torn]</hi>; engari, ki te mea e aroha ana koe kia ia, <hi rend="italic">[page torn]</hi>, kia haere mai ano hoki ia ki ahau, a ka mohio ia kia Itiria ano, ko reira ano ka tika ai kia marena korua. Tirohia, e koe, to Koriniti tuarua, u. 6, r. 14, 15; ta Matiu hoki, u. 6, r. 33; u. 10, r. 37; ta Ruka hoki, u. 14, r. 26; me tera korero nui i te timatunga mai o te karakia wakamarena. A ma te Atua ano e hoatu kia koe he wakaaro tika.</p>
+         <p>Me haere mai pea koe ki ahau, kia korerorero taua.</p>
+         <p>                                       Naku<lb/>                                                               Na te Koreneho.</p>
+         <p rend="end">January 13, 1845</p>
+         <p>My friend, Hamahona,<note xml:id="ftn1-54" place="foot" n="54"> Samson. Translation by Frith Driver-Burgess.</note>
+         </p>
+         <p>Greetings to you. I have much love for you, although I have not yet seen you, and because I have heard you are of the Church, and if these reports I have heard are true, that you are of the church, you will hear again of my writing, also because Christ’s sheep hear his call, to his ministers, yes, this is one of the signs known to them; now, I do not like to call you two and your girl unbaptised, <hi rend="italic">[page torn]</hi>; but if you love this person <hi rend="italic">[page torn], </hi>he/she should also come to me, and shall also learn about Itiria again <hi rend="italic">[possibly: shall be baptised again],</hi> and by this means it will be permissible for you two to marry. You should examine II Corinthians, ch. 6, v. 14, 15; and Matthew also, ch. 6, v. 33; ch. 10, v. 37; and Luke also, ch. 14, v. 26; and that important passage at the beginning of the ceremony of marriage. Therefore may the Lord grant you wisdom.</p>
+         <p>Perhaps you should come to me, and we will discuss this. </p>
+         <p>                       Yours,  </p>
+         <p>                               From Colenso.</p>
+      </body>
+  </text>
+</TEI>

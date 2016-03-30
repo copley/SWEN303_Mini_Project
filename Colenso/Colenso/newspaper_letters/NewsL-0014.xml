@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0014">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1858 Tracts for the times No.3. Hawke’s Bay Herald 13 November.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1858-11-13">1858 November 13</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1858-11-02">1858 November 2</date>
+        <name type="place">Waitangi</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1858 Tracts for the times No.3.         <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald</hi>
+        <hi rend="bold"> 13 November.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+        <hi rend="italic">“Dare lucem et dare servem.”</hi>
+      </p>
+      <p>No. 3.—<hi rend="smallcaps">Take time by the forelock.</hi>
+      </p>
+      <p>Every well-wisher to good government amongst us should feel obliged to the Editor of the “Hawke’s Bay Herald” for his gratuitous publishing of the Electoral Roll of the District, and thus giving extra publicity to a public document which can never be too well known. That Roll, however, is not what it should be—what it must be in order to be complete. As it now is it does not fully represent the county of Hawke in its entirety. For, 1st, there are not a few names inserted on wrong qualifications; and, 2nd, there are many settlers whose names are not on it. And as the beginnings of Responsible Government in its integrity spring from the correctness of the Roll, it behoves every elector to see that the Roll be made as perfect as possible. Of course it will be the positive duty of the Revising Officer (who will shortly be appointed by the Governor,) to look after all men of straw and all false qualifications; but every qualified settler, whose name is not already on the Roll, should consider it to be his duty (as well as privilege) to get his name speedily inserted. </p>
+      <p>As sundry important alterations have been recently made by the General Assembly in the Acts relating to electors and elections, some of which it is highly needful should be early known by all settlers whose names are not on the Roll; and as the time is short—when viewed in connection with the ever busy summer season of shearing and harvest and sperm-whaling, and our many scattered dwellings—not to mention our present imperfect postal communication, and that great colonial weed of putting off till to-morrow what ought to be done to-day,—all these considerations combined, urge me to call upon my fellow-settlers to take time by the forelock and see to it that their names are enrolled. </p>
+      <p>A few of the more important alterations in the above-mentioned Acts I will here briefly state:—        <lb/>1. The<hi rend="italic">way</hi> in which a claim to be enrolled as an elector is to be made; every such claim must now be accompanied by a declaration on the part of the person so claiming, to be signed by him before a Magistrate or the Registration Officer, to the truth of his claim, and any false declaration is liable to a fine of £20, to be recovered summarily:—   <lb/>2. The time for making such claim is now limited to the month of March (instead of April, as formerly,) in each year:—     <lb/>3. The manner of voting at elections is altogether altered; the system of voting papers containing the name of the candidate is wholly abolished, and now each elector is to name the candidate when his vote is recorded; and, further, the elector may also then be sworn, (if the Returning Officer thinks fit,) that he has not received any bribe or consideration for his vote, and the penalty for such false-swearing is that inflicted for perjury:—and,  <lb/>4. The Revising Officer will have full power to strike off all false or insufficient claims from the Roll, even if not by any one objected to.</p>
+      <p>Now it is not unlikely that our general election may come off during the approaching autumn, so that there is time enough for every un-enrolled yet qualified settler to get his name enrolled, and thus be ready to serve his country in the very best way—by voting for <hi rend="italic">proper persons only</hi> to carry on its government. I would once more remind all such settlers,—particularly those residing in the more northerly parts of the province (such as Wangawehi, Table Cape, Te Mahia, Waikokopu, Nuhaka, Te Wairoa, and other spots near,) as well as several others dwelling within 10 miles of Napier,—to look to this, and be very sure to send their claims in to the Registration Officer in time. And my chief reason for more particularly mentioning those parts is my certain knowledge of many settlers resident therein whose names are not on the roll; while I scarcely know of one in the more southern parts of the province whose name has been omitted. And, further, I would suggest to those electors whose names are already enrolled, as well as to those, who shall straightway proceed to send in their claims,—to stir up all their neighbours to do their duty and to consider their privileges.</p>
+      <p>It was a good answer of the doctor to his patient who had sore eyes— “If you have more pleasure in wine than in your sight, wine is good.” Just so, my fellow-settlers, if you have more pleasure in inattention and carelessness than in being active to secure your just privileges, (by which you may put the right men in the right place and so do your part towards prosperity and good government,)—why, then carelessness is good. But do not so act, (or, rather, <hi rend="italic">refuse </hi>to act) as to cause yourselves any disagreeable reflections hereafter, <hi rend="italic">should </hi>things turn out contrary to your desires. Remember the old saying,—</p>
+      <p>“For want of a nail the shoe was lost, <lb/>For want of a shoe the horse was lost,     <lb/>For want of a horse the rider was lost,    <lb/>  Being overtaken and slain by the enemy,  <lb/>And all for the want of a horse-shoe nail.”</p>
+      <p>
+        <hi rend="smallcaps">   Wm. Colenso.</hi>
+      </p>
+      <p> Waitangi, Nov. 2, 1858.</p>
+    </body>
+  </text>
+</TEI>

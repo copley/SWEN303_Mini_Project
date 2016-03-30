@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0258">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1870 November 30: to Mantell</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-papers-0083-261.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73192/">Mantell</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1870-11-30">1870 November 30</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1870 November 30: to Mantell<note xml:id="ftn2-183" place="foot" n="183"> ATL Ms-papers-0083-261.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier November 30 1870</p>
+         <p>The Hon.<lb/>W. Mantell,<lb/>Wellington.</p>
+         <p>My dear Sir</p>
+         <p>Yours of Novr. 16 I have received and have seen Doyle twice, and have arranged with him that he is to pay you £90 (Ninety Pounds) for the Land. (For, as you had originally fixed on £120. (too high, however,) I thought I would try, in all fairness, to get you another bid, it was however hard work, &amp; only done, through my promising to assist him in raising the money.) And as a “middle man” is requisite to complete the transaction I have agreed to act (if you have no objections)—making myself hereby responsible to you for the above sum (£90.) on my receiving from you the Cr. Gt. &amp; Conveyance to John Doyle—which sum should be for this remitted by me to you in Wellington:—or, you can send the Gt. &amp; Conveyance to Mr Brandon <hi rend="italic">here</hi>, the Manager of the Bk. of N.Z., with instructions to hand it over on his receiving the £90. for you.—It is requisite that the Conveyce. from you should be here, as Doyle has arranged to raise ⅔rds. of the Money on Mortgage of the whole property including his own.</p>
+         <p>If your Cr. Gt. has <hi rend="italic">not</hi> been requested—you will please pay <hi rend="italic">this fee </hi>(always usual <hi rend="italic">here</hi>), and you may also, I think, pay that of the short &amp; simple conveyance to him—as £1.1.0 should suffice for a simple endorsement.—But if not (this latter) get it done, and forward <hi rend="underline italic">early</hi>. If you agree to this,—just say so by Telegraph, that I may also get the mortgage ready.—  In haste</p>
+         <p>Believe me</p>
+         <p>Yours truly</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

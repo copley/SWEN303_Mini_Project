@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0858">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1893 February 21: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-485-4.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1893-02-21">1893 February 21</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1893 February 21: to Luff<note xml:id="ftn3-631" place="foot" n="631"> ATL MS-Copy-Micro-485-4.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier,<lb/>Tuesday night.<lb/>Feby. 21, 1893.</p>
+         <p>Mr. A. Luff,</p>
+         <p>My dear Sir,</p>
+         <p>I have just finished my usual monthly lot of letters and papers for England—and now I turn my attention to <hi rend="italic">you</hi>: first, however, an ample apology; for it was only this afternoon I found your long &amp; kind letter of December 21 among my big &amp; ever-growing bundle of <hi rend="italic">unansd.</hi> letters, and I assure you it astonished me! I had forgotten all about it, amid my numerous and very varied avocations of the past 2 months. And here I must explain: I went back to Dannevirke the week before Xmas and as I purposed staying there only a few days, I did not have any letters &amp;c., re-addressed to me there: on my return to N. <hi rend="italic">on</hi>
+            <hi rend="italic"> 28th</hi>. I was very unwell from Lumbago, unfit indeed to ridein carriage or to move at all, but sternDuty impelled meon—for I had consented to take the Duty here in the Cathedral on the 1<hi rend="sup">st</hi>.January (mg.), and at Augustine’s in the evening, and on <hi rend="italic">that</hi> the Dean wife &amp; family had all gone to Kuripapango &amp; there was no one here to aid! I had 3–4 wretched days of it!—but was enabled on the dreaded 1<hi rend="sup">st</hi>.to take both Ch. duties:—and then I had also previously agreed with Rev. C.L. Tuke to take his Ch. Duty at Taradale on the 8<hi rend="sup">th</hi>. Jany., he going to his uncle on W. Coast,—so you may see that everything of letter kind was for the time put on one side—and since then I have been very busy (3 more Sundays at Taradale) in many ways: it is only <hi rend="italic">lately</hi> that I found time to ansr. Sir Jos. Hooker’s <hi rend="italic">two</hi> letters to me, of July &amp; October, &amp; I have others from various parts of the world yet to answer! I work daily hard &amp; steady &amp; that till a late hour—say X.30., or later, but cannot overtake my lost leeway of last year! I shall, I hope, by &amp; by. I should tell you that I had my several papers read at our Institute meetings from my rough draft, to copy: also my specimens of Fungi collected in ’92, to put up with notes for Kew.</p>
+         <p>Now, I have been thinking on you (and your son) pretty much of late, &amp; this for 2 reasons: <hi rend="italic">re</hi> yourself, last week I had Slater here fixing some shelves for me, and I determined to hang your <hi rend="italic">big</hi> Indian picture in my parlour, but to do so I had to take down those 2 coloured ones in superb frames (? Italian beggars) I bought at <hi rend="italic">your </hi>auction, and so, Slater and self had some chat over them;—then re your son; as you may suppose I have thought much, very much, of Woodville &amp; of my ministrations there, since I left W. at end of Novr.—there were <hi rend="italic">some pleasant</hi> thoughts among the multitude arising within, and then I should see the image of your son, and all this has been the more increased through my <hi rend="italic">not</hi> hearing from Wdv. since I left! not even from Eccles, for whom I did so much, &amp; all at my own expense—in order to benefit him!—and now, my dear Sir, you know all.—</p>
+         <p>And now I must endeavour to ansr. your questions. 1. <hi rend="italic">re</hi> snails! overwhelmed w. them: between them &amp; the birds (Tom Tanner’s chickens!) I get <hi rend="italic">nothing now</hi> from my old garden: to keep a few Ducks in the garden is about the <hi rend="italic">best</hi> thing I know: but my man won’t allow them there! &amp; (like too many <hi rend="italic">old </hi>servants) he has his own way in all these matters.——–</p>
+         <p>2. The green lizard <hi rend="italic">died</hi>—owing to stupidity of my people during my absence, in the Bush: in their feeding it (<hi rend="italic">them</hi>) w. a few flies, they jammed down the glass dome into the groove, &amp; so they got no air &amp; were suffocated!</p>
+         <p>3. The great nettle (Mealum-ma) of “Himn. Journals”, pp. 424–5 (mentd. by you) is <hi rend="italic">not</hi> in N.Z., but we have, as you also mention, a <hi rend="italic">severe</hi> one, <hi rend="italic">Urtica </hi>
+            <hi rend="underline italic">ferox</hi> (well named!) I have been stung <hi rend="italic">severely</hi> by it. If you have “Hooker’s Handbook N.Z. Flora” look at p.251. We have, also, 3–4 other <hi rend="italic">small</hi> species.—</p>
+         <p>4. <hi rend="italic">Re</hi> “seeds of <hi rend="italic">Titree</hi> shrub—scrub.” Do you mean the small-leaved fragrant <hi rend="italic">Manuka</hi>? Before I left England (say, 1828–9) I saw a <hi rend="italic">fine shrub</hi> of it growing in a Cornish gentleman’s garden, from seeds taken to England by <hi rend="italic">Banks</hi>.</p>
+         <p>5. I don’t remember “that dark glossy leaved creeping plant or shrub I sent you”—What is it? When you write, send a <hi rend="italic">leaf</hi>.</p>
+         <p>I could send you some seeds of the famed mountain Tooii (large-leaved Cabbage-tree) also of the N.Z. palm—<hi rend="italic">Nikau</hi>, should you care to have them.—</p>
+         <p>Weather here of late very hot: in this cool house (surrounded by trees &amp; shrubs) thermr. 82<hi rend="sup">o</hi>–85<hi rend="sup">o</hi>; <hi rend="italic">in</hi> Bank N.Z. below, at 92<hi rend="sup">o</hi>.</p>
+         <p>Maina birds very plentiful, and it is pretty to see them in the paddocks, but, like the rest, destructive of fruit!</p>
+         <p>Today I saw a <hi rend="italic">very fine</hi> Kingfisher here on fence; also on a branch <hi rend="italic">close </hi>to my writing room window, a pretty little <hi rend="italic">Cuckoo</hi>; it remained some time there looking in!</p>
+         <p>And now my good old friend I must close. Please fully pardon my <hi rend="italic">seeming</hi> negligence: and believe me with very kind regards,</p>
+         <p>             to be yours truly</p>
+         <p>                             W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

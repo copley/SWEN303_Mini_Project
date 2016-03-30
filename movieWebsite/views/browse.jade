@@ -1,0 +1,44 @@
+extends ../node_modules/jade-bootstrap/_bootstrap
+head
+  title=title
+
+style.
+    h3 {font-size: 19px; color: #464646;}
+
+
+
+block body
+  +navbar("Colenso Database", "dropdown_menu")
+    +nav_item("/") Home
+    +nav_item("/browse", "active") Browse
+  .container
+    h1 Colenso Database Folders
+    p Click the links below to explore the folders
+
+  .container
+    s
+    if folders.length == 0
+      a(href='/browse') Click here to return to Colenso File Browse
+
+    if folders.length > 0
+      each folder in folders
+        a(href='/browse?path=' + folder) #{folder}
+        br
+
+    if files != undefined
+      if path.length > 1
+        h3 Files returned in #{path}
+      else
+        h3 Upload your files below.
+        p.
+          To upload file please click "Choose File" to select file then click "Upload File"
+      each file in files
+        a(style={color: 'red', background: 'green'})
+        a(href='view?path=' + path + file) #{file}
+        a(style={color: 'red', background: 'green'})
+        br
+
+    br
+    form(action="/upload?path=" + path, method="post", enctype="multipart/form-data")
+      input(type="file", name="file")
+      button(type="submit") Upload File

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0099">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1882 The fever scare. Hawke’s Bay Herald 11 April.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1882-04-11">1882 April 11</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1882 The fever scare. 	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 11 April.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—I deem it a duty to thank you for your brief yet tardy remarks <hi rend="italic">re</hi> the “fever scare,” in your issue of this morning. Such, however, or something stronger, should have appeared long ago in both of our papers; still I thank you— “better late than never.” I note that you, also, have used a very apposite proverb in your remarks about “a dirty bird, &amp;c.”; and, therefore, I copy for you what I found in the <hi rend="italic">N.Z. Mail </hi>of Saturday last, as you may not have seen it, (a portion of a letter from Wairoa concerning Napier and its fever!)—as it is scarcely just to charge <hi rend="italic">all</hi> the evil to “the Press Association’s Napier agent for the evening papers.”—</p>
+         <p> — “Now seeing that Napier town is simply one huge fever bed, that the business portion of the ‘city’ is built upon a sickening mass of putrid swamp and shingle soaked to repletion with the drainage from cess-pits, would it not be as well to admit that Napier town, as well as a harbor, is a failure, and to make a fresh start at the Kidnappers? Of what use is all this tinkering up of drains that lead nowhere, and patching up of harbor work that will never constitute a harbor if Napier is to become, some very hot autumn, one vast charnel-house.”—</p>
+         <p>Of course I (that I say not, <hi rend="italic">we</hi>) too well know the flippant careless scribbler, who writes too often for all papers roundabout in a similar thoughtless witless strain; and I have long thought (with others), that respectable papers should have quietly relegated him to the paper of his own village,—where, however, he is too well known! </p>
+         <p>I could say a very great deal on this autumnal fever visitation, having known more of it practically (I may say,) than any resident here in Hawke’s Bay, and that, too, from a time when there were no other European residents than myself (and no “cesspits,” &amp;c, &amp;c.)—then it was much more common than it has been since; but, at present, I forbear.—I am, &amp;c., </p>
+         <p>
+                  <hi rend="smallcaps">					W. Colenso.</hi>
+               </p>
+         <p> Napier, April 10, 1882.</p>
+         <p>P.S. — In the same paper, I note the following telegram from <hi rend="italic">Nelson</hi>:— “April 4. The scarlet fever does not appear to be spreading to any extent. One new case yesterday. Mr Naylor, however, lost his 4th child from this disease this afternoon, the four children having died within a week. There have been five deaths in all, and other cases are said to be recovering.” (And this is pre-eminently healthy Nelson; had one household <hi rend="italic">here</hi> lost four in a week, what would such creatures as the Wairoa bird have screamed and scrawled!!) </p>
+      </body>
+   </text>
+</TEI>

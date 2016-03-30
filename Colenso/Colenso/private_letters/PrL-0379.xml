@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0379">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1878 December 25: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861. Endorsed “R &amp; A 3/1/79 with Drosera auriculata &amp; Lomaria alpina”.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1878-12-25">1878 December 25</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1878 December 25: to Balfour<note xml:id="ftn2-341" place="foot" n="341"> ATL 88-103-1/07. Original at MTG HB 67861. Endorsed “R &amp; A 3/1/79 with Drosera auriculata &amp; Lomaria alpina”.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Dec 25th 1878</p>
+         <p>Mr D.P. Balfour</p>
+         <p>Dear Sir</p>
+         <p>Your kind &amp; welcome letter of the 20th I received this mor­ning, and will not defer replying</p>
+         <p>I thank you for the two specimens enclosed;—the <hi rend="italic">Drosera</hi> is, no doubt, binata—but I should like to see a <hi rend="italic">perfect</hi> specimen, which is not to be had at this season. I have found fine specimens of <hi rend="italic">D. binata</hi> (some nearly 3 feet high) on the W flanks of the Ruahine, at much the same altitude as you mention, &amp; growing also in a boggy spot—which is the natural habitat of this plant, of all <hi rend="italic">Drosera</hi>.</p>
+         <p>The Fern (if this be the identical species I wished to see more of) is, I think <hi rend="italic">Lomaria alpina</hi> (my old &amp; published <hi rend="italic">L. linearis</hi>)—which is common enough (or was) on dry tracts in the interior; but of this I shall speak more decidedly, ere long, though I have but little doubt about it.</p>
+         <p>I spent the last week in Oct in the 40 Mile Bush (at Norsewood), where I truly enjoyed myself in the forest, among the trees &amp; ferns and Tui birds; unfortunately it rained there 3 of the days, &amp; was very cold, so that I got more Rheumatism than I had expected or desired.</p>
+         <p>I got some <hi rend="italic">beautiful</hi> specimens of ferns—of the smaller kinds which some day I may have the pleasure of showing to you. I have also received a lot of Sydney ferns, &amp; some from England, since we parted, &amp; now both our &amp; my own Botanical Books are on their way on the “Chile”,—among mine are some of the first on ferns,—and possibly when they arrive, I might sit down to a close study, &amp;c, of our N.Z. Ferns; unless as before, something turns up to draw me aside.</p>
+         <p>You must not think I had forgotten my promise to write; no, no, but I had plenty of writing to do (part of which you may have seen in the local papers),<note xml:id="ftn2-342" place="foot" n="342"> A few thoughts and facts concerning the “Sabbath” and its due observance. <hi rend="italic">Hawke’s Bay Herald</hi> 24, 27, 28 September; 1, 5, 22, 31 October; 14, 15, 21, 29 November; 4, 12 December 1878.</note> and some unexpected &amp; ugly business matters and Lawyers to attend to, including heavy losses,—besides, I heard from my good friend P. Dolbel that you were engaged in shearing operations, so I knew that you were busy.</p>
+         <p>You mention having some ferns for me, perhaps you could leave, (or send) them with Mr Dolbel, at Springfield;—I mean, not to send them at this dry season, by mail, as they get crushed &amp; broken.</p>
+         <p>I hope to pay Springfield a visit within a fortnight, or so.</p>
+         <p>Why did you enclose an envelope with a stamp on it? Surely there was no need of that.</p>
+         <p>I found exceedingly dry inland last week (I was at Waipukurau for 4 days, returning last Saturday night)—almost drier than it is here. The country looks awfully in want of water—I hope it is better with you.</p>
+         <p>And heartily wishing you a Happy New Year, now close at hand I am</p>
+         <p>Yours truly</p>
+         <p>W.Colenso.</p>
+         <p>For the last 2–3 days I have had Rheumatism in my right hand, which affects my writing W.C.</p>
+      </body>
+   </text>
+</TEI>

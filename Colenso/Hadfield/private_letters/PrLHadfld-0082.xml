@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0082">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1853 July 2: Octavius Hadfield to his sister Amelia</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  Page 245.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 9.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1853-07-02">1853 July 2</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71117/">Amelia Hadfield (daughter of Amelia Caroline Hadfield, nee White)</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1853 July 2: Octavius Hadfield to his sister Amelia</p>
+      </front>
+      <body>
+      <p>Wellington</p>
+      <p>July 2. 1853</p>
+      <p>My dear Amelia</p>
+      <p>I wrote a few days ago to George, but I find the ship by which my letter is to go is delayed, I therefore avail myself of the opportunity of replying to your letter of the 17th. of Feb.</p>
+      <p>I was very sorry to hear of the death of Uncle Warren, and also of uncle <supplied>[ 's]</supplied> accident, which I fear must at his age, even with English surgeons to attend on him prove fatal.  Your account, however, of all at home was good.</p>
+      <p>Since I last wrote some changes are taking place here. Sir George Grey is going home immediately, on leave, but I am quite sure he will never return: he is tired of N.Z. and no minister will compel him to return. I am not quite clear as to what effect his departure may have on the more uncivilised parts of the country: I am not certain that there may not be some attempts at war etc. Sir G. Grey has not, in my opinion, exerted himself sufficiently in extending his influence among the natives during the last few years. I am sorry he is going as no Governor will be found so anxious to promote the welfare of the colony, and more especially of the natives than Sir G. Grey.</p>
+      <p>You alluded to the new Secretary for the colonies.  The truth is now we have a representative government we care very little about him.  But I think very poorly of the Duke of Newcastle: I have no opinion whatever of his statesmanship: all that he has ever said and done while in opposition in reference to N.Z. has been wrong.  Lord Deorly while in office, and Sir J. P have been our best friends.  Lord Grey is an incapable: and his job with the N.Z.Company, giving them about &#163;600,000 mainly on their own representations of their grievances is one of the worst acts that ever I have heard of in the worst times of jobbing.</p>
+      <p>Today the Superintendant<!--sic--> of this Province has been elected. Mr. Featherston was the person. He is in very bad health and I am afraid his new office will kill him. I asked him to go back with me to Otaki for change of air for a few days, but he is almost too ill to travel so far this cold weather. He is a tolerably clever and able man, who had devoted himself entirely to politics of late years. He and I had some differences formerly, but we are good friends again now. He used to be much opposed to the natives, but is not so now.</p>
+      <p>I am afraid that we shall have another loss; this is, however, only a surmise.  The Bishop of Sydney's death creates a vacancy which our Bishop <hi rend="underline">may</hi> be called on to fill.  I shall be very sorry if he leaves us.  I cannot say what he will do; but a sense of duty might lead him to accept a position where his influence might be more extensive than it is even here.  We shall never get his equal here again.  But he may not accept it if it is offered to him.  I am in here trying to make some arrangements for the better supply of clerical duties.  I am endeavouring to bring the Rev. R.B. Paul who resides at the Canterbury settlement to this place to take part in the duties.  I find that I can manage to raise about &#163;200 or &#163;250 per an. for him; and so I have written to him to see if I can persuade him to come.  He was staying with me for a few days last year and I thought him a person who would be useful here.  He is an old man but a very good man, and one quite willing to work.</p>
+      <p>My duties are so much confined to the natives that I seldom preach here.  I intend preaching to the English congregation tomorrow as there are at present scarcely any natives in the place.</p>
+      <p>We have the notorious Gibbon Wakefield here now interfering with every thing and upsetting all he can. He will do much mischief here: there is nobody at all equal to him, or able to compete with him. I believe I am to see him on Monday.  His son called on me yesterday and said his father wished to talk with me on some matters, so I could not refuse. I am afraid of him, as I am very likely a year hence to see something stated as my opinion which may be only a perversion of something I have said. I shall be on my guard; but this is difficult, as according to my friend Mr. Godley, with the exception of the Bishop I am the most free spoken person in N.Z.</p>
+      <p>I do not know that I shall be any more at Otaki from being married, as you seem to infer.  My duties lie in all diretions, and they <hi rend="underline">must be</hi> attended to.  There is nobody to compel me to this, but I am never happy if anything is left undone.  I have a good deal going on at Otaki now which requires attention.</p>
+      <p>We have had a very unhealthy season.  I never knew half the rain we have had to fall within six months before.  Influenza has been very prevalent.  I was laid up for some days, and have not yet recovered my usual strength.  I have been reading much of late.  How needful I find in the midst of the distractions of a country like this to read.  Some years ago the interruptions occasioned by the natives were so great I could read but little; but it is not so now.  I am staying with the St. HIlls, they are very well.  My wife and baby are at Otaki.  With love to all, your affectionate brother,
+      </p>
+      <p>Octavius Hadfield.</p>
+      </body>
+   </text>
+</TEI>

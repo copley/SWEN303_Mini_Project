@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0004">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Undated: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1016849</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>Encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="-----">Undated</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>Undated McLean to Colenso (#1016849) </p>
+		</front>
+		<body>
+			<p>My dear Mr. Colenso </p>
+			<p>In case I may not see you I will write these few lines from “Pa tangata” to inform you that I have had a long Korero with the natives, at which they have agreed to add considerably to the first purchase at the Waipukurau, also to thank you for the good advice you have been giving to “te Moana Nui” and others respecting their conduct at the “land Komities.” </p>
+			<p>The natives have pointed out to me the land you once proposed to purchase for the Mission station at ‘Wakatatara and at Patangata, the first is a romantic spot if sufficiently extensive for the purposes we talked of, that is, of subdividing for a native village around you, in the carrying out of which I shall be really glad not only to recommend its adoption to the Gov. in Chief, but to give you all the personal aid in my power from a thorough conviction that it would be productive of much good in furthering your missionary operations and in leaving durable evidence to posterity of the fruits of Missionary zeal in civilising the natives. I have frequently thought of the subject since you first mentioned it, and I shall continue during my rambles to note down such spots as will be best suited for you, and should we both succeed in fixing on a place, and obtaining the same, I hope your other project will not influence you to leave our adopted Island in which you have laboured so many years. </p>
+			<p>I would have called to see you on Monday but I thought you would be “raruraru” preparing for your journey, as I was myself in getting the survey parties under way. </p>
+			<p>I see by your “haerenga” that on the 25 you will be at “Manawarakau” for which place I leave tomorrow, so that by what the natives tell me as I am scribbling there is still a good chance of meeting you. </p>
+			<p>From what I can make out a portion of the Waipukurau land you spoke of is also offered, but from not knowing the native names and not wishing to be inquisitive on a subject on which they are so jealous I cannot speak for certain. This is written with a crowd round me asking questions &amp;c. therefore you will excuse its being in pencil, and with every wish that you may have a pleasant trip and safe return to your family  </p>
+			<p>I remain  my dear Mr Colenso  </p>
+			<p>Yours very faithfully  </p>
+			<p>Donald McLean  </p>
+			<p>Thursday night<!--20 March 1851--> </p>
+			<p>I send this by Aperahauia who is pouri and wishes to be forgiven for some offence which I must beg you to do if it does not interfere with your discipline otherwise he will be pouri night and day till your return. </p>
+		</body>
+	</text>
+</TEI>

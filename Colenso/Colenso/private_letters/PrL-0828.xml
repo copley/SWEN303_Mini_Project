@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0828">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1892 April 27: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1892-04-27">1892 April 27</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1892 April 27: to Harding<note xml:id="ftn3-586" place="foot" n="586"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>Wednesday nt.<lb/>April 27/92</p>
+         <p>Dear Mr Harding</p>
+         <p>You, I think, will not be surprised in receiving a letter written by me from this place &amp; at <hi rend="italic">our old </hi>corner!—</p>
+         <p>Yesty. I unexpectedly recd. yours of 24<hi rend="sup ">th</hi>. (add. to me at Dvk., but, I see, bearing 4d. postage on it, ½ being clapped on at Dvk.—an enqy. for me—anon.</p>
+         <p>I came hither on Monday 25<hi rend="sup ">th</hi>. &amp; <hi rend="italic">purposed </hi>returning tomorrow:—at present (&amp; since noon today) it is a howling S. gale of wind &amp; <hi rend="italic">rain</hi>: if it <hi rend="italic">lessens </hi>I purpose starting tomorrow, if not then I stay till Friday—when I <hi rend="italic">must </hi>go, as I have to take the Wdv. Ch. Services on Sunday.—</p>
+         <p>I came to N. mainly on 2 matters, to see Capt.R., and to get some “copy” for <hi rend="italic">work</hi>—<hi rend="italic">i.e. </hi>some old notes re Hawaiki &amp; green stone legends,—as I cannot endure being idle in the Bush, &amp; while I would very much rather spin away <hi rend="italic">here</hi>, I could only do so by going to &amp; from Woodville every week—which I dislike (the long jy.) &amp; it always upsets me for a few hours, besides destroying my first night’s rest.</p>
+         <p>I think, I told you of the above before: I wrote a note to Capt. R. the same day I last wrote to you, &amp; on my arrival here I got a reply from him—“he wod. meet me on Tuesday in Fannin’s off. at XI.” I went thither yesty. &amp; we had nearly an hour’s talk in P.C. Chamber: I am taking in w. me materials for my paper, of which you, no doubt, will hear more by-&amp;-by:—<hi rend="italic">R. supports it</hi>.</p>
+         <p>The weather changed on Monday evening: yesty. it was showery, but today—it <hi rend="italic">is</hi> raining! Being here for 2 days only—I was obliged to go to town today: 1, to call on the Bp., (to whom I had yesty. written, saying, I should do so—but <hi rend="italic">must </hi>ride there &amp; back!) on my rounding Newton’s Corner I came full tilt agt. yr. Father. I, in a dreadful hurry, being <hi rend="italic">late</hi>, we just shook hands,—he kindly remarking, “I ought not to have been out in such weather”: and, 2, to make some small purchases.—–</p>
+         <p>I hope you will see the “Herald” of 26<hi rend="sup ">th</hi>. contg. a col. &amp; ½ advt. from the late employer Evg. News—which will interest <hi rend="italic">you </hi>much.</p>
+         <p>My Botanl. visitor at Dvk. stuck to me <hi rend="italic">closely</hi> until My. mg. 25<hi rend="sup ">th</hi>. when I saw him off.—A most enthusiastic Botanist, but not knowing any of our N.Z. plants, he caused me <hi rend="italic">much labour &amp; trouble </hi>and <hi rend="italic">pain</hi>—even to 3 times into the woods—during 3 days, although suffering <hi rend="italic">much </hi>from my <hi rend="italic">movements</hi>, which he, <hi rend="italic">not feeling</hi>, did not care for, then my evgs. taken up with naming, &amp;c. A very pleasant middle-aged man, father of 6 children, who has travelled a great deal: he leaves by “Arawa” on 30<hi rend="sup ">th</hi>.—–</p>
+         <p>I am pleased w. your letter at yr. having employ, &amp; at yr. fair report <hi rend="italic">re </hi>Victor &amp; the rest. Do not trouble yourself <hi rend="italic">now </hi>to write <hi rend="italic">so often</hi>,—say once a fortnight: you have too many strong claims on your time &amp; brain capacity, &amp; I fear your burning the 2 ends of the candle! Capt. R. &amp; self spoke of you, re your printing, &amp;c—I sd. if I got a part of Lex printed out here <hi rend="italic">you </hi>would have the job. R. advises, or strongly suggests, my pntg. I hope yr. missing “copy” has turned up. I am now wiring to Buller, re 2 vols of his Birds, he told me, in his last, he had <hi rend="italic">sent</hi>, &amp; I had suppd. them <hi rend="italic">here</hi>, but no traces! </p>
+         <p>With kindest regards, and best wishes—Good bye, </p>
+         <p>Yrs. always. </p>
+         <p>W. Colenso.</p>
+         <p>P.S. I recd. 2 copies “Typo,” Would you could see your way to discontinue it w. Decr. No. 1891.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0445">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1881 February 15: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-1</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1881-02-15">1881 February 15</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1881 February 15: to Harding<note xml:id="ftn3-78" place="foot" n="78"> ATL MS-Copy-Micro-0485-1</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">15/2/81</p>
+         <p>Mr Harding</p>
+         <p>Dr Sr</p>
+         <p>I hasten to return the Revise—I can <hi rend="italic">trust you</hi> to see to the little corrections: so, don’t send me any more proof.</p>
+         <p>You are right in <hi rend="italic">removing </hi>(as you say) List of Officers: it was only placed there to save a page.—</p>
+         <p>You mentd. to me about Title page, or Cover—hence I now remark, I don’t quite like the <hi rend="italic">one</hi> line therein Hawkes Bay, (I dislike <hi rend="italic">that type</hi>,) and I think the <hi rend="italic">Egypt</hi>.—3<hi rend="sup ">rd</hi> line on your ’81 Almanack Cover (N. Williams)—or that in 2<hi rend="sup ">nd</hi> line of Tuckwell’s advertisement p.299, Almck., would look better.—</p>
+         <p>The corrections are very few, and just all in copy.—You will find I have in several places put the comma <hi rend="italic">after </hi>a parenthetical sentence <hi rend="italic">within</hi>. I believe the rule (Book-work) to be, that when a comma is required <hi rend="italic">before</hi> such a sent., then another is placed <hi rend="italic">within</hi> the parenthesis.—</p>
+         <p>Do you intend to print it off on the same kind of paper as the proof? I would rather it were better.—</p>
+         <p>Yours very truly</p>
+         <p>W. Colenso.</p>
+         <p>Rain! is falling at last!—</p>
+         <p>If I go to town tomorrow I will call.</p>
+         <p>I enclose a copy of a Gaz. to hand yesterday: <hi rend="italic">note what we were talking about</hi>.—</p>
+      </body>
+   </text>
+</TEI>

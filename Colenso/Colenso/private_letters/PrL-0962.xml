@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0962">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1896 April 16: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0499.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1896-04-16">1896 April 16</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1896 April 16: to Harding<note xml:id="ftn3-780" place="foot" n="780"> ATL qMS-0499.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, April 16<hi rend="sup ">th</hi>, 1896.</p>
+         <p>Dear Mr Harding</p>
+         <p>This day, I got your <hi rend="italic">returned </hi>German florists catalogue, with sundry other matters (<hi rend="italic">returned</hi>) &amp; clippings:—and as I <hi rend="italic">find </hi>it is a month tomorrow since I last wrote (&amp; you <hi rend="italic">then </hi>replied), I will write tonight.—</p>
+         <p>1.) Has yr. “Philosophical” published a Report? If so, <hi rend="italic">jog Gore</hi>.—</p>
+         <p>2.) In your last—<hi rend="underline italic">much</hi> pretiming <hi rend="italic">re </hi>the Govt. printer? has that <hi rend="italic">ended</hi>, &amp; what more?—</p>
+         <p>3.) Sir W.B. sent me a copy of paper contg. his <hi rend="italic">last </hi>(?) before commission.</p>
+         <p>4.) Your kind &amp; <hi rend="italic">long </hi>report <hi rend="italic">re Veronica</hi>, w. 2 spns., I must thank you for; but a few <hi rend="italic">plain </hi>words in reply to my request, <hi rend="italic">re </hi>same, (which you <hi rend="italic">could </hi>have given) would have been of service. <hi rend="italic">Last week </hi>I recd. copy of proofs Botl. papers from Editor.————</p>
+         <p>5.) from you, &amp; sevl. others, I have recd. congratulations <hi rend="italic">re </hi>the Presidentship: I, however, wish I had never consented to take it (though I only did so conditionally), and that mainly because I have <hi rend="italic">not </hi>a loyal crew!—I cant say a good deal more <hi rend="italic">to you</hi> but I found you agree (!) with Hill’s frivolity Club:—<hi rend="italic">heoi ano</hi>. By paper this evg. H. returned <hi rend="italic">this day</hi>; have not seen him (neither heard from him) for weeks.—</p>
+         <p>6.) You regret my dropping the Maori subjects (and so, others,)—but (I fear) you hold with such 3<hi rend="sup ">rd</hi>. class creatures as the 2 Smiths, Kirk, Tregear, &amp; Co.—who artfully plunder—a sad proof to hand <hi rend="italic">this day</hi>—I opened on vol. XXVI. “<hi rend="italic">Amelius</hi> (!!!) Smith at Auckland reading a paper on Mao matters—⅔rds of it from <hi rend="italic">mine</hi>: &amp; <hi rend="italic">no </hi>acknowledgement. Exactly as he did before, “Maori Proverbs”, only there more bare-facedly: (I sent you an author’s copy of mine—that you might read &amp; <hi rend="italic">compare</hi>—but you had no time to do so.) And <hi rend="italic">here </hi>this day is a sumptuous (!) packet, done up w. Red tape, &amp;c, &amp;c, from the “Victoria Institute, London”, contg. a thick (well-printed) booklet, by H.B. Guppy, M.B.”—on “the Polynesians &amp; their plant names”, (a terribly learned far-reaching work—a-la-Tregear but <hi rend="italic">no </hi>reference to any thing of mine—or of any one else on N.Z.,—neither Tregear’s book.) And yet he works hard &amp; long, <hi rend="underline italic">to establish his fad</hi>—of their having come from Asia, &amp;c, &amp;c,—–</p>
+         <p>The Council sends it to me “with their compliments”: and “uncorrected proof, private and confidential: C. much gratified by recg. Ms. comments upon this Paper: If possible, before the Mtg (<hi rend="italic">March 2</hi>): if not then, <hi rend="italic">within 60 days”.</hi>—they will get nothing from me.—</p>
+         <p>And this serves to remind me of a foolish idiotic letter in “Herald” early in Feby., <hi rend="italic">re </hi>miscalled, mis-written, mispronounced Maori names—of 40–50 years ago, (even from Jerningham Wakefield’s precious book!!) The “Professor” (<hi rend="italic">after Kirk</hi>!) claiming as his “<hi rend="italic">friend</hi>” Dr. Hocken of Dunedin! I <hi rend="italic">immy. </hi>wrote to Dr.H. sending him the paper, &amp; pointing out the “rot”, or “fad”:—and by my plain &amp; truthful speaking I have lost his friendship—<hi rend="italic">You too</hi>, I was (at the time) grieved to find, you <hi rend="italic">seemed </hi>to support that “Professor”!!!—–</p>
+         <p>All that kind of low jargon-<hi rend="italic">liking</hi>—is just what Taylor did! and what Bastian (the great German <hi rend="italic">savant</hi>) wanted to drag me into:—but enough.—–</p>
+         <p>Pretty much has already (&amp; <hi rend="italic">long </hi>ago! <hi rend="underline italic">before Colony</hi>-times) been written on the “Elephant fish”, you mention. I had described a fresh sp. taken in ’43: and Professor Packer, Dunedin, borrd. my books to help work up his full account.—</p>
+         <p>I also wrote to you <hi rend="italic">re </hi>Huxley—but, I suppose, H. is <hi rend="italic">not </hi>in <hi rend="italic">your </hi>line of <hi rend="italic">favourites</hi>: I purpose bringing him very prominently before our Society in my address:—as one of the <hi rend="underline italic">great</hi>
+            <hi rend="italic"> men of mind of this Century</hi>: I am very glad to find so <hi rend="italic">much </hi>being done in Engd. &amp; on Continent respg. his memory: our Eng. List is headed by <hi rend="italic">P. of Wales</hi>.</p>
+         <p>Mentioning this reminds me to say—I am sick to death! in noticing the fulsome flattery from scores of pulpits (England), both Ch. &amp; Non-cons. <hi rend="italic">re </hi>death of Henry of Battenburg: I, on the contrary, would plainly say,—“<hi rend="italic">Serve him right</hi>!” (Just as t’other young fool—Eugenie’s son!—went to shoot 3 ulus, &amp; got shot himself!) I much fear that <hi rend="italic">pirate</hi>-freebooter Jameson may not get his <hi rend="italic">true deserts</hi>. It seems, <hi rend="italic">to me</hi>, a kind of curse hanging over my Countrymen, of thinking, aye &amp; trying, <hi rend="italic">to do as they please</hi>—in matters small &amp; big, with other nations &amp; peoples: I <hi rend="italic">pity </hi>the poor Sultan of Turkey: and dear Gladstone (&amp; others <hi rend="italic">like </hi>him) <hi rend="italic">demented</hi>.—–</p>
+         <p>Did you ever meet with a book by Rusden, entitled, “Nga aureretanga a te Maori”?</p>
+         <p>I have many books here I should like you to see—to <hi rend="italic">read</hi>, but you have no time—and have <hi rend="italic">too much </hi>unprofitable wk. to do: a <hi rend="italic">small </hi>book I have at hand (<hi rend="italic">compressed</hi>) Rev. S. Davidson “On Canon S.S.”, I should like to lend you (if not already known to you).</p>
+         <p>Now for myself: I have been <hi rend="italic">sadly ailing</hi> (<hi rend="italic">severely </hi>Rheumatic “off &amp; on”) ever since my last: am better yesty. &amp; today: have not been out of late, not even to Ch. on a Sunday—though I did go on Easter Day-mg. and Rev. W. Welsh is unwell; ordered “<hi rend="italic">Rest</hi>”—is gone to Wairoa for 3 wks.—Bp.W. took <hi rend="italic">Mg. S. </hi>at Aug’s. last Sy. and the Dean the <hi rend="italic">Evg. </hi>S. <hi rend="italic">there</hi>—but Bp. W. is off on his long N. tour, &amp; I am expected to come out on Sunday next, at Augustine’s—God’s <hi rend="underline italic">will</hi> be done.—–</p>
+         <p>Owing to Welsh being ill, and my Rheum., I am<hi rend="italic"> still here</hi>: as I had fully intended to go inland (on my holiday) immy. after Easter—this is now put off till <hi rend="italic">after </hi>
+            <hi rend="underline italic">May 11</hi>
+            <hi rend="sup underline italic">th</hi>
+            <hi rend="italic">. </hi>The Dean kindly called last Tuesday but I had seen no one else for several days: weather of late fine, but some days cloudy, grey, close, heavy—no rain.</p>
+         <p>I wish you had been in the way &amp;, so, seen Bp. Williams in Wgn.—I <hi rend="italic">don’t admire</hi> Kirk’s leaflets: <hi rend="italic">cui bono</hi>? money wasted!—Your Ms. note <hi rend="italic">re </hi>Bees—of no avail—<hi rend="underline italic">to them</hi>: how some folks will worry &amp; strive to establish a known error, or falsity!—</p>
+         <p>I shall send you this night’s “D.T.”, w. a few clippings in it, (no, separate.) I hope this may find you &amp; yours <hi rend="italic">all </hi>well: you will see I have written <hi rend="italic">freely</hi>, just as I should talk with <hi rend="italic">you</hi>. </p>
+         <p>Kindest regards, Yours ever, W. Colenso.</p>
+         <p>I sent <hi rend="italic">no </hi>letters to Engd. by this S.F. Mail.</p>
+      </body>
+   </text>
+</TEI>

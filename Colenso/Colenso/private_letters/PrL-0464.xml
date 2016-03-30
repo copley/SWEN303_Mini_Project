@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0464">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1881 September 16: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861. Endorsed “R &amp; A 17/9/81”.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1881-09-16">1881 September 16</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1881 September 16: to Balfour<note xml:id="ftn3-100" place="foot" n="100"> ATL 88-103-1/07. Original at MTG HB 67861. Endorsed “R &amp; A 17/9/81”.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Sept 16<hi rend="sup">th</hi> 1881</p>
+         <p>Mr D.P. Balfour </p>
+         <p>Dear Sir</p>
+         <p>As tomorrow is your mail day, I write you a few lines. I hope you got safely home, and that you found all well, and that this may also find you all well.</p>
+         <p>I suppose you know that P. Dolbel is gone to Wellington. He <hi rend="italic">may</hi> be back tomorrow by steamer, or early next week overland; in the papers (as usual) they had C. Dolbel, which, if you saw it early, might make you stare. We had no meeting last Monday night; no one had sent a paper, &amp; I had been too unwell, and latterly too busy for Dr Hector to get mine ready; so Dr Spencer and myself thought it the better plan, <hi rend="italic">not</hi> to call a meeting, but to take an extra one, instead, in November. My paper however is promised for the <hi rend="italic">next</hi> meeting.</p>
+         <p>I am writing you at this time, mainly about your little divott plants; as this one I have here is flowering, and I intend to cut off the flower stalk tomorrow for close examination; and I want for you to look at yours &amp; see if they (or some of them) are not also flowering,—and if so, then to cut me off 2 or 3 stalks with the fiowers (not the leaves), &amp; send them to me—but do not send them in a letter, rather put them in a wee bit of old rag, or cotton wool, &amp; put them loosely in one of those small tin match boxes, tied round, &amp; with a <hi rend="italic">hanging</hi> label attached on a bit of card, or parchment, with a 1d or 2d stamp on it—the label. In handling the puir wee bits of flowers, you <hi rend="italic">must do it carefully</hi>, so as not to bruise them or disturb their “pollen masses”—which, in their ori­ginal un-disturbed state, is of great consequence for examining. Yours however, way be a week or so later, than mine, but let them be all fully open before you cut them off.</p>
+         <p>You will also find on your plants, <hi rend="italic">dead</hi> old flower stalks of last season (at least I have 3 or 4 on mine, 2 on each plant) cut me off some (or all) of them, <hi rend="italic">close</hi> to the juncture with the living plant (but not so as to cut the plant) and send them to me, they will be useful,—these being dry, you can enclose in a letter should you have nothing else to send.</p>
+         <p>The new books are now all in the library; by taking out the things in the low­est tier, and by shifting the shelves, I have managed to make the bookcase hold them all,—packed closely in.</p>
+         <p>Let me have a line from you early, and with kind regards &amp; best wishes </p>
+         <p>             Believe me, Yours truly</p>
+         <p>                             W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

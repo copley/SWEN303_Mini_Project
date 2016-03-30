@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0050">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1863 Correspondence. Hawke’s Bay Times 2 October.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1863-10-02">1863 October 2</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Times</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1863 Correspondence.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Times</hi>
+            <hi rend="bold"> 2 October.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—I beg to draw your attention to an able common-sense article which appeared in the <hi rend="italic">Otago Daily Times</hi> of August 26, (reprinted in the <hi rend="italic">Otago Witness</hi> of August 28,) on the unauthorised ependiture of that Province, as one not a little suitable to us at this time and well worthy of republication in yonr paper, if you have room.</p>
+         <p> It appears that the Superintendent of Otago had expended no less a sum than just a<hi rend="italic">quarter of a million</hi> (£224,000) without authority! And that the compliant and kind Provincial Council had even negatived a resolution seeking to know how this enormous sum had been spent!! </p>
+         <p>The following sentence should be carefully studied and treasured up in memory—both in Hawke’s Bay as well as in Otago— “Of one thing it [such conduct] is likely to convince the General Government—<hi rend="italic">the impolicy of granting the control of large loans to men who show themselves little acquainted with the form of constitutional government</hi>.” </p>
+         <p>There is also, in the same paper, (<hi rend="italic">Otago Witness</hi>), a series of letters between the Superintendent of Otago and the Manager of the Union Bank of Australia; which is very useful and highly suggestive to every one interested in Provincial Government matters but, I fear, too long for republication in you columns. From them, however, we learn that while that Bank had contracted to allow the Otago Provincial Government to over draw to the amount of £30,000, it had really <hi rend="italic">overdrawn</hi> to the extent of £150,000!</p>
+         <p>The last letter from the Superintendent of Otago to the Manager of the Union Bank of Australia, withdrawing the Government account from the Bank, being a short one, you may perhaps find room for.</p>
+         <p>				I am, Sir, 	Yours, &amp;c.,</p>
+         <p>W. <hi rend="smallcaps">Colenso</hi>.</p>
+         <p>Napier, Sept. 24, 1863.</p>
+      </body>
+   </text>
+</TEI>

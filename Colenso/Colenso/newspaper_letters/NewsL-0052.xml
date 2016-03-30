@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0052">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1864 Correspondence. Hawke’s Bay Times 15 April.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1864-04-15">1864 April 15</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Times</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1864 Correspondence.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Times</hi>
+            <hi rend="bold"> 15 April.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—I noticed, in your last week’s issue, the official advertisement from the Registration Officer, reminding the Electors that the present month is the only one in which objections are legally to be made against any name on the Electoral Roll. As the making any such objection by any private person, especially in a small community like ours, (however good the intention of the objector, or however beneficial the ultimate result,) is sure to be, by some, considered invidious or unnecessary,—I wish to make it known to all qualified persons, that I shall be happy in obtaining a few to join me in forming a Committee of Scrutiny, for scrutinising the Electoral Rolls of the Province; in order to object in due form against ALL persons erroneously placed thereon. I do this wholly apart from any political bias; and should be glad if Electors opposed to myself (politically) would join me,—as my only wish is to see the Electoral Roll purified. A note addressed to me (by post, or left to your care,) from any qualified person shall be immediately responded to.</p>
+         <p>I find, that at Canterbury such a Committee has been formed, having Mr. Fitzgerald, M.G.A., at its head, and is now working.</p>
+         <p>			I am,</p>
+         <p>				Yours truly</p>
+         <p>
+            <hi rend="smallcaps">W. Colenso.</hi>
+         </p>
+         <p> Napier, 9<hi rend="sup ">th</hi> April, 1864.</p>
+      </body>
+   </text>
+</TEI>

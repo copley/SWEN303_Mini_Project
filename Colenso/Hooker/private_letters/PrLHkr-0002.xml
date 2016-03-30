@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1100">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>18 January 1864: Hooker to Haast.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>ATL MS-Papers-0037, folders 097-1 &amp; 105-02.</p>
+         <p>Transcription published in "The Correspondence of Julius Haast and Joseph Dalton Hooker, 1861-1886", by Sascha Nolden, Simon Nathan &amp; Esme Mildenhall.  Geoscience Society of New Zealand miscellaneous publication 133H, 2013.  ISBN 978-1-877480-29-4. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133H.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1864-01-18">1864 January 18</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9511/&gt;Sir Julius von Haast">Sir Julius von Haast</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hooker to Haast, 18-1-1864 ATL MS-Papers-0037, folders 097-1 &amp; 105-02.</p>
+      </front>
+      <body>
+      <p> Kew </p>
+            <p>Jany 18th/64</p>
+            <p>My dear Haast</p>
+            <p>I have just received yours o
+f 12th Nov. 
+–
+I think I did answer 14th October 
+–
+lest I did not I 
+may say that the maps of Nelson &amp; Canterbury are both most valuable to me &amp; I am 
+exceeding obliged for it. I have not had time yet to go to Geog. Soc. &amp; see the sketches you 
+have sent there
+. </p>
+            <p>My father has been ill for a fortnight with head cold, &amp; it will I fear be long before he 
+gets to town again; so I shall ask Murchison to lend me his “Hooker Glacier” for a day to take 
+out to Kew.</p>
+            <p>
+I am now busy printing the “Handbook of N. Z. Flora” 
+–
+this name [2] elected by 
+Knight 
+–
+&amp; have 
+gone
+on to p.
+40 
+when
+a splendid collection arrived from Hector &amp; 
+Buchanan containing several new things &amp; of course many of your discoveries. They send far 
+more grasses &amp; Carexes than Canterbury seems to afford, e
+specially small ones, such as grow 
+in alpine marshes, river banks etc. Have you Areca in your province. The map of the 
+Phanerogams is now complete &amp; I had begun the Cryptogams when this collection arrived &amp; 
+stopped the way. Still I hope that Part I will be
+printed in about 6 weeks. I am working hard 
+all my spare time at it day &amp; night 
+–
+certainly your collections cut a very handsome figure 
+–
+as I only give authorities [3] for habitats of the newer species. I think your work second to 
+Colenso, (after Banks &amp;
+Solander), who being the first to explore the island, I usually 
+always mention.</p>
+            <p>There is still 
+some
+novelty amongst your Grasses &amp; I have named two after your 
+excellent assistant Young. I send too by (this mail I hope) a list of all your last collection
+s.</p>
+            <p>I shall say no more about the Monocots &amp; Dicots till I can tabulate results of N &amp; M. 
+Island containing there all grasses which are found in 
+---
+Auckland Pr. &amp; in the N. Island, but 
+not hitherto on the Middle, whence they must either be overlooked or e
+xterminated in the 
+latter! [4]</p>
+            <p>I hope ere this you have received the 1st Ed. of my 
+Himal. Journals
+. Your account of 
+Mr Potts garden at Otago is quite interesting. I wish he would send a little account of it for 
+the Gardeners Chronicle. I shall send you a 
+bundle of miscellaneous garden seeds by an early 
+opportunity to distribute as you wish.</p>
+            <p>I do not wonder at Fenzl being delighted with the plants you sent him; 
+–
+he &amp; his 
+family are intimate friends of ours; but I do wish he would publish! 
+–
+They have a splendid 
+Herbarium &amp; Botanical Library at Vienna, but very little is published by them.</p>
+            <p>I have no Geological news for this letter. This is our dead 
+------- season, &amp; I get more 
+[5]
+engrossed in the Gardens &amp; my Flowers.</p>
+            <p>Lyell is well, Darwin still very ill
+, vomiting after every meal: how he lives is a 
+mystery to me &amp; all his friends.</p>
+            <p>It was very stupid of me to address you prematurely as F.L.S. but I suppose you are so 
+now. I had quite forgotten that your name was proposed too late for ballot last session.
+It has 
+to have 3 clear meetings of the Society. The misfortunes in my family prevented an
+y 
+attending to the Society for several months. 
+I will see that all is right next Thursday when I 
+shall go in to the Society’s meeting.</p>
+            <p>Kindest regards to Mr Travers 
+he has sent me a great number of excellent things &amp; 
+will find his name very often in the Handbook.
+[6]</p>
+            <p>I wrote to him about a month ago. 
+–
+I think your 
+Thuja
+may 
+be different from the 
+Northern 
+T. doniana, if so they have always hitherto been confounded. I
+will look closely to 
+them. I hope it is different if so it must be called 
+T.
+haastii
+.</p>
+            <p>I am eager for you
+r Mt
+Torlesse plants.</p>
+            <p>Ever my dear Hector [sic]</p>
+            <p>Most sincerely yrs</p>
+            <p>J. D. Hooker</p>
+</body>
+   </text>
+</TEI>

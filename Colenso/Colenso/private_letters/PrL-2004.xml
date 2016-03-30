@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-2004">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Undated: Colenso to McLean</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1006178</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="-----">Undated</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>Undated Colenso to McLean (#1006178) </p>
+		</front>
+		<body>
+			<p>My Dear Sir </p>
+			<p>I feel greatly indebted to you for your so very kindly remembering me,—both while at Wellington, and now here in sending me your Southern Papers.— </p>
+			<p>I felt sorry you did not see Sir George Grey: I fear you will not now do so, unless you take a 2nd. voyage.— </p>
+			<p>I return with thanks your “Otago Witness” kindly lent. </p>
+			<p>I regret that I have no fruit in my place called a garden: I had a decent show— but, alas! the sun &amp; early strong winds have done for them.     I am </p>
+			<p> 	 	 	Yours very truly </p>
+			<p>Saturday.        	 	 	W. Colenso. </p>
+		</body>
+	</text>
+</TEI>

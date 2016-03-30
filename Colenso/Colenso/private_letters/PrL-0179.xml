@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0179">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1864 December 3: to Hector</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Museum of New Zealand Te Papa Tongarewa MU000198/001/0033</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">Hector</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1864-12-03">1864 December 3</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1864 December 3: to Hector<note xml:id="ftn2-93" place="foot" n="93"> Museum of New Zealand Te Papa Tongarewa MU000198/001/0033</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Auckland,<lb/>Decemr. 3 1864</p>
+         <p>My dear Sir</p>
+         <p>Many thanks for your kind note of 15<hi rend="sup">th</hi>. ulto. received per “Ashley” a few days back. I am glad to hear of the Ms. (essay) having reached your hands, and of your being pleased with it. I also saw the heavy appearance (to say the least of it) of those <hi rend="italic">masses</hi> of Botl. Names—and at that time, they were <hi rend="italic">more</hi>—for I had another <hi rend="italic">Set</hi> of them. I may say—having also placed them geognostically—shewing soils, &amp;c. This I soon abandoned for want of room. At that time however I tried to tabulate them (the <hi rend="italic">whole</hi>), but I could not succeed to my satisfaction. If you can throw them into a Table, pray do so: or deal with them in any way you may approve of. It has occurred to me, since receiving your note, that if they could not be well tabled—<hi rend="italic">i.e. </hi>in columns—they might perhaps be placed in one list, having the figs. 1, 2, 3, &amp;c. to represent Zones, and the letters, a, b, c, &amp;c. to represent areas (of course having first given the <hi rend="italic">headings</hi> of the various zones &amp; areas in a par. to itself)—somewhat thus</p>
+         <p>Veronica speciosa, 2. a.<lb/>----------- elliptica, 3. b.<lb/>----------- nivicola, 7. g.</p>
+         <p>The making out of the <hi rend="italic">list </hi>would<hi rend="italic"> </hi>cause a little trouble, as, I think, the plants should be placed systematically—not alphabetically.</p>
+         <p>—But I merely mention these thoughts—crude, I confess:—do, my dear Sir, as you think best with the Ms.—If I were nearer you I would willingly help you.</p>
+         <p>I hope you will have safely received the 3 Cases I sent you per “Queen”: I am, also, glad I put in Cook’s Voy., as I <hi rend="italic">now</hi> find you wish for them. I was at the display of articles from this Prov., and was much pleased with many things I saw—only had I previously <hi rend="italic">known</hi> of some, I would not have burdened you with certain mats, &amp; small geolog. sps., &amp;c. &amp;c. which are of little service. Here, in the room where they were shewn, there was <hi rend="italic">such a crowd</hi>, that I saw nothing closely. I have just recd. a Letter from my old friend Dr Hooker—in Sept. he had handed over 100 copies of the 1<hi rend="sup">st</hi>. part of his work—to Morrison the Agent—and I find from Dr. Knight that Morrison had reported them to him (or to the Govt.), &amp; had shipped them by (I think) the Motueka. Hooker had sent me a copy by post (which I have not received), also a copy to Knight—which he has <hi rend="italic">lent</hi>.</p>
+         <p>The Inscript. of the Bell, I had sent him, he was about to take to the Meetg. of the Assn. at Bath,—and would report anon: he wants a photog. &amp; another copy of the Inscript., &amp; its history:—for wh. he must wait a while.—</p>
+         <p>I am sorry to find, from Mr. Mason, that Dr. Shortland is gone to England without doing any thing towards his essay on the Maories. M. mentioned a name or two to me, as a person whom he thought might still perform it—I doubted, and recommended he should see the Governor—perhaps I was wrong.</p>
+         <p>I <hi rend="italic">fear</hi>, I shall <hi rend="italic">not</hi> have the pleasure of seeing yr. Exhibn. I am glad you surmounted your difficulty w. the Provl. Govt.—although such has thrown you back.—I grieve to find so <hi rend="italic">few</hi> in all N.Z. who really care for scientific pursuits—but this is a grief of my whole life.—Believe me ever</p>
+         <p>     My dear Sir, Yours faithfully</p>
+         <p>                     —Wm. Colenso</p>
+         <p>P.S. The Governor spoke to me about visiting Chatham Islands—I said, all the N.Z. islets should be explored—especially Poor Knights, 3 Kings, &amp;c.—as before, it will come to nothing. W.C.</p>
+      </body>
+   </text>
+</TEI>

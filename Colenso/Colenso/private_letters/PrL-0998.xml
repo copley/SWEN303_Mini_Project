@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0998">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1897 July 20: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0499.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1897-07-20">1897 July 20</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1897 July 20: to Harding<note xml:id="ftn3-833" place="foot" n="833"> ATL qMS-0499.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Tavistock Hotel</p>
+         <p rend="end">Waipukurau</p>
+         <p rend="end">July 20<hi rend="sup">th</hi> 1897</p>
+         <p rend="end">VII., p.m.</p>
+         <p>Dear Mr Harding</p>
+         <p>Here am I alone &amp; quiet, with nothing to do, &amp; but small inclination towards anything—an <hi rend="italic">idle</hi> lotos-eater! And so I have thought I had better write a few lines to <hi rend="italic">you</hi>—if only to acknowledge receipt of yours of 11<hi rend="sup">th</hi> inst.—and yet I have nothing of importance to write about: much rather would I talk <hi rend="italic">with you</hi>, or <hi rend="italic">better</hi> still <hi rend="italic">hear</hi> you. I left Dannevirke on the 14<hi rend="sup">th</hi>., weather fine then, but for some days before—wet, showery—confining me to room, which threw me back. On the day of my arrival here I was struck with the dryness of the roads in this township, but the same kind of showery weather has been general since—this mg. however was delightful and I went to Waipawa. I should say—I had been over there <hi rend="italic">last week </hi>(Thursday), but only remaining for 2 hours, retg. by midday express, fearing to stay till vi. p.m. I did however but <hi rend="italic">very little </hi>business! (the old, old, cry!) Brinson cab-man drove me about the township, as I <hi rend="italic">cannot </hi>yet walk far, and of late my walking powers seem to be <hi rend="italic">lessened</hi>, owing to extra confinement. Returning last wk. your Uncle John was in “Express”—from Napier, he rose to meet me &amp; we saluted warmly, &amp; had a little chat: I never saw him looking better, healthy, stout, snow-white beard &amp; black velvet skull-cap. We talked of the loss of his son, which he <hi rend="italic">feels </hi>&amp; laments. I had determined to return to N. tomorrow, but Simcox arrived <hi rend="italic">here</hi> on Saty. last by coach from P., on his way “to Pourerere by the inland route, to see some of his parishioners”, returning to this place on <hi rend="italic">Thursday</hi>, &amp; he greatly wished me to remain until he should return, as he had some Ch. questions, &amp;c.—so, I have agreed to do so, and shall go on to N. on Friday (if <hi rend="italic">fair</hi>), by mg. <hi rend="italic">Goods </hi>train, so as to have daylight for cab to take me up my hill! I go unwillingly, <hi rend="italic">business </hi>calls: I would rather remain in the Country—here or at Dvk. I thank you (with <hi rend="italic">others</hi>) for your extremely seasonable letter <hi rend="italic">re </hi>Meiha Ropata: I hope that may serve to settle the question, though I see in yesty’s “Herald”, an attempt (as it were) by a side-wind to establish <hi rend="italic">former </hi>statement. Also: Seddon at Home coming out w. <hi rend="underline italic">Macaulay’s</hi> N.Zr.!—I am pleased in reading of your visit to the Synagogue! reminding me of <hi rend="italic">my </hi>visits thither in boyhood, in my native town. Know nothing of “Atlantic Monthly”, nor od Randall Holmes! alas! being <hi rend="italic">far behind</hi>.—</p>
+         <p>I agree w. you in the Chemis case. The photo. you saw on my mantelpiece must (I think) have been my granddr. and the little incident you mention of your uncle J. in England, I had also heard from <hi rend="italic">them</hi>, at the time,—<hi rend="italic">not</hi> Plymouth but Southampton. The parents (now in Scottish Highlands near Inverness) <hi rend="italic">still feel </hi>their loss:—they had seen in papers my accident.</p>
+         <p>I cannot understand why Govt. Printer does not send on proofs, &amp; <hi rend="italic">Revises</hi>!—A sad loss of time—&amp; <hi rend="italic">busy </hi>times at hand for him: I both wrote &amp; wired to him a month ago—no reply. Why, too, is our annual (N.Z. Institute book) so late? Did you see Hill’s <hi rend="italic">long</hi> paper in “Herald” last week? (13<hi rend="sup">th</hi>. 14<hi rend="sup">th</hi>.) I have only glanced over it, too heavy for my <hi rend="italic">poor brain</hi>—<hi rend="underline italic">at present</hi>. Bp. Stuart, too,—has <hi rend="italic">long</hi> extracts in “Herald”: I hope he may <hi rend="italic">not</hi> do anything serving to embroil the two Countries—Persia &amp; Gt. Britain.—–</p>
+         <p>21<hi rend="sup">st</hi>. This mg. I was driven in “cab” to the parsonage (yclep’d “Vicarage”!) to see Mrs Tuke &amp; children—T. having kindly called <hi rend="italic">here </hi>3 times to see me: thence I walked to “Manse” to see Mr. Grant, found him at home &amp; spent (as usual) an agreeable ½ hour with him: thence I leisurely returned to hotel—my longest walk yet! Grant, with many others, congratulated me on my altered &amp; improved appearance, and I think they are right—in <hi rend="italic">the main</hi>. I saw a N.Z. “Graphic” here this mg., containing ½ doz. (or more) photos. of Loyalty Doings on 20<hi rend="sup">th</hi>. ult. at Cathedral, N., I think <hi rend="italic">overdone</hi>—do try to see a copy. In a Wgn. paper this day I noticed “Hornsby” mentioned as <hi rend="underline italic">Editor</hi>
+            <hi rend="italic"> </hi>N.Z. “Times”: “prodigious!” In “Herald” this mg., an onslaught on <hi rend="italic">Knowles</hi>—<hi rend="underline italic">naming</hi> him for “dastardly” trickery, &amp;c.—see this also. Swan, W. &amp; wife, &amp; bairn (a pretty little one—<hi rend="italic">much like old </hi>Swan! &amp; mother says—to me—“All say so”:) they returned this aftn. to N.; S. is <hi rend="italic">not </hi>satisfied with his convalescence, although he allows he is “very much better, &amp; has gained 6 lb. weight in a week”; he is going a sea-voyage—Auckland, &amp; perhaps Fiji: I spoke <hi rend="italic">against</hi> it— “Rather go <hi rend="underline italic">higher</hi>
+            <hi rend="italic"> here</hi>”—Dvk. for instance: I only saw <hi rend="italic">her </hi>this mg., she seemed a notable little person. Mr. Grant was obliged to go again to Dvk. on Monday, retg. yesterday, and he describes the weather there as <hi rend="italic">fearful</hi>! stormy <hi rend="italic">cold</hi> w. <hi rend="italic">very heavy rain</hi>. Judkins <hi rend="italic">leaves </hi>soon, I believe this is his <hi rend="italic">own doing</hi>—as he objects to “preliminary” (&amp; other) “examination”. Did I mention in my <hi rend="italic">last</hi>—what a nice <hi rend="italic">long</hi> letter I had lately recd. from Greymouth, Rev. R. Stewart? he is doing well there, congn. increasing, &amp; lovingly working together—a very pleasing feature! at N. also, Mr. Welch is getting on better,—his <hi rend="italic">full</hi> stipend (£2560) raised <hi rend="underline italic">this</hi>
+            <hi rend="italic"> year</hi>!</p>
+         <p>[Rev. A. Grant calls—and stays with me, <hi rend="italic">kindly </hi>&amp; <hi rend="italic">seriously </hi>chatting, till past ix.]</p>
+         <p>22<hi rend="sup">nd</hi>.—x, a.m. Dourion (D. Irvine &amp; Co) has just left me—very glad to see me so well, &amp; so, I dare believe, not a few of our old settlers. I send you my “D.T.” of <hi rend="italic">last night</hi> that you may read Knowles’ defence, &amp;c. Mg. very cold &amp; forbidding—I <hi rend="italic">may </hi>get away tomorrow, but am in very comfortable quarters here, &amp; shall leave with regret. I find Purvis Russell has sent out £50. to H. Bay relief fund: poor Carnell is nicely served out re lt. ho. Cape Kidnappers. My memorial faculties are not yet got into proper order—too much of “<hi rend="italic">pie</hi>”! (type) I have a thought—a good idea, but if I don’t jot down at once (at least its discriminating no. or brand) I lose it!—Irvine (D’s old partner) I saw 2–4 times at Dvk. he is now Superintendent, &amp;c., of H.B. timber Co. <hi rend="underline italic">there</hi> (at a high salary) &amp; leaves Taradale for Dvk. When you next write, tell me a little more of your Dicty. for N.Z.I.,—send me a rough proof page of the work.</p>
+         <p>Isitt has been to N., lecturing, &amp; little Oliver Dean (being one of that fraternity) was, of course, Chn. at meeting: Sutton too, was present, &amp; wrote a short letter <hi rend="italic">re </hi>same: &amp; now Oliver has come out! and in L. in “Hd.” given S. a reminder!—possibly more may follow: but, I suppose, <hi rend="italic">you</hi> will be duly informed of all such matters <hi rend="italic">at N.</hi> There appears to be a large amount of grumbling (snow-ball fashion!) at the non-distribution of H.B. Relief fund:—no doubt its <hi rend="italic">proper</hi> apportionment must be rather difficult, but something I think should have long ago been done, of course by way of <hi rend="italic">first instalment.</hi>
+         </p>
+         <p>If you are busy in Pg. Off. (which I hope you are &amp; may <hi rend="italic">continue </hi>to be) do not waste time in ansg. this <hi rend="italic">running log</hi>! And with kindest regards to Mrs Harding love to children &amp; <hi rend="underline italic">yourself</hi>, &amp;c, &amp;c, &amp;c.</p>
+         <p>Believe me Yours faithfully</p>
+         <p>W. Colenso.</p>
+         <p>(Cost <hi rend="italic">much pain </hi>in arm.)</p>
+      </body>
+   </text>
+</TEI>

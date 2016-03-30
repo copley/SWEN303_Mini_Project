@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0068">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1848 August 22: Octavius Hadfield to his sister Amelia</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. "Letter 13."  Page 182.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 7.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1848-08-22">1848 August 22</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71117/">Amelia Hadfield (daughter of Amelia Caroline Hadfield, nee White)</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1848 August 22: Octavius Hadfield to his sister Amelia</p>
+      </front>
+      <body>
+      <p>Wellington N.Z. Aug. 22 1848</p>
+      <p>My dear Amelia</p>
+      <p>It is only a short time since I wrote a letter to dear Julia via Sydney, but as H.M.S. Calliope is about to sail direct I must write again.  In my last I acknowledged the receipt of dear Maria's kind letter of Feb.  I have had very few letters from you lately; but as the last gave me as good an account as I could expect of the state of health of all the family I was satisfied and thankful.  May Our Heavenly Father watch over &amp; protect &amp; bless you all.</p>
+      <p>English and European news seems at present all absorbing.  The disturbed state of Europe may have a beneficial effect on England: it may act as a check on liberalism, which seems to me to be gaining ground- not indeed with first-rate &amp; philosophic minds, quite the reverse, but with the superficial, shallow statesmen who seem to act as leaders in public affairs at present, &amp; with those who look more to increasing wealth than to increasing happiness.  The state of France may put other nations on their guard against innovation &amp; anarchy.  How extraordinary that "communism" &amp; "perfectability" should be seriously considered attainable by a violent revolution.  But while I am writing you will probably have seen what I can only conjecture- disasters etc etc.</p>
+      <p>What a curious anomalous position the Pope seems to occupy as the champion of liberalism in Italy: it is very inconsistent with the genius of popery.  Has he a scheme for adopting popery to the times, or is he a blockhead?.Its alliance in Italy &amp; Ireland with liberalism will, in my opinion, tend to its downfall.  Even now a great many romanist writers are very rationalistic, -more so than would be tolerated in our protestant church.  What is Hampden's rationalism to that of Lamenais &amp; other romanists?  a mere beginning, nothing.  But whenever romanism has recourse to rationalism as a help, its end will not be far distant.  While, however, I abhor rationalism properly so called, that is, an attempt to bring divine, eternal truths within the grasp of the mere understanding, I think that prudent protestants, especially those whose duty it is to be defenders of the faith, ought to be more learned, &amp; as I may say, philosophical, than they appear to me, so far at least as I can judge by the publications of the day, to be.  There is a foolish notion, sometimes almost encouraged by persons who ought to know better, that religion, or rather faith, is contrary to reason; but the true distinction appears to be that faith enables us to behold what reason cannot by itself attain to.  But tho' these subjects occupy my mind constantly, I must not fill up my paper with these speculations.</p>
+      <p>There seems now some prospect of the College, which I think I once mentioned, being built, &amp; proceeded with.  There are many difficulties which require time &amp; patience to surmount.  Some of my old natives have given the land, &amp; I believe funds are available for the purpose of building, etc.  The Bishop has a great deal to do, but I have been constantly urging the question of education, &amp; he is now moving in the matter.  There is here, lately arrived, a son of the late Dr. Arnold: as his name was in the First class at Oxford no-one could be more competent than he is (altho' he has a slight impediment in his speech) but I am not quite certain whether he will agree to work with the Bishop; he seems to think the Bp. too high-church.</p>
+      <p>Governor Grey arrived here a few days ago.  He has been make a K.C.B. which rather pleased him.  He has been with me twice conversing on various matters related to the country.  I think he has make some difficulties for himself in reference to the lands which had been purchased by some of our missionaries at the north of the island.  There is a great deal to be said on both sides of the question.  It is by no means settled yet, as the missionaries have sent home some very odd statements about the business which will cause the governor some trouble to explain.</p>
+      <p>Now that the New Z. Company have been re-established by Lord Grey the governor seems a little inclined to view matters differently from what he did before.  In conversation, however, he assured me that he looked for no earthly rewards, but sought simply to do his duty &amp; sought for Divine strength to enable him to do it faithfully.  He is always very civil &amp; kind to me, &amp; sometimes says he receives encouragement &amp; support from conversing with me.  I do not much like the Lieut Govt. Mr. Eyre: he has very little ability &amp; plenty of obstinacy.</p>
+      <p>I wonder more persons do not come to this country; it is one of the finest in the world.  The distance, I presume, is the drawback with many.  It possesses every natural advantage that can be required; it wants only the blessing of God on all in it to make it one of the most pleasing spots on earth.  Any of the labouring class might come out with the certain prospect (if nothing unforeseen occurred) of bettering their condition in life; but if not actually able to do labour, emigrants must have some little capital to invest-which will very soon make a return.  I feel that it is important that respectable persons of all classes should come out here, &amp; act as "salt" to season the mass, especially now, while habits &amp; the social condition of all classes are still to form.  My own impression in reference to the native population also, is, that they would benefit much by contact with well-ordered english communities.</p>
+      <p>I mentioned in my last leter that the Otaki people were getting on well under Mr. Williams's superintendance.  The natives are improving, tho' some of the missionaries doubt it.  But the truth is that as temptations multiply and abound many become worldly, but even these by no means renounce their faith, &amp; need not be despaired of; but on the other hand, many stand fast, &amp; their faith could never have been so fully proved to us, without the temptations &amp; the falls of others.  I think &amp; meditate much, almost too much as I suffer from headache in consequence, but the life I lead, confined to my bed &amp; quite inactive, is not the best suited to spiritual advancement, &amp; the development of spirit, not life: I know that I am in God's hands, &amp; have only to submit to His will; still I cannot but lament my almost useless existence.  I wish I could pray more for others- pray that the blessing of God might rest abundantly on this land to which He has brought His Gospel, &amp; pray for all others, both those which have that blessing &amp; those which have not yet obtained it.  The Holy Scriptures appear daily more beautiful to me.  The sum of religion seems to be to have our Will brought into conformity to the Will of God: but the will of God is reflected in our conscience, by which we ascertain it: when our will agrees with the will of God, we are no longer under a law, but act spontaneously in accordance with it.  This is effected in us by the spirit of Christ ruling in our will, through the light of Christ in the conscience.  Its completion will be in Heaven - whither may we all shortly meet.  In the meantime, give my affectionate love to all.  </p>
+      <p>Ever your very affectionate brother      
+      </p>
+      <p>Octavius Hadfield.</p>
+      <p>Mr. &amp; Mrs. St.Hill <hi rend="underline">are all very well &amp; as full</hi> of love &amp; kindness to me as ever.  I have written these lines rather hastily, excuse such a scrawl.</p>
+      </body>
+   </text>
+</TEI>

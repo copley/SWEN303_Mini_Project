@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0941">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1895 August 3: to Lund</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Papers-0031-51.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/74379/">Lund</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1895-08-03">1895 August 3</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1895 August 3: to Lund<note xml:id="ftn3-750" place="foot" n="750"> ATL MS-Papers-0031-51.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">(<hi rend="italic">night</hi>)<lb/>Napier, Augt. 3<hi rend="sup ">rd</hi>.<lb/>1895.</p>
+         <p>My dear Mr. Lund</p>
+         <p>Here am I in two minds, (or between them!) viz. to write to you—<hi rend="italic">or </hi>not? Bearing in mind the <hi rend="italic">old </hi>adage— “<hi rend="italic">Dom qui sequitur lepores neutrum capit.</hi>”<note xml:id="ftn3-751" place="foot" n="751"> He who follows two hares is sure to catch neither.</note> (Is this owing to my having eaten<hi rend="italic"> </hi>
+            <hi rend="italic">Hare</hi> yesterday?) Yes: <hi rend="underline italic">I will</hi>—on account of his chilblains: <hi rend="italic">and other disagreeables</hi>. Hei mihi! Hei mihi! “<hi rend="italic">Dum vires</hi>
+            <hi rend="italic">annique sinunt,</hi>
+            <hi rend="italic">tolerate labors.</hi>”<note xml:id="ftn3-752" place="foot" n="752"> While your strength and years permit, you should endure and encounter labour; remember that crooked age, with silent steps, will soon arrive (Ovid).</note> (As Ovid has it.) pretty well, eh? for a beginning!—–</p>
+         <p>Now, I <hi rend="italic">had been </hi>on the <hi rend="italic">qui vive</hi>—expecting to hear from you: &amp; then, <hi rend="italic">no </hi>response! I gave it up: knowing that you were &amp; <hi rend="italic">must be</hi> busy in your many &amp; varied duties, but wholly ignorant of your skin torments. And what made me the more desirous of hearing from you, was the fact of my having (since I last wrote) found the <hi rend="italic">enclosed</hi> which “<hi rend="italic">find,</hi>” cheered me a bit as I thought such might serve to cheer you. <hi rend="italic">i.e.</hi> if <hi rend="italic">new</hi>. And I came on them in a curious kind of way, worth <hi rend="italic">relating</hi>. I was seeking some Cornish mineral for my paper on 15<hi rend="sup ">th</hi>. inst, in some one of my old cases packed by me at the Bay, in 1844 had to open 2 such cases, and in one I found sundries, “odds &amp; ends”,—pamphlets, letters, <hi rend="italic">plants </hi>(ferns, in really <hi rend="italic">good</hi> preservation &amp; among them, I do believe, 3 <hi rend="italic">sps. novæ</hi>!!) and an old “scrap-book”—containing these effigies of coins, which I have cut out—to send to you; and by-&amp;-by I hope to hear from you respecting them. Because you say— “When I feel in better spirits &amp; temper I shall write a <hi rend="italic">longer letter</hi>” and I hope that auspicious season may soon arrive—<hi rend="italic">there at </hi>M—u.</p>
+         <p>I <hi rend="italic">can</hi> &amp; <hi rend="italic">do</hi> sympathize with you <hi rend="italic">re </hi>“chilblains”—but it is only from <hi rend="italic">old </hi>acquaintance—in boyhood at <hi rend="italic">Home</hi>; never in this country. Surely you (a Swede!) must find it <hi rend="italic">very cold </hi>there, at M—u, to be so infested! And then, too, your dear wife, with her teeth! Cheer up, <hi rend="italic">mon cher ami</hi>, hope <hi rend="italic">on</hi>, hope <hi rend="italic">ever</hi>, <hi rend="italic">hope for the best</hi>: and try—aye, try <hi rend="italic">hard, to like your work</hi>, though heavy it brings you “bread”, <hi rend="italic">&amp;c, &amp;c, &amp;c.</hi>—An old proverb, of my fathers, runs thus:— “<hi rend="italic">Speak well of the bridge you go over</hi>,” (no doubt you can cap it with a better one from the far North!). There is honey in that <hi rend="italic">lion.</hi>
+            <hi rend="italic">
+               <note xml:id="ftn3-753" place="foot" n="753"> Judges 14.</note>
+            </hi>
+         </p>
+         <p>I have been working hard here (in my poor way):—am keeping well on the whole:—yesterday I spent afternoon at Inspector Hill’s (to fulfil an <hi rend="underline italic">old</hi>
+            <hi rend="italic"> promise</hi>), and while there Eccles suddenly arrived! and so we had a pleasant hour until I was obliged to leave at 5, fearing the cold <hi rend="italic">night</hi> air:—here, the weather has been, and <hi rend="italic">is</hi>, <hi rend="underline italic">very fine</hi>, remarkably so.—Hope you may have found time to read the 2 <hi rend="italic">brochures</hi> I sent you—&amp; <hi rend="italic">report</hi> on them. Howlett has just done so, on <hi rend="italic">one</hi>— “Wakare-moana &amp;c”. Good Bye: kind regards &amp; best wishes, please make my respects to your good wife.                 </p>
+         <p>Yours faithy,              </p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

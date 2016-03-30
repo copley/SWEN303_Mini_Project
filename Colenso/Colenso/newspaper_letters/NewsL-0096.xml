@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0096">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1881 Turning to the east. Napier Daily Telegraph 13 July.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1881-07-13">1881 July 13</date>
+               <publisher>
+                  <name type="organisation">Napier Daily Telegraph</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1881 Turning to the east.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Napier Daily Telegraph</hi>
+                  <hi rend="bold"> 13 July.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—Permit me to correct an error which appears in a letter in your contemporary this morning, signed “Moderation.” (It is from no wish to enter into this present undignified church squabble that I now write in this matter.) Referring to the practice of turning to the east to recite the Creed, “Moderation” says,— “the Late Metropolitan of New Zealand Bishop Selwyn did so”—this, however, I deny. I never knew of his doing so in a single instance; and I have been present in church with him hundreds of times,—both in his own college church, as well as in those which were mine,—and I never knew him once to break the rubric (or law), for he always took the proper assigned position, at the north end of the table. </p>
+         <p>At the same time, his erratic good-natured chaplain, the Rev. W. Cotton, did so; and there was the striking peculiarity, if not the puerility, of practice plainly shown,(<hi rend="italic">then</hi> an  innovation for the first time, and great novelty in New Zealand!)—of two (or more) ministers being present, and only one (Mr Cotton) whisking round to his position! No doubt he believed he was doing right; and, possibly, supposed that be was rightly teaching others in his so acting! But Mr Cotton had not the far-seeing mind nor depth of judgment of Bishop Selwyn, who did not deem it worth while to disturb the peace of a mixed congregation over over such little things.</p>
+         <p>I may also say, that having read attentively “Moderation’s” letter, I cannot but conclude, that he is not a Moderate, in the true sense of the word, and he knows it. ‘For, would it not have been far better, far more to the point, for him (if a Moderate) to have adduced the practice of the Bishop of the Diocese in this matter? of both the late respected Bishop of Waiapu (who was so known to have been a “Moderate,” and ‘also blessed with many years of experience and judgment in Church matters,) and of the present Bishop,—if the practice of a Bishop in the Church was to be adduced at all. And not to voyage far away to distant lands and islets?</p>
+         <p>But then the late dear Bishop of’ Waiapu had boldly and truthfully preached in St. John <hi rend="italic">warning</hi> the congregation against that deluding, and dangerous book, “Hymns Ancient and Modern;” notwithstanding which,—certain recalcitrant curates of his Diocese persisted in retaining its use!!—I am, &amp;c.,</p>
+         <p>
+                  <hi rend="smallcaps">					William Colenso.</hi>
+               </p>
+         <p> Napier, July 21, 1881.</p>
+         <p>[A meeting of the church members having been called for Wednesday next, for the discussion of the subject of the above letter, we must decline to publish any further correspondence on the questions in dispute.—Ed. D.T.]</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0080">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1852 June 28: Octavius Hadfield to his mother Amelia Hadfield (nee White)</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  Page 240.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 9.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1852-06-28">1852 June 28</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/24651/">Otaki</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70719/">Amelia Hadfield (nee White)</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1852 June 28: Octavius Hadfield to his mother Amelia Hadfield (nee White)</p>
+      </front>
+      <body>
+      <p>Otaki, June 28. 1852.</p>
+      <p>My dear Mother,</p>
+      <p>I have delayed writing to you for some weeks in hope of hearing from home, but I must delay no longer.  By a letter which I received from Te Rauparaha I was grieved to hear that my dear Father had been taken away.  But as he expected I should hear at the same time from home, he did little more than allude to the fact.  I have therefore been anxiously waiting to have some account of this painful event.  I have been most anxious to learn how you bore it.  My dear Father had lived to so great an age, that we could only feel thankful that he had been spared so long,.  I was well aware that I should see him no more when I left England; and I had for some time anticipated the intelligence which I have now received.  But the shock must have been greater to you who were living with him.  I shall say no more but hope to hear soon from some of you.  May you, my dear Mother, be long preserved that you may be a comfort to us all, and that you may grow in meetness for that heavenly glory to which we are earnestly looking forward.  My anxiety to hear from home, and my daily expectation of doing so, has prevented me mentioning what I ought to have written about before.  But you will probably have heard of it before this reaches you; I allude to my marriage, which took place on the 19th of last month.  I think it is so likely you will have heard of this from Archdeacon H. Williams, that it is hardly worth while my saying anything about it.  However, I may as well say that my wife is the third daughter of Archdeacon H. Williams, one of my oldest and most valued friends in New Zealand - a man whose worth can hardly be estimated.  She had been staying here and at Wellington for three months previous to our marriage so that I was tolerably well acquainted with her.  I hope I have been guided from above in this matter.  There was a time when I thought a wife would be a hindrance in my work, but the present circumstances of this country are different, and I trust it will not be so now.  You, I think, will be glad that I have now a companion to share my joys and sorrows while engaged in a work which necessarily separates me from you all.  It will be needless for me to say that my wife /her name is Kate/ is all that is good and amiable; you will assume this, at least that this is my opinion.  We were married here in our Otaki church by Mr. Taylor, who with Mrs. Taylor and his daughter came from Whanganui.  All the principal natives of my district came also.  And now I have said enough on this subject.</p>
+      <p>I am afraid it is a long time since I last wrote.  I believe I have received one letter (Amelia's of Oct) since I wrote.  Early in April I went out of my district to Wairarapa, which I visited also last year, to administer the Sacrament of the Lord's Supper to the natives there.  I was about 120 miles from this.  I met Mr. Colenso who is an old friend of mine; - an active, zealous missionary: he is a deacon.  The natives assembled to meet me: they were very desirous of having a missionary to reside among them.  They showed me land they would give up for the support of a missionary, and a school etc., and offered to pay an annual subscription amounting to &#163;100 per annum.  I have very little doubt that the N.Z. Church would in a few years support itself if these subjects were properly attended to; but the C.M.Society Committee is very ignorant of N.Z. matters, and one only gets reproofs for making suggestions which from its ignorance it cannot understand.  I have thought much and deeply on these subjects, but I find few people who care to think much about them.</p>
+      <p>Last Sunday week I was in Wellington, and baptised the oldest and most important chief in the district - Te Puni.  Sir George Grey, Lady Grey etc. were present, also a Mr Dundas, MP.  I saw also a Mr. Barraud who sends sketches to the Illustrated News, so perhaps you will see a sketch of it.  We are going on much as usual here.  Our new school house is completed, and is excellent.  I am now just about to begin the Boarding-house for boys where we hope to accommodate 100 by and by.  We have some splendid land for them to cultivate, so that I have no doubt the establishment will support itself in a short time.  The school I established for English children at Wellington now supports itself.  We give the schoolmaster &#163;100 per annum; but the receipts for the children is more than this, though I was laughed at for assuming this when I insisted on giving that salary to obtain an efficient man.  I will really write again soon.  The St. Hills are quite well.  I have been a long time without hearing from any of you.  Please write often.  Kate joins me in sending her affectionate love to all.</p>
+      <p>Ever your affectionate son
+      </p>
+      <p>Octavius Hadfield.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0020">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1868 April 24: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1000550</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1868-04-24">1868 April 24</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1868 April 24 McLean to Colenso (#1000550) </p>
+		</front>
+		<body>
+			<p>My dear Sir </p>
+			<p>I am sorry to find that Mr. Weber is not in town and to avoid giving you the trouble of coming down I must ask you to fix another day. </p>
+			<p>Mr. Weber will be in this evening but it may be too late and he has some of the correspondence with Domett. </p>
+			<p>In reference to the blind road leading to your place Capt. Carter thinks that you are prepared to offer ₤10. for it. I am quite willing to accept that sum and close the transaction as far as one of the two roads is concerned. </p>
+			<p>I remain yours truly </p>
+			<p>Donald McLean </p>
+			<p>April 24. 1868. </p>
+		</body>
+	</text>
+</TEI>

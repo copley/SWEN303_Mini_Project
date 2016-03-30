@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0148">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1889 Property Tax valuation. Hawke’s Bay Herald 9 March.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1889-03-09">1889 March 9</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1889 Property Tax valuation.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 9 March.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—I was pleased in seeing in your issue of this morning an article headed “Property Tax Valuation,” something of the kind having long been wanted. But you have unwittingly committed a grave error in your so doing; probably through your referring to and copying from, the old Property Tax Act of 1881, which has been repealed; instead of looking-up the Property Assessment Act of 1885;—and, in your so doing, actually confirmed by your editorial sanction the common mistake about it!</p>
+         <p>For the clause you refer to, (now 95 of the later Act,) which, you say,— “cuts the other way, and provides that if the Commissioner refuses to reduce what an owner may consider <hi rend="italic">an excessive valuation, the owner can compel the Commissioner to buy at that valuation</hi>.” This clause however, is <hi rend="italic">not</hi> as you give it, very far from it; though many, I know, have generally believed it to be so.—The said clause runs thus:—</p>
+         <p>“If any person shall be dissatisfied with the amount at which the whole or any portion of his property is assessed, he shall be entitled to call upon the Cornmissioner either to reduce the assessment to the sum at which it was valued <hi rend="italic">in the statement of such person, or else to purchase the property at the sum at which the same was valued in such statement</hi>; and the Commissioner shall, <hi rend="italic">at his discretion, reduce the assessment accordingly; or shall, upon obtaining the consent of the Governor in Council, and upon having the property duly conveyed</hi>, assured, or assigned to the Crown, purchase the same as hereinbefore provided.” (In clause 94.)—<hi rend="italic">N.B.</hi> At whose expense?</p>
+         <p>I may briefly add, that “Cash value” means “the market value at which property may be purchased for cash.” (Clause 2)</p>
+         <p>There are also other important alterations in this last Act, which it might be well for you to lay before your readers.—I am, &amp;c.,</p>
+         <p>
+                  <hi rend="smallcaps">					William Colenso</hi>.</p>
+         <p> Napier, March 8th, 1889.</p>
+         <p>[Mr Colenso is quite correct.—<hi rend="smallcaps">Ed</hi>. <hi rend="italic">H.B.H</hi>.]</p>
+      </body>
+   </text>
+</TEI>

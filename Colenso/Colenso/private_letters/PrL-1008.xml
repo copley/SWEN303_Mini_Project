@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1008">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1897 September 25: to Mackay</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-Copy-Micro-485 Reel 1.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75609/">Mackay</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1897-09-25">1897 September 25</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1897 September 25: to Mackay<note xml:id="ftn3-846" place="foot" n="846"> ATL Ms-Copy-Micro-485 Reel 1.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>Sept. 25/97</p>
+         <p>Mr. John Mackay<lb/>Govt. Ptr. Wgn.</p>
+         <p>Dr Sir</p>
+         <p>Having at last finished readg. &amp; corrg. last proofs of Lexicon (<hi rend="underline italic">sample</hi>) I turn to your kind letter of the 21<hi rend="sup">st</hi>. inst.—wh. I briefly acknd. yesty. w. proofs.—</p>
+         <p>1. <hi rend="italic">Re the cover for the work</hi>: I should like it to be done much like that of “The literature relating to N.Z. a Bibliography” a work of similar size printed at Govt. press by your predecessor Mr Didsbury in 1889, and, like that, also a gilt lettering on cover, perhaps with thye word “<hi rend="italic">specimen</hi>”—in parenthesis—underneath and, above all things! <hi rend="italic">stitched w. thread</hi>—either acct. book fashion with bands, or at penny-press: <hi rend="italic">not stapled</hi>—(I have been <hi rend="italic">used</hi>—60–70 yrs. ago! to all that kind of work.) I leave it entirely in your hands, dear Mr. Mackay, to make the little book, as you have termed it— “presentable”: I shall not mind the cost.</p>
+         <p>2. <hi rend="italic">The preface</hi>” copy of this now sent will speak for itself: I wrote it nearly 2 yrs. ago, &amp; it is longer than I wished it to be, though I have endeavored to compress it—for it is needful that some explanation should be given with this small portion of the large work—long expected and so much talked of.</p>
+         <p>3. You may have observed, that the <hi rend="italic">second </hi>part, <hi rend="italic">English:</hi>Maori Ms. is not so complete as the <hi rend="italic">first </hi>part. Indeed, I think I may say—that in its <hi rend="italic">present</hi> state it was not originally intended as “copy for press”; but it is so <hi rend="italic">long</hi> since I wrote that portion (more than 30 years), and also so long since I <hi rend="italic">last saw</hi> it, that I scarcely recollect it! No doubt this is, in great measure, owing to the injury I recd. to memory, &amp; faculties generally, through the nervous shock from my accident in April last—from which I am but slowly recovg.—Still, in a far greater degree than was commonly expected. I can also do many <hi rend="italic">light things</hi> w. my right hand &amp; arm, which I think is now gradually improving, but there are others I cannot yet do. And, if indeed, so much writg. as I have had of late also taking town rooms &amp;c in Library has certainly tried both hand &amp; arm to the utmost—and certainly the S.F. Mail is close at hand! no <hi rend="underline italic">present rest</hi>.</p>
+         <p>I feel greatly obliged to you, and also to your kind &amp; careful overseer or reader, who has done me some extra service, particularly in this <hi rend="italic">second</hi> part, for which I thank him. [In sending me the Revise, please enclose w. them a copy of last sheet wkd. off.</p>
+         <p>I suppose you will be <hi rend="italic">very busy</hi> in Pg. Off. for some time to come: <hi rend="italic">may you be able to get through all nicely</hi>, and not lose in weight. <lb/>  Believe me yours faithy<lb/>  W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

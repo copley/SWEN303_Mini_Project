@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0718">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1889 June 20: to Moore</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Private collection Colin Ashby.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/74875/">Moore</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1889-06-20">1889 June 20</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1889 June 20: to Moore<note xml:id="ftn3-447" place="foot" n="447"> Private collection Colin Ashby.</note>
+         </p>
+      </front>
+      <body>
+         <p>T.R. Moore, Esq</p>
+         <p>Waimarama</p>
+         <p>Dear Sir,</p>
+         <p>I am in receipt of your note of the 19<hi rend="sup ">th. </hi>inst., with chq. enclosed for <hi rend="italic">£10.10.0</hi>: for both I thank you.—</p>
+         <p>But there is, apparently, some error, or misconception, which causes me to write.—</p>
+         <p>1. The sum required is “<hi rend="italic">£11.0.0</hi>” (as per Circular issued), including 10/- for binding 2 vols.—</p>
+         <p>2. <hi rend="italic">None </hi>came to hand bound in “½-morocco”, &amp;c.—hence I <hi rend="italic">inserted</hi> in Circular— “<hi rend="italic">not arrived</hi>.”</p>
+         <p>(<hi rend="italic">I was very unwell at the time</hi>, and so it is quite possible I may have <hi rend="italic">omitted </hi>those two words in the Circular sent to you.)</p>
+         <p>Sir W. Buller says, in his <hi rend="italic">last</hi> letter to me, that the Bookbinder had not enclosed in his 3 cases any copies bound in mor. @ 20/-,—simply because he had no room for them. Also:—should any subscriber prefer such, to let him know, and they should be sent:—but, of course, that means some time hence, 6 months or more. I suppose, such would also be bound in 2 vols.</p>
+         <p>No other subsr. but yourself has asked about the higher price binding. I may further add, that Sir Walter naïvely says,—he did not see much difference in the appearance of the 2 kinds, though a great difference in their prices.</p>
+         <p>I am, Dear Sir,</p>
+         <p>Yours truly</p>
+         <p>W. Colenso.</p>
+         <p>P.S. If you please, you may send me 10/- (additional) in stamps:—or, when you send for the 2 vols. pay that sum to the young man in charge at Mr. Fannin’s Office.—</p>
+         <p rend="end">W.C.</p>
+      </body>
+   </text>
+</TEI>

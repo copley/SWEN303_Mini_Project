@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0046">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1863 To the editor. Wellington Independent 14 February; republished Hawke’s Bay Herald 21 February.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1863-02-21">1863 February 21</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1863 To the editor. 	<lb/>
+            </hi>
+            <hi rend="bold italic">Wellington Independent </hi>
+            <hi rend="bold">14 February; 	<lb/>republished</hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 21 February.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—An acquaintance has just shewn me your paper of the 15th instant, in which you have been pleased to devote a whole editorial to myself and to my late (?) doings! I confess I feel some doubts as to the proper course open to me—whether to write to you or not. Had your old established paper a mere colonial circulation, I should certainly not care publicly to notice your elaborate article. I should just act in this, as I have under many other equally strange charges and statements made concerning me—quietly live it down. For, I am very sure, that as far as the Province of Hawke’s Bay is concerned, ditto a large part of that of Auckland, and no small portion (I think I may safely say) of that of Wellington, it would be a mere waste of time and words, if not highly ridiculous, for me to think of answering what such a man as James Wood, the printer of the <hi rend="italic">Hawke’s Bay Herald</hi>, pleases to write concerning me on any matter in which himself or his pocket is concerned. </p>
+         <p>Sir, I wholly grant the correctness of your editorial castigation, <hi rend="italic">if</hi> I had been the fool that the “selfishly cunning” writer of that so-called report, had made me. But it does seem strange, very strange—to me at least, that you, sir, the editor of an old-established journal,—you, who have long known me (may I not say personally,) pretty well,—you, sir, who so often have warned us here in another Province against believing the canards of the<hi rend="italic">Spectator</hi> and of the <hi rend="italic">Advertiser</hi>;—you, who know that even the reporting of the General Assembly debates by disinterested and able reporters, possessing every convenience, was but very lately protested against for its erroneousness; that you knowing all this, should so suddenly jump to the conclusion, that <hi rend="italic">all</hi> that interested James Wood said, in his “vile report” of our late election proceedings, was true! Mark me, Mr Editor, I say, all that Wood had said; for, if you had any reasonable doubt on your mind, (as an editor of several years standing and a judicious man), as to any portion of that “vile report” of his, then you should have reasonably suspected the whole, and then you ought to have withheld your editorial pen until you had made further enquiry. And (may I not ask,) had you no doubts, no misgivings, as to some portion of that precious report? Sir, I know you are a man like myself, and moreover an experienced man, and I therefore know you must have had such doubts. Why, then, did you not act justly towards me? Have I to conclude, that, seeing you are a Scotehman and an officer in the Odd Fellows,—or, rather, shall I say, an old Wellington settler and an out-and-out supporter of the “Fox-Featherston party,”—such a golden opportunity should not be lost of hitting “the old enemy of Wellington;” more especially when such could be done by using the very words of a quondam acquaintance. Or, am I to adopt the opinion of some here—that, seeing sometimes an able man of the late ministry (as it is reported) writes articles for your journal, that that gentleman has once more tried his hand against an old political opponent? Sir, I cannot bring myself to adopt the latter. </p>
+         <p>Mr James Wood, as it is well known, is generally <hi rend="italic">his own reporter</hi>; in this case most unfortunately for him and for his little paper. For, had any one else, not immediately concerned, been reporting, all, I have no doubt, would have passed off well enough. (As, for instance, in the <hi rend="italic">Hawke’s Bay</hi> 
+            <hi rend="italic">Times</hi>, a paper with which I had no connection), whatever was <hi rend="italic">really</hi> said by me however grating, would have been properly placed (as it has already been by thinking minds), to the excitement, the place, and the very great provocation I had received. My real remarks as to my not being either a Freemason or an Odd Fellow<hi rend="italic"> rightly construed, </hi>only shewed that through my non-social <hi rend="italic">status</hi> with them I had not their votes. The words “mean, crawling Scotchmen,” were <hi rend="italic">never</hi> used by me; at the same time, I did plainly enough denounce “the underhanded secret, mole- like working” which a certain party had carried on against me. And as to the words,— “had he not been born an Englishman, he would wish to have been born an Irishman, &amp;c;” (which words are lumped in by excited Wood into <hi rend="italic">one</hi> sentence with the former!) I did not use those words as so set down; although I did say—in my <hi rend="italic">second</hi> address, after all the other candidates had spoken, I (being obliged to speak again, through James Wood having given me the lie direct in plain English, and after having been often interrupted by some of his own Scotch supporters and friends who were in the fore-front of the hustings with no very seemly remarks)—that “I did not believe in the ancient doctrine of metempsychosis; but if I did, or if there were truth in such, and I could not be again born an Englishman, and I could choose, I would elect to be born an Irishman, rather &amp;c.” </p>
+         <p>And surely, sir, there can be no great need for me to lengthen this in order to point out the <hi rend="italic">reasons</hi> why James Wood was so fearfully excited; unless it be that you, living at a distance, were ignorant of them! The <hi rend="italic">present</hi> main cause, sir, was my having dared to touch upon his own paper,—saying, (in answer to some one from the crowd,) “I had no confidence in it.” (Much indeed as there is in that part is reported by him—<hi rend="italic">before</hi> he “overtoppled.”) But there wore <hi rend="italic">other</hi> latent and congenuous causes smouldering in his bosom, (of which I need mention but two). First, his again losing the Government printing for 1863, which he had felt cock-sure of getting. And second, the advertisement which appeared about three weeks ago for tenders for advertising, (which you yourself <hi rend="italic">not knowing</hi> the real state of the case, had also unwarily animadverted on,) both of which mortal sins against the <hi rend="italic">Herald</hi>, are mainly laid by James Wood at my door, as one of the Hawke’s Bay Executive. Now, sir, having stated this plainly, may I not appeal to you—as an old printer and an experienced Editor, pretty well acquainted with colonial politics and dodges of would-be Provincial politicians—whether such a man in such a place, under such influences, united, could possibly report faithfully? Talk of prejudices—of party-feelings—of green-glasses—of nationality! </p>
+         <p>“Hyperion to a satyr.” </p>
+         <p>And then you also speak of my “false and malicious attempt to arouse ancient national jealousies!” Is this the old Editor of the long established <hi rend="italic">Wellington Independent</hi> thus speaking?—and thus speaking of <hi rend="italic">me</hi>? Do you not know—nay more, have you not in some of your old numbers, noticed approvingly my long known absolute and real hatred of all such national distinctions, and would that they had all been left behind us? Yes, whether civil, political, or ecclesiastical. Did I not, several years ago, write and speak against your St. Andrews and St. Patrick’s and St. George’s days being held there among you at Wellington?—Calling on you to do away with such mummery and barriers to the advancement of our common humanity, and unite in one colonial day of hilarity and welcome and brotherhood. And have you ever heard of my altering? Of course, in all this, I know I am before the age; yet I have a joy. </p>
+         <p>“I joy the age to come will think with me.” Sir, I believe this of you, that on calm reflection you will allow all this. Further, for James Wood of the <hi rend="italic">Herald</hi>, under all the circumstances, there is a certain allowance to be made for his “vile report;” but, really I see but very few extenuating ones for the remarks of McKenzie &amp; Muir of the <hi rend="italic">Wellington Independent</hi>. </p>
+         <p>You, also, remark on my “forming a tail,”—<hi rend="italic">i.e.</hi> being the lowest on the poll of those returned (46 to 62). I scarcely know whether you mean this as a reproof to me, or to the Napier electors; for, although <hi rend="italic">at present</hi> politically differing, (you and I,) I believe that you, as an old colonist and a watcher of political events, will readily own that I have endeavoured to serve Napier and her interests. However, as you are well acquainted with Provincial elections, it will suffice for me to inform you, that every one of the 46 who voted for me, did so <hi rend="italic">unsolicited</hi>; nay, more, several of them nobly withstood strong solicitations to the contrary.—</p>
+         <p>You may yet know more of our late Napier election, <hi rend="italic">of what took place before it</hi>, and during its continuance, if such be worth your knowing—bye-and-bye. Time is the great revealer of all things. Sir, I have resigned my seat in the Hawke’s Bay Provincial Council, and I shall enclose a copy of my letter to the electors of Napier, on my so doing for your perusal.</p>
+         <p>	I am, Sir,  Yours very truly,</p>
+         <p>
+            <hi rend="smallcaps">		William Colenso</hi>. </p>
+         <p>P.S.—(28th.) Since writing the above I find James Wood has returned to the charge of railing; hoping thereby to bolster up himself—which he much needs. Let me call your attention, in closing to his acknowledging to his misuse of the Governor’s name in his “vile report,” but in so doing, poor creature, he goes from the pan to the fire! saying, “it was the Domett Ministry whom I spoke against from the hustings”!!! What will you at Wellington think of that? I, William Colenso, speaking publicly against the Domett Ministry!—<hi rend="italic">Jam satis—ohe</hi>. </p>
+         <p>	W.C.</p>
+      </body>
+   </text>
+</TEI>

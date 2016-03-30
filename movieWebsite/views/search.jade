@@ -1,0 +1,38 @@
+extends ../node_modules/jade-bootstrap/_bootstrap
+head
+  title=title
+
+// This file demonstates the pages after the search. 10 results are displayed per page.
+
+block body
+  +navbar("Colenso Database", "dropdown_menu")
+    +nav_item("/", "active") Home
+    +nav_item("/browse") Browse
+
+  .container
+    h1 Your #{search} search returned
+    h2 #{total} results.
+
+  .container
+    if search_result.length > 0
+      if total > 1
+        p #{total} results.
+      else
+        p #{total} result.
+      if total > 10
+        p Page displays results #{first} to #{last}
+        p Click edit link to ammend document.
+      if first > 1
+        a(href='/search1?query=' + search + '&place=' + prev) previous <
+        span -
+      if last < total
+        a(href='/search1?query=' + search + '&place=' + next) More results
+      ul
+        each file in search_result
+          li
+            a(href='view?path='+file.path)  #{file.title}
+            p #{file.author}, #{file.date}
+            a(href='edit?path='+file.path) Edit Document
+            p <br>
+    p <br>
+    a(href='/') Try New Search

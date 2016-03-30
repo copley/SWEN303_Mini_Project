@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0547">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1883 October 14: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1883-10-14">1883 October 14</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1883 October 14: to Luff<note xml:id="ftn3-200" place="foot" n="200"> ATL MS-Copy-Micro-0485-4.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Octr. 14<hi rend="sup">th</hi>./83<lb/>(Sunday afternoon)</p>
+         <p>A. Luff Esq.,</p>
+         <p>My dear Sir,</p>
+         <p>I was much pleased yesterday in receiving your kind letter of the 12<hi rend="sup">th</hi>., not only at again seeing your well-known handwriting and in knowing of your being well,—but I had been thinking on <hi rend="underline italic">you</hi>
+            <hi rend="italic">very much</hi> during the <hi rend="italic">day</hi>—many things conspiring, as it were, to cause me to do so,—one I may mention—viz. it was the day when Capt. Cook entered H. Bay, &amp; knowing <hi rend="italic">that</hi>, and attempting to realise (as I often do) <hi rend="italic">their</hi> thoughts and talk about the new-found land, &amp; also, those of the Maoris on shore, I slid away to <hi rend="underline italic">our</hi>
+            <hi rend="italic"> </hi>keeping the centenary here some 14 years!! ago, &amp; your picture which you then had in your window, &amp;c., &amp;c. How Time has fled! I often wish that we were <hi rend="italic">nearer</hi> each other, for I still miss your kind calls, and our free and easy conversation,—I have no one now to call and talk, &amp; when I go to town I <hi rend="italic">cannot</hi> join in the talk of the day—Races, Cricket, Football, sheep, wool, Rabbits,—and the getting of Money <hi rend="italic">anyhow</hi>, but quietly &amp; usuriously &amp; <hi rend="italic">without working</hi>! I thank <hi rend="smallcaps">God</hi>, that I have <hi rend="italic">plenty</hi> to do, and a hearty good mind to do it, (indeed, it is daily, night-too-soon for me!)—still I should like to have a friend with whom I could converse <hi rend="italic">freely</hi>—now &amp; then.——But I must stop this.—</p>
+         <p>I duly received your former kind &amp; prompt note <hi rend="italic">re</hi> the “Circular” and I heartily thank you for it (&amp; still do so),—for I have <hi rend="italic">not had</hi> that response I had partly expected;—the morning that I recd. your note, on leaving the P.O. &amp; crossing over to the corner, I saw M.R. Miller and Kirker there together; after a few words, M. said, “Don’t forget me with a copy of your pamphlet,” and then K. also said much the same. I said, “Why don’t you write in accordance with that C?”—“No time,” sd. M. “Oh! write for 3/-” said K. Then I pulled out yr. letter &amp; said “Here is an immed. reply from a gentleman a long way off, &amp;c.” At <hi rend="italic">first</hi>, I refused to take any “Order” in that way, but I was obliged to give way. Since then, M.R.M. called out after me, “I shall want 3 more,” (five in all.) “Don’t think you will get them,” my reply. “Why so?” “Because after waiting a fortnight on you (Members), the number was fixed, &amp;c.” “Why not print a lot extra for sale?” “Yes: &amp; have them left on my hands!”—Sure I am, that several friends, (or, rather, perhaps, who appear to be such, and are so disposed,) will fail in getting copies: the printing is now more than half through, and would have been over, but for the printing for Races, &amp; Pastoral Show, &amp;c.; when the book is <hi rend="italic">out</hi> I will send your 2 copies.—</p>
+         <p>With this I shall post a “D.T.,” that you may just see how we got on last meeting night (8<hi rend="sup">th.</hi>): I had rather a heavy task, to read Huxley’s long lecture, but I got through it better than I had expected. Rev. Hovell &amp; his lady were among the audience, they had only been with us 2ce before. I had previously had <hi rend="italic">great search</hi> after a “European Mail” of June 15, (as you had kindly informed me,)—and all to no effect! I found those of earlier &amp; later dates but no “15<hi rend="sup">th</hi>.”,—so I gave it up: unexpectedly, I found <hi rend="italic">all </hi>about it in the June month no. of “<hi rend="italic">Nature</hi>”: and read it at our Meeting, placing at same time 2 copies of those pages of Mao. Lex. &amp; other Parliamentary Papers on our table: I had not before shown them <hi rend="italic">in Napier</hi>, although I had recd. them from Govt. in Decr. last. As you take in the “Herald,” you will have seen their <hi rend="italic">usual</hi> “skit” upon us—or rather, <hi rend="underline italic">me</hi>—which creates some talk here, &amp; fault-finding w. <hi rend="italic">them</hi> (W. &amp; Pirani), and tends to do them harm; all hands are now tolerably sure that those “skits” are manufactured <hi rend="italic">in their office</hi>.<note xml:id="ftn3-201" place="foot" n="201"> The Knife Grinders’ Society, <hi rend="italic">Hawke’s Bay Herald</hi> 8 February, 17 May, 10 October 1883, 6 February 1884. Colenso attributed these satirical pieces to Richard Thomas Walker editor and Henry Charles Pirani, compositor at the Herald.</note>
+         </p>
+         <p>I was doubly pleased at the sight of your son’s 2 small Botanl. specimens, enclosed in your letter: the fern—is a <hi rend="italic">lower </hi>leaf of a climbing fern that runs up very high, and, curiously enough, its upper leaves, and its fruitful ones, are very different from the lower ones—it is <hi rend="italic">Lomaria filiformis</hi>, common throughout N.Z. in woods. Owing to the very great differences in the forms of the upper &amp; lower leaves of this fern, the <hi rend="italic">best </hi>botanists at home, 30 years ago, made 2 species of them!! The Moss, (barren) is, I believe, <hi rend="italic">Hypopterygium filiculæforme</hi>,—but as it is without fruit, it is hard to say: all ferns &amp; mosses (specimens) should be <hi rend="italic">in fruit</hi>. A great distinguishing difference between a fern &amp; a Moss is that the <hi rend="italic">fern </hi>usually has its fructification on the back of its leaves, or frond,—and the <hi rend="italic">Moss </hi>has it in little urn-shaped vessels on proper fruit stalks; 20, or more, such specimens as these might be enclosed in a letter, <hi rend="italic">when dry</hi>, without increasing the postage, and by sending me such a lot—I could easily point out the new ones, if any.</p>
+         <p>I am glad to hear you are <hi rend="italic">out</hi> of your gold-mining spec., and hope you may do well in your <hi rend="italic">Coal</hi>. I had seen in the “Mail” a notice of your impounding troubles, and longed to know more about it. I sincerely hope you will not be the loser in carrying it into the S. Court. Believe me, I can, &amp; <hi rend="italic">do</hi> sympathise with you—in <hi rend="italic">others </hi>reaping benefit from your lands at <hi rend="italic">your cost</hi>! I am in the same boat w. you! witness those 21 acres at Te Awanga. I really don’t know how to act with some of those men, who lift their heads so high, and yet who <hi rend="italic">prefer</hi> doing the mean &amp; inequitable to the fair!</p>
+         <p>Lots of applications of late to <hi rend="italic">borrow</hi>, and that, too, on mere P.N’s. and such trash. Money has been scarce here of late (comparatively): wool being low in the market at home keeps it so. You will see in the “Herald”, all about our Pastoral Show &amp;c. I agree w. you in your remarks on Hastings. There is a prodigious high building now erecting on the hill behind <hi rend="italic">old</hi> U. Bank—for a High Girls’ School: it <hi rend="italic">commands</hi> my entrance here, looking over Moggridge’s valley. I went to “Bush” on Sept. 26 returned to ’Pukurau on 29<hi rend="sup">th</hi>. in pouring rain, &amp; to N., on the 2<hi rend="sup">nd</hi>: I purpose making another <hi rend="italic">short </hi>visit, early in Novr.,—&amp; a longer one in the summer.—</p>
+         <p>Weather here very wet all this past week: yet <hi rend="italic">they</hi> raced in rain &amp; mud!! I am well, &amp; I hope this may find you so, &amp; with very kind regards.</p>
+         <p>Believe me, yours sincerely,</p>
+         <p>W. Colenso.</p>
+         <p>P.S. I wholly agree w. you, when you say, “Talk of the oppd. working man: 8/- a day &amp; <hi rend="italic">no </hi>responsibility.” Just so, I have often said that he is far better off than his master.</p>
+      </body>
+   </text>
+</TEI>

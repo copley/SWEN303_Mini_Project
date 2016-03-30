@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0188">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1896 Prohibition and the clergy. Hawke’s Bay Herald 23 July.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1896-07-23">1896 July 23</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1896 Prohibition and the clergy.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 23 July.</hi>
+               </p>
+      </front>
+      <body>
+         <p>“A Daniel, still say I; a second Daniel!—	<lb/>I thank thee Jew, for teaching me that word.”</p>
+         <p rend="end">
+                  <hi rend="smallcaps">Shaksp</hi> Mercht of Venice,</p>
+         <p rend="end">		Act IV scene i.</p>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—Max Müller has very naturally and truly observed in his Gifford Lectures:— “Every kind of evidence is made to tell by writers who have a theory to defend.” Now I had quite intended that I, in my letter of last week in reply to “John Hosking,” having said my say, should not write again. And I should not now do so, were it not for his own closing and (as he no doubt supposed) clinching sentence from the New Testament, in his reply letter in yesterday’s <hi rend="smallcaps">Herald</hi>, viz., “A Bishop must be—sober, <hi rend="italic">not given to wine</hi>” (the italics, as usual are “J.H.’s,”) and it is just this one little well-known and plain English word “given” that has prompted me to write again; for, verily, “John Hosking” shows, he does not understand its meaning! and has also led me to choose my Shakespearian motto, at the same time not intending to say that “John Hosking” is a “Jew.”</p>
+         <p>“Not given to wine.” Of course, the meaning of this word is,—addicted to, a lover of, &amp;c. Now, had John Hasking deigned to look into the Revised Version ot the New Testament, he would have found the true meaning of the Greek better rendered, thus:— “A bishop must be—no brawler,” or as in the margin) “not quarrelsome over wine,” and so it is in Titus, i, 8—the only other place in the New Testament containing that word.</p>
+         <p>“Paroinon”—the Greek word in question, there used by St. Paul—is also farther rendered by Dean Alford in his Greek Testament thus— “<hi rend="italic">not a brawler</hi> (properly, ‘one in his cups,’ a man rendered petulant by much wine), and perhaps,” Alford says, “the literal meaning should not be lost sight of.” To which I would add a further testimony from Parkhurst (Gk. Lex.)— “A tippler, one who sits long at the wine;” with his apt quotation from Lucian— — “<hi rend="italic">methyson kai paroinos</hi>, &amp;c.,—a person drinking and tippling not only till he sings and dances, but till he becomes abusive and enraged.” Schrevelius (Gk. Lex.) renders the word— “a tippler, drunken, intoxicated.” Conybeare and Howson also render the term— “not given to wine or brawl.”</p>
+         <p>Those verses alone, <hi rend="italic">rightly considered</hi>, respecting the use of wine in the Christian Church, have ever been with me sufficient to decide all controversy concerning fermented drinks. How “John Hosking” could reasonably adduce that word and sentence in support of Teetotalism or Prohibition is beyond my comprehension! It is mine in support of Temperance.</p>
+         <p>I do not know “John Hosking,” neither have I spoken with any person who knows him, and therefore I am ignorant as to his age, &amp;c., but suppose him to be an inexperienced young man—this from his hasty, irrelevant writing; so stiltified, too! (If I may use that term) concerning himself.</p>
+         <p>If “John Hosking” would condescend to accept advice from an aged veteran in the Army (not an enemy to the great cause of Temperance), I would suggest to him to be more thoughtful, considerate, and modest in his statements, particularly in his public writings. (2 Tim. ii, 24).</p>
+         <p>And as I shall not write again to your paper on this subject; and as I have again seen in your columns the aged Paul’s advice to his son Timothy respecting the use of wine, once more twisted and travestied in quotation, I am inclined to give the new and plainer rendering of that sentence from the Revised Version, viz,, “Be no longer a drinker of water, but use a little wine for thy stomach’s sake, and thine often infirmities.”—I am, &amp;c.,</p>
+         <p>
+                  <hi rend="smallcaps">		William Colenso</hi>.</p>
+         <p> Napier, July 21st, 1896.</p>
+      </body>
+   </text>
+</TEI>

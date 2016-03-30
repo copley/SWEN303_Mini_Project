@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1089">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1889 December 4 to the Colonial Secretary</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Archives New Zealand</p>   
+         <p>(National Archives, Wellington, Record No. 1889/3518)</p>
+         <p>Transcription by Ian St George</p>
+            <p>encoded into TEI by Melissa Bryant, 23.10.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1889-12-04">1889 December 4</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/72672/">the Colonial Secretary</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1889 December 4 to the Colonial Secretary (National Archives, Wellington, Record No. 1889/3518)
+         </p>
+      </front>
+      <body>
+      <p>
+Napier</p>
+<p>December 4th., 1889</p>
+<p>Sir</p>
+<p>I have the honour to send you herewith a packet containing the remaining portion of the “Copy for Press” of my little book re “Signing the treaty of Waitangi,” &amp;c.—</p>
+<p>In my letter to you of the 23rd. ulto (accompanying the first instalment of the same) I said,— “I hope to be able to do so” (send this) “by the 1st. Proxo.”—and I am happy in having this day completed it.—</p>
+<p>Not having heard from you in reply to my letter, and not knowing whether the first lot of copy sent had been placed in your printer's hands,—or, had even been received by you, I wired to you yesterday morning to enquire, and I must say, that I was somewhat surprised at your reply (also by wire),—1. That the “Mss. I had forwarded were not yet placed in printers hands”: and, 2. that I had stated in my letter of 23rd. Novr., “I hope to send the balance by first of this month.”—</p>
+<p>For, in my so exerting myself and also early despatching to you the first lot (being about 2/3rds of the whole), I had been led to do so that no time should be lost in beginning the said work: little thinking that such would be kept back until the arrival of the “balance.”</p>
+<p>And, as I cannot understand this, I trust you will permit me to say:—1. that in my (second) letter to the Hon. the Premier on the subject (Sept. 27, 1889), I have stated,— “as an alternative; you may possibly prefer and allow my sending the said Mss. to your Printer, and he executing the work for me, I paying him cash for it.”   2. Therefore, If there should be the least hesitancy on the part of the Government, as to their adopting the work in its entirety,—I do hope they will grant me my “alternative”, and that immediately. Just as was done by your Printer for Tregear and others at Wellington.—</p>
+<p>One request I must here make, viz.—that I shall expect to receive back all the printed copies clean and entire I have forwarded to you,—that is, all of my own printing at Paihia,—as I have no others and I greatly value them.</p>
+<p>Mail is closing or I should say more.</p>
+<p>I have the honour to be,</p> 
+<p>Sir,</p>
+<p>Yr. mo. ob. servt.</p>
+<p>Wm. Colenso.</p>
+<p>The Hon.</p>
+<p>the Colonial Secretary,</p>
+<p>Wellington.
+</p>
+</body>
+   </text>
+</TEI>

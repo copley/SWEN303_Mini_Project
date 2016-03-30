@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1121">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>14 May 1870: Hector to Hooker.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">James Hector</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Kew DC 174, 573, ATL Micro-MS-Coll-10-17, 38-40.</p>
+         <p>Transcription published in "My Dear Hooker: 
+Transcriptions of letters from James Hector to  
+Joseph Dalton Hooker between 1860 and 1898", Rowan Burns &amp; Simon Nathan.  Geoscience Society of New Zealand miscellaneous publication 133B, 2012.  ISBN 978-1-877480-21-8. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133B.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1870-05-14">1870 May 14</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hector to Hooker, 14-5-1870, Kew DC 174, 573, ATL Micro-MS-Coll-10-17, 38-40.</p>
+      </front>
+      <body>
+      <p>  
+[Wellington?]</p>
+            <p> 
+14th May 1870 </p>
+            <p>
+My dear Hooker,</p>
+            <p> 
+            I only received your Febry. letter with the 
+seeds for Ludlam yesterday, as it had made 
+two trips to Auckland and back. There is a chance of still catching the Suez mail so I write a 
+few lines to thank you for sending the letter to the Geol. Magazine. 
+It is just as well to have 
+these things out. I could not stand Haast bullying Woods of Melbourne for quoting him as an exponent of a South Glacial Epoch. In the same Vol.
+ of the Trans. of the R. Soc. of Victoria
+that has Woods’ paper Vol. VI you will see in
+ the Preface that Haasts first paper had 
+disappeared?
+ But Haast is a very good fellow in other respects – too good a great deal to 
+spoil by ---- play such tricks 
+unchallenged. He has been working hard at the Amuri for me &amp; 
+has made a very fine collection of Saurian Remains &amp; associated fossils. It is very queer 
+except a small species of Belemnite &amp; a large 
+Trigonea (found also in 
+Tertiary strata) and 
+Inoceramus – all the shells have a very tertiary cut. Something very interesting to General Geol. Science will come out of it. </p>
+            <p>
+I have to hurry since I 
+came from Auckland rearranging the N.Z. Collections &amp; 
+throwing out duplicates. The 
+fossils
+ occupy 160 feet of floor cases
+ 4 ft. wide. The Catalogue
+is in the printers hands &amp; the 
+Illustrated Catalogue is advanced. By this mail you get Vol. II
+of our Trans. It was too late for the 
+Frisco
+ mail.</p>
+            <p>
+With regards to Willy</p>
+            <p>Yrs. affectionately </p>
+            <p>
+J Hector. </p>
+            <p>
+            Shall I communicate with Colenso?
+ I dont think you would get him in if the Parsons or Missionary Societies have
+ any power or influence. I will write 
+at length next mail[?]. </p>
+</body>
+   </text>
+</TEI>

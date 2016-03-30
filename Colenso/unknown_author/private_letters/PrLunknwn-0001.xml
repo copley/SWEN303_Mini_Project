@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLunknwn-0001">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>unknown date: unknown person, probably to Octavius Hadfield</title>
+            <author>
+               
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions, spine title "Hadfield, Typescript Miscellaneous Fragments 1833-1897", stamped 19 Dec 1979.  Section: Typescripts of inwards letters extracts + fragments. Page 51 of this volume; the typescript page photocopied here was page "(8)".  Sender, recipient and date not present.  The towns mentioned are in Halifax, Canada.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 11.12.15.  Photocopy unclear therefore some words uncertain.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="-----">unknown date</date>
+                  
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>unknown date: unknown person, probably to Octavius Hadfield</p>
+      </front>
+      <body>
+      <p>in November to bring out his wife &amp; daughter to settle here or in the island of St John's during the remainder of his days.  Should my letter for Europe arrive before I do you will know her superscription I need not caution you against opening it.  We were escorted to the water by the pipes playing alternately "The Frasers" &amp; our March, to the no small entertainment of the people of Windsor.  We proceeded on our journey through the townships of Horton &amp; Cornwallis, which last is about six miles from Windsor, accompanied by the Major &amp; handsome Jack, through a country if possible exceeding Windsor.  Here another instance of the Major's attention [met?] us, he sent his servant the day before to Capt Campbell who is stationed here, announcing our arrival, this gentleman not wishing as travellers to take us out of our way, &amp; knowing how ill the taverns on the road are supplied, with liquor, met us in his carriage with claret, Madiera, &amp; Port, of the best quality from his own cellars.  Though we might have proceeded much further thence daily the company &amp; liquor were so good that we agreed to spend the night here, which we did much to our satisfaction. - Here the honest Major &amp; Captain left us with the promise to be with us next morning, before we set off.  A promise we afterwards understood they never intended to fulfil, &amp; was given to avoid the disagreeable ceremony of leave taking.
+      </p>
+      </body>
+   </text>
+</TEI>

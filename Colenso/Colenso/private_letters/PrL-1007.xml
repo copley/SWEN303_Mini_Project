@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1007">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1897 September 24: to Mackay</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-Copy-Micro-485 Reel 1. There are many other drafts of similar brief communications from Colenso about the Lexicon to Capt. Russell, Coupland Harding, Didsbury, Mackay and Costall here.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75609/">Mackay</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1897-09-24">1897 September 24</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1897 September 24: to Mackay<note xml:id="ftn3-845" place="foot" n="845"> ATL Ms-Copy-Micro-485 Reel 1. There are many other drafts of similar brief communications from Colenso about the Lexicon to Capt. Russell, Coupland Harding, Didsbury, Mackay and Costall here.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier                        <lb/>Friday night<lb/>Septr. 24/97.</p>
+         <p>Mr. J. Mackay,<lb/>Government Printer</p>
+         <p>Dear Sir</p>
+         <p>I thank you first for your kind note, also proofs and returned “copy”.—</p>
+         <p>I have been hard at work over the proofs—and now send you the “<hi rend="italic">Mao</hi>. Eng.” <hi rend="underline italic">last</hi>
+            <hi rend="italic"> </hi>
+            <hi rend="underline italic">proof</hi> for a Revise.—</p>
+         <p>I purpose sending you the <hi rend="italic">Eng.</hi> Mao. proof by Monday’s mail: together with <hi rend="italic">preface</hi>, &amp; will then answer fully all your kind enquiries.</p>
+         <p>I have been closely occupied on work—(other press work here <hi rend="underline italic">lately</hi> vid. H.B. Herald 22<hi rend="sup">nd</hi>.) am pretty well but need getting out,</p>
+         <p>Again thanking you, I am, yours faithy.<lb/>                                             W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

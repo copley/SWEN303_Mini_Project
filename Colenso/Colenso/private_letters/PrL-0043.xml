@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0043">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: Order sent to CMS (Octr.2, 1843)</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 80-038 George Petersen papers; this appears to be a rough record of his order kept by Colenso.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+      </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1843-10-02">1843 October 2</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>
+            <hi rend="bold">Order sent to CMS</hi> (Octr.2, 1843)<note xml:id="ftn1-45" place="foot" n="45"> ATL 80-038 George Petersen papers; this appears to be a rough record of his order kept by Colenso.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="center">
+            <hi rend="bold">===</hi>
+         </p>
+         <p>1 post Broadside Iron Albion Printing Press, complete; (new or 2<hi rend="sup">nd</hi>. hand)—</p>
+         <p>28lbs. Ptg. Ink</p>
+         <p>20 Ream Post ptg. paper</p>
+         <p>6 Tympan skins 4 Blankets</p>
+         <p>250 Quoins</p>
+         <p>A small assort. of Furniture</p>
+         <p>2 shootg. sticks: 3 Bodkins in hafts</p>
+         <p>1 small composing stick</p>
+         <p>28lbs. Potash in Stone Jar, &amp; Jar enclosed in a hamper; or in an iron-hooped cask.</p>
+         <p>2 Leg Brushes</p>
+         <p>2 pair Post Broadside Iron chase with Bars</p>
+         <p>1 Post folio d— —</p>
+         <p>1 Post 4to. d— —</p>
+         <p>3 wooden galleys</p>
+         <p>1 Brass d— —</p>
+         <p>1 Iron Roller-Frame, 2 wooden roller stocks: 1 small Iron Roller mould to size</p>
+         <p>1 Imposing stone—to size</p>
+         <p>1 doz. lengths thin Brass rule</p>
+         <p>25lbs. glue</p>
+         <p>
+            <hi rend="italic">Building materials—</hi>
+         </p>
+         <p>1 Cutting press plough &amp; pin</p>
+         <p>6 plough knives</p>
+         <p>1 ream Mill Board (thin 12mo.)</p>
+         <p>1 large Binder’s shears</p>
+         <p>2 Binders Small Hammers</p>
+         <p>1 doz. red glazed sheep skins</p>
+         <p>1 doz white ditto</p>
+         <p>
+            <hi rend="italic">Type</hi>:—</p>
+         <p>1 Fount Small Pica, 3-nicked<hi rend="sup ">3</hi>, Roman<hi rend="sup ">2</hi>, (comprising)</p>
+         <p>lower                          <hi rend="underline">upper</hi>
+            <hi rend="underline">Small caps</hi>
+         </p>
+         <p>a      6000                    a       400                                     100</p>
+         <p>e      2500                            300                                       80</p>
+         <p>I      2700                            300                                       80</p>
+         <p>o      3400                            200                                       50</p>
+         <p>u      2000                            100                                       50</p>
+         <p>h      1200                            200                                       60</p>
+         <p>k      4000                            500                                     100</p>
+         <p>m        700                           100                                       40</p>
+         <p>n      1800                            250                                       40</p>
+         <p>p        500                           100                                       40</p>
+         <p>r      1800                            200                                       50</p>
+         <p>t      2500                            250                                       60</p>
+         <p>w        700                           100                                       40</p>
+         <p>g        800                           100                                       50</p>
+         <p>
+            <hi rend="italic">Figures</hi>; <hi rend="italic">stops</hi>; 1–m-rules, quads., &amp; spaces according to Eng. Tariff for Type of similar weight</p>
+         <p>30lbs Italic, assorted according to above Tariff; 14 letters only upper &amp; lower, <hi rend="italic">no s. caps.</hi>
+         </p>
+         <p>30lbs. Roman contg. such Eng. sorts,—(in Upper, Lower, S. Caps, &amp; Dble Letters <hi rend="italic">only</hi>) as one <hi rend="italic">omitted </hi>in above Tariff—</p>
+         <p>12lbs. Italic d— — — — — — — — — — — —</p>
+         <p>1000 Leads 4 to pica, 20 pica em’s long—</p>
+      </body>
+  </text>
+</TEI>

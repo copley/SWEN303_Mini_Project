@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0181">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1895 Introduction of bees . Hawke’s Bay Herald December 10.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1895-12-10">1895 10 December</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1895-12-09">1895 December 9</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1895 </hi>
+        <hi rend="bold">Introduction of bees</hi>
+        <hi rend="bold">.       <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald</hi>
+        <hi rend="bold"> December 10.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—I was not a little surprised (I may say, and amused!) in reading in your paper of the 7th instant a letter written from England to you, purposely and fully stating that “Bees were introduced into New Zealand in 1845!” and that there is a silver medal extant attesting it, of which a photograph was also sent to you. I am sorry (in a certain sense) to have to upset the pretty picture you, and your English correspondent have given us, but now for the plain dry facts, without! alas! the embellishments of a silver medal, or of a photograph, or of “a deserved recognition.” Our Scotch friends truly say: “Facts are chiels that winna ding, an’ cana be disputed.” </p>
+      <p>(1.) When I came to Hawke’s Bay, on my second visit, to reside in 1844, I brought my hive of bees with me. </p>
+      <p>(2.) That special hive was made in the Bay of Islands for me, containing a swarm from the bees of my esteemed friend Mr James Busby, of Waitangi, (for many years British Resident there down to the time of the signing of the Treaty of Waitangi), Mr Busby having introduced bees into New Zealand a few years before. </p>
+      <p>(3.) I may add that Mr Busby had reared several hives of bees, and with many others, I had gone from the Paihia mission station (near by) to Waitangi, to see the bees at work; as Mr Busby had also the new addition to the old-fashioned box hives, of a glass vase, or room, fixed on the top. And I had also partaken of the new honey in its comb made there, and kindly distributed by Mr Busby to his friends as a novelty. </p>
+      <p>(4.) The Rev. W.C. Cotton, (mentioned in the English letter to you, and who arrived in the Bay of Islands with Bishop Selwyn, in 1813,) was a great bee-lover, and had written a nicely illustrated book on bee-keeping. He had a hive of bees at Waimate, from Mr Busby’s, in 1842–3. </p>
+      <p>(5.) There being no flowering plants producing honey around me at Waitangi in those early days, and I getting tired of artificially feeding my bees, and fearing to lose them all if I let them go, there being no shelter, and the fierce westerly winds very strong, I sent them by special messengers to the “Big Bush,” (then standing between the modern towns of Hastings and Clive,) and they were liberated there; they did well; and from them I believe all the bees of this provincial district, and farther, are descended. </p>
+      <p>(6.) Moreover, I think there were bees at the old Church Mission Station at Poverty Bay prior to 1844, and a swarm from Mr Busby’s hives. The present Bishop of Waiapu, or his brother, Mr J.N. Williams, of Frimley, could no donbt satisfy you on this head. </p>
+      <p>(7.) Such a medal with its pseudo inscription would be sure to evoke much controversy in “days to come,” if not now so clearly explained and shown to be untrue. But, in my saying this, I mean only in the one primary sense, of the first introduction of bees into New Zealand, and without any reference to the sending them hither direct from England.</p>
+      <p>Thinking over the whole subject brings to mind several somewhat similar matters of hoary antiquity, aye, and of modern times, too; in which men and manners, acts and dates, sculptures, inscriptions, writings and medals, have been handed down to posterity, causing no little research and controversy. And then, as to the “honour”—well (without quoting Shakespeare), at such times a quaint distich from Goethe’s <hi rend="italic">Faust</hi>, where, in the inimitable scene on the Brocken (blasted mountain-top), in the Walpurgis-night, Mephistopheles accosts one of the old witches riding on a sow, saying—</p>
+      <p>Honour to whom honour is due:  <lb/>Here, Mother Baubo, is honour to you.</p>
+      <p>               I am, &amp;c.,</p>
+      <p>
+        <hi rend="smallcaps">           W. Colenso.</hi>
+      </p>
+      <p> Napier, December 9th, 1895,</p>
+    </body>
+  </text>
+</TEI>

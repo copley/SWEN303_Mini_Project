@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0953">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1895 December 20: to Mortensen</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MTG HB m84/20, 57802.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75270/">Mortensen</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1895-12-20">1895 December 20</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1895 December 20: to Mortensen<note xml:id="ftn3-768" place="foot" n="768"> MTG HB m84/20, 57802.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, December 20<hi rend="sup ">th</hi>.<lb/>1895</p>
+         <p>Dear Hans Mortensen</p>
+         <p>In my writing so many Christmas letters to very many places I must not forget <hi rend="underline italic">you</hi>—if only a few lines of loving greeting.—</p>
+         <p>I trust you are <hi rend="underline italic">all</hi>
+            <hi rend="italic"> now well</hi>, with the warm summer weather come again. I send you &amp; your dear little ones a Christmas card or two, with <hi rend="italic">the good old solid &amp; true wishes of our forefathers</hi>, and with kindest regards. Here I am still! <hi rend="italic">no present</hi> prospect of visiting Bush, and I am keeping pretty well. Daily growing older &amp; <hi rend="italic">feeling it</hi>. Would that I might truly say—<hi rend="italic">Daily growing </hi>
+            <hi rend="underline italic">better</hi>! yet not without Hope, knowing <hi rend="italic">who</hi> has <hi rend="italic">promised</hi>.—</p>
+         <p>Hope your dear Father-in-law, &amp; others there, are also well: <hi rend="italic">Remember me very lovingly to him</hi>. Give ½ dozen extra kisses, good long loving ones, to each of your dear children, and sometimes think on this old friend of yours—so far far away!——</p>
+         <p>Believe me,</p>
+         <p>Yours truly,</p>
+         <p>W. Colenso</p>
+         <p>
+            <hi rend="italic">Luke 2.14.</hi>
+         </p>
+      </body>
+   </text>
+</TEI>

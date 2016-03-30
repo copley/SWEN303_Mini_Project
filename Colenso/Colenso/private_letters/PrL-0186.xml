@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0186">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1865 March 2: to Hector</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Museum of New Zealand Te Papa Tongarewa MU000198/001/0033</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">Hector</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1865-03-02">1865 March 2</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1865 March 2: to Hector<note xml:id="ftn2-100" place="foot" n="100"> Museum of New Zealand Te Papa Tongarewa MU000198/001/0033</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, March 2/65</p>
+         <p>My dear Sir</p>
+         <p>Yours of the 10<hi rend="sup">th</hi>. ulto. (posted at Dunedin on the 15<hi rend="sup">th</hi>.)—with packet containing Dr. Shortland’s Ms., reached me on the 27<hi rend="sup">th</hi>.—2 days <hi rend="underline italic">after</hi> I had posted my essay to you (per “Queen” Str.) and which left here on the 26<hi rend="sup">th</hi>.—</p>
+         <p>I thank you much for forwarding the Copy of the Essay; which I have just read, &amp; now return, with a few remarks on a ½ sheet fcap., <hi rend="italic">put up with it</hi>.—</p>
+         <p>From <hi rend="italic">my point</hi> of view—it is sloppily put together, and illogical;—I am a <hi rend="italic">little</hi> disappointed in it. I do not say <hi rend="italic">much</hi>:—as I have ever been seeking to know, how or why Dr. S. became an authority in these matters. I well recollect his 1<hi rend="sup">st</hi>. arrival in N.Z.—(<hi rend="italic">after</hi> his brother’s,—who only remained 15 months <hi rend="italic">acting</hi> Goverr.) and that he was stations as Aborigines-Protector (!!) at Maketu. Dr. S. was then young &amp; wild,—&amp; his appointment caused (at the time) much talk. (<hi rend="italic">entre nous</hi>.) I am not aware of his really having known any other parts of N.Z. than the neighbourhood of his Station and I do not think he was many years in the Country.</p>
+         <p>I can hardly suppose you will publish <hi rend="italic">both</hi> essays—and Dr. S’s. has the priority, &amp;c, &amp;c.—<hi rend="italic">I am very willing to receive mine back</hi> if there is the least hesitancy on the part of the Commissioners,—as I should like to have much more time for such a work—there is little of <hi rend="italic">labor limæ </hi>in it; but, apart from that, I should like to make <hi rend="italic">enquiry</hi>, &amp;c &amp;c. It is however possible, the Government (who readily helped me with Census &amp; other Papers,) <hi rend="italic">may</hi> wish to see mine published.—If you should <hi rend="italic">not</hi> pub. Mine, do not allow it, or any part of it to be copied.</p>
+         <p>I am right glad to hear of the increasing no. of your visitors, and of their preferring the N.Z. exhibits. I have the almost <hi rend="italic">sure </hi>prospect of going to Wellington for a “3 months” during Sess. of Gen. Assy.—perhaps to commence early. I am sure I shall <hi rend="italic">not</hi> be able to visit you—although my heart is there long ago: many thanks for your kind wish. My “notes” (<hi rend="italic">hindered </hi>by this Ms. of Dr. S’s.)—you shall have by the Str. which leaves here <hi rend="italic">on 14</hi>
+            <hi rend="sup italic">th</hi>
+            <hi rend="italic">.</hi>—A note, from our good friend Dr. Hocken, by this last Mail, tells me,— “I have been trying to get your Inscription on the Bell deciphered, but in vain; and must send it to Holland, for that purpose,—there seems to be no doubt it is Javanese.”—He wishes me to help him in the <hi rend="italic">Cyperaceæ </hi>&amp; <hi rend="italic">Gramineæ </hi>of N.Z., but, I fear, I shall do little (if any) more in <hi rend="italic">distant</hi> Botanizing: I am not what <hi rend="italic">I was</hi>, physically.</p>
+         <p>Ever my dear Sir </p>
+         <p>Yours faithfully</p>
+         <p>W. Colenso.</p>
+         <p>P.S. I have several times intended to say, but always omitted doing so—that you can leave out the words— “By W.C.”—in either or both essays—that is if you wish it. I put the words in—following suit w. Dr. Müeller. W.C</p>
+      </body>
+   </text>
+</TEI>

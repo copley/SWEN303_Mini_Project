@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0812">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1892 January 3: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1892-01-03">1892 January 3</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1892 January 3: to Harding<note xml:id="ftn3-562" place="foot" n="562"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>Sunday nt. (2), Jany. 3/92</p>
+         <p>Dear Mr Harding</p>
+         <p>Last nt. I recd. your sad sad note, which made me doubly sad. I had been thinking much about you, and even hoping to hear a little <hi rend="italic">good </hi>news, &amp; lo! your melancholy tale. You may well say—the New Year has begun sorrowfully w. you—&amp; can scarcely tell where you are to look for consolation, save <hi rend="italic">in </hi>
+            <hi rend="smallcaps italic">God. </hi>You have been and <hi rend="italic">are tried</hi>, but may your (joint) determination be with him of old (&amp; <hi rend="italic">many </hi>others since in following his example &amp; encouraged by his words)— “<hi rend="italic">It is good for me to hold fast by </hi>
+            <hi rend="smallcaps italic">God</hi>,” &amp;c &amp;c. I shall yet dare to hope for an improved account from you of dear little Victor—should you not again be coming early this way, &amp; so relate the same to me here.</p>
+         <p>I was pleased to see your well-known address on letter when it arrived, hoping to hear of your having succeeded in finding some monetary friend there to help you, &amp; so have relieved your mind of <hi rend="italic">that load</hi>—but was disappointed. This, perhaps, is to be set down to the Holiday season, which has kept you from moving in the matter.</p>
+         <p>I have very little to write about that can interest you—indeed I know little of what is going on around me. I have been but once in town since you left—last Tuesday, on business, ere the outgoing Eng. Mail closed, &amp; did not stay long: I saw yr. brother wife &amp; child there, near Craig’s, &amp; had a few words w. them: they were all well. I have not had any visitors save Mr. Robertshawe, who has been here twice to see me,—coming from his temporary lodgings at Mrs. Richardson’s on the Barrack hill, (he spent New Year’s day w. me—<hi rend="italic">all</hi> my folks being absent at Hastings, keeping holiday.) Mrs. R. had come in on Tuesday 29<hi rend="sup ">th</hi>. from Clive, to be near Dr. Spencer for med. attendance &amp; medicine, and may return this, or next, wk. to Dvk.—A Mr. Sharman, who formerly resided at Waipukurau, is now here from Australia w. his wife, &amp; takes R’s. place &amp; duty at Dvk.</p>
+         <p>We, too, had that <hi rend="italic">severe wind</hi> you mention (but without rain, or but little,)—it broke off 2 of my tall Ngaio trees at <hi rend="italic">end </hi>of house—<hi rend="italic">close </hi>to parlour window!—about 10 feet from ground, &amp; <hi rend="italic">curious </hi>to see, their heads &amp; upper trunks supported each other in falling, otherwise the sash must have been smashed to pieces! &amp; then—what damage inside here that night!!!——I was perfectly astonished when I saw them the next mg.! &amp;, I trust, <hi rend="italic">w. thankfulness</hi>. Weather <hi rend="italic">here</hi> very dry, rain much needed. I note your clipping <hi rend="italic">re </hi>Rabbits v. Maori: this reminds me of some piteous notes I have both seen and recd. from them <hi rend="italic">re </hi>pheasants—destroying their crops—espy. seed of Maize when set in ground.—</p>
+         <p>I saw in a paper, that Travers, Maskell, &amp; Mason had been elected Governors of Institute: also, of your friend Tregear having got another billet!—–</p>
+         <p>I think I may safely say, I am daily improving in strength, and, also, though more slowly, in voice:—and shall endeabvour to get away to the Bush, soon <hi rend="italic">after </hi>17<hi rend="sup ">th</hi>.—that is, if spare room is there to be found.</p>
+         <p>Here I halt. Wishing you &amp; yours every blessing, and with kindest regards I am Yrs. truly,</p>
+         <p>W. Colenso.</p>
+         <p>* Do you know such a name as <hi rend="italic">Incomar</hi>—or (?) <hi rend="italic">Indcomar</hi>? &amp; where to be found?</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0638">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1887 January 4: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1887-01-04">1887 January 4</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1887 January 4: to Balfour<note xml:id="ftn3-358" place="foot" n="358"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier,<lb/>January 4/87.</p>
+         <p>Mr. D.P. Balfour, <lb/>Glenross,</p>
+         <p>My Dear Sir,</p>
+         <p>Last night I received your kind (and “better-late-than-never”) letter of the 1st instant, and as I much wish to reciprocate your kind, genuine compliments, I must write at <hi rend="italic">once</hi> to do so, as the New Year is already advancing in days. Well, I have had you in my mind of late, &amp; that more than once or twice, many things combine to keep your name &amp; memory before me, and then I have neither Family nor Visitors to distract my attention, and Xmas. &amp; holiday times with me find &amp; leave me more solitary as to human society than other days.</p>
+         <p>I was glad to receive a letter from you, although (as you say) no accompaniments came with it. I can well fancy the picture you have drawn of your parched up country—it is the same here on this dry limestone hill—andso perhaps in the outer &amp; lower forests, excluding the deep ravines &amp; watercourses. Your story of your “Octopus” fungus is a good one, &amp; made me laugh, reminding me of how some poor Maoris have been (first) taken in by pakehas, (as to drinking—something,) and then, <hi rend="italic">they</hi>, following example, took in their own fellows, with demure looks &amp; bated breath! I suppose you know the Botanical name of your fungus—<hi rend="italic">Aseroe</hi>; there are 2 sps.in “Handbook”, to which I added a third, a few years ago. You will find it in “Transactions”. Most of that class of Fungi smell abominably <hi rend="italic">after bursting</hi>, but before they do so, they are sweet &amp; good eating—just so with a melon, fish—&amp; most <hi rend="italic">animal</hi> food when stale.</p>
+         <p>
+            <hi rend="italic">At present</hi> I cannot say anything <hi rend="italic">re</hi> Kuripapango—I hope to revisit Bush (Dannevirke this time) before end of month. From what you tell me of the place, and its visitors, I fear I should not find room! I am pleased in hearing of young Parsons improving in health. I had a visit from P.D. a week ago, was gladto see him once more! he is an awful stranger <hi rend="italic">now</hi> with me. How pleased I should be to hear of wool rising, and <hi rend="italic">keeping up</hi>, at Home.</p>
+         <p>Here, (of late) the folks are half or wholly mad after holidays. And, now, that they have had so many, the cry—or the <hi rend="italic">wish</hi>—is still for more! I am sure, that such—in excess—is against our advance &amp; very prejudicial to the Rising Generation.</p>
+         <p>Have you such a book in your library as “Oceana” by Froude? I am reading it now (having long waited patiently for a copy;) there is much in it that is good respecting N.Z.—some, strange, some worse,—the book is only 3/6 in shops here.</p>
+         <p>An now I conclude—as I began, twice repeated!—wishing you a <hi rend="italic">guid</hi> new Year &amp; <hi rend="italic">many</hi> of them—with kind regards believe me, Yours truly</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

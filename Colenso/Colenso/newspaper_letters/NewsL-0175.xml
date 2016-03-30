@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0175">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1894 The Discovery of Moa Remains New Zealand Herald. 15 December.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1894-12-15">1894 December 15</date>
+               <publisher>
+                  <name type="organisation">New Zealand Herald.</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1894 The Discovery of Moa Remains<lb/>	
+                  </hi>
+                  <hi rend="bold italic">New Zealand Herald. </hi>
+                  <hi rend="bold">15 December.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>—This morning I received from a friend a copy of the Poverty Bay Herald of the 6th instant which contains a long and interesting article extracted from your paper, entitled “The Maori and the Moa”; and as there is one statement therein that is erroneous (not, however, begun by you), I wish to correct it—partly because I may be the only living person who has it in his power to do so and partly because it refers to an old resident at the North in the <hi rend="italic">Auckland</hi> Province. I fear, however, that you may not have any now residing with you who once knew him. The sentence I allude to is the following:—</p>
+         <p>“The first announcement respecting the moa was made in Mr. Polack’s book about New Zealand published in 1838, and there he states that a had found bones near the East Cape.”</p>
+         <p>I shall copy verbatim what Polack has said; he had been writing on the kiwi:—</p>
+         <p>“That a species of the emu, or a bird of the genus struthio, formerly existed in the northern island, I feel well assured, as several large fossil ossifications were shown to me when I was residing in the vicinity of the East Cape, said to have been found at the base of the island mountain of Ikorangi. The natives added that, in times long past, they received the tradition that very large birds had existed, but the scarcity of animal food, as well as the easy method of entrapping them, had caused their extermination.” (<hi rend="italic">l.c. </hi>Vol. I, p. 303) and again, “I feel assured, from the many reports I received from the natives, that a species of struthio still exists in that interesting island, in parts, which, perhaps, have never yet been trodden by man. Traditions are current among the elder natives, of atuas, covered with hair, in the form of birds, having waylaid former native travellers among the forest wilds, vanquishing them with an overpowering strength, killing and devouring, etc. These traditions are repeated with an air of belief that carries conviction to the younger natives, who take great delight in the marvellous and improbable” (<hi rend="italic">l.c.</hi>, p.307).</p>
+         <p>Before, however, that I remark on what I have here quoted, I would state<lb/>—(1) That I knew Polack well, and was not unfrequently in his store at Kororareka (he was a general dealer in “marine stores,” particularly spirits); (2) that he was a great collector of all manner of “curios,” both natural and artificial (as indeed his published volumes show), which he also sold; (3) that he did not wholly write his book (indeed he could not possible do so), the London booksellers helped him, but his peculiar stiltified and strained phraseology everywhere appears; (4) Polack’s coasting craft (a cutter used in collecting flax) was wrecked in Tolago Bay, and through that misfortune he (being in her) was obliged to remain there some time, until another vessel arrived and took him and his companions away—I saw the hull there, high and dry and broken, in January, 1838; (5) from Polack’s published account we find that during his long sojourn at Tolago Bay he never visited the country or coast north and south of Tolago—not even Poverty Bay, so near by! (I knew well it would not have been an easy matter for him to do so).</p>
+         <p>Now for his statement: his (so-called) “<hi rend="italic">vicinity </hi>of the East Cape” was Tolago Bay, some 60 miles further S. The “fossil ossifications” (strange term!) came from “the base of the inland mountain (Hikurangi),” near the East Cape: very likely these were only <hi rend="italic">portions </hi>of bones from the shanks of <hi rend="italic">tibiæ</hi>, the processes thrown away, as the natives there (East Cape) cut up such into slips as lures for their large sea-fishing hooks,—some of them I still possess. Had there been a perfect bone Polack would have secured it, and brought it away. Polack, having come to New Zealand from Sydney, knew all about the emu, etc., then so common there. Polack, who commonly deals largely in Maori names of things (birds, fishes, trees, etc.) never once used the term moa.</p>
+         <p>I did not see Polack’s book until about 12 to 14 years ago, when I obtained a copy from London; and even this I did not go through (nor cut), and I only <hi rend="italic">first </hi>heard of Polack’s statement (<hi rend="italic">supra</hi>) from my friend Mr. Hamilton at Dunedin, about three years ago, Mr. Hamilton, in his long paper on the “Bibliography of the Moa” (<hi rend="italic">Trans. N.Z. Inst. vol. xxiv, p. 95</hi>), brings forward Polack for the first time, but, just as in your article, the Professor says:— “The first announcement of the former existence of large struthious birds in New Zealand was by Mr. J.S. Polack, who in his book ‘New Zealand,’ published in 1838, stated that he had found their bones near the East Cape of the North Island.”—I am etc.,</p>
+         <p>
+                  <hi rend="smallcaps">William Colenso.</hi>
+               </p>
+         <p>Napier, December 12, 1894.</p>
+      </body>
+   </text>
+</TEI>

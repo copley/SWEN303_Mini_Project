@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0012">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1858 Open column. Tracts for the times No.1. Hawke’s Bay Herald 23 October.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1858-10-23">1858 October 23</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1858-10-18">1858 October 18</date>
+        <name type="place">Waitangi</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1858 Open column. Tracts for the times No.1.</hi>
+        <note xml:id="ftn7" place="foot" n="7">
+          <p>Years later Colenso listed these letters and their
+          meaning in a letter to RC Harding—<hi rend="italic">Ed.</hi></p>
+
+          <table>
+            <row role="label">
+              <cell><hi rend="bold">Title</hi></cell>
+              <cell><hi rend="bold">Date</hi></cell>
+              <cell><hi rend="bold">Subject (if any)</hi></cell>
+            </row>
+            <row role="data">
+              <cell>Shall we go ahead</cell>
+              <cell>Oct. 23 1858</cell>
+              <cell>Petition for separation</cell>
+            </row>
+            <row role="data">
+              <cell>Janus</cell>
+              <cell>Oct. 30</cell>
+              <cell>Two-faced persons in politics</cell>
+            </row>
+            <row role="data">
+              <cell>Take time by the forelock</cell>
+              <cell>Nov. 13</cell>
+              <cell>The electoral roll</cell>
+            </row>
+            <row role="data">
+              <cell>A square peg in a round hole</cell>
+              <cell>Nov. 20</cell>
+              <cell>Election of Spdt. for H. Bay</cell>
+            </row>
+            <row role="data">
+              <cell>Who art thou</cell>
+              <cell>“ 27</cell>
+              <cell>Truth in politics</cell>
+            </row>
+            <row role="data">
+              <cell>Honey-dew tobacco</cell>
+              <cell>Dec. 4</cell>
+              <cell>Adulterated products &amp; politics</cell>
+            </row>
+            <row role="data">
+              <cell>Darius and his groom</cell>
+              <cell>“ 11</cell>
+              <cell>Election of Spdt.</cell>
+            </row>
+            <row role="data">
+              <cell>“Cead mille failtha”</cell>
+              <cell>“ 18</cell>
+              <cell>Need of population in (a hundred thousand
+              welcomes) H. Bay</cell>
+            </row>
+            <row role="data">
+              <cell>A mess of potage</cell>
+              <cell>Jan. 8 1959</cell>
+              <cell>Interference with franchise</cell>
+            </row>
+            <row role="data">
+              <cell>All alive, all alive ho!</cell>
+              <cell>“ 22</cell>
+              <cell>Allegorical natural history note on
+              prov. Council elections</cell>
+            </row>
+            <row role="data">
+              <cell>Shadows</cell>
+              <cell>Feb. 5</cell>
+              <cell>Candidates for Prov. Council</cell>
+            </row>
+            <row role="data">
+              <cell>Substances</cell>
+              <cell>Apl. 30</cell>
+              <cell>Government in Hawke’s Bay.</cell>
+            </row>
+            <row role="data">
+              <cell>See-saw</cell>
+              <cell>May 7</cell>
+              <cell>Opposition in polities</cell>
+            </row>
+          </table>
+        </note>
+        <lb/>
+        <hi rend="bold italic">Hawke’s Bay Herald</hi>
+        <hi rend="bold"> 23 October.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+        <hi rend="italic">“Dare lucem et dare servem.</hi>”<note xml:id="ftn8" place="foot" n="8"> To give light and (thus) and(thus) to give help.</note>
+      </p>
+      <p>No. 1.—<hi rend="smallcaps">Shall we go ahead</hi>?</p>
+      <p>Our petition for separation<note xml:id="ftn9" place="foot" n="9"> i.e., separation of the Hawke’s Bay from the Wellington province.</note> signed by more than the requisite number of electors having been despatched to the governor, there can scarcely be a doubt that it will be immediately granted. The question— “<hi rend="italic">Shall we now go ahead?</hi>”<hi rend="italic"> </hi>will therefore be put by many; and while a few may shake their heads and look “awfu’ glum” by way of reply, a great number among us will no doubt take it for granted as a very sure thing, or as a matter of course. I, however, wish all <hi rend="italic">bona fide</hi> settlers who really desire to get on, or go ahead, to consider the thing a bit—to give it a little attention; when they will soon see, that their cooperation is needed to ensure success. </p>
+      <p>Nearly 2000 years ago, there was a mighty grumbling among a multitude in a large town; the cause—some having too little of the necessaries of life; when, in order to quell the disturbance, they were most reasonably advised, to look out men of honest report, who should attend to the matters complained of; this they did, and they soon prospered. Now our “great father” (as the Indians would call the governor,) has pretty nearly followed out this rule towards us: we have grumbled, and that to him; and he has sent us the “<hi rend="italic">New Provinces Act</hi>” and told us, to select our men to attend to our business, that we too may get on, or go ahead.</p>
+      <p>Therefore, to every elector I would say, <hi rend="italic">Do you</hi> <hi rend="smallcaps">wish</hi> <hi rend="italic">to go ahead</hi>? (For, if you wish fair prosperity for yourself you must also for your neighbour, and as certainly for the whole district). And as there can be no doubt that the reply will be, <hi rend="italic">yes</hi>; I will rejoin,—then mind what you are after in the way of voting at the approaching elections: for on you, electors—individually—rests this great responsibility—whether your wives and little ones will prosper in this your now adopted country:—or, in other words, whether we shall go ahead. You know very well that no ship can perform a long voyage unless she is well found:—no good crop can be expected without good seed: no good articles can be made without good materials: even so, no real good can come to you—to us—to the whole district—without good men and true to carry out the practical business of the government of the district. </p>
+      <p>Therefore, brother-electors, allow one who has the real and permanent, and progressive welfare of the whole district at heart to give you a timely note. “Think for yourselves; act for yourselves.” Mind what I once told you— “that the power is with the people”; that power is <hi rend="italic">now </hi>in <hi rend="italic">your own </hi>hands. Make a good use of it when the time comes; for, <hi rend="italic">after </hi>you have voted, the power is for a season gone fom you. You may use it for your own and your country’s good; you may waste it; and worse still, you may use it to your own undoing. Depend upon it, that our going ahead rests at present solely with you; for if you do not find and choose <hi rend="italic">proper men </hi>to man your ship, Scinde Island might as soon be expected to enter Wellington harbour, as that, we shall go ahead and you prosper. </p>
+      <p>Therefore, I once more say—<hi rend="italic">Mind what you are after</hi>: pledge yourselves to no man. If ever a vote was a sacred trust it is so now;—now, when you have to use it for the first time, and that to set the thing agoing. Guard it, use it, as carefully as if it were a large sum of money of your own. Think for yourselves, act for yourselves; and in so thinking, so acting, do it with true British integrity of purpose;—and then we shall go ahead. </p>
+      <p>
+      <hi rend="smallcaps">Wm. Colenso</hi>.</p>
+      <p> Waitangi,     Oct. 18, 1858.</p>
+    </body>
+  </text>
+</TEI>

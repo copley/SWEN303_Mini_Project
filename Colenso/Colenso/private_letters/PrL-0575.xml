@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0575">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1884 September 2: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1884-09-02">1884 September 2</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1884 September 2: to Balfour<note xml:id="ftn3-256" place="foot" n="256"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Tuesday night <lb/>Sept 2 1884</p>
+         <p>Mr D.P. Balfour</p>
+         <p>My dear Sir</p>
+         <p>Your letter of Aug 30<hi rend="sup ">th</hi>. is to hand, and as your mail leaves us tomorrow afternoon, I must write you at once. Enclosed was your cheque for ₤1; viz. 2 of “Ruahine”, &amp; 12/- to be sent to you in stamps, but you have not told me the <hi rend="italic">sort</hi>, or <hi rend="italic">colour</hi>. I have not that quantity here at hand, &amp; I fear I may not be able to get them tomorrow in time to enclose—not without sending <hi rend="italic">twice</hi> to town; if <hi rend="italic">not</hi>, then I shall enclose 6/- worth, leaving the remaining 6/- worth till my next.</p>
+         <p>I thank you for the seeds of <hi rend="italic">Cordyline indivisa</hi> enclosed in your letter—the more so, as I have been disappointed by Batley, whom I saw in town today; he had promised, in a kind note, to get me some, &amp; now says, the plants he had visited bore no seeds this year; and enquired, if I supposed others to be so. I said, No; so I think he will try again; perhaps your shepherds may get you a <hi rend="italic">few more</hi>, and if possible, in their husks—. And send me some more of your black “egg spoon” fungus,—if possible, too, as it grows, as I can manage them well under glass. I think I forgot to mention, that their fructification is wholly <hi rend="italic">within</hi> (if they belong to the genus or sub order I suppose them to). I will try to scratch a sketch. </p>
+         <p>1. an oblique &amp; transverse section. </p>
+         <p>2. an ascus taken out &amp; containing seeds; very highly enlarged. The fungus tho black without, is very likely white within. </p>
+         <p>Young Parsons &amp; Dolbel both visited me with your parcel of the big long irregular seaweed like fungus; I was pleased to see it, for it reminded me of old times!!. I never met with it but once, &amp; that was when I was returning from Pov Bay, in 45 (briefly mentioned in “Ruahine”). We halted for the night between Tangoio &amp; Mohaka, &amp;, tearing off some old bark, there it was; I sent portions Home, but I don’t think it has been described—this, however, is the case with many such things of those early days. The summer will be the time for the “walking-sticks”—if you should not be too busy then. I was in town this morning &amp; found it <hi rend="italic">very windy &amp; dusty</hi>. I fancy, you too, found it windy on your hills.—my eyes are still aching. I was rather pleased than otherwise about the <hi rend="italic">Date stone</hi>; be sure you, &amp; Balfour junior, go on collecting—any &amp; everything, &amp; send when you can, or bring them when you come to town hereafter. Another thing in your letter has <hi rend="italic">greatly pleased me</hi> is, your having taught yourself, and are <hi rend="italic">still doing so</hi>; Go on, my dear Sir, &amp; prosper. We are all (at best) but learners, &amp; a long way behind;—as I wrote to Meinertzhagen yesterday; I “often <hi rend="italic">grieve</hi> over my ignorance of <hi rend="italic">many many things</hi>”.</p>
+         <p>By this last mail I have received the invoices of books from London, now on the water, I find therein 4 works for me: 1 on Brit Mosses ₤4.4.0, 1, on Brit Jungermanniæ, ₤13.0.0. 1, on Mosses (Lat &amp; Germ)—₤6.0.0. 1, on <hi rend="italic">Plagiochila</hi> (Hepatica Genus) £1.5.0. &amp; now I hope to work, but I should have purchased these 7 years ago; their high prices only hindered me.</p>
+         <p>And now I want 1, or 2 more, works on <hi rend="italic">Fungi</hi>; also, Boots work on <hi rend="italic">Carex</hi> (sedges) ₤10.10.0. Last week I have been working up a dear little fern I had received from the N (this side of North Cape), it is a new spn of <hi rend="italic">Hymenophyllum</hi>, &amp; a <hi rend="italic">peculiar</hi> one. Two or three you could cover with a postage stamp. It took me a long time with reference to a dozen standard works on ferns before I could master it. Tomorrow I hope to take up some of my own <hi rend="italic">plants</hi>, having finished with insects, &amp; lizards, for a time.</p>
+         <p>The description of your <hi rend="italic">patent</hi> for the plough has pleased me much. You have described it so well that I have easily comprehended it, &amp; see its great utility; it takes me back some 20 years, when I. Boyd ploughed these hills here for me, that is, their tops &amp; a wee bit down their sides,—he would not, he said, attempt more!. I told him that a poor Cornish labourer with his one small (hardy) horse, &amp; a <hi rend="italic">wooden</hi> plough of the common counry make, would plough them <hi rend="italic">all over</hi>—aye, and higher &amp; steeper, and more rugged ones too.</p>
+         <p>I won’t say a word about “Politica”.—To me it is sickening.</p>
+         <p>Do not “fash” yourself, (I hope this word is <hi rend="italic">quite</hi> right) about being able to run up this hill to see me, when in town. No, no, <hi rend="italic">business</hi> first, &amp; business second. I hope to get away to the woods by (say) last week in this month.</p>
+         <p>I am also glad, to find, you did not take amiss my remarks re translation. And now, my dear Sir,</p>
+         <p>             With kind regards &amp; best wishes</p>
+         <p>                             Beleive me</p>
+         <p>                                             Yours truly</p>
+         <p>                                                             W. Colenso.</p>
+         <p rend="center">(<hi rend="italic">Translations</hi>)</p>
+         <p>Title page “Similis” &amp;c. This is from Matt XIII. 52—latter part of verse from <hi rend="italic">Latin</hi>
+            <hi rend="italic">Bible</hi> (<hi rend="italic">Bibl Sacr</hi>—Holy Bible)—“2nd fuit, &amp;c.” (Sen) “What was hard to suffer is pleasant to remember”.</p>
+         <p>Page 28.—“Nil sine magno” &amp;c. “Life has given nothing to man without great labour”.</p>
+         <p>Page 37.—“mingit”—made water.</p>
+         <p>Page 5.—stratum super stratum—layer on layer, &amp; cross, too. </p>
+         <p>Page 59.—“Laus Deo”—Praise be to God.—</p>
+         <p>Page 22.—“Tempus fugit”.—Time flies. </p>
+         <p>(I don’t recollect, or see, any more untranslated.</p>
+         <p>“Sen”.—Seneca, was a great &amp; wise Roman; born about the year 1 A.D., &amp; died at 65. He was the tutor of the Emperor Nero, (though not in the least answerable for his cruelties), indeed, the wretch put him to death, for his wise &amp; good sayings, only allowing Seneca to choose the manner of dying.</p>
+         <p>It is delightful to read &amp; think over the wise &amp; good sayings and teachings of the men of those times, but as it was then, with the multitude, so now. See our Papers. Races, Theatres, Cricket, &amp; Football—&amp; tricycles; Our <hi rend="italic">real men</hi> are, I fear, dying out.</p>
+         <p>W. C.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0041">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1861 To Mr. H.B. Sealey , of Napier. Hawke’s Bay Herald 20 July.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1861-07-20">1861 July 20</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1861 To </hi>
+            <hi rend="bold smallcaps">Mr. H.B. Sealey</hi>
+            <hi rend="bold">, of Napier.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 20 July.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="italic">Per favor of the Editor of the Hawke’s Bay Herald. </hi>
+         </p>
+         <p>
+            <hi rend="smallcaps">Dear Sir</hi>, — I have read in the Hawke’s Bay Times of yesterday your long letter concerning me; and am thinking your own “second thoughts” will scarcely approve of it. Homer makes Æneas say to Achilles— </p>
+         <p>Reproach is cheap: with ease we might discharge 	<lb/>Gibes at each other, till a ship that asks 	<lb/>An hundred oars should sink beneath the load.</p>
+         <p>Had you been returned instead of me, I would not strive to weaken you on your entering the field; on the contrary, I would gladly have aided you against our Provincial foes. I leave to-morrow for Auckland per Zephyr. <hi rend="italic">Vive valetque</hi>. </p>
+         <p>		Yours truly,</p>
+         <p>
+            <hi rend="smallcaps">		W. Colenso.</hi> 
+         </p>
+         <p> Napier, Friday, July 19, 1861.</p>
+      </body>
+   </text>
+</TEI>

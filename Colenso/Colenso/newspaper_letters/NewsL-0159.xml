@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0159">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1891 The Sea Serpent . Daily Telegraph 8 August</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1891-08-08">1891 August 8</date>
+          <publisher>
+            <name type="organisation">Daily Telegraph</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1891-08-06">1891 August 6</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1891 The Sea </hi>
+        <hi rend="bold">Serpent</hi>
+        <hi rend="bold">. <lb/>
+        </hi>
+        <hi rend="bold italic"> Daily Telegraph</hi>
+        <hi rend="bold"> 8 August</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—I have read the accounts lately given in our papers, of a fresh appearance of the great Sea Serpent! Having often read very many similar accounts of this nondescript from my early boyhood, I pay little attention to them now. It has, however, occurred to me, that such as described (omitting all the garnish and dressing, so common on all such occasions!) may have been caused by the sudden projection upwards of the huge and very long deep sea weed <hi rend="italic">Macrocystis pyrifera</hi>, which abounds in deep water off all our N.Z. coasts, and girds the S. temperate zone. Specimens measuring between 100 and 200 feet are common in the open ocean. Admiral D’Urville, a good authority, states it to grow in 8, 10, and even 15 brasses of water, from which depth it ascends obliquely and floats along the surface nearly as far,—this gives a length of 200 feet. Sir J. D. Hooker (who often met with it and other like gigantic ocean weeds when in the discovery ships 60 years ago, and who has written largely on them), says of it. “that it grows to a very large size, always in deep water. At Cape Horn, and at Kerguelen's Land, it generally rises from 8 to 12 fathom water, and the fronds (long slender branches) extend upwards of 100 feet on the surface. But the largest specimens they saw were between the Crozet Islands, where very far from either shore, in what is believed to be 40 fathom water, stems of <hi rend="italic">Macrocystis</hi> rose at an angle of 45<hi rend="sup ">○</hi> from the bottom, and streamed along the surface for a distance certainly equal to several times the length of the “Erebus” (discovery ship); data, which, if correct, give the total length of the stems of about 700 feet.” </p>
+      <p>Another peculiarity of this gigantic seaweed is this, that its “long branches from the root are simple and pinnate (not branched), bearing long broad leaves; these branches are each shaped like an immense isosceles triangle, or a long narrow inverted V, or the top of a lance, or somewhat like a big feather of a large fowl—is broadest at the bottom or top of the stem where it reaches the surface of the sea, and gradually tapers to the top, and that on each side of this long and thick stem, the long bladdery close-growing or broad leaves pitted and undulated and reflecting light fall-off and hang down like the web of a feather, or like some of our ferns. I have collected and sent to Sir J. D. Hooker specimens of this plant, which I obtained from Castle Point, and he described them in his Flora of N.Z. </p>
+      <p>The only difficulty with me is, the sudden projection upwards of the plant; but this I think might be reasonably accounted for <hi rend="italic">on that occasion</hi> by an earthquake; and the shock of a rumbling one we had here (and elsewhere) on that morning, and at about that hour, and (if I mistake not) it was more strongly felt at Poverty Bay. A sudden submarine explosion, especially if vertical and confined, would as surely effect it, as our strong westerly winds carry out horizontally the long lithe branches of our Weeping Willows, which we so often see. Besides we have plenty of such sudden vertical explosions, and geysers, in and among our volcanic hot springs in the interior. </p>
+      <p>I could say more on this subject, but time with me is too precious just now.—I am, &amp;c., </p>
+      <p rend="end">
+      <hi rend="smallcaps">William Colenso</hi>. </p>
+      <p>Napier, August 6th, 1891. </p>
+    </body>
+  </text>
+</TEI>

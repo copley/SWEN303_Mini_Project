@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0090">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1880 Mr Colenso on a small Inland Tax . Hawke’s Bay Herald 28 June.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1880-06-28">1880 June 28</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1880 </hi>
+                  <hi rend="bold">Mr </hi>
+                  <hi rend="bold">Colenso</hi>
+                  <hi rend="bold"> on a small Inland Tax</hi>
+                  <hi rend="bold">.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 28 June.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—I was not a little pleased with your article in your issue this morning,—that is, with very much of it; and was quite inclined to shout “Bravo!” and to throw my wig into a corner, when I read your words,— “For once we find ourselves in almost perfect accord with the member for Clive.” In my opinion you should have stopped there; having spoken, and said a really good thing,—subside into dignified silence, and wait the applause. </p>
+         <p>But, no! You then go on to say: “The one point in this where we differ from the member for Clive is, that we think a small land tax should also accompany an income tax.” Now this I did not, I could not, expect from you,—seeing you have hitherto strenuously opposed this flagrant property tax, (which I have always thanked you for doing,) and which is, in fact at least, only another name for a land tax. </p>
+         <p>But I would ask you, Are you not aware that “a small land tax” (or, as it is with some, a tolerably big one) is being paid already, and that, too, for several years? Had you lands any where in town or in the country you would have known it,—have <hi rend="italic">felt</hi> the pinching tight shoe on your toes, and squalled loudly enough. Just show me, if you can, a single acre of land in all Hawke’s Bay that does not pay “a small land tax”—or, rather, <hi rend="italic">two</hi>, or more, taxes, or rates, which is just the same thing. Know you not, that all the country lands, including those of the poorest settlers, are already doubly taxed, or rated,—by Road Boards and by Counties? As to land taxed, or land rated within the Borough, I need say nothing of that,—for <hi rend="italic">it is felt too keenly</hi>. And then, in addition thereto, both in town and country, there is no prospect of such rates lessening,—though even now heavy and detrimental to settlement; and, worse still, there is but small prospect (judging from the past) of those rates or taxes, so laid on and so collected, being laid out fairly and economically for the benefit of the many!—</p>
+         <p>To talk of an income tax <hi rend="italic">and</hi> a land tax together,—is just as sensible as speak of making all printers pay for a license to print, and then further, to tax their printing, especially their advertisements! I don’t say, however, judging from what I am obliged daily to see, but that a tax on advertisements would not be beneficial both to the State and to subjects. “Anon, Sir.”— I am. &amp;c., </p>
+         <p>
+                  <hi rend="smallcaps">	William</hi>
+                  <hi rend="smallcaps"> </hi>
+                  <hi rend="smallcaps">Colenso</hi>
+                  <hi rend="smallcaps">. </hi>
+               </p>
+         <p> Napier, June 20, 1880.</p>
+      </body>
+   </text>
+</TEI>

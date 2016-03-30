@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0713">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1889 April 12: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1889-04-12">1889 April 12</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1889 April 12: to Luff<note xml:id="ftn3-439" place="foot" n="439"> ATL MS-Copy-Micro-0485-4.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">“Imperial Hotel”<lb/>Waipawa.<lb/>April 12, 1889.</p>
+         <p>A. Luff Esq.,<lb/>  Wellington.</p>
+         <p>My Dear Sir,</p>
+         <p>Your kind &amp;, welcome note of the 8<hi rend="sup">th</hi>. reached me just as I was leaving Napier, (a few days ago) and with it the Paper—for both I thank you.—And now, having done my business here, and having an hour to <hi rend="italic">spare</hi> (rather uncommon for me), I sit down, &amp; reply—having again read your letter.</p>
+         <p>I thank you for the information <hi rend="italic">re</hi> that early visit of Bp. S. to Ahuriri. I had seen it before, some 35 years ago, but I believe the book containing it was burnt (with many others) in my dwelling-house.</p>
+         <p>I do not recollect that N. old settler mentioned in your Paper he was a Hokianga (<hi rend="italic">W.</hi> coast) resident,—our (Ch.) Mission was, at that early time &amp; for long after, confined to the <hi rend="italic">East</hi> Coast—and there was little—if any—general traffic or intercourse between those of the 2 Coasts, owing to there being <hi rend="italic">no roads</hi>.</p>
+         <p>I think you <hi rend="italic">ought</hi> to have been at Eketahuna—at that opening: if only to cheer your son a little more. <hi rend="italic">I am much pleased</hi> to find that he was in charge of its construction.<note xml:id="ftn3-440" place="foot" n="440"> George Andrew Middlemiss Luff was a civil engineer who was employed with Public Works and worked on the Eketahuna-Woodville railway.</note>
+         </p>
+         <p>Before I left N. I posted a copy of my letter, also of W.M.’s in form of a tract to you: hope you duly received it.—–</p>
+         <p>Here today Inglis came to see me, &amp; to tell me, that <hi rend="italic">he</hi> was at Ahuriri, w. Purvis R., on the day of the fire at Waitangi; (both with McLean in his new fine house) and that they 2 climbed up to the top of the hill to see that fire, &amp;c.—</p>
+         <p>Several have thanked me, for that letter:<note xml:id="ftn3-441" place="foot" n="441"> Probably Property Tax valuation. <hi rend="italic">Hawke’s Bay Herald</hi> 9 March 1889.</note> I sent copies of the 2 papers to W.M.</p>
+         <p>Curiously enough a gentleman here residing called on me last night to tell me he was lately from Australia, and that he had lodged 3 weeks at W.M.’s—he told me several curious stories about him, <hi rend="italic">wholly indicative of the man</hi>.</p>
+         <p>Yesterday I went over to Waipukurau—mainly to say goodbye to P. Gow &amp; wife who leave tomorrow for <hi rend="italic">Scotland</hi>. I also called at Mrs. Trestrail’s but she was out, and had an interesting 2 hours talk w. Palmer, whom I had not seen since the death of 2 of his grown-up children. I suppose I shall return tomorrow to N., although I <hi rend="italic">hate</hi> to travel on both Saturdays &amp; Mondays being half-price days, &amp; therefore, a crush. I do not go on to the Bush, just now, (<hi rend="italic">may</hi> not at all this autumn,) as I only care to go where I am <hi rend="italic">heartily welcome</hi>: and I do not think I am wanted at any <hi rend="italic">Bush</hi> Hotels—at all evnts not to stay <hi rend="italic">long</hi>! Should I however make up my mind to go, thither—say towards end of this month, I will let you know.</p>
+         <p>Several times of late I have been thinking <hi rend="italic">much</hi> of you!—partly owing to my <hi rend="italic">daily</hi> using the excellent Port wine you had got for me—1 glass a day: and I wished to know if it were possible to <hi rend="italic">get more</hi>. I have a good resident Agent there.</p>
+         <p>I have not been very well of late, &amp; in Hitchings’ hands too; stomach sadly out of order and causing <hi rend="italic">great pain</hi>, which may arise from flatulent colic—and also neuralgia of face and jaws &amp;c.—sometimes <hi rend="italic">nearly wild</hi> with pain: I came here in <hi rend="italic">much pain</hi>, but am now pretty well.</p>
+         <p>Sad doings of late w. Sperrey<note xml:id="ftn3-442" place="foot" n="442"> John Sperrey, first Property Tax Commissioner.</note> owing to excessy. <hi rend="italic">high</hi> valuations.</p>
+         <p>Weather <hi rend="italic">very dry</hi>, &amp; feed <hi rend="underline italic">very scarce</hi>: it is sad to see the hills &amp; plains: I am told it is worse about Hastings than any where else. S. Williams &amp; daughter go home next week. Before I came away had to send 3 lawyer’s letters to Robjohns, C. Dolbel, &amp; Tait &amp; Mills re my property in S. end of Tennyson St.—they will go on excavating!!—</p>
+         <p>Rathbone, Inglis, Bibby, &amp;c are all looking very well. So are J. Nicholson &amp; wife, &amp; family <hi rend="italic">here</hi>: this is a nice <hi rend="italic">quiet</hi>
+            <hi rend="italic">old</hi>-fashion place—I like it.—</p>
+         <p>             Hoping this may find you &amp; yours all well—</p>
+         <p>                             I am, my dear sir,</p>
+         <p>                                             with kind regards,</p>
+         <p>                                                             Yours truly,</p>
+         <p>                                                                             W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

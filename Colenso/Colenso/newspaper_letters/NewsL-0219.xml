@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0219">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Hawke’s Bay Herald 14 February 1899.</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <date when="1899-02-14">1899 February 14</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold italic">Hawke’s Bay Herald 14 February 1899.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+        <hi rend="bold">LATE REV. MR. COLENSO.</hi>
+      </p>
+      <p rend="justify">
+      <hi rend="smallcaps">Sir</hi>,— Referring to the lamented decease of the late Mr Colenso, who is acknowledged by all that knew him to have been kindly disposed to his fellow-creatures, and who would have resented, during his life time being charged with vanity or any selflsh motive for his philanthropic action, I am impelled to write these few lines to point out what I consider an outrage on the memory of the deceased gentleman. I refer to the fact that portions of the will were made public on Saturday last prior to the funeral. This sacreligious outrage and breach of confidence someone is responsible for, seeing that the contents of the will should remain sacred at least till the remains of the testator were buried. It seems to me, sir, and I think that all decent-minded people will agree with me, that an explanatian for the unseemly publication of portions of the will of the late Mr Colenso demand some explanation from the executors, who must meantime be held responsible for the premature and indecent public announcement.—I am, &amp;c.,</p>
+      <p>
+        <hi rend="smallcaps">   One Who Knew the Good Old Man.</hi>
+      </p>
+      <p> February 13th, 1899.</p>
+    </body>
+  </text>
+</TEI>

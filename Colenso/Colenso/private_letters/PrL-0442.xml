@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0442">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1881 February 11: to Hector</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Museum of New Zealand—Te Papa Tongarewa MU000094/005/0119</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">Hector</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1881-02-11">1881 February 11</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1881 February 11: to Hector<note xml:id="ftn3-75" place="foot" n="75"> Museum of New Zealand—Te Papa Tongarewa MU000094/005/0119</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Feby. 11/81.</p>
+         <p>My dear Dr. Hector,</p>
+         <p>As I am writing to you officially, I cannot send off my packet without a few lines,—but only a few <hi rend="italic">this time</hi>,—for I fear I trespassed on your time and patience in my last <hi rend="italic">long</hi> one—written about Xmas.,—seeing I got no return! No doubt you were and are very busy.</p>
+         <p>The Papers I now send should have been with you before, but I have had very many things to do: our Institute matters, taken altogether, are growing rather heavy: at all events I feel them so. I enclose a cutting from our local paper, which gives a bare outline (correct in the main) of our Annual Meeting 4 days back. You will be pleased to hear of the large no. of new members (16) during the past year, unfortunately there is a heavy set-off, we having lost 9!—7 of whom, however, are fairly accounted for.—</p>
+         <p>They have again forced me to hold off. for another year! the Bishop and Capt. Russell were very decided about it.</p>
+         <p>Two days ago I was a little surprised with a <hi rend="italic">long</hi> letter from Haast! (in answer to mine of Sept. 7<hi rend="sup">th</hi>.!!—seeking early information:) I had discovered a fine &amp; beautiful sp. of <hi rend="italic">Hemideina</hi>, which was a great novelty to me. In mentioning it to Dr. Buller, he said, that he thought Haast had, many years ago, met with it (or a similar one) in some caves at Nelson, &amp;c. So I wrote to H., begging an <hi rend="italic">early</hi> reply: and now he tells me, he cannot find the paper containing it any where: and, from what little he says about it, the Insect must have been a different sp. It was waiting for this information (<hi rend="italic">inter alia</hi>) that has kept back my sending you my little Zoological Paper—which I will forward in a few days.—</p>
+         <p>Haast, also, greatly wants a cast of the Bell—or, the Bell to be sent down to him for him to make one: this <hi rend="italic">latter</hi> I do not think I shall do. Could you not help him to a cast?</p>
+         <p>I will write no more now. Weather this week fine but oppressively hot, sultry, and the whole Country parched!</p>
+         <p>Hoping you keep well, (I am tolerably so, but have had <hi rend="italic">no</hi> holiday yet!)—and with kind regards,</p>
+         <p>I am,</p>
+         <p>Yours sincerely,</p>
+         <p>W<hi rend="background-">. </hi>Colenso<hi rend="background-">.</hi>
+         </p>
+      </body>
+   </text>
+</TEI>

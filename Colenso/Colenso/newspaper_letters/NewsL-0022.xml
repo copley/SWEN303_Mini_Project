@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0022">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1859 Open column. Hawke’s Bay Herald 26 March.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1859-03-26">1859 March 26</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1859 Open column. 	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald </hi>
+            <hi rend="bold">26 March.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,— Allow me to point out a slight error in your last number—in the speech of the native Renata, as spoken by him (and, I believe, translated by me) at the Separation Fete Dinner.—You state,— ‘It was the wish of himself and friends to continue loyal subjects of Queen Victoria: <hi rend="italic">and not to countenance the movement of a native king</hi>.’ </p>
+         <p>What Renata said, was;— ‘It was the wish of himself and friends to continue loyal subjects of Queen Victoria; and that, if the Native King his plans and his policy were identical with those of the Queen’s Government he and his friends would countenance him; but if opposed they should not do so.’ </p>
+         <p>Of course you will see, that my only object in writing is, that the Native Chiefs about us may not feel offended at having such unconditional sentiments put forth as theirs at this present peculiar crisis; as (it is well known) they are now daily expecting the arrival of the Native King and several hundred of visitors from stranger tribes. </p>
+         <p>				I am Sir,</p>
+         <p>					Yours very truly,</p>
+         <p>
+            <hi rend="smallcaps">W. Colenso</hi>.  </p>
+         <p> Waitangi, 	March 22, 1859.</p>
+      </body>
+   </text>
+</TEI>

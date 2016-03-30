@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0744">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1890 August 12: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0495.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1890-08-12">1890 August 12</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1890 August 12: to Harding<note xml:id="ftn3-476" place="foot" n="476"> ATL qMS-0495.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke<lb/>August 12/90.</p>
+         <p>Dear Mr Harding</p>
+         <p>Your prized letter of the 27<hi rend="sup ">th</hi>. July duly reached me at Napier—just before I again left for the Bush—and I brought it with me fully purposing <hi rend="italic">soon </hi>to reply, but time flies, &amp;c, &amp;c.—–</p>
+         <p>Perhaps I told you in my last, of the near prospect I then had of returning early to the Bush—of course the main (if not the only) reason was—the non-arrival of the expected resident Minister for Woodville from Auckland. To fill up the gap! the Bishop went for one Sunday, &amp; the Dean for another, and then—I having kept myself <hi rend="italic">ready</hi>—it came to my lot, for Augt. 3, also, 10<hi rend="sup ">th</hi>. (last Sy.) as a substitute for Mr. Webb and now again next Sy. (17<hi rend="sup ">th</hi>.)—after which, I suppose, I shall be <hi rend="italic">free</hi>—for a short time, but I may not return to N. for <hi rend="italic">this month</hi>. The expected Auckland Minister was (or is) to leave on the 14<hi rend="sup ">th</hi>.—<hi rend="italic">You</hi> may know him—his name is Long, &amp; some years ago he was stationed for a short time at Waipukurau: it is <hi rend="italic">said</hi>, however, that he is subject to sore throat &amp; bronchitis, &amp; if so, I fear he will not suit the wet foggy climate of Woodville.</p>
+         <p>You will, no doubt, have heard of the finding of the bones of poor Weber: I preached a special Sermon last Sy. night at Wdv. on <hi rend="italic">lonely </hi>sudden death; a large &amp; most attent. Congn.—Weber’s remains were taken to Napier for burial: his son Arnold was quite satisfied respecting them. A Mrs. Steed died 2 days ago at Woodville. I think Steed kept the “Imperial” hotel at Waipawa a few years ago. Did you know Glendinning, of Waihua near Wairoa, who lately died suddenly?</p>
+         <p>Although my duty (so to speak) is at Wdv. I prefer residing <hi rend="italic">here</hi>—as<hi rend="italic"> </hi>it is drier, &amp;c—&amp; then my sitting-room &amp; bedroom <hi rend="italic">adjoin</hi> on the <hi rend="italic">ground</hi> floor, &amp; I dislike going up &amp; down <hi rend="italic">many</hi> stairs. I am keeping pretty well—always deducting (or allowing for) Rheumatism; this has been <hi rend="italic">severe </hi>on me of late, 3–4 weeks, &amp; mostly confined to my right shoulder joint—just where it joins the collar-bone, &amp; worse in bed, so that I have diffy. in turning sides, &amp; cannot (at times) put on my coat, &amp;c.; it has also affected my arm &amp; hand for writing—but it is less, &amp; easier, today. I go out of doors very little, &amp; have not yet entered into the Bush, since I came hither this time.—–</p>
+         <p>On my way hither from Napier I fell in with Mr. Smith (the Member) at Waipuk. platform, who gave me Sir G. Grey’s kind remembrances, and, also, how very much Sir G. was <hi rend="italic">pleased</hi> w. the “Ty. of Waitgi.” pamphlet;—speaking to him (S.) very highly of it: I have it <hi rend="italic">in mind, </hi>to write to Sir G.—to ask if he will subscribe &amp; <hi rend="italic">support </hi>the printing of its 2 appendices: but I fear he is much <hi rend="italic">too busy </hi>to be intruded on. I note in last evengs. “D.T.”, the death of <hi rend="italic">Lear</hi>, from <hi rend="italic">cancer</hi>. Mr. Grubb was <hi rend="italic">here</hi> last week, on my return from Wdv., &amp; we spent <hi rend="italic">one </hi>hour together—Do you ever fall in with Mr. Andrew Luff?—The weather—<hi rend="italic">this month</hi>—has been fine; <hi rend="italic">severe </hi>night frosts last week; with snow in patches on neighbouring low hills. I called, while in Napier, at <hi rend="italic">your old haunt</hi>, &amp; saw your brother: I suppose you hear from him.</p>
+         <p>On Monday night (11<hi rend="sup ">th</hi>.) the Society held their ordy. mtg. Two papers were read—1 by Taylor White, on coloured <hi rend="italic">sheep</hi>: 1 by Father Jardin on cultivn. of Vine, &amp; Wine making in H. Bay.—</p>
+         <p>You have kindly written largely on your own work, &amp;c, &amp;c.—and it has <hi rend="italic">greatly interested me</hi>: I only hope you may <hi rend="italic">not </hi>have too much of that <hi rend="italic">close </hi>proof-reading, correcting, &amp;c.—take all care of your eyes, &amp; head, &amp; that<hi rend="italic">—in time. </hi>I <hi rend="italic">refrain </hi>from writing (or speaking) <hi rend="italic">re </hi>Tregear, &amp; his Dicty, fearing I should commit myself: I <hi rend="italic">could tell </hi>
+            <hi rend="underline italic">you</hi> a good deal, &amp; show <hi rend="italic">you </hi>some of his <hi rend="italic">early letters </hi>to me. There is a gentleman in N. (well known to you) who always—from the earliest of Tregear’s writings <hi rend="italic">re </hi>the Maories—said, <hi rend="italic">he </hi>was the one I had to be cautious of, &amp;c, &amp;c, &amp;c.—</p>
+         <p>Have you had time to look into the last vol. of “Trans.”?—and to note Smith’s paper on Mao. proverbs? wholly <hi rend="italic">stolen </hi>from mine!—I have recd. 2 additional letters asking for memoirs, &amp;c., for public—one for a Sydney firm—Magazine, or some serial: and one from London—a large printing firm, but (Oh! dear!! the <hi rend="italic">old </hi>man’s memory!) I have <hi rend="italic">wholly</hi> forgotten the names of firm, &amp; of publications; but (follg. <hi rend="italic">your </hi>advice—<hi rend="italic">re </hi>“Men of Time”) I sent them <hi rend="italic">Quantum suff. </hi>R. Price, says, he receives from L. &amp; Blair copies of their monthly,—I ought to get one regularly, from Gore of Wgn. Ph. Socy., as a Member, but he always forgets me, unless I write—then, 1 w. apology: but I am tired of that sort of thing. Do you know Gore, sufficiently, to mention it to him?—</p>
+         <p>I have not heard from Hamilton: perhaps I displeased him with my last—in reply, in which I spoke <hi rend="italic">plainly</hi>, if you should hear from (or of) him let me know how he is getting on.—Ere long, folks will be preparing for the big meeting of “Sc.” at Xt.Ch.—had matters been better (i.e. more fairly) managed I might <hi rend="italic">go </hi>thither—but <hi rend="italic">cannot </hi>now;—<hi rend="italic">nor write a paper.</hi>
+         </p>
+         <p>Hill <hi rend="italic">promised </hi>(alas! how often!) to visit me during my 5 weeks at N., but <hi rend="italic">did not</hi>: (Dr. Spencer, did,)—neither has H. written to me for several weeks: why—I don’t know. I have been here just a fortnight, &amp; have only rec’d 2 letters!! never so before.</p>
+         <p>You &amp; I cannot find time to scribble <hi rend="italic">re </hi>things political, but I greatly dislike those “strikes”, &amp; combinations, &amp; their <hi rend="italic">unruly </hi>progeny—both at Home, <hi rend="italic">&amp; here in N.Z.—? rocks &amp; shoals ahead!</hi>
+         </p>
+         <p>Calling at Haggen’s<note xml:id="ftn3-477" place="foot" n="477"> EA Haggen &amp; Co were proprietors of the <hi rend="italic">Woodville</hi>
+               <hi rend="italic">Examiner</hi>. For a time Haggen also published <hi rend="italic">People</hi>, a weekly Wellington paper which advocated protection, bimetallism, state banking, land nationalisation, collectivism, and a number of other ideas too “advanced” for the daily press.</note> last Monday to pay him a small account owing, he took me into his press-room to show me a <hi rend="italic">new</hi> Am. ptg. machine he had in use: I was pleased with it, &amp; thought on <hi rend="italic">you</hi>, wishing you were there: but it being <hi rend="italic">publishing day </hi>I dared not <hi rend="italic">bother</hi>, nor stay long:—I may pay another visit.—</p>
+         <p>Of course you have heard of the death of old Mrs. Newman (Capt. N’s. widow): I saw her son—your Wgn. Member—in N. &amp; had some talk w. him. A daughter also of Capt. Carter is <hi rend="italic">dead</hi>, she married a Cl. at Canterbury.—</p>
+         <p>I trust your little boy is getting better, &amp; I shall hear good news concerning him:—write when you have a <hi rend="italic">spare </hi>hour, if any such! <hi rend="italic">You can write fast</hi>: I <hi rend="italic">cannot</hi>
+            <hi rend="italic">now</hi>, &amp; am getting to do so more slowly than ever! With very kind regards, Believe me Yours affectly.,</p>
+         <p>                                             Wm. Colenso</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0194">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1897 The record reign. Hawke’s Bay Herald 24 June.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1897-06-24">1897 June 24</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1897 The record reign.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 24 June.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—I have been greatly interested in reading your full and ornate account of the church service in Napier on Sunday last, 20<hi rend="sup ">th</hi> instant, the record day of the Queen’s accession, as given in your paper of yesterday. The more particularly, may I say, through my inability to be present and to join them. But, at the same time, pleasure has again been alloyed with pain (as is frequently the case) on reading your able and well-meant editorial in the same paper, on the same and closely allied subject, where your strange ultra-statement and also your omissions are so conspicuous. Conspicuous, I may be allowed to say, from my having been a witness of the long past, of these very matters so stigmatised, and also omitted by you; hence, too, it is, in the cause of truth only that I now write.</p>
+         <p>1. Your error: you say (writing of Dean Hovell’s arrival in Napier some 20 years ago, and of our English Church there)— “He came to find a congregation divided against itself, an unsightly wooden church, and a tumble-down parsonage.” This “unsightly” sentence I deny <hi rend="italic">in toto</hi>; having been one of the principal subscribers towards the erection of that “unsightly wooden church,” long our pride, and a constant worshipper therein—holding a whole pew for self, family and household.</p>
+         <p>But even if our <hi rend="italic">early first</hi> little wooden church of nearly 40 years ago (built when Napier was a very small place and a part of the province and diocese of Wellington,) were all that you are pleased to term it:—Is it fair, is it creditable, now to run it down? “The boy is father of the man”; and I have yet to learn that the stately oak, Britain’s pride! looks back with contumely and scorn on the puny sapling or insignificant acorn from whence it sprang. I have read in our British histories of the introduction of Christianity into Britain, and of the first humble erections of chapels for Christian worship there being formed of wicker work, or of “wattle and dab,” (just as our early Maori Mission Churches were 60–50 years ago,) but I have never yet read of the writer who could traduce them. Those humble origins were the forerunners or precursors of those stately Cathedrals of an Old Country about which you have also been writing lately in your paper. Probably you are not aware of the fact, that a large portion of your “unsightly wooden church” was removed bodily to, and still forms the chancel end of St. Augustine’s Church in Napler, where its neat suitable outlines are a conspicuous ornament—often admired by visitors for their appropriate simplicity, and not less so by myself and others of the congregation worshipping in that church. (I omit, for the present at least, saying anything respecting your equally erroneous statement,— “a congregation divided against itself,” &amp;c., which I could as easily refute,)</p>
+         <p>2. Your omissions (as I view them): First, you forget or overlook, in rightly mentioning “The stately Cathedral of brick and stone—as being a monument to Dean Hovell’s persevering work”; that before that period a cathedral could <hi rend="italic">not</hi> have been built in Napier. For, first (as mentioned above) Napier was part of the ecclesiastical diocese of Wellington; second, the first Bishop of Waiapu resided at Poverty Bay, and had it not been for those serious troubles and dangers arising from the Maori war at that time, which caused him to remove to Napier, he (the Bishop) might have continued to reside there, the more central position, and if so, then no Cathedral here in Napier, nor Dean) nor Deanery. Moreover (and as I take it), our worthy Dean’s chief “monument,” irrespective of favorable clrcumstances over which he had nothing to do, arises from his indefatigable loving care and industry in visiting the sick and poor of his parish, coupled with his able and faithful preaching of the truth—the word of <hi rend="smallcaps">god</hi>.</p>
+         <p>Secondly: In your enumeration of wild, savage, and heathen countries subsisting as such at the accession of our most worthy Queen, you omit New Zealand; and, also, two, at least, of the greatest factors in the matter of Her Majesty and Britain obtaining this colony, viz., the translating, printing, and distributing among the Maori tribes of the New Testament in the Maori tongue (<hi rend="smallcaps">a.d</hi>. 1837), the same year as that of Her Majesty’s accession; throngh which the hitherto wild and ferocious New Zalander became largely tamed; and the Treaty of Waitangi (1840), by which this country became annexed to Britain.</p>
+         <p>Having been myself an actor in those—all but forgotten—matters, I deem it but right to myself, to those dear co-workers who have “crossed the stream,” to posterity, and to the sacred cause of truth, to write you this long letter on an important matter, the first prints, I may truly add, of my injured right hand and arm, now partially restored.<note xml:id="ftn65" place="foot" n="65"> He refers to the crash, from a gig overturning, when his right arm was broken (see above) —<hi rend="italic">Ed.</hi>
+                  </note> 
+                  <hi rend="italic">Vivat Regina</hi>.—I am, &amp;c.,</p>
+         <p>
+                  <hi rend="smallcaps">		William Colenso</hi>.</p>
+         <p> Dannevirke, June 22nd, 1897.</p>
+         <p>[We did not profess, in the brief space at our disposal, to give a complete sketch even of the history of Church matters in Napier in the last 20 years, nor would we decry what the early settlers did. But Mr Colenso seems to have forgotten that the part of the old parish church which now forms the chancel end of St. Augustine’s was erected <hi rend="italic">after</hi> Dean Hovell came to Napier. It was the exception to the unsightly church.—<hi rend="smallcaps">Ed</hi>. <hi rend="italic">H.B.H</hi>.]</p>
+      </body>
+   </text>
+</TEI>

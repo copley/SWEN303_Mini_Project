@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLCotton-0001">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1846 December 8: Rev. Mr. Cotton to a sister</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71823/">Rev William Charles Cotton MA</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions, spine title "Hadfield, Typescript Miscellaneous Fragments 1833-1897", stamped 19 Dec 1979.  Section: Typescripts of inwards letters extracts + fragments.  "Extract from a letter from the Reverend Mr Cotton, to his sister, dated from Wellington, Dec. 8th, 1846."  Page 30.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 10.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1846-12-08">1846 December 8</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1846 December 8: Rev. Mr. Cotton to a sister</p>
+      </front>
+      <body>
+      <p>On Tuesday I went to Mrs St Hill, who you may remember I liked so much on my former visit.  Mr O. Hadfield is still the inmate of her home, and she is as kind and attentive to him as if he were her brother.  Indeed, it is a most happy thing that he has persons so devotedly attached to him, whose great delight is to make his remaining days (be they many or few) as easy as possible.  When I was at Wellington three years ago, tho' his health was failing, he had not been obliged to lay by altogether, indeed he went on to exert himself to the very last, more than Prudence (had she been his Councillor) would have allowed.  But the district was in such a disturbed state that he felt he had no right to spare himself, and even now that he is confined to his bed (except for an hour or two a day) his influence is greater than can be expressed.  He does more to preserve the peace of this district than all the soldiers, and all the men-of-war, steam ships and all.   Though his body is weak, his tongue is sound (as the natives say), and he hears through his native teachers, who continually visit him, all that is going on, or in contemplation amongst the Maoris, and the mere fact of his presence in Wellington has, I have heard from several authorities, more than once prevented an attack on the town.  There was something very awful in going into the presence of a man like him, who had been so long ready to depart and be at rest, and yet who is willing to tarry on longer, as the Lord willeth, as he feels that he is still of use to his people.  Besides, I immediately thought of his sisters, who as I heard from Mrs Selwyn, had long looked upon his decease as not only certain, but as actually past.  He was very cheerful, and we talked together for more than an hour, during which time he gave me a very good account of the position of affairs in this district.  Things are, indeed, much quieter and more hopeful than I expected to find them, indeed much more so than Mr H. himself expected they would be, some six months ago. 
+      </p>
+      </body>
+   </text>
+</TEI>

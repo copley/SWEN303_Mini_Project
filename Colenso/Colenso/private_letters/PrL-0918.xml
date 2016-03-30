@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0918">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1894 December 14: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0498.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1894-12-14">1894 December 14</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1894 December 14: to Harding<note xml:id="ftn3-711" place="foot" n="711"> ATL qMS-0498.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Decr. 14/94:<lb/>viii. p.m.</p>
+         <p>Dear Mr Harding</p>
+         <p>Your (2<hi rend="sup ">nd</hi>.) letter, dated 12<hi rend="sup ">th</hi> to hand this mg., &amp; your first one of 28/xi, being still unansd. I must e’en write to you this night. If you have recd. <hi rend="italic">all </hi>the papers I have lately sent you, you will have known (in part) how busy I have been—and <hi rend="italic">am </hi>still, for a little longer.—This mg. I sent a letter to H., <hi rend="italic">re </hi>R.Ch.<note xml:id="ftn3-712" place="foot" n="712">
+               <hi rend="italic">Certain errors of the Church of Rome</hi> (10 parts).</note> also one to Ed. N.Z. H. (Auckd.) <hi rend="italic">re </hi>a statement therein—on <hi rend="italic">Moa</hi>, and Polack, &amp; W.C.<note xml:id="ftn3-713" place="foot" n="713"> The Discovery of Moa Remains. <hi rend="italic">New Zealand Herald</hi>. 15 December 1894.</note>—an error that origd. w. Hamilton, <hi rend="italic">or </hi>Hutton, or <hi rend="italic">both</hi>.—And yesty. Mr. Bradbury, <hi rend="italic">most unexpectedly</hi> called on me—to take <hi rend="italic">the 2 S. </hi>at Augustine’s on Sunday next, he going w. wife (unwell) to Wairoa for a month, &amp; Welsh coming hither in his place—<hi rend="italic">next week</hi>, for <hi rend="italic">1 month</hi>.</p>
+         <p>
+            <hi rend="italic">Re </hi>your letter—I congrat. you on Mrs. H. &amp; new comer <hi rend="italic">being well</hi>: hope you may all be so <hi rend="italic">&amp; together </hi>at W. for New Year.</p>
+         <p>I trust you will have <hi rend="italic">enough </hi>work to do in Pg. Off. (not more)—fearing you may not stand it: I remember a Compo. in Watt’s Pg. O. who always sat on a high stool in his frame: you might adopt that on <hi rend="italic">some </hi>work.</p>
+         <p>Your inform. re Bank<hi rend="underline">s</hi> is very unsatisfactory: Bk. N.Z. is bad enough, &amp; if any thing happens w. <hi rend="underline italic">them</hi>—<hi rend="italic">I shall feel it</hi>—<hi rend="italic">perhaps heavily</hi>—for all I have of money is <hi rend="italic">now</hi> in <hi rend="italic">them</hi>: a few years ago, when mortgages fell in (<hi rend="underline italic">not</hi> money <hi rend="italic">lent</hi>, for I had none to <hi rend="italic">lend</hi>)—but payments for <hi rend="italic">lands sold </hi>under Mtge., I placed <hi rend="italic">all</hi>, as it came in, into Banks—to have no more touble, bother, worry &amp; loss—yet, choosing <hi rend="italic">the loss</hi> from 7 to 4½, &amp; now 4%. I am called on to <hi rend="italic">pay re </hi>N.Z. &amp;<hi rend="italic"> I don’t like it—</hi>because<hi rend="italic"> I don’t know </hi>the future. However, I shall not make myself mis. over it; I have never yet<hi rend="italic"> wanted </hi>accessories, &amp; I don’t think I shall.—–</p>
+         <p>Isitt is here this week, starring it! Mr<hi rend="underline">s</hi> Hill last nt. chrwoman, and <hi rend="italic">the Dean </hi>to nt., at wh. I am <hi rend="italic">sorry</hi>. I have recd., some <hi rend="italic">strange </hi>letters of late: from big folks, University of Melbourne, enqg. re Tregear’s Dicty! (a most unpleasant subject)—I told you—some time back—of Archd. L.W’s. letter to Atkinson (<hi rend="italic">published</hi>) against the Dy.—but you (as usual!) responded not. I have also recd. enquiries (from <hi rend="italic">high </hi>folks abroad) <hi rend="italic">re Hawaiki</hi>, which I <hi rend="italic">shall not </hi>ansr. Also from Canterbury way, <hi rend="italic">re </hi>“Customs” (000) of Ancient Maoris—in replying to these I have sd., see “<hi rend="italic">Trans</hi>.”—&amp; other books. Hamilton’s <hi rend="italic">foolish </hi>tirade &amp; display re <hi rend="italic">Moa</hi> bibliogy. does mischief: and now H. is at me, <hi rend="italic">again</hi>, on <hi rend="italic">other </hi>matters, but (like <hi rend="italic">another H</hi>.!) never replying properly to letters. I am thinking of giving up correspce. altogether—it is becoming so unsatisfactory, &amp; settle down to reading. Hill is looking a <hi rend="italic">little better</hi>—<hi rend="italic">at last</hi>!</p>
+         <p>I have written 5 + 1 = <hi rend="underline">6</hi> letters to H. <hi rend="italic">re </hi>Rom. Ch., &amp; am down for 1 more next wk., but you should see <hi rend="italic">all</hi>—pro. &amp; con. Messrs. Paterson, Grant, Sidey, Eccles, Robertshawe, &amp; Welsh, and your Uncle J.H. have thanked me <hi rend="italic">heartily</hi>—I fancy, <hi rend="italic">some </hi>of the “parsonettes” of “<hi rend="italic">Anglican</hi>” Ch. will not do so; but more anon—<hi rend="underline italic">after next</hi>.</p>
+         <p>Weather still very dry here: Bob. poor fellow, <hi rend="underline italic">laid up</hi>, w. something like <hi rend="italic">sciatica</hi>, all this week: hitherto we have <hi rend="italic">managed</hi>. 2 lg. L. in H. this mg.—one <hi rend="italic">from “Dannevirke” </hi>(but?) <hi rend="italic">agt.</hi> Grogan; and one from “<hi rend="italic">Meeanee</hi>” (some fledgling pt.) agt. <hi rend="italic">us</hi>: &amp; Grogan is to <hi rend="italic">come out</hi> in Herald tomorrow, w. “<hi rend="italic">letter &amp; </hi>
+            <hi rend="underline italic">challenge</hi>”!! (so Ed. <hi rend="italic">this day.</hi>) There has been (&amp; is?) much motion <hi rend="italic">re </hi>this Controversy. When you see Mr. Luff remr. me <hi rend="italic">most kindly </hi>to him. This month I celebrate (<hi rend="italic">quietly</hi>) my 60<hi rend="sup ">th</hi>. yr. in N.Z. &amp; 50<hi rend="sup ">th</hi>. yr. <hi rend="italic">residence </hi>here! Did you see Howlett’s L.? I sent you a copy. I do not remr. Hawthorne, neither his book.—I think the “judgt.” is <hi rend="italic">too hard</hi> on the poor Captain: and here I must close. </p>
+         <p>           Kind regards, best wishes, <lb/>                                Yours ever,     W. Colenso.</p>
+         <p>A wee book to hand this day from our <hi rend="italic">new </hi>printers, Leigh &amp; Ball.</p>
+      </body>
+   </text>
+</TEI>

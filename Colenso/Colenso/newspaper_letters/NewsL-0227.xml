@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0227">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Diocesan Synod: Hawke’s Bay Herald 27 September 1899.</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <date when="1899-09-27">1899 September 27</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold italic">Diocesan Synod: </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald</hi>
+        <hi rend="bold italic">27 September 1899.</hi>
+      </p>
+    </front>
+    <body>
+      <p>On the opening of the Synod... The Rev. E. Robertshawe moved,— “That this Synod desires to place on record its deep sense of loss in the death of the Rev. W. Colenso, F.R.S., whose kindliness and liberality endeared him to all classes of the community.” —The motion was seconded by the Very Rev. the Dean, and supported by his Lordship the President, the Revs. F.E.T. Simcox and J.C. Eccles, and by Messrs H. Burdett and H. Hill, each of whom added some tribute to the memory of the late Mr Colenso, and testified to the far-reaching and unostentatious nature of his generosity.—Mr Simcox suggested it would be fitting that a memorial to his name should be placed in the Cathedral, a proposal which met with approval from subsequent speakers.—Mr Hill read an extract of a letter from Sir J. Hooker, showing the highest esteem and personal friendship for Mr Colenso as a scientist, philanthropist, and Christian.—The members of the Synod stood while the motion was put and carried.</p>
+    </body>
+  </text>
+</TEI>

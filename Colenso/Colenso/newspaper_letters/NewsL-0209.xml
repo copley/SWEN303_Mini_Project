@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0209">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1898 The slave-trade . Hawke’s Bay Herald 10 December.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1898-12-10">1898 December 10</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1898 </hi>
+                  <hi rend="bold">The slave-trade</hi>
+                  <hi rend="bold">. 	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 10 December.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—In the supplement to your paper of Saturday last you have given your readers an interesting (though sad) account from the “Times of India,” of the Slave-trade, as it is carried on by the Arabs on the Oman Coast, together with some fitting remarks on the iniquity of that traffic in human flesh. Recently, too, in several of our colonial papers the “massacres” by the Arabs and by the Turks—showing their extreme carelessness and low value of human life, whether of their own particular nation or of those other peoples subject to them (as, for instance, the Armenians,) have largely been made use of: forgetful (as it seems to me) of the far worse doings of our own British forefathers with their slaves! So that the rising colonial generation, with the Maoris around them none being slaves, are likely to remain ignorant of such mal-treatment by our nation of their unfortunate slaves, unless they are informed of it. And as one truthful concrete example is worth a bushel of abstract sentences, however finely and logically spun-out and coloured, I wish, with your permission, to tell them a bit of our true colonial history—not, however, New Zealand. I will take the small island of Barbadoes in the British West Indies (lately brought prominently forward in our papers as having been again visited by a dreadful hurricane, causing great loss). Of this island I fortunately possess an excellent, ample, and truthful history, in a curious and quaint old folio volume, written by a Church of England minister, long resident there, the Rev. I. Hughes, M.A., F.R.S., Rector of St. Lucy, illustrated with many full-size copper-plate drawings in natural history (each plate bearing also the coat-of-arms of one of his noble subscribers to the book, which was largely patronised by the Royal Family, the bishops, and several of the highest nobility both at Home and abroad; the subscribers thereto whose names are given numbering more than 600!) Mr Hughes, from his long residence in the island, from his being an accomplished scholar, and from his faculty for seeking and describing everything, however small or mean, and to publish the same in plain and simple language, was evidently well fitted for his work; which, no doubt, bore high repute as a standard work in its day. </p>
+         <p>He says: “The greatest length of the island is 20 miles and its greatest breadth 14 miles, containing, in the whole, 54 square miles; in acres, 106,470.” (A piece of land, I may observe, much smaller than a portion of our Hawke’s Bay plains, as seen from Napier hills.) Though small in extent and generally level, its highest hill, a cliff, only rising 915 feet above the sea, Mr Griffiths writes of its gullies and forests being but little known. “Of black slaves,” he says,  we have between 65,000 and 70,000, though formerly we had a greater number, yet we were obliged, in order to keep up a necessary number, to have a yearly supply from Africa. The hard labor and often the want of necessaries, which these unhappy creatures are obliged to undergo, destroy a greater number than are bred up here. The capacities of their minds in the common affairs of life are but little inferior, if at all, to those of the Europeans.... As to the slavery of these African negroes this hardship is not so insupportable to them; for they are very little better than slaves in their own country…. The only happiness, even in temporals that these poor creatures meet with, is when they fall into the hands of masters influenced by the principles of humanity and fear of God. On the other hand when they are so unfortunate as to have owners unpolished in their manners and insatiable of riches (who, like the Egyptian tyrants, require bricks without straw, or, more literally, expect severe labor from an hungry belly, or a naked back), they have scarce a gleam of rest from hard toils and heavy stripes, but whilst sleep, with its short interval eludes the painful scene, which must again be renewed with the returning dawn. Such taskmasters consider not that compassion to the miserable is a just debt. Here there are many complicated scenes of misery, in the condition of so many thousands of our fellow creatures who are continually liable to the insults of the imperious lusts of the debauched, and whose own and their children’s children’s incessant labor will never be at an end but with their lives….  However, is it not of some weight to consider, that if the negroes are bought and transported into Christian settlements, at least a few among many thousands imported, may probably come to a better knowledge of their duty to God and man…. Though to bring them in general to the knowledge of the Christian religion,—the difficulties attending it are, and I am afraid ever will be, insurmountable.”</p>
+         <p>Thus far Mr Griffiths. And when we consider that the several other West India islands forming the group were in similar circumstances, we shall be deeply impressed with the hundreds of thousands of unfortunate human beings formerly enslaved in our British colonies, compared with whom the “1500 to 2000 slaves annually landed at Sur”  seem few indeed! and the touching romance of “Uncle Tom’s Cabin” sinks into insignificance. “’Tis strange, but true; for truth is always strange; stranger than fiction.”—<hi rend="smallcaps">Byron</hi>. I have no hesitation in stating my belief that the slaves at present made and sold by the Arabs of the Oman Coast, are far better off in every respect than those others formerly were in Barbadoes (and other also of our West Indian islands) under their “Christian” masters. </p>
+         <p>Mistake me not! I am no advocate for slavery even in its least distressing form. And, as an Englishman, I rejoice at our Imperial Government having entirely and for ever done away with slavery in all the British dominions proper (which event I well remember); our brothers in the United States having also done the same. </p>
+         <p>Moreover, it is well known the Mahometans treat their slaves fairly well, especially if they become Mahometans, which is very likely. And it does not always follow that the children of those slaves must also ever remain as such; sometimes they even rise to posts of distinction among them. Further, bearing in mind that slavery as an institution has ever existed from the earliest time in our world’s history, and that the highest civilised and most enlightened nations have only by very slow degrees and within the memory of man abandoned it, we, in so rabidly declaiming against the same being still carried on in a smaller way by the less civilised nations, after the manner of their forefathers, only show our ignorance and folly. Such conduct reminds me strongly of some of those over zealous doings of certain police, who, in their ardour for carrying out the law of kindness to animals, bring up men for shortening the tail of a puppy, for tying the legs of a fowl taken in a basket to market for sale, and for selling a glass of hore-hound beer! Instances of all these I find in the latest English and Scotch newspapers to hand; and I also find that the worthy English and Scotch Magistrates dismissed the several charges, notwithstanding the strenuous opposition of the prosecuting sergeant. </p>
+         <p>Let us seek, Mr Editor, to have a right and fairly-balanced judgment in all things.—I am, &amp;c., </p>
+         <p>		W.<hi rend="smallcaps"> Colenso</hi>. </p>
+         <p> Napier, December 8th, 1898.</p>
+      </body>
+   </text>
+</TEI>

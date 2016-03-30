@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0097">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1881 Mr. Colenso in denial. Hawke’s Bay Herald 23 September.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1881-09-23">1881 September 23</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1881 Mr. Colenso in denial.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 23 September.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>, In your paper of this morning you have been pleased to bring me very prominently before the public. You commence your notice of me by saying,— </p>
+         <p>“Mr W. Colenso was yesterday busily engaged in soliciting support from the electors.”—</p>
+         <p>As this is utterly untrue, I seem to have no alternative left me but to <hi rend="italic">deny it wholly and publicly</hi> through your paper, which I now do; and, at the same time, to ask you for your authority. I will give you a cheque for £20, payable to you (for the Hospital, or for any charitable purpose you may select) if you can truly give the name of one single elector whose “support I solicited” or asked.—</p>
+         <p>Such a thing I have never done at any time,—not even in the heat and excitement of our elections of the olden days,—all such being totally opposed to my principles; as is well-known to the old resident electors of Napier, both friends and foes (political). So, again, I ask you to give us the name of only one elector, out of the many you say I “solicited;” —and so gain £20, and convict me of lying.—I am, &amp;c., </p>
+         <p>
+                  <hi rend="smallcaps">		William Colenso</hi>.</p>
+         <p> Napier, Sept. 22, 1881.</p>
+      </body>
+   </text>
+</TEI>

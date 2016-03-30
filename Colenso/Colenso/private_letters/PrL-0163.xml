@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0163">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1862 November 14: to Gisborne</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Archives Ref No. IA1 242; 1863/2384.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73143/">Gisborne</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1862-11-14">1862 November 14</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1862 November 14: to Gisborne<note xml:id="ftn2-65" place="foot" n="65"> Archives Ref No. IA1 242; 1863/2384.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier                            <lb/>November 14,       <lb/>1862</p>
+         <p>W. Gisborne, Esq,<lb/>Under Secretary,<lb/>Auckland.</p>
+         <p>Sir</p>
+         <p>I have the honor to acknowledge the reipt of your letter dated 6 November 1862 with Enclosure (for which I thank the Hon. Mr. Dillon Bell); and I greatly regret that—having to leave (according to Official notification) on Monday next, the 17<hi rend="sup ">th</hi>. inst., for Petane and Te Wairoa Districts, to Inspect the Schools there, and from which tour I shall not return before the 29<hi rend="sup ">th</hi>. inst.,—I shall not be ably to reply to your letter until after my return from my visit of School Inspection.—</p>
+         <p>             I have the honor to be,<lb/>                                    Sir,<lb/>                       Your mo. ob. servt.<lb/>                                Wm. Colenso.</p>
+      </body>
+   </text>
+</TEI>

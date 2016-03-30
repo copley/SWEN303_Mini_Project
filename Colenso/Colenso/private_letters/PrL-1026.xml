@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1026">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1897 December 23: to de Lisle</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MTG HB m64/14, m67/37, 57844.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75171/">de Lisle</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1897-12-23">1897 December 23</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1897 December 23: to de Lisle<note xml:id="ftn3-872" place="foot" n="872"> MTG HB m64/14, m67/37, 57844.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier,<lb/>December 23<hi rend="sup ">rd</hi>.<lb/>1897.</p>
+         <p>My dear Dr. de Lisle</p>
+         <p>Now that I know (by this mg’s. paper) that Mrs de Lisle has returned w. her children I hasten to write to <hi rend="italic">you</hi>—a late note of many thanks for your kind letter of remembrance (with enclosure) written to me on the very eve of your leaving us—had you been <hi rend="italic">here </hi>I should have thanked you earlier. And <hi rend="italic">now</hi>—that I knew of your return a few days ago—I have been <hi rend="italic">waiting </hi>to know how it would be with you &amp; yours this Xmas. before I should write—which now I gladly do.—</p>
+         <p>I trust you &amp; yours are all the better for your sea trips &amp; holiday: I intend when I next am <hi rend="italic">taken down to town </hi>to call in and see, and (pardonez moi!) judge for myself.</p>
+         <p>Believe me ever</p>
+         <p>Yours faithfully</p>
+         <p>W. Colenso</p>
+         <p>P.S. <hi rend="italic">Heartily </hi>wishing you—<hi rend="underline italic">all</hi> the good &amp; hearty wishes of our forefathers at these two great festivals.</p>
+         <p>Am keeping pretty well, but arm &amp; hand <hi rend="underline italic">tired</hi>, so much writing, &amp; packing papers, &amp; books, of late, for S.F. &amp; other mails. W.C.</p>
+      </body>
+   </text>
+</TEI>

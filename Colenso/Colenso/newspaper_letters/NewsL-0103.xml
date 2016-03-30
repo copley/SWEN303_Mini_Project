@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0103">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1882 The New Zealand Olive. Daily Telegraph 12 June 1882.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1882-06-12">1882 June 12</date>
+          <publisher>
+            <name type="organisation">Daily Telegraph</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1882-05-11">1882 May 11</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1882 The New Zealand Olive. <lb/>
+        </hi>
+        <hi rend="bold italic">Daily Telegraph </hi>
+        <hi rend="bold">12 June 1882.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—I set aside my writing to-night to respond at once to your wish expressed in your paper of this evening, (in your postscript to my letter,)—to give the Southern Maori names of the N.Z. Olive.  Indeed I should have done so in my letter, but for the fact, that the name usually given by the Maoris here to one species of the Olive, is by the Maoris at the North given to a widely different tree, of quite another genus. A name it bears here is what you have this evening rightly given or enquired, viz.,<hi rend="italic">Maire</hi>, but there are other trees also bearing this Maori name in part which do not belong to the Olive family; that is, their names begin with <hi rend="italic">Maire</hi>, and in common colloquial language among themselves, that portion alone of the name is all that is expressed, which abbreviation of a common name is also quite in keeping with their mode of speaking respecting persons and things generally; as, for instance, in MacLean—<hi rend="italic">Makarini</hi> (in Maori), but oftener only the first syllable, <hi rend="italic">Ma </hi>was used. And this was another reason for my not having written the Maori name in my letter,—to prevent confusion. At the same time I should observe, that in their so speaking there was no confusion anciently among themselves, as to the particular kind of tree meant; no more than with us, when we commonly speak of grain, corn, grass, dogs, apples, &amp;c., &amp;c., without distinguishing the precise kind.</p>
+      <p>Three names are (or were) used here among the Maoris for the species of Olive,—<hi rend="italic">Maire, Maireraunui, Mairekotae. </hi> Other trees are called,<hi rend="italic">Mairetawhake, Mairehau, Mairetaiki, Mairerororo</hi>, &amp;c. And at the North the true <hi rend="italic">Maire</hi> tree, is a very different tree altogether, being a species of <hi rend="italic">Santalum</hi>, belonging to the same genus as the famed Sandalwood of commerce. I have only once seen it growing in these parts at the South, and that was near the head of the Ruamahanga river, in the upper part of the Wairarapa valley, where, strange to say, 3 trees grew together, and they were beautifully in flower; so that, <hi rend="italic">that tree</hi> is also to be found in these southern forests,—hence 2 <hi rend="italic">Maires</hi> here. Its flower and fruit, however, are both widely different from that of the Olive-<hi rend="italic">Maire</hi>, whose flowers are very small and insignificant, and its fruit resembling in shape a very small Olive, and therefore cannot be mistaken.</p>
+      <p>In my letter I have mentioned “3 species of olive in New Zealand”; that is, 3 species described and published by Dr. Sir J. Hooker. I believe, however, that there are (at least) 2 more; one there, in the interior, and one confined to the country N. of the Thames,—making, perhaps, 5 species in all; but these last 2 have yet to be accurately determined. </p>
+      <p>Which species of all of them may prove to be the best adapted for grafting-stocks, has yet to be ascertained by experience. </p>
+      <p>No doubt the reason why the ancient Maoris gave the same name of <hi rend="italic">Maire</hi> to 7 (at least) widely different trees, arose from their both being alike hard-wooded, and both used for the same purposes,—for making weapons of war, and for wedges used in splitting timber; one tree, also, being very common at the N., and one at the S. Such was their great hardness that their names were often used figuratively in their proverbs and songs, as indicating a valiant hero in fight, the chief of a tribe, &amp;c.</p>
+      <p>The wood of both the N. and S. <hi rend="italic">Maires</hi> rank among the hardest of all the famed N.Z. hard woods.—I am, &amp;c.,</p>
+      <p>
+        <hi rend="smallcaps">                                                                           William Colenso.</hi>
+      </p>
+      <p>       Napier, May 11<hi rend="sup ">th</hi>, 1882.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0094">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unknown date: Octavius Hadfield to unknown person</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions, spine title "Hadfield, Typescript Miscellaneous Fragments 1833-1897", stamped 19 Dec 1979.  Section: Fragments - Fragmentary extracts from the letters of Octavius Hadfield.  "EXTRACT NO. 12."  Page 27.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 10.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="-----">Unknown date</date>
+                  
+               </correspAction>
+               
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Unknown date: Octavius Hadfield to unknown person</p>
+      </front>
+      <body>
+      <p>With reference to the coming of Christ to take his people to glory, we must remember that we have no kind of intimation in Scripture that that event will take place until there is a much more extensive establishment of Christianity in the world than we now behold.  While we are commanded to pray that Christ's kingdom may come I am not aware that we are told to pray for his second coming.</p>
+      <p>Again with regard to what you say about feeling a deep interest in the welfare <supplied>[of]</supplied> Christ's church I quite agree with you; though I do not think that excludes, but rather includes concern about one's own soul, for surely it is only as we are ourselves partakers of the life and power of Christ's working in us by his spirit, that we can in any way bring glory to God or promote the welfare of His church.  There is really no selfishness in seeking first to have an interest in the Kingdom of God and His righteousness because in fact we are seeking to crucify and mortify the old earthly self with all its affections, in order that the spirit which came from God may be restored to His image and likeness --- that His name may be magnified.</p>
+      <p>With regard to the distinction you draw between translation and death there can be no doubt that the former is more to be desired; but that it can only be the lot of the few.  I quite agree with you that the final consummation of the christian's life will only take place at the Resurrection.  But then we are wholly unable to conceive what the state of the soul will be between death and that event.  We have no faculties to conceive eternal things; when we pass from time to eternity our thoughts are bewildered: we can form no conception of the latter: the words to "rest" or to "wait" have only a metaphorical meaning: for aught we know it may only appear an instant from the moment of death to the day of judgement.
+      </p>
+      </body>
+   </text>
+</TEI>

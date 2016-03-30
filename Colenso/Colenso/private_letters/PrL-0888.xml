@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0888">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1893 November 25: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1893-11-25">1893 November 25</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1893 November 25: to Harding<note xml:id="ftn3-667" place="foot" n="667"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Saturday<lb/>night, 25/xi/93.</p>
+         <p>Dear Mr. Harding</p>
+         <p>Your very kind &amp; welcome letter of 23<hi rend="sup ">rd</hi>. came to hand at <hi rend="italic">noon </hi>today. (Rain kept pouring last evg. so I desired Robert <hi rend="italic">not </hi>to go down—as he had been twice during day.) I am <hi rend="italic">much obliged </hi>to you for it. more than mere words can well express,—for your <hi rend="italic">esteemed </hi>offer to read my Paper: this was just what I have all along <hi rend="italic">wished</hi>—but I dared not ask you to do it. I have already made up the packet, to go w. this on Monday mg. and intend to <hi rend="italic">register </hi>it—having lost 2 book packets, which were <hi rend="italic">not </hi>regd.,—and only yesterday, my man (&amp; myself by letter) had a fight w. our P.O. authorities, re <hi rend="italic">registering </hi>a sm. box dried spns. for Kew, 4lb., but we <hi rend="italic">prevailed</hi>—<hi rend="underline italic">at last</hi>!! Now I leave to you to do all that is necessary: should you have time sufficient, read it <hi rend="italic">all</hi> again, but if not, then those parts towards close where I have put in a little new matter. I hope Tregear may be with you, also Mair, when read: &amp; I heartily wish you every success.—</p>
+         <p>I send a “Herald”—that you may see a letter of mine in it:—as “thereby hangs a tale”: on the Ed. recg. it he <hi rend="italic">returned </hi>it, with a very complimentary &amp; long letter, saying he was quite willing to publish it, but called my attenton to a <hi rend="italic">part </hi>that had better be <hi rend="italic">altered</hi>: I had originally written “<hi rend="italic">4 </hi>classes”—no. 1 being the owners or shareholders of the said R. Theatre, who are said to be “reaping fat dividends”—This, W. said, is <hi rend="italic">wrong</hi>—entirely so! (our friend <hi rend="italic">Peter D. </hi>being one of them:) they are largely in debt, w. overdraft at Bk., and cannot even meet the Interest, &amp;c.—so, I cut out that, &amp; made <hi rend="italic">3 </hi>classes instead; &amp; retd. at once: but W. has cunningly contrived, <hi rend="italic">first </hi>to let the <hi rend="italic">amateurs </hi>know of it, &amp; then they (or Sayers) having gone round &amp; colld. over £20.<lb/>—&amp; W. noticed that, the day before, he publishes it.<note xml:id="ftn3-668" place="foot" n="668">
+               <hi rend="italic">Hawke’s Bay Herald</hi> 23 November 1893.</note> I was led to the remark— “Mammon of Unrss.”, through having lately preached from that text.—–</p>
+         <p>We have been having nearly a week of constant rain, mild and steady, day &amp; night, &amp; not yet over.</p>
+         <p>The Bp. returned from his N. tour on Saty. 18<hi rend="sup ">th</hi>., and left yesterday for Woodville, &amp;c—his day for leaving H.B. (the Dean told me) is the 1<hi rend="sup ">st</hi>. Jany.—I have not seen the Bp., since Sunday 1<hi rend="sup ">st</hi>. Ocober.—</p>
+         <p>I have had a most <hi rend="italic">unpleasant shock</hi> this week: a gentleman in London, whom I have <hi rend="italic">long known</hi> as a good Xn. Correspdt.,—and into his hands I had committed very important private matters for settlement, (which had been 1–2 yrs. progressing) and from him I had lately recd. a Brindisi letter—in which he sd. he was very well in health, &amp; should finish my affair about 12<hi rend="sup ">th</hi> Novr. (when Drafts remitted would be mature) when he would (again) wire “settled”. Well, mid-Novr. came &amp; passed, &amp; I was expg., when 2 days ago a letter from his son, dated “13<hi rend="sup ">th</hi>. Octr.” saying—<hi rend="italic">his F. died suddenly on Sunday 8</hi>
+            <hi rend="sup italic">th</hi>
+            <hi rend="italic">. Octr.</hi>,—&amp; he, the son, absent in country—having left home on the Saty. &amp; his F. well, but on his return on My. he was <hi rend="italic">dead</hi>: and my letter of <hi rend="italic">final </hi>instructions of 31<hi rend="sup ">st</hi> Augt. reached the house on <hi rend="italic">that mg</hi>. 13<hi rend="sup ">th</hi>. The son writes well—but it is a sad blow to me.</p>
+         <p>I hope all may turn out well!—I have a lot to send you next week, after S.F.M. &amp; election.—–</p>
+         <p>
+            <hi rend="italic">P.S.</hi>—I keenly note what you have told me <hi rend="italic">re </hi>Victor, &amp; would it were better news. Am pleased to know you have had so much work in Pg. Off.—Rest, I hope, at hand. Kindest regards, Yours ever, W. Colenso.</p>
+         <p>I am keeping well: but fire <hi rend="italic">still </hi>in parlour daily:—</p>
+      </body>
+   </text>
+</TEI>

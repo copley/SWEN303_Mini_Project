@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0785">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1891 June 23: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0496.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1891-06-23">1891 June 23</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1891 June 23: to Harding<note xml:id="ftn3-534" place="foot" n="534"> ATL qMS-0496.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke, 23, VI, 1891</p>
+         <p>Dear Mr Harding,</p>
+         <p>I am again <hi rend="italic">here</hi> &amp; ½-idle! &amp; so I will write a few lines to you.</p>
+         <p>I do not recollect my writing to you last week—perhaps I did so,—but last week was one of pain, &amp; very likely I did <hi rend="italic">not</hi> write: and even now I have no proper writing materials here with me.—</p>
+         <p>I had promised Rev. Mr Knipe to assist him at his Ch., &amp; he <hi rend="italic">ought</hi> to have got me to do so earlier in the season: it must be on a moonlight season, so that he cod. get away to the distant settlers of his flock: however, I came to Waipukurau on 19<hi rend="sup">th</hi>. &amp; took the 2 services <hi rend="italic">there</hi> on 21<hi rend="sup">st</hi>.—&amp; Mr Eccles, having “interviewed” me on Saty. 20<hi rend="sup">th</hi>., got me to consent to take S. for <hi rend="italic">him there</hi>, at Waipawa on Sy. next, 28<hi rend="sup">th</hi>.,—I being in his neighbourhood,—so I would not return to N. but came on here to my old &amp; loved haunts to spend the intervening days: I return on 26<hi rend="sup">th</hi>. to Waipukurau, on 27<hi rend="sup">th</hi>. to Waipawa, &amp; on 30<hi rend="sup">th</hi>. to N. (D.V.) The weather for the last 5 days has been very fine—indeed, our <hi rend="italic">May</hi> w. now (late) in June.—</p>
+         <p>On Sunday 14<hi rend="sup">th</hi>. I was to go w. the Bp. to Taradale, &amp;c. (Tuke having gone off to Pohui, &amp;c,): at that time I was well: but on <hi rend="italic">that</hi> Sunday mg. at IX.15, (I to meet the Bp. in Cl. sq. at IX.30,) I was suddenly struck w. semi-lumbago, just as I was about to leave my house! It was pain <hi rend="italic">&amp; </hi>
+            <hi rend="underline italic">grief</hi> to me, how I got down the hill I hardly know, &amp; it was <hi rend="italic">very cold</hi>, tho’ <hi rend="italic">fine</hi>, however I went with him, &amp; took <hi rend="italic">half </hi>of the work (4 services) preaching 2 sermons: &amp; yet could do <hi rend="italic">nothing outside</hi> of the Ch. duty! Could not get in &amp; out of buggy unassisted! &amp; I was unwell from <hi rend="italic">same</hi> all that week, but better on the Friday, our first fine day.—</p>
+         <p>I have not yet finished lookg. up those plaguy spns. for Kirk! &amp; came away leaving front room (sitting-room) like a workshop!—&amp; have not <hi rend="italic">yet seen</hi> your 2 big books, nor looked at Tregears’!!</p>
+         <p>I read, however, your <hi rend="italic">cleverly written</hi> election skit, in “Typo”, May No.,—but cannot think what <hi rend="italic">place</hi>, or <hi rend="italic">persons</hi>, are intended by you: the “Herald” reprinted ½ of it in their supplt. of 13<hi rend="sup">th</hi> inst. &amp;, I suppose, the remr. last week.</p>
+         <p> On leaving N. I had supposed I should return thither yesterday, and so brought neither books nor proper writing materials w. me,—neither did I give my <hi rend="italic">usual</hi> directions for letters &amp; papers, therefore all will remain there until I return, and perhaps there is one from you among them. I recd. a <hi rend="italic">short</hi> letter from Gray, the Secy. Genl. P.O., in reply to mine to the Postmaster Genl., saying, Govt. could <hi rend="italic">not</hi> help me. (I had expected that from him). I am now trying on <hi rend="italic">another</hi> tack! I hope you &amp; yours are well: I wrote to Gore to <hi rend="italic">lend</hi> me “Qly. Review,” No. 93. (Mrs. Weber having from 95!!—provoking!) such <hi rend="italic">may</hi> have arrd. at N. in my absence: I hope so: if <hi rend="italic">not</hi> I shall have recourse to you. Spent a <hi rend="italic">nice</hi> hour w. Rev Mr. Grant, &amp; also w. Mrs. Trestrail yesty. Good bye.</p>
+         <p>With kindest regards, &amp; <hi rend="italic">best</hi> wishes</p>
+         <p>from yours, very truly, </p>
+         <p>             W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

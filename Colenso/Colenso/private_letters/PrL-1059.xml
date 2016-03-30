@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1059">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1898 August 30: to William Colenso</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-papers-10535-1.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1898-08-30">1898 August 30</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1898 August 30: to William Colenso<note xml:id="ftn3-914" place="foot" n="914"> ATL Ms-papers-10535-1.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Gow’s Hotel<lb/>Waipukurau, N.Z.<lb/>August 30, 1898.</p>
+         <p>My dear nephew William</p>
+         <p>I came hither last week to take the 2 Services in our Church last Sunday (28<hi rend="sup ">th</hi>.), and as the S.F. Mail would close at Napier before I should return, I brought with me your <hi rend="italic">long </hi>letter of July 13<hi rend="sup ">th</hi>. (with several others) to reply to, if possible from this place.</p>
+         <p>I thank you for your letter although I do not, cannot, agree with all your remarks &amp; wishes. If I had more money than I have to dispose of I would not give any to the Penzance Library, while there were any poor &amp; needy requiring it: it has always been my aim &amp; desire to do all in my power for the poor—wholly irrespective of their creed: at first in this land my pay, <hi rend="italic">cash</hi>, ₤30. a year, &amp; afterwards raised to ₤40: and then married &amp; in orders to ₤100, (always a <hi rend="italic">poor </hi>missionary,) I allotted ₤10. a yr. to Penzance from <hi rend="italic">the beginning</hi>, &amp; <hi rend="italic">we </hi>fed &amp; clothed <hi rend="italic">scores</hi> of the Maori children: so that at the end of 20 years mission service, I was poorer, in <hi rend="italic">wealth</hi>! than when I entered it! having <hi rend="italic">rigidly</hi> observed the M. Society’s rules, &amp; bought <hi rend="italic">no land</hi>. And since then, and as before, <hi rend="smallcaps">God</hi> has ever blessed me. That <hi rend="italic">early</hi> wish has <hi rend="italic">grown</hi>, and is <hi rend="italic">stronger than ever</hi>! <hi rend="italic">because I believe in the words of </hi>
+            <hi rend="smallcaps italic">God</hi>
+            <hi rend="italic">. </hi>At Ch. on Sunday, I read these words to the Congregation:— “He that hath pity upon the poor lendeth unto the <hi rend="smallcaps">Lord</hi>.—Blessed be the man that provideth for the sick &amp; needy, the <hi rend="smallcaps">Lord</hi> shall deliver him in the time of trouble.” &amp;c, &amp;c. Curiously enough, <hi rend="italic">here</hi>, opening an <hi rend="italic">old </hi>Penz. P. (wrapped round some things) I noticed the enclosed clipping! and also, in the same paper, more than half a column of sundry &amp; <hi rend="italic">strange</hi> wedding presents given by the well-to-do folks of Penzance to a Mr. Cornish on his marrying: <hi rend="italic">those are the people</hi> to subscribe &amp; get your Library out of debt,—the money there expended would have been better (more usefully) spent for the Library: then with reference to Mr. Preby. Hedgeland: I recollect when he went out of office a <hi rend="italic">very large </hi>purse<hi rend="italic"> </hi>was made up for him, (perhaps <hi rend="italic">unexpected </hi>and <hi rend="italic">not wanted</hi>,) now, in my way of thinking, <hi rend="italic">Mr. H. should have out of that gift paid the Library debt</hi>:—&amp; <hi rend="italic">you may tell him.</hi>
+         </p>
+         <p>I have not received any letter from Mr. Julyan, (I wrote to him long &amp; privately, same date as mine to you,) but I received a <hi rend="italic">cable</hi> of thanks from “Town Clerk”—I await Mr. Julyan’s reply. I thank you much for your mention concerning Ellen,—I think I had told you as much, some years ago, at the time I sent some money for her,—I will gladly try to find ₤10. yearly for her, and send same to you early. My own Income has fallen off considerably during last 3–4 yrs, every year becoming <hi rend="italic">less</hi>:—so that I have to <hi rend="italic">explain</hi> to the Tax Commissioner, otherwise he could not understand it; but <hi rend="italic">much</hi> (<hi rend="italic">all</hi>) owing to the Govt. borrowing largely &amp; lending out to Settlers, at a lower rate: I had reduced ¼th per cent (3 yrs. ago), and now, last year, they have chosen to pay me off—for their respective lands—and the moneys are in Banks at 3%—instead of 5–6%, so there’s the difference. I hope the Banks may <hi rend="italic">remain</hi> secure while I <hi rend="italic">remain</hi>, and that I may not be driven to <hi rend="italic">largely use </hi>principal: Rates &amp; taxes increasing heavily!</p>
+         <p>I hope your son, in Navy is quite well, and likes his new Situation. I received a letter last week from a Mrs Badge, Camborne, a neice of yours, a good long letter which had been <hi rend="italic">begun</hi> by her mother Mrs Carter shortly before her death—this I must answer shortly.</p>
+         <p>This letter is written more huirriedly &amp; incoherently than I like, owing to persons calling while engaged on it: so, please excuse, &amp;c——</p>
+         <p>Hoping this may find you &amp; yours all quite well, and with Uncle’s love to you &amp; to all Yours, I am</p>
+         <p>                                                         My dear Nephew</p>
+         <p>                                                                 Yours affecty.</p>
+         <p>                                                                         W. Colenso.</p>
+         <p>P.S. I wrote yesterday to Willie, &amp; to Sarah.</p>
+         <p>I don’t understand yr. saying, that you <hi rend="italic">knew </hi>? the respected resident who had formerly written to me about the <hi rend="italic">last ₤1000.</hi>—<hi rend="italic">whom do you mean</hi>?</p>
+      </body>
+   </text>
+</TEI>

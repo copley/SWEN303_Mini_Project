@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0063">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1868 The Guernsey Lily . Hawke’s Bay Herald August 8.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1868-08-08">1868 8 August</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1868-07-24">1868 July 24</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1868</hi>
+        <hi rend="bold">The Guernsey Lily</hi>
+        <hi rend="bold">.       <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald </hi>
+        <hi rend="bold">August 8.</hi>
+      </p>
+    </front>
+    <body>
+      <p>(To the Editor of the “<hi rend="italic">Daily Southern Cross</hi>.”) </p>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—Some three months ago I noticed what you had then stated in your paper respecting the blooming of a Guernsey lily for the first time in Auckland, and was so struck with the relation that, at first, I thought of writing to you about it. No doubt I was the more induced to do so from the fact of having cut flowers of the said plant standing in a flower-vase on my table at the time of my reading those remarks; and those flowers, as I looked at them, seemed ready to join me in a hearty laugh. However, on reading a second time what you had stated—viz., 1. That it was a “Jersey” lily; 2. That it was the first time of its blooming in New Zealand; and 3. That it was notably the first which had bloomed beyond the confines of the island (of “Jersey” of course)— it altogether seemed so strange that I abandoned all thoughts of writing. </p>
+      <p>Now, however, that I have just seen (in your paper of the 4th of July) an account of its having also bloomed two or three years ago at Canterbury, I am inclined to trouble you with a few words about the plant, being also urged thereto by some acquaintances who have often seen it in bloom here in our gardens, and who had also read what you had stated about it in your paper. </p>
+      <p>The Guernsey lily (Amaryllis sarniensis) was introduced into Hawke’s Bay about 10 years ago, by the late Superintendent of the province, Captain Carter. It has done very well here, in the open border. I have now more than 20 individual plants in my garden, where some flower every year; some stalks bearing more flowers (12–14) than they generally do in other places; five plants bloomed together in my garden in 1865. It never was found in Jersey; nor, indeed, is it truly indigenous to Guernsey, although now common there. Its native country is Japan, whence it was early introduced into Europe (through the Dutch,) and first flowered at Paris in 1634, and in England, at Wimbledon, in 1659; and has long been common throughout Europe in gardens and greenhouses. </p>
+      <p>This Amaryllis is by no means a difficult plant to cultivate in our south latitudes, nor is it rare in flowering,—especially when compared with some of its congeners. I may instance a Crinum, which I received from New South Wales in 1837, and which first flowered in 1860, after 23 years’ cultivation and patient waiting;—and the Agave (or great American aloe), which you have common in Auckland, is another well-known instance. </p>
+      <p>If our Southern neighbours should wish to cultivate the “Guernsey lily,” I would venture to suggest (in order to ensure its regularly blooming) that they should take care its leaves are not injured by the frosts of winter. It is certainly a very handsome plant, and shows particularly well by candlelight.—I am, &amp;c., </p>
+      <p>
+        <hi rend="smallcaps">W. Colenso. </hi>
+      </p>
+      <p> Napier, July 24, 1868.</p>
+    </body>
+  </text>
+</TEI>

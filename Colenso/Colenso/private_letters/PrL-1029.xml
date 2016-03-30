@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1029">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1898 January 13: to William Colenso</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-papers-10535-1.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1898-01-13">1898 January 13</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1898 January 13: to William Colenso<note xml:id="ftn3-875" place="foot" n="875"> ATL Ms-papers-10535-1.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, N. Zealand,<lb/>January 13<hi rend="sup ">th</hi>, 1898.</p>
+         <p>My dear nephew Wm.,</p>
+         <p>I believe my last letter to you was on 18<hi rend="sup ">th</hi>. October: since then yours of Octr. 13<hi rend="sup ">th</hi>. arrived―just 1 week after <hi rend="italic">the Birthday</hi> you kindly remembered. And since then your gift of a book (roll) of Penzance “Views &amp; Reviews,” in which I notice <hi rend="italic">our </hi>name prominently &amp; properly brought forward; but, alas! So <hi rend="italic">much</hi> of it is <hi rend="italic">new to me</hi> that I can scarcely make out the dear old town of my youth (and of many sorrows!) I have dipped into the book 2, 3, times, and I intend to go into it regularly, &amp; will let you know what places, &amp;c., I <hi rend="italic">recognize. </hi>I have noticed <hi rend="italic">2─3 errors </hi>in it, concerning old folks &amp; old times:―it is, however, a well got-up work, and deserves much praise, &amp; I trust Penzance is satisfied.</p>
+         <p>I was pleased to find you &amp; yours were all well, and comfortably settled in your new house in Chapel Street. Should you, or any of your family, have to attend the Wesleyan M. Chapel, you have not far to go. Of course you will have heard <hi rend="italic">of me</hi> from Willie, or from Rd., since my last. I am, I think on the whole a little better in health, &amp;c., but my legs are still <hi rend="italic">weak</hi> for walking, and my hand &amp; arm unable for many things, and I do not now expect any great alteration for the better—and so learn to be content &amp; <hi rend="italic">thankful</hi> for what I have, as a rule I take care <hi rend="italic">not</hi> to shake hands with <hi rend="italic">my right hand</hi>, neither to open a door by handle, &amp;c: one of the things I can best do, <hi rend="italic">is to write</hi>. Of late (I may truly say, <hi rend="italic">always</hi>!) I have been writing, largely: I find, from Augt. 1–to Decr. 31<hi rend="sup ">st</hi>., I wrote 427 letters—some very long. And in Decr., at end, I received from the Government Printer, at Wellington, <hi rend="italic">proofs</hi> of the last sheet of my <hi rend="italic">small portion</hi> of Maori-English Lexicon, only letter A., so that I hope next month to send you a copy: not that it can be of any <hi rend="italic">real </hi>service to you, but it will <hi rend="italic">show</hi>!! in years to come, what I <hi rend="italic">did</hi>, what <hi rend="italic">I might have done</hi>, &amp; what I <hi rend="italic">endured</hi>! at present I am putting my <hi rend="italic">promised </hi>book <hi rend="italic">against</hi> Rome through the press here—it will contain my letters of ’94, with these of ’97, as published in the “Herald” (Napier P.) with notes and an appendix. You may from this see how I have been passing the holiday season—<hi rend="italic">extra close work </hi>every day &amp; nnight—<hi rend="italic">no</hi> visitor to disturb. I <hi rend="italic">love</hi> work, &amp; should <hi rend="italic">soon die without it</hi>. You may be surprised to hear—that I went to St. Augustine’s on <hi rend="italic">first</hi> Sunday in New Year, &amp; took part in the Service, preaching S., &amp; assisting at H.C. The Minister &amp; Congn. much wished me to be there, I having had the S. for 5 successive New Year’s Sunday. Of course I was driven in trap there &amp; back, &amp; helped up into it, &amp; out from it. My first duty in Ch. since March ’97. I don’t often look into the Penzance Papers, but I did a short time ago, and felt <hi rend="italic">upset</hi> on reading Preby. Hedgeland’s Sermon in Truro Cathedral—one, of course to please both place &amp; people! He ran down Rev. Henry Martyn, that good Cornish Missionary of nearly 100 years ago—for <hi rend="italic">his belief</hi> in those glorious truths respecting <hi rend="smallcaps">God</hi>—as taught by our sainted &amp; martyr’d forefathers, &amp; set forth in our Book of Co. Prayer: I felt sad, very sad: I <hi rend="italic">had a better</hi> opinion of Hedgeland, but still I thought him to be a <hi rend="italic">trimmer</hi>—a “Halting” or “Facing”—“both-ways”: now I <hi rend="italic">know </hi>the man! what H. ran down in his Sermon, I heartily believe &amp; trust. Good Bye. Kind love to your wife &amp; family, Mother &amp; Sister, &amp; all the rest.—</p>
+         <p>Try to write a longer letter—do it by snatches, taking a week over it. Believe me to be, Ever your affectionate Uncle                                                    Wm Colenso.</p>
+      </body>
+   </text>
+</TEI>

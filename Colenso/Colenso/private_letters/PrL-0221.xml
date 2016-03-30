@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0221">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1867 July 27: to von Haast</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-papers-0037-046.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9511/">von Haast</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1867-07-27">1867 July 27</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1867 July 27: to von Haast<note xml:id="ftn2-141" place="foot" n="141"> ATL MS-papers-0037-046.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, July 27 1867.</p>
+         <p>Dr. Julius Haast,<lb/>etc, etc, etc.,<lb/>ChristChurch.</p>
+         <p>My dear Sir</p>
+         <p>Yours of the 13<hi rend="sup">th</hi>. is to hand, and I lose no time in replying, and in sending you with much pleasure by this Mail, an English republication of my monograph on the <hi rend="italic">Moa</hi> (originally published in the Tasmanian Journal). I would prefer your seeing the Tasmanian printed one, as that is a little fuller—but as my <hi rend="italic">only </hi>copy is bound up in a <hi rend="italic">thick</hi> vol<hi rend="italic">. </hi>I cannot well send it. However, in this republication (what I may call) the popular part only has been left out, (in order to compress it,) and also the plates (2), which were <hi rend="italic">very poorly done</hi>, as, in those days, there was no Lithog. printer in Tasmania!! nothing has been added.—It was republished in England by Sir W.J. Hooker (<hi rend="italic">old</hi> “Lond. Journal of Botany.” vol. 3. p. 3, &amp;c.,) and by Profr. Owen, in the “Annals of Natl. History,” (now sent,)—&amp; repeatedly and most honorably quoted &amp; mentioned by Dr. Mantell (V.President of Geological Socy. London)—<hi rend="italic">our </hi>Mantell’s Father,—in the Journals of the Geological Society vols. 4 &amp; 6, for 1848, &amp; 1850, (which Journals I both suppose &amp; <hi rend="italic">hope </hi>you have, as they also contain a great deal about Mantell’s Fossil &amp; Geological discoveries in your Island &amp; neighbourhood, as well as much about the <hi rend="italic">Moa</hi>, with many diagrams &amp; plates;)—and also in his subsequent Work—on the “Fossils of the British Museum” (Bohn’s edition, 1851,) pp. 93, 94, &amp;c. I mention these works, as, if you have <hi rend="italic">not</hi> got them, you should certainly see them before you conclude your Paper on the <hi rend="italic">Moa </hi>&amp; its geological age, &amp;c, &amp;c.—Of course you have a copy of <hi rend="italic">Owen’s</hi> Work on the <hi rend="italic">Moa</hi>: mine is still with Dr. Hector.</p>
+         <p>
+            <hi rend="italic">En passant</hi>—I would beg to call your attention to what Dr. Mantell says of my little early attempt, (in “Quarterly Journal Geological Society,” vol. 4. p235,)—He says: “I would remark that Mr. Colenso who was the <hi rend="italic">first </hi>observer that investigated the nature of the fossil remains with due care &amp; the requisite scientific knowledge, (having determined the Struthious affinities of the birds to which the bones belonged, &amp; pointed out their remarkable characters, ere any intelligence could have reached him of the result of Prof. Owen’s examination of the specimens transmitted to this country,) has given, in his masterly paper before quoted, very cogent reasons for the belief that none of the true Moas exist, though it is probable the last of the race were exterminated by the early inhabitants of these islands.”—</p>
+         <p>I do this, because I have thought I have had but <hi rend="italic">scant</hi> justice done me here (in N.Z.) in not a few scientific matters,—while at home (England) and on the Continent (Paris, Cherbourg, Gottingen, &amp;c,) I have been most honorably dealt with.—</p>
+         <p>I shall look forward to your forthcoming work on the <hi rend="italic">Dinornis</hi> with much pleasure, and shall receive a copy from you of that, or of any other of your scientific works, with very many thanks. I am rejoiced to hear of your great good fortune in securing such valuable specimens of the <hi rend="italic">Dinornis</hi> (sp.) which you are now engaged in articulating. Such must prove a great acquisition to your Canterbury Museum,—&amp; some day I hope to see them &amp; you.</p>
+         <p>I <hi rend="italic">fully sympathize </hi>with you in the non-publication of your Geological essay by the Commissioners. I have lately received printed copies (6) of my Botanical one from Dr. Hector; and I also find from him that mine on the <hi rend="italic">Maories</hi> is at last in printing! While I regret it did not come out when written, (Feb./65) I regret much more that I was <hi rend="italic">obliged </hi>to write it so hurriedly; still I may go in for a 2<hi rend="sup">nd</hi>. edition <hi rend="italic">with </hi>
+            <hi rend="underline italic">additions</hi>, if <hi rend="italic">permitted</hi> by Messieurs the Commissioners. I thank you much for your very kind interest—as shewn in your writing to Dr. Hector about it.</p>
+         <p>Dr. Hector tells me, he is going to <hi rend="italic">distribute </hi>copies of the Printed essays so, of course, <hi rend="italic">you</hi> will get one of mine from him, otherwise I would send you one of the few I have: I am now writing for more copies.</p>
+         <p>I am glad to hear Dr. Hochstetter’s Work is far advanced. I may tell you that on the arrival of the Novara Expedition in the Auckland waters, I commenced and partly wrote, a rather long letter to Dr. Hochstetter (as I had <hi rend="italic">personally</hi> known so many of our early scientific visitors, Continental &amp; English,)—but when I found he had remained behind in N.Z. I did not go on with it, thinking he might visit Hawke’s Bay.</p>
+         <p>I see from Dr. Hooker’s Hand Book, he is a Member of the “Philosophical Institute of Canterbury,”—I, here, was not aware of such a Society: what are the Members doing? Is any thing being published by them?</p>
+         <p>Allow me to ask,—Did you ever hear any thing of a Countryman of yours named Schmidt,—who was here (with me) in Jany. 1854, &amp; who was shortly afterwards in Canterbury &amp; Otago? I heard, he perished miserably in exploring—but? I lent him 12 of my most valued (&amp; curious) pencil sketches—which he was to have returned from Wellington.—I would give £1. each, to recover them, if existing—</p>
+         <p>Believe me,</p>
+         <p>My dear Dr Haast</p>
+         <p>Yours truly</p>
+         <p>Wm. Colenso.</p>
+         <p>P.S. You can return the <hi rend="italic">Ms. </hi>now sent at your convenience when you have quite done with it.  W.C.</p>
+         <p>Could you send me a specimen of <hi rend="italic">Hymenophyllum unilaterale</hi>, and of <hi rend="italic">Hymenophyllum ciliatus</hi> (lately found by Travers)  W.C.</p>
+      </body>
+   </text>
+</TEI>

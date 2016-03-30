@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0067">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1848 April 4: Octavius Hadfield to his mother Amelia Hadfield (nee White)</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  "Letter 14".  Page 179.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 7.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1848-04-04">1848 April 4</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70719/">Amelia Hadfield (nee White)</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1848 April 4: Octavius Hadfield to his mother Amelia Hadfield (nee White)</p>
+      </front>
+      <body>
+      <p>Wellington April 4. 1848</p>
+      <p>My dear Mother</p>
+      <p>I know it is a long time since I have written to any of you: about a month ago I wrote part of a letter to you &amp; stopped in the midst feeeling unable to write as I had not heard from you for such a length of time.  Yesterday, after being just twelve months from the last date (which was a letter of Ap. 1847, I had the great pleasure of receiving letters from George, Sep., Octavia, Oct., &amp; Amelia, Nov. I am very thankful for these letters, but what may have become of letters written in the interval, for I think some must have been written, I cannot conceive, as a monthly mail leaves England for Sydney, &amp; vessels come from the latter place bringing a mail about once a fortnight.  I am, however, thankful now for having received news of you all which is satisfactory.  I am only writing you a few hurried lines this morning as a vessel is leaving today &amp; the post closes in about an hour or two; moreover my eyes are so  weak that I can scarcely see to write (this is only a temporary complaint in them); I could not let another ship go without writing.</p>
+      <p>I was very glad to hear George had been in England making arrangements about the college, it is astonishing how little some people have thought on the theory of education, &amp; of conducting establishments for it, &amp; no amount of correspondence on the subject will ever make people understand what is wanted: we feel it here, at least I persuade myself that if I could see some of our good folk in Salisbury Square I could persuade them that much more might be done in N.Z. by a somewhat different system. </p>
+      <p>The English papers do not give a very satisfactory account of matters there: I wonder more people do not come to the colonies: people can easily obtain 10% for their capital here, &amp; living is very cheap, but they prefer jogging on in the old country &amp; outwitting one another with their speculations till ruin seems to follow ruin. Lord Grey has done all he can do to mismanage these colonies: things would go on very well here if they were not everlastingly sending out contradictory instructions &amp; unsettling the minds both of natives and settlers.  There are one or two parts of the island where the natives are suspicious, &amp; where fresh disturbances may be expected, but this part is quiet &amp; going on well.  Nearly all the natives of Waikanae are going to a place (from which they formerly came) about 150 miles from this: this emigration has been occasioned by mismanagement here; but as they go peacefully, I do not know that they will lose by the change, as Mr. Govett is in their neighbourhood.  Mr S. Williams is now at Otaki &amp; the natives there are going on very well.  They are now busily engaged in building a church, which I began, it will be the best in the country. An architect who lately saw the preparations told me that at the marketable value of their labour, he conceived they had not expended less than £2,000 worth of labour on it already, so you see that they work in earnest, they will raise subscriptions among themselves for many things which they cannot make, windows, etc. Williams is quite delighted, he has not seen such energy in natives before.  I still continue much as I have been for the last three years. It is a curious life to lead, but I am in the hands of an All-wise God &amp; Father. I feel that I am not quite useless, as the constant applications from natives &amp; others for my opinion on various matters proves.  My dear friends here are constantly kind &amp; attentive &amp; the Lord hath blessed me much.  I have all and abound in every sense.  I do not think there is much likelihood of my attempting to go to England, but I feel I am of less use here now as Williams is at Otaki.  Still there are very few persons who ever accustom themselves to think, especially in a new country, &amp; yet many subjects want thought, &amp; I am happy to say that both in the Mission &amp; in the politics of the country some of my suggestions have been acted on and have proved useful - I am always glad to hear of all old friends - give my love to all at home.</p>
+      <p>Your very affectionate son,
+      </p>
+      <p>Octavius Hadfield.</p>
+      </body>
+   </text>
+</TEI>

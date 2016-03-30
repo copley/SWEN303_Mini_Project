@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1024">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1897 December 21: to Ethel Florance</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Puke Ariki, New Plymouth, accession number ARC2005-335.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/74086/">Ethel Florance</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1897-12-21">1897 December 21</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1897 December 21: to Ethel Florance<note xml:id="ftn3-869" place="foot" n="869"> Puke Ariki, New Plymouth, accession number ARC2005-335.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>Tuesday Evening<lb/>21/xii/97.</p>
+         <p>Dear Ethel</p>
+         <p>My hopes my wishes have been accomplished! and <hi rend="italic">you—</hi>my dear young friend, are <hi rend="italic">again</hi> at the head of the List. I congratulate you most sincerely; even as I had the pleasure of doing on that former &amp; similar occasion at Woodville. More I cannot say at present—my heart &amp; mind are <hi rend="italic">full</hi>. Excuse this hastily written note. Kindest regards to <hi rend="italic">all</hi> with you at Home, I send with the evening paper, just now to hand. And a treble lot of xxxxxx – – – which you must get Edgar to multiply by 450!—or “<hi rend="italic">666.</hi>”</p>
+         <p>Believe me ever</p>
+         <p>Yours sincerely</p>
+         <p>W. Colenso.<note xml:id="ftn3-870" place="foot" n="870">
+               <p> This letter is annotated by “E.J.M.” (Ethel J Moffat née Florance), “This congratulatory note was written to me just after I had topped the list of candidates for the Scholarship examination in Hawke’s Bay. At that time there were no free places at secondary schools—Parents had to pay for their children’s education. High Schools were ‘run’ by a board of Governors. I won a £50 a year scholarship bursary to the Napier High School &amp; a gold medal. The previous year I was Dux of the Woodville day School.“I do not hand over these letters of Mr. Colenso’s—nor yet my notes on them—from self-aggrandisement—but to give you an insight into the character of my old friend that was not generally known to the public. I was grieved that Miss Matthews, the Principal of my school, slighted him in any way. It wasn’t until years afterwards I learnt why &amp; I felt it was mean to treat an old man that has paid the price for a lapse in early life &amp; altho’ he was completely deprived of home &amp; family life for the rest of his life, his Bishop gave him absolution &amp; he was once more established in favour &amp; Church life &amp; loved &amp; respected by many. He always predicted great things for me but at the end of two years my health gave way &amp; on my return to my home at the Islands my Mother’s health was such that I had to remain with her &amp; thereafter became her mainstay &amp; could only lead a domestic life.—</p>
+               <p>“I am getting old—am nearly blind &amp; in poor health—have to give up my nice home &amp; lovely garden &amp; retire somewhere I can be looked after—I cannot bring myself to destroy things I’ve treasured for years &amp; am trying to sort out photographs, books etc, &amp; send them where they, I hope, will be of interest, as my young folk don’t seem interested in things gone by. They live in the present &amp; look in their way, to the future. E.J.M.”</p>
+            </note>
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0040">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1843 January 16: Octavius Hadfield to Mrs. John Mason</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  Page 92.  "Extracts of letters from Octavius to Mrs. Mason."  Unspecified source of extract, time of extracting, person who extracted and nature or extent of excluded material - enquiry emailed to Frith Driver-Burgess at Wellington City Libraries on 27.11.15 regarding this.  These extracts are all from letters written within the first months following Rev. John Mason's death, which Octavius Hadfield witnessed and described in his letter to the C.M.S., reproduced in their obituary, available at http://www.enzb.auckland.ac.nz/document?wid=4078&amp;page=1&amp;action=null <!--"&amp;" in this URL should be interpreted as & by anyone reading this document in unrendered TEI format--></p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 27.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1843-01-16">1843 January 16</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/24651/">Otaki</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71002/">Mrs. John Mason</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1843 January 16: Octavius Hadfield to Mrs. John Mason
+         </p>
+      </front>
+      <body>
+      <p>Otaki, January 16th 1843 -- "My dear Mrs. Mason, As William will be returning tomorrow morning.  I write a few lines to say I reached this in safty <!--previous editor's note: [sic]--> on Friday afternoon,-- I met my lads within a few miles of Wanganui- they had no satisfactory excuse to make for not coming sooner,- I likewise sent some of my Waikanae lads -- at Manawatu, who were anxious to know what had become of me.  - I was going to say that I was anxious to hear from you, but if you have not written before you receive this, I shall not hear for sometime, as I purpose going immediately to the other side of the Straits, I may be absent about a fortnight or so, I hope not more.  Mr. Shortland and Mr. Spain arrived at Port Nicholson a few days ago.  -- It is unnecessary for me to say anything to you by way of consolation, for I am persuaded that you have been taught by the Lord the Spirit to find all comfort in a Covenant God, a god reconciled in Christ,- when we are acquainted with Jehovah the Sovereign Ruler of all things, and know him to be <hi rend="underline">our</hi> God in Christ, we can render every dissatisfaction, rejoice in the accomplishment of His Will and give Him Glory.--May the Lord the Spirit be with you to bless you and to strengthen you and to give you peace.-- Believe me to be yours most faithfully in the best of bonds"  
+      </p>
+     
+      </body>
+   </text>
+</TEI>

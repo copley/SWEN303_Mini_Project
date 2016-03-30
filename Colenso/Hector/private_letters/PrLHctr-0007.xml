@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1115">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>12 November 1865: Hector to Hooker.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">James Hector</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Kew DC 174, 469-470, ATL Micro-MS-Coll-10-16, 485-487.</p>
+         <p>Transcription published in "My Dear Hooker: 
+Transcriptions of letters from James Hector to  
+Joseph Dalton Hooker between 1860 and 1898", Rowan Burns &amp; Simon Nathan.  Geoscience Society of New Zealand miscellaneous publication 133B, 2012.  ISBN 978-1-877480-21-8. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133B.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1865-11-12">1865 November 12</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hector to Hooker, 12-11-1865, Kew DC 174, 469-470, ATL Micro-MS-Coll-10-16, 485-487.</p>
+      </front>
+      <body>
+      <p> 
+Colonial Museum </p>
+            <p>Wellington, 12th November 1865</p>
+            <p>My dear Hooker, </p>
+            <p>I need not tell you how sorry we all were to
+ get the news of your fathers death by last
+mail, for though he had reached a ripe old age st
+ill he was so active &amp; useful up to the last 
+that he will be missed more by science than
+ many a younger man that is called from the ranks. Sir George Grey, Dr. M
+unroe, Colenso, Travers &amp; several others all called on me to 
+leave particulars at once after the mail arrived. I 
+was sorry to have to tell them that you we
+also unwell but I hope that
+ attack soon passed off.  It was so kind of you to write in the 
+middle of all your troubles. I will never forget
+ it. But you must not let my business bother you 
+too much – it can always wait. I am glad you like
+ the fossil plants. Of course the drawings are clearer than the originals but I 
+dont think there has been the least exageration or contraction 
+employed in copying them. </p>
+            <p> 
+I have a few of the original fossils on slabs here – but most of them are in the 
+Museum at Dunedin, where they can be referred 
+to at any time. I have had to start a Museum here at once so that in order to make some show I have temporarily arrested the duplicates of
+the Otago collection that were packed to send home to you &amp; to others. As soon as I get into 
+the Field however I will get collecting to supply 
+this place &amp; then will send them on to their 
+proper destination. I always thought that an arrangement would be made by the Colonial 
+Govt. to take over the Survey Collections &amp; all from the Otago Govt. I wish they had done 
+so, as the Museum at Otago will not be cared for or looked after I fear. The Museum here is 
+getting into shape. I enclose a plan of it from which you will see that only a small part of it is 
+yet built. By next steamer I leave for the North &amp; will go as far as the Bay of Islands &amp; 
+perhaps the North Cape. I take Buchanan with 
+me, so you may expect a share of the results. 
+Buchanan has been collecting largely here but is disappointed at 
+finding so slight a change in the Flora from that in the South. The diff. is confined to some additional forest trees &amp; a few
+shrubs. However he has only seen 
+the wooded district yet. I enclose a list of the 
+plants he has 
+found 
+here
+ for the first time. He also desires me to call your attention to the 
+Drymis 
+axillaris here (if you have specimens – none of his 
+in flower are dry enough to send by this mail). He would not have recognised it except by
+ the flower it is so unlike the tree in the 
+South. The parts of diff. are in the tree here – </p>
+            <p>The leaves are hardly coriaceous.</p>
+            <p>Green on both sides </p>
+            <p>not Glaucous</p>
+            <p>not spotted </p>
+            <p>mid rib not hairy </p>
+            <p>The flowers are very abundant &amp; on long pedicles.</p>
+            <p>The bark is pale coloured instead of black-brown. It may be worth while your looking to your N &amp; S In species again. </p>
+            <p>Veronica hulkeana
+ is common in the Gardens here, having been introduced by Mr. Weld about 15 years ago
+ from the 
+Kaikoras. It is known as Weld’s 
+Veronica.
+ I promised Mantell[?] I would mention this
+. I am filling a Wards Case for 
+you. I have got a lot of nice 
+plants for you. Among other some plants of the 
+Myosotidium 
+nobile from Chatham Is. It grows well here but is destroyed by an aphids. Insect life is 
+bearing to have a sad 
+----on the 
+introduced plants in New Zealand for want no doubt
+ of the small ----- that
+ keep them in check at home. There are some beautiful Gardens here
+. The best is Ludlams up the Hutt Valley. It 
+reminds one a little bit of Kew. He has 
+about 50 kinds of Pines &amp; other trees - &amp; Rhododendrons, Azaleas &amp; Camilias in profusion. I never saw anything equal to the Camilias
+anywhere. If they thrive so well dont you think that some of the 
+Hill Trees
+ should grow.</p>
+            <p>Before leaving Dunedin Buchanan packed a Ward Case for you with all the new West Coast alpine plants &amp; some of the doubtful species of the East Coast. This Case has since been dispatched by way of Melbourne so look out for it. I enclose a list of the Plants it 
+contains. </p>
+            <p>With kind regards to Mrs. Hooker &amp; hoping you 
+are quite well long before now. Believe me 
+my dear Hooker </p>
+            <p>Your affectionate friend </p>
+            <p>James Hector.</p>
+            <p>I have been reading Tyndals lecture on heat
+[?] with great interest. Mantell says he 
+now understands how HE came into existence as
+ a necessity – for when Satan was pitched 
+out of heaven with the other, on being pulled up 
+at the end of this journey the velocity would
+be changed to heat – without the direct[?
+] creation of roasting place by an unvengeful[?] 
+deity!! </p>
+            <p>By this mail I send home to the R.S.E. a good paper by Skey (my chemist) on the
+formation of Coal seams. You will be interested
+ in the subject. We have been working at the 
+idea for the last two years. This
+ paper is the experimental[?] 
+matter. I have helped him in 
+every way but do not feel justified 
+in going in for a share of the "plunder".</p>
+            <p>I see Lauder Lindsay has been going “twice -----” to the R.S.E. of N.Z. Coals from my reports. Very well for a magazine 
+article but hardly the thing for an original? paper to the 
+R. Soc. Skey
+ is more “riled” than I am about it.  </p>
+</body>
+   </text>
+</TEI>

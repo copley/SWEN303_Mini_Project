@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0051">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1863 Correspondence. Hawke’s Bay Times 9 October.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1863-10-09">1863 October 9</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Times</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1863 Correspondence.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Times</hi>
+            <hi rend="bold"> 9 October.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—I was surprised to see in the <hi rend="italic">Herald</hi> of Saturday last the startling statement that Wiremu Tamihana (William Thompson), the celebrated Ngatihaua chief of Waikato had recently been in our immediate neighborhood. I confess, I did not believe it (my knowledge of N.Z. etiquette assured me he could not thus have been here and returned). However, on Monday I made diligent enquiry, and found it to be an absolute myth! Judge, then, how very greatly I am surprised to find in the <hi rend="italic">Herald</hi> of this day (being, too, a “summary for England”) not only the same untrue statement repeated, but with fresh additions as a comment upon the “fact” of W.T. having been here, and the probable consequent disastrous results to us all!! Now, this is really too bad. The <hi rend="italic">Herald</hi> is known to be at least semi-official, and should give the public the earliest and most truthful information respecting the Maories. Such a <hi rend="italic">reiterated</hi> statement (though known here to be false) may be productive of much injury both among settlers and Maories in the outlying districts of this and the two neighboring Provinces. From the enquiries I have made, I may positively state, that W.T. has never been in this neighborhood nor (for what we know) a step on this side of Waikato.</p>
+         <p>I sincerely nape your paper of Friday next will be issued in time for the English mail steamer due here tomorrow, so that, at least, the antidote may be commensurate with the bane.</p>
+         <p>					I am, yours, &amp;c.,</p>
+         <p>
+            <hi rend="smallcaps">William Colenso</hi>.</p>
+         <p> Napier, 	October 7, 1863.</p>
+      </body>
+   </text>
+</TEI>

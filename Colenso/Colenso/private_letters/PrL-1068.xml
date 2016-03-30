@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1068">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1898 December 5: to Mrs de Lisle</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MTG HB m64/14, m67/37, 57844.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75566/">Mrs de Lisle</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1898-12-05">1898 December 5</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1898 December 5: to Mrs de Lisle<note xml:id="ftn3-927" place="foot" n="927"> MTG HB m64/14, m67/37, 57844.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier,<lb/>Monday night,<lb/>Decr. 5<hi rend="sup">th</hi>, 1898.</p>
+         <p>Dear Mrs de Lisle</p>
+         <p>Your welcome letter of November 29<hi rend="sup">th</hi>. is to hand and I thank you for it—for now I know you have forgiven me for not having called to see you &amp; Rodolph: your kind remembrance assures me of that. Very pleased I am to know you &amp; yours arrived safely in your cooler sub-alpine retreat, and that you really have some of our sweet Maori Birds there singing so blithely among the flowering branches: reminding me forcibly of what I too <hi rend="italic">once </hi>enjoyed. I was <hi rend="italic">in town </hi>last Tuesday morning &amp; there I saw my old friend the Doctor driving in his usual masterly &amp; manly style: it always pleases me to see <hi rend="italic">him </hi>so engaged, for, I never see any other gentleman that can approach him in <hi rend="italic">that </hi>matter, and it serves to carry me back to <hi rend="underline italic">old</hi> times in England, when such skill was more sought after and appreciated—before Railways were known—and I, too, did a <hi rend="italic">little</hi> in driving—but only, say, 99<hi rend="sup">5</hi>/<hi rend="sub">10 </hi>ths. astern of the Doctor: and having made this concession to <hi rend="italic">you</hi>, I hope it will cause you the still more highly to esteem, honour, obey, and love Rodolph’s father—there now, is not that good advice? But I have not done yet; and you must e’en have the <hi rend="italic">whole</hi> story! The Doctor seeing me—in Emerson St <hi rend="italic">abreast</hi> of Blythe’s, pulled up his flying steeds in a trice, &amp; dismounting came up (pleasure beaming in his face) shook hands, <hi rend="underline italic">truly</hi>, &amp; told me about you &amp; Rodolph, and <hi rend="italic">the weighing</hi>—there now! guess the rest.—</p>
+         <p>We have had a fire in the White Road, and yesterday a few minutes after vi. evening a very decent kind of earthq. which, being both longer and stronger than of late, caused me to adopt 2<hi rend="sup">nd</hi>. thoughts and bolt out! fearing the big chimney might come down. Returning to my cabin, lo! in 5 min. more another shock, which, though less, caused me to skip again, and, during the night &amp; this morning, I thought, how lucky you were to have escaped those 2 alarms of fire &amp; earthq. But this afternoon (&amp; evening from “D.T.”) I learned that the shocks were far more powerful at <hi rend="italic">Gisborne</hi>, and so, dear lady, I fear <hi rend="italic">you </hi>may have had <hi rend="italic">severer</hi> frights: but I hope not.—</p>
+         <p>I have had <hi rend="italic">lots </hi>of visitors of late, 3–4 a day, last week, &amp; 4 also <hi rend="italic">this </hi>day! such a lot of chatter, yet very pleasant withal:—how my time has been taken up! I fear I may soon have to follow Pope’s advice (Pope, the poet, <hi rend="italic">not he of Rome</hi>) <lb/>“Shut, shut the door, good John,:—fatigued I said, <lb/>“Tie up the knocker: say, I’m sick, I’m dead”<lb/>The dog-star rages,” &amp;c—(memory fails).</p>
+         <p>Now Good Bye, dear Lady, kiss the 2. yr. old, twice over. I hope to see you <hi rend="italic">both</hi> on your return. Believe me</p>
+         <p>Yours truly</p>
+         <p>         W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

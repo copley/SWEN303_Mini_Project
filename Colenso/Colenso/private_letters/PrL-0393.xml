@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0393">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1879 August 9: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-1.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1879-08-09">1879 August 9</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1879 August 9: to Harding<note xml:id="ftn3-16" place="foot" n="16"> ATL MS-Copy-Micro-0485-1.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>Saty evg.<lb/>August 9/79</p>
+         <p>Mr. R.C. Harding</p>
+         <p>Dear Sir</p>
+         <p>I am thinking of preparing a letter for the cols. of D.T., <hi rend="italic">re </hi>my case of yesterday. And I want the <hi rend="italic">exact</hi> sums per ac. Mr. Margoliouth said he had valued ea. sub. section at: I took down for 44 (including the 2 Tn. Sns. adjoining) @ ₤450, and I have but a poor confused note of the others—both Sns. &amp; figs. of value—&amp; therefore I have thought of asking you for them, as I noticed you were busily engaged in writing, and to you I believe I (or <hi rend="italic">we</hi>) are indebted for your clear &amp; concise abstract which appeared in your paper last evening.</p>
+         <p>Of course I could obtain them by applying to Mr. M., but I would prefer having them from you if you took them down.—</p>
+         <p>May I ask you also to post a note <hi rend="italic">early</hi> for me, or (perhaps) send it by your youngest (?) Brother to me, when he comes to school next door on Monday mg.,—I ask for this latter, as I am <hi rend="italic">not</hi> benefitted by the Town Delivery.—</p>
+         <p>I will send this to your residence by my man this evening.</p>
+         <p>I am</p>
+         <p>Yours truly</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

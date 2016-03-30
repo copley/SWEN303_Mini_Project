@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0328">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1876 October 11: to McLean</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Object #1022963 from MS-Papers-0032-0222.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1876-10-11">1876 October 11</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1876 October 11: to McLean<note xml:id="ftn2-273" place="foot" n="273"> ATL Object #1022963 from MS-Papers-0032-0222.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier</p>
+         <p rend="end">Monday 11th</p>
+         <p>Dear Sir Donald McLean.</p>
+         <p>I suppose you either get, or see, regularly, the Maori Paper (“Wananga”) published here: in the number to hand this morning—is a <hi rend="italic">loose </hi>advertisement, or Circular, respecting it—a copy of which I enclose, (as you may not have one sent you,) you will see what they say of “<hi rend="italic">Waka Maori.</hi>”</p>
+         <p>This number contains the Mao. Members’ speeches in the House, <hi rend="italic">re </hi>Hauraki Petition, and Sheehan’s speech <hi rend="italic">re </hi>Heretaunga Lands &amp;c.—(I have not yet <hi rend="italic">read </hi>them.)</p>
+         <p>I see old Pao. Pareko is dead: no doubt you will remember him.</p>
+         <p>I close in haste for Mail. I hope <hi rend="italic">you </hi>are well; I am so-so, suffering <hi rend="italic">still </hi>from the effects of a <hi rend="italic">fearful </hi>bad cold &amp; cough.—</p>
+         <p>I hear, that both yourself &amp; Mr. Ormond gave Sheehan “a Roland for his Oliver” <hi rend="italic">with Interest</hi>;—I shall be glad to see the “Hansard,” &amp; read it, when it arrives. I was pleased to find the House negativing the matter quietly on their voices.—May you have strength (physical), dexterity, &amp; patience to hold-out to the end!</p>
+         <p>     Believe me</p>
+         <p>             Yours truly</p>
+         <p>                     W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

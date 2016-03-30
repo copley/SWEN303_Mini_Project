@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0001">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1833 October 25: Hadfield to his mother Amelia Hadfield (nee White) </title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 1)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 20.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1833-10-25">1833 October 25</date>
+                  <name type="place">Plymouth</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70719/">Amelia Hadfield (nee White)</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1833 October 25 to his mother Amelia Hadfield (nee White) 
+         </p>
+      </front>
+      <body>
+      <p>Clarence Hotel, </p>   
+         <p>Plymouth,</p>   
+         <p>Oct. 25th. 1833</p>   
+         <p>My dear Mother, </p>   
+         <p>I received last night at eleven your note of the day before, but as I was rather sleepy, I delayed answering it till today.  You seem to think that I have not written often enough, but as I could not amuse you, having nothing to write, I did not like to trouble you with <hi rend="underline">a blank sheet</hi>.  But, as you tell me to write, I do <supplied>[so]</supplied> with great pleasure as I shall not now consider myself answerable for writing a letter which contains nothing.  I will in a <hi rend="underline">business-like manner first</hi> begin with telling all I know about the <hi rend="underline">Hero</hi>.  (But as I told George in my letter that nothing of importance had happened to her, I suppose you must ere this have learnt that much from him).  After leaving Gravesend in the first place, she did not <hi rend="underline">spring</hi> a leak, but in the darkness of night ran foul of another schooner and carried away a yard.  She returned to Gravesend, but left it the following day, and after being at sea for a few days with contrary winds put in to Ramsgate.  There she stayed till last Sunday when she again put to sea, but having run <hi rend="underline">foul of a pier she put back again</hi> to Ramsgate on Monday, but was by the last accounts (Wednesday’s list from Lloyd’s) to sail that day, and as we have had a fine easterly wind for 48 hours, she is expected in here today.  There is a Mr. Jones here, a surgeon (a lucky thing in case of necessity as he has leeches etc. etc.) who goes out in the Hero and is going to remain at Terceira.  He saw the <hi rend="underline">Hero</hi> at Gravesend and says she is the best vessel in the trade, with capital accommodation etc. and that Hurst is a good sailor.  I have not heard from Ivens since I wrote to you, nor do I intend writing to him.  I was surprised that I had not heard from you; it was three weeks before you did me the <hi rend="underline">favour</hi> of <hi rend="underline">letting me</hi> hear from you, I suppose you <hi rend="underline">thought</hi> that I felt not my absence from you.  </p>   
+         <p>I have not had much to amuse me for the last ten days as the weather has been bad and I have not been able to cross the water often to see the Leys (i.e. the ladies, for their two friends are gone to <!--[blank]-->).  I was over there yesterday; they are particularly kind and civil to me.  Mr. Ley who is a magistrate in both counties is very seldom at home.  Jones is staying with two Portugese, likewise passengers, a few doors from me.  I see them very often but as they cannot speak a word of English, nor can we a word of their language it is <hi rend="underline">capital fun</hi> to hear each other trying to explain anything; they are very good natured fellows and I am beginning to speak Portugese, but not <hi rend="underline">very</hi> well yet.  I think it is <hi rend="underline">very</hi> easy, it is <hi rend="underline">very</hi> like Latin.  But I was almost forgetting to tell <hi rend="underline">you</hi> what you most wanted to know, and that is <hi rend="underline">How I Am</hi>.  Now to tell you the truth, I have not been so well for many years as I am at the present moment; the air of Devon is delightful, it is as soft as that of Bonchurch without being so enervating; it is as warm here now as I can wish.  My appetite is so good that it almost astonishes me; I am sure it would astonish you!  I walk about 10 or 15 miles every day with Jones, and am not the least tired.  Jones says that my residence here has been of great service to me, and that he has no doubt about my recovery in St. Michael’s, <hi rend="underline">but that is not for him or me to decide</hi>.  I must be prepared for the <hi rend="underline">worst</hi>, but hope for the <hi rend="underline">best</hi>.  Now I think I have told you enough about myself to convince you that I am quite well here – but whilst I am on the subject I must mention (en famille) that Jones advises me to put a warm plaster on my chest which he says will prevent my wanting any blister etc. and I am going to take out some saline draughts to prevent sickness.  </p>   
+         <p>The country all along the coast of Devon, and part of Cornwall is beautiful.  It is very much in the style of the undercliff, but I cannot yet fix on any spot that can bear a comparison with Bonchurch.  The view of the harbour and the three towns from the top of W. Ley’s church is splendid; it surpasses anything I ever saw.  The shrubs and plants in Mount Edgecumbe Gardens are very beautiful, the Arbutus trees are as large as ours but more cut up with the wind, the Magnolias are immense, above 30 feet high, and they perfume the air thro’ the whole garden, I saw some Myrtles in his gardener’s cottage quite as fine as the <hi rend="underline">Archdeacon’s</hi> far famed trees. </p>   
+         <p>I was very happy to hear that you had a letter from Alexander so late as June and that he was then well.  I wish I had known Julia’s address as I should have liked to have written to her, but you will of course give my love to her when you write.  I can no longer get any franks as Sir H.W. has been gone some time, and I took leave of Lord Mount Edgecumbe yesterday, who goes to town to-day or to-morrow.  I have not been shooting for some time as I do not like going out merely with a keeper.  There is not much amusement in shooting without a little company.  I do not know whether you are tired of reading this yet or whether you will get thus far, but I am determined to make up in quantity what is deficient in quality, as I shall not, I suppose, write again, but I may as well agree upon something.  Suppose that I am not off by Sunday, which I expect I shall, I will write again on Monday.  Will that do?  And now, my dear Mother, I must conclude by telling you again what I have often told you before, that I will always write directly if any thing happens either agreeable or disagreeable so that you must not be always expecting to hear bad news when you do not hear anything.  I was very glad to hear that you are all well.  Give my love to my Father and – but it will not do to begin to mention names as I have not room for all, - to them all individually, both <hi rend="underline">present and absent</hi>.  Tell them that I shall espect to hear from them all when I am in St. Michael’s.  Believe me ever,</p>   
+         <p>Your most affectionate son,</p>   
+         <p>Octavius Hadfield.</p>   
+         <p>P.S. Just as I was closing this there was a false alarm, Jones came to tel lme that the Hero was come but on going down to get into a boat to see her it happened to be the Rebel from London.  By the by you will perhaps see in the paper the wreck of a vessel called the Hero of the I.W. but it is not <hi rend="underline">my Hero</hi>.
+</p>
+      </body>
+   </text>
+</TEI>

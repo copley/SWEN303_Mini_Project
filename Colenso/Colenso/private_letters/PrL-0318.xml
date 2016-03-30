@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0318">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1876 April 5: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1876-04-05">1876 April 5</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1876 April 5: to Luff<note xml:id="ftn2-262" place="foot" n="262"> ATL MS-Copy-Micro-0485-4.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>April 5/76<lb/>9 a.m.</p>
+         <p>My Dear Sir</p>
+         <p>Your letter (Feb. 10) is to hand,—but I have <hi rend="italic">no time</hi> to answer it, or to write by this Mail—for in paper, ½ hour ago, I find “Mail closes at 10 a.m. <hi rend="italic">Friday</hi>!! (it has been all along— “at 8 p.m. on Friday next, 7<hi rend="sup ">th</hi>—but the S.F. M. Str. has broken down off the Akaroa—&amp; now our Mail must be rushed instanter by Sn F to Auckland.</p>
+         <p>I fear I shall not have time to send a single paper to you or to any one and Grubb has been unwell, &amp; on a month’s leave of absence—I have not seen him for 3 weeks. I have been away—1<hi rend="sup ">st</hi> at Wairoa, bar-bound there a week! 2ndly at Danneverk &amp; Tamaki, school there, (bitterly cold snow daily on hills)—retg. only on Monday night, 3<hi rend="sup ">rd</hi>, to make out Teachers’ accounts for Quarter—&amp; off again (D.V.) on the 10<hi rend="sup ">th</hi>—for all April, <hi rend="italic">certain. </hi>I am toly. well—barring Rheumatism.—Glad to find you &amp; yours were well. Governor has been here, &amp; left yesty. mg.—<hi rend="italic">I</hi> did <hi rend="italic">not</hi> see him, being absent. Tylee is still <hi rend="italic">very unwell—ditto Friberg</hi>.—both, I fear, past work.</p>
+         <p>Good bye.—Some Papers from you to hand, no time yet to look at them.</p>
+         <p>     With kind regards</p>
+         <p>             Yours truly</p>
+         <p>                     W. Colenso.</p>
+         <p>Your letter shall be sent next mail—It is in my iron safe.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0625">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1886 April 28: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1886-04-28">1886 April 28</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1886 April 28: to Balfour<note xml:id="ftn3-343" place="foot" n="343"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Thursday evening<lb/>April 28th 1886</p>
+         <p>Mr D.P. Balfour</p>
+         <p>My dear Sir</p>
+         <p>I have long had here before me on my writing table your kind &amp; welcome letter (yours always are) of April 3<hi rend="sup ">rd</hi>. received on 7<hi rend="sup ">th</hi>.—and with it spns of Moss: and now, I have another box of spns, (to hand yesterday)—and so, I must e’en <hi rend="italic">begin</hi> a letter in reply to you, though I shall not finish it right off—as I wish to examine this last spn of your Moss (which I <hi rend="italic">did</hi>—yesterday—hoped to do <hi rend="italic">this</hi> day, but is dark, cloudy, &amp; raining, too much so for daylight analysis).</p>
+         <p>The first lot of Moss was of no service (having had from you <hi rend="italic">better leafing</hi> spns before)—these capsules being all <hi rend="italic">old</hi> (2 years perhaps) &amp; broken, not <hi rend="italic">one sound</hi> one in the whole lot.—In the <hi rend="italic">last</hi> lot (now being freshened in water &amp; rain) there are 2–3 sound capsules, but wanting both the open culum &amp; the calyptha; no doubt we shall have them <hi rend="italic">all</hi> by &amp; by.</p>
+         <p>The next big piece—is a portion of a nice semi-dendroid <hi rend="italic">Hepatica</hi> (of which I should like to have <hi rend="italic">more</hi> &amp; in fruit—<hi rend="italic">which</hi>, if it grows near you &amp; marked, <hi rend="italic">it will soon be</hi>,) I think it is a spn of <hi rend="italic">Plagiochila</hi>—allied to those described (by H), also to mine in Vol XIV, “Trans” P.340, but <hi rend="italic">fruiting spns are needed</hi>, the small, wee, bit, is a young <hi rend="italic">frond</hi> of a fern, <hi rend="italic">Trichomanes venosum</hi>,—common on trunks of Tree Ferns. I will enclose a few fruiting spns that you and bairnies may admire its elegant wineglass shaped involucre. I will also enclose spn of a lovely <hi rend="italic">Hymenoglossum</hi> which I discovd in 1840, or so, &amp; described in 42, in “Tasmanian Journal Nat Science”, as <hi rend="italic">H. Frankliniarum</hi> after Lady Franklin (but Hooker &amp; co have cut it down to <hi rend="italic">H.</hi>
+            <hi rend="italic">eruginosum</hi> a Tristan dAcunha fern)—this however, is largely disputed by <hi rend="italic">many</hi> including W.C. I have never seen it here—anywhere—till last year, when lo! 10000s in the <hi rend="italic">one</hi> forest, clothing fern trees. (I may have sent it you before? but note its <hi rend="italic">Stellate</hi> pubescence)—neither Sturm, nor Hamilton, nor Hill, nor Winkelman, had seen it before.</p>
+         <p>Of course you will have seen mention of me (in the <hi rend="italic">old</hi> political groove) in our papers; ’twas all of a <hi rend="italic">sudden</hi>, soon over—<hi rend="italic">with me.</hi> I have <hi rend="italic">not yet</hi> received a line from Govt re my heavy job, sent them in Feb. <hi rend="italic">I can not</hi>
+            <hi rend="italic">understand it</hi>, such however, is anything but helping w. the work. Had I heard from them, I should have continued doing a little.</p>
+         <p>I purpose, if possible, going again to <hi rend="italic">my home</hi> in the woods, on 6th or 7th May, &amp; shall be <hi rend="italic">absent</hi> that month.</p>
+         <p>Our (that I say, not, their) Scty, called “<hi rend="italic">First ordy meeting of Session </hi>86 on Monday 19<hi rend="sup ">th</hi>. inst, at 8.” I wrote saying, it was illegal—as <hi rend="italic">month</hi>, day of <hi rend="italic">week</hi>, &amp; <hi rend="italic">hour</hi> (see rules). I have heard very few attended, and great <hi rend="italic">disappointment</hi>.</p>
+         <p>
+            <hi rend="italic">Last</hi> week, including last <hi rend="italic">Sunday</hi>, I was <hi rend="italic">very unwell</hi>—something strange, <hi rend="italic">could not do anything</hi>—a <hi rend="italic">sad loss of time</hi> to me.</p>
+         <p>Thursday mg, 29<hi rend="sup ">th</hi>.—The dark dull weather still continues, (doubly so in this house so surrounded in trees) but the rain is fine, genial, mild—and I am glad to see it, as it will (I think) ensure plentiful feed for the winter.—I shall now find my letter &amp; post tonight. I have a fancy that you may <hi rend="italic">now</hi> get your mail twice a week. In looking you out a few spns of fern this mng—I have been obliged to give you the smaller ones,as the larger are nearly 2ce this size, &amp; would not go into a letter without breaking.</p>
+         <p>If I ever (again) visit Kuripapango I will try to remember and let you know,—but my visit would not come off before Xmas or so, and where may I be then?. Not <hi rend="italic">here</hi> perhaps.</p>
+         <p>I am both pleased and interested in the rapid and solid growth of your library—it surely beats all Country Town Libraries! all I can hope additional, is, that you (all) do make <hi rend="italic">good use</hi> of your stores otherwise books are much as misers gold.</p>
+         <p>Should you have any spn to send me, do not do so after (say) 5<hi rend="sup ">th</hi>. May—While I <hi rend="italic">may </hi>be absent until you hear from me;—for all that the P.O. send on to N to me, they charge <hi rend="italic">Double</hi> postage on. I have kicked about this over &amp; over, but no use.</p>
+         <p>With very kind regards &amp; best wishes, Believe me</p>
+         <p>                             Yours truly</p>
+         <p>                                             W. Colenso.</p>
+         <p>Have not seen P.D. since Feb.</p>
+      </body>
+   </text>
+</TEI>

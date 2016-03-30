@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0217">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Hawke’s Bay Herald 13 February 1899.</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <date when="1899-02-13">1899 February 13</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold italic">Hawke’s Bay Herald 13 February 1899.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+        <hi rend="bold">THE LATE MR COLENSO</hi>
+      </p>
+      <p rend="justify">The funeral of the late Rev. William Colenso took place yesterday afternoon, and was attended by a very large number of settlers from all parts of the district. Amongst the wreaths sent was one from the congregation of the parish in Woodville, where Mr Colenso often preached, in token of loving remembrance. The service at the graveside was impressively conducted by Dean Hovell, assisted by the Bishop of Waiapu. </p>
+      <p rend="justify">The Rev. T.A. Cato, preaching at the Cathedral last night from the text “It is finished,” made feeling reference to the death of the late Rev. William Colenso, and said that he felt sure the people of Napier, especially the poor, would greatly miss the many benevolent actions of the deceased gentleman. He referred to Mr Colenso as an early pioneer of the colony, and one who had gone through many trials and vicissitudes, with exemplary patience and forbearance. The choir, after the sermon, sang the hymn “Days and moments swiftly flying,” and at the conclusion of the service Mr Sharp played the “Dead March” from “Saul,” the choir and congregation remaining standing.        <lb/>
+      <lb/>Messrs C.H. Edwards, E.W. Knowles, and J.B. Fielder are the executors of the will of the late Mr Colenso. The deceased leaves £1000, to be invested by the Mayor and Councillors, and divided annually amongst 20 of the poorest families of Napier. The sum of £500 is bequeathed to the annual purchase of prizes for children attending the State schools in Napier; £500 for poor and distressed seamen or other strangers desiring assistance; and £500 to be invested for the object of assisting discharged prisoners from Napier gaol; £200 to the Hawke’s Bay Philosophical Society, which body also receives all his dried plants, specimens, natural history specimens, framed portrait of Sir J. Hooker and Allan Cunningham, an enlarged photograph of the donor, and a photo of an ancient bronze bell with Tamil inscription, found in New Zealand, all these gifts to be held in trust by Mr S. Hill and Dr. Spencer and Mr J.W. Carlile (the two latter deceased since the signing of the will). The bell referred to goes to the Colonial Museum, Wellington, which also receives a copy of the New Testament in Maori, printed by Mr Colenso at Paihia, Bay of Islands, in 1837; £100 is bequeathed to the Anglican Church, Woodville, to be devoted to the completion of the chancel in memory of Bishop Stuart; his theological works to the Waiapu Diocesan Library, as well as a complete subscriber’s set of the “Transactions of the New Zealand Institute,” and the MSS. of the “Census of the Maori Population of Hawke’s Bay and Neighborhood,” as taken at the request of the Bishop of New Zealand in 1845. The Maori Dictionary manuscripts go to the Government, on certain terms, and the deceased’s scientific books are included in his general estate.</p>
+    </body>
+  </text>
+</TEI>

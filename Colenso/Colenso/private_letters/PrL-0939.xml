@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0939">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1895? Date?: to Mortensen</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MTG HB m84/20, 57802. Incomplete letter from Napier, related to preceding.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75270/">Mortensen</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1895">1895?</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1895? Date?: to Mortensen<note xml:id="ftn3-747" place="foot" n="747">MTG HB m84/20, 57802. Incomplete letter from Napier, related to preceding.</note>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="italic">[Pages missing]</hi>
+         </p>
+         <p>to help him on a Sunday, he being unwell from Rheumatism, but I was engaged here at the Cathedral for that Sunday, and so could not go: and since then Mr. Robertshawe has also written for me to help him, but I don’t think I shall run any risks in travelling yet—wait until <hi rend="italic">spring is come.</hi>—</p>
+         <p>
+            <hi rend="italic">Two </hi>other matters in your kind letter please me: <hi rend="italic">one</hi>, your good fatherly remark about your dear little girl getting the big parcel, and being excited over it!! I could fancy her coming along over the hilly road—much as I used to see <hi rend="italic">Erna</hi> (when a little girl) coming from school, and I in the verandah of your father’s well-known house. The other was your proper remark about your country people being good <hi rend="italic">Lutherans</hi>, and not liable to be drawn aside by <hi rend="underline italic">new</hi>
+            <hi rend="italic"> </hi>sects; that is good information: for Luther was a good and true man, a faithful servant of <hi rend="smallcaps">God</hi>: I have read <hi rend="italic">many </hi>of his books, and have always had the highest respect for him. Sometimes I wonder at people who can read, with the New Testament in their hands, being seduced so easily to leave the good old path of their fathers, and to listen to <hi rend="italic">novelties</hi>—to <hi rend="underline italic">lies</hi>! such as that of the Mormons, the Adventists, and others, and, <hi rend="italic">worst of all</hi>, to that rowdy lot—the “Army”! so clearly mentioned by the Apostle Paul—2 Timothy <hi rend="italic">ch. </hi>3, <hi rend="italic">v</hi>. 5, 6, 7, 13: and <hi rend="italic">ch. </hi>4, <hi rend="italic">v</hi>. 3, 4.</p>
+         <p>
+            <hi rend="smallcaps italic">God</hi>
+            <hi rend="italic"> bless you, &amp; yours</hi>, dear Hans, </p>
+         <p>           With much love,</p>
+         <p>                           Believe me yours sincerely</p>
+         <p>                                           W. Colenso.</p>
+      </body>
+  </text>
+</TEI>

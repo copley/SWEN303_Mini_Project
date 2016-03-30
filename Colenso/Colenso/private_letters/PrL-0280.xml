@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0280">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1872 November 23: to McLean</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Object #1026339 from MS-Papers-0032-0222.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1872-11-23">1872 November 23</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1872<note xml:id="ftn2-207" place="foot" n="207"> The letter is dated only “Saturday night (23rd.)”, but refers to Monday 2 December, which, during Colenso’s tenure as School Inspector, occurred only in 1872. </note> November 23: to McLean<note xml:id="ftn2-208" place="foot" n="208"> ATL Object #1026339 from MS-Papers-0032-0222.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier</p>
+         <p rend="end">Saturday night (23<hi rend="sup ">rd</hi>.)</p>
+         <p>Hon. D McLean</p>
+         <p>&amp;c &amp;c</p>
+         <p>My Dear Sir</p>
+         <p>It has occurred to me to drop you a line—with reference to what you said this morning, that you should like to have a conversation with me, &amp;c.,—that, I leave town by Coach on Monday morning to visit the <hi rend="italic">nearer </hi>Country Schools, &amp; intend returning to Napier on the Friday night, or early on Saturday morning (29<hi rend="sup ">th.</hi> or 30<hi rend="sup ">th</hi>. inst.)—and could call on you on the Saturday (30<hi rend="sup ">th</hi>.) if that would suit you. And, if so, please let me have a line from you to that effect. I am</p>
+         <p>My dear Sir</p>
+         <p>truly yours</p>
+         <p>Wm Colenso.</p>
+         <p>P.S. I should also tell you, that on the Monday following (December 2<hi rend="sup ">nd</hi>.) I have again to leave town by early Coach to visit the farther Country Schools, Waipawa, Waipukurau, Hampden, &amp;c,—&amp; shall not return until late on the following Saturday.</p>
+      </body>
+   </text>
+</TEI>

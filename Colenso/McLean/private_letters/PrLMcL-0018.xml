@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0018">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1867 March 20: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1015464</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1867-03-20">1867 March 20</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1867 March 20 McLean to Colenso (#1015464) </p>
+		</front>
+		<body>
+			<p>Napier 20 March 1867. My dear Sir </p>
+			<p>I am much obliged for yours of last evening respecting Tariha. </p>
+			<p>For upwards of a year and a half Tariha has felt some jealousy respecting the Wairoa. I think it can in some measure be traced to his being slighted by some of the Wairoa chiefs since he has been living with a woman named Harriet from there. Tariha also considers that he should be more fully recognised as representing the late Henare te Apatare who lived on the left bank near Mr Hamlin’s. I am vexed to find that with many good qualities Tariha has lately been very much given to drink. </p>
+			<p>In reference to an invitation from the Wairoa people I expect that has less to do with Tariha’s feelings than what I have referred to, but I shall endeavour to allay any displeasure by explaining why an invitation was not sent to him. </p>
+			<p>I remain my dear Sir </p>
+			<p>yours very truly </p>
+			<p>Donald McLean </p>
+			<p>P.S. I shall not be able to attend the meeting till after the 24 when I expect one of the Ministers to accompany me to the Wairoa. DMcL </p>
+		</body>
+	</text>
+</TEI>

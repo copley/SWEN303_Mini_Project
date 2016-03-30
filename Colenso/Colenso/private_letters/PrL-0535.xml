@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0535">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1883 May 19: to Hector</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Museum of New Zealand—Te Papa Tongarewa MU000094/007/0006</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">Hector</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1883-05-19">1883 May 19</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1883 May 19: to Hector<note xml:id="ftn3-184" place="foot" n="184"> Museum of New Zealand—Te Papa Tongarewa MU000094/007/0006 </note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, May 19<hi rend="sup">th</hi>., 1883.</p>
+         <p>Dear Dr. Hector,</p>
+         <p>I have just despatched my Eng. letters,—and as I have mentioned your name in mine to Sir Jos. Hooker, I now write to you.</p>
+         <p>A recent letter from our mutual friend (Hooker) informs me, that in order to my election to the Royal Society (<hi rend="italic">your</hi> Society),—I should obtain <hi rend="italic">two</hi> Certificates <hi rend="italic">from Fellows resident here in the Colony</hi>. (He, Sir Joseph, signing, &amp;c, &amp;c., with others at home.) Now I only know of yourself and Dr. Buller as Fellows, and therefore I am driven to apply <hi rend="italic">to you</hi> for the required Certificates. Indeed, if I knew of several others, it is highly probable that I should <hi rend="italic">first </hi>apply <hi rend="italic">to you</hi>. Then, again, I do not know what kind of form of Certificate is required: perhaps <hi rend="italic">you</hi>
+            <hi rend="italic">do</hi> having passed that ordeal. If you can aid me in this matter, please do so quickly—Bis dat qui cito dat.</p>
+         <p>I have only lately returned from the forests (70-m. Bush), whither I went in end of March returning early in May. I had hoped to have a delightful April—such as I have formerly often enjoyed in travelling: but, alas! it was the most wretched rainy and wet autumnal month that I have ever known in N.Z.!—only a <hi rend="italic">very few</hi> fine days.</p>
+         <p>I found, however, a few new things—mostly lower Crypts.—also, what I believe to bethe larvæ &amp; Chrysalides of <hi rend="italic">Pyrameis Gonerilla</hi>: have you ever seen them? Enys, who kindly called on me last week, <hi rend="italic">en route </hi>for England, was much pleased with them especially the pupa, which he had not before seen: by him I sent a small parcel of seeds to Kew, of such as I happened to have by me. I would rather than a ₤10. note I had received Sir Joseph’s letter (<hi rend="italic">re </hi>seeds, &amp;c.,) a month earlier: I am now about starting afresh to the Bush to get him some seeds &amp; plants:—(thinking on Sinclair’s fate!)</p>
+         <p>We recommenced our usual Annual Metings last Monday,—though I was hard put-to—as usual! I enclose a clipping from our local of a brief <hi rend="italic">résumé </hi>of our doings, which is pretty correct. <hi rend="italic">You</hi> will note that I have taken up a rather difficult and important subject,—shall I finish it?</p>
+         <p>I am pretty well—Rheumatism daily of course!—stood out my wet month in Bush very well.</p>
+         <p>I have not heard from you for a very long time: hope you are keeping well.</p>
+         <p>     Believe me,</p>
+         <p>             Yours faithfully</p>
+         <p>                     Wm. Colenso.</p>
+      </body>
+   </text>
+</TEI>

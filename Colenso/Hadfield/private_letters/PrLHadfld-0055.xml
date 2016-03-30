@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0055">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1846 January 9: Octavius Hadfield to his mother Amelia Hadfield (nee White)</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  Page 129.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 1.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1846-01-09">1846 January 9</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70719/">Amelia Hadfield (nee White)</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1846 January 9: Octavius Hadfield to his mother Amelia Hadfield (nee White)</p>
+      </front>
+      <body>
+      <p>Wellington,</p>
+      <p>New Zealand.</p>
+      <p>January 9th. 1846</p>
+      <p>My dear Mother, </p>
+      <p>The last ship from England brought me two letters; the latter <!--must be "letter"?--> written in August assured me that you were all there, by the blessing of God, tolerably well; that you had heard of my illness &amp; removal to this place; &amp; that however you might regret that I was no longer to minister to the church of God, nor probably survive much longer, you were willing to leave me in the hands of our Heavenly Father, Who is infinitely wise &amp; good, however inscrutable may be His counsels, or unsearchable His ways.  What an inestimable blessing it is to feel entire - absolute resignation to the Will of God!  What palpable folly is implied in the slightest murmer - nay the least wish in opposition to it!  The truth is we deceive ourselves by imagining that we possess some knowledge &amp; then draw conclusions from our supposed knowledge as to what would tend most to our own good or happiness, the welfare of the church &amp; the glory of God; when in fact we are utterly  absolutely ignorant upon these subjects.  We know at best but a part of God's system &amp; procedure in the government of the universe, &amp; even that we know but partially, but were our knowledge more than it actually is, the more perfect acquaintance with one part of a system, while ignorant of its reference to other parts, &amp; of the whole, cannot be called knowledge.  How strange it is to see that which is man's highest wisdom - resignation to the will of God, considered by the world as mere stupid insensibility - the result of ignorance!  If we could picture to ourselves a mere created being perfectly good &amp; wise, we should gladly submit to his guidance, &amp; to his will: how much more shall firm faith in a Being absolutely &amp; infinitely powerful, wise &amp; good; - &amp; moreover bound by an everlasting convenant sealed with the death of His son, to be our Guide, our Friend, our Father, beget in us, not only calmness &amp; resignation to His will, but peace &amp; joy &amp; lively gratitude!  How easy it seems to have these ideas clear in the intellect, but how difficult to have the corresponding affections always lively and active in the heart!  It is a misnomer to define man as a rational being: knowledge would never satisfy him: his knowledge is merely a means to an end.  He has affections that have not their full scope on earth, that meet with not earthly object wherein to rest; they turn even now to God as their only proper object, but without full satisfaction; "the fullness of joy" &amp; bliss is reserved for that happy &amp; glorious period, when "this mortal shall have put on immortality", when God shall be known &amp;" loved without imperfection, without interruption, without end.  May I, &amp; may you, my dear Mother, &amp; may you all, know more of God - God reconciled in Christ, &amp; love Him more!  We talk of loving God &amp; loving one another, but when we come to analyse our secret thoughts &amp; motives &amp; resolve them to their component parts, how much of selfishness, alas! do we discover in everyone.  How many times, how many thousand times, have I discovered, when I least expected it, upon an examination of my heart, that selfishness in some shape or form was interwoven with what I imagined disinterested motives!   But if an impartial weighing of our thoughts and motives &amp; acts produces this conviction, what must I appear in the eyes of the heart-searching God?  My sins indeed shall be washed away in the blood of Jesus Christ - my guilt be removed, but where, where, that holiness of heart, that purity of affections, that burning love, which should exist in one when one trusts shortly to join the heavenly host in ascribing honour &amp; glory &amp; praise to God, &amp; to the Lamb?</p>
+      <p>I cannot sufficiently thank you all for your very kind letters; pray give my especial thanks to Henry, George &amp; Amelia whose letters I have received since I last wrote.  I hope I am not wrong in feeling that though I am absent from you all, &amp; that therefore you must feel a little anxiety about me, it is only that which must necessarily be felt by those who love one another.  It must be a great satisfaction to you to know that I am with friends who are as kind to me as it is possible for any human beings to be; no language could give you any idea of their kindness, &amp; therefore I shall not attempt it: may God reward them and bless them abundantly.  I have had the pleasure lately of seeing my old friend Archdeacon W. Williams; he left us about a month ago; I admire &amp; love &amp; respect him more &amp; more.  He seems to delight in coming to sit by my bed-side to talk and pray with me.  It is highly satisfactory to me to think that the church here has such a man at its head; it seems to me a token of God's love to it &amp; something like an indication of His purpose to bless it.  I have found that he and all my friends disapproved of my making an attempt at returning to England, &amp; consequently that seems like an indication of the will of God on the subject.  I do not suffer as much as I did; I get used to the constant pain, &amp; besides, find out little ways of alleviating it, by being very quiet &amp; otherwise taking care of myself.  I employ myself occasionally in writing to some of my native friends, among others Old Rauparaha, whose name you may see in the papers; by this means I do a little good.  I have also been &amp; still am engaged in refuting the silly assertion made in Parliament &amp; elsewhere, that it is impossible to preserve and civilise an aboriginal people like these.  I have quite satisfied the Judge - Mr. Chapman, a very clever man, that my plan is feasible:  if our new Governor should take the same views of it, an attempt may be made.  It is painful to read the nonsense, nay falsehoods, uttered in Parliament by the Opposition on the subject of N.Z., &amp; perhaps more so to see the inability of Ministers, tho' acting rightly, to refute it, &amp; defend their own measures.  And now, dear Mother, I must conclude, with requesting you to give my most affectionate love to my Father, &amp; my dear brothers &amp; sisters.  Pray remember to all friends.</p>
+      <p>Ever most affectionately yours,
+      </p>
+      <p>Octavius Hadfield.</p>
+      </body>
+   </text>
+</TEI>

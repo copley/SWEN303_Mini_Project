@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1112">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>16 June 1865: Hector to Hooker.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">James Hector</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Kew DC 174, 456-458, ATL Micro-MS-Coll-10-16, 470-473.</p>
+         <p>Transcription published in "My Dear Hooker: 
+Transcriptions of letters from James Hector to  
+Joseph Dalton Hooker between 1860 and 1898", Rowan Burns &amp; Simon Nathan.  Geoscience Society of New Zealand miscellaneous publication 133B, 2012.  ISBN 978-1-877480-21-8. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133B.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1865-06-16">1865 June 16</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hector to Hooker, 16-6-1865, Kew DC 174, 456-458, ATL Micro-MS-Coll-10-16, 470-473.</p>
+      </front>
+      <body>
+      <p> 
+Geological Survey of New Zealand </p>
+         <p>Dunedin</p>
+         <p>16th June 1865 </p>
+         <p>My dear Hooker, </p>
+         <p>In your last letter you say you will be glad to propose any one I recommend for F.L.S.</p>
+         <p>I will take advantage of your kind offer for myself &amp; for John Buchanan. I think he
+quite deserves it as he has worked very hard. What are the Fees? If elected you can apply to 
+Stanford – Charing Cross for them. By the way I 
+am in rather an awkward scrape. In printing 
+off Colenso’s Essay I put F.L.S. after his name
+. I dont know why but I fancied he was a very 
+old member of the Society. He writes me that he
+ was not aware of his having been elected but 
+that he expects that he 
+is by this time – I really hope he 
+is as I have 1,000 copies of the Essay 
+printed off with the letters F.L.S. after his name.</p>
+         <p>Might I ask you to propose him 
+if you have not done so. I am
+ certain he will feel it to 
+be a great compliment &amp; a recognition of 
+his services in the cause of Botany.</p>
+         <p>I hope you will have received all the tracings of the fossil plants before this reaches 
+you. They were sent by last mail. If you see your
+ way to naming any of them please send the
+duplicate tracings with the names to Wellington which will be my future adress.</p>
+         <p>I have now a complete set of drawings of 
+all the organic remains that have yet been 
+found in New Zealand &amp; I only wish I knew how 
+to get them described &amp; published. I have always planned my work as if I were to get 
+home &amp; take it with me for publication so that 
+remaining out here puts me in a very disadvantageous possition in that respect.</p>
+         <p>I have a curious theory about the cause 
+of (Geologically speaking) – temporary[?] 
+alternate submergence of the N. &amp; S. Hemispheres sketched out for you but I wont send it by 
+this mail, as I want to think a little more about
+ it. It occurred to me 
+more than 2 years since
+but I am so badly off for Books out here that I 
+could not refer to what others have said on the 
+subject. By the way I wish when any book comes out that you think I should see, if you 
+happen to be passing Stanford’s just give him a 
+note[?] to send it to me by Book Post. I have 
+ordered the Quarterly Journal of
+ Science from seeing one number with a sheet ----- of your 
+Flora N.Z.  Is it to be considered reliable? I thought the discussions very good.  </p>
+         <p>When are copies of the 
+Flora N.Z. coming out for the market. My copy is nearly worn 
+out with the constant thrashing of borrowers. 
+I am sure I could sell 150 copies here right 
+way.  
+</p>
+         <p>With kind regards to Mrs. Hooker &amp; Sir William I remain Ever Yours affectionately  
+James Hector </p>
+         <p>Dr. J.D. Hooker </p>
+         <p>Kew</p>
+         <p>          
+         I enclose a tracing of another plant that Buchanan has made out. The part within the 
+red line is slightly “helped” in the drawing – but the rest is a faithful copy. I think you will
+find it interesting. It is from the 
+Upper Secondary Coal Formation at 
+Shag Point. I have already sent you a 
+lot of things from the 
+same rock. Buchanans insists on its being a 
+My----.</p>
+         <p>Can afford the time for him, I would like 
+to send Buchanan to work at the rocks in
+situ. It would be better than his working at 
+a ------ --- specimen as
+ he has been doing. </p>
+         <p>JH </p>
+</body>
+   </text>
+</TEI>

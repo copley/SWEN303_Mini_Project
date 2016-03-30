@@ -1,0 +1,31 @@
+extends ../node_modules/jade-bootstrap/_bootstrap
+
+head
+  title=title
+
+
+// this is the main home page of the website.
+
+
+block body
+  +navbar("Colenso Database", "dropdown_menu")
+    +nav_item("/", "active") Home
+    +nav_item("/browse") Browse
+
+
+  .container
+    h1 #{title}
+    p Welcome to #{title}. Please use the search below to discover the
+      |range of documents available. The site provides the following features
+      |<br>
+      |<br>1 . Text Based String Search. Also a Logical Operators and Wildcard search feature.
+      |<br>2 . XPath Tag search feature. No need to write TEI namespace.
+      |<br>3 . Raw text view capability. URL email capability.
+      |<br>4 . Upload and Download document feature.
+      |<br>5 . Update Markup feature.
+
+
+    h2 Enter Search Below
+    form.form-group(action="/search1", method="get")
+      input.input-block-level(type="text", name="query", placeholder="Query")
+      button.btn.btn-large(type="submit", name="place", value="1") Submit

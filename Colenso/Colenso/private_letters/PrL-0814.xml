@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0814">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1892 January 28: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1892-01-28">1892 January 28</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1892 January 28: to Harding<note xml:id="ftn3-564" place="foot" n="564"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke<lb/>Thy. mg., Jany. 28/92</p>
+         <p>Dear Mr. Harding</p>
+         <p>Having you much in mind, and being to a large extent <hi rend="italic">idle</hi>!!—I have determined to write you a note, hoping to draw you out (as you do <hi rend="italic">not </hi>wk. by nt.) &amp; have <hi rend="italic">no </hi>dear little Victor to attend to—bodily, at least. I hope you continue to receive <hi rend="italic">good </hi>news concerning him.</p>
+         <p>I suppose your weather at N. since I left has been pretty much the same as here, inland—cold &amp; wet: I have been obliged to keep my cloak on in-doors, &amp; at the ordy. table at meals! whereas on Wedy. &amp; <hi rend="italic">Thursday </hi>(<hi rend="italic">last </hi>week) I would prefer being in shirt-sleeves: yesterday it was again <hi rend="italic">very fine</hi>, so that <hi rend="italic">these Races </hi>came off well (I am told)—town, of course, shut up &amp; deserted.</p>
+         <p>While at Waipawa (dining, &amp;c. together) Smith, M.P., introduced me to Buick MP. (why not <hi rend="italic">Brick</hi>?)—<hi rend="italic">you </hi>
+            <hi rend="underline italic">may</hi>
+            <hi rend="italic"> </hi>go to hear him tonight. I, or rather, <hi rend="italic">we</hi>, are amused (is this the right word?) at Tom. T. taking Chr., &amp; saying what he did at B’s. meeting at Hastings! at Table this mg. it was remarked “<hi rend="italic">T.T. jumping Jim Crow again!</hi>” Is the vain man thinking of coming out against Russell?——</p>
+         <p>And W. Marshall is back again!! <hi rend="italic">never settling down</hi>; although he had everything he could wish for in his late Incumbency (for I see in “D.T.” he had “<hi rend="italic">resigned</hi>” it!)—</p>
+         <p>Did <hi rend="italic">you </hi>notice in “N.Z. Times” a big advt.-letter in French (w. Eng. translation) from Onslow to a Dr. de la Bachoue, Fr. Consulate, Wgn., in praise of Mother Mary’s N.Z. medicines; &amp; also, that O. “had used them himself, for some time, &amp; found them satisfactory”? This reminds me of a par. in a Scotch P. I recd. on leaving &amp; brought with me—I will copy it, separate, &amp; enclose: you might put it into your “Typo”—if not approaching to <hi rend="italic">scan. mag.</hi>—or hand it to Ed. “D.T.”—–</p>
+         <p>I have recd. here, 3–4 nice letters, one from a Teacher, wondering why I was not one of the Comee. in Smith’s (or Tregear’s) Polyn. Club—of which “the Q. of Honolulu is P.”—and one, particularly good from my good friend Rev. R. Stewart, Woodville—who thought I was still at N. Yesty. I dispatched my Eng. lot, L. &amp; P. I am, I think, steadily tho’ <hi rend="italic">slowly</hi>, improving in health—i.e. strength &amp; voice: if I <hi rend="italic">continue </hi>to do so I remain some time longer, if <hi rend="italic">not </hi>I return to my Books &amp; Home work as I <hi rend="underline italic">cannot</hi> be <hi rend="underline italic">idle</hi>—which I abhor.</p>
+         <p>So now, Good bye: if you <hi rend="italic">can </hi>write to me do so, kindest regards,</p>
+         <p>Yours very truly, W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

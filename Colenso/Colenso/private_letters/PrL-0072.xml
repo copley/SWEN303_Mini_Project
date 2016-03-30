@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0072">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1848 March 23: to Morris</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Papers-7497.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/26738/">Morris</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1848-03-23">1848 March 23</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1848 March 23: to Morris<note xml:id="ftn1-88" place="foot" n="88">ATL MS-Papers-7497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Mission Station, March<lb/>23, 1848.</p>
+         <p>Mr. W. Morris.</p>
+         <p>My dear Sir</p>
+         <p>Yours of the 21<hi rend="sup">st</hi> I received on the same day, and thank you much for your kind and warm feelings so freely expressed. I can, however, but believe, that you magnify greatly the <hi rend="italic">very few </hi>little offices which it has been in my power to do for you since we have known each other. I scarcely need say to <hi rend="italic">you</hi>, that I shall always consider it a pleasure to be able to aid you in any way in my power. We all, at one time or another, need each other’s assistance, during our passage through life.</p>
+         <p>I am now about to leave on my long journey. I expect to be back about the middle of June. We may not see each other again. You leave us with regret on my part, and I hope your successor (if one comes) may be so friendly a neighbour.</p>
+         <p>And now that you are, as it were, retiring from the turmoil and bustle and anxiety of active life, allow me, as a well-wisher to your interests, to suggest, that you seek to turn your thought towards those things which are solid and sure, and which only can bring a man true peace at the last.—I wish you, from my heart, the <hi rend="underline italic">best</hi>
+            <hi rend="italic"> blessing</hi>, when I say, May <hi rend="smallcaps">God</hi>, in mercy, cause His Holy Spirit so to shine within, as to lead you to a loving acquaintance with our Saviour Jesus Christ.—Amen.</p>
+         <p>I enclose a little Prayer Book for your acceptance in token of remembrance and of kindnesses received from you: also, two little books of Tracts, and a copy of a little publication of my own. Mr. Kier will supply you with whatever you may require, and</p>
+         <p>       Believe me ever<lb/>            Very sincerely yours<lb/>                       William Colenso.</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0200">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1897 Australia of the past . Hawke’s Bay Herald 4 December.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1897-12-04">1897 December 4</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1897 </hi>
+                  <hi rend="bold">Australia of the past</hi>
+                  <hi rend="bold">. 	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 4 December.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps"> Sir</hi>,—In your paper of this morning—in your interesting article on “Australia of the past,” you have two items, quotations, that, I think, are scarcely accurate,—at least, not without some correction or explanation: viz., (1.) “On 7<hi rend="sup ">th</hi>. February, 1788, the colony of New South Wales was taken possession of in due form,” &amp;c., &amp;c., (quoting from Marcus Clarke). And, again, (2.) “It is scarcely known to the majority of the Australian people that Phillips was the man who founded their country, and that Cook was never inside the Heads of Port Jackson,” writer Louis Becke.</p>
+         <p>Now in Cook’s voyages, (Admiralty edition published in 1873), we find, that on his leaving New Zealand (Cape Farewell), in March 1780, his ship anchored on April 28th in Botany Bay, so named by him, and there he remained until the 6th May. During his stay he made an accurate chart of that bay, which is given in his voyage. He also, he says, “caused the English colors to be displayed on shore every day, and the ship’s name, and the date of the year to be inicised on one of the trees near the watering place,” And, on leaving, he further says, “at this time we were between two and three miles distant from the land, and abreast of a bay or harbor in which there appeared to be good anchorage, which I called Port Jackson. This harbor lies three miles to the northward of Botany Bay,” and, four months after, on August 23rd, he says:— “As I was now about to quit the eastern coast of New Holland, which I had coasted from lat. 39deg. S. to this place, lat. 10½deg. S , I took possession of the whole, in right of His Majesty King George the III. by the name of New South Wales” (With several other interesting notices—one I may mention, viz , their joyous feasting on two large sharks and two large sting-rays they had caught, “one of these rays weighing 240 pounds and the other 336 pounds after its entrails were taken out.” Mention of this timely capture is also made in Sir Joseph Banks’s journal of that voyage, lately published, with this additional remark, that “the tripes of the rays made a very excellent dish, much relished.”) </p>
+         <p>All that taking <hi rend="italic">possession</hi> and naming in due form, was done 18 years before the arrival of Governor Phillip; and, as I take it, it was entirely owing to Cook’s discovery, his taking possession, and because of his full report of the country, that Governor Phillip was sent out thither. To me, the fulsome adulatory recital of the taking possession of New South Wales by Governor Phillip; and also the invidious depreciating remark, that “Cook was never inside the Heads of Port Jackson,” had been both better omitted, especially when what he and his able party of scientific men did at Botany Bay, so very near to Port Jackson, under all their trying circumstances, is duly considered. One might just as soon attempt to detract from Cook’s fame in this our colony of New Zealand, by saying (though he first passed through the strait bearing his name), “Cook never entered Wellington Heads.” </p>
+         <p>To us the name of Cook is far too high for all time— “above all Greek, above all Roman fame”—to be so easily tarnished. But so it is! Who is Louis Becke? Such carping writers— “who hint a fault and hesitate dislike”— serve to remind one of the poetical aphorism:— </p>
+         <p>“The aspiring youth that fired the Ephesian dome 	<lb/>Outlives in fame the pious fool that raised it.”</p>
+         <p>I trust that in the days to come the New Zealand colonists in general, and those of Hawke’s Bay in particular, will ever keep a sharp look-out ahead, and never allow the name of our immortal navigator Cook to be depreciated.— I am, &amp;c.,</p>
+         <p>
+                  <hi rend="smallcaps">		W. Colenso.</hi>
+               </p>
+         <p> Napier, December 2nd, 1897.</p>
+      </body>
+   </text>
+</TEI>

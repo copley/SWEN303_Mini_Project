@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0954">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1896 January 1: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-1.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1896-01-01">1896 January 1</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1896 January 1: to Harding<note xml:id="ftn3-769" place="foot" n="769"> ATL MS-Copy-Micro-0485-1.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Jany. 1/96.</p>
+         <p>Dear Mr. Harding</p>
+         <p>
+            <hi rend="italic">Late</hi> last night I received yr. kind &amp; valued letter of the 30<hi rend="sup">th</hi>. and did not read it till this mg. I thank you much for it—and as a further proof—I write to you this night—my <hi rend="italic">first</hi> for ’96; having several items to communicate. I send you 2–3 papers, which will tell you a deal <hi rend="italic">re</hi> Pinkney &amp; Co. Sutton’s letter, is worthy of the man! Some of his <hi rend="italic">errors</hi> are shown up in “Herald”: there is a <hi rend="italic">good</hi> reply signed <hi rend="italic">Servetus</hi>, but who the writer is, I know not. Now comes Pinkney’s <hi rend="italic">own</hi>. I did not suppose that <hi rend="italic">David Sy</hi>. was <hi rend="italic">with P</hi>., but I am assured by “one who knows” that such is <hi rend="italic">not</hi> the case.—</p>
+         <p>I know very little of Pinkney, and perhaps less of Wood.—W. is now <hi rend="italic">unwell</hi>—some 2 weeks, confined, said to be his <hi rend="italic">old complaint</hi>, something internal.</p>
+         <p>Hill is going off to Australia on 2 months furlough—“holiday”; I told him that some <hi rend="italic">think</hi> he has a <hi rend="italic">good share</hi> of holidays in his knockings about; H. did not like it. Fannin., poor fellow, is the slave—or “maid of <hi rend="italic">all work</hi>”. F., wife &amp; others, are gone to Taupo Tongariro, &amp;c.—special coach, &amp; to be absent a fortnight.—</p>
+         <p>I had been fighting hard w. Hill (as, also for 2 past years) to be sure to <hi rend="italic">so plan</hi> his movements as to be in N. on <hi rend="italic">those 6</hi> of our Meeting nights,—also to be present at Annl. Mtg. in Feby. next—but to <hi rend="italic">no</hi> avail! as a makeshift, when Annl. Mtg. takes place—early in Feby. (seeing that “10” are required to form a quorum) it is to be <hi rend="italic">quietly</hi> called &amp; then adjd. for a month—when H. will (D.V.) have <hi rend="italic">returned</hi>: for, as <hi rend="italic">I view it</hi>, much, very much <hi rend="italic">depends now</hi> on H.—or <hi rend="underline italic">it</hi>
+            <hi rend="italic">dies</hi>. Mr<hi rend="underline">s</hi> H. was <hi rend="italic">infra dig</hi>. w. me because I could not spend Xmas Day <hi rend="italic">there</hi>: I had <hi rend="italic">timely</hi> informed her of it, having promised to aid the Dean on Xmas. Day—at H. Comm., &amp;c, &amp;c.—and so, she went off to Xt.Ch., and H. is to call there for her, on his way bk. I think I shall go <hi rend="italic">by ’Bus</hi> to see H. on Friday 3<hi rend="sup">rd</hi>.—H. preached <hi rend="italic">for </hi>“Congregationalists” at Gaiety Th. on Sunday before Xmas.—<hi rend="italic">rather</hi> strange, seeing <hi rend="italic">he </hi>is one of the few lay <hi rend="italic">members of the standing Cathedl. Commee. </hi>The Dean w, &amp; family, are gone to Mangakuri to spend a few days (10), leaving Welch &amp; W.C. to perform duties here: so, on Sy <hi rend="underline italic">mg</hi>. next I am to do at Cathl. and in the evg. at St. Augustines—a rather <hi rend="italic">heavy</hi> job for <hi rend="italic">me</hi>, <hi rend="underline italic">now</hi>: but, If it be from <hi rend="smallcaps">God</hi>—I shall be enabled for it: “<hi rend="italic">As thy day—thy strength</hi>.” And my good friend warmly acquiesces. I found it <hi rend="italic">very</hi> hot on Xmas. Day, in Cathl., also <hi rend="italic">last </hi>Sy.,—it is <hi rend="italic">a sight </hi>to see the <hi rend="italic">evg. </hi>Congn.!!!—<hi rend="italic">crowded</hi>.</p>
+         <p>I am keeping pretty (or <hi rend="italic">very</hi>) we1l: <hi rend="italic">daily</hi>—hourly—great soreness, <hi rend="italic">stiffness</hi> of joint, &amp;c., in <hi rend="italic">rising</hi>, <hi rend="italic">moving</hi>, &amp;c.—I almost dread the pulpit <hi rend="italic">stairs </hi>in Cathl. and then my heart beats &amp; bangs away at times, such a row! (<hi rend="italic">no</hi> pain) that I think it is Bob coming in.</p>
+         <p>I went into Crerar’s shop the other day to purch. Lett’s Diary (Craig having sold out!) when Crerar told me he wished to see me, <hi rend="italic">re</hi> a List of wks. on N.Z. he had recently recd. from Sydney much wanted there, and of <hi rend="italic">many</hi> of them C. knew nothing. I have the List here before me—an awful affair: <hi rend="italic">wholly</hi>
+            <hi rend="italic">written</hi> Impl. folio size, contg. 223: “List books &amp; phlts. on N.Z., wanted by Angus &amp; Robertson, Booksellers, Sydney.”—<hi rend="italic">Most</hi> of them <hi rend="italic">unknown</hi> to me, even by name, &amp; certainly ephemeral, few, if any of our standard, or bigger wks. on N.Z. Of <hi rend="italic">mine</hi> (!) <hi rend="underline italic">3</hi>—“Classfn. Ferns, 1845” (printed at Hobart,) “Botany N. Island”, 1865, (in vol. I. Trans. N.Z. Inst.) &amp; “Fiat Justitia”: of Buller’s only 1, “Address in Native Lands Court, 1882”. Crerar is going, <hi rend="underline italic">willingly</hi> to try to sell some of <hi rend="italic">our</hi> pubs.——</p>
+         <p>
+            <hi rend="italic">Here</hi>, in this seclusion! we are on the <hi rend="italic">qui v. </hi>just now: on <hi rend="italic">Thursday last</hi>, Anderson<note xml:id="ftn3-770" place="foot" n="770"> Colenso’s manservant Robert Anderson.</note> recd. a note from his wife, saying she was returning by “Ruahine,” &amp; <hi rend="italic">next day</hi>, lo! the R. was at Hobart! and so, her son John must rush off instanter, on Saty. to Wgtn. (in spite of my showing no <hi rend="italic">hurry</hi>), and, to <hi rend="italic">the present</hi>, <hi rend="italic">no wire</hi> from John to his father (IX.30 p.m. a wire to hand—here tomorrow by express)—<hi rend="italic">to me</hi>—it is all natural enough. However, <hi rend="italic">her return</hi>
+            <hi rend="italic">may</hi> be the immediate cause of breaking up <hi rend="italic">here</hi>: on <hi rend="italic">no account</hi>, should <hi rend="italic">she</hi> ever be again here, <hi rend="underline italic">as before</hi>
+            <hi rend="italic"> </hi>(i.e. during <hi rend="italic">last</hi> 2–3 years) I would rather break-up house-keeping: and so, things are squally and uncomfortable-in-prospect; she <hi rend="italic">may</hi>, however, be inclined to <hi rend="italic">do duty</hi>, and if so, then all may be well: she <hi rend="italic">knows</hi> my ultimatum and so, of course, Bob. &amp; Son.</p>
+         <p>Many excellent things in your last (exclusive of your <hi rend="italic">usual</hi> graphical account of Wn. Philos.). I go <hi rend="underline italic">w. you</hi> re Patristic &amp; Apostolical Fathers, and their writings (pseudo or real)—also re II Peter &amp; Jude—to wh. I could add much of “Revelation”: it took some centuries ere those books were recd. by Xn. Ch. as <hi rend="italic">canonical</hi>:—I have many <hi rend="italic">books </hi>(old &amp; new) of <hi rend="italic">that kind</hi>, I should like <hi rend="italic">you </hi>to see.</p>
+         <p>I note your <hi rend="italic">kind</hi> remark, on what you had known to be said by Maoris in Ld. Court <hi rend="italic">re</hi> W.C. and Xy. introd. Hawke’s Bay, &amp;c. (<hi rend="italic">More</hi> will yet be <hi rend="italic">known</hi> &amp; <hi rend="italic">said re same</hi>) Did you ever see, “Xy among the N. Zealanders”, by Bp. Waiapu, 1867”?—<hi rend="italic">You</hi> would scarcely believe it, but it is a <hi rend="italic">fact</hi>; his book deals w. <hi rend="italic">this E. Coast</hi> in particular but <hi rend="italic">never a</hi>
+            <hi rend="italic">single mention</hi>
+            <hi rend="italic">of</hi> or <hi rend="italic">allusion</hi> to me, <hi rend="italic">neither of my 20 years labour</hi>. Only once—in a <hi rend="italic">few words</hi>—the press at Paihia is <hi rend="italic">alluded</hi> to: and yet, as it could not be denied or hid, the wondrous change in the Maoris is attribd. to the N.T. &amp; other books. <hi rend="italic">To</hi>
+            <hi rend="italic">me</hi>—it is a most unveracious book: I was fool enough (seeing it advertised) to get a copy through Craig cost, 10/-—a small 12mo., 380 pp.—and, like <hi rend="italic">all</hi> other books publd. by or <hi rend="italic">for </hi>
+            <hi rend="underline italic">them</hi> (the Wms’. clan) full of laudation of <hi rend="italic">themselves. </hi>I could say a good deal on this head.—–</p>
+         <p>A nice &amp; long L. to hand from Sir Walter (<hi rend="italic">not yet ansd</hi>.!!) he wants a copy of my “<hi rend="italic">Ruahine</hi>” book:—I shall send him to Craig.</p>
+         <p>My paper is filled: &amp; not half said, &amp; I am <hi rend="italic">tired</hi>—eyes <hi rend="italic">getting</hi> dim, dazed by night. Good bye may our Hy. F. bless you <hi rend="italic">ever</hi> &amp; <hi rend="italic">always</hi>—Kindest regards:</p>
+         <p>Yours truly,</p>
+         <p>W. Colenso.</p>
+         <p>
+            <hi rend="italic">P.S.</hi> 837 letters in 1895: 859 in 1894: written <hi rend="italic">by me</hi>.</p>
+      </body>
+   </text>
+</TEI>

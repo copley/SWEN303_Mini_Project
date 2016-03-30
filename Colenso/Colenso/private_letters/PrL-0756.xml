@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0756">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1890 December 4? to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-1.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+      </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1890-12-04">1890 December 4</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1890 December 4? to Harding<note xml:id="ftn3-498" place="foot" n="498">ATL MS-Copy-Micro-0485-1. In 1890 the 4th was a Thursday only in September and December.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke<lb/>Thursday 4<hi rend="sup ">th</hi>
+            <lb/>x. pm</p>
+         <p>Dear Mr Harding</p>
+         <p>I am really very sorry to have to write—at this <hi rend="italic">last</hi> hour, to say, I shall <hi rend="italic">not</hi> be able to see you <hi rend="italic">here</hi>—so don’t hurry on—on my account. Mr. Robertshawe is now here w. me, &amp; will kindly take this to P.O. He has been absent all day visiting his flock, &amp; now a letter to him from the Bp. for <hi rend="italic">me</hi> to take D.S. at Woodville on Sy. next, &amp; the better to do so I must leave by 8 a.m. train.</p>
+         <p>I dare not disobey—i.e. see that Ch. <hi rend="italic">closed</hi>, &amp; I the cause, but I feel I know I am <hi rend="italic">not</hi> strong enough though my faith is this (as often before)—If it is of <hi rend="smallcaps">God</hi> He will bring me through.——</p>
+         <p>More anon</p>
+         <p>Yours always</p>
+         <p>W. Colenso.</p>
+      </body>
+  </text>
+</TEI>

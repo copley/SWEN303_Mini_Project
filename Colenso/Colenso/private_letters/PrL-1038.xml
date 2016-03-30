@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1038">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1898 March 20: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0499.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1898-03-20">1898 March 20</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1898 March 20: to Harding<note xml:id="ftn3-886" place="foot" n="886"> ATL qMS-0499.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, March 20/98<lb/>VIII.30: a.m.</p>
+         <p>Dear Mr. Harding</p>
+         <p>Yesterday I received yours of the 18<hi rend="sup ">th</hi>—both letter &amp; box of specimens: I was busy at the time on <hi rend="italic">other </hi>spns. to hand the night before from Canterbury, but I soon saw <hi rend="italic">yours</hi>! and lo! the moment I saw the flower (in letter) I knew it was <hi rend="underline italic">no</hi> Lepidium! (“<hi rend="italic">Parturiunt mortes</hi>”,) etc. I exclaimed)<note xml:id="ftn3-887" place="foot" n="887">
+               <hi rend="italic">parturiunt montes, nascetur ridiculus mus</hi>: the mountains are in labour; a ridiculous mouse will be born. </note>—I saw it was <hi rend="italic">not</hi> a N.Z.r: I recollected having seen a drawing of it <hi rend="italic">somewhere</hi>—in yrs. gone by, &amp; that it was (<hi rend="underline italic">?</hi>) a British plant. On examination—I concluded (1) it was the Poppy (<hi rend="italic">Papaver</hi>) family, and (2) that <hi rend="italic">a near alliance </hi>of it, in <hi rend="italic">flowers known to you</hi> &amp; common here, is <hi rend="italic">Eschscholzia Californica</hi>, the yellow Californian Poppy, (now so very numerous in the river bed near the Railway Crossing at Waipawa.) Still I wanted to know more <hi rend="italic">re </hi>the stranger, and after some search I found it to be <hi rend="italic">Glaucium lutæum</hi>, a British plant, (old &amp; well-known there,) and found “<hi rend="italic">on sandy spots on the sea-shores</hi>, &amp; sometimes within range of the tide” in many places, but <hi rend="italic">not</hi> so far S., &amp; W., as Cornwall, hence my not having seenit there in my old sea-side wanderings &amp; musings. I confess to having had my suspicions from the first (or <hi rend="italic">second</hi>) lot you sent me, &amp; from your description of its <hi rend="italic">hab.</hi> &amp;c., (1.) that it was <hi rend="italic">not my plant</hi>: and (2) that it was<hi rend="italic"> not a Lepidium</hi>:—and I think I may, also, safely add, that it was <hi rend="italic">not a </hi>N.Z.r, but a stray waif, <hi rend="italic">modern</hi>, from the sea:—shipping, commerce, &amp;c.; just like your friend K. used to write so much about—“<hi rend="italic">Ballast weeds</hi>,” &amp;c, &amp;c.—hence, too, it was, that I had said,—Don’t trouble yourself much about it. Your <hi rend="underline italic">long</hi> account of it, with good &amp; many spns., pleased me exceedingly: I could go with you in your 4-page description—quite an essay. I have no doubt its seeds are ripe &amp; good, but, under the knowledge we <hi rend="italic">now </hi>have of it, I hesitate sending any to your Father for propagation—unless you <hi rend="italic">repeat </hi>your request.</p>
+         <p>I have said, I was engaged on other spns. from Canterbury: a box of ferns, received late the night before, (which I wished <hi rend="italic">farther</hi>! on their arrival,) having <hi rend="italic">lately </hi>had <hi rend="italic">2 lots</hi> to trouble &amp; worry me—one from Hill (<hi rend="italic">Ruahine </hi>plants) &amp; one from Olsen (<hi rend="italic">ditto</hi>), containing however some interesting <hi rend="italic">new </hi>forms; and, lo! while engaged on Xt.Ch. plants, yours came—at work in front room, parlour, on large empty table (to the intense disgust of Housekeeper!)—a ring of bell; &amp; lo! another lot from Hill!—sent from Wairoa a week ago!! &amp; <hi rend="underline italic">dry</hi>! (recd. by Mrs Hill on Wednesday!!)—which caused Mrs H. to let out, a bit more of her mind (and rightly, too,) for I had been very unwell the day before, through <hi rend="italic">too long &amp; close </hi>application to some of Hill’s, in back room, w. microscope, &amp;c.—which she knew, and complained of—<hi rend="italic">I, too, agreeing.—</hi>I write early, to restrain <hi rend="italic">your further research</hi>, &amp;c.—</p>
+         <p>I suppose, “Ruahine” left Wgn. yesty. I got a short note from Mr Welsh, (address, “29, Constable Rd”) saying, how ill he was—rough passage—very sick, but had found good friends there”. Hill writes from Gisborne return to N. on 23<hi rend="sup ">rd</hi>. Fannin is gone to Dvk. to see his son: the yg. man, <hi rend="italic">Carroll</hi> who took Fannin’s place here in the Dispensary, died in hospital, 2 days ago, typhoid f., several cases there. Did you know Gray plumber? who fell over cliff at Bluff, &amp; killed?—–</p>
+         <p>[p.m., I now go on w. my letter.]——</p>
+         <p>Last night, in taking up my “<hi rend="italic">Standard</hi>” lo! I found a full critical report of what you had sent me in a clipping in yr. last, Vaughan &amp; Co., <hi rend="italic">v.</hi> our Eng. Abps. letter to the Pope, &amp; of which I had said a few wds. in mine to you of 10<hi rend="sup ">th</hi>.—and I am much pleased with it! I shall send the Paper to you, <hi rend="italic">with this</hi>, for <hi rend="italic">your </hi>perusal, but <hi rend="underline italic">return at end of one week</hi>: what pleased me, particularly, is, that V. &amp; Co. state, <hi rend="italic">plainly</hi>, that what the (wretched) High Ch. (Ritualist) party in Ch. E. has pertinaciously (no. xc. “Tracts”) <hi rend="italic">twisted</hi>, in our Ch. of E. Ordinal, as <hi rend="italic">containing their </hi>newfangled meanings,—does <hi rend="underline italic">not</hi>
+            <hi rend="italic"> contain any such thing</hi>—but the doctrines &amp;c of Cranmer &amp; other Divines!! (May <hi rend="underline italic">they</hi>
+            <hi rend="italic"> now believe us</hi>!)<hi rend="italic"> </hi>Also, the Cardinal’s allowance of the great <hi rend="italic">alterations </hi>in the Mass (additions) of a 1000 yrs. ago, w. other points of Interest.—And, the nice <hi rend="italic">tone</hi> in which he writes! (which Rome, oft speaking like a lamb, knows <hi rend="italic">full well</hi> how to assume.) I wish I had a copy of the Cardinal’s letter, I shall send forthwith for one. I trust it may be productive of great good among <hi rend="italic">our own people</hi>, in a way the Cardinal did not think—all tending to show up more &amp; more the unhallowed pretensions of Rome: I feel doubly pleased at my reprint (just issued), though I have <hi rend="italic">not </hi>had that support <hi rend="italic">I had expected</hi>—especially from <hi rend="italic">Presbyterians</hi>. Yesterday, however, a nice note from Archd. S.W.—<hi rend="italic">heartily </hi>thanking me for it, w. promise of assisting in getting it more fully known: <hi rend="italic">very busy</hi>, of late, &amp; at present, owing to “Missioner” Allanson. And, when you return this “S.”, I will send you another P.—a “Lyttelton Times” of last wk. (which some kind friend has sent me from Canterbury,) containing a long 2-col. letter from “Bp. Grimes”—now in Ireland, begging for his Ch. &amp; plans at Xt.Ch,—in which the creature has the hardihood to tell the Irish, in a long letter to one of their papers, that the Roman Caths. were first here to convert the savages—cannibals—of this country, &amp;c, and <hi rend="italic">now </hi>they were all doing well—&amp; <hi rend="italic">he wants </hi>a Lady Chapel, a Mass Chapel, a Purgatory Chapel, &amp;c.—&amp; a good deal more—as you may see. It is astonishing how men—<hi rend="italic">educated</hi> men! in these days <hi rend="italic">can swallow</hi> so much Imposture! lies! all from Indifference to Xy., and so <hi rend="italic">much </hi>of vain frivolity &amp; every day &amp; night out of doors sports &amp; pleasures! two whole days last week—2 more this week—<hi rend="italic">Races</hi>: besides a full share of Concerts &amp;c, &amp;c, <hi rend="italic">ad nauseam</hi>—in which—and in their <hi rend="italic">like</hi>—the Sects (Baptists, &amp; others) take their full swing! (<hi rend="underline italic">2 Timothy III. 1–</hi>
+            <hi rend="underline">7</hi>.) I see a yg. man (<hi rend="underline">un</hi>ordained &amp; <hi rend="italic">not </hi>a Scot.) is again having Service today at St. Paul’s—he has been serving Presbyt. Ch. at Dvk., &amp; was here at St. Paul’s at Xmas. time, during Mr. Paterson’s absence, and (I heard) pleased the Congn. mightily, (<hi rend="italic">some</hi>, I suppose,) but the story came— “Would that Mr. P. would leave for another month;”—and even— “to get up a request for him to do so” (but this last was fun!)—–</p>
+         <p>Of stories: yes, I have one for you, (if I can find it,) in “D.T.” of a few days ago: the relation of a man <hi rend="italic">sole survivor</hi> from a ship, A.D. 1801,or thereabouts, (all hands having been killed &amp; eaten by islanders—Tongataboo, or thereaway—he <hi rend="italic">sick</hi> was spared, &amp; recovered, &amp; lived among them: then was, at last, “belted into a canoe,” sailed 3000 miles, made Porangahau, Waitangi, &amp; Nuhaka, &amp; <hi rend="italic">there</hi> well-received, &amp;c. How <hi rend="italic">suitable</hi>, to add to your friend Smith’s Samoan &amp; Fiji romances!—<hi rend="underline italic">Such</hi>, <hi rend="italic">I was sorry to see, </hi>inserted in “Maori Art,” <hi rend="italic">re </hi>so-called Migrations hither!! <hi rend="italic">Spoils the book</hi>.</p>
+         <p>I enclose a curious clipping, to hand <hi rend="italic">last nt</hi>., in L. from London—please <hi rend="underline italic">return it</hi>. I shall send it to Hamilton. Here I close, once more wishing you &amp; yours, <hi rend="underline italic">well</hi>.</p>
+         <p>Yours ever, truly, W. Colenso.</p>
+         <p>
+            <hi rend="italic">P.S.</hi> If a Wgn. P.—of yesty <hi rend="italic">or </hi>tomorrow—contains particulars of “Ruahine’s” sailing w. list of passgrs., <hi rend="italic">send </hi>copy.</p>
+         <p>Weather very fine <hi rend="italic">here</hi>
+            <hi rend="italic">this day</hi> (not so yesty.) and cold last nt. &amp; Þs. mg. therm 58°.</p>
+      </body>
+   </text>
+</TEI>

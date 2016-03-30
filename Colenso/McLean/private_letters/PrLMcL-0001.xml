@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0001">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Undated: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number #1012037</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="-----">Unknown</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>Undated McLean to Colenso (#1012037) </p>
+		</front>
+		<body>
+			<p>N Thursday noon <!--yes, the lone N is as published in the eColenso transcription--></p>
+			<p>My dear Sir, </p>
+			<p>I find that a canoe starts for the Wairoa on Monday so I shall take my passage by her and shall gladly take any more letters you may have to send. </p>
+			<p>The vessel is only now going out. I intended to send you notice last night of her being here but was afraid there would be no time for you to write more letters as they talked of being off early in the morning. </p>
+			<p>I am going to send to Taranaki by way of Manawatu so that you have got a chance of sending more letters. </p>
+			<p>Mr. Ankatell wished in writing to Mr Moore to know decidedly what you would be inclined to pay for the vessel if she comes back soon which from the small cargo this trip is doubtful. </p>
+			<p>I told him £10 or 12 he might rely on which he considers would be a good freight. Was I right in mentioning that sum? Do not send anything for the journey as I am really well provided. Like yourself I am quite fatigued writing only I have not your illness which I hope is better to contend with. </p>
+			<p>I have now to get up my correspondence for Auckland and Taranaki. Your small cases have been carefully placed in the cabin. </p>
+			<p>Ever sincerely </p>
+			<p>Donald McLean </p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0225">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Colenso’s library, Napier: N elson Colonist 8 September 1899 .</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <date when="1899-09-08">1899 September 8</date>
+          <publisher>
+            <name type="organisation">Nelson Colonist</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p><hi rend="bold italic">Colenso’s library, Napier:<lb/>
+      Nelson Colonist 8 September 1899.</hi></p>
+    </front>
+    <body>
+      <p rend="justify">Efforts to secure the late Mr Colenso’s unique library for the town have failed, his son having sold it to Messrs Angus and Robertson, of Melbourne. </p>
+    </body>
+  </text>
+</TEI>

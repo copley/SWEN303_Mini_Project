@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1117">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>7 October 1867: Hector to Hooker.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">James Hector</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>7-10-1867, Kew DC 174, 504-505, ATL Micro-MS-Coll-10-16, 551-556.</p>
+         <p>Transcription published in "My Dear Hooker: 
+Transcriptions of letters from James Hector to  
+Joseph Dalton Hooker between 1860 and 1898", Rowan Burns &amp; Simon Nathan.  Geoscience Society of New Zealand miscellaneous publication 133B, 2012.  ISBN 978-1-877480-21-8. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133B.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1867-10-07">1867 October 7</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hector to Hooker, 7-10-1867, Kew DC 174, 504-505, ATL Micro-MS-Coll-10-16, 551-556.</p>
+      </front>
+      <body>
+      <p> 
+Geological Survey Office and Colonial Museum </p>
+            <p>Wellington </p>
+            <p>7th October 1867 </p>
+            <p>My dear Hooker, </p>
+            <p>I was very glad to receive 
+your note of July 29th &amp; to hear
+ that you had been away for
+a trip. I am sure you must have needed it as the 
+work you have got through in the last two 
+years is very wonderful. It is very pleasing to 
+think that you are satisfied with the conduct of
+the Govt. about your Flora and I told Mr. Stafford so.
+ I will tell you a secret – that some 
+few of us who are really able
+ to appreciate the great labour
+ you have undergone for the good
+of the 
+ Colony have conspired to make you a present that you will we hope keep and hand 
+down as an heirloom to testify that we are not 
+ungrateful. It stands in
+ the museum now &amp; is an object of Universal admiration – being (s
+ee Photogram enclosed) a Cabinet &amp; writing 
+table of inlaid New Zealand woods only second 
+in value (&amp; by the same workman) to that 
+sent to the Queen in 1861. I hope you will like it. 
+It will be sent by the first wool ship that leaves direct for London, and I will
+ then send you full particulars. </p>
+            <p>
+My time has been cut up very much of late and I have not been able to get the paper ready I promised in my last letter on the Moa remains. I cant do it very well till I get 
+Mantell’s help &amp; he is 
+occupied with legislation at present. I will take your hint about the 
+Lake basin Theory &amp; put it in a short form before I start on my Museum work.
+ If we only had proper means for publishing I could do lots of
+ work, but the printing establishments are 
+very weak here 
+as you will gather from the style of the abstract report of the Department 
+which I enclose. The four Wardian cases of plants are now filled &amp; ready to go by the first 
+chance. I think every one of the plants should reach you alive as
+ we have been very careful 
+deed to pick out sickly ones &amp; to secure
+ them in every way we could think of. </p>
+            <p> 
+Buchanan found out that the 
+Senecio he sent was 
+Ozothamnus
+. It is very curious 
+getting a new 
+Phyllocladus
+ in Auckland. Colonel Haultain is 
+very curious about it as he is 
+well up in the Auckland Flora.</p>
+            <p>Your explanation about the mosses is quite 
+satisfactory to Buchanan only he naturally 
+feel a little sore that his good work should have been lost through Wilson’s action.</p>
+            <p>I quite agree with all you say about the feeble action of streams as erroding agencies 
+only I object in N. Zealand at least to the term 
+Glacial Epoch. It is not a particular period or 
+some places – where the producing circumstances 
+ill prevail. The distance to which Ice action radiates depends on the area of country above 
+the line of perpetual c------ - &amp; that must be a
+very Ice action it gives rise to.</p>
+            <p>I am going up to Taupo &amp; on to the Thames this
+ year as I wish to be where they are 
+n the North. 
+It is a curious circumstance the occurrence of Gold in what 
+ppears to be a Trachytic tuffa probably of Miocene age. I must have the Thermal waters carefully analysed for Gold &amp; may perhaps find a clue to its manner of deposit.  </p>
+            <p>I sent you some Chert Flakes by last mail – are they like those at the Cape? I have just
+recd. a live 
+Apteryx australis
+ (one died) and an egg, its 
+circumferences are 12 1/2 &amp; 10 
+inches! </p>
+            <p>Your affectionate friend  </p>
+            <p>James Hector</p>
+            <p>When did Colenso send you the Maori index? Mantell is very anxious to know as he borrowed his map &amp; kept it some time.  </p>
+</body>
+   </text>
+</TEI>

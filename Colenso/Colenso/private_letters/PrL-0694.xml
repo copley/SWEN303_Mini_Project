@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0694">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1889 January 2: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4. Letter addressed to “A. Luff Esq., Post Office, Wellington”.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1889-01-02">1889 January 2</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1889 January 2: to Luff<note xml:id="ftn3-420" place="foot" n="420"> ATL MS-Copy-Micro-0485-4. Letter addressed to “A. Luff Esq., Post Office, Wellington”.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke, <lb/>Jany. 2, 1889.</p>
+         <p>A. Luff Esq.,<lb/>  Wellington.</p>
+         <p>My Dear Sir,</p>
+         <p>If it were only to wish you the compliments of this season (after the good old usage of our forefathers) I should write you at this time: how much more then when I have had you in my mind of late!—Heartily do I wish you and yours <hi rend="italic">a “Happy New Year”</hi>—and may this prove to be better to you than any former year of your life!——</p>
+         <p>I wrote to you from this place nearly a month ago, when everything around was <hi rend="italic">wintry</hi>, wet, stormy, and <hi rend="italic">very cold</hi>; this continued nearly to the middle of December, snow at times, &amp; for 2–3 days together on the low hills near. Mr. Hill, who was then out on his round of Inspection, being snowed up (or in) Norsewood:—and when the weather did gradually clear, there was no knowing whether it was constant: however, for the last 5–6 days the weather has been very fine indeed. When I left Napier I did not think I should remain here till this time, but the fine days (few) <hi rend="italic">before Xmas.</hi> did me so much good—<hi rend="italic">lessened</hi> Rheumatism very much—that I determined to stay until the double batch of holidays were over, as I would not travel during them. And I had nearly written or wired to you, but I saw, that a Bush Hotel would not be a very desirable sojourn for you, <hi rend="italic">during</hi>
+            <hi rend="italic">carnival season</hi>: for my part I do not notice anything of <hi rend="italic">that kind</hi>, and such does not disturb me. I purpose leaving for N. in a day or two, <hi rend="italic">unwillingly</hi>, like a lubberly boy returning to Boarding School—for I would rather remain here. All I want are my Books—for I have little love for Napier—the town, especially, has <hi rend="italic">very few</hi>, if any, joys for me: business, however, imperatively calls, &amp; I must go! this season is a sad one with me in pecuniary matters—so many of my few tenants &amp;c. <hi rend="italic">behind</hi>—2 years! generally, and no prospect of getting anything. I fear I must set the law a-going—a thing I hate to do.——</p>
+         <p>Old hands, too, whom <hi rend="italic">you </hi>once knew so well, have preceded me across the stream: F. Reignier, T.H. Fitzgerald, Graham of Puketapu, &amp;c.—also Mr. Robjohn’s daughter, a sad case; R. nearly distracted.—I have been grieved these last 2–3 days in seeing Kinross’s stores (Goods) to be sold under Writs of Execution!—Tanner, too, done up! Everything gone, &amp; an allowance, yearly, made him by Banks. Craig is now in his splendid new &amp; big shop! I suppose you have read <hi rend="italic">re</hi> “ProCathedral” and all their mediæval fuss &amp; doings!—and possibly (in “Herald”) the correspondence <hi rend="italic">pro.</hi> &amp; <hi rend="italic">con</hi>.—<hi rend="italic">re</hi> the same, in which poor dear harmless &amp; kind Mr. Forster &amp; lady got abused—by a <hi rend="italic">coarse low HighChurchman</hi>!——</p>
+         <p>To my <hi rend="italic">great surprise</hi>, Mr. Grubb <hi rend="italic">suddenly dropped</hi> on me, on 31<hi rend="sup">st</hi>. Dec. in afternoon: my <hi rend="italic">best </hi>New Year’s gift; he told me of you, having seen you &amp;c. <hi rend="italic">Enq. of him respecting</hi>
+            <hi rend="italic"> me</hi>. Fannin too passed, on his visit to Woodville—official, I believe: Mrs. Fannin is still an invalid, but F. is as jolly as ever!</p>
+         <p>Goodbye, with very kind regards. </p>
+         <p>Believe me, yours truly,</p>
+         <p>W. Colenso</p>
+      </body>
+   </text>
+</TEI>

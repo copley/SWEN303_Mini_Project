@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0025">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1870 August 8: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1022827</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>Encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1870-08-08">1870 August 8</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1870 August 8 McLean to Colenso (#1022827) </p>
+		</front>
+		<body>
+			<p>Dear Mr Colenso </p>
+			<p>I received yours of the 28th. ult. respecting the prisoners at Otago; and I have to thank you for your kind suggestions. </p>
+			<p>When the Session is over, the whole subject of Native prisoners will be duly considered by the Executive. The subject has been one of anxious consideration to the Government. </p>
+			<p>I need not assure you that my reply to Mr. Gillies, in reference to the Lexicon, was not by any means spoken in a tone that could have given you the slightest annoyance, had you been present. </p>
+			<p>Mr. Ormond is going down, and will give you all the news. </p>
+			<p>I remain,  </p>
+			<p>Yours very truly, </p>
+			<p>(Signed)  Donald McLean. </p>
+			<p>August 8th. 1870.  </p>
+		</body>
+	</text>
+</TEI>

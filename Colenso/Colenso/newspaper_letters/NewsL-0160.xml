@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0160">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1892 A query. Hawke’s Bay Herald 11 March.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1892-03-11">1892 March 11</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1892 A query.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald </hi>
+                  <hi rend="bold">11 March.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—I notice in your paper of Wednesday the following statement:— “Two cases of <hi rend="italic">delirium tremens</hi>, both from Danevirke—the most drunken place for its size in the colony—have ended fatally in the Waipukarau hospital.” </p>
+         <p>I write to ask you to give us the name of your informant; and please don’t hesitate. I believe the story to be utterly untrue. I have been residing eight weeks at the Railway Hotel in Danevirke, with two of the other three hotels always in sight, and during that time I have not seen nor heard of one drunken man! </p>
+         <p>I would fain hope, that you, as editor of your old and hitherto respectable paper, are not become infected with the lying virus of the “Drink Question” which has so disgraced your columns of late! How strange it is, that otherwise sane and tolerably educated and well-disposed men, the moment they take up their “fad” against all drinking are carried off their legs by its current and “lie by the hour!”—I am, &amp;c., </p>
+         <p>					W.<hi rend="smallcaps">Colenso</hi>. </p>
+         <p> Waipawa, March 10, 1892.</p>
+         <p>[We suggest that Mr Colenso should apply to the hospital authorities.—Ed. <hi rend="italic">H.B.H</hi>.] </p>
+      </body>
+   </text>
+</TEI>

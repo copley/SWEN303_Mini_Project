@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0076">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1878 The late Bishop Williams. New Zealand Herald 9 March.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1878-03-09">1878 March 9</date>
+               <publisher>
+                  <name type="organisation">New Zealand Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <creation>
+          <date when="1878-02">1878 February</date>
+          <name type="place">Napier</name>
+        </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1878 The late Bishop Williams.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">New Zealand Herald</hi>
+                  <hi rend="bold"> 9 March.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—I was not a little surprised—pained, perhaps, I might better say—to see in the <hi rend="smallcaps">Weekly News</hi> of February 16th, a letter from Mr. Gideon Smales dated the 12th inst., correcting (as he says) an error of yours respecting Bishop Williams and his “New Zealand Grammar and Dictionary.” Mr. Smales professes to have had “deep feelings of sympathy and veneration” for the late Bishop, when reading your short sketch of his life, but those feelings were soon overcome by Mr. Smales’s greater love of truth; hence he proceeds instanter to correct your serious error. I fear, however, with Mr. Smales it has been <hi rend="italic">dictum de dicto</hi>, and therefore what he has written will not stand the test of sober scrutiny. And, as no one in New Zealand (not excepting our late Bishop’s own family) knows more about the matter in question than myself, I cannot but consider that in some measure it devolves on me to say a word or two on behalf of the truth and of my dear and lamented deceased friend. You had, in your short sketch, briefly and simply stated, “The first grammar and dictionary were compiled by him [Bishop Williams.] Much has been done since, but in point of time the Bishop led the way.” And no doubt, in your saying so, you were generally correct. I have carefully said “generally correct;” I would prefer saying quite correct; but I do this in order to allow Mr. Smales the full benefit of the few true items he has adduced. At the same time I cannot help thinking that even supposing all he has mentioned were quite correct, they would altogether be but of small amount, and surely not imperatively required to be brought forward in the columns of a newspaper in unseemly opposition just at that sad moment when the mortal remains of the late Bishop were not yet conveyed to the grave? Mr. Smales says:— “The facts are, Captain Cook published the first vocabulary of the language, as may be seen in his works.” (yes; at vol. iii, p. 474, we have that vocabulary, containing 32 common words, nearly all nouns, and the first 10 figures, making a grand total of 42 words.) Then Mr. Smales says:— “Several other vocabularies were published from that time (1773) to the time (1820) when Professor Lee published his grammar and vocabulary at Cambridge.” (Has Mr. Smales ever seen them? those “several other vocabularies,” which, he states, were published during those 50 years, before Professor Lee’s? And would Mr. Smales prefer Professor Lee’s orthography, based on an alphabet of 20 letters?) Then, Mr. Smales proceeds:— “Various publications were printed by the different missionary societies and others up to 1842, when Dr. Maunsell published the first Maori grammar. In 1841, Bishop Williams’s dictionary with a short grammar was published.” (I have partly compressed both your own and. Mr. Smales’s remarks.) Now, “the facts are” (to use Mr. Smales’s words): —1. That the first sheets of Bishop Williams’s Maori Grammar were composited and printed by me early in 1838 (soon after the printing and binding of the first Maori New Testament were completed). 2 That the Grammar would have been printed early in 1833, only for the pressing want of school books and of the New Testament, 3. That it was again set aside (in 1838) in order to print, &amp;c., the whole Prayer Book of the Church of England (nearly 400 pages), which, with much other pressing work for schools, was only finished in November 1841, when the printing of the Bishop’s Grammar and Dictionary was resumed: and, as it always gave way to the printing of works for the Church Mission (and for the newly arrived Government), it was again delayed, and so not commonly published until 1844. The Bishop, however, in his preface to the first edition, says “That the whole of the work was prepared for the press six years ago.” Further, I may remark, that Bishop Williams’s MS. Dictionary was always at the service of every one who cared to avail themselves of it; and several gentlemen (outside of the Mission) did so— among whom were Mr. Busby, Dr. Marshall, Baron Hügel, Dr. Ford, Mr. John Busby, Captain Clendon, Mr. Allan Cunningham, Dr. Dieffenbach, &amp;c., besides those Church Missionaries who came after—as Dr. Maunsell, Rev. R. Taylor, and others. To me, Bishop Williams’s MS. Dictionary was an invaluable help, especially in 1835, when I was acquiring the language. In conclusion, I will just copy from the old printing office account books of the Church Mission which I have now before me (records, I may call them!) a few entries of my having (as Superintendent of the Church Mission Society’s Press) issued copies of the first sheet of Bishop Williams’s Grammar (and also of the Maori New Testament complete) in 1838–9, to Mr. Busby, Rev. N. Turner, Dr. Day, Mr. Ford, Commodore du Petit Thouars, Rev. Dr. Lang, Bishop Broughton, of Australia, Capt. O.P. King, R.N., Rev. Maunsell (now Archdeacon), Rev. R. Taylor, &amp;c., &amp;c. Some, no doubt, of your early Auckland and Bay of Islands settlers will remember many of those persons, most of whom, with our lamented Bishop, have preceded us a short way in our journey—I am, &amp;c.,</p>
+         <p>
+                  <hi rend="smallcaps">William Colenso.</hi>
+               </p>
+         <p>	Napier, February, 1878.</p>
+      </body>
+   </text>
+</TEI>

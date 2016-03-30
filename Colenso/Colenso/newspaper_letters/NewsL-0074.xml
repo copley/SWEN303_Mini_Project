@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0074">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1877 Mr. Colenso and temperance. Hawke’s Bay Herald 14 February.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1877-02-14">1877 February 14</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <creation>
+          <!-- The date at the end of the letter specifies 1878 - is
+               the mistake in the transcription or by Colenso? -->
+          <name type="place">Napier</name>
+        </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1877 Mr. Colenso and temperance. 	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 14 February.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—As a rule I never reply to anonymous letters; but you have one in your paper of this day (Tuesday) which, for 3 reasons, I would notice.—l. Because the slanderer has dared falsely to assume an honorable name (I.O.G.T.<note xml:id="ftn34" place="foot" n="34"> International Organisation of Good Templars—<hi rend="italic">Ed.</hi>
+            </note>) which does <hi rend="italic">not</hi> belong to him,—neither are those letters—(or any of them) the initials of his own well-known name:—2. Because of his malevolent intention,—although some allowance is generally granted to <hi rend="italic">such</hi> low principled persons at election times:—and, 3. Because no lie is so base, or so deep, as that which contains half of the truth. I know that the writer will attempt to wriggle out of this,—by his placing the fault to his “<hi rend="italic">bad memory</hi>!” (which he has already mentioned,) as an easy way of escape: but such an evasion won’t do for <hi rend="italic">him</hi>. (I could give him a useful recipe for “lying and a bad memory,” if he will take it to Bowerman, or Ellis, and then swallow it after it is mixed.) He knows, very well, that the letter which I last year wrote, (and which he has “the audacity” to refer to,) was <hi rend="italic">not</hi> against Constable Madigan for <hi rend="italic">doing his duty</hi>, (which I, for one, should ever be foremost to uphold him in,)—but, <hi rend="italic">for his overstepping his dut</hi>y, and interfering with the <hi rend="italic">gift</hi> of a jug of beer to a working-man for his Sunday’s dinner. </p>
+         <p>And so with what followed in my letter on that occasion;—namely, my possibly going to Havelock on a Sunday and giving away beer. </p>
+         <p>All that was written to prove the principle of our common British liberty; or, in other words, to test, whether a poor man, or a hard-working man, at home for the Sunday, should be allowed to accept his beer as a gift, if any one offered or gave it to him. </p>
+         <p>And such a true and honest principle as this all honest Englishmen should uphold; or they may find, when too late, that their giving-in on this tack will surely lead to greater loss of common liberty, or rights. I am, &amp;c., </p>
+         <p>
+            <hi rend="smallcaps">	William Colenso</hi>. </p>
+         <p> Napier, Feb. 13, 1877.</p>
+         <p>
+            <hi rend="bold">1878 The Education Act.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 19 January.</hi>
+         </p>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—A <hi rend="italic">second</hi> letter from Mr W.L. Williams having appeared this morning in the <hi rend="smallcaps">Herald</hi>,—in which he again lays it on thick, hot, and heavy, on the Hawke’s Bay Education Board, (and, as it appears to me, without just cause,)—induces me to trouble you with a few lines in the hope of placing some of the matters so complained of by Mr Williams in a little clearer light. I should not, however, care to do so were the members of our maligned Education Board here on the spot; but, of the five gentlemen who constitute the same, Mr Rhodes and Mr Lee are at Wellington, and Mr Ormond and Mr Chambers are at their country homes, and only one, Mr Newton, resides in town, and he, I presume, has too much of real business to attend to, to notice the mole-hills of Mr. Williams. It is true that Mr. Williams prefaces his first letter, of Monday, the 14th inst., with an apology for his rushing into the fight, by saying:— “As I have not yet thoroughly mastered he Education Act, 1877, it is with some diffidence that I call attention to some mistakes, &amp;c.” And (as Mr Williams only returned to Napier by the steamer <hi rend="italic">Taupo</hi>, on Sunday Evening the 13th) such was allowable; but, then he follows up his attack—after 1 week’s interval, with no one caring officially to notice his first assault,—he should, I think, have been better prepared; for, as it is, a certain <hi rend="italic">animus</hi> is plain enough;—which, from a Christian minister, and in such a cause, would surely have been better avoided. </p>
+         <p>1. In his first letter, Mr Williams says, “It devolves upon the Auckland Education Board, and not upon the old Hawke’s Bay Board, to take the first steps under the Act for the school districts of Gisborne, Ormond, and To Kapu.”</p>
+         <p>Curiously enough, the Auckland Education Board does not think so; as is clearly shewn by what took place at their late sitting, held on the 11th instant. In the Auckland <hi rend="italic">Weekly</hi> 
+            <hi rend="italic">News</hi> of last Saturday, 12th, it is stated:—</p>
+         <p>
+            <hi rend="smallcaps">Gisborne</hi>.—This was an application for money to fence the school building. The Chairman (Mr H.H. Lusk) said this application was placed in an awkward position, by the fact, that the whole of Cook County was omitted from the schedule of the new Education Act, as being within the Provincial District of Auckland, and was placed within that of Hawke’s Bay…. The tenders had been called for and accepted. The inspector said he thought it would be a pity if the whole thing must be broken up.—The chairman.—The question is how can we, the Board for the Provincial District of Auckland, enter into a contract for work to be done in the Provincial District of Hawke’s Bay? The Secretary said, there might be a refund of liabilities.―The Chairman: Still that does not affect the question as to the right of the Auckland Board to enter into contracts for work to be done in the district of Hawke’s Bay.”</p>
+         <p>―So that the Auckland Education Board is here, in their views, at one with the Hawke’s Bay Education Board. I know very well that two blacks will not make one white,―and both Boards may be wrong (?) Still, there is the fact against Mr. Williams.</p>
+         <p>2. Mr Williams finds repeatedly great fault with the New School districts, as for the <hi rend="italic">first</hi> time cast by the Hawke’s Bay Education Board, saying:―</p>
+         <p>― “It certainly looks as if the old Provincial District of Hawke’s Bay had been mapped out into school districts, and, in enumerating them, the Mohaka district had, somehow, been forgotten.”</p>
+         <p>But could not Mr Williams have charitably considered it in another light? which is, also, the true one, viz.—that the Gazetted Road Board Districts of the Hawke’s Bay Provincial District were adopted <hi rend="italic">pro tem</hi> by the Hawke’s Bay Education Board, and their boundaries taken at the beginning of the putting of the new Education Act into active operation, as affording something suitable and ready to hand for starting from to form those boundaries of the new School Districts; bearing, also, in mind (1.) that it was imperative to form them at once: (2.) that no time was to be lost: (3) that all such bounds could easily be rectified: and (4.) that the new Board could very much better do all that. And this would serve to explain the apparently anomalous position of Mohaka,—of which Mr Williams also complains.</p>
+         <p>In thus writing, however, I do not mean to defend all those School Districts, as now carved out and plotted on the map; very far from it; the Education Board itself would not do so; but that is a matter which time alone,―or time with, experience,—can rectify.</p>
+         <p>3. Lastly,—in the concluding words of his letter of this morning, comes Mr Williams’ Parthian dart! It is so exquisitely and keenly double-barbed, that I venture to copy it wholly. He says,</p>
+         <p>― “It is not very creditable to the existing Board that they should have been ignorant of the fact, that the school at Te Kapu has been under the control of the Auckland Education Board ever since its first establishment, and that it never had any connection whatever with the Hawke’s Bay Education Board.”</p>
+         <p>Did Mr Williams really believe in the necessity for writing one iota of this <hi rend="italic">telling</hi> sentence when he penned it? Did Mr Williams not know—aye, and very well know, too,—that the members of the Hawke’s Bay Education Board were all old settlers,—gentlemen who had always taken an active part in the Government of the Hawke’s Bay Province from its formation?—that four out of the five members who constitute it, had been for many sessions members of its Provincial Council, and that its chairman had also repeatedly filled the office of Superintendent throughout many years? Did not Mr. Williams also know, that whenever I have gone to Te Wairoa to inspect the school there, that I have always steadily refused to visit officially the school at Te Kapu, though close by; and that even when solicited to do so by the people of the place, and at the same time willing my self to visit it,—saying, That such was in the Province of Auckland, and so beyond my Instructions from the Superintendent of Hawke’s Bay?—</p>
+         <p>I will answer this: Yes, Mr Williams well knew all <hi rend="italic">this</hi>. Then, why did he pen that sentence? Ah! that is out of my depth; let him answer <hi rend="italic">that</hi>.</p>
+         <p>In conclusion, and as an old man knowing something of the matters in hand,—I would quietly venture to suggest for Mr Williams’ consideration,—whether when he writes again he could not concoct a much more wholesome dish,―by omitting a little of the <hi rend="italic">fortiter</hi> (mustard and pepper) and adding more of the <hi rend="italic">suaviter</hi> (oil and yolk of egg)?—At all events such would be more palatable and useful; as generally, I think, here, in our temperate S. latitude, the public taste runs less on cayenne and chilies.—I am &amp;c., </p>
+         <p>
+            <hi rend="smallcaps">		Wm. Colenso</hi>.</p>
+         <p> Napier, January 18, 1878.</p>
+      </body>
+   </text>
+</TEI>

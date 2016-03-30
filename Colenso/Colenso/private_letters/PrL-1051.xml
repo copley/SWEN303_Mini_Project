@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1051">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1898 June 4: to Mrs de Lisle</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MTG HB m64/14, m67/37, 57844.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75566/">Mrs de Lisle</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1898-06-04">1898 June 4</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1898 June 4: to Mrs de Lisle<note xml:id="ftn3-903" place="foot" n="903"> MTG HB m64/14, m67/37, 57844.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier’<lb/>June 4<hi rend="sup ">th</hi>., 1898.</p>
+         <p>Dear Mrs. de Lisle</p>
+         <p>I have to thank you for your kind note—so full of good news <hi rend="italic">re </hi>your son:—I received it while inland, where I stayed much longer than I had intended, owing to kind-hearted folks &amp; fine weather: I returned last week &amp; have been <hi rend="italic">once </hi>in town since, but, having several little matters of business to attend, could not well call, [only look up in passing] but <hi rend="italic">fully intend </hi>to do so when I next go down, say some day of next week—if <hi rend="italic">fine</hi>. I trust <hi rend="italic">you </hi>(<hi rend="underline italic">all</hi>) are quite well &amp; happy.–</p>
+         <p>I am Yours, faithy.,</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

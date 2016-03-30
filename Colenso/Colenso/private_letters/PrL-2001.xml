@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrL-2001">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Undated: Colenso  to McLean</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1026569</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="-----">Undated</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>Undated Colenso to McLean (#1026569)</p>
+		</front>
+		<body>
+			<p>Tuesday aftn.</p>
+			<p>My dear Sir </p>
+			<p>I half looked for you yesterday—but failed in finding you.—I enclose you a memo of account for fencing (which I think I gave you when last here)—the whip you had in leaving—&amp; the Maori Test. I sent to Mr Barclay as you desired.—Can’t you come up and spend the evening with me?—Or tomorrow eve?—Or any evening this week— </p>
+			<p>Yours sincerely W. Colenso. </p>
+		</body>
+	</text>
+</TEI>

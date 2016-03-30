@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0033">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1860 Open column. Hawke’s Bay Herald 27 October.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1860-10-27">1860 October 27</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1860 Open column.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 27 October.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—That some among us should be led in these stirring and excitable times to take strange and, sometimes, even perverse views of public matters, is not greatly to he wondered at. A considerate man, however, will always make every allowance for the peculiar standing of the observer, as well as the varied circumstances under which any object has been by him viewed. Granting this, it must also be yielded that a man is in common justice bound to ascertain the truth of a charge before he makes it. And if this simple and easy rule but be generally adhered to, how many erroneous charges arising from ignorance would annually fail to be made! </p>
+         <p>In your last week’s paper I notice a letter from your correspondent F.C., who, writing on the rise, &amp;c., of the Taranaki war, (and apparently on the popular and common sense side,), cannot omit aiming a blow at the Government. But as it has been with others so it is with F.C.; his charges mainly arise from ignorance, as I shall shew. He says:— “It was the duty of the Government of the Colony to lay a <hi rend="italic">clear, distinct, and strictly correct</hi> account of the whole affair before Maori as well as the white population; and no better vehicle was required for this end than the “Karere Maori,” provided the authorities took care that a sufficient number of copies were struck off and distributed, to allow one or more to every pah throughout the Colony. That the Government did not do this appears to me to be a serious error.” Again, he says:— “But Rangitake’s sitting quietly while Teira offered his land, and while the kaitaka mat lay at the feet of the Governor, appeared to shake their (F.C.’s Maori hearers) belief in the justice of Rangitake’s cause, and led me to the opinion that a clear, distinct account from Mr. McLean, or some other influential official, printed and circulated among them, would at least have caused a difference of opinion among them, if it had not actually led them to admit the justness of the conduct of the Governor. That Mr. McLean has explained these matters to some of the Maori people whenever opportunity offered, I do not doubt, <hi rend="italic">in conversation</hi>; but a printed account would have been of infinitely more importance, and would have been eagerly read and discussed by them all. </p>
+         <p>Sir, in the “Karere Maori” of July 31, (the very Government Maori serial mentioned above by F.C.,) this matter is given pretty fully. In that periodical (on this special occasion swelled from 4 or 6 to 62 pages) Mr. McLean himself again gives a clear and distinct account of the whole affair. Commencing at page 41, and ending at page 51, his recital occupies no less than 11 closely printed pages. Already, at page 48, has the statement been made, which is so earnestly desired by F.C. to be yet made, viz:—that of “Rangitake sitting while Teira offered his land, and while the kaitaka (parawai?) mat lay at the feet of the Governor,” &amp;c., &amp;c. And further, several copies of this periodical were very shortly after its publication in the hands of the principal natives of this Province. And if there had been but <hi rend="italic">one</hi> copy among them—or <hi rend="italic">one</hi> M.S. letter containing these facts,— F.C. must know well, that in less than a week after its having been received by any one chief of this Province it would have been known alike to all. F.C. has surely known enough of the natives, and also knows enough of their language to have known that their word or relation in important matters affecting themselves, (especially grave political ones,) should ever be cautiously entertained. </p>
+         <p>	 		I am, Sir,</p>
+         <p>				Yours, &amp;c.,</p>
+         <p>
+            <hi rend="smallcaps">William Colenso. </hi>
+         </p>
+         <p>Napier, Oct. 24, 1860. </p>
+      </body>
+   </text>
+</TEI>

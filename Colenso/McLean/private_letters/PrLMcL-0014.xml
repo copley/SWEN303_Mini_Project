@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0014">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1859 August 30: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1004856</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1859-08-30">1859 August 30</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1859 August 30 McLean to Colenso (#1004856) </p>
+		</front>
+		<body>
+			<p>Port Napier 30 Augt. 59 </p>
+			<p>My dear Sir, </p>
+			<p>I have to thank you very much for the trouble you have taken in giving such good practical hints on the Runanga and King question. </p>
+			<p>Your views accord with my own on the subject. </p>
+			<p>I shall give the letter a further and more careful perusal, and shall avail myself of a conversation with you before you go up to Hapuku’s kainga. </p>
+			<p>I remain </p>
+			<p>My dear Sir </p>
+			<p>Yours very truly </p>
+			<p>Donald McLean. </p>
+		</body>
+	</text>
+</TEI>

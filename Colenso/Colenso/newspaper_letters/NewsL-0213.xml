@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0213">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Editorial: Poverty Bay Herald 9 February 1899.</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <date when="1899-02-09">1899 February 9</date>
+          <publisher><name type="organisation">Poverty Bay Herald</name></publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold italic">Editorial: Poverty Bay Herald 9 February 1899.</hi>
+      </p>
+    </front>
+    <body>
+      <p>The Rev. W. Colenso, of Napier, has made another gift of £1000 to his native town of Penzance, Cornwall. The sum is to be added to previous gifts, and the interest of the whole is to he shared annually, under the title of “The Colenso Dole.” It is stipulated that the dole shall be open to the poor of all creeds, but Cornishmen are to be preferred, and especially <hi rend="italic">bona fide</hi> townsmen of the borough of Penzance, moreover always preferring the unfortunate, struggling, prudent working man, to the unthrifty and lazy and men of drinking habits. The Penzance Borough Council, as evidence of their recognition of Mr Colenso’s liberality towards his native place, unanimously decided to present him with the honorary freedom of that ancient borough.</p>
+    </body>
+  </text>
+</TEI>

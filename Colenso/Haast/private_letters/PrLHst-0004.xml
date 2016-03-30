@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1106">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>11 May 1883: Haast to Gore.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9511/>Sir Julius von Haast">Sir Julius von Haast</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Te Papa MU000094/007/0001.</p>
+         <p>Transcription published in "The Correspondence of 
+Julius Haast and James Hector, 1862-1887", Sascha Nolden, Rowan 
+Burns &amp; Simon Nathan.  Geoscience Society of New Zealand Miscellaneous Publication 133D, 2012.  ISBN 978-1-877480-23-2. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133D.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1883-05-11">1883 May 11</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">James Hector</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Haast to Hector, 11-5-1883 Te Papa MU000094/007/0001.</p>
+      </front>
+      <body>
+      <p>11/5/83 </p>
+            <p>My dear Hector, </p>
+            <p>In a letter lately received from Buller, he says “Hector says you have abandoned your 
+Moa theory and given in your adhesion to him on this 
+quaestio vexata
+”. In order not to give 
+rise to any misunderstanding, I give 
+you a verbatim copy of my answer. </p>
+            <p>I fear Hector has somewhat misunderstood me
+; what I said was that since I read that 
+speech of yours in the Cambridge Maori case 
+that a legend about a Pet Moa had been 
+accepted by both sides as correct, I had lost my fa
+ith in Colenso’s statement, that beyond the 
+fabulous account of a Moa with a human 
+head etc all the other accounts had been 
+manufactured since the Maories had been told
+ by the Europeans, that the big bones were 
+those of a large bird once inhabiting New Zeala
+nd. This as you will see, does not change in 
+any degree the evidence of the long extinction 
+of the Moa, as shown by me, but proves only 
+the fact, that the inhabitants of NZ for long generations past
+ have retained an account of these 
+large birds which became extinct through their ancestors. However as I wish only truth, I 
+shall wait patiently &amp; I have no doubt, that gradually we shall have more evidence to 
+establish the former beyond dispute.  </p>
+            <p>So far my letter to Buller. I hope you had a 
+pleasant trip to the North &amp; are now back 
+to your home.  </p>
+            <p>Ever faithfully yours </p>
+            <p>Julius von Haast. </p>
+</body>
+   </text>
+</TEI>

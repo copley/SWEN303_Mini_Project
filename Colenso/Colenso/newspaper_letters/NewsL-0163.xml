@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0163">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1892 Baron Rothschild on labor . Hawke’s Bay Herald 12 November.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1892-11-12">1892 November 12</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1892</hi>
+                  <hi rend="bold"> Baron Rothschild on labor</hi>
+                  <hi rend="bold">. 	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 12 November.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—I send you, subjoined, an extract from the London <hi rend="italic">Standard</hi> of September 16th, containing a portion of a recent dialogue between two eminent public men in France on the great Labor Question, which seems to me to contain some just and admirable common sense remarks and opinions, given in a few plain and pregnant words on that important subject: Trusting you may find room for them in your columns. I may also say that I am the more inclined to ask of you this favor, for these reasons:—They are eminently suited to our present circumstances here in this colony, and they are almost epitomes of similar wholesome views and teachings contained in Holy Writ.—I am, &amp;c., </p>
+         <p>
+                  <hi rend="smallcaps">		W. Colenso,</hi>
+               </p>
+         <p> Danevirke, November 11, 1892.</p>
+         <p rend="end">
+                  <hi rend="smallcaps">Paris</hi>, Wednesday night. </p>
+         <p>M. Jules Huret, who is publishing in the <hi rend="italic">Figaro</hi> the results of an inquiry into the labor question, after having taken the evidence of working men and women, conceived the idea of obtaining Baron Rothschild’s views on the question. Accordingly, he travelled to Dinard, where the head of the Paris branch of the Rothschild family is spending the summer, and found no difficulty in gaining an interview with the great banker. In answer to inquiries as to what he thought about the present labor crisis and the Socialist movement, the Baron said:— </p>
+         <p>I do not believe that any crisis exists just now. There have been temporary crises caused by unfortunate failures, such as that of the Barings’ Bank in London, but the general situation in Europe has undergone no change, and I do not regard it as unsatisfactory. As to an uneasy feeling among the working classes leading to a menacing Socialist current, for my part I do not believe in the existence of any such movement. I feel sure that the working classes, generally, are very well satisfied with their lot, and that they do not trouble their heads with what is called Socialism. It is absolutely untrue that good workmen demand an eight hours day; it is only the lazy and incapable ones that do so. The men with wives and children, steady, orderly men, have no idea of being prevented working the time they consider necessary for their requirements and those of their children. </p>
+         <p>The conversation turning upon capital, M. Huret remarked that the Socialists said that capital meant other people’s labor. The Baron replied:— </p>
+         <p>How so? Barring unfortunate exceptions, the result of unavoidable accident, every man, as a rule, possesses that share of capital which is commensurate with his intelligence, his energy, his own individual labor. Of course luck and chance occasionally interfere with the lot of individuals. No doubt worthless people are favored by chance, and deserving persons meet with unfair usage; but the same law is applicable to all alike, on every rung of the social ladder; and the only general law, the only just law, is that which lays down that all men alike must work. You ask whether there will always be rich and poor? You might as well ask whether there will always be the sick and the healthy. War against capital is mischievous and foolish; Anti-Semitism is foolish and hideous. This double war is waged by one and the same class of minds. If, unfortunately, such insanity obtained a footing in any country, the result would be its definitive ruin. </p>
+         <p>The interview came to a close with the following dialogue:— </p>
+         <p>M. Huret,—People regard you, M. L. Baron, as the happiest man on earth, with all your milliards. </p>
+         <p>The Baron.—My milliards? I saw in a paper the other day that I possess three milliards of francs (one hundred and twenty millions sterling). This is sheer insanity. Well, no matter the figure. Does wealth secure happiness? Ah, no! happiness is quite another thing, Of course, if there were not some compensaton attached to wealth it would not be worth while to work so hard for it, but real happiness at bottom means work.</p>
+         <p>M. Huret.—How about the unearned increment ? Do you not think there is some justification in the attacks on the law of inheritance by which a man is put in possession of wealth he has not earned? </p>
+         <p>Baron de Rothschild.—Are you married? </p>
+         <p>M. Huret.—Not yet. </p>
+         <p>Baron de Rothschild.—When you are a husband and a father you will never allow the law of inheritance to be attacked. </p>
+      </body>
+   </text>
+</TEI>

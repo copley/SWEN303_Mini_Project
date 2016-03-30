@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0296">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1875 September 22: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1875-09-22">1875 September 22</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1875 September 22: to Luff<note xml:id="ftn2-229" place="foot" n="229"> ATL MS-Copy-Micro-0485-4.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, N. Zealand,<lb/>Sept. 22, 1875.</p>
+         <p>A. Luff, Esq.</p>
+         <p>My Dear Sir,</p>
+         <p>My last to you was on 25<hi rend="sup ">th</hi> August, since which I have had no letters from you, but 2 papers of July, for which I thank you.—</p>
+         <p>Our Mail for Engld. is closing and I don’t like for it to leave us without a line to you. I have a few items of interest to mention, though not of a pleasing character. Poor Mrs Tiffen died at Wellington last week, &amp; there she has been buried. She had been long ill here, and, as a last resource, a sea voyage &amp; travelling in America was thought of—but she only reached W.—F.T. went down, but not in time to see her alive. This last week has been a sad one of <hi rend="italic">sudden </hi>Deaths <hi rend="italic">here</hi>: a man named Ellis, a carter, was killed, in Dalton Street, near Dennett’s; in driving, his horse bolted, and he, leaping off, fell, &amp; the wheel went over his neck &amp; chest—dead immy. Two evenings ago, a Scandinn. at work near Dolbel’s Brick Yard, was killed instantaneously by a huge rock falling on him. The same evening, an hour after the arrival of the “Helen Denny,” one of her passengers would swim on shore, from the moorings, &amp; was drowned; body not found. And this mg., a newly-arrived Immigrant named Mason (who had taken honours at King’s College) was found dead in a closet on the White Road belonging to a man named Fairhead: he had just taken his breakfast.—</p>
+         <p>The “H. Denny” had a beautiful passage of only 86 days; no sickness, and only one death—&amp; that a weak infant. She came in, pretty close, &amp; went round the Bluff looking well with 24 sails set! &amp; Colours flying, &amp; fired 3 guns! Her Immigrants seem a nice lot.—The “Merope,” and the “Waikato” left E. at the same time, &amp; the “Chile” 3 weeks before but these have not yet turned up: the “Strathmore,” which left E. <hi rend="italic">in April</hi> has not been heard of, &amp; is supposed lost.<note xml:id="ftn2-230" place="foot" n="230"> She was wrecked on Crozet Islands and the story of the survival of passengers and crew was later related by Colenso in a letter to the editor.</note> I received a letter from Registrar at Wellington, requesting me to pay fees; I did so—₤1.0.0.—as you desired. But I have still money of yours in hand, as I have <hi rend="italic">not yet paid</hi> the <hi rend="italic">old</hi> Road Board Rates at Havelock,—I have written about it 3 times. W. Couper has pd. me for his triangular bit at Havelock (formerly Garry’s),—and Avison has also paid the <hi rend="italic">smaller </hi>sum for his <hi rend="italic">triangular </hi>plot.—P. Dolbel has sold his Mohaka Run (through Miller, but P.D. <hi rend="italic">doing</hi> the <hi rend="italic">work</hi> going thither <hi rend="italic">twice</hi> w. the purchaser, &amp;c, &amp;c.) for ₤1400.—(<hi rend="italic">not</hi>, however, Cash,) and Miller has charged ₤70!!—I suppose now P.D. will be able to get out of debt. He is very well. The Taradale Road is just open again: Rymer will run an extra ’Bus that way.—Tuke has fenced in Mrs Tuke’s land near U.M. chapel, &amp; has stuck up a notice to let it; he is now living in W. Thomas’ old House. I see a Building commenced next to Dr. Hitchings’ <hi rend="italic">old earth </hi>fence, on the diagonal short cut after leaving my Gate,—whose it is I don’t know.—Knowles has leased that entire section. Garry has failed (at a heavy loss) in getting water for Robjohns’ Brewery; the 2 <hi rend="italic">E.R. </hi>Sns. thereabouts were let last week by auction: one for ₤15.,15., &amp; 20, &amp; one for ₤10.,15., &amp; 20,—ea. 3 years.—I have sold nothing since. Your old acq. Brown of C. Clive, is selling off. I have run a fence (at last!) across my hill paddock, from the gate to the Ngaio bushes; and have blocked up the <hi rend="italic">upper</hi> fence &amp; gateway in the corner,—&amp; have put my <hi rend="italic">upper </hi>Milton Road gate &amp; entrance to rights.—A few more houses are going up in the town—one I see on J.A.S.’ section near mine &amp; M. Club. Wilson has 3 tenants for his <hi rend="italic">4 </hi>house “Terrace”. Whitmore I hear is in Melbourne, on his way here.—H.E. Webb is out for P. Bay, in P.Cl. Auckland against S. Caulton—and will, they say, get in! (I must send you this mg’s. Herald, that <hi rend="italic">you may see</hi> a squib! in it: <hi rend="italic">you</hi>, above all, will understand it.) The Abolition Provinces Bill has been carried, after <hi rend="italic">long</hi> &amp; severe fighting, by ⅔rds. of the Ho.,—but the troubled waters have <hi rend="italic">not yet</hi> subsided!—Heaps of bitter words said: Sir D., and J.D.O. dreadfully abused—particularly in <hi rend="italic">Auckland</hi> Papers. Karaitiana has told the Ho., that if there are to be only <hi rend="italic">4 Maori </hi>Reps., the M. won’t come again! (Just what I long ago foresaw, &amp; told D.McL.) Sir G.G. goes in for a tax (export duty) our <hi rend="italic">Wool</hi>: and <hi rend="italic">Doctors</hi> are <hi rend="underline italic">not</hi> to be <hi rend="italic">Coroners</hi>.—(<hi rend="italic">Both</hi> of <hi rend="italic">these</hi> were also brought forward by one!) Two Select Comms. have given H.R.R., &amp; Robertson, <hi rend="italic">Damages</hi>!! &amp; called the attention of the Govt. to the state of the Land laws, &amp;c., in H. Bay! H.R.R. has just got a Comee. to enquire into Te Aute, &amp; Pov. Bay (Williams’ farm!) trust and Henare Tomoana &amp; Karaitiana are petitioning <hi rend="italic">re </hi>“Goughs” (!) &amp; Maori Islands:—but, I believe, Tareha got paid for this <hi rend="italic">latter</hi>. But I must refer you to the Papers for news: Mr. Grubb tells me that <hi rend="italic">he</hi> will send you Papers this month—so I shall not.—</p>
+         <p>Willie, who got home <hi rend="italic">well</hi>,—asks me for <hi rend="italic">your </hi>address, which I am giving him by this Mail. W. saw Braithwaite in Devonshire, &amp; had a <hi rend="italic">talk</hi> with him. My Brother, who was in L. waiting, &amp; who went on board of the “Cel. Queen” in St K Docks (on <hi rend="italic">her entering</hi>,) tells me he thinks W. will go to sea again. I shall be ready to pay <hi rend="italic">any </hi>premium for a <hi rend="underline italic">good</hi> ship &amp; <hi rend="italic">master</hi>:—(in the spring,)—but I shall hear more by &amp; bye.</p>
+         <p>I have again been laid up a week &amp; more w. Rheumsm. caught in the U.M.School Room, which is <hi rend="italic">unlined</hi>: I am better again, &amp; have been 3 days his week in Miss Gascoigne’s School. I hope you are <hi rend="italic">quite </hi>well, and also all your family,—&amp; hoping you may <hi rend="italic">all</hi> bear the severe Winter of England, I am <lb/>             Yours truly     W. Colenso.</p>
+         <p>I forgot to tell you of Drower &amp; his 5 months’ rent. I obtained the <hi rend="italic">whole</hi> money from B for ₤8.13 at my own responsibility. And after some time waiting on D.—he sent me a Chq. for ₤<hi rend="italic">130.</hi> &amp; a renewal at 3 mths. for ₤<hi rend="italic">150</hi>. The Chq. however dated 31<hi rend="sup ">st</hi>. Augt. I sent it in on 1<hi rend="sup ">st</hi>. inst.—and it was <hi rend="italic">refused payt</hi>.!! This upset me. I wrote to D.—he did <hi rend="italic">not</hi> reply—but after <hi rend="underline italic">waiting</hi>—the Chq. has been paid.—</p>
+         <p>I have not seen Mr Sidey since I last wrote, he has been unwell, I was told, but he is now better and able to do duty. I counted 170 Black swans in the lagoon 3 days ago!! they will devour all the fish.——</p>
+      </body>
+   </text>
+</TEI>

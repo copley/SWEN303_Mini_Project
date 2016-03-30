@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0779">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1891 May 6: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0496.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1891-05-06">1891 May 6</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1891 May 6: to Harding<note xml:id="ftn3-525" place="foot" n="525"> ATL qMS-0496.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke<lb/>May 6<hi rend="sup">th</hi>. 1891 (night).</p>
+         <p>Dear Mr Harding</p>
+         <p>Yours of 4<hi rend="sup">th</hi>. came to hand this evening: I had been on the look-out for yr. letter, being extra dull here with a <hi rend="italic">severe</hi> cold (head &amp; chest) a kind of Influenza—caught last Sy. at Ch.—where it was <hi rend="underline italic">very cold</hi>, We have been having a wk. of wet &amp; cold, (forty. for <hi rend="italic">me</hi>, little wind)—but today <hi rend="underline italic">fine</hi>—which seems fixed.</p>
+         <p>I reply at once—though little to <hi rend="italic">write</hi> about of any consequence. Mrs Hill passed yesty. on her return jy. I <hi rend="italic">happened</hi> to be at P.O., &amp; so saw her—she had told me, when going S., she should return on My.—&amp; weather too severe then for <hi rend="italic">me</hi> to show up! Holder, too, went N. yesty., &amp; J.P. Hamlin (who was here) today.—Although more than a week has passed since my last to you—I have really nothing to <hi rend="italic">tell you</hi>—unless it may be of the windy warfare going on in the “Herald” (various combatants! but all anonymous!) re Maori words.—If I thought you <hi rend="italic">saw</hi> the “H.” I would not write about them: I fancy it began through R. Price’s book “Journey to the Ur<hi rend="underline italic">i</hi>wera Country”; (as if no one had gone thither before him!) Well: someone corrected <hi rend="italic">that</hi>, also, <hi rend="italic">using</hi> my words—places around N—from “3 Lity. P.” Then another took it up: that the Misss. had spoiled the Mao. Lang—omitting <hi rend="italic">d</hi> (as in Ahuri<hi rend="underline italic">d</hi>i) and <hi rend="italic">f</hi>, &amp;c.—then another corrected Ur<hi rend="underline italic">e</hi>wera:—and lastly <hi rend="italic">another</hi> brought forth the “<hi rend="italic">new authority</hi>”—“Tregear spells the word Ur<hi rend="underline italic">i</hi>wera”, &amp;c.—Moreover: Murdoch (Hastings) &amp; 2 others, are also fighting over <hi rend="italic">English</hi> orthography &amp; Grammar!!</p>
+         <p>As I find from your last you have not seen Davis’ Bibliography, I have copied (in part) a few things therefrom—just to <hi rend="italic">egg you</hi> on to look into it for <hi rend="italic">more</hi>, &amp; take notes. And as <hi rend="italic">you</hi> manage to get 2<hi rend="sup">nd</hi>. hand &amp; other books from Home, I hope you may get the <hi rend="italic">first</hi> one I have mentioned, also <hi rend="italic">Bidwill’s</hi>: I never before knew his book was pubd. in London, always supposed it was ptd. &amp;c. down West.—</p>
+         <p>You tell me of your “12 hours sleep”! how I envy you!! Very glad to hear of your dear boy “<hi rend="italic">steadily improving</hi>”, &amp; of all rest being well. I should like to have known Mr Pope, of whom I have often heard during many years: besides, I <hi rend="italic">rarely</hi> ever talk <hi rend="italic">in train</hi>, as I <hi rend="italic">don’t hear there</hi> distinctly. I always had grave doubts <hi rend="italic">re</hi> the Public <hi rend="italic">Trust</hi> Office! &amp; if you were to ask, “Why?” I could scarcely satisfactorily answer.—</p>
+         <p>The Bp. returned from his <hi rend="italic">long</hi> sojourn N. among the Maoris, &amp;c. on Friday night last: he has been expected <hi rend="italic">here</hi> by Mr Robertshawe, but no signs, yet. I have pretty nearly fixed for leaving on 22<hi rend="sup">nd</hi>—but I am pretty sure I shall have to <hi rend="italic">return to Waipawa</hi> on 25<hi rend="sup">th</hi>. for business <hi rend="italic">there</hi> w. Lawyers &amp; others—which can only be attended to personally and I must go to N. <hi rend="italic">first</hi> to fetch documents: and I don’t think I shall come back to <hi rend="italic">this place</hi>, for this season: I have <hi rend="italic">plenty</hi> of writing <hi rend="italic">to do</hi>—but <hi rend="italic">am idle here</hi>! &amp; grieve over it. Be very sure of my remembg. you to Mrs. Trestrail &amp; to Mr Grant, an excellent Xn. letter to hand yesty. from Rev. R. Stewart, Woodville—<hi rend="italic">re</hi> my letter in “Bush Advocate”. Thanks for <hi rend="italic">Opotiki</hi> News.—</p>
+         <p>I have been, at times, thinking on your big Botanical purchase, and I am almost sure it is the one spoken of by <hi rend="italic">Lindley</hi>—in a half comic half-sneering way! L. says (in writing on the names of certain genera of plants), that <hi rend="italic">Hillia</hi> was given to one, a plant with a long slender tube (neck) to its corolla, on account of the <hi rend="italic">slender</hi> pretensions to Botany that – – Hill had; who, however, presumed to get up a pompous work (like him!) illustrated—having the means to do so! I shall soon know, when I get the book. I have said, “<hi rend="italic">Lindley</hi>”. (who could &amp; did write in that way of others!) but on “second thoughts” it may have been said by <hi rend="italic">Sir J.E. Smith!</hi>—this, too, I shall <hi rend="italic">know</hi> when I get back to N.—I can put my hand on the book containing the remark: though I have not read it for 40 years &amp; more!</p>
+         <p>A great to-do here in this neighbourhood (Oringi), through the Maori owners re-entering on Gaisford’s Leasehold &amp; ploughing his grass meadows!—&amp; (said to be) <hi rend="italic">within</hi> the law in so doing. It appears, that in the Lease are the words—“If rents not paid within 3 months of becoming due” they can do so! And (it is said) that there are 100 &amp; more owners, &amp; G. has paid some but not all: be that as it may, there is more Law! &amp; <hi rend="italic">work</hi> for those “blacklegs:” it is also said, that <hi rend="italic">a</hi> white m. is at their back, &amp; perhaps <hi rend="italic">so</hi>. But <hi rend="italic">G</hi>. has always had a <hi rend="italic">name</hi> for being <hi rend="italic">behind—like</hi> f-in-l., H.R.R.—</p>
+         <p>And now, once more, Farewell! </p>
+         <p>with Kindest regards &amp; very best wishes,</p>
+         <p>Believe me, yrs. sincerely, W. Colenso.</p>
+         <p>Did you notice in Carpenter’s Cat. No. 682. “Willie’s. first Eng. Book”? Who got the Maori “Rob. Crusoe”?</p>
+      </body>
+   </text>
+</TEI>

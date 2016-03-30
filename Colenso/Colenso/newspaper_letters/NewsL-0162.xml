@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0162">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1892 Seventh Day Adventists. Hawke’s Bay Herald 7 April.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1892-04-07">1892 April 7</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1892 Seventh Day Adventists. 	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 7 April.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—I was really sorry (and something more) in reading in your issue of yesterday such a long and (to me) sickening notice of those wretched men the Adventists! one of the lowest and worst sects of falsely-called “Christians” known to me—who through that kind of pulling aided by you unsettle and lead astray the simple, the quiet, and the unwary. </p>
+         <p>I enclose an advertisement of theirs—often repeated in the columns of the London <hi rend="italic">Standard</hi> (once a fortnight, or so)— perhaps such may have escaped your notice, and I would thank you to make a fit and proper use of it early in your paper. I have long ago (and again recently) told some of their leaders my opinion of their blasphemous doings—even to the saying that I shall rejoice to see them served as a false prophet was served in the reign of one of the Tudors (?) who had prophesied the King’s death at that day 12 months:— “Keep him well. Do him no harm: until that day arrives. If the King dies, honour that prophet; if not, hang him.” And hung he was, and serve him right—and so (as I have said) I would treat Daniells—after their predicted day of March, 1896. </p>
+         <p>You may make what use you please of this letter—publish it, if you will, and I shall further thank you.—I am, &amp;c., </p>
+         <p>
+                  <hi rend="smallcaps">		W. Colenso.</hi>
+               </p>
+         <p>Dannevirke, April 6, 1892. </p>
+      </body>
+   </text>
+</TEI>

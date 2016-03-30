@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0193">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1865 August 2: to Catchpool</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-Copy-Micro-0193.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73058/">Catchpool</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1865-08-02">1865 August 2</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1865 August 2: to Catchpool<note xml:id="ftn2-107" place="foot" n="107"> ATL Ms-Copy-Micro-0193.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">G. Ass. Library<lb/>Wellgn. August<lb/>2  1865.</p>
+         <p>My dear Catchpool</p>
+         <p>As I believe <hi rend="italic">you</hi> would like to get a line from me, I single you out of all my Napier friends on this occasion.</p>
+         <p>To begin: we had an ugly embarkation (as you may have heard)—<hi rend="italic">twice </hi>attempted ere we got out &amp; on board: 39 hours doing the passage, to me it was a time of little else but perfect misery, <hi rend="italic">almost</hi> causing me to vow, that if I ever set foot on land again, catch me going &amp;c &amp;c. Our Capt. made Wellington lightho. at one a.m. on Thursday, but, not liking to enter (!) boxed about in the straits until daylight (to the disarrangement of his stewards’ pantry)—at x. a.m. we anchored. An ugly Wellgn. morning rain &amp; wind—&amp; severe <hi rend="underline italic">hail</hi> storms: it cost me 10/- <hi rend="italic">cab hire</hi> alone that day. Lyon very kindly came on the wharf to meet me—at first I went to an Hotel away beyond Rhodes’—in the evening to my lodgings (taken for me by L.) in Wingfield St.—not far from the Ho.—&amp; arranged for 15/- extra (i.e. £2.15.0) per week to get <hi rend="italic">Breakfast</hi> &amp; firing &amp;c. My rooms are small, but the <hi rend="italic">only </hi>2 in the little cot (save the skillion &amp; garret, into which the man &amp; his w. &amp; child stow themselves!) the front door, open to the S.,—opens bang into the sitting room, ditto the back-door, ditto their ladder &amp; trapdoor to the upper, &amp; the fire place (such as I never saw) just large eno. to roast a lark, &amp; chimney smoky! The Bedroom, on the ground floor, is very damp—from which I have a good share of Rheumatism.—And I fear, I cannot well leave it (the lodgings)—although I <hi rend="italic">may</hi>. I spend most of my time in “<hi rend="underline italic">the</hi> House”—or its Library, and Dine at Bellamy’s at 6.—</p>
+         <p>I should tell you—that as we were leaving (shoving off the Boat)—I bawled to Routledge—for your watch—he ran, &amp; pitched it into the Boat, as a Cricket Ball; I secured it—&amp; on Saturday last I took it to Shaw: I <hi rend="italic">then </hi>discovd. your notes—&amp; lost no time in dispatching yours to F., covering it with a note that I should like to see him <hi rend="italic">whenever</hi>, &amp;c.,—but he has not yet responded: in fact F., &amp; Weld, have both been ill, through “over work”—no wonder for F., as the Provl. Council is still sitting. At last Friday’s sitting I found out that Mantell had resigned!!—&amp; as yet no N. Mr. has been appd. D.Bell (just arrd.) has been offd. the sitn., but he (wisely) refuses: Fitzgerald is <hi rend="italic">now </hi>talked of,—as the coming man.—In fact, the <hi rend="italic">whole</hi> of the Ministry wrote a memo., (since printed) that they should resign on the meeting of the G.A.,—but the <hi rend="italic">last </hi>dispatch from Cardwell (2 days before opening) saved them.—The old game has been again played,—lots of letters—priv. &amp; off.—between the Govr. &amp; the Genl.,—(as betn. G. &amp; Fox,)—which will do G—y no good at home—&amp; irk <hi rend="italic">the Colony still lower</hi>: the old general has <hi rend="italic">plainly </hi>spoken,—concerning the removal of the seat of Govt.—the <hi rend="italic">job </hi>of the Waitotara purchase, “a second Waitara,”—the want of common-sense, &amp; “trash” of Mantell—so you may guess the love of the whole lot for him!!—of course, much “<hi rend="italic">secret</hi> dispatch”-writing on both sides, wh. seems to have engrossed their time &amp; attention, while the Colony was (financially) going to the D—l.—</p>
+         <p>The Govr’s. speech, (given the day before I arrived,) and our (precious) reply, you will see in the Papers. Yesterday we commenced in good earnest at noon, &amp; sat till 1 this morning, mostly on the <hi rend="italic">reply</hi>: sharp &amp; bitter things were said on both sides:—by Stafford, agt. <hi rend="italic">Weld</hi> (!) &amp; Sewell—by Weld in reply—by Williamson agt. the Ministry, &amp; by sarcastic Richardson.—Though opposed to much of the reply, we had promised <hi rend="italic">not </hi>to divide on it: at 1 this mg., Weld, <hi rend="italic">unwisely</hi>, called for a Division (amid loud cries of “no, no,”) &amp; persisted in having it: on which, we left the Ho. joined by several Otago &amp; Southland Members: even Featherstone &amp; Harrison, did so: Ormond also: so that there were only about half left—when the Division was <hi rend="italic">not </hi>taken. I spoke, <hi rend="italic">against </hi>some parts of the reply—<hi rend="italic">i.e.—</hi>the Natives into Parliament—their love of “law &amp; order”—their loyalty—peace being partially established—&amp; the absurdity of <hi rend="italic">thanking</hi> (!!) the Governor for taxation. Such <hi rend="italic">may</hi> appear in the Wellington papers: if so, you will see it. We go at it again this day: the Native franchise Bill, against wh. I shall speak—&amp; <hi rend="italic">lots</hi> of other work. There will be lots of <hi rend="italic">sparring</hi> this Session—Stafford seems to be regularly primed: &amp; now that Weld has come out, too, so bitterly &amp; <hi rend="italic">tauntingly</hi> (which Stafford cannot stand)—mischief will be brewing.—There is a strong feeling, however, to support the Weld Ministry—especially from the South. But it is weak: Fitz. (one of their best) is very weak in health.—The increase of duties is from <hi rend="italic">stamps</hi> (but this perhaps includes <hi rend="italic">more </hi>than we know—<hi rend="italic">perhaps</hi> Papers! among others.)<note xml:id="ftn2-108" place="foot" n="108"> WC: The Ministry—on being pressed—said, that, <hi rend="italic">at present</hi>, all of the Provinces share of Customs they purposed taking would be the <hi rend="italic">surplus</hi>: it was curious to hear Fitzherbert defending it!</note> All say we are in for 3 months <hi rend="italic">certain.</hi> Bunny has been returned to the disgust of many Wellingtonians: It made us laugh to see Fitz. &amp; Waring Taylor march him up to be sworn!</p>
+         <p>Wellington is wonderfully improved outwardly. The Asphalte foot pavement all along Lambton Quay makes it dry &amp; nice walking. The day I left you, “<hi rend="italic">Tract</hi>” published in the “Herald” a letter against me—I wrote a reply, wh. Wood <hi rend="italic">may</hi> have pubd.—I hear Ormond was the writer—but I believe <hi rend="italic">Carr </hi>(<hi rend="italic">as before</hi>) was.—Good bye</p>
+         <p>Ever yours truly</p>
+         <p>Wm. Colenso. </p>
+         <p>No.2.—                                                                       Friday morng.</p>
+         <p>My dear Catchpool</p>
+         <p>In haste I write this P.S.—Yesterday I sent to Mundle a Book for my Boy (a Rob. Crusoe) directing it to <hi rend="italic">you</hi>—will you kindly ask M. for it? Lear will call on you for the Book.—</p>
+         <p>Last evg. I was <hi rend="italic">disgusted</hi> at seeing how I was misrepresented in the “<hi rend="italic">Advertiser</hi>”—and intended to bring it today before the Ho., but this mg. I have seen the “<hi rend="italic">Independent</hi>” which is tolerably <hi rend="italic">correct</hi>: I said what the <hi rend="italic">I.</hi> states, &amp; much more.——</p>
+         <p>The 57 Maories, prisoners, are safe on board of a schooner, under guard. The fire-bell rang this mg., an hour before cock-crowg.—but it was a vesssel on fire (I hear). The weather is again very fine: I am daily getting stronger.</p>
+         <p>Believe me</p>
+         <p>My dear friend</p>
+         <p>Yours faithy</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

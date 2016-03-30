@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0072">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1849 June 19: Octavius Hadfield to his sister Amelia</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  "Letter 9."  Page 205.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 8.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1849-06-19">1849 June 19</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71117/">Amelia Hadfield (daughter of Amelia Caroline Hadfield, nee White)</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1849 June 19: Octavius Hadfield to his sister Amelia</p>
+      </front>
+      <body>
+      <p>Wellington, June 19. 1849.</p>
+      <p>My dear Amelia,</p>
+      <p>Since I last wrote, which was in April to Caroline I have received two acceptable letters from her &amp; from my mother, that from my mother dated Nov. &amp; that from Caroline, enclosing one from Mrs. Griffin, dated Feb.  Pray thank them for me for their kind letters.  By the last I was happy to hear that your health had improved, in fact, that you were as well as you usually are: &amp; also that the other members of the family were well.  I was sorry, however, to learn, that India was not agreeing with Alexander's health.  I wrote a day or two ago to give him some account of this country, &amp; advise him to leave India altogether.  As it so decidedly disagreed with him, I cannot see any use in his remaining there: it is of course, a serious step to take, but still, life ought to be preserved if possible.  You will have gathered from my letters, that I think highly of this country.  The truth is that though wealth is not to be acquired here, there is no country where an honest comfortable livelihood can be obtained more easily, or where a climate more suitable to English constitutions could be found.  The only thing against it is its distance from England.  Had it been nearer I should have been strongly tempted to have paid you a visit.  But so much of my time has been lost that I feel I must devote all the time that remains to serve my precious &amp; merciful God according to the measure of my strength.  You will have been prepared by my past letters to expect that my health was improving.  I am very thankful that I have been raised up from a bed of sickness to which I had been confined for more than four years.  I am now really able to work a little, though I am not yet so well as to have discontinued the process by which with God's blessing, my recovery has been effected.  On Sunday last I read prayers, &amp; preached to a congregation of natives, &amp; then read prayers in the English church, &amp; in the afternoon read prayers and gave a lecture to the natives in the Colonial hospital, as you may see it has indeed pleased God to indue me with an astonishing measure of strength.  I still feel a little pain, but I have a good appetite, sleep well, &amp; can sit up through the whole day, so you may gather there is not now much the matter with me.  Dr. Fitzgerald, who has attended me all through my illness is quite astonished at the success of the remedy he prescribed! </p>
+      <p>I am still residing with my dear friends, the St.Hills, but when the doctor gives me permission to leave off my baths I must try &amp; seek direction as to what I shall do.  I shall doubtless be directed from on high, but at present I do not see my way very clearly.  My old place, Otaki, is now filled, so entirely to my satisfaction by Mr. S. Williams, that I would not take any step which should cause his removal to another place; as I have no hope that I could ever again go through what I once did.  Nor do I see any other place to which I could go, though there are many where I ought to be useful.  </p>
+      <p>The Bishop is still very desirous that I should undertake the College.  I certainly feel great interest in it, but feel I should have neither strength, nor that kind of knowledge which would enable me to discharge its duties to my own satisfaction.  I have not given him a positive refusal yet, as it would not be commenced till the spring or summer, but I think I must do so at once.  He may have a higher opinion of me than I deserve, &amp; therefore think me competent to the post; but I think one object in wishing me to be at the head of the College, is to give confidence to the members of our mission as to the system pursued in it.  I might do a great deal of good in it, by carrying on the education of promising young natives who might act as teachers- a class very much needed in this country.</p>
+      <p>Caroline mentions that George was not so well satisfied with him position at Malta as he had been, &amp; might perhaps be leaving it, if so, what would he think of coming out here?</p>
+      <p>The college will be a small establishment at first, still such an establishment in a young colony, when the future condition of many may depend upon things being begun properly, is really very important.  If properly managed it may be the means of immense good, to both races.  I never like to advise on matters of this kind, &amp; I feel that I should have such a strong bias that I could scarcely trust myself to do so, still, I do not think George would regret coming out here, if he should not be better employed at home, &amp; as for climate, none could suit him better.  The Bishop is a good man, but rather crotchety: he and I have always agreed very well, though we differ on some points.  I mentioned in my last letter that I had been appointed archdeacon of this district much against my will, as I do not feel myself entitled to be placed over my brethren: it enables me however, to exert a beneficial influence over them, &amp; to see that many matters are attended to which otherwise might be neglected.  Mr. Williams is doing very well at Otaki, he has a good infant school there, attended by about 150 day scholars</p>
+      <p>We last week engaged a person to teach them English, &amp; the government are so much pleased with it, &amp; especially Sir G. Grey, that they will give me &#163;100 for it this year to increase its efficiency, &amp; will continue to give us support: it is I believe, the only good school, in the country.  The government have proposed a tolerably good plan of education for the white population, but the Legislative Council endeavour to thwart it &amp; introduce the miserable Irish system, which some of us are opposing.  I lately wrote an article in our best paper here upon the subject which I hear was not without its effect; but people here as well as at home are sadly ignorant as to the duties of the state, &amp; of individuals also.  I wish people would think, that is, reflect a little more.  I was much delighted with Mrs. Griffin's letter, I will write to thank her for it when I see Mr. Brown the gentleman she mentions who has not yet arrived.  I am always very happy to hear of any old friends, it is very seldom I hear from them.  With most affectionate love to all at home</p>
+      <p>Believe my my dear Amelia</p>
+      <p>Your very affectionate brother
+      </p>
+      <p>Octavius Hadfield.</p>
+      <p>P.S. I lately purchased a work I had long wished to see- Field's Book of the Church; but it contains only three books, whereas there ought to be five: I wish to obtain the two other books, if they have been published.  It is edited by "Brewer", &amp; published in 1843 by John Bohn, 17 Henrietta St. Covent Garden.  If you can find out whether the second part has been published &amp; if so obtain it for me I shall be much obliged.  If sent, directed to me here, to Dixon &amp; Co. 12 Penchurch<!--previous editor's note: check Penchurch or Fenchurch--> St. it will be forwarded.  </p>
+      </body>
+   </text>
+</TEI>

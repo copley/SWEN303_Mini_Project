@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0073">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1874 Early days of the New Zealand press. Otago Witness 26 December.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1874-12-26">1874 December 26</date>
+               <publisher>
+                  <name type="organisation">Otago Witness</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <creation>
+          <date when="1874-11-28">1874 November 28</date>
+          <name type="place">Napier</name>
+        </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1874 Early days of the New Zealand press. 	<lb/>
+            </hi>
+            <hi rend="bold italic">Otago Witness</hi>
+            <hi rend="bold"> 26 December.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—In the interesting account of the adjourned meeting of the Press Club, which you have published in your issue of the 2nd inst.,<note xml:id="ftn33" place="foot" n="33"> Actually in the 7 November 1874 issue. This is the same Henry Samuel Chapman who wrote with “biting malevolent sarcasm” about Colenso in 1847 (see Bagnall &amp; Petersen, p.266) —<hi rend="italic">Ed.</hi>
+            </note> a few things are stated, in the speech of His Honour Judge Chapman, which are not altoether in accordance with fact; and as it is in my power to correct them, I venture to do so, relying on your courtesy to give what I now write due publicity in the columns of your paper. I feel the more inclined to address you—1. Because what I have to state is closely connected (historically, so I may say) with the introduction of the Press into New Zealand, a matter in which both yourself and the Press Club cannot but be deeply interested; and, 2nd, because what has been publicly uttered by a gentleman of so long standing in our Colony, and holding such a high position as Mr Justice Chapman (on such an occasion, too!), is sure to be received with great attention, and, most probably, be repeatedly published in all parts of the English-speaking world. While, however, I proceed to show some of the errors made by Judge Chapman in his speech, I would be understood as merely doing that which His Honour himself would undoubtedly have done had he been fully aware of it; although some may be ready to detect a vein of the <hi rend="italic">ad</hi> 
+            <hi rend="italic">captandum</hi> genus running throughout this portion of the learned Judge’s remarks. </p>
+         <p>Judge Chapman says:— “He would now come to what would be of interest to his hearers, the early history of the Press of this Colony, particularly the newspaper press…. The first number of the paper (the New Zealand Gazette) was issued on the 18th of April 1841…. Although this was the first newspaper in the Colony, he did not mean to say that the Press which printed the New Zealand Gazette was the first printing press. The Missionaries had a small printing press at Pahia, (<hi rend="italic">sic</hi> Paihia), many years before, which they used to print little books for the instruction of the Maoris—printing prayers and so forth, extracts from the Scripture printed in Maori, and a little Grammar and Accidence for teaching the Maoris English. He had some some of the printing work done by the missionaries, and he thought that the printers of the present day would turn up their intellectual noses at it.—(Laughter.) It was not very good press work, but it was useful in its time.” Then the Judge goes on to say:— “There was also another little press in the Colony; Colonel Wakefield brought with him a little toy-press…. It was the second printing press introduced into the Colony of New Zealand.”</p>
+         <p>Now, then, for the facts.</p>
+         <p>The printing press of the Church Missionary Society, which arrived with me in New Zealand in 1834, was not a “small” one, it being a Stanhope press, royal size; and this was soon followed by a Columbian press of the same size. These were constantly used, not only to print “little books—Prayers and so forth, and extracts from the Scriptures, and a little Grammar”—but to print tolerably large books, viz.:—In 1835, the Epistles to the Ephesians and Philippians, and the Gospel of St. Luke, in 12mo, containing 79 pages; in 1837, the whole of the New Testament, in small pica, 8vo, containing 356 pages, of which edition 5000 copies were printed in 1839, the Psalms, in 12mo, containirg 128 pages, of which 20,000 copies were printed; in 1840, the complete Prayer book of the Church of England, in long primer, 12mo, with its Epistles, Gospels, Psalms, Occasional Services, Articles, and Rubric, and also 42 additional Hymns, forming a book of 372 pages; besides which there were large quantities of smaller books printed, such as Catechisms, Yearly Almanacks, Daily Prayer Books, School Lessons, Primers, parts of the Old Testament, as of Genesis, Exodus, Deuteronomy, Isaiah, Daniel, Jonah, &amp;c., &amp;c., each containing from twelve to fify-two pages in 8vo, and in 12mo. The first English book, being “The Report of the New Zealand Temperance Society,” was printed in 1836, and the first Gazette in English was printed for the Government in 1840.</p>
+         <p>As all these were composited wholly by myself without assistance, and, in part, also printed—and that under great difficulties,* of which neither missionary nor printer of the present day can possbly form any correct idea. I will not say anything as to the quality of the work; yet, in again looking at the printing of those works (copies now lying on my writing table), I feel pretty sure that no “printers of the present day would turn up their intellectual noses at it” Moreover, should the members of the Press Club at Dunedin wish it, and also pay the expenses, I will, with much pleasure, send them, per registered mail, copies of the works for their inspection and opinion—but to be returned to me.</p>
+         <p>I may further mention that those books were also bound by myself: the art of book-binding, with many other useful arts, I was obliged to learn at that early and eventful period of our history.</p>
+         <p>In conclusion, I may be permitted to add that I believe I shall—at least by all the members of the Press Club—be readily pardoned for saying that the first printing-press in New Zealand under my superintendency has much to be fairly proud of, in having printed the first and only edition of the complete New Testament in the Southern Hemisphere, and the first English book and English newspaper in New Zealand,—I am, &amp;c.,</p>
+         <p>
+            <hi rend="smallcaps">		William Colenso.</hi>
+         </p>
+         <p> Napier, Nov. 28th.</p>
+         <p>Curiously enough, only a few days ago, in looking over the library of my lately deceased friend, Mr Edward Catchpool (who for long time was the Collector of Customs at this port, and who was also one of the first printers in Wellington, who, in its earliest days, printed a newspaper there—which seems to have been wholly overlooked by Judge Chapman), I found an interesting book, entitled, “The British Colonisation of New Zealand,” and published for the New Zealand Association in 1837—which I had never before seen. At page 206 of that work is an extract from a letter of mine, written from New Zealand in March, 1835, in which I say— “I have been engaged in printing 2000 copies of a book 16 pages, containing St. Paul’s Epistles to the Ephesians and Philippians. A printer in London cannot form a correct idea of the disadvantages under which I laboured in getting this up and sending it out. In consequence of not having a single lead,” which, with printing paper and several other absolutely necessary things, had been left behind, “I was obliged to substitute paper and spaces,” placed flat, “for blank lines, &amp;c., &amp;c.”</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0254">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1870 October 24: to Mantell</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-papers-0083-261.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73192/">Mantell</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1870-10-24">1870 October 24</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1870 October 24: to Mantell<note xml:id="ftn2-178" place="foot" n="178">ATL Ms-papers-0083-261.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>October 24/70</p>
+         <p>My dear Sir</p>
+         <p>I have been solicited by a settler here named Doyle to write to you, to ask, if you will sell him 3 sections you have in the Ouepoto gulley (nos. 11, 14, &amp; 15) and on the hill at the S.W. end of this (Scinde) Island. He says, he will give you a fair price for them—and, that he wrote to you some time ago—but got no answer—I believe this was his 2<hi rend="sup">nd</hi> time of writing to you about them: his reasons for applying to <hi rend="italic">me</hi>, are, my having sold to him my section there, also another which I had close by to a neighbour—both being soldiers of 65, &amp; my being formerly so well acquainted with that Regt. &amp; its Colonel—Wyatt.</p>
+         <p>I may add that he gave me for my <hi rend="italic">corner front</hi> section, ₤25.—&amp; his neighbour gave me for one near by (no. 17) <hi rend="italic">₤12.—</hi>and I assure you I was only <hi rend="italic">too glad</hi> to sell them at that price (I would have sold for less) as that part of our “city” (!) is the very fag end, and must be (I fear) for years to come.—</p>
+         <p>He mentioned (though not perhaps for me to <hi rend="italic">write</hi> to you) that he would give you ₤75. for the 3 sections—all I can say is, if they were mine I would sell them for that sum. <hi rend="italic">The front section</hi> (no. 11) is a nice little one (he has one on each side) the 2 back ones are wholly hill, &amp; much cut up by the Soldiers in pitting—encamping &amp;c.—</p>
+         <p>I hope you are well: I agreed in much you said in <hi rend="italic">L.C.</hi> I would write more but for my hand which is very nearly done up altogether for writing, and the Dictionary, I must leave off wholly for some time!</p>
+         <p>                                                             Bel. me yours very sincy,</p>
+         <p>                                                                                     W. Colenso.</p>
+         <p>I enclose a rough tracing for your guidance.</p>
+         <p>N.B. Should you require a Land Agent <hi rend="italic">here—</hi>at any time—I can recommend Mr. Andrew Luff—who has done work for me—&amp; may do so again.         W.C.</p>
+         <p>
+            <figure>
+               <graphic url="Pictures/10000000000001E1000001E8047CAA81.png"/>
+            </figure>
+         </p>
+         <p>Doyle’s sections are marked diagonally.<lb/>Yours—are 11, 14, 15.—<lb/>I sold, 16, 17, &amp; 9: have no more now in the said gulley.</p>
+         <p>There are only 3 residents in all that end of Island!                W.C.</p>
+      </body>
+  </text>
+</TEI>

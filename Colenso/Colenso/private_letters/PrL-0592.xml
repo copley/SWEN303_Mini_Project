@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0592">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1885 March 3: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1885-03-03">1885 March 3</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1885 March 3: to Balfour<note xml:id="ftn3-294" place="foot" n="294"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier March 3rd 1885</p>
+         <p>Mr D.P. Balfour</p>
+         <p>My dear Sir</p>
+         <p>I walked out this morning to the seat on the brow, &amp; while there mu­sing—it <hi rend="italic">suddenly</hi> came into my head that I must have heard from you since my return; so I came in &amp; hunted up your letter of 8th Feb. Now I had been all along supposing (without much thinking in the matter) that I had not heard from you since I wrote to you from Norsewood!!.</p>
+         <p>Your kind letter arrived at a time when I was laid up with a visit from <hi rend="italic">your</hi>
+            <hi rend="italic">visitor</hi> (I have not said friend) Lumbago:—&amp; so with others at that time was forgotten. I left the bush on the 2nd of Feb, <hi rend="italic">very well</hi>. I had fine w. there &amp; so I enjoyed myself. Stopping at Gows, &amp; going to Waipawa on business, I was taken unwell in stomach. I arrived here on night of 4th, &amp; was unwell for some days. I was getting well from that, when L attacked me (rather severely) &amp; I was laid up for ten days more, &amp; though I have been to town twice since, I am not well at present, with a good deal of Rheumatism settled in my right shoulder. I can write and do many small jobs, but I cannot lift my arm.</p>
+         <p>In your latter you tell me of your curious Arachnid; good, that you too, should get one; their legs are delicate, no doubt I fancy they disappeared over the edge of the match box. You may be sure he did not eat them. I have had four or five altogether, but only 1 perfect one &amp; the last I caught was when last inland, &amp; curiously enough he was about your big-<hi rend="italic">leaved</hi> Moss, I wrote to you about, but, like you, I only secured <hi rend="italic">part</hi>; Dr Haast called here on Sunday week, on his way to Auckld—&amp; looked at these with some other things. In going over your letter of the 8th, I find you do not allude to what must have <hi rend="italic">surprised you</hi> (as well as others) viz my Election as Pre­sident!!!. It came about in this way; While at Norsewood, I received a long letter from Bowerman (<hi rend="italic">late at night</hi> of 29th Jan)—written more than a week before &amp; <hi rend="italic">mislaid</hi> at P.O. In it, B begged me to take the off. saying <hi rend="italic">all</hi> were for it, &amp; that it would be for the good of the Scty. (Now there was no time to be lost, as the meetg was to come off on the 2nd, and I had to write <hi rend="italic">at once</hi>, and take it to P.O. on foot nearly 2 miles off). At first I said NO plainly, but, as B had said, it would be <hi rend="italic">good for the Scty </hi>(which I be­lieved), I consented on three things being done:—1 that H write me a let­ter of apology;<note xml:id="ftn3-295" place="foot" n="295"> Augustus Hamilton was Hon. Secretary.</note> 2 that the Pst <hi rend="italic">voluntarily</hi> withdraw;<note xml:id="ftn3-296" place="foot" n="296"> The Bishop of Waiapu, Edward Craig Stuart, was President.</note> 3 that it be una­nimous, no opposition. Well I find <hi rend="italic">all those were done</hi>; perhaps I had better kept away—for my <hi rend="italic">own benefit</hi>, as now I am in for more work; &amp; am not getting younger. For the last few days I have been working at some of my <hi rend="italic">new</hi> plants, w miscroscope, &amp;c; drawing up their descriptions, &amp;c, and very quiet here, <hi rend="italic">no visitors.</hi> One whole day last week I had to be at the Nat. Lands Court, Hastings, &amp; came home tired—so long standing.</p>
+         <p>I hope to get away again to Bush <hi rend="italic">after</hi> mid of month. I may truly say (in words of one of your old Sc songs) “My hearts in the Highlands”. I suppose you saw my letter in the D.T. from Norsewood;<note xml:id="ftn3-297" place="foot" n="297"> On Education.  <hi rend="italic">Daily Telegraph</hi> 27January 1885.</note> if not I can send you a copy. I hope you and yours are <hi rend="italic">quite</hi> well—<hi rend="italic">enjoying health.</hi> Do so while you have it. I brought down w me a little plant of the “Divot” Orchid, sawing off the branch of the tree (Rimu) on which it grew.</p>
+         <p>With kind regards    Believe me</p>
+         <p>W. Colenso.</p>
+         <p>P.S. I received another letter from Sir G.Grey on Sat last; he tells me he has <hi rend="italic">again</hi> been reading my book. I posted 2 extra copies to him this mg. If you have any Drosera binata, I should be glad to have some.</p>
+      </body>
+   </text>
+</TEI>

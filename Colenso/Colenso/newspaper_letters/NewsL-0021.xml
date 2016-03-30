@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0021">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1859 Open column. Hawke’s Bay Herald 5 March.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1859-03-05">1859 March 5</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1859-02-24">1859 February 24</date>
+        <name type="place">Waitangi</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1859 Open column.       <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald </hi>
+        <hi rend="bold">5 March.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—Your last issue (Feb. 19) has a letter from Mr. H.R. Russell, containing a ‘challenge’ to me,— ‘either to prove a statement or to make a most ample retraction and apology!’ </p>
+      <p>Nor is this all. Mr. H.R. Russell, in the same letter, says, that ‘he believes’ my statement ‘to be a pure invention brought forward to suit political purposes’:—that is (in vulgar language), a barefaced falsehood brought forward with dishonest intentions!! </p>
+      <p>Now how any well-bred man can so publicly write of any-one’s words, and subsequently demand either proof or apology, I have yet to learn.—And I should also like to know, what right Mr. H.R. Russell has to challenge me concerning that statement?—seeing, too, that it was as large as the whole province of Hawke, and embraced all the runholders, amounting to a few scores.—</p>
+      <p>I ask, Sir, what peculiar right has Mr. H.R. Russell thus to challenge me? Have indeed the runholders held a meeting on the subject and unanimously deputed Mr. H.R. Russell to make the enquiry? or, is Mr. H.R. Russell their acknowledged head and leader? or the greatest man among them? that he should thus act as coryphæus and champion of all the Runholders of Hawke?—</p>
+      <p>If any of the above hypotheses is correct, then Mr. H.R. Russell would be entitled to either proof of my statement or retraction and apology,—provided he sought it courteously as a gentleman: if, however, none has been allowed, then every honorable man will grant, that an apology is due to me from Mr. H.R. Russell for his uncourteous and uncalled-for language towards me in particular on account of a most wide and general statement. </p>
+      <p>                       I am, Sir,</p>
+      <p>                               Yours very truly,</p>
+      <p>
+        <hi rend="smallcaps">Wm. Colenso. </hi>
+      </p>
+      <p> Waitangi, Feb. 24, 1859.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0321">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1876 June 28: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/4123/">Napier</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1876-06-28">1876 June 28</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1876 June 28: to Luff<note xml:id="ftn2-266" place="foot" n="266">ATL MS-Copy-Micro-0485-4.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, N. Zealand,<lb/>June 28<hi rend="sup ">th</hi>. 1876.<lb/>(night)</p>
+         <p>A. Luff, Esq.,</p>
+         <p>My Dear Sir,</p>
+         <p>My last to you was on the 1<hi rend="sup ">st</hi>. inst.,—I little thought <hi rend="italic">then</hi> I should again write to you in June! since the date of my last to you, I have recd. yours of May 4<hi rend="sup ">th</hi>. (to hand last week,)—with chq. encld. for £10. (there was no need for you to send this). First then to business,—<hi rend="italic">nil at present</hi>. Your letter came in a dreadfully busy time—school vacation close at hand, and still <hi rend="italic">several to visit</hi>! &amp; Tylee wanted <hi rend="italic">all</hi> Teachers’ (&amp; other school) accounts in with him by yesterday—as he may have to send in an account of payments to Head Quarters by 30<hi rend="sup ">th</hi>.!! So I have been at work night &amp; day, &amp; <hi rend="italic">Sundays </hi>too! Last Saturday afternoon I was to have been with Dinwiddie, <hi rend="italic">re</hi> your invoice, having previously been well for a few months but I was unwell on <hi rend="italic">that day</hi>, &amp; my illness, <hi rend="italic">severe </hi>Diarrhoea, (which came on also on <hi rend="italic">that day</hi>, &amp; very suddenly too—no doubt, owing to the change)—prevented my going down: indeed I have not been out—even to the field!—since Friday 23<hi rend="sup ">rd</hi>, although the weather this week has been gloriously fine!—but I hope to be able to do so tomorrow. Had I gone on Monday 26, or Tuesday 27, I could not have seen Dinwiddie, he being one of Sp. Jury in case of J. Stuart <hi rend="italic">v</hi>. Bank of Australasia on those days.—I fear I shall not be able to tell you much more about your cases of stationery <hi rend="italic">this time</hi>: I doubt, too, if they will suit Pov. Bay. Read is now in Ho. at Wgn. From what <hi rend="italic">little</hi> I have learnt, they are come to a bad market—being, too, so much of <hi rend="italic">one </hi>sort: had they been cheap <hi rend="italic">Books</hi> no doubt D. &amp; Co. might purchase. I think you should not <hi rend="italic">so buy</hi> and send out—here at least—place small &amp; market slow. Your Letter &amp;c. I have sent to Mrs Moorhouse c/o M. Studholme. I have not yet seen any one of whom I could learn anything of Close, <hi rend="italic">Senr.</hi> of Pukahu. I <hi rend="italic">may soon</hi>.</p>
+         <p>We have had a <hi rend="underline italic">Fire</hi>: tolerably severe, 6 houses in Hastings Street including Pocock’s painter’s store—see the papers I send: fortunately the weather was fine &amp;c.—or – – – –  They however are rebuilding! Not so Meeanee! of all the wretched doleful looking places I have ever seen—M. is the worst! From Rymer’s (<hi rend="italic">inclusive</hi> up to Peacock’s Rd residence (late Lee’s) most wretched, ugly, ugh! mud &amp; water, &amp; <hi rend="italic">weeds in water</hi> on nearly <hi rend="italic">all</hi> of <hi rend="italic">Sladen’s</hi>, both what was mine &amp; what he got from Peacock—100’ds of acres <hi rend="italic">utterly valueless at present</hi>: (S—’s year is <hi rend="italic">up</hi> on 30<hi rend="sup ">th</hi>.—I am afraid even to think of it!) and the road, <hi rend="italic">horrid</hi>. Scarcely get on, &amp; so it has been <hi rend="italic">all</hi> the summer! No rain yet this winter.</p>
+         <p>We have got a bunch of <hi rend="italic">new </hi>J.P’s.—Newton (of <hi rend="italic">course</hi>) &amp; Lyndon (<hi rend="italic">ditto</hi>), and Rathbone, &amp; Rechab Harding, and Friberg, &amp; long-legged Hamilton (formerly Wilkinson’s Overseer), and H.H. Bridge. Now <hi rend="italic">Mrs. </hi>N. has got <hi rend="italic">her wish</hi> gratified; may she flourish! F.Sutton remarked— “It was too bad to leave t’other Municipal Councillor H.R. Holder, out in the cold”: but was it on <hi rend="italic">account</hi> of the Mun. Cl.? <hi rend="italic">I trow not</hi>. Cook is also Wharfinger at £200. pr. ann. Sainsbury is the new Munl. Solr. <hi rend="italic">vice </hi>Cotterill resigned,—&amp; Hoadley, Secy., to Harbour Board. Grubb, Registrar of Births, <hi rend="italic">Marriages</hi>, &amp;c. at an extra £25. pr. ann., his hands are <hi rend="italic">full</hi>, &amp; he is not <hi rend="italic">over strong</hi>. P.D. &amp; family are all well, but look <hi rend="italic">shaken</hi>. Kelly has shut up, &amp; retd. to town; Hy. Mackenzie took the whole place. Jack Marshall has let his place at Meeanee &amp; is coming to town.—Several new Houses building—one not far from Meth. Church, on <hi rend="italic">extreme</hi> E. end of Sn. 254 piles in swamp <hi rend="italic">water &amp; fronting this way</hi>, whole ¼ ac. fenced in, looking as if it were for a fishing box—but a very decent looking house:—one, on beach, near Kelly’s old House. One close to Mr. Mays:—&amp; <hi rend="italic">several</hi> on Hills: Rev. Mr Parkin (Redstone’s successor) is leaving W. Marshall’s cottage:—<hi rend="italic">no sun there in Winter</hi>! J. Locke’s son is dead from Diptheria. Mrs Wright acquitted of wilful murder, ground of <hi rend="italic">insanity</hi>: a curious case (see Papers). H.R.R. is <hi rend="italic">not</hi> going home! He has sold his Tikokino property to Bryson (so I hear). Bryson’s bror.-in-law had made his bed, &amp;c, here among my trees in Milton Road; the police dislodged him: <hi rend="italic">why</hi> he came there I don’t know; neither do I know him.</p>
+         <p rend="end">June 29<hi rend="sup ">th</hi>. night</p>
+         <p>I went to town today—mainly on your matter <hi rend="italic">re </hi>Dinwiddie. Had not been down to town for a week—found it <hi rend="italic">very busy</hi>: D.– &amp; <hi rend="italic">all</hi>, up to neck in business, &amp; writing, &amp;c. Eng. Mail. Morrison absent in Engd., &amp; Carlile at Wgn., makes it hard (I <hi rend="italic">think</hi>) on D.,—there are now 2 accountants &amp; 2 shopmen there!! Well: I cod. do <hi rend="italic">nothing </hi>w. D.—I even offered (without authority) to take ₤10. <hi rend="italic">less</hi> than yr. amount, &amp; a 6 mths. Bill <hi rend="italic">no int.</hi>,—but no. It appears some (most) of the sd. Goods are known in the market—as <hi rend="italic">slop</hi>, viz. 100 reams paper!—cheap eno., no fault w. figure. D. seems greatly intd. in your favor, from old assocn. &amp; had thought of taking them <hi rend="italic">himself</hi> for your sake but no. He has <hi rend="italic">tried</hi> hereabouts in H.B.—<hi rend="italic">no</hi>. Read is wholly out of business. Adair has it; I may next week write to him—to Graham—but I fear the result will be <hi rend="italic">nil</hi>. Hope you will be wiser in fut.; I wonder you should have come out in <hi rend="italic">this </hi>way—in this place.</p>
+         <p>But I must hasten to close.—Let me tell you, I think your letter<hi rend="underline italic">s</hi> (nearly <hi rend="italic">all</hi> to me,) are of a sloppy nature, fag-end, like, of time:—for some months I have had it on my mind, &amp; now I tell you: surely you can not be so immersed in business! I <hi rend="italic">strive hard</hi> to give you the <hi rend="italic">best</hi> of our news, &amp; the pick of our H.B. Papers.—</p>
+         <p>Capt. Birch, goes to Engd. by the Str., &amp; so does Large’s daughter, with Ferard. The train <hi rend="italic">has crossed </hi>the Bridges to Waipukurau. In tomorrow’s <hi rend="italic">Herald</hi> will be a full Report of J. Stuart’s trial but it is got up by <hi rend="underline italic">J.S.</hi>—I saw him, &amp; yg. Harding. together in tailor’s Room!! Have heard <hi rend="italic">this day </hi>of more <hi rend="italic">trouble &amp; loss</hi> for me in land transactions: more (D.V.) in next—</p>
+         <p>A Dieu, &amp; Yours very truly</p>
+         <p>                     W. Colenso.</p>
+         <p>P.S. 29<hi rend="sup ">th</hi>.<lb/>Saw Webb!! in town today—wearing a Bell-topper!<hi rend="italic">much as ever.</hi> Garry succeeded yesterday in getting water in the <hi rend="italic">new Municipal </hi>well, near to the other—<hi rend="italic">both close </hi>to his foundry. Holt has <hi rend="italic">greatly</hi> enlarged his work-shop—double what it was, thus <figure>
+               <graphic url="Pictures/10000000000000AA00000045F0D417AA.jpg"/>
+            </figure>
+         </p>
+         <p>I see by Home News Mr and Mrs Burnett left London in “<hi rend="italic">Holmsdale</hi>” for N.Z.</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0599">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1885 May 26: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861. Endorsed “A 6/6/85”.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1885-05-26">1885 May 26</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1885 May 26: to Balfour<note xml:id="ftn3-304" place="foot" n="304"> ATL 88-103-1/07. Original at MTG HB 67861. Endorsed “A 6/6/85”.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Tuesday night<lb/>May 26th 1885</p>
+         <p>Mr. D.P. Balfour<lb/>Glenross</p>
+         <p>My dear Sir</p>
+         <p>I received your very welcome letter of the 9th inst (on the 13th), and as you said in it, that you purpose coming this way on or about the 19<hi rend="sup ">th</hi>., and might call here—I did not write by the last weeks mail, hoping you would turn up.</p>
+         <p>As, however you have <hi rend="italic">not</hi> done so,—and as our good mutual friend P.D. has also <hi rend="italic">not</hi> put in an appearance (which nearly a fortnight ago he promised to) I must express my hope, that your non-appearance may not have been caused by any illness in your family or at Springfield. I returned to Napier from the Bush on the 7<hi rend="sup ">th</hi>., bringing with me lots of small Crypts, and—my rheumatism in my right shoulder, which, also, went tither with me, and (I regret to say) still <hi rend="italic">remains</hi>; a little more mild and peacable—at all events at times.</p>
+         <p>Now to your plants—which I was pleased to see, only wishing I had more of them, (some being merely scraps, &amp; scarcely sufficient for correct discrimination).</p>
+         <p>1. The little <hi rend="italic">Olearia</hi>—there was nothing of “Seed” kind with it—not a vestige, there were (and are) a few <hi rend="italic">scales</hi>—very old, some two or three years perhaps,—at tip of branch, which were dead and withered long before the spn was gathered.—</p>
+         <p>2. “3 leaves of Parsley”. This, I have little doubt, is a leafing spn of <hi rend="italic">Ligusticum aromaticum</hi>. I often met with it on Ruahine in fl, &amp; in ft. Hooker in his large 4to Flora describes his plant from <hi rend="italic">my Ruahine</hi> spns alone. I remember how I used to admire the little fellows on the heights.—</p>
+         <p>3. The “Leaflees Shrub” (received at Norsewood) is, I believe, <hi rend="italic">Muhlenbeckia Esshedroides</hi>, originally discovered by me, on the beach, between this place &amp; Waitangi, in 1843—1st visit, &amp; sent to Kew. I should like to have seen a little more of it.—</p>
+         <p>4. A little plant, that you sent to me also at Norsewood, having an erect stem, 3 flowers at top, and a tuberous root,—is an orchid, and very near to <hi rend="italic">Orthoceras Solandri</hi>. It has given me a world of work; (several hours if not two good days) at Norsewood &amp; here,—cleaning, disinfecting, &amp; going into many books &amp; <hi rend="italic">Authors</hi>, who had written upon it, in various languages, or rather upon <hi rend="italic">O. Solandri </hi>(N.Z.) and <hi rend="italic">O. Strictum</hi> (Australia)—who also had confounded the 2 species. And now Bentham has <hi rend="italic">more lately</hi> made <hi rend="italic">one</hi> of them again; saying “there is no difference”; but between this of yours (also found here, by me on the high clayey ridges between Tangoio &amp; Waikari) &amp; those, there is a difference. I would I had more of them <hi rend="italic">now</hi>.</p>
+         <p>5. Your “Sand-Grass” (also here, in several similar spots) is a spn of <hi rend="italic">Scirpus</hi> very near to <hi rend="italic">S. trigueta</hi> of the hand book (which Bentham also says, is <hi rend="italic">not</hi>
+            <hi rend="italic">S. trigueta</hi>, Linn,)—this too, I have worked hard at, in dissecting out all its parts,—Depend upon it, this “Grass” will not grow on your <hi rend="italic">high</hi> sandhills, unless there is water there; both it, and all its large family, are water loving plants.—And now I think I have answered all your questions &amp;c. about plants; if not, let me know.</p>
+         <p>The weather here of late has been very warm, thermtr 63 in my house, but this day has been cold, windy, wet, too. I was glad to see in paper this mg, of the safe arrival of the “RIO”, as I had begun to fear a bit, owing to her making such a long passage.</p>
+         <p>I suppose you would have seen our late local Papers &amp; consequently some of my writings therein.<note xml:id="ftn3-305" place="foot" n="305"> The hotel question at Makatoku. <hi rend="italic">Hawke’s Bay Herald</hi> 21 May 1885.</note> There is another of my letters in the “D.T.” of this evening—which (short though it be) may cause a little stir.<note xml:id="ftn3-306" place="foot" n="306">
+               <hi rend="italic">Veritas vincit</hi>: truth conquers. <hi rend="italic">Daily Telegraph</hi> 26 May 1885.</note> I have also just sent off another to the “Herald”—for tomorrow, if in time.<note xml:id="ftn3-307" place="foot" n="307"> Local option. <hi rend="italic">Hawke’s Bay Herald</hi> 27 May 1885.</note>
+         </p>
+         <p>We are having a <hi rend="italic">Council</hi> meeting (at last) on Friday evening next,—to decide about our <hi rend="italic">ordinary</hi> meeting, which should have been held early this rnonth, but was put off for want of our room not being finished. And now it is clear enough it will not be finished by any time in June!</p>
+         <p>Since the date of my last to you, I received (at Norsewood) from Dr Hector, copies of the <hi rend="italic">printed</hi> pages of my 4 last years papers (which were read at Wellington, to look over for errors—of the printers &amp; so they passed the ordeal of the Board; By and bye you will find some of your <hi rend="italic">old finds</hi> among them.</p>
+         <p>I hope to get away again to the Bush Highlands in about three weeks or so. Lots of Hepaticæ &amp; Mosses too will be coming into <hi rend="italic">fruit</hi>, &amp; I must look after them.</p>
+         <p>Do you keep your eye open <hi rend="italic">that way</hi>—especially that <hi rend="italic">large clear leaved Moss</hi> I wrote to you about. </p>
+         <p>Well goodbye &amp; with kind regards to you, &amp; to all</p>
+         <p>             Believe me</p>
+         <p>                             Yours truly</p>
+         <p>                                             W. Colenso.</p>
+         <p>P.S. Very sorry yesterday to hear of the death of Mrs Thomson—Mrs Ormond’s mother.</p>
+      </body>
+   </text>
+</TEI>

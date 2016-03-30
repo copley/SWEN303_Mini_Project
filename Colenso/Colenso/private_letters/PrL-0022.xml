@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0022">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1841 January 9: to Godfrey</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Papers-0675. From typed copy annotated “Copy of a Letter to Col. Godfrey, of the N. Zealand Commission, in ansr. to his, wishing me to become Interpreter, &amp;c.”—</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71565/">Godfrey</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1841-01-09">1841 January 9</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1841 January 9: to Godfrey<note xml:id="ftn1-23" place="foot" n="23"> ATL MS-Papers-0675. From typed copy annotated “Copy of a Letter to Col. Godfrey, of the N. Zealand Commission, in ansr. to his, wishing me to become Interpreter, &amp;c.”—</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Paihia, Jany. 9/41</p>
+         <p>E.L. Godfrey Esq.<lb/>&amp;c &amp;c &amp;c</p>
+         <p>My dear Sir,</p>
+         <p>On returng. last night from a visit which I had been paying to the Natives, on the Coast, I found yours of the 30<hi rend="sup">th</hi>. ult. awaiting my arrival.—</p>
+         <p>I am happy to find that in the execution of the “Gazette Extraordy.”, I have, in any measure, been enabled to give satisfaction.</p>
+         <p>In ansr. to your request—to my becoming Interpreter to the Land Commission at Russell—I regret (when I consider the absolute need of some efficient and disinterested person to fill that important office) that it is utterly impossible for me to assist you, for, as I said before, my present duties are more than I can (without the most strenuous &amp; unremitting endeavors) possibly perform.</p>
+         <p>You speak, my dr Sir, of “an ample remuneration, &amp;c”—allow me to say, (whilst I trust I can both discern &amp; appreciate the motive that prompted the generous offer,) that neither pecuniary remuneration nor worldly honor could possibly have influenced me, in my leaving the Land of my Fathers, my connexions, &amp; prospects, &amp; coming to this country, to fill the situation which I at present do, and I trust, that such never will. In the little that I have been, or may be, enabled to do for H.M. Govt., Remuneration, permit me to remark, (unless circumstances with regard to myself sadly alter) I never wish to hear mentioned.</p>
+         <p>I trust, my dear Sir, that you will yet find a fit person to fill the office of Interpreter on this important occasion.—</p>
+         <p>I have written to Col. Secy., in conseq. of a Letter wh. I have recd. from the Secy. of the Com. of Misss., on the subject of my doing any future printing for H.M. Govt., wh. I have reqd. him to make known to His Exy. &amp; the Land Commissr.</p>
+         <p>I am, My dr Sir</p>
+         <p>With every respect</p>
+         <p>Very truly yrs</p>
+         <p>W.C.</p>
+      </body>
+  </text>
+</TEI>

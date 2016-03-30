@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0006">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Private Letter: 1836 January 9: to Coates</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Hocken Library Ms Vol 63; ATL qMS 0491.</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71268/">Coates</name>
+        </correspAction>
+      </correspDesc>
+      <creation>
+        <date when="1836-01-09">1836 January 9</date>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>1836 January 9: to Coates<note xml:id="ftn1-7" place="foot" n="7">Hocken Library Ms Vol 63; ATL qMS 0491.</note></p>
+    </front>
+    <body>
+      <p rend="end">Paihia, Bay of Islands.<lb/>Jany. 9<hi rend="sup">th</hi>./36.</p>
+      <p>Dandeson Coates Esqr.,</p>
+      <p>Sir,</p>
+      <p>After a long silence occasioned by pressure of Business, I once more take up my Pen to write you, Sir,—although at this very moment I have more than a dozen different things to do!</p>
+      <p>I am glad to have to present you with another portion of God’s word in the Native tongue—the Gospel of St. Luke, which I have been permitted to begin and finish since I last wrote—I struck off 1000 copies, have bound upwards of 400, and am going on with the remainder—I cannot bind them fast enough for the Natives, they are very impatient to obtain them. I am at a loss for somewhat to cover these Books—in the case of Binding Materials sent from England was <hi rend="italic">only one</hi> piece of colored cloth for this purpose—when there ought to have been at least a dozen—this piece is all used it covered about 250. I have also printed 600 copies of the Addition, Multiplication, and Shillings and Pence Tables for the Natives—and 200 Circular Letters, (part of the number in English &amp; part in Native,) for the British Resident, J. Busby, Esqr.,—The printing those things, binding those Gospels, and repairing and binding Native Books, (those 4to. Native Books printed in the Colony, are poor things, they reflect <hi rend="italic">no </hi>credit on the Printer—<hi rend="italic">less</hi> on the Binder—and still <hi rend="italic">less</hi> on the Editor—it has been computed that there are not less than 1000 errors in the work! <hi rend="italic">I</hi> have already seen, in the course of reading to the Natives, &amp;c, near 400!) have occupied my time till now—I am going on with the binding the remainder of the Gospels—and hope in 3 or 4 weeks to commence printing the New Testament. My work has lain rather heavy upon me, and little to shew for the time engaged therein—but it must not be forgotten, that I have almost everything to do with my own hands. I have <hi rend="italic">no </hi>assistant in the work—and when I shall have a native assistant I know not. The Lad whom I mentioned in my last letter, has left me, having behaved very ill and very ungratefully to me, he left of his own desire, for I was too fond of him <hi rend="bold">[2] </hi>to turn him away bad as he was.—Yet I see the goodness of <hi rend="smallcaps">God</hi> in it, Sir, for I was too strongly attached to him—he had made great proficiency in the business. The time is hardly yet arrived, I fear, for natives to settle down to steady employ of any kind—they are so independent—the veriest slave never considers himself your servant, and, having no sense or idea of gratitude, for a word leaves you instantly! For hard out-door work they may do tolerably well—even there they will not work steadily—but for steady, in-door, quiet employ, this generation, for the present, must not be mentioned. Sometimes I am without a native, and have, in addition to my employment, to Hew wood &amp; fetch water, &amp;c &amp;c &amp;c, which, work as fast as I will Takes some time—often have I lain down exhausted and awoke after 2 or 3 hours sleep tired!—Still, and it is all one as if my work was lighter, God strengthens me!</p>
+      <p>Month after month rolled away and no Paper arrived—but a few days ago 100 Ream, unfortunately of two different qualities, made its appearance, with this we commence the Testament. I have also received a Lot of Type from England but in <hi rend="italic">very bad</hi> condition, owing to the manner in which they were packed—one box I understand went to pieces at Sydney owing to its being old &amp; rotten—<hi rend="italic">several</hi> Leads, &amp;c, were broken and rendered useless. It may not be amiss for me, Sir, here, to say a word or two in plainness on this subject:— 1. When the Society sends out a Printer, or a “Mechanic” it would, in my humble opinion, be advisable to condescend to ask him what will be wanted! and what will be useful? and to be, in a measure, guided by his professional reply.—Now in the equipment of this Printing Establishment some tens of Pounds might be saved and yet the Printing office benefitted! The same in a measure applies to the Binding Department.— 2. With many of those parcels of Type, &amp;c, no Invoice or Bill has arrived, and I know not their weight or quantity.—The “Tariff” by which they were selected, too, would be desirable as they are <hi rend="italic">not </hi>selected according to the “run of sorts” in the N. Zealand Language, so that the consequence is that when you have composed a few pages you have to stop!—so I believe it is the opinion of many of those who are termed “fair tradesmen”—that anything will do for New Zealand!</p>
+      <p>A short time since I opened a Box, which was shipped on board the “Sovereign,” Capt. Baker, Novr. 21, 1833. containing what <hi rend="italic">had been </hi>a small Iron Press, and <hi rend="bold">[3] </hi>some Type.—If it were possible the person who sold and packed the Press and Type, should, at least, be compelled to pay for the Type, which pr. Invoive amounts to £15.7.6—now worth a few shillings as old metal! who ever heard of an <hi rend="italic">Iron </hi>press being put loosely in a large Box with Type, and nothing to keep them from battering against each other!—The Type is all “pie,” and I expect totally useless, for the various Irons of the Press were broken to pieces!</p>
+      <p>Allow me to say a word or two, Sir, on the selecting Paper, &amp;c. for us for Printing—we do not want a <hi rend="italic">fine</hi> paper, but a <hi rend="italic">strong</hi> paper:—the <hi rend="italic">coarseness </hi>is of little consequence—let it be made of <hi rend="italic">linen</hi>-rag, and not that rotten-bleached stuff, whitened by acids, fit only for the delicate finger of an English Lady to handle—such a Paper as the coarse, old, Linen Paper you might have seen, Sir, in your school-boy days, in School-books—strong—durable. With regard to what the Committee may select for binding the New Testament, I have to observe that a suitable <hi rend="italic">cheap</hi> canvas might be obtained—or the stout sheep, I should recommend, such as is used by the Bible Society—this I think would only cost about 2d or 3d pr. Book. In sending Mill-board for the Test. covers, I hope you will send sufficient, as, at present, in consequence of having only enough for the covers of about 250 Books—St. Luke’s Gospel—I am obliged to paste together Brown Paper, which is not only not so good but takes a considerable deal more Labour.—</p>
+      <p>I have entered on my 2<hi rend="sup">nd</hi>. year in N. Zealand. Oh! may the <hi rend="smallcaps">Lord</hi> enable me to serve Him <hi rend="italic">better this </hi>year than I did the last—His work is nobly going on around about us—<hi rend="italic">many</hi> were baptized last half-year, and <hi rend="italic">many </hi>are enquiring. I had the great pleasure to partake of the <hi rend="smallcaps">Lord’s</hi> Supper the other day @ Waimate with <hi rend="italic">70</hi> natives, and last Sunday it was administered there to <hi rend="italic">upwards</hi> of 100 Natives, and those only a portion of the Chrisn. Natives of that Station!</p>
+      <p>I refrain from saying more on these heads as my Brethren, doubtless, send all necessary Information. Excuse this scrawling Letter—the ship has been under weigh this morning—I must therefore close.—</p>
+      <p>I have received a Letter from dear Mr. Jowett, but cannot now stay to answer it. Praying for you all—that you and we may be one in Him and He in us—and beseeching your prayers in return.</p>
+      <p>I have the honor to be,</p>
+      <p>Dr. Sir, yr: mo: ob: sert.</p>
+      <p>William Colenso</p>
+      <p>I send you a copy of a note received yesterday from a Chief called Wari at Wangaruru, a native place on the Coast outside Cape Brett,—where I suppose I shall pay a visit in a week or two.</p>
+      <p>E kara, e Peka,—Maku te        Sir, father, the Baker—<lb/>tahi pu hei pupuhi mo Hiro  (Give) For me one gun, (a <lb/>ma te Kapahu ano e tika  Book) to enable (me) to shoot <lb/>hei urungi.”                 Hiro (the evil spirit) as the <lb/>     “Na,<hi rend="italic">Wari</hi>.”               compass truly sets straight,                            (or guides) the rudder, (or <lb/>                       steerer.)                                               From Wari.</p>
+      <p>The words in parentheses are supplied—the natives call a Bible or Gospel— “a gun”! W.C.</p>
+    </body>
+  </text>
+</TEI>

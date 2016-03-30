@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1073">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1898 December 31: to the Government Printer</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL: MS-Copy-Micro-0485-1.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="organisation" key="http://wtap.vuw.ac.nz/eats/entity/41161/">the Government Printer</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1898-12-31">1898 December 31</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1898 December 31: to the Government Printer<note xml:id="ftn3-937" place="foot" n="937">ATL: MS-Copy-Micro-0485-1.</note>
+         </p>
+      </front>
+      <body>
+         <p>Govt. Printer<lb/>Wgn.</p>
+         <p>Decr. 31/98.</p>
+         <p>Dr. Sir</p>
+         <p>At last! I am able to write to you, &amp; to settle your claim agt. me for ptg. letter “A.” Mao.-Eng. Lexn. I have long been desirous of closing this &amp; last nt. I recd. a letter from the Dept of Justice infg. me that “you have been instructed to write off ₤<hi rend="italic">26</hi>. from your claim against me for the 200 copies, retained by the Govt.” I therefore enclose a chq. for ₤86.1.0 which sum I believe settles this matter.</p>
+         <p>I have still your memo. of Novr. 16<hi rend="sup ">th</hi>. (written in reply to mine of the 14<hi rend="sup ">th</hi>.) to answer, hitherto delayed by me until this <hi rend="italic">first</hi> matter was <hi rend="italic">finally settled</hi>—and I hope to do so next wk. </p>
+         <p>At this season, I must not omit to offer you the good old honest greeting of our forefathers—a Happy New Year—wh. I do most heartily.</p>
+         <p>                 Yours sincerely</p>
+      </body>
+   </text>
+</TEI>

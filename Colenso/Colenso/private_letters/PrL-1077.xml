@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1077">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1863 September 1: to Bourke</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1863-09-01">1863 September 1</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75774/">Bourke</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1863 September 1: to Bourke
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, September 1<hi rend="sup ">st</hi>.<lb/>1863.</p>
+         <p>Mr. P. Bourke, Esq.<lb/>Chief Post-Master,<lb/>Napier.</p>
+         <p>Dear Sir</p>
+         <p>Having to attend the meeting of the General Assembly, called for the 19<hi rend="sup ">th</hi>. proxo., I have to tell you, that I shall not be able after this month to continue to render you any assistance in translating and Interpreting in your department. I assure you, I regret this at this peculiar time for several reasons:—1. my having done the work from the very beginning:—2. my thorough knowledge of the Maories of the Province:—and, 3. my fear, that you will not readily find a fit person to succeed me. Mr. Grindell, to whom I have already spoken, says, his hands are quite full; and Mr. Hamlin, I hear, is about to leave the Government Service. I still hope you will be able to secure Mr. Grindell’s Services, who is, by far, the most fit person that I know in Napier.—</p>
+         <p>I may also just mention for your guidance, (as I shall soon be absent, and as your predecessor and myself had finished the heavy work for this year before you took office,)—that should the Translational Clerical and Arranging Maori work for 1864 prove to be so heavy as it was in 1863, and should you not be able to secure the Services of some one already in Government Employ, you will not possibly be able to get the work done for any thing like so small a sum as has been hitherto paid. Of this, however, the Post-Master General (the Hon. Crosbie Ward) is, I know, pretty well aware.—                   I am,</p>
+         <p>                                                     Dear Sir,</p>
+         <p>                                             Yours truly,</p>
+         <p>                                     (signed)  Wm. Colenso.</p>
+      </body>
+   </text>
+</TEI>

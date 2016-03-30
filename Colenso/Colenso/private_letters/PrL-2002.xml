@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrL-2002">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1863 June 24: Colenso to McLean</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1022038</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1863-06-24">1863 June 24</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1863 June 24 Colenso to McLean (#1022038) </p>
+		</front>
+		<body>
+			<p>June 24, 1863 </p>
+			<p>Dear Sir </p>
+			<p>I received your note of the 22nd in which you inform me, that you were under the impression that the fencing account &amp;c. had been settled.— I have myself no recollection whatever of any such thing—in fact just the contrary (from reasons I will presently give)—still, “to leave no stone unturned,” I have gone over all my mems. and account Books, and have also been to the Bank and closely examined my Pass-Book, (believing that, if received from you in a cheque, the whole amount, £10.0.3, whether paid in separately, or in addition to my usual monthly payments, would show itself,)—but find no clue whatever of any such Payment. </p>
+			<p>Perhaps I may be allowed to remind you, that about 15 months ago, (a little before, or a little after Sir George’s visit,) I sent you a note enclosing the account, and saw you very soon after, when you said, you were then going off to Auckland (in a hurry) and would pay it on your return. The “reasons” (alluded to above) which I have to the contrary, are, 1. in Feby./62 I remitted £13.15.0 to the B. &amp; F. Bible Society, (monies received by me from date of former remittance for Bibles and Testaments sold,) and I well recollect making out the Acct. sales twice, owing to the Maori Test. charged to you not having then been paid for.— </p>
+			<p>And, 2.—when I left for Wellington (about this time last yr.) I left with Capt. Carter a note addressed to you, (to be given to you should you return during </p>
+			<p>my absence,) in which I asked you to pay in the amount to my Credit at the Bank.— </p>
+			<p>It would, however, be both proper and satisfactory if you also examine your own Bank Book—to ascertain whether you had ever drawn a cheque in my name—this I hope you will do.— </p>
+			<p>I thank you for reminding me of the little extra bill (which had been quite forgotten by me—through my writing my last note to you with only my town memo. book before me, &amp; without referring to the old Waitangi account. The whole sum, is, £10.0.3. </p>
+			<p>I also thank you much for kindly reminding me of some extra work being still unpaid:— (this also was forgotten:)—but as I have been paid by Mr. Janisch what was due me as salary—it is not worthwhile to make out any fresh account,—let that pass.— </p>
+			<p>I trust you will be able to read this horrid scrawl. My hand just now is very bad from Rheumatism (?) </p>
+			<p>Yours truly </p>
+			<p>Wm. Colenso. </p>
+		</body>
+	</text>
+</TEI>

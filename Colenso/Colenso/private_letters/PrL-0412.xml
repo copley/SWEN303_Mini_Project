@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0412">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1880 June 23: to Drummond</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/13.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73880/">Drummond</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1880-06-23">1880 June 23</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1880 June 23: to Drummond<note xml:id="ftn3-39" place="foot" n="39"> ATL 88-103-1/13.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier</p>
+         <p rend="end">June 23<hi rend="sup">rd</hi> 1880</p>
+         <p>Mr John Drummond</p>
+         <p>Dear Sir</p>
+         <p>I have long known (perhaps, at times, a little too keenly) that I was a letter in your debt, <hi rend="italic">and</hi> that I had promised to answer it; but I had no idea the said debt was so <hi rend="italic">old</hi> a one, until I once more took your letter out of my bundle of un-answered ones this evening; “April 19<hi rend="sup">th</hi>”;―Enough to take ones breath away; However, I have acknowledged it, very briefly, and also promised to write, &amp; have from time to time sent you a few papers—just to let you know I had not forgotten you.</p>
+         <p>Believe me, I have had plenty to do; always busily employed about something; but I do think I should have written you before, only I wished to send you a few small (scraps) specimens of Ferns which I had purposely gathered for you up in the “70 Mile Bush” early in May; and these were stowed away in my big parcel of plants (which I had brought away, &amp; dried while subsequently staying at P.Gow’s)—and so I put off the looking them out. This, however, I have done this day, and so I am writing. These <hi rend="italic">bits</hi> of Ferns, please bear in mind, were gathered and dried for you, that you might know where to find their <hi rend="italic">fruit</hi>, or seeds, as well as that you might know a <hi rend="italic">little</hi> of their different genera, by way of a beginning. In your letter you say;— “I will send you any kind of Fern that may seem strange———<hi rend="italic">there is no seeds on them at present</hi>, I think it is the winter they bear”, &amp;c. There are seeds on them all the year round, though not on every plant or every leaf. I shall put up my little lot in a separate packet.</p>
+         <p>I hope you are well, and getting on well—in the world; at the same time there are many complaints—<hi rend="italic">this way</hi>; but the good old trade of a Smith should, and must, stand, even if others fall.</p>
+         <p>I was at Taradale about a fortnight ago; I saw your old residence, &amp; looked, in passing, at the little room in the wing where you and I had sat together, &amp; where you had shown me some of your drawings,―and I thought How many more he has now; and, Shall I ever see them? &amp;c, &amp;c. I hope you are getting on well in this delightful art; in some of the Papers I sent you, there were a few good things about pictures &amp; Painters, which I thought you would like. I can scarcely say that I saw Mr Robertson when at Taradale, though I think I did at a little distance, but I saw in our papers of a Mr Robertson gaining the head prize at pigeon shooting there, and, I hoped it were he. At the same time I wholly dislike that barbarous <hi rend="italic">sport</hi>. I dare say the noise of the Gold Fields at Mohaka has reached you, but “bide a wee”, don’t believe all you hear. A sprinkling of gold <hi rend="italic">may</hi> be there (as in many other places) but the question is—Is it payable to work it?.—</p>
+         <p>This was to be the ploughing match day at Woburn, and I did think, that if it should prove to be fine you might be there; I fear, however, it could not have come off—as we here have had rain all day. The weather however has been remarkably fine down to Monday night;—though last week, on Friday <hi rend="italic">night</hi> there was a heavy downfall, but it was all over by early morning.</p>
+         <p>I am not quite sure that I have any English Papers left, but if I have I will send you some with this,—and shall also return the cutting from the “Graphic” you kindly sent me, that I might see what was there printed about the <hi rend="italic">Sabbath. </hi>I suppose you received the few copies of my little Book I sent you? There has been an enquiry after it, here, partly to my having quoted it in a letter in the “Herald” (on the Bible in Schools without note or comment),<note xml:id="ftn3-40" place="foot" n="40"> Colenso W. The bible in schools. <hi rend="italic">Hawkes Bay Herald</hi> 7 and 8 June 1880.</note> and partly owing to Mr. Sidey’s <hi rend="italic">fresh</hi> attack. One of his friends wanted to know of me, if I were not going to reply;—I answered with a Scotch proverb, “Twa fules in ane house are a fair ower mony”; which caused a roar of laughter.</p>
+         <p>Our shortest day is <hi rend="italic">past</hi>, and our short winter will soon be called by the same name—I suppose that you, at your work, in the Smithy, prefer the winter to the summer season; though it may be you are more liable to take cold.—I hope you have a garden―a kitchen garden, I mean,―for the sake of your wife, &amp; own comfort; I am particularly fond of vegetables, &amp; when I can get no better (as in old times) I go in for thistles―not the <hi rend="italic">Scotch </hi>fellow.</p>
+         <p>I hope this may find you well; I am pretty well, and, with kindest, best, wishes for your welfare, believe me to be, yours</p>
+         <p>Very truly</p>
+         <p>W. Colenso </p>
+      </body>
+   </text>
+</TEI>

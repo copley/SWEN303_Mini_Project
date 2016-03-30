@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1118">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>7 January 1868: Hector to Hooker.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">James Hector</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Kew DC 174, 511-514, ATL Micro-MS-Coll-10-16, 568-571.</p>
+         <p>Transcription published in "My Dear Hooker: 
+Transcriptions of letters from James Hector to  
+Joseph Dalton Hooker between 1860 and 1898", Rowan Burns &amp; Simon Nathan.  Geoscience Society of New Zealand miscellaneous publication 133B, 2012.  ISBN 978-1-877480-21-8. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133B.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1868-01-07">1868 January 7</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hector to Hooker, 7-1-1868, Kew DC 174, 511-514, ATL Micro-MS-Coll-10-16, 568-571.</p>
+      </front>
+      <body>
+      <p> Geological Survey Office and 
+Colonial Museum, Wellington </p>
+            <p>7th January 1868</p>
+            <p>My dear Hooker,</p>
+            <p>The plants refd. to in a list sent 
+to you on 6th Nov. leave to day by the 
+Asterope
+ in four cases secured on the deck.</p>
+            <p>
+I enclose the Bill of  £/- for those and will send duplicates via Suez.</p>
+            <p>The same Bill/£ also includes a case containing the Cabinet which I hope will reach you in safety and be accepted. I cannot as yet 
+send you the names of those who have formed 
+in the presentation but you will find all your appreciating friends on the list. </p>
+            <p>I have to acknowledge your letters of Oct. &amp; Sept. I have 
+only recd. them as I have 
+been up at Taupo Lake and at Ruapehu &amp; Tongariro. I was too early for plants but made a 
+large collection of the few that 
+were in flower. I got nothing new but most things that were got previously by Colenso &amp; Bidwill. </p>
+            <p>Tongoriro is still active. Ruapehu is not. They both sit 
+on marine tertiaries to the westward of a straight edged mass of Palaeozoic
+ Slates. The elevation of
+ the Tertiaries which
+are Upper Pliocene is equal to 2700 ft. It is much the same kind of
+ thing as if a great volcano
+were to burst out at the base of the submarine cliff along the West Coast of the South Island 
+&amp; during the display of Volc. Energy the
+sea bottom were to rise with 
+its covering of marine 
+strata to the above altitude. </p>
+            <p>
+            a. Highly fossiliferous crag
+[?] Pliocene. Rises from Sea le
+vel to 2700 ft. both from E. 
+&amp; W. in a sh--- only broken by gullies of denudation. </p>
+            <p>b. Turb----- Clay Marls. Foss
+ils from ---- Calc. strata. </p>
+            <p> c. Clay silt evidently deep water beds with --- as far foraminifera.  </p>
+            <p>d. Trachyte &amp; ----- Mts. d
+------ P---- drifts ---. </p>
+            <p>I am going back there at once as I have 
+only come down for some business connected 
+with the medical board 
+of which I am Pres. </p>
+            <p>How glad I am you are to be Pres. of Brit. Assoc. I wish to goodness I could get home.  I would add my little effort to make it a meeting worthy of its President. I wont despair but the visit of
+the Prince will turn everything topsy turvy.  </p>
+            <p>
+I am glad you are pleased with the chert flakes. I will send you more &amp; also some of 
+the more highly finished axes &amp;c. 
+I have a very fair collection now. </p>
+            <p>            I am putting up a new[?] Maori House 55 ft 
+long 20 ft wide &amp; 16 ft high all Carved in 
+the most splendid fashion. It is the finest Carved Ho. the Maories have built and the Govt. 
+ery wisely took the occasion of their turning rebel to confiscate it &amp; transfer it to my care for 
+preservation. In 50 years it will 
+promise sincere interest[?]. </p>
+            <p> Many thanks for the Ward Case of plants of which I have recd. B/L. I will report 
+hen they arrive. The next cases I send I shall 
+build in a very different style. If you send out more plants please send 
+Pines &amp; Rododendrons.</p>
+            <p> 
+I had a letter from R---- about the Flora Hand Book &amp; have placed it in a publishers hands. I hope some will soon arrive as there is
+ a great demand for them. The
+ Littergrass[?] 
+ou send are very good. Buchanan has not seen th
+em yet as he is away in the South.</p>
+            <p>  Your notes on 
+Olearia traversii
+ have been sent on to Mr
+. Potts. Haast is down about 
+the Rangitata now will no doubt find the plant if it
+ is there. He has been building up Moas at 
+ great rate &amp; has no doubt sent you Photos of them.</p>
+            <p> With all good wishes of the season </p>
+            <p> 
+Your affectionate friend </p>
+            <p> 
+James Hector. </p>
+</body>
+   </text>
+</TEI>

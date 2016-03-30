@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0016">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1858 Tracts for the times No.5. Hawke’s Bay Herald 27 November.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1858-11-27">1858 November 27</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1858-11-20">1858 November 20</date>
+        <name type="place">Waitangi</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1858 Tracts for the times No.5.         <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald</hi>
+        <hi rend="bold"> 27 November.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+        <hi rend="italic">“Dare lucem it dare servem.” </hi>
+      </p>
+      <p>
+      <hi rend="smallcaps">Who art thou</hi>? </p>
+      <p>“I am <hi rend="smallcaps">truth</hi>.” </p>
+      <p>Whence cameth thou?— “I came forth from the throne of the Eternal.”</p>
+      <p>Whither goest thou?— “I seek an entrance into the heart of every man.”</p>
+      <p>Where wast thou during times past?— “Always on the earth, free as the winds which bore me; but always opposed, calumniated, ridiculed, kicked, expelled, throttled, put down, burnt, gagged, buried alive, tortured, thrown into wells, gibbetted and crucified.”</p>
+      <p>By whom?— “By kings, by priests, by popes, by emporors, by lords, by bishops, by officials, by venal hirelings of the pen and the press, by powers.”</p>
+      <p>Why?—Because they hated me; because they loved tyrrany, slavery, extreme wealth, absolute power, place and ease; because they themselves were unshackled by educational-twist, by custom and by precedent, by routine, by duncedom, and by hatred-of-change; because they listened to the loud cries of ignorance and darkness, and to the shriekings of bigotry, of superstition of prejudice and of fear.” </p>
+      <p>What is thy mission?— “To teach, to inform, to enlighten, to detect, to give knowledge, to strengthen, to cheer, to direct, to uphold, to settle firmly, to incite and lead enquiry, to cause reflection, to humanise, to make godlike, to free.”</p>
+      <p>Dost thou think to succeed?— “Yes: I am but one but I am all-powerful and immortal, the gift of Him who sent me. The physical barriers of the universe are mighty—the moral ones are mightier far—and time seems long to the sons of men, but all are as nought to me. I never tire nor rest; I work every where; when crushed to earth in one place, I bide my time there, meanwhile I rise anew in another.”</p>
+      <p>Hast thou at present any followers?— “I have many—scattered all over the globe; among all peoples, all tribes, all languages, all nationalities, all classes. But chiefly in Britain and her numerous colonies, and in America, are my more advanced followers to be found. I have also very many rising ones in Italy in France in Germany and other places, which another short age will more fully develope.”</p>
+      <p>Have not thy chief disciples, been always considered disturbers?— “Invariably so. We fare alike: the disciple is not greater than his master; in past ages they were always hunted to death; and even now </p>
+      <p>“The man who shows his heart,  <lb/>Is hooted for his nudities and scorned!’”</p>
+      <p>Why is this?— “Because my followers are always in advance of the age in which their lot is cast. This is proved, from the next generation raising monuments to the memory of those whom their fathers either murdered or suffered to die through cold neglect and want.” </p>
+      <p>If then thy past chief ones have heen so ill-used, and so very few among thy present followers escape ridicule coldness and persecution;—what reward hast thou to give them?— “The best the highest the most glorious: to use rightly their reason, the greatest gift to them of the Eternal, Hence they learn truly to know themselves; and, while they learn mentally to soar above all bounds and space, they become as humble as little children at their knowing so little; learn to despise pelf and honour and worldly glitter; and rejoice beyond expression at the new world of mind and freedom on which they have entered, and which ever remains with them ever comforting and strengthening them.” </p>
+      <p>Since thou sayest, that thou teachest every where, perhaps thou doest so in every matter and thing?— “I do: such is my mission. I work alike in science and in art, in physics and in morals, in religion and in politics, in the minor events of the fleeting hour and in the hugest ones of the slow-revolving age, in the hamlet’s path and in the path of comets, in the first prattling of an infant’s mind and in the deepest conclusions of the wisest of sages. I taught both my New-Zealand child how to make a flaxen fishing line and my British son how to form the electric band which now girdles the globe. I am naturally opposed to all secret conclaves, whether of the inquisition or the star-chamber, or vestries, or the ‘closed doors’ of petty colonial oligarchies. I abominate all humbug and moonshine and tinsel and ostentation and all vamped up externals. I dissect and shew the inner core and heart of things. I hate all insincerity, and have ever borne testimony against it; I did so 3000 years ago by the old Greek poet, saying,</p>
+      <p>‘Who dares think one thing and another tell,   <lb/>My soul detests him as the gates of hell.’*—</p>
+      <p>I inspired the British heart with love of freedom, liberty of the press, and of open trial by jury, and to stick to ‘all fair above board’: I am wholly against such teaching as ‘all fair in love war and politics.’ I counselled the sons of men in ancient days, by the wisest of their race, to ‘buy the truth and sell it not’; and 2000 years ago my doctrine was openly and daily taught by the Founder of Christianity to the men women and children of Judea.”</p>
+      <p>                                       [<hi rend="italic">Exit </hi>
+      <hi rend="smallcaps">truth</hi>.]</p>
+      <p>O! mighty truth, thou must, thou shalt prevail! Go on: work, energise, operate, labour; thou hast much to do here in New Zealand—in Ahuriri; and thou wilt also find great opposition. Brother electors:—</p>
+      <p> “He is the freeman whom the<hi rend="italic">truth </hi>makes free,   <lb/>And all are slaves beside.”—</p>
+      <p>
+        <hi rend="smallcaps">                                           Wm. Colenso.</hi>
+      </p>
+      <p> Waitangi, Nov. 20, 1858.</p>
+      <p>               *<hi rend="italic">Iliad, </hi>ix.</p>
+    </body>
+  </text>
+</TEI>

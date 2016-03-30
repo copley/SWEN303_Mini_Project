@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0078">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1878 To the Chairman Board of Education, Napier. Hawke’s Bay Herald May 4.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1878-05-04">1878 May 4</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1878-05-01">1878 May 1</date>
+        <name type="place">Waipukurau</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1878 To the Chairman Board of Education, Napier.<lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald</hi>
+        <hi rend="bold"> May 4.</hi>
+      </p>
+    </front>
+    <body>
+      <p rend="end">Waipukurau, May 1, 1878. </p>
+      <p>Sir,— I have the honour to call your attention to the following. </p>
+      <p>I should not, however, write did I not know from <hi rend="smallcaps">Herald</hi> of this morning, that the Education Board meets again to-morrow, and that my name in connection with my late office had been prominently before the Board yesterday. </p>
+      <p>I note what you are reported to have said in your opening address, viz., “that in considering the applications received, they should consider whether the late Inspector should not be induced to accept office;” also the question put by Captain Russell,— “whether there was any probability of Mr Colenso continuing to hold the office:” and, further, your reply thereto. </p>
+      <p>It is wholly owing to the foregoing that I now write. </p>
+      <p>For I had supposed (wrongly perhaps),— that having resigned my late office on 31st March, (but contingently on 8th April,) and the late Board having subsequently officially asked me to continue in office until 30th April, to which I had immediately assented,—that the way was open for the new Board, meeting on that same day the 30th (<hi rend="italic">if they chose</hi>), to ask me further and at once to remain in office; or to ask me to withdraw my resignation; to either of which I should have assented. </p>
+      <p>For, although repeatedly requested (by many, too, whom I have long known and highly respected,) to withdraw my resignation; I failed to see how I could possibly do no, that resignation having been by the late Board officially accepted. </p>
+      <p>However, (having made this explanation,) I write now to say, that,— owing to the very numerous strong and pressing requests made to me (both personally and by letter) by all the old experienced Teachers of our schools, and by several of the newer ones, together with the still stronger solicitations and persuasions of many of our oldest and principal settlers and also those of their children,—I am willing to continue to hold the office of Inspector of Schools, if such is the wish of the Board. </p>
+      <p>And as I am now here at this place, and am anxious to visit the Porangahau School before that I return to Napier, (having already inspected all the other southern ones,) I should much like to have the reply of the Board at once and by telegram; for, if the Board accept my proposal, I leave hence immediately (weather permitting) for Porangahau, as I can not well come back again to go thither in the winter; and if on the contrary the Board should decline it, then I return to-morrow to Napier. I have, &amp;c, </p>
+      <p>(Signed) W. Colenso.</p>
+    </body>
+  </text>
+</TEI>

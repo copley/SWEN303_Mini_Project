@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0601">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1885 June 15: to Daydon-Jackson</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Linnean Society: Bound Correspondence, vol. 2, f. 2.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/74426/">Daydon-Jackson</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1885-06-15">1885 June 15</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1885 June 15: to Daydon-Jackson<note xml:id="ftn3-309" place="foot" n="309"> Linnean Society: Bound Correspondence, vol. 2, f. 2.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, New Zealand,<lb/>June 15<hi rend="sup ">th</hi>., 1885.</p>
+         <p>B. Daydon Jackson, Esq<lb/>Burlington House,<lb/>London.</p>
+         <p>Dear Sir </p>
+         <p>By our last S.F. Mail I received your letter of 9<hi rend="sup ">th</hi> April,—informing me of the fate of my Botanical Paper through “my specimens being quite identical with specimens at Kew, previously sent thither by myself.”—</p>
+         <p>Never man was more surprised than I on receiving your letter! and although 10 days have since elapsed I have not yet forgotten it—or, more plainly, recovered the shock it gave me.—</p>
+         <p>At present I can only say, (1.) that I regret very much I should have been the unfortunate means of causing you the trouble to go specially to Kew about my specimens. Of course, I never supposed that such was requisite on your part. (2.) I must still demur to those specimens being “identical” with other (and former) specimens sent to Kew by me; having my past experience to fall back upon. And to show to you (in part) my grounds for so believing, I enclose a tracing of a portion of <hi rend="italic">Hoheria populnea</hi>, taken from Sir W.J. Hooker’s large and able drawing of that plant with dissections, in his “Icones Plantarum,” vol. <hi rend="smallcaps">vi</hi> (entire work,) tabs. <hi rend="smallcaps">dlxv. &amp; dlxvi</hi>.<note xml:id="ftn3-310" place="foot" n="310"> Colenso’s tracing is attached.</note> From merely glancing at it you will (I trust) see the great difference between that sp. and my “<hi rend="italic">sexstylosa</hi>”—with its low and shaggy 6 styles and 6-ovuled fruit: flowers, fruit, leaves &amp; bark all widely different!—</p>
+         <p>Of <hi rend="italic">H. populnea</hi>, Hook. fil. says, “ovario 5-loculari, stylis 5” (Fl. N.Z., vol. I, p.30) also, in his “Handbook N.Z. Flora,” p.31, “ovary 5-celled, styles 5, filiform,” &amp;c. If, then, my “<hi rend="italic">sexstylosa</hi>” (as you say) is there—and, of course, has long been there,—Sir J.D. Hooker should certainly have given it striking differential characters. Something similar has long been done with Raoul’s fine Southern Species, <hi rend="italic">H. angustifolia</hi>, (vide, M. Raoul’s Choix Plantes N.Z.) of which species Raoul had given a large drawing with admirable dissections and a very full description: and this plant we here all believe to be <hi rend="italic">very distinct as a species</hi>.<note xml:id="ftn3-311" place="foot" n="311">
+               <emph>Hoheria sexstylosa </emph>
+               <emph>Col.</emph>
+               <hi rend="italic">,</hi>long-leaved lacebark or ribbonwood is now recognised and endemic to New Zealand.</note>—</p>
+         <p>Such, however, allow me to remark, is not new to me at Kew with my plants:—e.g. <hi rend="italic">Dicksonia fibrosa</hi>, and <hi rend="italic">D. lanata</hi>,—published by me in “Tasmanian Journal of Natural Science” in 1845,—and afterwards, supported by Sir W.J. Hooker &amp; republished with drawings in his Sp. Filicum, were disallowed by Baker, and only tardily in his “<hi rend="underline italic">Appendix</hi>,” Synop. Filicum revived! So my <hi rend="italic">Lindsæa viridis</hi>, originally published by me, as above, has only more recently (1875) been allowed by Baker to be a valid sp.,—in “Journ. Bot. Brit. &amp; For.,” April No. So, again, with my <hi rend="italic">Polypodium sylvaticum</hi>, recognised by Hook. pat. &amp; fil., is disallowed by Baker: and still more recently many other Ferns, of which, however, I feel sure that I am right. My second sp. of <hi rend="italic">Phormium</hi>, ditto of <hi rend="italic">Arthropodium</hi>, were long refused as sp. nov. at Kew, until the French botanists re-established them—then they became adopted.</p>
+         <p>I have lately described some of our Ferns (in “Trans. N.Z. Instit.,” vols. <hi rend="smallcaps">xvi &amp; xvii.,)</hi> which I believe to be new and valid sp.—but I feel equally sure that Mr. Baker of Kew will not allow them to be such!—Although I feel convinced he would if he had seen them living and growing and in plenty as I have. Permit me to say, as an old experienced <hi rend="underline italic">N.Z</hi>. botanist,—I feel strong in my position as to our <hi rend="italic">N.Z. Plants</hi>, (these only,) particularly our Ferns: <hi rend="italic">time will show</hi>.—</p>
+         <p>In all, I think, I have mentioned wherein the allied species differ,—at least, I know I have studied hard to do so; and only allowed their validity as species on noting their differential characters. But then crops up the old Question, “What constitutes a species?”—</p>
+         <p>I note also your observation as to “my descriptions not being written in Latin”: I was not aware that such was required. I had recently noticed in last parts to hand of “Trans. Lin. Socy.,” (vol. I, 2nd series Botany,) that <hi rend="italic">descriptions</hi> of Ferns, sp. nov., by Mr. C.B. Clarke, <hi rend="italic">were in English</hi>: these I had been closely studying (having also Beddome’s volumes) at the time of my describing those very plants, I sent to you. Besides, I have an impression, that some descriptions of our N.Z. plants by Kirk, and also by Buchanan, (published in former “Proceedings” Lin. Socy.,) were in English.</p>
+         <p>Once more, then, apologizing, and deeply regretting the trouble I have unwittingly caused you,—which, however, is never likely to occur again, </p>
+         <p>I am, Dear Sir, </p>
+         <p>Yours very truly </p>
+         <p>Wm. Colenso.</p>
+      </body>
+   </text>
+</TEI>

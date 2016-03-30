@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0066">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1847 March 16: to Dixon &amp; Co.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-0879, photocopies of Searancke papers. Originals in Nat. Lib. Australia, Canberra.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/72374/">Ahuriri</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="organisation" key="http://wtap.vuw.ac.nz/eats/entity/72324/">Dixon &amp; Co.</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1847-03-16">1847 March 16</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1847 March 16: to Dixon &amp; Co.<note xml:id="ftn1-72" place="foot" n="72">ATL MS-0879, photocopies of Searancke papers. Originals in Nat. Lib. Australia, Canberra.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Ahuriri, H.Bay, N. Zealand, March 16 1847<lb/>and Dup. June 3/47)<lb/>via Auckland)</p>
+         <p>Mess. R. Dixon, &amp; Co.,</p>
+         <p>Gentlemen,</p>
+         <p>I sit down to write—having 8 letters (!) and 2 Invoices of yours laying on my Table before me. I wrote a very short note to you in Decr., informg. you of the goods pr. Madras havg. safely arrived last week (the 12<hi rend="sup">th</hi>.), the goods pr. “Gypsey” made their appearance in no very good condition,—and now I lose no time in writing, and shall freely remark <hi rend="italic">seriatim</hi> upon several items.—</p>
+         <p>No.1. earthenware, vulgar &amp; common—<hi rend="italic">blue—not accordg.</hi> to order</p>
+         <p>2. spades, of 2 kinds—the better kind will do;</p>
+         <p>4. Liq. Plants, &amp;c,—I think I merely wrote for fresh &amp; good root, for medicinal purposes; and for seeds; However I have (out of the whole) 3 plants living in my garden.</p>
+         <p>6. “Fancy” (!) wafers—complete Trash<lb/>      Handkerchiefs—the<hi rend="italic">red</hi> ones (tho’ small) are near the mark—the common ?Scotch (“Monteith—Glasgow”, marked up on them) are very inferior<lb/>       2 Tweed coats—almost the<hi rend="italic">best</hi> &amp; most suitable articles sent<lb/>      Scarlet Large shirts—rather short<lb/>  4 angola coats—unsuitable—too high priced for Natives</p>
+         <p>7. Wedding rings—<hi rend="italic">much too </hi>
+            <hi rend="underline italic">small for</hi> N.Zealrs.<lb/>Scarlet cravats—very much too dear; just as good (equally as suitable) an article is to be had<hi rend="underline italic">here</hi> at 10/. pr. doz. The com. retail price at Wellg. is 1/.</p>
+         <p>8. <hi rend="italic">Drab</hi> umbrella <hi rend="italic">sent</hi>—<hi rend="italic">white</hi> one ordered; such as the Quakers use: I <hi rend="italic">believe</hi> they are made of W. Brown Holland.—<lb/>Moleskin Trows. sent, good &amp; suitable—but all came much spotted; yet goods w. them were perfectly dry.</p>
+         <p>9–11. 3 Bs. spades, said to be “w. straps”—only 2 Bs. howr. of that kind. The 3<hi rend="sup">rd</hi>. very infr. article, not only <hi rend="italic">without</hi> straps, but T-handled.</p>
+         <p>14. axe heads! a sad mistake this—but partly perhaps my own fault, —what I wanted were <hi rend="underline italic">small</hi> bright axe heads weighing about 4oz. each, which may be had <hi rend="italic">here</hi> for abt. 10/. pr. doz. This is a dead loss the art. being next to useless, having also previously more than a doz. by me.</p>
+         <p>The Mills, I hesitate to speak of, from not having it in my power to <hi rend="italic">prove </hi>them. They do not look so well-finished as those already among the Natives in the neighd., wh. have some little addl. apparatus, brass gudgeons, &amp;c. They got a little rusty in coming water having got into the Cask; thro’ wh. many of the Combs were spoiled; and the B. Cotton, &amp; Blankets damaged.—</p>
+         <p>The articles I have not noticed you may consider as generally giving satisfaction.—</p>
+         <p>I may just mention, as a general rule for yr. guidance, that I always wish to have a serviceable yet cheap article for Native use; and, in addn. to what is <hi rend="italic">good</hi> &amp; useful, <hi rend="italic">neat</hi> for my own. I utterly dislike, any thing that is very inferior in quality for them, or vulgar or “<hi rend="italic">flashy</hi>” in appearance for my own use.—</p>
+         <p>I enclose the <hi rend="italic">origl. </hi>of a sett of Bills on the Rev H Venn for £50 (Fifty pounds)—the Dup. of which I will also forward in a few days. I regret now I had not got them drawn for a higher sum—you will perceive they are drawn in adv., wh. is only done to come agt. <hi rend="italic">that</hi> quarterly salary. I hope with them you will pay yrselves the Bal. of yr. a/c £25.18.5—and, will with the remg. sum of £24.1.7, execute the small enclosed order mkd. A.</p>
+         <p>In my note of Decr. last, I ordered,—<lb/>— a copy of P. Times for 1846<lb/>— 2 doz men’s cott. Braces<lb/>— 2 eye glasses nos. 2, 2½ in Tortoiseshell—<lb/>which,<hi rend="italic">if not already sent</hi>, you will please to <hi rend="italic">add.</hi> to the order marked A.</p>
+         <p>(I have requested the “<hi rend="italic">Pictorial Times</hi>”—but I am in ignorance whether to prefer that paper to the “Illustrated News”—should the above mentioned articles not have been sent, will you have the goodness to make the selection?—I order the Paper wholly on account of its cuts.)+++</p>
+         <p>—for order see Order Book—</p>
+         <p>2 Wheat mills complete  . . . . . . . . . . .                                    £7. 0. 0<lb/>1 small stove                                                            (say)     2.10. 0<lb/>6 Japanned Bed Chamber Lamps–(see Curator) 1/6                      9.<lb/>Lucifer matches<hi rend="italic">not </hi>Cosgroves . . . . . . . . . . . . . . . . .            8.<lb/>Pictorial Flora, by Miss Jackson, Longman’s 15.0       15/-  )<lb/>Cory’s Anct. Fragments, Pickering, Londn., last ed. (say  10/-)  )<lb/>Relig. of Anct. Britain, Longman                                      8/-  )<lb/>Bickersteth’s famy. prayers Longman                          7/-  )<lb/>Pollock’s Course of Time—latest ed.—Longman  7/6  )<lb/>Cowper’s Poetical Works by Cary             ditto           14/-  )<lb/>Milton’s works by J. Montgomery, 2 vols 8vo 120 engs.  1.4.0  )  5. 8. 0<lb/>Bp. Wilson’s new work on the Colossians                say     12/-  )<lb/>1<hi rend="sup">st</hi>. vol. of Carne’s Lives of Missionaries, cloth Fisher                 (6/-) )<lb/>1 doz. Colenso’s Cott. Prayers 3d. Rivingtons                3/-  )<lb/>1 Last Day, 3/6 Nisbet                                                       3/6  )<lb/>1 Cat. of Articles of Ch. of E.                                                      )<lb/>  by Owen. Houlston &amp; Stoneman                      say  3/-  )<lb/>2 or 3 boxes of<hi rend="italic">really good </hi>medall. wafers, C. silvered<lb/>mags. Blkwoods, Frazer, Quarterly Rev.—when old—at<hi rend="italic">low </hi>p</p>
+         <p> (1 drum Turkey Figs                           say 10/-  )<lb/>all  ( 1 Box Fr. Plums                                           5/-  ) <lb/>new  ( 4 Bottles Pickled walnuts                            4/-  )  say  1.10. 0<lb/>  (1 Bushel Walnuts                                            4/-  )<lb/>  (1 d—— soft shell almonds                          1/-  )<lb/>  macaroons                                                                   17.13. 0</p>
+         <p>——————————————————————</p>
+         <p>                         17.13. 0</p>
+         <p>½ doz. Tweed Coats similar to those sent,      )       8/6               2.11. 0<lb/>  but, at least 6, of sizes larger                )<lb/>1 doz. Moleskin Trows 5/-                 60/-                              3. 0. 0<lb/>½ doz. Printed ditto, dark, not lined, abt. 10/-  60/-      3.10. 0<lb/>6 doz. Rack Combs — 2/2                                                     10.10<lb/>1 doz. Com. Silk Pockt. Hdkfs yellow, orange, Blue, or Red<lb/>  —I think they are called “Bandana’s” abt 25/-                1. 5. 0<lb/>4 doz. best<hi rend="italic">red </hi>Cotton Hdkfs. @ 8/-                                   2. 8. 0<lb/>4 doz red &amp; yellow ditto                5/3                                     1.11. 6<lb/>1 doz. Men’s Cott. Braces                                                                  12.<lb/>1 doz. Tinder Boxes                                                                             10.<lb/>2 doz. Scizzars                                                                                         10.<lb/>1 Small Pocket Compass (I bot. one for 2/6 when in England  2. 6<lb/>1 Small Thermr. with Japanned bk. to fix agt. wall                          4.<lb/>Sardines in oil, 1 doz. tins                                                                     12.<lb/>2 do. Carb Soda                                                                                         5.<lb/>2 Blk. &amp; Green Men’s Straw hats, 1¼ size,—large brim                 5.<lb/>2 doz. Shaving Boxes w. Glasses<lb/>Pelisse<lb/>Carpet, yds.                           good, Kidderminster<lb/>                                                dark, small pattern<lb/>Maps, &amp; Josephus—ask of Rev. H. Venn<lb/>1 small stout Black Tin Teakettle oval, small spout, 3 pints         2. 6<lb/>1 Com. Cloaks for Natives    )<lb/>  stout Blue Cloth, fur Collars   )  not above 40/- ea.             2. 0. 0<lb/>
+         </p>
+         <p>                                                                                                         £46. 4. 0<lb/>Or in next order</p>
+         <p>wove Cotton Drawers—<lb/>Blk. Waistcoats—<lb/>Blk. Cler. Cap—light 7¼<lb/>Blk Trowsers<lb/>White P. Hdkfs<lb/>1 p. Shirts Calico<lb/>Rockg. Horse wh. will carry a boy                 price<lb/>1 doz. Twil. waistcoats @ 40/-<lb/>Pelisse                    Newd. Cad.<lb/>Carpet.</p>
+         <p>
+            <hi rend="italic">Copy </hi>Letter to Dixon March 7/47. Dupl. June 3/47</p>
+         <p>Ordered also Coat for Cole<note xml:id="ftn1-73" place="foot" n="73"> A note signed “R.C.” is attached and reads, “Please order me a Codrington Coat with this alteration on the size of yours. Easier under the Arms. 1½ Inch longer in the Waist. 1½ Inch longer in the Cuffs.” Robert Cole was Colonial Chaplain at Wellington, 1841-1853: Colenso visited him there. </note> 2 prs. Blk Trowsers, self <lb/>of Berdoe June 3/47</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0092">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1881 Correspondence. Waipawa Mail 5 January</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1881-01-05">1881 January 5</date>
+          <publisher>
+            <name type="organisation">Waipawa Mail</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1881-01-01">1881 January 1</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p><hi rend="bold">1881 Correspondence. <hi rend="italic">Waipawa Mail</hi> 5 January</hi></p>
+    </front>
+    <body>
+      <p><hi rend="smallcaps">Sir</hi>,—Permit me to add a few lines by way of postscript to my letter in your paper of this day; and, in my doing so, I would first apo1oise to your readers for having omitted them, which omission entirely happened through my writing hurriedly to you to be in time for the mail to your town, and for your paper, and also to my being very busiIy occupied in writing for the outgoing English mail.</p>
+      <p>I wish to add that Te Whiti’s pithy sentence, “<hi rend="italic">Tu</hi>
+      <hi rend="italic">a maoa te tawa</hi>,” may also mean that the hard stones or kernels of the tawa fruit are at length getting soft through their long preparatory steaming, though not yet quite fit for eating, and, if so, then their figurative meaning is much the same; possessing, however, (particularly to the native mind,) much more of highly suitable metaphor, arising from the extra trouble, time, labour, and patient waiting, to bring this to pass.</p>
+      <p>I may also observe that, curiously enough, this very subject—the mode of preparing the tawa kernels for food, as practised by the ancient Maoris—was part of my paper read here before our H.B. Philosophical Institute last; and as such may interest your readers just now (as serving to elucidate Te Whiti’s words), I may further say that the large ripe berries of the tawa were formerly gathered up from the ground under the trees in bushels, in their season, and when denuded of their fleshy pulp (easily done by the aid of water), the kernels were laid in quantities in a very large earth-oven, previously prepared and heated (<hi rend="italic">umu-tao-roa</hi> —slow baking oven), and therein slowly steamed for two or three days, until they became soft and were easily masticated;—and to this, in all probability, Te Whiti’s apposite sentence may be attributed.</p>
+      <p>These stones or kernels somewhat resembled in shape those of the large date fruit of the shops, and were excessively hard.—I am, &amp;c.,</p>
+      <p>
+      <hi rend="smallcaps">William Colenso</hi>.</p>
+      <p>Napier, January 1, 1881</p>
+    </body>
+  </text>
+</TEI>

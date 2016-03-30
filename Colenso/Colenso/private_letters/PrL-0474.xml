@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0474">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1881 November 18: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4. Letter addressed to “Mr. A. Luff, Post Office, Wellington”.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1881-11-18">1881 November 18</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1881 November 18: to Luff<note xml:id="ftn3-111" place="foot" n="111"> ATL MS-Copy-Micro-0485-4. Letter addressed to “Mr. A. Luff, Post Office, Wellington”.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Novr. 18/81.</p>
+         <p>A. Luff Esq.,<lb/>  Wellington.</p>
+         <p>My Dear Sir,</p>
+         <p>For the last 2–3 weeks your letter of Octr. 13<hi rend="sup">th</hi>. has been staring at me, and, possibly silently reproaching my not replying!—To be sure of writing to you some day, and that too early, I had taken care to place it on the <hi rend="italic">outside </hi>of my growing bundle of unanswered letters. I should however tell you, that it arrived just as I was going inland.—I was absent more than a fortnight returning (unwell) on the night of 31<hi rend="sup">st</hi>. October; and the very severe cold I caught up in the 70 m. Bush (during my 7 days of sojourn there, 6 of which were cold rainy ones!)—is only just leaving me. On my return I had two matters to attend to (2, in particular, I mean) 1—to ansr. Eng. letters, then awaiting me; and 1—to prepare for our <hi rend="italic">last</hi> Monday night’s meeting (Institute) which again had devolved on me. I feel <hi rend="italic">free</hi> for a time, now that it is at an <hi rend="italic">end</hi> for 1881!—–</p>
+         <p>You may see a fair <hi rend="italic">résumé</hi> of the meeting in “D.T.” of Tuesday, 14<hi rend="sup">th</hi>. If I can find a spare one I will send it: as, I think, you only see the “Herald”. If I get well enough I hope to go again to the forests next week—so as to return to N. <hi rend="italic">before</hi> the polling day: for one must go to Hastings (<hi rend="italic">nearest</hi>) to vote for “H.B. County”—and to Kaikoura (or Te Aute) to vote for “Waipawa” (formerly Clive). Folks generally, I think, seem ½ wild about the elections: no doubt, heightened by the fact of the <hi rend="italic">2 sets</hi> (Assembly &amp; Co. Councils) coming together.—But, as a rule, I have <hi rend="italic">nothing</hi> to say: &amp; strictly kept myself thus when inland; save, one day, while at Gow’s, some Eng. gentlemen (travellers) present, when I said, that “if such is to be the case the declension of N.Z. as a Colony, is both sure &amp; near, <hi rend="italic">viz</hi>., every Jack, Tom, &amp; Harry, to have a vote alike with his master!” Manhood suffrage (if you please) but property also, &amp; other things:—even as I once said in our P. Cl. in the olden time. But enough of this for the present.</p>
+         <p>Of course you will have heard of Mr. Lowry’s death: I don’t think that you knew much of him: but we have lost a <hi rend="underline italic">good</hi>
+            <hi rend="italic"> old </hi>settler, and I, a good friend (perhaps my best, or only one). <hi rend="italic">I felt his loss</hi>: I was inland at the time, so <hi rend="italic">not</hi> at the funeral. He was the only remaining settler who had spent a night in my old &amp; big Mission Station House: (though Mr. J. Anderson had, also, been in it, for refreshment in his exigency.)—Several deaths (mostly children) of late, Measles, Scarlatina, &amp;c., being rife in some places (particularly Waipukurau), &amp; schools closed. Mentioning Waipukurau, reminds me of <hi rend="italic">you</hi>,—and of Brooke Taylor, who is now there—on a visit to his son “Alec.”—who is now the Agent of the <hi rend="italic">U.B.A</hi>. in that place! I could scarcely believe it, at first: you may recollect him, an assistant herdsman (or boy) at S. Williams’, Te Aute, just before you went home. Brooke with his daughter, called on me on their way thither, &amp; told me all about it.—</p>
+         <p>I agree w. you in your remark <hi rend="italic">re</hi> Capt. R. (who will have my vote): it will be a pretty <hi rend="italic">close</hi> fight between him &amp; S.—I only wish that S. had <hi rend="italic">not</hi> come out for the Cy.—<hi rend="italic">he can</hi> do <hi rend="italic">many</hi> things in the low touting way, which Capt. R. cannot:—I think, if S. had stood for the <hi rend="italic">town</hi> he would have had a good cance: as it is, <hi rend="italic">it is sad.</hi>
+         </p>
+         <p>I hope prospects <hi rend="italic">re</hi> money matters are better with you. I was told the other day, by one of the Class, that there were 47 “agents” now in Napier!! how some of them live is a mystery to me. Last month, (after <hi rend="italic">long</hi> endeavouring on my part, extending over many years) I wrote an “Offl.” to Town Clerk, on behalf of myself <hi rend="italic">&amp; others</hi> (Ch. Trustees, Grammar School Lessees, Kinross &amp; Carlile Attys. for Doug. McLean &amp; J.D. Ormond as Lessee—<hi rend="italic">all</hi>, <hi rend="underline italic">at last</hi>, <hi rend="italic">agreeing</hi>) offering to <hi rend="italic">give the land </hi>required to make a good road (60 links wide) from Napier Terrace to Milton Road—near my <hi rend="italic">upper</hi> gate: I also wrote a long memo. attached, showing the need, &amp; the benefit; sending them, also, a map by Rochfort, showing the dist. by <hi rend="italic">Old</hi> Road 38 chains, by <hi rend="italic">new</hi>, 26 chains:—&amp; the body of<hi rend="italic"> muffs </hi>have decided, “make it <hi rend="italic">complete</hi>, &amp; we will take it”!!—So they won’t have it at all, now.</p>
+         <p>Have only seen Mr. Grubb <hi rend="italic">once</hi>. <lb/>Hoping you are well &amp; w. kind regards.</p>
+         <p>Believe me, yours truly</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0073">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1848 May 4: to Grimstone</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0492. Archives 48/547-682.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/72392/">Grimstone</name>
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1848-05-04">1848 May 4</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1848 May 4: to Grimstone<note xml:id="ftn1-89" place="foot" n="89">ATL qMS-0492. Archives 48/547-682.</note>
+         </p>
+      </front>
+      <body>
+         <p>Copy</p>
+         <p>To <lb/>J.E. Grimstone, Esqr.,<lb/>&amp;c &amp;c<lb/>Secretary’s Office,<lb/>Wellington.</p>
+         <p rend="end">Wellington, May 4<hi rend="sup">th</hi>, 1848.</p>
+         <p>Sir,</p>
+         <p>1. On my arrival at the head of the Wairarapa valley, on the 13<hi rend="sup">th</hi>. ultimo, I lost no time in forwarding by a special messenger my answer to yours of the 13<hi rend="sup">th</hi>. December last; and which Letter, I believe, you received on the 24<hi rend="sup">th</hi>. ultimo.—</p>
+         <p>2. While at Te Kaikokirikiri village, I happened, most accidentally, (I may truly enough say, <hi rend="italic">providentially</hi>,) to obtain possession of a note written by the Chief Ngatuere to the Native Teacher of Te Kaikokirikiri in September last; a copy of which, numbered 1, I enclose.<note xml:id="ftn1-90" place="foot" n="90"> WC: Enclosure No.1.</note> During my stay at this village, I enquired of the Native Teachers Campbell Hawea and Samuel Pakaiahi, whether they had seen and conversed with those white men (Messrs. Nairne and Deighton) on their visit to Wairarapa in the spring; and on their replying in the affirmative, I requested them to write briefly the substance of their respective conversations, and to send the same on to Te Kopi in Palliser Bay, where I intended being on on about the 30<hi rend="sup">th</hi> ultimo. They accordingly did so; and I also enclose copies thereof. That of Campbell Hawea’s, the Native Teacher at Te Kaikokirikiri, being numbered two;<note xml:id="ftn1-91" place="foot" n="91"> WC: Enclosure No.2.</note> and that of Samuel Pakaiahi’s, the Native Teacher at Hurunuiorangi, being numbered 3.<note xml:id="ftn1-92" place="foot" n="92"> WC: Enclosure No.3.</note> I may, in passing, remark, that I had very little conversation with them upon the subject of the charges contained in your Letter; and though I saw, and spent several days in company with, the Chief Te Ropiha, I never once mentioned the matter to him, but treated him in the same friendly manner as heretofore.—</p>
+         <p>3. Leaving Te Kaikokirikiri and proceeding down the valley, I met the Native Teacher of Huaangarua, Lot Paioke, who (I was told) had both seen and conversed with Messrs. Nairne &amp; Deighton. I, therefore, requested him also to write briefly the substance of their conversation, which (as I perceive he has addressed the same, though I believe unintentionally, to His Excellency,) I also enclose, numbered 4;<note xml:id="ftn1-93" place="foot" n="93"> WC: Enclosure No.4.</note>—taking, however, a copy of the same.</p>
+         <p>4. While at Te Kopi I received a Letter from Te Ropiha; a copy of which numbered 5,<note xml:id="ftn1-94" place="foot" n="94"> WC: Enclosure No.5.</note> I also enclose.</p>
+         <p>5. I did not pass through the lower part of the Wairarapa valley—my route, on this visit, being to the Kopi by the Coast—I have therefore not seen Ngatuere, and the other Wairarapa Natives.—</p>
+         <p>6. I was sorry to find, that, in spite of my repeated remonstrances, backed too by those of the Native Teacher, the little daughter of Nicodemus had been taken by her parents to the “<hi rend="italic">Ara-ruri</hi>”—(Government Road). – – – –</p>
+         <p>7. I can but hope that these enclosures will prove as satisfactory to His Excellency as they have to myself.</p>
+         <p>8. I have only to add, by way of elucidation,—that Campbell said the “<hi rend="italic">turituri</hi>” (disagreeable noise) which annoyed the whites, (mentioned in Ngatuere’s Letter to him,) was their, the Natives, rehearsing their Catechisms, &amp;c., when they had School together in the evenings. “<hi rend="italic">Taare</hi>,” or “<hi rend="italic">Tare</hi>,” is Nairne; and “<hi rend="italic">Ritara</hi>,” or “<hi rend="italic">Tiki</hi>” (Dick?), or “<hi rend="italic">Taitene</hi>,” is Richard Deighton. Those three Native Teachers are all quiet respectable men, who have been for several years regular Communicants,—</p>
+         <p>With every respect,</p>
+         <p>Believe me, Sir,</p>
+         <p>Your most obedt. Servt.,</p>
+         <p>William Colenso,</p>
+         <p>Missionary CMS.</p>
+      </body>
+  </text>
+</TEI>

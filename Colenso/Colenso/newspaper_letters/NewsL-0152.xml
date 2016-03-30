@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0152">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1890 The Reverend W. Colenso and the Jubilee. Auckland Weekly News 8 February.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1890-02-08">1890 February 8</date>
+               <publisher>
+                  <name type="organisation">Auckland Weekly News</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1890 The Reverend W. Colenso and the Jubilee.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Auckland Weekly News </hi>
+                  <hi rend="bold">8 February.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="italic">Mr. W. Wildman having telegraphed to Mr. W. Colenso, of Hawke’s Bay, inviting him to come to Auckland at the time of the Jubilee, received in reply the following interesting letter: — </hi>
+               </p>
+         <p rend="end">Napier, January 24, 1890</p>
+         <p>Dear Mr. Wildman,</p>
+         <p>I can scarcely tell you in a few words how very greatly your kind telegram of yesterday affected me on receipt thereof. It was so unexpected and so very generous on your part. As I don’t benefit by the town delivery of letters I did not receive it until late this day, and then by chance; but I replied by wire (briefly) as you wished.</p>
+         <p>The chief causes of my not accepting your invitation are: my chronic rheumatism (often severe), my age (nearly 80) preventing my undertaking the long and rough overland journey, and my being always such a great sufferer at sea from mal-de-mer; at the same time my general health is fair if I keep quietly within my old gearings.</p>
+         <p>For many reasons I should like to be there with you at Auckland on this occasion: (1) From my having both witnessed and assisted at the creation of the colony in the Bay of Islands (Auckland Province) in 1840; and (2) from my wish to add my testimony (that of a living witness) to that fact against the vainglorious and intolerable assumption of Wellington,—which to me, from my intimate actual knowledge of the past, and of the hundreds of whites located at the North, in and about the Bay of Islands, with our respectable merchants, stores, hotels, bank, churches, shipping and extensive trade, is worse than preposterous.. I could say a good deal on this head but I forbear.</p>
+         <p>The Government undertook to publish my authentic account of “the signing of the treaty of Waitangi” (written entirely at the time, and also corroborated by Mr. Busby, then the late British Resident), and as I read the proofs (revise) a fortnight ago I hope you may have some copies with you by the Jubilee day.</p>
+         <p>I venture to think that not a few Aucklanders (by this term I mean of the whole province) will find it interesting, as well as historical and correct.</p>
+         <p>I much regret, however, the Government declining to publish with it my two appendices pertaining to the formation of the colony (on the score of not wishing to enlarge the little book). The first of those two was of public matters prior to 1840; the second of matters closely following the same—viz., in that year, until the seat of Government was removed to Auckland. These, however, may yet be published by me.</p>
+         <p>Heartily wishing you every possible success—without a flaw! and tristing that much future good (though it may be for the present hidden from view) may follow this Jubilee year and commemoration to Auckland and to her whole province, and to the colony at large.</p>
+         <p>				I am &amp;c.</p>
+         <p>
+                  <hi rend="smallcaps">						Wm. Colenso</hi>
+               </p>
+         <p>P.S. Be very sure to send me an Auckland paper containing a full account of your doings.</p>
+      </body>
+   </text>
+</TEI>

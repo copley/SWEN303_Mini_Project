@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0869">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1893 May 31: to de Lisle</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MTG HB m64/14, m67/37, 57844.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75171/">de Lisle</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1893-05-31">1893 May 31</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1893 May 31: to de Lisle<note xml:id="ftn3-644" place="foot" n="644"> MTG HB m64/14, m67/37, 57844. </note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke May 31st, 1893.</p>
+         <p>My dear Dr de Lisle</p>
+         <p>I cannot sufficiently thank you for your kind &amp; prompt reply to my unfortunate note. Eheu! I often think I could do <hi rend="italic">without</hi>—————. <hi rend="underline italic">You are</hi>—<hi rend="italic">as you always have been</hi>—<hi rend="italic">the very best</hi> of all my (<hi rend="italic">now</hi>) few tenants: would that they could copy your example!</p>
+         <p>I came hither on Monday, having, at last! finished my work &amp; duty for Ch. &amp; for Tuke, &amp; Bp. too, at Waipukurau: and as the weather <hi rend="italic">seemed</hi> settled at last! &amp; I ½-way to the Bush, (my old loved, sylvan haunts!) I thought I would run on to this place and have a kind of valedictory peep before the winter reigns! I have no Books, nor even writing materials with me and worse still, my hand is often <hi rend="italic">shaky</hi> of a morning—as you may see in this scrawl.—Your letter—with one from <hi rend="italic">Waterworth</hi>, <hi rend="italic">re</hi> a slip from the hill side in Faraday <hi rend="underline italic">Street</hi> (or “gulch”, as Peppercorne called it) “annoying Dr. Hitchings tenants”—came hither yesterday, &amp; that said slip caused me to think of <hi rend="italic">you </hi>viz. for your horses—so I wrote immy. to Robert.—</p>
+         <p>I shall return in a few days. Weather <hi rend="italic">wet</hi>, again, yesterday, but gloriously fine to day.—–</p>
+         <p>Believe me, my dear Dr. de Lisle.</p>
+         <p>                             Very sincerely yours,</p>
+         <p>                                             W.Colenso.</p>
+         <p>No.2!                                                                                addendum,<lb/>                                                                                  June 3, 1893.</p>
+         <p>My dear Doctor</p>
+         <p>After writing the enclosed I thought I would try to get &amp; send you a few wee bits of ferns—from the woods: you there far away from them on your dry &amp; stony sea-side beaches. Yesterday I finished my culling, and though far from being satisfied I send you a few in a packet I post with this.</p>
+         <p>Also, a Wgn. paper of yesy., showing how <hi rend="italic">our Dean</hi> got snubbed! &amp;c.——</p>
+         <p>I may return on Monday: <lb/>Yours ever              W. Colenso.</p>
+         <p rend="center">
+            <hi rend="italic">A small votive</hi>
+         </p>
+         <p rend="center">
+            <hi rend="italic">Souvenir</hi>
+         </p>
+         <p rend="center">
+            <hi rend="italic">from the Fairies</hi>
+         </p>
+         <p rend="center">
+            <hi rend="italic">and Elves</hi>
+         </p>
+         <p rend="center">
+            <hi rend="italic">of these Sylvan</hi>
+         </p>
+         <p rend="center">
+            <hi rend="italic">glades</hi>
+            <hi rend="italic">
+               <note xml:id="ftn3-645" place="foot" n="645"> The “votive souvenir” is 15 pages of pressed and named ferns, one of the treasures of MTG Hawke’s Bay in Napier.</note>
+            </hi>
+         </p>
+         <p rend="center">
+            <hi rend="italic">——</hi>
+         </p>
+         <p rend="center">
+            <hi rend="italic">Dannevirke, June, 1893.</hi>
+         </p>
+      </body>
+   </text>
+</TEI>

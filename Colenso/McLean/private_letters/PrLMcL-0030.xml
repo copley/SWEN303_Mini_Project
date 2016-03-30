@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0030">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1875 May 7: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1026035</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1875-05-07">1875 May 7</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1875 May 7 McLean to Colenso (#1026035) </p>
+		</front>
+		<body>
+			<p>Dear Mr. Colenso, </p>
+			<p>If 11 a.m. to day will suit you, I shall be very glad to see you at the new Court House; or to pay you a visit at your own place after the natives in town leave for the Wairoa. Yours very truly,  Donald McLean. </p>
+			<p>7 May 75.  </p>
+		</body>
+	</text>
+</TEI>

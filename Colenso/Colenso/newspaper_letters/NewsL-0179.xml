@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0179">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1895 The Todas. ? Hawke’s Bay Herald c. June 12.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1895-06-12">1895 June 12</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1895-06-11">1895 June 11</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1895 The Todas. <lb/>?</hi>
+        <hi rend="bold italic">Hawke’s Bay Herald c. </hi>
+        <hi rend="bold">June 12.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—I was much interested in reading, in your issue of this evening, a paper on “the Thodawar tribe (India) and their habits,” written by Mr A. Lascelles, now in India, which was read at the meeting of the Hawke’s Bay Institute on Monday evening last, as it reminded me of my having read a similar but fuller account of that peculiar race nearly 20 years ago, in a scientific volume on that hill (or mountain) tribe, written by Col. Marshall of H.M. Bengall Staff Corps, and well illustrated throughout by the autotype process, to which as added a grammar of their language, by the Rev. O.U. Pope, D.D., Headmaster of the “Bishop-Cotton” School, at Bangalore. Col. Marshall writes from actual observation (aided by Tamil scholars), having spent his furlogh among that tribe. Mr Lascelles does not say he had witnessed what he relates.</p>
+      <p>I may notice what I believe to be an error of your compositor—the naming the tribe in question the “Zodas”; whereas it should have been the Todas, (also written <hi rend="italic">Tuda</hi> by Dr Pope in his Grammar). I am the more inclined to deem this an error of the press, from the fact of the well-known Indian word <hi rend="italic">Tamil</hi> being also printed <hi rend="italic">Zamil</hi> in your paper. Moreover Col. Marshall says, that the <hi rend="italic">Tadawar</hi> tribe are a distinct people, but living in close proximity to the Todas.</p>
+      <p>I may further add, that I was led to purchase a copy of Col. Marshall’s book, (on its publication by Longman &amp; Co., in 1873, at a guinea) from having seen notices of it which led me to hope I might find some ancient latent connection between the Todas language, habits, and customs and our own Maoris, (I, then, working on the N.Z. Lexicon) but in this I was disappointed.—I am, &amp;c.,</p>
+      <p rend="end">
+        <hi rend="smallcaps">W. Colenso.                                </hi>
+      </p>
+      <p>Napier, June 11<hi rend="sup ">th</hi>, 1895.</p>
+    </body>
+  </text>
+</TEI>

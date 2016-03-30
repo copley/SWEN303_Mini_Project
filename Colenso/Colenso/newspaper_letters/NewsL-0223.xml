@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0223">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: The late Mr Colenso: Sir Joseph Hooker’s eulogium: Hawke’s Bay Herald 13 June 1899.</title>
+        <author>
+          <name type="person">Sir Joseph Hooker</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person">Sir Joseph Hooker</name>
+          </author>
+          <date when="1899-06-13">1899 June 13</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold italic">The late Mr Colenso: Sir Joseph Hooker’s eulogium:       <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald 13 June 1899.</hi>
+      </p>
+    </front>
+    <body>
+      <p rend="justify">At the meeting of the Hawke’s Bay Philosophical Institute last night the following motion was passed on the motion of Mr H. Hill, seconded by Mr J. W. Craig:— “That this branch of the New Zealand Institute places upon record the great loss it has sustained by the death of the Rev. William Colenso, F.R.S., F.L.S., who from its foundation was closely connected with the society as secretary, president, and member of the Council, and as a contributor of papers on botany, anthropology, and kindred subjects, has done much for the advancement of science throughout the world.” In speaking to the motion Mr Hill read the following letter from Sir Joseph Hooker:— “The Camp, Sunningdale.—April 15th, 1899.—My Dear Sir,—Your very kind letter of February 21st reached me in Devonshire, whither it was forwarded four days ago. The touching tribute of affection for my dear old friend Colenso quite overpowered me. A small testimony of his long, warm affection for me would not, I need hardly say, have been unexpected, especially from one who had on several occasions sent gifts to my children and to myself in aid of the publication of unremunerative works—always spontaneous as they were—and not seldom from the gratification that the liberal action afforded him. It was in 1841 (not 1843, as in your charming tribute to his memory) that I first made the acquaintance that at once ripened into friendship with Colenso, and ever since (except during my travels in India) we have unremittingly corresponded, most closely indeed during the critical period of his clerical career, when he unburdened his sorrowing heart to me—sure of my deep sympathy, though powerless to aid.<note xml:id="ftn68" place="foot" n="68"> There is a gap between 3 February 1852 and 28 August 1854 in the Kew collection of correspondence from Colenso to Hooker, suggesting Hooker did not file the most personal letters during Colenso’s bleakest period—<hi rend="italic">Ed.</hi>
+      </note> All you say of him is most true, and finds a repeating echo in my brain. He stands quite alone in the history of the colonisation of New Zealand, as a Christian, philanthropist, and naturalist combined in one. His portrait hangs before me in my study, and his initials carved in stone appear over a bow window of my house, or rather between the two bows. I shall get it photographed and send you a copy. I am glad indeed that he has left his plants in trust for the Philosophical Society.... I do hope that the municipality yielded to his wish that it should accept and endow it. Our last communication from him was a souvenir to my wife of a charming little book of views in New Zealand about a month ago. I cannot tell you how much I shall miss him, for he was the very last of my old correspondents of the 40’s. To have had him as one for 58 years of my life may well be a source of deep thankfulness during the remaining days that may be spared to me. If not troubling you too much, I should exceedingly like to have some account of his last illness. His last letters to me were in as vigorous a hand as his first; and he described himself in good health for his age.—      <lb/>Truly and gratefully yours,                </p>
+      <p>                                                                                       J.D.<hi rend="smallcaps">Hooker</hi>.”</p>
+    </body>
+  </text>
+</TEI>

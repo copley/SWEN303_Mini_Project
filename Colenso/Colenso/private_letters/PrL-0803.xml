@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0803">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1891 October 11: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0496.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1891-10-11">1891 October 11</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1891 October 11: to Harding<note xml:id="ftn3-553" place="foot" n="553"> ATL qMS-0496.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, 11, X, 1891,</p>
+         <p>Dear Mr Harding</p>
+         <p>Yours of the 8<hi rend="sup">th</hi>. came to hand yesterday; but I should write a few lines to you today if it had not come, to fulfil my promise in my last.—Last wk. I sent my Moa cum Mantell P. to Gore, w. a letter to ea—Sir J.H., Sir W. Buller, Hon. Mantell, &amp; to G. himself—seeking support,—so look out &amp; <hi rend="italic">report</hi>.</p>
+         <p>I returned to N. on night of 2<hi rend="sup">nd</hi> tired (shall I say, w. idleness inland? Aye, that w. <hi rend="italic">loss</hi> of <hi rend="italic">time</hi>!)—I was obliged to run down to Bank on the My. mg., ever since I have been a prisoner at <hi rend="italic">hard labour</hi>!—Eng. M., &amp; Paper for Society <hi rend="italic">tomorrow</hi> evg. having kept me <hi rend="italic">fully</hi>
+            <hi rend="italic">employed</hi>, and <hi rend="italic">no callers</hi>! Save last evg. at IV.30—my neighbour McL. very kindly came across &amp; spent an hour: I liked his convn., but I was <hi rend="italic">too tired</hi>.</p>
+         <p>I have 4 Papers! 1, 3 new <hi rend="italic">Ferns</hi> (this has given me a world of work, examg. dissecting, &amp; comparing; for one of them a <hi rend="italic">Polypodium</hi>, belongs to a genus contg. nearly 250 sps.!!) 1, some new <hi rend="italic">Phænogarns; </hi>1, the<hi rend="italic">Hepaticæ,</hi> sps. nov. of Stephani, put into an orderly List, &amp;c, by me, &amp; 1, the big fellow! of nearly<hi rend="italic"> </hi>60 4to fcp. my long<hi rend="italic"> </hi>promised Maori p.—on obsolete &amp; little known things—acts, sayings, &amp;c. This one, Hamilton had always his heart set on, &amp; wrote to me from D— about it.—As this is our “<hi rend="italic">final</hi> mtg.” (so White, Secy.,) I wrote a note to the Bp., now soon to leave us, askg. him to be present, &amp; tomorrow mg. I shall drop another to Hovell. McLean I expect will be there, he sd. he had <hi rend="italic">not</hi> recd. his Copy of vol. XXIII,—<hi rend="italic">too bad</hi>.</p>
+         <p>In addn. to the boon of re-direction of letters (now <hi rend="italic">wrung</hi>!) there is also that of <hi rend="italic">much less</hi> postage on <hi rend="italic">books</hi> &amp; papers. Thanks for interesting clippings—contg. as <hi rend="italic">usual!</hi> errors: “N.Z. Flora by<hi rend="italic">Prof. K.</hi>,” is no doubt his big (sm. fol.) “<hi rend="italic">Forest Flora</hi>;” I have a copy:—maybe a poor compilation.</p>
+         <p>It is amusing to read in “Woodville Exr.,” clipping of Rev. S.W. being the <hi rend="italic">first</hi> to travel in <hi rend="italic">those parts</hi>”! Haggen was present at my 2 lectures there &amp; heard my statement—I had been there <hi rend="italic">repeatedly many years before</hi> S.W. ever saw the place. Curiously eno., this was <hi rend="italic">conclusively</hi> shown to Judges Nat. Ld. Court lately at Dvk.—my Census, &amp; Catechisman’s Lists produced, of A.D.’45–’53:—which, I hope, did good for <hi rend="italic">both sides</hi>—Maoris, and, as before, aided Judges. By the way, I have had <hi rend="italic">no</hi> “Costs” allowed, or awarded, me, &amp; this being the 3<hi rend="sup">rd</hi> time, (once before at Hastings, &amp; at Waipawa), I shall hesitate, if called on again. I have often <hi rend="italic">wished</hi> to taste a Frostfish: 1 brought me once from Spit, “½ sov. price”—I refused it. Your “<hi rend="italic">butterfish</hi>” I do not know (tho’ may have <hi rend="italic">seen</hi> it in Mao. <hi rend="italic">pas</hi>, Cook’s Straits—Ohariu, Ohau, Te Aro, Pitoone, &amp; at the Heads,) one of our Eng. fishes—Gerrick,—has also bright green bones when boiled: (it is a <hi rend="italic">large</hi> sp. of spear-fish, Mao. n. <hi rend="italic">Takeke</hi>).</p>
+         <p>“Mum”—is a com. wd. for silence, &amp;c—but that of the herb is “Mum<hi rend="underline italic">s</hi>”—in both books. I <hi rend="italic">enclose</hi> 2 clippings of birds’ doings to cap Fairchild’s Penguins. <hi rend="italic">Wills</hi> is this day at Waipawa, offg.; the <hi rend="italic">Bp. was to have been there</hi>—W.C. on 18<hi rend="sup">th</hi>., St. Hill on 25<hi rend="sup">th</hi>, and Webb on 1<hi rend="sup">st</hi> proxo. I have also to take St Mark’s (Clive) &amp; Taradale this mo. I sent you a “Herald” contg. “Bps. Address”, hope you recd. it: w. this I send another, containing “the Judgment Ap. Ct. Renata’s Will:<hi rend="italic">store it up.</hi> At Waipawa, on 2<hi rend="sup">nd</hi> had nice long chat w. yr. Cousin R.—we also dined together, w. Smith, at “Empire”, and in travg. N. from Dvk., <hi rend="italic">Speaker</hi> Steward &amp; wife were in Carriage: he talked a good deal to his companions (?Members) but I did not think much of him—he reminded me of Capt. Carter. On. arrg. here—<hi rend="italic">1</hi>
+            <hi rend="sup italic">st</hi>
+            <hi rend="italic"> abomination</hi> in Demands for Harbour Rates<hi rend="italic">—</hi>
+            <hi rend="underline italic">£5</hi>!!—Weather fine, country beautiful: I daily Rheumatic, but <hi rend="italic">bearing</hi>, <hi rend="italic">hoping, fighting</hi> my way—<hi rend="italic">on</hi>—<hi rend="italic">to Rest</hi>.—</p>
+         <p>             Good bye my dear friend,—</p>
+         <p>                             Yours affy. &amp; truly, W.Colenso.</p>
+         <p>
+            <hi rend="italic">P.S. </hi>Use<hi rend="italic">thinner</hi> paper, &amp; save postage.</p>
+         <p>Spent a long hour w. Mrs. Trestrail, Grant was gone to Napier.</p>
+      </body>
+   </text>
+</TEI>

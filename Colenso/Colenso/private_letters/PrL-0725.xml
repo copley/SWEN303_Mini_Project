@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0725">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: Date?: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-1; Undated: but content puts it here.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0"/>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>Date?: to Harding<note xml:id="ftn3-454" place="foot" n="454">ATL MS-Copy-Micro-0485-1; Undated: but content puts it here.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Wedy. night (late)</p>
+         <p>Mr Harding</p>
+         <p>My dr Sir</p>
+         <p>With this I send you 3 copies, as desired, &amp; one of them I have also written on.——</p>
+         <p>To prevent mistake at Home you may kindly mention—my having per “Rimutaka” sent a copy, each, to<lb/>        Brit. Museum<lb/>       Bodleian<lb/>   Uy. Library, Cambridge<lb/>     Plymouth Free Liby.<lb/>from these 4 I had received acknowledgements of their having recd. “Jub. Paper” per Mr. Blades, &amp; so I sent them.</p>
+         <p>Am tired writing</p>
+         <p>Your truly</p>
+         <p>W. Colenso.</p>
+         <p>20<hi rend="sup">th</hi>. mg.—</p>
+         <p>You may inform Mr. Blades of the fate of the 2 appendices—the little map had <hi rend="italic">more</hi> reference to them:—also, to “<hi rend="italic">notes</hi>” in the <hi rend="italic">Jubilee</hi> Paper.<lb/>                                                                        W.C.</p>
+      </body>
+  </text>
+</TEI>

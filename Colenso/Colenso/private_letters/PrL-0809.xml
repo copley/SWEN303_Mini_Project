@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0809">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1891 December 8: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0496.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1891-12-08">1891 December 8</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1891 December 8: to Harding<note xml:id="ftn3-559" place="foot" n="559"> ATL qMS-0496.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Decr. 8/91: VIII p.m.</p>
+         <p>Dear Mr Harding</p>
+         <p>Your welcome letter of the 5<hi rend="sup">th</hi> inst. I recd. last night. &amp; now that there is a kind of lull in my internal economy I will <hi rend="italic">begin</hi> a letter to you.</p>
+         <p>You have told me a great deal of your <hi rend="italic">new venture</hi>, it has very much interested me, &amp; I can only heartily wish you all good success—some parts of it remind me strongly of <hi rend="italic">Peacock’s</hi> move, &amp;c. to Melbourne.—as you are <hi rend="italic">soon</hi> to be here in N. I shall say no more about it in this note.</p>
+         <p>I have had 2 letters since I wrote to you from Gore: <hi rend="italic">one</hi> explaining why my Moa P. had not been read, (just as you had told me,) and that he feared it might not be read before their annual meeting in Feby.—and <hi rend="italic">one</hi>, an offl. one, calling on <hi rend="italic">me </hi>(!) to select 3 names from those sent <hi rend="italic">in</hi> by the affild. Societies (list given) to vote for Governors Inst. for ensuing year. And this I have <hi rend="italic">this day</hi> ansd.—with difficulty, as he requested an early reply. I suppose, I must have been nominated by our Council—but <hi rend="italic">they</hi> or <hi rend="italic">their</hi> Secy.! should have informed me of it—I know I used to do so.</p>
+         <p>I am still confined to my room. Dr. Sp. will not permit my going out <hi rend="italic">this wk.</hi>—weather however fine: I feel it but I am daily getting better, though <hi rend="italic">very weak</hi> in legs, &amp; voice still a rat’s treble!—</p>
+         <p>Many are laid-up; &amp; several <hi rend="italic">new</hi> cases, &amp; some <hi rend="italic">relapses</hi> (bad). Mrs. Ormond among these latter,—Mr. O. kindly called yesty. &amp; spent an hour, he is recovering, but is not yet well. Dr. Sp., who visits <hi rend="italic">daily</hi>, tells me there are no very serious cases <hi rend="italic">here</hi>: I believe that in the Country (Waipawa—Woodv.) the cases are worse. Robertshawe last week succumbed—in bed several days, &amp; no S. on Sunday last.</p>
+         <p>I cannot learn anything fresh of Parkinson—his daur. was here on Saty. last, he was then much as usual, weaker, &amp;c of course: Tuke told me on Friday last his arms &amp; hands were now dropsical: Welsh (here from Wairoa) took both services there <hi rend="italic">last</hi> Sy. I have no notion how they will manage for <hi rend="italic">next</hi> Sy. unless the Bp. should return <hi rend="italic">in time</hi> &amp; <hi rend="italic">well</hi>. I trust in your coming hither you may <hi rend="italic">not</hi> be invaded.—</p>
+         <p>You did right in handing over those flies to Maskell. You were all abroad in thinking I have sent you those few stamps <hi rend="italic">for the old </hi>nos.of<hi rend="italic">“Review”!</hi> when <hi rend="italic">the said nos. only came to hand on Saturday 5</hi>
+            <hi rend="sup italic">th</hi>. By the way you only sent me 1 no. of your <hi rend="italic">last</hi> “Typo”: I admire your <hi rend="italic">principle</hi> for keeping it on—but your pocket <hi rend="italic">cannot</hi> afford it! Here I shall <hi rend="italic">halt</hi>—for this time, so Good night.—</p>
+         <p>
+            <hi rend="italic">9th. </hi>iii, p.m. I now go on w. my letter <hi rend="italic">Imprimis</hi>—Do not fail to enq. <hi rend="italic">price</hi> of Naut. Almc. at Wgn. I have not yet seen Craig, but hope to next week.—In L. “Standard” of 12<hi rend="sup">th</hi>. Octr. I notice, among <hi rend="italic">New</hi> publications—“The Pentateuch of Printing: with a Chapter on Judges.” By William Blades. Elliott Stock.—I enclose a clipping that may interest you. Not hearing of Parkinson, I sent my man this mg. to enq., reply—“he is much the same though weaker”—I don’t feel so well today, as I did yesty., though weather very fine: <hi rend="italic">I feel weak </hi>“<hi rend="italic">all over</hi>!” appetite good, cough less. Just recd. a little book <hi rend="italic">from yr. office</hi> “Yg. M. Xn. Assn. Report”, &amp; sent by their Secy. w. an Invitation (repeated)—but they are too fanatical for me “zeal <hi rend="italic">without</hi> Kn.” Who is that <hi rend="italic">Morpeth</hi>—who wrote Review Biog. Bp. Colenso? &amp; <hi rend="italic">that</hi> Davies, who <hi rend="italic">thinks</hi> he is a poet &amp; knows Maori!—</p>
+         <p>I hope this may find you &amp; yours<hi rend="italic">well</hi>: &amp; w. kindest regards, am ever</p>
+         <p>Yours truly, W.Colenso.</p>
+         <p>Dr Spencer’s 2<hi rend="sup">nd</hi> son was taken to Hospital last wk. &amp; his leg amputated by Dr. Menzies: he had <hi rend="italic">long</hi> been ailing with it.—</p>
+         <p>I see by this evg’s D.T.—Dr. H. &amp; daughter are on their way back again!! From Dunedin. (I <hi rend="italic">fear—</hi>a<hi rend="italic">wrong </hi>step.)</p>
+         <p>WC</p>
+      </body>
+   </text>
+</TEI>

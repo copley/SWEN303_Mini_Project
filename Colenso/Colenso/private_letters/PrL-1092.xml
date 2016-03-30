@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1092">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1890 February 6 to the Colonial Secretary</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Archives New Zealand</p> 
+         <p>(National Archives, Wellington, Record No. 1889/3518)</p>
+         <p>Transcription by Ian St George</p>
+            <p>encoded into TEI by Melissa Bryant, 23.10.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1890-02-06">1890 February 6</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/72672/">the Colonial Secretary</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1890 February 6 to the Colonial Secretary (National Archives, Wellington, Record No. 1889/3518)
+         </p>
+      </front>
+      <body>
+      <p>
+Napier</p>
+<p>Feby. 4th., 1890.</p>
+<p>Sir</p>
+<p>I have the honour to acknowledge receipt (on the 4th. inst.) of your letter of the 28th. ulto,—informing me of the 50 copies of the little work (“the Signing of the Treaty of Waitangi”),—the voucher for ₤20.,—and the Mss. etc. I had sent with that work to form two appendices,—having been sent to me; all these I have also received: for which I beg to thank the Government.</p>
+<p>I have the honour</p>
+<p>to be, Sir,</p>
+<p>Yr. mo. ob. servt.</p>
+<p>Wm. Colenso.</p>
+<p>The Hon.</p>
+<p>the Colonial Secretary,</p>
+<p>Wellington.
+</p>
+</body>
+   </text>
+</TEI>

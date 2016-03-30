@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0178">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1895 The re-union of churches Hawke’s Bay Herald June ?4.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1895-06-04">1895 June 4</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1895-06-03">1895 June 3</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1895 The re-union of churches   <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald</hi>
+        <hi rend="bold"> June ?4.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,— Can you kindly find room for this short communication of mine, containing a recent important public letter from the Archbishop of Canterbury re Re-union with Rome. It is a fitting and full reply to Prior Vaughan’s vainglorious statement contained in your late Sydney telegram in the <hi rend="smallcaps">Herald</hi> of this morning, in which utterance of the Prior, no doubt, “the wish was father to the thought.” </p>
+      <p>Moreover, the Archbishop’s brief letter is also, a full confirmation of what I had publicly said in your columns a few months ago, in my letters on this subject; and, I trust, your republication of his Grace’s plain and truthful statement, may prove of service here among us, and be a means of saving some (of our pleasure-loving and thoughtless folks) from being carried away by the sophistries and blandishments, the music and fair speeches of erring and meretricious Rome (<hi rend="italic">semper eadem</hi>). —I am, &amp;c., </p>
+      <p>
+      <hi rend="smallcaps">W. Colenso</hi>. </p>
+      <p>Napier, June 3, 1895. </p>
+      <p>“The Rev. Prebendary Webb-Peploe, as Chairman of the National Protestant Union, lately sent to the Archbishop of Canterbury a copy of Lord Halifax’s speech on Reunion with Rome, and asked his Grace to make some public pronouncement upon it. In reply the Archbishop has written the following letter, and has authorised its publication:— </p>
+      <p>“Lambeth Palace, </p>
+      <p rend="end">“March 28 th, 1895. </p>
+      <p>“Dear Mr Webb-Peploe,—I have given full consideration to your letter and its important enclosure. I feel, however, I should be setting a precedent fraught with much difficulty hereafter were I to put forth official utterances with respect to the speeches of clergy or laity to members of the private societies to which they may belong. I did not gather that the speech in question was to be regarded in any other light than as the expression of the individual opinions of the speaker; and, indeed, If I am not misinformed, it has already been made clear in the newspapers that he did not express the sentiments of the society generally. </p>
+      <p>“But while I must abstain from the task of commenting upon the speeches then delivered (a task which might indeed be endless), I have no hesitation in saying that, in my opinion—to quote your own words—‘any corporate union with Rome, so long at she maintains her distinctive and erroneous doctrines, and advances her present unproductive and unscriptural claims, is absolutely visionary and impossible.—Believe me, sincerely yours, </p>
+      <p>(Signed) “<hi rend="smallcaps">Ed. Cantuar.”</hi>
+      </p>
+      <p>—–(London Standard, April 5, 1895.) </p>
+    </body>
+  </text>
+</TEI>

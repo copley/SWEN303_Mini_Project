@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1124">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>28 March 1884: Hector to Hooker.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">James Hector</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Kew DC174, 677, ATL MS-Micro-Coll-10-17, 271-273.</p>
+         <p>Transcription published in "My Dear Hooker: 
+Transcriptions of letters from James Hector to  
+Joseph Dalton Hooker between 1860 and 1898", Rowan Burns &amp; Simon Nathan.  Geoscience Society of New Zealand miscellaneous publication 133B, 2012.  ISBN 978-1-877480-21-8. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133B.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 13.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1884-03-28">1884 March 28</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hector to Hooker, 28-3-1884, Kew DC174, 677, ATL MS-Micro-Coll-10-17, 271-273.</p>
+      </front>
+      <body>
+      <p>  
+Wellington </p>
+            <p>28th March 1884 </p>
+            <p>My dear Hooker, </p>
+            <p>By separate post parcel I send you an early 
+pull of the Section Botany of the XVI Vol. of the N.Z. Inst. Transactions which I 
+hope to 
+get out in about a month hence. You will be rather astonished I 
+think at Colenso’s paper &amp; the number of new species he makes. I dont pretend to judge but I do think 
+some botanist should make a 
+deliverance (as the Scotch lawyers say) on the subject of whether such a paper is to be considered scientific or not.</p>
+            <p>
+            I had a pleasant trip about a month ago with
+ the Govnr. (Sir. W. Jervois) round Stuart 
+Island &amp; to the West Sounds. I got some live plants but nothing new. I fancy there is a good field yet untouched
+ for the Botanist at Port Pegasus. We did not land unfortunately but I 
+could see that the conditions are very different as far as the uplands are concerned. Kirk has spent some time this season in the North 
+of Stewart Island &amp; ascended Mt. Anglern. 
+Buchanan had a fairly successful trip to Cam
+pbell Island &amp; made large collections both dried &amp; live, but by some stupid mistake all his live plants were lost after the vessel reached a N.Z
+port, but thro no fault of his. </p>
+            <p>            I enclose the plates that should have gone
+ with the “Botany” sheets. Also some untoned prints from  photos of the Wn. Bot. Gardens that I am having autotyped[?] for next years Report.</p>
+            <p>Yours ever Sincerely</p>
+            <p>James Hector.</p>
+            <p>Capt. Fairchild was asking kindly for Willy. </p>
+</body>
+   </text>
+</TEI>

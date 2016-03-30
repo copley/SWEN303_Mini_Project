@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0043">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1843 March 13: Octavius Hadfield to Mrs. John Mason</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  Page 93.  "Extracts of letters from Octavius to Mrs. Mason."  Unspecified source of extract, time of extracting, person who extracted and nature or extent of excluded material - enquiry emailed to Frith Driver-Burgess at Wellington City Libraries on 27.11.15 regarding this.  These extracts are all from letters written within the first months following Rev. John Mason's death, which Octavius Hadfield witnessed and described in his letter to the C.M.S., reproduced in their obituary, available at http://www.enzb.auckland.ac.nz/document?wid=4078&amp;page=1&amp;action=null <!--"&amp;" in this URL should be interpreted as & by anyone reading this document in unrendered TEI format--></p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 27.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1843-03-13">1843 March 13</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/24651/">Otaki</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71002/">Mrs. John Mason</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1843 March 13: Octavius Hadfield to Mrs. John Mason
+         </p>
+      </front>
+      <body>
+      <p>Waikanae March 13th 1843</p>
+      <p>I received your letter today, for which I beg to thank you; I had been expecting to hear for sometime,--I was a little unwell when the Natives returned, but am now well.  They soon find out from my voice, when my breath is giving me pain,- - - I will write immediately to Mr Campbell for a proper grave stone- The delay has not been altogether my fault, as I did not hear from Mr St Hill of there being none at Wellington till my return from the Sound.  It affords me the greatest pleasure I assure you, to hear frequently from you, and nothing that is interesting to you as a Christian, can be I hope, otherwise to me.-Indeed I feel that I have suffered a severe loss, in your loss.- I feel almost like a solitary being; for much as I love these dear Natives, I scarcely find them companions, that is such as altogether compensate for the many Christian friends whose society I enjoyed in England.-But that which is felt to be a loss to me has been gain to my glorified brother, and in this I am bound to rejoice- I am sorry that anything connected with the burial of your beloved husband, should have been a cause of pain to you.- I must confess that I was so unsettled for a few days after the melancholy accident, that I was quite stupified, but I do not know that a better coffin could have been procured, without a delay of some days, which I by no means thought advisable,- There is no better wood at Wanganui.  The wood that was used was sawn for the purpose the day before the funeral.-- I have, however perhaps <hi rend="underline">primitive</hi> views on that subject.- I think but little of the poor dust, which must change its form and rise a glorious body to meet the ever living soul, and consequently but little of its temporary abode.  I think it becomes us to exhibit our faith in the resurrection of the body by an indifference to those things which so monopolize the thoughts of the people of this world.  I feel the most importance of setting these things clearly before the natives; I therefore object to burying in churches.- It was only last week that I endeavoured to dissuade some Waikato natives from disinterring the bones of their sister and c<!--blank--> ing them to Waikato.- I am quite sure that the course you are pursuing is the right one and that in the Lord's appointed time you "will have a voice behind you saying this is the way walk in it."------------- I do not know whether the papers made any mention of Mr Mason's death, as I never see them, but can easily enquire, I should think it most probable that they did.-I cannot exactly say when I shall visit Wanganui again as I am now very busy; but I will do so ere long and shall be happy to administer the Lord's supper, and to baptise any that may require it, or rather are prepared for it.  That is <hi rend="underline">a few</hi>.- I should not like an extensive baptism without knowing more, but any prominent ones might be baptised.  I will however give timely notice- I was last week at Wellington for two days on some matters of business.- The natives I fear will be neglected there, as we <!--blank--> nothing of the Maori language.- I however selected some for baptism there.- The St Hill's are as kind as ever, and Mrs St Hill is going on well, though she has many trial<!--sic--> owing to those with whom she is obliged to associate.  I saw very few people.  Mr. Spain is going to Wanganui: he is now at Porirua  Excuse the confusion of my letter.  I have been very busy all day</p>
+      <p>Ever yours very faithfully in the Lord
+      </p>
+     
+      </body>
+   </text>
+</TEI>

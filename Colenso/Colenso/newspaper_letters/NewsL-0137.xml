@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0137">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1888 Christianity versus Mahometanism. Hawke’s Bay Herald 17 January.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1888-01-17">1888 January 17</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1888 </hi>
+                  <hi rend="bold">Christianity </hi>
+                  <hi rend="bold italic">versus</hi>
+                  <hi rend="bold"> Mahometanism.</hi> 
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 17 January.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>.—In common I trust with many of your European subscribers and readers I would heartily thank you for the highly interesting mid long paper by the Rev. Canon Taylor on “Christianity v. Mahometanism” so thoughtfully given in your issue of this morning. I have some time known it, (from the London Standard of October 8th.,) and as an old subscriber should have asked you to republish it in the <hi rend="smallcaps">Herald</hi>, but I feared it would prove too long for your columns. </p>
+         <p>I write now to give your readers (with your permission) what you may have omitted, which, I think, should have been given with Canon Taylor’s noble out-spoken and truthful paper: viz., that at the said great Church Congress “held at Wolverhampton in the fine big Drill Hall, capable of seating 2000 people, that number of Members were present. The Bishop of Lichfield presided, and on the platform supporting him were the Archbishop of Canterbury, the Bishops of Carlisle, Durham and Bedford, the Earl of Harrowby, Earl Nelson, Lord Norton, Lord Talbot, and a number of other distinguished laymen, together with many dignified clergy.” And this Congress lasted a whole week. </p>
+         <p>As an old Missionary to Pagans (not to Mahometans), and also as an old Minister of the Protestant Chnrch of England,—I thank GOD for having permitted me to see the day when a canon of the Church of England could so righteously speak and teach before such a high assembly of dignitaries of the English Church “with confidence, no man forbidding him” (as it was once said of Paul). </p>
+         <p>Permit me to add, that I feel doubly on this matter; and that not merely from being an old belief of mine, (only however arrived at through much study and research,) but because of a memorable long dispute I once had here—in the street at “Manor’s corner,”—with the Rev. D’Arcy Irvine (quondom “examining chaplain” of the Bishop of Waiapu) who not only would have it, that Mahomet was an impostor and a limb of Satan, and now (or then) most deservedly roasting and grilling, &amp;c.,—after the true and charitable orthodox fashion!—but that I (poor soul!) was just as bad, or worse, and should be alongside of him! Very possbly the Rev. D’Arcy Irvine, used to such kind and noble thoughts and feelings, may have forgotten all about it,—but I have not, never shall. </p>
+         <p>While on this subject, and in conclusion, I would also thank you, Mr Editor, for your able and truthful article in behalf of the disciples of Confucius,—the steady industrious and quiet Chinamen,—which appeared in the <hi rend="smallcaps">Herald</hi> a few days ago. The sublime truths anciently taught by the great Chinese Teacher Confucius to his countrymen, and also by the equally great Indian Teacher Buddha to his people, (though, at present, but little known, and even maligned, here among us in Napier, by narrow minded orthodox men of small calibre,)—will yet become the prized common property of the thinking world; together with those of the ancient Greek and Roman Philosophers—Socrates, Plato, Marcus Aurelius, Seneca, and others;—and, afterwards, those more plainly taught by the great Jew Teacher and Reformer Jesus,—all will be (at last!) classed, as being Inspiration from the great Father of all—<hi rend="italic">God</hi> (<hi rend="italic">i.e.,</hi> the meat not the bones): for “Great is Truth and will prevail.”—I am, &amp;c., </p>
+         <p>
+                  <hi rend="smallcaps">William </hi>
+                  <hi rend="smallcaps">Colenso</hi>. </p>
+         <p> Napier,</p>
+         <p> January 16, 1888.</p>
+      </body>
+   </text>
+</TEI>

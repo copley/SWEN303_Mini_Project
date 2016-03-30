@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0019">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1839 January 4: Octavius Hadfield to his mother Amelia Hadfield (nee White)</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 34)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 23.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1839-01-04">1839 January 4</date>
+                  <name type="Bay of Islands" key="http://wtap.vuw.ac.nz/eats/entity/6889/">Place</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70719/">Amelia Hadfield (nee White)</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1839 January 4: Octavius Hadfield to his mother Amelia Hadfield (nee White)
+         </p>
+      </front>
+      <body>
+      <p>Bay of Islands,</p>
+      <p>New Zealand.</p>
+      <p>Jan. 4th. 1839</p>
+      <p>My dear Mother,</p>
+      <p>Since my arrival here I have received a letter from Julia dated June 16th, for which be so good as to give her my best thanks.  I was happy to hear a tolerable account of all at home.  You were, however, she mentions, suffering from a cold. 
+      </p>
+      <p>I wrote to Octavia from Sydney on Dec. 11th. by which I suppose you learnt that I was leaving that place for this.  I accompanied the Bishop in <hi rend="underline">H.M.S. "Pelorus"</hi>, in which I had a very pleasant passage of eight days from harbour to harbour, and only six from land to land, a distance of 1200 miles.  The officers on board were very kind and attentive to me, and did everything in their power to make me comfortable.  One of them, Crawford, had been with Charles in the  <!--[blank]--> and the Master, Craigy, was second mate in the Henry Porcher when Henry first went out to India, he desires particularly to be remembered to him.  I first landed at Paihia in the Bay of Islands, on Dec. 21st.  How long I may remain here is quite uncertain.  I trust I may continue as long as there is work to be done for the Lord Jesus Christ.  The Bishop has been very kind to me, he is, I think, a very good man.  He requested me to preach before him, which I did on these words, "Ye are the Holy of Christ", on which occasion I set forth the blessedness of the eternal union which exists between the Lord Jesus Christ and His elect.  He told me the next morning that he thought any further examination for priest's orders was unnecessary as he had been fully satisfied on the former occasion.  He will ordain me at Paihia on Sunday next, Jan. 6th.  It will be the first ordination in New Zealand.  The inhabitants in and about the Bay have presented an address to him today; Mr. Busby, the Consul, read it, thanking him for coming to New Zealand and hoping that he would continue to take interest in it.  He made a very becoming reply, expressing great interest in the welfare of the natives and also of the English.  I think his visit will be productive of great good to the Mission, not only in interesting him more in its proceedings, and thus perhaps, thro' his representations, some people in England; but also in uniting the missionaries and leading them to more conformity with church principles.  He has today consecrated two burial grounds, one at Paihia, the other on the opposite side of the Bay at Kororadika.  It was a very pleasing sight in New Zealand to some of the old labourers in the work to see a Bishop and four clergymen meet together on such an occasion.  He confirms both English and natives tomorrow, ordains me on Sunday and sails for the south on the following day.  I had some thought of going down to the south to visit some stations there, but I have given up the idea.  I cannot form an <supplied>[impression]</supplied> yet of the state of the Mission.  Much <supplied>[has]</supplied> been done, but I should think more in the way of preparation than any other.  However, this I must confess at my outset, that the ground has been well broken up here and the way opened and made easy for others.  If there has not been any great out-pouring of the "Holy Spirit" upon the "dry bones" they have at least begun "to shake".  Neither from the instruments employed could much more be expected.  I cannot expect the formation of a church in a heathen land otherwise than by the ministry of the Gospel.  I can understand then instrumentality of a layman in edifying souls when there is no ministry and when the sacraments of Christ's institution exist, but I see no ground to expect the originating of a church otherwise than by God's appointed means.  Men of all descriptions, some sent out as carpenters, blacksmiths etc. have acquired large property in lands, sheep, cattle etc. and are of such importance in their own opinion, that they ask what difference there is between a Minister of Christ and a layman.  This question, I am told, was formally put by a lay-member of the society in Committee.  I am a churchman, sent here by a Bishop of the church of Christ canonically commissioned to preach here, and supported by the <hi rend="underline">Church</hi> Missionary Society from funds derived from <hi rend="underline">Church</hi> people, and I am determined to uphold church discipline and principles.  Indeed, the evils of the countrary system are beginning to appear in the radical and insubordinate notions and conduct of many of the children of the missionaries.  A catechist, (I must not name him, being a friend of Mr. Coleman's) lately lost his wife, and when he wished to be married, he applied to a Wesleyan to marry him, but the lady refused to be married otherwise than by a clergyman.  I do not think they much like me here, however I am not come to please men, but to serve the Lord Jesus Christ and His church, and I am persuaded that He will endue me with that meekness and wisdom which will enable me to walk wisely in a perfect way.  The excuse they make for their worldly possessions is that the society does not pay them sufficiently; that is, I think, a fact, but the proper course would be to make a representation to that effect, and not to entangle themselves with the affairs of the world.  I, for my part, will endeavour to live on the allowance of the Society, and when that proves inadequate to supply me with necessaries, will not have recourse to the ways of the world, but will leave New Zealand.  However, one may live here, that is, in the Mission stations, just as comfortably and securely as in England and obtain everything you want.  The Lord has sent me here, and the Lord will here supply all my need; as He said to His servant Elijah when He sent him to the brook Cherith "I have commanded the ravens to feed thee there", so has He said to me both in body and soul.  Oh the blessedness of being able to rest in the hands of a Covenant-keeping God, in the sweet assurance of being a "vessel of mercy" set apart in Christ from eternity, for whom all things must work together for good, and for whom every day's food, raiment, dwelling and place of abode is provided by a God of love!  May the Lord fill me with His spirit and fill me with a deep sense of the importance of the work to which He has called me.  My constant prayers are for you all, I trust yours are offered up for me.  I hope to hear good accounts again soon from you and all my friends.  I ought to say that the scenery here is beautiful, and the climate since I have been <supplied>[here]</supplied> has been delightful, I am quite well now.  Give my love to my father and all at home, and also, when you write, to any who may be absent.  You see I write about myself, I expect you to write about yourselves.</p>
+      <p>Believe me  my dear Mother,</p>
+      <p>Your affectionate son,
+      </p>
+      <p>Octavius Hadfield.</p>
+      <p>Addition by Mrs Hadfield</p>
+      <p>Dearest George</p>
+      <p>I will not delay sending this letter from our loved Octa--who was, God be thanked, well and on the whole comfortable.  Georgina continues so unwell that she has just asked me to write to Dr. Hennon.  I do not think she will return to Bourn. with Mr Dawson.  The hour of post going out has almost arrived and I have not been able to leave Georgina till now.</p>
+      <p>Adieu dear George, your affec. mother</p>
+      </body>
+   </text>
+</TEI>

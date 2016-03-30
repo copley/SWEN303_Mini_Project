@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0108">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1851 April 14: to St Hill</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0489; appendix to Journals.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place">Pahawa</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/72488/">H. St. Hill</name>
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1851-04-14">1851 April 14</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1851 April 14: to St Hill<note xml:id="ftn1-154" place="foot" n="154"> ATL qMS-0489; appendix to Journals.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Pahawa, April 14, 1851.</p>
+         <p>To H. St. Hill, Esqr.,</p>
+         <p>Chief Police Magistrate,</p>
+         <p>Wellington.</p>
+         <p>Sir,</p>
+         <p>I write to inform you, that, on Saturday last, the 12th. inst., Between the hours of 11 and 12 in the forenoon, when on my way hither from the village of Ẁaraurangi, and near Ngapihao, a point of land about 5 miles from this place, I, travelling quietly along the public path, (and being about a quarter of a mile ahead of my Native baggage bearers,) perceived a white man hastening through the fern about 200 yards before me; but, as I thought, going in a sloping direction towards the sea, I, at first, took little notice of him. On seeing him, however, suddenly incline towards my back, or side, I looked again, and saw he had a double-barrelled gun in his hand, which he held either cocked or half-cocked as if about to bring to his shoulder. Upon this, turning towards him, I stood still; in a moment he was close to me. He appeared to be very much excited, and abruptly demanded, “Is that your dog?”—I replied, “Yes; my dog is here with me.” He quickly rejoined, “Tie it up, or I must shoot it;” at the same time lifting his gun. I, standing before my dog, immediately replied, “Indeed, I shall not tie it up; because we are going quietly along in the public road.” “Then,” he exclaimed, “I must shoot it;” again lifting his gun. I said, “If you do, be assured, I will seize you and take you to Wellington.” He answered, “I can’t help it, I must shoot it; for such are my orders, Sir.—We have lost more than 200 sheep.” I replied, “If you saw my dog actually on your sheep, even then it would be quite time enough to speak thus.” He again remarked, “I must obey my orders, Sir.” I asked him, “Who is your master?” He replied, “Mr. Wilson.” “Where is he?” I asked. “He is gone up the hill”; was his reply. We had now walked on a little way together in the road, when I said to him, “Give my compliments to your master, Mr. Wilson, and tell him, that I shall report this matter to the Governor.” He replied, “Yes, Sir.”— “Be sure,” I said, “that you tell him.” “Yes, Sir; I wont forget;” was his reply. Walking slowly onwards a short distance, my Natives overtook me, and we went on together. We had scarcely, however, got a half-a-mile further, before another white man, in very wretched attire, suddenly emerged from some bushes into the pathway &amp; making towards us, and holding his musket, cocked, or, half-cocked, to the “ready,” called out to me (being the foremost of the party, “Tie up your dog, or I must shoot it!” “No;” I replied, “I shall not tie him up; we are going quietly along in the way.” “Then I must shoot it;” he exclaimed, lifting his musket. I said, “Surely it is quite time enough for you to threaten, when you see any injury done to your sheep.” “Yes, Sir; yes, Sir;” he quickly rejoined, “he is going along quiet enough now to be sure.”—On hearing, however, that the sheep run had poisoned baits, I got my dog tied, and led, and so escaped any further molestation.—</p>
+         <p>On remarking, afterwards, to Te Wereta (the chief of Ẁaraurangi) who had accompanied me, but who had gone on before on horseback; he said,  “I te tohe ano ahau kit e pakeha, kia kaua e haere ake ki a koe me te tupara, mea ana, Nau ano to kuri, he kuri pai, he kuri haere noa; a, hore rawa ia kia rongo.”—</p>
+         <p>The Name by which the Natives call the first man is “Taare”: the second is known by the name of “Tamati.”—</p>
+         <p>My dog is a little sheep-dog, one of Mr. Guthrie’s breed, exceedingly docile &amp; harmless and attached to me. I think, that I have scarcely any need to add, that, in all my many journeyings during several years up and down through Wairarapa and by the coast, no injury whatever has at any time been done by my dog to anyone’s sheep; and, that it is morally impossible that I could ever allow my dog, doing such a thing.</p>
+         <p>During this very journey and only a fortnight ago, in passing over Messrs. Northwood and Tiffen’s Station at Tuingara, this same dog got poisoned, and I fortunately discovered it just in time to save his life by the aid of a powerful emetic which I happened to have with me. And, on a former occasion, my dog very narrowly escaped the same fate, and in passing over their Station at Wairarapa, being then barely saved through an emetic furnished by Mr. Tiffen.</p>
+         <p>The whole of what I have herein written, I can conscientiously swear to. I could not, however, swear, that I stood in bodily fear of the man; but I can safely swear, that I fully believed he would shoot my dog, and, if he had done so, no one can say what the ultimate consequences might not have been;—perhaps loss of human life.</p>
+         <p>I now make this complaint to you, Sir, in the form of an Information against Mr. Wilson and his two men acting under his orders.—For, I confess that I can scarcely see any difference between my being accosted in England by a highwayman with loaded pistols demanding my money—and my being here, on a lonely shore threatened by an armed man with the destruction of my property.—And, will therefore thank you to inform me, how I should further act in this matter.</p>
+         <p>I intend finally leaving the valley of Wairarapa on Monday the 5th. of May next; and, though I should greatly regret to have to go now to Wellington (seeing, that all my days for the various villages throughout this district have long been fixed—as you will find by the enclosed [printed] paper, and I have moreover only my bush dress with me;)—Yet, rather than defeat the putting a stop to such proceedings,—which I cannot but think (from my own case, as well as from the numerous similar complaints which have been made to me from time to time by the Natives,) is highly needful for the future peace of the colony—I would consent to do so, believing that by bringing this matter before you, Sir, I shall eventually be found to have been acting for the Public good.—</p>
+         <p>                               I am, Sir</p>
+         <p>                       Your very obedient Servant,</p>
+         <p>                         William Colenso.</p>
+      </body>
+  </text>
+</TEI>

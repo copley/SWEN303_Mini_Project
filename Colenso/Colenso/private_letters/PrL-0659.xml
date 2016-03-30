@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0659">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1887 December 27: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1887-12-27">1887 December 27</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1887 December 27: to Balfour<note xml:id="ftn3-383" place="foot" n="383"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier,<lb/>Tuesday night, <lb/>Dec. 27/87.</p>
+         <p>Mr. D.P. Balfour,<lb/>Glenross</p>
+         <p>I suppose were we 2 to meet &amp; gie a han’—we should mutually wish each other “the Compliments of the Seasons” (including the <hi rend="italic">Greater</hi> one at hand—the <hi rend="italic">New Year</hi>)—and I don’t see why I should not do so to you in writing..—Which I now do most <hi rend="italic">heartily</hi>.</p>
+         <p>I have no letter from you to acknowledge since I wrote to you last, but I have your kind presents brought to me yesterday by a yg. man &amp; his wife (?) both unknown to me, but evidently hailing from the land o’ cakes &amp; heather. They did not remain long, but I was pleased in hearing them speaking well of you and of Glenross,—&amp; that your shearing trials were <hi rend="italic">over</hi>. I also learned that P.D. (whom I have not seen for nearly 3 months was <hi rend="italic">not</hi> with you on this Christmas.</p>
+         <p>I have been going <hi rend="italic">Deeply</hi> into your little plants today, rather too much so—but I could do little else owing to this rheumatism, which is just come on me again, making me as ill-tempered &amp; crabbed with myself (&amp;c., &amp;c. &amp;c.) as an old tam-cat; I should have been writing to England, but I could na’ do it.</p>
+         <p>I wish I had more of your <hi rend="italic">wee</hi> plants—particularly the <hi rend="italic">least</hi> Gaultheria-like one, and the Pterostylis (1 flower only). I believe these 2 are both new but I should like to see more, and if you can send me any, do so, but the Pterostylis should not be crushed or squeezed—this one <hi rend="italic">is</hi> badly:—I put them in soak yesterday, &amp; have spent a long time today in endeavouring to loosen their internal parts. The big staff! (Fagus sapling with a pretty &amp; curious <hi rend="italic">Loranthus</hi> plant) is striking: I expect this <hi rend="italic">Loranthus</hi> is <hi rend="italic">L. tetrapetalus</hi> (Handbook), very near also to my <hi rend="italic">L. punctatus</hi>, (Trans. N.Z. Inst. vol. XV. pp. 323–4,)—from this coming at <hi rend="italic">this season</hi>, I fancy you have been keeping it up!—“under the Miseltoe”. I wanted to know, but I would not ask the stranger.)</p>
+         <p>I have seen no one for the Xmas, (I never do, here, at holiday times—as Napier is out of town and but gon’ mad!.) Today there was a fire near the E. end of the town, three houses down in no time! I quite expect to hear that Fire Brigade an a’ were away keeping holiday!!</p>
+         <p>I <hi rend="italic">hope</hi> to have mine in about a fortnight, if well.—For</p>
+         <p>“My heart’s in the Highlands, <lb/>my heart is <hi rend="italic">not</hi>
+            <hi rend="italic">here</hi>,                     &amp;c.”</p>
+         <p>Well, try to make this out, I think your mail goes tomorrow, </p>
+         <p>With kind regards </p>
+         <p>I am, Yours truly</p>
+         <p>P.S. I suppose my <hi rend="italic">last </hi>for ’87?</p>
+         <p rend="center">
+            <hi rend="underline">AULD</hi>
+            <hi rend="underline">FREENS</hi>.<note xml:id="ftn3-384" place="foot" n="384"> “It’s an owercome sooth” Robert Louis Stevenson.</note>
+         </p>
+         <p rend="center">It’s an owercome sooth for age an’ youth<lb/>  And it brooks wi’ nae denial,<lb/>That the dearest freens ar’ the auldest freens<lb/>  And the young ar’ just on trial.</p>
+         <p rend="center">There’s a rival bauld wi’ young an’ auld,<lb/>  And it’s him that has bereft me;<lb/>For the surest freens ar’ the auldest freens<lb/>  And the maist o’ mines hae left me.</p>
+         <p rend="center">There are kind hearts still for freens to fill<lb/>  And fools to tak’ an’ break them;<lb/>But the nearest freens ar’ the auldest freens,<lb/>  And the grave’s the place to seek them.</p>
+         <p>Dannevirke, <lb/>Nov. /87.</p>
+      </body>
+   </text>
+</TEI>

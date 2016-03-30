@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0058">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1865 The Colenso bell. Hawke’s Bay Times 4 December.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1865-12-04">1865 December 4</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Times</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1865 The Colenso bell. </hi>
+            <hi rend="bold italic">	
+               <lb/>Hawke’s Bay Times</hi>
+            <hi rend="bold">4 December.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—May I be allowed further to ask you to republish a short letter from Mr Thompson, of Dunedin, (just to hand), respecting the ancient bell found in New Zealand? I do so that the opinions of the eminent Oriental scholar, Mr Crawford, contained therein, may be known; although I do not quite agree with him as to how “the North Island (of New Zealand) was originally peopled by the Maori.”—I am, &amp;c., </p>
+         <p rend="end">
+            <hi rend="smallcaps">Wm. Colenso.</hi>
+         </p>
+         <p>THE COLENSO BELL.</p>
+         <p>
+            <hi rend="smallcaps">to the editor of the daily times</hi>
+         </p>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—I have read the remarks of the Editor of the Colombo Observer regarding “the Colenso Bell,” found in the North Island, New Zealand, and must take exception to his facile and facetious explanations.</p>
+         <p>The inscription on the bell is undoubtedly Tamil: but the date of the style, idiom, and orthography, is not proved. This has, however, so been proved—that it is not modern.</p>
+         <p>In a letter that I have received on the subject from John Crawford, Esq., F.R.S., that Oriental authority makes the following remarks:— “It is a sacrificial Hindoo bell, such as was in use when the Hindoo religion was prevalent in Java; and this is known to have been the case down to <hi rend="smallcaps">a.d.</hi> 1478.”</p>
+         <p>—Mr Crawford adds that the bell must have been received by the Maori through the remote Islands of the Archipelago.</p>
+         <p>As to the remarks of the Editor of the Colombo Observer, he truly states that “Moheiden Bux,” (the name on the bell) is a most common name,—I would suggest—so are Abraham and Moses. The name being common does not detract from the supposition of its being antique.</p>
+         <p>He further states that it is easy to see how the bell fell into the hands of the Maoris viz,—by being on board of a vessel taken by pirates, or driven out of her course and wrecked on the shores of New Zealand.</p>
+         <p>I confess I see great difficulties in either hypothesis. The most remote countries visited by the most enterprising traders of the Malayan Archipelago, viz., the Bugis, were the north and eastern portions of New Guinea and the Northern Peninsula of Australia. Now, to carry the “Colenso Bell” from either of these parts by pirates, or shipwreck, 2,400 geographical miles would have to be traversed, and this against the prevailing winds and ocean currents—a feat yet unheard of. Authentic instances of the Polynesian Islanders being drifted great distances are to be quoted; but in no case such as this against wind and current.</p>
+         <p>To seek a solution of the problem of “a Hindoo sacrificial bell” finding its way to New Zealand we must revert to the suggestion of Mr Crawford (than whom as an authority none can be higher), that it found its way by Polynesia, or in other words, by the route through which the North Island was originally peopled by the Maori.</p>
+         <p>As the “Colenso Bell” has warmly interested several ethnographists of known learning, we must await the result of their investigations before concluding that the little symbol has no bearing or import on the history of the Aborigines of  New Zealand—I am, &amp;c.,</p>
+         <p>
+            <hi rend="smallcaps">					J.T. Thomson.</hi>
+         </p>
+         <p> Dunedin 30th October, 1865.</p>
+      </body>
+   </text>
+</TEI>

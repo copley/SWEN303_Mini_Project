@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0267">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1871 October 7: to McLean</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Object #1010857 from MS-Papers-0032-0222.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1871-10-07">1871 October 7</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1871 October 7: to McLean<note xml:id="ftn2-193" place="foot" n="193"> ATL Object #1010857 from MS-Papers-0032-0222.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier,</p>
+         <p rend="end">Octr. 7th, 1871</p>
+         <p>Hon. D. McLean</p>
+         <p>My dear Sir,</p>
+         <p>I have to thank you for your kind note per “Luna,”—finding, from Mr. Ormond, that Mrs. Grindell was going to Wellington to her husband, I wrote a note to Major Green, asking him to see her, and get (if possible) Hone Mohi’s letter, which, no doubt, was left by G. at home, or to telegraph to G. about it, so as to get it for you.—And I shall hope to hear it will timely reach your hands.</p>
+         <p>Mr. Ormond has kindly given me a copy of Mr. Turton's Report: I am not at all pleased w. his remark (p.12)— “The claims of the Creditors of Te Hapuku amount to £739. —this sum would be reduced fully one half, were items for the sale of spirits not legally recoverable, <hi rend="italic">and items the recovery of which is barred by the Statute of limitations struck out of the accounts</hi>.” This, <hi rend="italic">latter</hi>, can <hi rend="italic">only</hi> apply to <hi rend="italic">mine</hi>! And what he owes me is only for goods (and money lent to him, and paid for him)—not charging a single farthing for interest as others have done.—</p>
+         <p>Of course Mr. T. is a <hi rend="italic">new</hi> hand here, and knows nothing of the particular case.—I am sure that no <hi rend="italic">old</hi> hand could have so written: I am sorry for it, and can only hope that neither Te H. nor any other will (or can) so <hi rend="italic">lower</hi> themselves as to follow it out: but the <hi rend="italic">hint</hi> has been given them, and that by a high Official.</p>
+         <p>As Mr. Locke is with you, who is one of the 2 Trustees and the principal one too, I have troubled you with this remark in your present busy time—that you may be able to speak to him on the matter—the acting <hi rend="italic">equitably</hi>.</p>
+         <p>I won’t trouble you just now with any thing more. Hoping that you are well, &amp; wishing you were well through the Session.—I am, </p>
+         <p>Yours truly, </p>
+         <p>Wm. Colenso</p>
+      </body>
+   </text>
+</TEI>

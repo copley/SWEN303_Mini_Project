@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0011">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1858 Open column. Hawke’s Bay Herald 16 October.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1858-10-16">1858 October 16</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1858-10-08">1858 October 8</date>
+        <name type="place">Waitangi</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1858 Open column.       <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald </hi>
+        <hi rend="bold">16 October.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—On reading another letter signed, “<hi rend="smallcaps">Robert Pharazyn,”</hi> in your paper of the 2nd inst., (only recently to hand), I was strongly reminded of what Dr. Johnson once said to a person who, having ventured into a dispute with the Doctor, had said, he did not understand him; when Dr. Johnson replied,— “I have found you arguments, Sir, I am not bound to find you understanding.” </p>
+      <p>I must, however, beg to decline, Sir, saying anything more to your correspondent, Mr. Robert Pharazyn, (“Unhappy Robert!” as a gentleman termed him last week.) 1st— Because I have heard, from several quarters, that he is merely the tool (or scribe) of a small party, who club their united efforts in “getting-up” those epistles against me which have appeared in your columns: and, 2nd, (and principally), because I have been assured that he, (of course including his party), has stated himself to be the author of the mean and calumnious anonymous letter, which, under the pseudonym of “<hi rend="italic">Junius</hi>” (!) appeared in your paper of July 31; and which you yourself, Sir, was obliged, (for the <hi rend="italic">first</hi> time among us) to exercise your cencorship over and suppress certain passages, as being wholly unfit for publication! </p>
+      <p>I can only regret that I did not earlier know of his having acknowledged himself to be the writer of that low and scurrilous letter; as, if I had known, I should not have stooped to notice any after writing bearing his name. </p>
+      <p>In conclusion, Sir, allow me to call your attention to a couple of quotations from living authors; (both of which must even by my antagonists be allowed to be unexceptionable;)—one being from the last number of the <hi rend="italic">Westminster Review</hi>, (which opportunely enough was lent me only a few days ago,) and one from a letter of  “<hi rend="italic">Rusticus Primus</hi>,” which, appeared in your columns a few months back. </p>
+      <p>(For the information of your readers I will just add, that the reviewer is writing on one of his favourite and one of nature’s men—the poet Shelley; who is “not only one of our first modern English poets, a man of genius, of extensive learning, and collegiate education, but who had also been twice married, having children by each wife, and who had travelled much on the continent of Europe; so that, as to any inferential comparison, ’tis “Hyperion to a satyr”; and yet he says:)— “The value of a young man’s experience—and Shelley died at nine-and-twenty—is not worth much, and it is only by experience we can test anything in this practical world.... We perhaps can never rightly weigh the balance of any man’s actions, because we never allow enough for the circumstancss which should be placed in the other scale*.... Before a man can write well he must have <hi rend="italic">felt</hi>.” <hi rend="italic">W. Review</hi>, January 1858, p.p. 19–21. </p>
+      <p>(I may also remark, that, in giving the following quotation, I am aware that I am quoting from an unknown author; yet, as he has repeatedly appeared in your columns as an acknowledged and staunch upholder of the opposition, I do so: and this the more readily from the circumstance of his being commonly believed to be a near relative of your correspondent, Robert Pharazyn:)—–He says:— “The dictum of New Zealand appears to be—not that great experience, deep reading, and much reflection should be the means of forming a wise councillor, but that the art of governing, like reading and writing, (as Dogberry sagely observes) comes by nature.—Brother electors, beware of self-seeking politicians.” Letter of <hi rend="italic">R. Primus</hi>, H.B. Herald, May 29, 1858. </p>
+      <p>                       I am, Sir,</p>
+      <p>                               Yours very truly,</p>
+      <p>
+        <hi rend="smallcaps">Wm. Colenso.</hi>
+      </p>
+      <p> Waitangi,     Oct. 8,1858.</p>
+      <p>* The wise saying of another of nature’s men—Burns—will be thought of here:— </p>
+      <p>“What’s <hi rend="italic">done</hi> we partly may compute,     <lb/>But never what<hi rend="italic">resisted</hi> .”</p>
+      <p>                       —W.C.</p>
+    </body>
+  </text>
+</TEI>

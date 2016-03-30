@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0192">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1897 Mr. Colenso explains . Hawke’s Bay Herald 1 March.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1897-03-01">1897 March 1</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1897</hi>
+                  <hi rend="bold"> Mr. Colenso explains</hi>
+                  <hi rend="bold">. 	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 1 March.</hi>
+               </p>
+      </front>
+      <body>
+         <p>“Speak of me as you find—nothing extenuate.” 	<lb/>  —<hi rend="smallcaps">Shakespeare</hi>. </p>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—I have recently heard of some amount of misunderstanding existing respecting one phrase, or rather, one misplaced word in your condensed report of the proceedings of the Hawke’s Bay Philosophical Institute, at its annual meeting held last week. And, as I have been appealed to about it (and have good reasons for knowing that it is made a handle of for perversion by a small clique among us, who ought, however, to know better), I write this by way of explanation, although my friends who were present at the meeting to whom I have spoken, assure me there is no occasion for it. </p>
+         <p>The one word found fault with, is the word “respectable;” that is, as it now stands in your report, which runs thus:— “Of the 20 names handed in to the secretary as willing to contribute towards this project there was not one wealthy man, not one respectable, not one old settler amongst them.” </p>
+         <p>Now, I believe I may boldly and truly say—I did <hi rend="italic">not</hi> use those words as there reported in that one condensed sentence; indeed, I could not do so. For (1.) I had in my hand the list of the kind donors to the said scheme for museum and library (which I had received a fortnight before, and was therefore well acquainted with), and in that list are the names of old and dear friends and of townsmen of high respectability, among whom are Bishop Williams, Dr. de Lisle, Dr. Moore, Messrs Hill, Banner, Craig, and Ringland; and trom the country, Father Binsfield, Dr. Todd, Messrs R.N. Blakiston, J. Powdrell, A. Harding, and J. Holder, and others, (2nd.) What I did say, and I think dwelt on, and that with full and painful reference to the large number of non-subscribers to this great public good (accepting your published words as a basis), was — “There was not one wealthy man, not one of the old-established respectable settlers, owners of large estates, fathers of families, amongst them”— viz., the few names in the list. And I may observe that I was the more led to make this remark— (l) Because I had certainly expected <hi rend="italic">large</hi> assistance from those men as early settlers—with their princely domains, thousands of acres, and many tens of thousands of sheep, &amp;c.—to say nothing of the present good season’s clip of wool, &amp;c., &amp;c.; and (2) because I had at the large May meeting, when I launched my offer, inadvertently (yet trustingly) mentioned Mr John Harding’s name as a joint contributor to the scheme (who had formerly freely proffered his subscription, but who now, I found, did <hi rend="italic">not</hi> come forward!) and had also the great pleasure of publicly announcing, in contrast, the name of our respected and lately-elected member to the House of Representatives, Mr R.D.D. M‛Lean, as being the only large subscriber to the museum; both of those gentlemen being alike very old residents and large sheepfarmers.</p>
+         <p>I would also remind your readers, that at the May meeting in 1896 (already referred to) it was clearly and distinctly laid down that this projected museum and library was not for Napier (solely), but for the East Coast of New Zealand. I quote from your paper of the time: “A museum here would be a museum for the East Coast, not only for Hawke’s Bay proper or for the old provincial districts, but for Poverty Bay and Gisborne, and the country stretching up to the East Cape. The people of those districts could not possibly have a museum of their own. Auckland, as they knew, had a museum for the whole of Auckland province, &amp;c.” I fear the forgetting of this—a main object in the success of the proposed plan—has also been the means of it having been overlooked. </p>
+         <p>And—as I do not intend to write again on this subject, I may be allowed to briefly mention two or three errors, or omissions, in your report of the 16th inst., (I would it could be given <hi rend="italic">in extenso</hi>, even if I have to pay for it). (1.) I did <hi rend="italic">not</hi> say — “His books and money” (meaning, the whole) “would now go to his native town of Penzance in Cornwall”:— but, part only. (2.) You omitted, (a) what I said about Mr M‘Lean’s generous offer; that that in part mainly depended on the standing committee of the late Sir Donald M‘Lean’s Memorial Fund agreeing thereto; and (6) my promised subscription of £500 to back up and support Mr M‘Lean’s plan. Both, however, of these omissions you kindly allowed and supplied in your next morning’s issue; and I only mention them now, in conclusion, to show to the distorters and carpers, that even in your report there were admitted omissions. To all such invidious folk I would quietly and individually say <hi rend="italic">nosce te ipsum</hi>.<note xml:id="ftn64" place="foot" n="64"> Know thyself—<hi rend="italic">Ed.</hi>
+                  </note>—I am, &amp;c., </p>
+         <p>
+                  <hi rend="smallcaps">		W. Colenso</hi>. </p>
+         <p> Napier, February 26th, 1897.</p>
+         <p>[Mr Colenso spoke under great excitement and in a low tone, making it difficult for our reporter to follow him, and it is quite possible that he misunderstood Mr Colenso in this matter, though the report is a faithful transcript from his shorthand notes.— Ed. <hi rend="italic">H.B.H</hi>.] </p>
+      </body>
+   </text>
+</TEI>

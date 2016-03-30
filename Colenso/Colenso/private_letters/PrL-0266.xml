@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0266">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1871 September 14: to McLean</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Object #1007259 from MS-Papers-0032-0222.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1871-09-14">1871 September 14</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1871 September 14: to McLean<note xml:id="ftn2-191" place="foot" n="191"> ATL Object #1007259 from MS-Papers-0032-0222.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, September 14, 1871</p>
+         <p>Hon. D. McLean</p>
+         <p>My dear Sir,</p>
+         <p>I hear the “Luna” is to call this evening <hi rend="italic">en route </hi>for Wellington: so I will write you a few lines, and, as I have rather more than usual to notice, I must e’en take a larger sheet.</p>
+         <p>1<hi rend="sup ">st</hi>. Shortly after you left I received a huge packet from Hone Mohi Tawhai (Hokianga) containing a fair Ms. of 14 foolscap pages! written by himself—for insertion in the “Waka Maori”:<note xml:id="ftn2-192" place="foot" n="192"> Māori newspaper <hi rend="italic">Te Waka Maori</hi> was established on 21 August, 1878 by Grindell and Gannon.</note> it was all about the N. Lands Court, <hi rend="italic">upholding </hi>it (as against what had appeared in the W.M. against the Court,) but at same time shewing, in 8 or 10 instances, where it wanted mending: I thought it (on the whole) a very good Letter, and intended forwarding it to <hi rend="italic">you. </hi>Meeting however w. Grindell in town the next day, &amp; telling him of it, &amp; shewing it to him (having it in my pocket), he begged me to let him have it <hi rend="italic">instanter </hi>for <hi rend="italic">immediate</hi> publication in the W.M.,—which he wanted, then &amp; there, to get out &amp;c &amp;c. I gave it to him: &amp; you may judge my vexation, in finding that <hi rend="italic">soon after </hi>he left Napier for Waipawa, (settling about “40 m. Bush,”) &amp; thence went off to Rangitikei &amp; I know not where! I told Mr. Ormond of this—&amp; I hope he had related it to you.—I should so like for <hi rend="italic">you </hi>to <hi rend="italic">see </hi>that Letter.</p>
+         <p>2<hi rend="sup ">nd</hi>. Before that Mr. Ormond left, some natives applied to me, bringing papers of their ?grievances, to draft a Petition for them to the G.A.―I referred them to you. No. Then to Karaitiana, <hi rend="italic">their member. </hi>To him they went, &amp; in a week or so, returned to me, with their matters more in order, saying that K. had caused this to be written &amp; that he had wished me to look over it. He went to Waipawa (also about the “Bush” sale) &amp; did not return till the last moment, &amp; then to start for Wellington. I have subsequently sent him his papers, telling him to begin at the <hi rend="italic">right </hi>end, for if he has not sought officially <hi rend="underline italic">here</hi> to get his grievance rectified, it would be of no use to attempt it there: I also told Mr. Ormond of this before he left. I believe it to be relative to the boundaries of some Reserves, &amp; of the Land sold, near Maraekakaho.</p>
+         <p>3<hi rend="sup ">rd</hi>. By last Mail from the N. I have Letters from some Ngapuhi Chiefs―one says (I copy it)</p>
+         <p>“Engari pea a kona e whai korero ana, tena pea koe te rongorongo na i nga korero o nga Runanga pakeha o Poneke, o Ingarani pea hoki, he korero teka pea taua mea i rongo nei ahau, e kiia ana, Kahore a Wiremu Katene i tomo ki te Paremata, tae rawa atu kua riro a Te Makareni ki tawaahi ki Ingarani ki te tawahi, he Runanga mo nga Maori o Niu Tireni, kia hautopea atu ki te mata o te hoari, te taane te tamaiti te waahine:―he korero tito pea u a taaua.”―</p>
+         <p>Perhaps it would be well for you to know of the Northern M. Member if he has written N., and if <hi rend="italic">not</hi>, then get him to write a good Letter directly.―But you will know best.</p>
+         <p>I think it is a great pity (or mistake), that the “Waka Maori,” which is now in <hi rend="italic">request </hi>at Waikato &amp; elsewhere among the Maoris, is not <hi rend="underline italic">now</hi>
+            <hi rend="italic">working doubly</hi> (I might say,) to let them know something of what is going on among you: I feel sure such might be conducive of much good.</p>
+         <p>Several little ugly things have transpired since Mr. Ormond left, relative to the natives, &amp; some of them you and I have talked about: and as I am pretty confident that such will bring their <hi rend="italic">cross of trouble</hi>, if not timely attended to, I just mention them—you can easily imagine how the natives talk of them.—</p>
+         <p>1<hi rend="sup ">st</hi>. Karaitiana was summoned <hi rend="italic">after he had left </hi>for Rates (Papakura Block), &amp; judgment by default for <hi rend="italic">₤38</hi> &amp; costs. It was allowed that he had paid the <hi rend="italic">first </hi>similar demand. (Has he, or his lands, recd. any benefit?)</p>
+         <p>2<hi rend="sup ">nd</hi>. Runs are advertised, as having poison laid, &amp; dogs seen will be shot, &amp; persons trespassing will be prosecuted, &amp;c.—I send you enclosed a sample: but how are the <hi rend="italic">natives</hi>, mostly perhaps concerned, to know of it?</p>
+         <p>3<hi rend="sup ">rd</hi>. I also send you an extract from our local Papers of an impounding Case inland. And</p>
+         <p>4<hi rend="sup ">th</hi>. Of another very hard case—the making (according to <hi rend="italic">English </hi>law!) of Hiraka (Hori Niania’s son) pay for goods had by his runaway wife (Arihi) and <hi rend="italic">her paramour</hi>. This is a doubly hard case—as all the circumstances are so notorious. I have but little doubt that Firth supplied her with all the goods, after her leaving him: she &amp; the ex-policeman live close to Firth. Such things cause our Laws, &amp;c., to be—hated, as unjust. Surely they could be modified. You will see, my dear sir, that they do all press <hi rend="italic">one way. </hi>
+         </p>
+         <p>Although I consider it a part of one’s duty to tell you all this, I would not do it <hi rend="underline italic">now</hi> were it not for 2 things—1. You may be able to ameliorate some, <hi rend="italic">this session: </hi>2. You have <hi rend="italic">no occasion</hi> to reply to this.</p>
+         <p>I have read Vogel’s finl. statement (as sent us per telegram), and, as far as I understand it, I agree w. it, and think, in some things, he has managed very <hi rend="italic">adroitly</hi>.</p>
+         <p>I wish I were at W. to hear the Debates. I hope you will pass a really good Education Act—one, wholly secular, I should prefer—&amp; such will be by &amp; bye, here &amp; elsewhere as the world gets wiser.</p>
+         <p>     Hoping you are well, I am</p>
+         <p>             My dear Sir, Yours sincerely</p>
+         <p>                     Wm Colenso.</p>
+      </body>
+   </text>
+</TEI>

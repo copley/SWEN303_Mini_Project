@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0062">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1847 March 10: Octavius Hadfield to his brother Lieut. Charles Hadfield</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  "Letter 18".  Page 156.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 1.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1847-03-10">1847 March 10</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70819/">Charles Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1847 March 10: Octavius Hadfield to his brother Lieut. Charles Hadfield</p>
+      </front>
+      <body>
+      <p>Wellington March 10. 1847</p>
+      <p>My dear Charles,</p>
+      <p>I had long been hoping to receive a letter from you when your very affectionate &amp; kind one of Sep. 7. arrived.  How disinclination to write to those whom we love, creeps upon us, is difficult to say, but so it is.  It was a long time since you had written to me &amp; as long, I fear, since I had written to you.  I trust, however, that we had neither of us long forgotten the other. I often feel an intense wish to see you again: our early youth was spent so much together that it would be interesting, &amp; might be profitable to talk over some of the events which have intervened since our separation: but while it is allowable so to express myself, I have no firmer conviction upon earth than I have of the folly of wishing anything different from God's appointment:- how thankful should we be that a God of wisdom - Who is our Father in Christ - directs all for us!  I do not know that I am deficient in natural affection to my relatives - I may be, but the will of God &amp; the welfare of His church - if not the welfare of mankind at large - seem in me to swallow up every other consideration.  While I rejoiced at the kind sympathy &amp; holy feeling you expressed in your letter towards myself, I could not but regret that you had been unwell, indeed were in a delicate state of health, I however hope that ere this you are quite restored.  You say very little about your wife, but my sisters on one or two occasions have been good enough to speak much of her.  I rejoice to think that a gracious Father has allowed you to be united to one who fears and loves Him, &amp; who must be a source of comfort &amp; happiness to you; - how uncertain are earthly prospects of happiness, when not sanctified with His blessing.  Pray give my affectionate love to her.  </p>
+      <p>I was very well pleased to hear of George's appointment to the Malta College; &amp; I sincerely hope he may have sufficient health &amp; strength to enable him to labour there to the glory of God.  The climate is good &amp; may suit him better than England.  I believe George to be well calculated to instruct &amp; direct the minds of young people: I speak from my own experience - for how much do I owe to his teaching, - when I say this : let us ever pray to the Lord in faith, &amp; He will order all things wisely. </p>
+      <p>I continue in much the same state that I was two years ago; unable to leave my bed except for an hour and a half or two hours in the day, &amp; then to remain in a reclining posture: I can sit or stand for about half an hour, but then the pain begins to be intense, &amp; I am obliged to recline again.  I read a great deal, but as much thought excites my too excitable system, I am not able to read so regularly as I coul wish nor to undertake anything in the way of writing.  I confess that nothing but the warning which pain gives me would prevent my using my pen more than I do now, for I take intense interest in all subjects of a religious or moral nature; it is surprising how clear one's views of many questions which appear to perplex mankind appear to me, now that I am as it were on the verge of eternity, without any possibility of being again engaged in any earthly pursuits.  How absurd do all disputes about justification by faith or by works appear, when you see clearly that no act of a moral <!--should this be "mortal"?-->being can have any estimable value at all, when viewed unconnected with the motive whence it springs.,-all controversies concerning necessity &amp; free-will, when we know that God must order everything, &amp; yet our own conscience tells us that we are responsible, &amp; therefore free agents; &amp; that the subject in dispute is altogether beyond the power of any human intelligence to grasp - or all differences of opinion in reference to the transmission of ministerial efficacy thro' apostolic succession, when we know that every penitent sinner may apply for himself to the Living God thro' the one &amp; only Mediator, the Lord Jesus Christ.  When will ignorance &amp; narrow-mindedness, &amp; prejudice give way to a calm, patient, unbiassed investigation of truth, both as <hi rend="underline">manifest in nature</hi> &amp; revealed in the word of God!</p>
+      <p>The Gospel is, as far as human judgement can reach, prospering in this land.  More labourers are wanted; &amp; perhaps more energy directing &amp; making use of the services of native converts.  My old sphere is occupied by Mr. Govett at present: I am hoping that the society will soon send somebody from England to live there.  The natives there continue to improve.</p>
+      <p>You doubtless cannot much like your profession, but I suppose it is difficult to know what to do in England.  This is a very pleasant country to live in; the climate is so good, &amp; so suitable to English constitutions, but then a definite object &amp; occupation is required.  In these new countries capital is required.  There are many ways in which capital may be employed readily &amp; profitably, but nothing can be done without it.  The best thing to be done at present is to keep sheep. - There are extensive grass runs which can be obtained on a low rent; &amp; the increase of sheep is very great &amp; the wool good; but for this one ought to be able to start with at least 500 to do much good, &amp; they cost now about &#163;1 a head.  In New South Wales they are cheap but cannot be imported to New Zealand at less than that.  But then one does not obtain any return but the mere wool for the first two years, &amp; in the meantime one is at some expense.  Clearing land &amp; growing corn etc is not now very profitable, as there is considerable outlay required at first.  If you should ever think of coming out here have nothing to do with the N.Z. Company, as land etc can be obtained here cheaper &amp; more to ones liking than thru' their agency.  If you were in the country now I could easily get you an appointment from Gov. Grey,: but those appointments are in this country not always permanent, and not pleasant when one is dependent on them.  His government is uncertain, he may not be here long, otherwise I should have no hesitation in asking him for any thing: as it is, he often asks me to recommend persons to him as he relies very much upon my judgement.  But without moderate capital I would not advise anybody to come to N.Z. unless the labouring classes, &amp; they cannot fail with common prudence to succeed: for the common necessaries for a rough life could not be cheaper in any part of the world.</p>
+      <p>Believe me my dear brother,</p>
+      <p>Your very affectionate brother
+      </p>
+      <p>Octavius Hadfield.</p>
+      </body>
+   </text>
+</TEI>

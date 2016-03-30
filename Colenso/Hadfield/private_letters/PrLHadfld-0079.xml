@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0079">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1851 April 10: Octavius Hadfield to his mother Amelia Hadfield (nee White)</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960.  Page 237.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 9.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1851-04-10">1851 April 10</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70719/">Amelia Hadfield (nee White)</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1851 April 10: Octavius Hadfield to his mother Amelia Hadfield (nee White)</p>
+      </front>
+      <body>
+      <p>Wellington. Ap. 10. 1851.</p>
+      <p>My dear Mother,</p>
+      <p>I have just received your leter of Nov. 29.  I am delighted to find that you can still write so long &amp; so interesting a letter, still I fear that it was your desire to write to me which may have stimulated you to do more than you are usually able to do.  I have also received dear George's letters of Dec 2. + of Nov.  I was very sorry to hear of Dawson's sudden death.  I am so bad a correspondent that I had never written to him but once &amp; consequently received no letters from him; but I met him two or three times at Whitchurch and formed very favourable opinion of him.  We must in this and all other matters acquiesce in the will of God. I was sorry to hear that Alexander's health was failing him even in the Hills.  I am sure (humanly speaking) that this country would agree with him, but I do not know what his pursuits &amp; amusements would be.  I wrote to him some time ago about this country, but did not hear from him.  It seems to me unwise to remain in a country which so thoroughly disagrees with his health.  All the rest of our family seem to be tolerably well.  I regretted to hear that Aunt Dixon had been a sufferer.  </p>
+      <p>I came in here a day or two ago to attend to the natives of this place, who are a good deal scattered &amp; require from their intercourse with the English much looking after.  The St. Hills are very well.  Another brother of theirs, Woodford, was here about three months ago; he is with the Bishop at Auckland. </p>
+      <p>The Bishop paid us a visit at Otaki a few days ago, but it was so very short that we were rather disappointed.  He is always remarkably kind to me &amp; I like him very much, but others complain of him, &amp; his high church views give offence to many &amp; lessen his usefulness.  The Bishop Designate of Canterbury or rather Christchurch Mr. Jackson, was here ten days since, but I did not see him; he is returning to England again to be consecrated.  I am told he is a man of first-rate abilities.</p>
+      <p>How seriously the differences in the church seem to be agitating the minds of the people at Home.  And the bold step of the Pope seems to be creating great excitement.  How very strange it seems that people should be so blind to the tenor of the Holy Scriptures as not to see at one that popery is utterly at variance with it.  But popery is congenial to fallen man's nature &amp; will be ever acceptable to those who are not raised by divine grace to higher and holier views of God and spiritual things than the natural heart professes. </p>
+      <p>I am afraid I shall never return to England.  I do not mean that I am so important here that my absence for eighteen months or so would be felt; but I have all my life had a strong feeling of repugnance to going anywhere or doing anything without a sufficient object; &amp; I am not quite certain that to see my dear relations would be a sufficient one, when I am busily engaged in Christ's work.  But it is of far more importance that we should all meet in another world.  May we be each striving to advance in conformity to Christ, &amp; that conformity will be to us an evidence of our real destination, &amp; our meetness for Heaven.</p>
+      <p>Mr. Williams &amp; I get through some work; we have plenty to do.  The natives are continuing in this part of the country to take the same interest in religion which they did in years past, &amp; I from time to time admit to the church those from the new converts who appear to be truly sincere.  We are hoping to do more with schools.  The local government allows us a good sum annually to assist our schools.  Sir G. Grey is always remarkably civil to me &amp; ready to fall into any plan for the improvement of the natives; he is a very superior man.  I am purposing to go in about ten days to a district I have never yet visited, called Wairarapa.  It has been under the charge of both Mr. Williams (now on his way to England) &amp; Mr. Colenso.  I am now going to assist Mr. Colenso who is only a Deacon.  The Bishop wants me to assist him in his Porirua College which is being begun; but I shall not be able to do much for him.  I hope I may continue to hear good accounts of you all at home.  Give my affectionate love to my father &amp; all my brothers &amp; sisters; &amp; remember me kindly to all old friends whom I am always delighted to hear of.</p>
+      <p>I have not yet received your letter of June enclosing one for Mrs. St. Hill which you mention.</p>
+      <p>Ever your very affectionate son,
+      </p>
+      <p>Octavius Hadfield.</p>
+      <p>Mrs. St. Hill who is sitting by me tells me to send her love &amp; to say she will write to you, though now I write being well she has not much to say to you.</p>
+      </body>
+   </text>
+</TEI>

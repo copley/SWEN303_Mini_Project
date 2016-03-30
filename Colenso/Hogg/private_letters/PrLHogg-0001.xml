@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHogg0001">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1852 October 19: Lewis Hogg to Octavius Hadfield</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71946/">Lewis Hogg</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions, spine title "Hadfield, Typescript Miscellaneous Fragments 1833-1897", stamped 19 Dec 1979.  Section: Typescripts of inwards letters extracts + fragments.  "Extract of Letter from Lewis Hogg to Ven. Archdn. Hadfield."  Page 38. MS annotation correctly states: "Repeated p. 44-6"</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 10.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1852-10-19">1852 October 19</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/71981/">Kettering, Northamptonshire</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1852 October 19: Lewis Hogg to Octavius Hadfield</p>
+      </front>
+      <body>
+      <p>Mr. Lewis Hogg						</p>
+      <p>Cranford, nr. Kettering,			</p>
+      <p>Northamptonshire.					</p>
+      <p>ENGLAND.</p>
+     
+      <p>St John's College,</p>
+      <p>Auckland,</p>
+      <p>Oct. 19th, 1852.</p>
+      <p>From Rotorua, four or five days walk over an undulating country of grass and fern, much of it available for sheep and cattle, brought us to Mr Morgan's station at Otawhao.  We were struck with the great amount of country, apparently fit for sheep and cattle runs, which we crossed at intervals, from the central plains, and which the general accounts of the northern part of this Island have I think underrated.  The wheat cultivations in Mr. Morgan's neighbourhood, are very surprising and gratifying in extent. </p>
+      <p>At one settlement alone, Rangiwahia <!--previous editor's comment: (?)--> with 700 people, there are upwards 700 acres of wheat, with about 20 ploughs, and an equal number of carts with 60 or 80 horses and some cattle.  The proportion of wheat cultivated is I think about equal to that of your people at Otaki, but there is not the general appearance of improvement in houses etc which Otaki presents and which we have not seen elsewhere, amongst the natives.  At Rangiwahia and an adjoining settlement there are two mills at work and short time back<!--si--> Mr Morgan in one day drew out the contracts for three new mills at a cost of &#163;920 for European work and materials.  There are to be erected in the immediate neighbourhood two weather board churches, one close to Mr. Morgan's house, the other at Rangiwahia, at a cost of &#163;300 each.  The timber for one is all prepared, that for the other is being sawn.  When the churches and mills are completed, Mr Morgan hopes to see a rapid improvement in the houses which the people must certainly be able, if they are willing to effect, as the wheat alone, must bring them in about &#163;3500 per annum.  Mr Morgans half caste school is very interesting, he has about 40 boys and girls.  They appear more shy than natives, at least with strangers.  They are wholly instructed in English and are making very fair progress.  The girls seem likely to be married off as soon as they grow up, <!--this photocopy appears as if the corner of the page of the original typescript was folded over at the time of copying; beginning of next word obscured--> <supplied>[o]</supplied>ne is married to the Agricultural Instructor who has charge of the school farm, and instructs natives in the surrounding districts in ploughing and sowing etc.  He is a good specimen of an intelligent young English farmer and his wife keeps his house, in a neat clean manner, that would do credit to any European.  He will however shortly be leaving in order to take a cattle run.  Mr. Morgan is anxious to introduce weaving as a branch of Industrial teaching for which he has looms, but they are standing still for want of spinning machinery.  I confess I am not sanguine as to the success of weaving as I see no chance of its standing competition with British skill and machinery, though if the Maori women would take it up, they might, no doubt, usefully employ many a spare hour.  Two of the lads were making <!--blank-->.  The girls are mainly occupied in   <!--blank--> work, including the making and mending of all the childrens'<!--sic--> clothes and the accuracy with which one or two of the elder ones wrote English from dictation surprised me.  Mr. Ashwell has about 70 children, all Maoris and chiefly girls, in nice order.  He and Mrs. Ashwell both seem to work hard in the school, and he has carried them on to a great length in one or two points: for instance in geography and with history.  A few of the elder girls stood an examination which would have sorely puzzled the majority of our village schools at Home.  Mr. Ashwell is very successful in biblical teaching and both in their school and Mr. Morgan's it was very pleasant to hear the children sing a great number of English songs and glees.  In addition to sacred solo singing they seem to find songs a powerful means of impressing English words on their minds with wholesome and amusing <!--previous editor's comment: (?) --> thoughts and thus tend to dislodge the objectionable native waiatas.  Mr. Ashwell is much in want of some land to render his school self-supporting.  </p>
+      <p>Mr Mawnsell's school appears very efficient, he has about 90 Maoris in all, girls, boys and young men, each division in separate school houses, and each in great measure working apart.  The girls are under the charge of a remarkable native matron who has been several years in the station and seems thoroughly devoted to her work, being the widow of a Chief, and herself of high standing, has a good deal of influence with the natives.  The boys are under a young German, Mr. Volkner, who is working them well in school.  Several are learning Carpenters<!--sic--> work under a carpenter, regularly attached to the station, this is the only industrial training in addition to the farms which is<!--sic--> under the management of a farming man of the ordinary stamp.  Neither Mr. Morgan's nor Mr. Maunsell's farm can stand comparison with yours in extent.  Mr. Morgans contains 170 acres of good land, Mr Maunsell's about the same, but not not<!--sic--> such available land, good.  Part of it is on hillsides where it will be difficult to work a plough.  Each farm about 50 acres, will this year be cropped and a great amount of support, if all is well be derived from the schools.</p>
+      <p>I have rambled on into these details about the schools, fancying they may interest you, as you are so deeply engaged in similar work and because this part of our trip was in its way fully as interesting to me as the natural wonders and beauties of the country.</p>
+      <p>Of the College here, you doubtless know much more than I can tell you.  The Otaki lads were delighted with the numerous despatches we brought, and I only regret we cannot give them more intelligence of their friends by word of mouth.  They all however seem very happy and flourishing.  One of them, Puckey, is baker in chief and we have daily proof of his culinary skill.  Rota <!--previous editor's comment: (?) --> is a scholar and it is a pleasant sight to see him in his white surplice reading the second lesson in Chapel, with great propriety.
+      </p>
+      </body>
+   </text>
+</TEI>

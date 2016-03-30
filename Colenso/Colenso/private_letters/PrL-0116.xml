@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0116">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1852 March 4: to William Williams</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Williams may never have received this, which Colenso copied to the CMS, adding, “The foregoing I sent as addressed, but under open cover to yourselves at the C.M. House, not knowing whether it would find Archd. Williams still in England. On the outside I wrote a memorandum, that, if the Archdeacon should have left England, the Secretaries would read the enclosure. As I have not since heard from Archdn. Williams, and as I consider the subject of great importance, I now make you a copy of it; to which I have added the marginal notes.—I have subsequently observed other errors of a similar nature. In my accompanying Letter to Mr. Archdn. Williams, I said, “Be, at all events, very sure not to omit the Articles in the forthcoming version. They are left out in the Bishop’s (or, C K.S’s.) version (after being in print, &amp; Circulation upwards of 10 years), and the office for the Ordaining of Deacons substituted. W.C. Waitangi, October, 1853.”</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/70244/">Waitangi</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/16069/">William Williams</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1852-03-04">1852 March 4</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1852 March 4: to William Williams<note xml:id="ftn1-163" place="foot" n="163">Williams may never have received this, which Colenso copied to the CMS, adding, “The foregoing I sent as addressed, but under open cover to yourselves at the C.M. House, not knowing whether it would find Archd. Williams still in England. On the outside I wrote a memorandum, that, if the Archdeacon should have left England, the Secretaries would read the enclosure. As I have not since heard from Archdn. Williams, and as I consider the subject of great importance, I now make you a copy of it; to which I have added the marginal notes.—I have subsequently observed other errors of a similar nature. In my accompanying Letter to Mr. Archdn. Williams, I said, “Be, at all events, very sure not to omit the Articles in the forthcoming version. They are left out in the Bishop’s (or, C K.S’s.) version (after being in print, &amp; Circulation upwards of 10 years), and the office for the Ordaining of Deacons substituted. W.C.  Waitangi, October, 1853.”</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Waitangi, March 4/52.</p>
+         <p>To Ven. Archd. W. Williams,</p>
+         <p>&amp;c. &amp;c.</p>
+         <p>London.</p>
+         <p rend="center">Containing a few remarks upon the new version <lb/>of the New Zealand Prayer Book.</p>
+         <p rend="center">________</p>
+         <p>1st. The novel ending of nearly all our Prayers &amp; Collects:—where, for “<hi rend="italic">through Jesus Christ our </hi>
+            <hi rend="smallcaps italic">Lord</hi>,” we have, “<hi rend="italic">ko Ihu Karaiti te matou Ariki</hi>.” Literally, and meaning no more, not even by implication, (as you know) than, “<hi rend="italic">Jesus Christ is our Lord</hi>.”! Without having so much as its being Native usage to recommend it. So wretchedly unmeaning and forged, that <hi rend="italic">lower</hi> we cannot go.—</p>
+         <p>2nd. The expressions in the Apostle’s Creed:— “<hi rend="italic">Conceived by the Holy Ghost</hi>”—rendered, “<hi rend="italic">I wakatangatatia te Wairua Tapu</hi>.”—i.e. <hi rend="italic">Made</hi>
+            <hi rend="italic">man</hi> by the Holy Ghost. The same words are used in the Nicene Creed for a different matter,—for, if there be a difference (and there surely is,) between “<hi rend="underline italic">Incarnate</hi>
+            <hi rend="italic"> by the Holy Ghost</hi>”—and, “<hi rend="italic">was </hi>
+            <hi rend="underline italic">made</hi>
+            <hi rend="italic"> </hi>
+            <hi rend="underline italic">man</hi>;” there is still a <hi rend="italic">greater</hi> difference between the latter and “<hi rend="underline italic">Conceived</hi>
+            <hi rend="italic"> by the Holy Ghost</hi>.” Yet, as the two Creeds are now (in the <hi rend="italic">new</hi> version) the <hi rend="italic">same word</hi> is used.—</p>
+         <p>I wish to guard against any approach to an ancient Socinian error,—i.e. of <hi rend="italic">one</hi> part of Christ being framed by the Spirit, &amp;c, by which He became the Son of <hi rend="smallcaps">God</hi>.—We must not forget the great truth— “The Son is of the Father alone<hi rend="italic">, not made, nor created</hi>, but begotten:—Man, <hi rend="italic">of the substance of his mother</hi>:—conceived by the Holy Ghost.” Again, though Christ was conceived by the Holy Ghost, yet the Holy Ghost <hi rend="italic">did not conceive</hi> Him, but said unto the Virgin, “<hi rend="italic">Thou shalt conceive</hi>, &amp;c.” The word, “<hi rend="italic">conceived</hi>,” is <hi rend="italic">not</hi> so translated in any of the = places, in the O. and N.T.—It is not the great &amp; holy Truth of “the Word” being “made flesh,” and becoming “Man,” that I oppose, but the paraphrastic translation, and unnecessary addition to the Apostolic Symbol. Does it not, also, disagree with the = place in the Athanasian Creed?</p>
+         <p>3rd. Expressions in the Baptismal service:—</p>
+         <p>α. In the first prayer &amp; = places:— “I te Iriiringa o Ihu Karaiti…. ki te awa o Horano, I wakatapua e koe te wai hei horoinga wakawairua mo te kino”:—and in the prayer before the naming the Child, and = places:— “Wakatupua tenei wai hei horme <hi rend="italic">wakawairua</hi> i te harai”:—</p>
+         <p>The term “<hi rend="italic">mystical</hi>” (by which I understand, Sacramental,) is here translated as if it were quite synonymous with “<hi rend="italic">spiritual</hi>.” Just, if I mistake not, one of the very errors of a certain party, so ably exposed by Dr. Bayford, &amp;c. I observe, that the word “<hi rend="italic">mystical</hi>” is omitted altogether before “<hi rend="italic">union</hi>,” in the first exhortation in the Marriage Service; while “<hi rend="italic">mystery</hi>,” in the next to last Prayer, is, as it was, “<hi rend="italic">hei mea ngaro</hi>”; which is, without doubt, its proper meaning. Again, in the same Prayer, the words, “<hi rend="italic">spiritual</hi> marriage,” are rightly translated, “<hi rend="italic">Marematanga wakawairua</hi>.”</p>
+         <p>β. In the second Prayer, and = places, the word “<hi rend="italic">spiritual</hi>” (sp. regeneration,) is entirely left out! and without it, it seems, as if the “washing with water” only is what was intended.—</p>
+         <p>γ. The unnecessary addition to the express words of Baptism:— “E—, <hi rend="italic">tenei</hi> ahau te iriiri nei i a koe, <hi rend="italic">i runga</hi> &amp;c.” “<hi rend="italic">Tenei</hi>”—here, or now, is wholly additional, &amp; <hi rend="italic">quite unnecessary. </hi>“<hi rend="italic">Irunga</hi>”—is not, (I believe,) anything like what is meant by έις (into). Had it been έπι (upon)—as “έπι κεφαλη,” or, έπι τό άκζοι” or έπι στόματος δύο,” (Matt. xviii. 16,) this rendering, barbarous as it sounds, might be retained. <hi rend="italic">But</hi>, if the <hi rend="italic">rule</hi> concerning έις—(i.e. “when ever it is used, a motion into is implied,”—Grk. Gram. p.191,)—is correct; and, if it means here, an objective admission into the Covenant of Redemption—a putting on of Christ, (<hi rend="italic">vid</hi>. Baptismal Service, Adults, concluding address. Gal. iii. 27, where “i runga” could <hi rend="italic">not</hi> be used: 1 Cor. x. 2, &amp;c.) then “<hi rend="italic">i runga</hi>” <hi rend="underline italic">must</hi> be rejected. It has been said, that this word contains the Sacramental declaration; and that it is parallel with “τούτο έστιν” in the other Sacrament.—</p>
+         <p>4th. The interpolated word “<hi rend="italic">nei</hi>,” in the giving the Sacramental Bread. It accords <hi rend="italic">not</hi> with, “<hi rend="italic">which was given for thee</hi>”—i.e. on the Cross; but, rather means, <hi rend="italic">just now</hi>. (“<hi rend="italic">Nei</hi>, here, in sight;”—<hi rend="italic">vide</hi>, your own Dicty.) Be cautious here, my dear friend, especially, too, as the verb “<hi rend="italic">tuku</hi>” may be interpreted, to offer, to present, to exhibit, and even to offers in sacrifice to immolate; by which a host of error may creep in.—</p>
+         <p>5th. the expression in the Catechism respecting the Sacraments:— “He mea nui enei <hi rend="italic">e pa ai nga tangata ki te ora</hi>”:—i.e. “great things these, by (or through) which men obtain life.” This is <hi rend="italic">very much</hi> stronger than the original— “generally necessary to salvation.”—</p>
+         <p>6th. In the absolution in the Visitation Service:— “No te mea kua tukua mai <hi rend="underline italic">e ia tona mana ki a hau</hi>”; far beyond a literal translation &amp; highly unscriptural &amp; dangerous. It is one thing to say, “By his authority committed to me I absolve, &amp;c.”; and, “<hi rend="italic">Because </hi>
+            <hi rend="doubleunderline underline italic">his</hi>
+            <hi rend="italic"> ‘</hi>
+            <hi rend="doubleunderline underline italic">mana’</hi>
+            <hi rend="italic"> has been given </hi>
+            <hi rend="underline italic">by</hi>
+            <hi rend="italic"> </hi>
+            <hi rend="underline italic">him</hi> to me I absolve.”—This word, “<hi rend="italic">mana</hi>,” is the noun used in Matt. xxviii. 18.<note xml:id="ftn1-164" place="foot" n="164"> WC: And in chs. ix. 8, &amp; x. 1, (New Vers.,) for έξουσιά.</note> There is also, I think, much difference between the two words,—(έξουσιά) power, and (δυιαμις) authority; they are used together in Luke ix. 1, &amp; Rev. xiii. 2, consequently they are<hi rend="italic">not</hi> synonymous. At all events, I would <hi rend="italic">not</hi> use the <hi rend="italic">same</hi> noun; <hi rend="italic">certainly not with</hi> the poss. pron., “<hi rend="italic">tona</hi>”—his; as, according to the analogy of the Native language,—</p>
+         <p>
+            <hi rend="italic">tona mana</hi>, his influence,<note xml:id="ftn1-165" place="foot" n="165"> WC: Vide, Mr. Williams’ own Dictionary, in loc.</note>
+         </p>
+         <p>
+            <hi rend="italic">tona ora</hi>, his life,</p>
+         <p>
+            <hi rend="italic">tona tapu</hi>, his sanctity,</p>
+         <p>being “<hi rend="italic">tuku</hi>”—yielded up,<note xml:id="ftn1-166" place="foot" n="166"> WC: See, Matt. xxvii. 50. Luke xxiii. 46. John xix. 20, &amp;c.</note> gone, he has none left.<note xml:id="ftn1-167" place="foot" n="167"> WC: “kua tukua a mai e ia na mana ki a hau”—would be the very sentence which a young chief would use, on his arriving at maturity, to indicate, that his father now had none; accordg. to N.Z. usage.</note>
+         </p>
+         <p>7th. The first words in the Ordering of Deacons:— “E te Matua <hi rend="italic">o te Hahi</hi>”:—<hi rend="italic">The Father of the Church</hi>!! a most unnecessary addition, directly opposed to Matt. xxiii. 9. This title belongs to <hi rend="italic">no man; it is </hi>
+            <hi rend="smallcaps italic">God’s</hi>, and His only.</p>
+         <p>Now I have <hi rend="italic">not</hi> closely examined a <hi rend="italic">single</hi> entire portion of the new version of the Pr. Book. These portions I accidentally noticed; <hi rend="italic">all</hi> of them, save the 1st. &amp; 2nd., since I commenced my Letter. Doubtless there are others.</p>
+         <p rend="end">William Colenso.</p>
+         <p>N.B. Throughout the whole of these incorrect renderings, two under currents (so to speak) are to be noticed; the one (as in 1 &amp; 2,) depreciating Christ, the other (as in 3–7,) exalting ceremonies and persons.——W.C.</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0085">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1860 June 22: Octavius Hadfield to Mr. Sewell</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions, spine title "Hadfield, Typescript Miscellaneous Fragments 1833-1897", stamped 19 Dec 1979.  Section: Fragments - Fragmentary extracts from the letters of Octavius Hadfield.  "EXTRACT NO. 2."  "Extract from my letter to Mr. Sewell.  June 22nd.60."  Page 16.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 10.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1860-06-22">1860 June 22</date>
+                  
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71804/">Mr. Sewell</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1860 June 22: Octavius Hadfield to Mr. Sewell</p>
+      </front>
+      <body>
+      <p>I now regard the meeting of the so-called chiefs about to take place as the greatest absurdity.<!--sic-->I have yet heard of.  If under other circumstances, in peaceable times, and by a rational mode of selection, real chiefs had met, much good might have been expected from it  The real chiefs down here refuse to attend-- their places are filled with inferior men.  The great grievance throughout the country is the <hi rend="underline">mode</hi> of purchasing land.  (I believe there never has been any difficulty in purchasing land to any extent.)  The local land-commissioner is therefore the unpopular person.  But instead of documents bearing the Gov.'s signature being addressed to the chiefs invited to the meeting, the natives tell me blank forms were sent down to the commissioner to fill up with the names of his partizans-- those regarded by the natives generally with, perhaps, undue distrust; but at any rate, in no degree representing their opinions.  So that if the result of the meeting were apparently most satisfactory, it could be nothing more than dust in the eyes of the Govt. because no index whatsoever of the real feelings and opinions of the natives.
+      </p>
+      <p>Extract from my letter to Mr. Sewell.  June 22nd.60.</p>
+      </body>
+   </text>
+</TEI>

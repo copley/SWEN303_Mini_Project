@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1047">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1898 May 12: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0499.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1898-05-12">1898 May 12</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1898 May 12: to Harding<note xml:id="ftn3-897" place="foot" n="897"> ATL qMS-0499.</note>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="italic">Imprimis</hi>: I heartily wish Mrs. Harding, many years of domestic peace &amp; happiness, and every spiritual blessing.—</p>
+         <p rend="end">Scrimgeour’s Hotel<lb/>Dannevirke<lb/>May 12<hi rend="sup ">th</hi>. 1898</p>
+         <p>Dear Mr Harding</p>
+         <p>The long looked-for Rain is come at last! and I am shut up here, &amp; so cannot do better than write a few lines to <hi rend="italic">you</hi>: but I am cold, though wrapped in cloak, having <hi rend="italic">no </hi>fire—in a big room—my own choice. I came hither from Woodville on Tuesday, sending you a Wdv. paper of 9<hi rend="sup ">th</hi>., that you might know I was (then) <hi rend="italic">there </hi>&amp; doing a <hi rend="italic">little</hi> wk. Yesterday, here I recd, <hi rend="italic">the</hi> letter I had been expecting from “Dept. of Justice” <hi rend="italic">re </hi>book Mao. Lex. “<hi rend="italic">A</hi>.”, <hi rend="italic">rather long</hi>, stating—550 copies had been ptd. &amp; that “a just basis of distribution had been sought”, and the Premier had arranged (subject to my agreeing) as follows:—<hi rend="italic">200</hi> to me: <hi rend="italic">100</hi> for those Institutions in List named by me: <hi rend="italic">200</hi> for Mr. S. for Members of House &amp; Govt. Officials; &amp; <hi rend="italic">50</hi> to remain in Govt. Store: In replying—(1) I lamented my not recg. <hi rend="italic">my no. </hi>ordered: (2) that under <hi rend="italic">present circumstances</hi> I could not see any better plan than that of Premier, and agreed thereto, I recg. 217 copies (<hi rend="italic">i.e.</hi> that 200 with the overplus from <hi rend="italic">83</hi>, named by me) &amp; requested Under Secy. to send <hi rend="italic">these</hi> (83) out, &amp; to send me ½ doz. <hi rend="italic">early</hi>: and now for the <hi rend="italic">crux</hi> (yet to come)—<hi rend="italic">re </hi>payment: I posted my reply yesterday. I had written to Mackay on Monday from Wdv., &amp; yesty., on recg. official, I wired to him to let him know.—</p>
+         <p>I suppose you knew <hi rend="italic">Prebble </hi>Fruiterer? he died on Monday, cancer in stomach—had been “operated” on before I left N., but not successfuly—too far gone. A wire to hand from my man’s son (John) his wife had a son on Monday night, &amp; all well.—</p>
+         <p>A note from the Dean yesterday his arm improving but still stiff &amp; painful, he intended (D.V.) to recommence Cathedl. work on Sunday next.</p>
+         <p>I have had several visitors here, Hill &amp; Walker “Herald” (Tuesday night). Hill, Soundy, and C. Baddeley last night. I went out for a short time this mg. before the rain began. I saw in paper last wk. that the “Ruahine”, Welsh’s ship, had arrived at Plymouth on 2<hi rend="sup ">nd</hi>., 1 day after her time.</p>
+         <p>I have lately, at Wdv., seen an extraordinary book—Geography &amp; Histy. of N.Z., by <hi rend="italic">R. Lee</hi> Inspr. Schools: printed by Longmans P/O in ’95 &amp; with many blunders &amp; errors,—sent up to school at Woodv. from Dept.—at end of each chap he gives the <hi rend="italic">correct</hi> pronunciation of Maori words used in it. <lb/>e.g. Maori = Mah`-oo-ree<lb/>Maui = Mah`-oo-ee<lb/>Ruapehu = Roo-ah`-pay-oo<lb/>Wairarapa = Wah`-ee-rah`-rah`-pah`<lb/>Wai (for water) = Wah`-ee<lb/>Kauri = Kah`-oo-ree<lb/>Waikato = Wah`-ee-kah`-to</p>
+         <p>The <hi rend="italic">taro </hi>plant is an arum a sp. of <hi rend="underline italic">lily</hi>!</p>
+         <p>Of Marsden:—(p.96.)<lb/>“(4) Mr. Marsden: settlement was not begun till 1844, when Rev. Mr. M. and his party landed at Bay of Islands where a small town, Kororareka (now called Russell) was founded: the settlers comprising sailors runaway convicts traders sawyers beach combers &amp; adventurers.”—</p>
+         <p>And much more to the same effect, with a full-size plate of a <hi rend="italic">living Moa</hi>. And of the Moa he says:—<lb/>“<hi rend="underline italic">Moa</hi>. It was not known to Europeans that such a bird had ever existed until, in the year 1838, Mr Polack published a book in which he mentioned that the bones of the Moa had been discovered.”—</p>
+         <p>(“The 3 black crows”, again! this comes from Hamilton &amp; Hutton:—just as I had told them. They <hi rend="italic">first</hi>
+            <hi rend="italic">deviated </hi>a wee-bit, &amp; Lee has enlarged same!)</p>
+         <p>A hideous drawing (portrait) of Mr. Marsden: <hi rend="italic">utterly unlike</hi>. Again: p.98 “(8) <hi rend="underline italic">Trade in Horses and Cattle</hi>. A few years ago <hi rend="italic">madness</hi> ran upon horses &amp; cattle, &amp; now young N.Z. believes in nothing but money, and they are continually tormenting themselves with plans to acquire it in large sums at once without the trouble of slow &amp; saving industry, which, as applied to the accumulation of money, they neither approve nor understand”. &amp;c &amp;c</p>
+         <p>Manning’s book is approved &amp; recommended. Tales of Dragons, &amp; Proverbs, &amp;c (from <hi rend="italic">my papers</hi>) but <hi rend="italic">not fairly </hi>quoted: Tregear, Hector, Buller (for birds, <hi rend="italic">his vols</hi>.) &amp;c are thanked.—</p>
+         <p>Gas-light in all rooms here, fair &amp; good. Mr. <hi rend="italic">Paterson</hi> is removing to Gisborne!! Shepherd is unwell confined to house. I purpose going to Waipukurau on Saturday, &amp; there perhaps 3–4 days—then to the <hi rend="italic">Old </hi>Rest. Try to see “D.T.” of Monday last—containing <hi rend="italic">that </hi>letter <hi rend="italic">re </hi>O. Dean, &amp; <hi rend="italic">a </hi>reply of <hi rend="underline italic">his</hi>! with 3–4 others, from Secy. L.V. Assn.—&amp; more (I see) <hi rend="italic">since</hi>, &amp; in “D.T.” of <hi rend="italic">yesty</hi>. 11<hi rend="sup ">th</hi>.—a fair art. on O. Dean’s shuffling. This place is “booming ahead” wonderfully! surely <hi rend="italic">a crash</hi> must follow soon!</p>
+         <p>(<hi rend="italic">Night.</hi>) </p>
+         <p>Since writing foregoing I have again read your letter—a capital one,—one in which I <hi rend="italic">largely </hi>agree w. you—in matters pol. &amp; ecclesl., &amp;c. <anchor type="bookmark-start" xml:id="id_OLE_LINK6"/>
+            <anchor type="bookmark-start" xml:id="id_OLE_LINK5"/>I take exception however to yr. remark on “Amateur Botanists”—or, rather, “<hi rend="italic">my (harsh) dealing w. them</hi>”! Now I have <hi rend="italic">always </hi>supposed—I went far very far the <hi rend="italic">other way</hi>: and I have lots of letters, <hi rend="italic">from such</hi> (40 yrs. &amp; more) to <hi rend="italic">bear me out</hi>. (Would you be surprised to know that <hi rend="italic">Kirk</hi>, himself, was <hi rend="italic">one</hi>?) You shall have the <hi rend="italic">whole</hi> of the Featon correspdce., &amp;, so far, judge for yourself.<ptr type="bookmark-end" target="#id_OLE_LINK6"/>
+            <ptr type="bookmark-end" target="#id_OLE_LINK5"/>Hamilton in a <hi rend="italic">recent</hi> &amp; long letter is severe on this last wk. of Kirk’s: H. also says, Part III “Maori Art” is in hand. At Sandel’s, in my parlour, were several <hi rend="italic">bulky</hi> Am. works, w. their <hi rend="italic">covers off</hi>! “Light in Darkness”. “Danl. &amp; Revelation” “Pope Leo’s life, letters, &amp; poems” (some 600 pp.)—Ital. &amp; Lat. transln., with Imprimatur of R.C. apps. Am. Did you ever see the R.C. book—“the Assumption of the B.V.M.”?—<hi rend="italic">If not</hi>, I will lend it to you.—</p>
+         <p>That suggestion (you mention) as Kirk’s in Forest Flora, re “<hi rend="italic">beech</hi>” for “Birch”—is <hi rend="italic">not </hi>K’s.—but <hi rend="italic">Hooker’s</hi>, &amp; <hi rend="underline italic">repeated</hi>, <hi rend="italic">before </hi>K ever saw N.Z. In passing <hi rend="italic">swiftly</hi> “<hi rend="italic">Tahoraiti</hi>” Ry. Station, I fancied, the <hi rend="italic">new </hi>painted sign is <hi rend="italic">Tahorati</hi>. Today, here, I pitched into Walker for his (their) notorious sticking to Da<hi rend="underline">n</hi>evirke: W allowed the <hi rend="italic">error</hi>!—Please <hi rend="italic">return</hi> the <hi rend="italic">Auckland</hi> Inst. <hi rend="underline italic">Report</hi>. A <hi rend="underline italic">long</hi> ext. from <hi rend="italic">President’s </hi>(dry) address on Monday nt., in Tuesday’s “Herald”. <hi rend="italic">We </hi>(Hill &amp; I) have noticed, <hi rend="italic">nothing said re </hi>
+            <hi rend="underline italic">no.</hi>
+            <hi rend="italic"> present</hi>! The portion of “address” <hi rend="italic">re </hi>Maoris, I should <hi rend="italic">like to take up</hi>. I have had, &amp; still have (one by post this day) <hi rend="italic">repeated applications </hi>for <hi rend="italic">old P. stamps</hi>: did I tell you, I destroyed over 1000 letters in the winter of ’96,—&amp; of (say) <hi rend="italic">half</hi> of their envelopes—before I thought of preserving any! and now I have <hi rend="italic">many more </hi>to destroy—some very old, no doubt.</p>
+         <p>         Hope Hector is<hi rend="italic">quite well</hi>: ditto, <hi rend="underline italic">all</hi>.</p>
+         <p>                         Ever yours,                     W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0128">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1853 April 12: to McLean</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Object #1012399 from MS-Papers-0032-0221.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1853-04-12">1853 April 12</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1853 April 12: to McLean<note xml:id="ftn2-11" place="foot" n="11"> ATL Object #1012399 from MS-Papers-0032-0221.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Waitangi,<lb/>April 12, 1853.</p>
+         <p>My dear Sir,</p>
+         <p>As I find that the Phœbe is not gone from Ahuriri, I have just time to fulfil a desire—which has rapidly grown up during these last few days—of writing to you; sprung, I believe, from a pleasing remembrance of your kind expressions of interest in my welfare when we last met and parted. Now doubly valuable in the present extreme scarcity of both friends and Counsellors.</p>
+         <p>I think that I then told you, that I had written fully to the C.M.S. concerning myself—and that I had made up my mind to winter here in my little study—or, rather to remain until I should hear from them: so far, then, has been determined. I have however subsequently seen the Bishop here, and am obliged to think, that I should yet do something more than merely to wait until I hear from England:—that is, if I have the opportunity of doing so. I have often of late revolved in my mind your advice— “to take a run”;<note xml:id="ftn2-12" place="foot" n="12"> “Take a run” here means “obtain a sheep farm”—not, as some have interpreted this passage, as “escape”: Colenso would never have used such a slang expression!</note> and, if I am in time and can obtain one suitable, I think I should be quite ready to do so. Allow me then, my dear sir, to request you to let me know at an early convenient opportunity:—1st. whether there are any spare runs still to let out of these your 2 purchased Blocks (excluding Mohaka)?—2nd. whether you have a speedy prospect of purchasing more land in this neighbourhood?—3rd. whether you are of opinion that I might obtain the gift of a small grant of land from the Governor? (I could only afford—at present—to <hi rend="italic">pay</hi> for a very small quantity; yet, I think, I could shew certain good reasons why a <hi rend="italic">little</hi> might be <hi rend="italic">given</hi>; especially if I had yourself or Sinclair or Cole or any good friend to back me).—5th. whether Scrip would be received in payment for Land hereabouts?</p>
+         <p>I should greatly prefer being on or near the Sea Coast. An <hi rend="italic">inferior</hi> run or neighbourhood would suit me very well; as I have but a <hi rend="italic">few</hi> head of cattle, and I do not wish to seek <hi rend="italic">great</hi> things;—merely a quiet home with bread to eat. I wish also, to be quite out of the way of both Natives and Settlers—unless I may yet be privileged with finding a few of the latter with a similar disposition to yourself. I have had some thoughts of one of those little places—called, Ouepoto, and Pohatupapa—both S. of Morena’s village (Tuingara), and, I believe, unoccupied.—Also, of seeking some sheltered nook somewhere upon your S. boundary line (Parimahu), &amp; not far from the sea. And I am thinking of visiting that neighbourhood in about a month or so; although I should prefer <hi rend="italic">first</hi> hearing from you.—It might, however, suit me better (at first, at least) to put out my Cattle, at so much pr. cent of profit than to keep a person to look after them; but I need advice on this and, indeed, on all my matters.  I have again spoken of<hi rend="italic">Scrip</hi>, to which I have been led through hearing that Mr. Tollemache is said to have come hither to purchase land with Scrip. Hapuku (I understand from Cranmer, for we have not yet met,) and Puhara and Hineipaketia still wish me to go inland to Te Rotoakiwa; but I do not, upon any account, wish to be so near Wi Tipuna and his party;—nor the Bishop’s “College Land”—the ground on the Government boundary close to Te Aute having been by him and the Governor selected for this purpose. From the Chief at Tangoio I have also received a handsome offer of a piece of ground if I will move that way. But, whilst I <hi rend="italic">feel</hi> their kindness—particularly just now when <hi rend="italic">all</hi> are against me—I am determined <hi rend="italic">not</hi> to accept it. I have already trusted natives too much: served <hi rend="italic">them</hi> too faithfully (don’t doubt it)—without even once caring for myself; and it is now (if not too late) high time for me to believe that charity should begin at home.—I could <hi rend="italic">tell</hi> you much if you were here, which I cannot write. I dare to think, that I have been and am greatly ill-used; still it is not for me, who have so foolishly laid myself open, to complain.  I did<hi rend="italic">not</hi> see the Governor when they were here, although greatly wished to do so; he travelling with (and, I believe, living in the tent of) the Bishop. This was a very untoward circumstance for me; and one which I greatly regretted.—</p>
+         <p>You, my dear Sir, well know how very changeable the Natives are. You will not then be surprized in hearing that, when <hi rend="italic">the great men</hi> were here, the Natives (having repeatedly heard that the Bishop and the Governor were coming to “<hi rend="italic">pana</hi>” me,) were <hi rend="italic">all</hi> against me!—all loud for “<hi rend="italic">panaing</hi>”. But when I say all—I must not forget to tell you, that Te Hapuku and Puhara and Hineipaketia were not only against such an atrocity, but made good orations (I am told) to the Bp. and the Govr. when at Wakatu in my favour.—And these 2 men are Heathen, and, in certain sense, my enemies!!—Neither of them accompanied the Bishop and Governor to Ahuriri—at which, I confess, I felt surprized. I also heard, that Mr. Alexander very kindly and considerately expressed his just indignation at some of my Native “friends’” proceedings—among whom your travelling companion Takamoana, (whom I had but very lately been again instrumental in recovering from a severe illness) was most conspicuous—as before, for evil. But <hi rend="italic">many</hi>
+            <hi rend="underline italic">secret</hi> springs have been worked:—and, as you know, a very small spark is sufficient for a whole magazine of powder.—</p>
+         <p>But I must close or I shall weary you. Mrs. Colenso has not yet left! but we now daily expect the vessel (the Dolphin) by which she <hi rend="italic">is</hi> to go; and she will also take <hi rend="italic">the</hi> child with her. I shall, consequently, soon be <hi rend="italic">very lonely</hi>; and that, too, in a place where every object necessarily recalls a 1000 unpleasing ideas. Need I say, that a letter, or paper, or anything from a friend will sure to be both acceptable and of service. Mr. and Mrs. Marshall with 2 children (one being Alexander’s) left us this morning on their way to Guthrie’s, where they intend to reside. We have lately suffered severely from a flood, occasioned by a fortnight’s heavy rain, which caused us to take refuge in the study—all the premises &amp; garden being <hi rend="italic">greatly</hi> under water. The natives too have lost much of their crops. You will have heard, I suppose, of one of Hapuku’s wives (Tarewa) having strangled herself very shortly after you left.</p>
+         <p>I should like, if possible, to have the matter of a future dwelling and run so far settled, as that on your next coming this way we could go thither together and take possession. Though my present house is <hi rend="italic">small</hi>, yet it will be more than large enough for <hi rend="italic">us two</hi>, if you can on your next visit make it convenient both to call and <hi rend="italic">stay</hi>—which I hope you will do.</p>
+         <p> Ever my dear Sir, Very truly yours, <lb/>       Willm. Colenso.</p>
+         <p>P.S. Allow me to add, as I know you are intimate with some of the Mission, that I do not wish them, <hi rend="italic">just now</hi>, to know of my intentions.</p>
+      </body>
+   </text>
+</TEI>

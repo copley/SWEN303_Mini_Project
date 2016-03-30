@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1086">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1889 October 17 to the Colonial Secretary</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Archives New Zealand</p>   
+         <p>(National Archives, Wellington, Record No. 1889/3518)</p>
+         <p>Transcription by Ian St George</p>
+            <p>encoded into TEI by Melissa Bryant, 21.10.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1889-10-17">1889 October 17</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="office" key="http://wtap.vuw.ac.nz/eats/entity/76142/">Colonial Secretary</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1889 October 17 to the Colonial Secretary (National Archives, Wellington, Record No. 1889/3518)
+         </p>
+      </front>
+      <body>
+      
+<p>Dannevirke,</p>
+<p>October 17th, 1889.</p>
+<p>Sir</p>
+<p>I have the honour to acknowledge the receipt of your delayed telegram of yesterday (16th.)—which only reached me here this afternoon: and with reference to your questions therein, re (1) the size of the “résumé of what happened at the meeting for the signing of the Treaty of Waitangi”: and (2) the time when I could forward the Ms. To the Government Printer: I have now the honour to inform you, that,—</p>
+<p>(1) the size of the résumé itself is but small, say about 10–12 pages, (it is, however, a long time since I saw it,) but to it I had intended to append more or less of useful and interesting historical matter pertaining thereto, so as to make it a little book of (say) 30–40 pages.—</p>
+<p>(2) I could, I think furnish the Ms. (or the former part of it) early in December.—</p>
+<p>Not having received any answer to my repeated enquiries respecting it, (extending over five months,) I had not taken it in hand; and, also came hither last week: and if I should have to get the said Ms. ready, I must return to Napier much earlier than I had intended.—</p>
+<p>I have the honour</p>
+<p>to be, Sir,</p>
+<p>Yr. mo. ob. servt.</p>
+<p>Wm. Colenso.</p>
+<p>To</p>
+<p>the Hon.</p>
+<p>the Colonial Secretary,</p>
+<p>Wellington.</p>
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0561">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1884 May 15: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1884-05-15">1884 May 15</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1884 May 15: to Luff<note xml:id="ftn3-234" place="foot" n="234"> ATL MS-Copy-Micro-0485-4.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Norsewood, Thursday,<lb/>May 15, 1884.</p>
+         <p>Mr. A. Luff,<lb/>  Wellington.</p>
+         <p>My Dear Sir,</p>
+         <p>I think I will write you a letter tonight from this place, before that I return to Napier,—which I wish to do <hi rend="italic">tomorrow</hi> (Friday) as I have fixed; but greatly fear I shall not be able to do so, as it has been raining all day with every prospect of continuance, and I never travel in rain, if I can help it. However, in my writing to you from the Bush, I lose the chance of first receiving a letter from you &amp; of answering it, as all my letters are retained at N. for me, including those by late Eng. Mail.—</p>
+         <p>I suppose you received the letter I addressed to you at Woodville about 5 weeks back: I left N. on 22<hi rend="sup">nd</hi>. April, &amp; (as I informed you) had to be at Waipawa, &amp; at Waipukurau on days previously arranged on business, (signing Deeds, long waiting, &amp;c, &amp;c.) I came on to Matamau on 25<hi rend="sup">th</hi>., and, arranged with Jones (Coach driver) to go by him to Woodville on 28<hi rend="sup">th</hi>., his next Coach day. He, however, came to Matamau that day <hi rend="italic">overloaded</hi>—21 passengers with a pyramid of luggage! &amp; so I could <hi rend="italic">not</hi> go!—I had to wait till Wednesday, when (by mere chance!) I got a seat &amp; left for Woodville. McVay &amp; party (5 in all, 3 of whom were ladies, and <hi rend="italic">perhaps</hi> Mrs. Close was one, but I don’t know her,—or any of them though they all knew me,) were in the Coach.—I had told Jones I must have a return seat on Saturday, which he promised,—but the next morning early, on his arriving from Palmerston, he told me, he should be <hi rend="italic">full</hi>! &amp; advised me to go in the special coach w. McVay &amp; party leaving early on the Friday morning—as McV. wished to be back at Napier by Friday night! and this I was <hi rend="italic">obliged</hi> to do, and so I had only 1 clear day at Woodville, which I much regretted. We (that is McV. &amp; party &amp; myself) stayed at the “Woodville Club H.”,—and I enquired particularly after <hi rend="italic">you</hi> from the host Murphy, but he could not clearly recollect whether you had stopped there. I had to go 2–3 miles into the Bush to see my old servants (Jas. Morgan wife &amp; family), and spent a few hours w. them—then to call on the U. Methodist Minister (Rev. Worboys) now resident there, who had several times called on me, here, during my visits in past years:—then to see Sowry, Hawkin, Bickerton, &amp;c., so that my <hi rend="italic">one </hi>day was taken up, &amp; next mg., at 8.30 we left—I again halting at Matamau. How I had wished that you and I were there together for a few days, which might have been managed easily. The weather, too, being superb!—our old delightful autumnal weather. (Indeed, since I came away from N., now 24 days, I have had only 2 wet ones! last Thursday &amp; today.) I confess I was disappd. in Woodville: that is, as to the township, expecting to find it more compact; and the Hotels <hi rend="italic">seemed</hi> to me to me, to be too large for the place—while Moore’s shop I found <hi rend="italic">very small.</hi>—No doubt there is plenty of <hi rend="italic">flat</hi> land there,—and timber too, w. great destruction of this latter. It always grieves me to see noble trees felled &amp; burned up!—If I live &amp; am well &amp; weather fine I hope to pay another &amp; a longer visit in the coming summer. At present I am very well, mostly so up here, for the Bush &amp; mountain air certainly agree w. me better than that of the sea-side, &amp; if I could <hi rend="italic">easily</hi> do so I think I would remove from N. to this place—somewhere hereabouts. <hi rend="italic">In</hi> N. I <hi rend="italic">often think</hi> of the old saying “<hi rend="smallcaps">God</hi> made the Country, man the Town”. N. folks care for little besides their own business, and <hi rend="italic">holidays</hi> &amp; <hi rend="italic">plays</hi> &amp; shows: here there is little of that kind. I know nothing of what is doing <hi rend="italic">there</hi>—or with <hi rend="italic">you</hi> at Wgn.,—or in the world! for here I see <hi rend="italic">no</hi> papers. My hands (&amp; head, too!) are daily full, I live plainly (a <hi rend="italic">single</hi> dish) and I sleep soundly.—</p>
+         <p>If I do not return to-morrow then I shall not do so on Saty. or Mondy., as I never travel on those “single fare” days, as the carriages are crowded.—</p>
+         <p>I had but little talk w. McV., &amp; less w. the others; he enquired kindly after <hi rend="italic">you</hi>, having heard from Faulkner of your being at Woodville. I fancy, Tanner is trying <hi rend="italic">hard</hi> to obtain Votes in these parts—against Smith. Well: I have filled my sheet with <hi rend="italic">little</hi> of consequence, save to show my good hearty feeling ever remaining towards my old &amp; frequent visitor at “the Hermitage”!—in days long past!</p>
+         <p>Hoping this may find you &amp; yours all quite well: and with kind regards, Believe me, yours truly,</p>
+         <p>                             W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

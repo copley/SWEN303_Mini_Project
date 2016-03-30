@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0611">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1885 October 13: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861. Endorsed “A 25/10/35 Giving account of yellow mouse”.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1885-10-13">1885 October 13</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1885 October 13: to Balfour<note xml:id="ftn3-325" place="foot" n="325"> ATL 88-103-1/07. Original at MTG HB 67861. Endorsed “A 25/10/35 Giving account of yellow mouse”.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Tuesday night <lb/>Oct 13th 1885</p>
+         <p>Mr D.P. Balfour <lb/>Glenross</p>
+         <p>My dear Sir</p>
+         <p>I have to thank you for your kind letter of the 4<hi rend="sup">th</hi> inst, and for the specimens that came with it,—fungus &amp; Moss.</p>
+         <p>This of the Moss is <hi rend="italic">much too young</hi> to be of any service, please let it be <hi rend="italic">fully</hi> ripe, brown red, &amp;c,—say 5–6 weeks hence—perhaps you may meet with a lot in <hi rend="italic">your travels.</hi> I know the spot in <hi rend="italic">your</hi> Bush where it flourishes (though <hi rend="italic">hitherto</hi> I have only found it barren there) and I in­tend if I live to visit that locality for the purpose of getting some.<note xml:id="ftn3-326" place="foot" n="326"> It seems that by “your Bush” Colenso did not mean Glenross: see also 28 March 1886 to Balfour.</note>
+         </p>
+         <p>Another small plant I should like to get some specimens of, is your little Orchid—<hi rend="italic">Corysanthes papillosa</hi>; this day, in packing up my case for Sir J.D. Hooker to go by “<hi rend="italic">Arawa</hi>”, I put up what I had. I cannot tell you how glad I am to get rid of <hi rend="italic">this lot</hi>; it has been <hi rend="italic">so long</hi>, on hand “getting ready” &amp; yet, never ready. It contains some hundreds of Fungi, Hepaticæ &amp; Mosses, also of flowering plants,—Perhaps it is the <hi rend="italic">last</hi> that <hi rend="italic">I</hi> shall ever send!.</p>
+         <p>Last night we held our usual meeting; I had been apprised of the more than probability of the work devolving <hi rend="italic">on me</hi>—so I was not altoge­ther taken aback. You will see some mention of it in the “Herald” of this rnorning, though, from <hi rend="italic">demonstrations</hi> of last night &amp; presence of the reporter of the H, I expected to see a good deal more. <hi rend="italic">I</hi> could not call it a fair attendance, rather a very poor one; all the “Big fel­lows” were absent!!!—However I endeavoured to please &amp; do my best.</p>
+         <p>I felt concerned in reading your account of your illness here in town, &amp; on your road home. You must take more care of yourself when next you come to town, or, you may be worse; and then (not this time) I shall have to say a word to you <hi rend="italic">against</hi> teetotalism;—which has noth­ing to do with temperance. I feel very heavy tonight, and so indeed most of the day. It be owing to <hi rend="italic">a</hi>
+            <hi rend="italic"> change</hi> in the weather coming on (here we want rain very much) or to my heavy days work, yesterday—return­ing from our meeting at 10.30.</p>
+         <p>I hope P.D. is well, and steering this way. I suppose your wool shear­ing season is drawing nigh. I wish the prices were higher. When you write again, tell me if I ever sent you some seeds of <hi rend="italic">Cordy­line Sturmii</hi>; as if not, I must do so. I have lately been sending out some.</p>
+         <p>With kind regards</p>
+         <p>I am, my dear Sir</p>
+         <p>Yours truly </p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

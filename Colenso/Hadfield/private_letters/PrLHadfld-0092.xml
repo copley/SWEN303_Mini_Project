@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0092">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1864: Octavius Hadfield to his brother Charles Hadfield</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions, spine title "Hadfield, Typescript Miscellaneous Fragments 1833-1897", stamped 19 Dec 1979.  Section: Fragments - Fragmentary extracts from the letters of Octavius Hadfield.  "EXTRACT NO. 4."  Page 25.  MS annotation crossed out: "This frag. probably end to letter Hadfield to Charles Hadfield 4 Dec. 1861. (Photostat only) Ref. to St. Hills coming in Oct  a little troublesome perhaps." - this annotation presumably superseded by "1864" at top of page.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 10.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1864----">1864</date>
+                  
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70819/">Charles Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1864: Octavius Hadfield to his brother Charles Hadfield</p>
+      </front>
+      <body>
+      <p>-- much for their conversion when their assistance is no longer needed.  I am however glad that the question is kept open; it will be a warning to future Governors.  Perhaps the Colonial Office will see the folly of leaving arbitrary power in the hands of any one individual.</p>
+      <p>It now seems to be the wish of all to devise some new system of managing maori affairs which for the future may preclude the necessity of England's being involved in these little wars -- dishonourable to her and disastrous to the colonies.</p>
+      <p>I am sorry my old friend St.Hill has not paid more attention to the subject.  He is not a politician.  Besides his brother was aide-de-camp to Browne, and he of course heard all the other side of the question.  I suppose I am rather rough and plain spoken; but I think a little straightforward honesty is not amiss now and then.  I am sorry you thought St.Hill looking ill.  We still hope to see him soon.  His brother Ashton is staying with us.  He talks of working with Sir G. Grey in the <hi rend="underline">Maori</hi> department; but I do not know whether he will really do so; he is very diffident.  Kate has a few lines from Mrs St. Hill saying they will leave early in Oct.</p>
+      <p>We are all well.  Henry is getting a great boy.  I hope to have him at school soon.  Octa is a strong little fellow, always well.  Annie is my pet, very wily and sharp.  Kate unites with me in affectionate love to Agnes, yourself and children.</p>
+      <p>Ever your affect. brother,
+      </p>
+      <p>Octavius Hadfield.</p>
+      <p>Lt. Col. Hadfield. --</p>
+      <p>I am writing to Amelia.</p>
+      </body>
+   </text>
+</TEI>

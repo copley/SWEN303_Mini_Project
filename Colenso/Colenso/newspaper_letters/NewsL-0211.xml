@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0211">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Editorial: Hawke’s Bay Herald 29 December 1898.</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <date when="1898-12-29">1898 December 29</date>
+          <publisher><name type="organisation">Hawke’s Bay Herald</name></publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold italic">Editorial: Hawke’s Bay Herald 29 December 1898.</hi>
+      </p>
+    </front>
+    <body>
+      <p>In yesterday's issue, and on the authority of a London correspondent, we stated that the Rev. W. Colenso had been elected an honorary member of the “Royal Geographical Society.” The honor conferred on Mr Colenso, it seems, comes from the “Royal Geological Society of Cornwall,” the late English mail having brought Mr Colenso intimation to that effect from the president and honorary secretary of the Cornish society. This society, we may add, stands very high, having the Queen for patron and the Prince of Wales (as Duke of Cornwall) as vice-patron. We congratulate our veteran citizen upon this further recognition of his untiring efforts in the cause of his beloved science. </p>
+    </body>
+  </text>
+</TEI>

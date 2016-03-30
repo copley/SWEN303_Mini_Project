@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0087">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1867?: Octavius Hadfield to an unknown sibling</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions, spine title "Hadfield, Typescript Miscellaneous Fragments 1833-1897", stamped 19 Dec 1979.  Section: Fragments - Fragmentary extracts from the letters of Octavius Hadfield.  "EXTRACT NO. 10."  Page 19.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 10.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="-----">"ca 1867"</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+               </correspAction>
+               
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1867?: Octavius Hadfield to an unknown sibling</p>
+      </front>
+      <body>
+      <p>....... man, and will now have a larger sphere of work at home.  If it should come to pass that the Church at home should be separated from the state, he is probably the only man living who would be competent to direct its reconstruction on a self-supporting basis.  How strange it seems that he should have been appointed to the only English diocese where the previous bishop had made any preparations for the introduction of a synodical system.  All things are wisely ordered.  My bishop also goes home with them.  I hope he will return.  I shall miss him very much during his absence.</p>
+      <p>I have now no one in Wellington to whom I can look up in any difficulty.  I must, through God's help do the best I can.</p>
+      <p>I heard yesterday from Otaki.  The children were all well.  The country is still very unsettled, and it is not easy to see when we shall again enjoy peace.  I am not writing to anyone but yourself.  Please to give my affectionate love to all.</p>
+      <p>Ever your affectionate brother,
+      </p>
+      <p>Octavius Hadfield.</p>
+      <p>I did not have my letters sent on, so shall not receive any till I get home again.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1083">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1841 February 24 to R. Davis</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>transcription by Ian St George, provided to Colenso Project staff at Wai-te-Ata Press on 1.10.15 via email</p>
+            <p>encoded into TEI by Melissa Bryant, 21.10.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1841-02-24">24 February 1841</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71642/">R. Davis</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1841 February 24 to R. Davis
+         </p>
+      </front>
+      <body>
+      <p>Paihia Feb. 24. 1841.</p>
+<p>My dear Sir,</p>
+<p>1. A Public letter having arrived from the Parent Com. dated August 15. 1840, &amp; in which, I think it is very apparent that they decline acceding to the request made by me in my letter; &amp; I having been given to understand that my letter to the Comee. of Missionaries dated Feb. 13. 1840 might probably not be considered as fully conclusive with regard to myself, are the reasons for my now addressing you.</p>
+<p>2. Will you therefore be pleased to inform the Comee. of Missionaries that it is my intention to resign the situation I now hold of Printer to the C.M.S. in New Zealand on the 31 Dec. now next ensuing.</p>
+<p>3. As it is not my intention at present to communicate again with the Parent Com. on the subject, I would thank you to transmit a Copy of this letter (which I desire to be entered on the minutes of Com.) to them per very first opportunity. I am &amp;ca</p>
+<p>(Sigd.) W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

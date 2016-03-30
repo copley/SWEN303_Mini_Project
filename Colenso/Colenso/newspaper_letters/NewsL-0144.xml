@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0144">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1888 What’s in a name? Hawke’s Bay Herald 27 June.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1888-06-27">1888 June 27</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1888 </hi>
+                  <hi rend="bold">What’s in a name? 	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 27 June.  </hi>
+               </p>
+      </front>
+      <body>
+         <p>And last of all an Admiral came, 	<lb/> A terrible man with a terrible name!— A name which you all know by sight very well; 	<lb/> But which no one can speak, and no one can spell.</p>
+         <p>													—<hi rend="smallcaps">Southey</hi>. </p>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—For some time past I have noticed an advertisement in your paper, stating, “that a Special Meeting of the Hawke’s Bay County Council will be held on the 6th July, 1888, to consider the altering the name of the ‘Patea Road Board’ and the ‘Patea Riding’ to the ‘Erewhon Road Board’ and ‘Erewhon Riding.’” And as this seems to me to be a very curious kind of hybrid thing, I trouble you with a few remarks upon it.<note xml:id="ftn53" place="foot" n="53"> Erewhon remains the name of a sheep station on the Hastings-Taupo road—<hi rend="italic">Ed.</hi>
+                  </note> 
+               </p>
+         <p>1. I think it is wholly new:—that is, to attempt to make such a radical change; and therefore should be well considered before it is done, and becomes a precedent. </p>
+         <p>2. Hitherto the rule has been with us to maintain in their integrity the ancient and proper Maori names of places. </p>
+         <p>3. Where such Maori names have been changed (even into fair and reasonable English names), as in Abbotsford for Waipawa, Port Napier for Port Ahuriri, the three rivers Esk, Alma, and Plassy, for Petane, Tukituki, aud Ngaruroro;—the foreign or newly imposed names have dwindled into disuse and are almost forgotten. </p>
+         <p>4. Where roads or streets have necessarily been named, as here in our town, it has been our good fortune to have really first-class intellectual and respectable English names given to them—names that often evoke a sigh, or proud swelling patriotic feelings when spoken or written, or even only heard! And this thoughtful and pleasurable naming of our streets and roads has been often noticed with approbation by educated tourists and visitors, as well as in works published in England. </p>
+         <p>5. The proposed new-fangled word as a name for a Riding, &amp;c., seems, to me, to savour of the ridiculous—or even lower still, for (1) it is not an English word, there not being any such in our language: (2) it is also not even a word taken from any civilised tongue: (3) it is merely the English word <hi rend="italic">Nowhere</hi> spelled backwards like a witch’s prayers!: (4) and, lastly, it is the mere trifling name of a common modern ephemeral novel! </p>
+         <p>6. Such being the case, I trust the members of the Hawke’s Bay County Council will please bear all that in mind when duly considering the subject; seeing too, that in their doing so, they will be deciding for the <hi rend="italic">future</hi> as much (if not more) than for to-day. Let it not be enquired by a generation to come,— “Whence came such a foolish unmeaning nonsensical name? How widely different to all the names of places both <hi rend="italic">Maori</hi> anil <hi rend="italic">pakeha</hi> around about us! How came it to pass?” </p>
+         <p>7. If it be said,—A change of name is necessary in order to distinguish between Patea interior and Patea west-coast; such can very easily be done (if really required) by adding North or South, East or West, or some such short and fitting distinguishing word to Patea; as obtains already in towns and Road boards here in our own District, viz., Havelock North, Kaikora North, Hastings South; and in many others scattered throughout the colony, as, Palmerston North, Greytown South, Alexandra South, Waiwera South, Waimate North, South Dunedin, South Malvern, Upper Riccarton, Upper Moutere, &amp;c. Moreover, supposing such a change of name to be advisable, as between the two Pateas, I don’t see why we should give up our use of the name, which as the old Maori name, more properly belongs to our Patea: the term on the West Coast is that, of the <hi rend="italic">River</hi> Patea, and not of the land there. </p>
+         <p>8. If a man—the owner, say—chooses to give a queer outlandish name to his Homestead,—as Ratshole, or Toadstool, or the Goose and Gridiron, or the Three Jolly Beggars, or Patshall, or Windwhistle House,—I do not see why we should follow suit (more particularly Grave Councillors), and so be the means of supporting his whim and transmitting down his vagaries to posterity. </p>
+         <p>9. For my part I doubt the absolute correctness of the saying—</p>
+         <p>What’s in a name! that which we call a rose 	<lb/>By any other name would smell as sweet.</p>
+         <p>Rather would I choose to say with Campbell,—</p>
+         <p>Who hath not owned, with rapture-smitten frame, 	<lb/>The power of grace, the magic of a name,</p>
+         <p>And you, yourself, Mr Editor, have not unfreqnently said as much, when you have occasionally come out in your comic vein, with your “Smith, Jones and Robinson” clan, and “a’ o’ that ilk.”—Just try it: banish Tennyson Street for Smith Street, Shakespeare Road for Erewhon Road! <hi rend="italic">Bah!!</hi> 
+               </p>
+         <p>10. Twenty-five years ago I wrote thus, (in my prize Essay “on the Maori races,”)— “Language adheres to the soil, when the lips which spoke it are resolved into dust. Mountains repeat, and rivers murmur, the voices of nations denationalised or extirpated in their own land.” </p>
+         <p>In conclusion: I sincerely hope, that the members of the Hawke’s Bay County Council will keep before them their grave responsibility as elected Cauncillors when considering this subject, and think deeply and well ere they decide:—(1) Whether any radical change of name is really required: and (2) If so, to give the new named Riding a becoming name,—one, that neither they nor their grandchildren may ever be ashamed of.—I am, &amp;c, </p>
+         <p>
+                  <hi rend="smallcaps">					William Colenso</hi>. </p>
+         <p> Napier, June 23, 1888.</p>
+      </body>
+   </text>
+</TEI>

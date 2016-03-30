@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0183">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1896 A Strange Insect. Daily Telegraph 9 March.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1896-03-09">1896 March 9</date>
+               <publisher>
+                  <name type="organisation">Daily Telegraph</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1896 A Strange Insect. <lb/>
+                  </hi>
+                  <hi rend="bold italic"> Daily Telegraph</hi>
+                  <hi rend="bold"> 9 March.</hi>
+               </p>
+      </front>
+      <body>
+         <p>A few days ego one of the runner boys of the Daily Telegraph found upon his coat a strange looking insect between four and five inches long. It was forwarded to the Rev. W. Colenso, F.R.S., and the following letter, in which he has kindly given a description of the insect, will therefore explain itself:— </p>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—On my return from the Bush District last evening, I found here in my house the specimen of a large Orthopterous insect you had kindly sent me for examination, &amp;c. </p>
+         <p>It is a species of <hi rend="italic">Bacillus</hi> (<hi rend="italic">Acanthoderus</hi>) and near <hi rend="italic">B. horridus</hi> (or <hi rend="italic">B. coloreus</hi>, Col.) Without close and microscopical examination I cannot say if it is really distinct from those species of that genus already known and described, seeing, too, that the males of each species differ from the females. In “Transactions N.Z. Institute,” vol. XVII., pp. 151-155, I have described four new species (besides others in other volumes), and all of course in papers originally read here at our branch-Institute meetings; and I have still remaining other specimens undescribed—through want of time. </p>
+         <p>These insects, commonly known as the “<hi rend="italic">Stick Insect</hi>” are common in the Bush woods, on trees and shrubs. Some of the species attain to a large size, 6 and 7 inches long, and are very prickly. This one you sent me, a female, measures 4½  inches (body and head) in length; but has nothing striking about it. I have kept them alive sometime feeding them with green leaves; and the female insect has laid 54 eggs, small and curiously shaped and marked, and even engraved! and the young fry have also been hatched here under glass, (see the vol. “<hi rend="italic">Transactions</hi>” referred to p. 162, for a minute description.) This specimen of yours has also laid 3 eggs in the box in which it was confined.—I am, &amp;c., </p>
+         <p rend="end">
+                  <hi rend="smallcaps">W. Colenso</hi>.</p>
+         <p>Napier, March 7<hi rend="sup ">th</hi>, 1896</p>
+      </body>
+   </text>
+</TEI>

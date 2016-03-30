@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0760">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1890 December 25: to Taylor White</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Papers-11282.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75006/">Taylor White</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1890-12-25">1890 December 25</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1890 December 25: to Taylor White<note xml:id="ftn3-501" place="foot" n="501"> ATL MS-Papers-11282.</note>
+         </p>
+      </front>
+      <body>
+         <p>(copy)</p>
+         <p rend="end">Napier, Decr. 25, 1890.</p>
+         <p>Taylor White, Esq.,<lb/>Wimbledon.</p>
+         <p>Dear Sir</p>
+         <p>Your note of the 18<hi rend="sup ">th</hi>. inst. reached me here just as I had returned from Dannevirke, where I had been some time sojourning: writing (as you remark) at this time, I would reciprocate your kind wishes, and sincerely wish you all the compliments of the Season.—</p>
+         <p>Re your enquiry as to the meaning of the word, “Mokokuri,”—I have but little to say (in a note)—it means,—an inferior or commoner or courser or less-elaborate kind of face tattoo. <hi rend="italic">Kuri </hi>is added, adjectively, to several words in Maori, generally meaning as above—(having nothing to do with the <hi rend="italic">Kuri </hi>= dog,) much indeed like our English use of the term <hi rend="italic">horse</hi>—as in horse-chestnut, horse-mint, horse mussel, horse-mackeral, horse-laugh, &amp;c.</p>
+         <p>From your note I gather, you are going to write <hi rend="italic">again</hi> on the Maori Dog. I fear I shall run the risk of displeasing you in saying,— “think twice before you do so,”—or you will greatly err. At all events <hi rend="italic">first </hi>read my exhaustive paper on that subject, in vol. x. Trans.N.Z. Inst.—</p>
+         <p>Sir G. Grey, and Dr. (now Sir James) Hector made, years ago, similar mistakes, as, I believe, you have done.</p>
+         <p>I hope you are keeping well. I am not very well just now, and so am solitary at home, and thus writing <hi rend="italic">this night </hi>to you, to be in time for your mail leaving here on 29<hi rend="sup ">th</hi>. I expect to leave again for the Bush about the 10<hi rend="sup ">th</hi>. of Jany.</p>
+         <p>I am, yours truly</p>
+         <p>(signed) W. Colenso</p>
+      </body>
+   </text>
+</TEI>

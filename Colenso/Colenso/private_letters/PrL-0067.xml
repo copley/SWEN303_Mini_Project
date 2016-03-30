@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0067">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: Date?: to Dixon &amp; Co.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 80-038 George Petersen papers: Colenso’s rough copy. This is an undated fragment, but would appear to have been written in late 1847.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+            <correspAction type="received">
+               <name type="organisation" key="http://wtap.vuw.ac.nz/eats/entity/72324/">Dixon &amp; Co.</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1847">1847</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>Date?: to Dixon &amp; Co.<note xml:id="ftn1-74" place="foot" n="74">ATL 80-038 George Petersen papers: Colenso’s rough copy. This is an undated fragment, but would appear to have been written in late 1847.</note>
+         </p>
+      </front>
+      <body>
+         <p>The order marked <hi rend="bold">A</hi> will I hope be met with the balance of ₤50. Bill enclosed, </p>
+         <p>The order marked <hi rend="bold">B</hi> is <hi rend="italic">conditional</hi>; you will please to execute this <hi rend="italic">if</hi> a friend of mine, Mr. O. Browne, (of St. Peter’s Chambers, Cornhill,) should call upon you &amp; pay you ₤23. 9. 9. on my a/c. I have written to him by this oppory. requesting him to do so. <hi rend="italic">But do not apply to him for the same</hi>.—It is possible he may pay the amt. into the C.M.S., <hi rend="italic">if so</hi>, you can receive the same from Rev H V upon my a/c.—</p>
+         <p>I wish to know the prices of a good stout rocking horse, wh. wod. carry a child of 4–8 yrs. of age.—of good strong plain Kidderm. or Brussels Carpet pr. yd—of the Cocoa-nut fib. matting., togr. with width, &amp;c,—as I think this latter matg. peculiarly suited for N.Z.—and of a useful Magic Lantern with a variety of slidg. glasses of good <hi rend="italic">natural</hi> (not <hi rend="italic">foolish</hi> comic) figures. A few <hi rend="italic">good </hi>(<hi rend="underline italic">design</hi>) Scriptural Prints or Lithographs colored—6d, 8d or 1/- ea.—I am desirous of for Natives—say 20/- worth. I do not like those published by Roake &amp; Varty—unless they have been <hi rend="italic">greatly</hi>
+            <hi rend="italic">improved</hi>. In Teggs cat. of prints &amp; drawgs for 1843, p.5. there are 13 mentd. @ 8/- pr doz. cold. &amp; at p.2. 13 sorts heads of dogs coloured 4/- pr doz: are these good? If so, send them. I have more than once purchased Books of Tegg at the wholesale price.</p>
+         <p>Could you not procure me copies of the mags.—Blackwoods, Frazers, &amp; others—and of the Qy. Review—3 or six months after pub. at a very low price? I have seen upwards of a 100 copies of Blkwood exposed for sale at Well. at 4d. ea. I shod. not object to 2<hi rend="sup ">nd</hi>. hand ones.—</p>
+         <p>Whenever a Paper of the day should contain any very <hi rend="italic">particular</hi> news, always post me a no. via Wellington &amp; chge. to my a/c. </p>
+         <p>Never send me any goods or Letters by any other route than Wellington.—Do not put up any parcel for me (when not sendg. direct) in any other person’s goods than those of Archd. W.W. Mr. Hamlin or Mr Baker.</p>
+         <p>We were chgd. &amp; made to pay for loss of anchor cable &amp;c of “Madras”—wh. I think is unfair having already pd. Insurance <hi rend="italic">to N.Z.</hi> The whole expenses paid <hi rend="italic">here</hi> upon <hi rend="italic">that</hi>
+            <hi rend="italic">lot</hi> of goods (inclug. Customs, landing at W., reshippg. share for loss of anchor &amp;c, freight to Ahuriri, &amp;c) amontd. to upwards of ₤14.—and the few articles pr Gypsey will be about the same! do not in future divide an order—it is far better to wait a while.—</p>
+         <p>The goods pr. Gypsey were stored at Auckland thence shipped to Turanga—there stored at a whaler’s—thence reshipped for this place &amp; conveyed to Wellington thence back to Turanga &amp; again stored &amp;, at last, again shipped for Ahuriri! There is four times the risk bet. this &amp; Wel. &amp; six times bet. this &amp; Auckland, that there is bet. either of those ports &amp; England.</p>
+         <p>Whenr. you are abt. to send off goods—please let</p>
+         <p>       CMS.</p>
+         <p>       Sir JW Hooker</p>
+         <p>Mr. O Browne</p>
+         <p>Mr. S.M. Colenso, West Street, Penz.</p>
+         <p>Mr. N. Broughton, Tootg. Com.</p>
+         <p> know of yr. being abt. to do so.</p>
+         <p>When you send yr. goods—Just send the Inv. pr. post &amp; enclose the Dup. Invoice either in the first or last no. of passage. This will be quan. suff. For Postages &amp; inland Conveyances are always uncertain and <hi rend="italic">very heavy</hi>—a Letter may cost me 4/- or more, &amp; after all be useless. Some of yr. <hi rend="underline italic">old</hi>
+            <hi rend="italic"> Letters</hi> only came to hand last week.</p>
+         <p>I do not think the oiled Calico of much use.</p>
+         <p>We do not find any Catalogue, or List of any kind in our packages: I think such should be forwarded from the difft. Tradesmen with whom you deal. As there are sevl. useful things of wh. we are in total ignorance.</p>
+         <p>Some of my remarks are fully acquiesced in by Archdn. W.W. &amp; others. Dean’s Catalogue of Mills &amp; Ironwork wod. be party. useful9.</p>
+         <p>I wrote to Mr. Coates (and subsy. to Rev. H.Venn) to procure &amp; send me some Maps, a Copy of Josephus, &amp;c.,—please ascertain if those have been sent or not. If not, &amp; Mr. Venn will kindly adv. you the money, please to procure them as stated in my Letter to Mr. C. I have also written to Mr. Northover to procure &amp; send me a few Books, &amp;c,—please, enquire whether he recd. my Line &amp; sent them on or not.</p>
+         <p>I have yet to thank you for the <hi rend="italic">Lot </hi>of little Books so very kindly sent—and for the Newspapers—and, also, for your recg. &amp; nicely packg. all the various parcels with wh. you have been troubled. Unfortunately I have no whites near me to whom your generous Don. of Loan Liby Books can be of service, and my own children are much too young to be at present benefitted thereby. I shall, howr. carefully store them—for future use.</p>
+         <p>
+            <hi rend="italic">[Ends here]</hi>
+         </p>
+      </body>
+  </text>
+</TEI>

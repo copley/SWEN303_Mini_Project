@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0011">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1853 January 10: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1012327</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1853-01-10">1853 January 10</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1853 January 10 McLean to Colenso (#1012327) </p>
+		</front>
+		<body>
+			<p>Te Ongaonga </p>
+			<p>January 10th. 53 </p>
+			<p>My dear Sir,  </p>
+			<p>I shall be glad if you can come this far tomorrow forenoon that the case of assault complained of by Wi Tipuna may be adjusted. I do not think the case will delay you very long and I regret exceedingly having occasion to request your attendance at a time when you have lost your comfortable house; at which I have received so many kind attentions, but I feel assured that you will feel sensible that nothing but a sense of duty would induce me at a time like this present to solicit your attendance. </p>
+			<p>Yours very truly </p>
+			<p>Donald McLean. </p>
+			<!--Object #1015124 “Native deed, Missionary station, Waitangi” bears the same date: it is Wiremu Tipuna’s official complaint of assault against Colenso.-->
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0105">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1851 March 14: to Eyre</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0489; appendix to Journals. Annotated “Copy of a private Letter to Lieut. Governor Eyre: which is now made here in consequence of his having shewn the same to the Bishop.”</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/70244/">Waitangi</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/72439/">Eyre</name>
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/3619/">Wellington</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1851-03-14">1851 March 14</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1851 March 14: to Eyre<note xml:id="ftn1-151" place="foot" n="151">ATL qMS-0489; appendix to Journals. Annotated “Copy of a <hi rend="italic">private</hi> Letter to Lieut. Governor Eyre: which is now made here in consequence of his having shewn the same to the Bishop.”</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Church Mission Station,</p>
+         <p rend="end">Waitangi, March 14, 1851.</p>
+         <p>To Lieut. Govr. Eyre,</p>
+         <p>&amp;c &amp;c &amp;c</p>
+         <p>Government House,</p>
+         <p>Wellington.</p>
+         <p>My dear Sir,</p>
+         <p>The kindness which I have ever experienced from you induces me to venture to intrude upon your valuable time with a few novel thoughts of my own.—More particularly so, that you are, in a measure, an innocent cause thereof; and you have already recorded congenerous opinions of your own.—</p>
+         <p>You will remember, that, in 1848, you kindly presented me with a copy of your Journey in Central Australia; from having very little spare time, (in fact, I may truly say, none,) I never till very lately read your work, although I had casually looked into it. I was, however, led to peruse it closely, in consequence of having had lent me a copy of Major Mitchell’s three Expeditions into Eastern Australia, which contained the affecting narrative of the sad loss of Richard Cunningham, the brother of my deceased friend Allan—both N. Zealand Botanists. I mention this, because it was this circumstance which led me to dip into Mitchell’s work; but before I had finished it the situation of the Natives of Australia (and particularly of those dwelling on the Rivers Murray &amp; Darling and their larger tributaries,) completely engrossed my attention. I now took up your work, and that completed what the other had begun—kindled a burning desire within me, to go to those poor castaways dwelling in those wild &amp; unfrequented districts. Strange as it may at first sight appear, I, who but a short time ago, had thought and hoped that I had well-nigh done with wandering about and heavy pioneering toil, feel now, my dear Sir, much as I did when I landed in New Zealand—quite willing to resign all to go and preach Christ to those despised and ill-used aborigines.</p>
+         <p>Of course, I can not have yet formed any definite plan; in fact, I am not quite sure whether in going thither I should be in the path of duty; but I pray for guidance, and write to you (first) and to others for advice.—Assistance, should I eventually go, I want none. Some such ideas as the following have presented themselves within my mind, and are, at present, very favourite ones with me.—To go thither, (i.e. to the Tribes inhabiting the Country from about Lake Victoria to the junction of the River Gwydir,) and to take four faithful &amp; useful Chistian New-Zealanders with me, (supposing I should succeed in getting them). I should leave for 2 years certain, during which I should live as much as possible like those Natives; I should take no property whatever with me—nothing, save a Bible, a knife, and a tomahawk, and, perhaps, a few seeds; so that there could never be any inducement to rob or kill. I should, from the very beginning, go quietly and strictly incog., and I would try (for their souls’ sake) to eat only their food, and roam about continually with them. At the end of 6 months, 2 of my 4 New-Zealanders should be at liberty to return if they please, and the other 2 at the end of another 6 months. And if, at the end of 2 years, I saw no hopes of succeeding, then, as a last resource, I would return to N. Zealand, bringing with me as many boys as I could prevail upon the parents and Chiefs to let me have; whom I would hope to instruct here in New Zealand, and further hope, in due time, to return as Evangelists to their native land and people. I should not, however, omit stating, that my belief for many years has been, that some such plan as this, which I have here very imperfectly and briefly sketched, is absolutely needful in order to bring such a peculiarly wandering race to an acquaintance with the saving truths of the Gospel. Nor can I believe, that those Missionaries at Encounter Bay, Adelaide, Swan River, and elsewhere, will ever meet with much better success than did our unfortunate Mission at Wellington Valley, unless they adopt some such plan as this:—in short, to such persons is, I think, the promise of our Lord (Luke xviii. 29, 30,) peculiarly made;—such were the means used by the Apostles (1 Cor. ix. 19, 21, 22,) and those other holy Missionaries of the primitive ages, and their success was answerable to their faith. In a word, my dear Sir, if it be of <hi rend="smallcaps">God, He</hi> will assuredly bring it to pass; <hi rend="smallcaps">He</hi> will enable me for that peculiar work to which <hi rend="smallcaps">He</hi> may call me; <hi rend="smallcaps">He</hi> will give me the language of that people also, and favour in their sight—and open their understandings—and give them to know themselves—and own my labors,—and make known also to them the unsearchable and wholly suitable riches of His Son. I see no obstacle save one—my own unfitness—but this <hi rend="smallcaps">He</hi> can also remove, or remedy:—(Jer. i. 6–9.) When the Bishop sent me to this District, he exacted from me the pledge—not to leave his Diocese for 7 years. I have nearly fulfilled that period, and have kept my word. And, without doubt, a 100 persons might be found willing enough to take charge of such a post as this now is, ere one could be met with willing to go forth in that manner and to that people.—I, myself, would have shrunk from it only a year ago. But I must refrain from saying any thing more at present, lest you should be weary with so much upon one subject. My heart, however, is full; and hence it is that I speak.—Pray give me, my dear Sir, your counsel &amp; advice in this matter, for you have lived among those Tribes, and have been respected by and loved them; and, if you have any work upon the Grammar, Language, Religion, Habits, &amp;c., of that people, may I be allowed to request the loan of such? Mr. Cole, who has appointed the 27th. of April for our meeting at Wairarapa, will, I am sure, bring it me.—</p>
+         <p>I trust, no one will entertain any such opinion as, that I seek to wander in those little-known regions through desire of exploration, or love of Botany. Far, very far indeed, are any such thoughts from my mind. To attempt such objects in such a way could only arise from the deepest infatuation. In conversing upon that matter with Mrs. Colenso, she immediately &amp; willingly consented to remain here, with our 2 children, to keep up the Station &amp; Schools during my proposed 2 years of absence.—</p>
+         <p>During the last month I have been very busy; having Baptized 106 adults, all from this immediate neighbourhood. Many of them are very aged persons, consequently not a great number (35) could read. All had, however, been Candidates for several years; nearly half of them from /45, &amp; /46. Among them are the elder sons and wives of the principal Chiefs.—</p>
+         <p>It is now certainly very late to congratulate you upon your Marriage, but as this is my first since that important event—and as our ancient though homely saw has it, “Better late than never”—I may perhaps be allowed to do so.—May your happiness in each others society be reciprocal &amp; continually increasing, and may you have grace from on high daily vouchsafed to enable you both to bear and forebear.—</p>
+         <p>If you please, my dear Sir, make my very best respects to your Lady—and, Believe me,</p>
+         <p>                       Ever faithfully yours,</p>
+         <p>                               William Colenso.</p>
+         <p>                       (True copy.)</p>
+      </body>
+  </text>
+</TEI>

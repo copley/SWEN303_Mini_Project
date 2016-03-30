@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0952">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1895 December 17: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0498.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1895-12-17">1895 December 17</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1895 December 17: to Harding<note xml:id="ftn3-766" place="foot" n="766"> ATL qMS-0498.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Decr. 17<hi rend="sup ">th</hi>. 1895.</p>
+         <p>Dear Mr Harding</p>
+         <p>I must preface this note, by saying—It is an <hi rend="italic">extra one</hi>, owing to approaching Xn. Season and wishing to be in time, and having written to several other Paterfams. both far &amp; near!—–</p>
+         <p>
+            <hi rend="italic">Imprimis</hi>—to send you the enclosed £1. for your children. You must <hi rend="italic">carve </hi>the fowl,—all cannot each have a wing: and Namesake, for <hi rend="italic">the time being</hi>, will be content—I ween.—</p>
+         <p>Right glad to have such a <hi rend="italic">good account </hi>of Hector: I had been venturing to suppose he was getting <hi rend="italic">quite round</hi>, from your long silence respecting him.</p>
+         <p>I sent you a paper containing my letter to “Herald” on “Bees”,<note xml:id="ftn3-767" place="foot" n="767"> Introduction of bees. <hi rend="italic">Hawke’s Bay Herald</hi> 10 December 1895.</note> and I had made for you the enclosed clipping <hi rend="italic">re </hi>our pragmatic “<hi rend="italic">Correspdt.</hi>” but omitted it! He has since come out, in his <hi rend="italic">usual </hi>way, admitting in <hi rend="italic">part </hi>his error, but endeavouring to throw blame on Baker—formerly Chf. Surveyor, &amp;c.</p>
+         <p>Your excellent letter of 8<hi rend="sup ">th</hi>. I duly recd. &amp; thank you for it. I shall miss your <hi rend="italic">Graphic </hi>&amp; Interesting accounts of your Wgn.<hi rend="italic"> Seances.</hi>
+         </p>
+         <p>A fortnight ago (nearly so) a <hi rend="italic">wire </hi>from Gore to our Hony. Secy. <hi rend="italic">re </hi>one of my papers (on Post Offices)— “Was it sent?” Reply, “Yes, with offl. letter giving names &amp;c of all the Papers”. Since then, no. 2 from Gore (a letter <hi rend="italic">this time</hi>) “Such papers never received”!! (all this from Hill; who is—well, <hi rend="italic">wild </hi>re same, fearing a screw loose somewhere—D., it appears has <hi rend="italic">not kept </hi>a copy of his letter sent w. papers!). And now I am asked— “Did I leave that paper the night it was read?” You have that wretched abortion, yclept <hi rend="italic">Report </hi>of last year! in which there are not a few <hi rend="italic">mistakes</hi>.</p>
+         <p>A long &amp; excellent letter to hand from Dr. Hocken—again! begging me to visit Dunedin, &amp;c, &amp;c. (<hi rend="underline italic">No use</hi>!)</p>
+         <p>I got Hill <hi rend="italic">here</hi>, last week for an hour, but then I did <hi rend="italic">not finish all </hi>I (or we) had to say. On 3<hi rend="sup ">rd</hi> instant I went thither by ’Bus. (6d. fare to Bungalow) &amp; returned at x, foot, Hill coming w. me to P.O. I enjoyed my visit, <hi rend="italic">first outing </hi>since May last, but even, there, <hi rend="italic">again</hi> broken in on by visitors! This aftn. I wrote to him saying—<hi rend="italic">be sure </hi>to be <hi rend="italic">clear of any engagement </hi>out of N., first Monday in Feby—Annual Mtg. H.B.Ph.I.; and now, to night, to my horror! I find in “D.T.” that H. has got from Ed. Bd. 2 months holiday to visit Australia. This (as I view it) will tend to seal the fate of our Society—Museum, &amp;c.—Large (Diotrephes-like) will rule. Of Pinckney, as <hi rend="italic">V.P.</hi>, I have little esteem. Last wk. <hi rend="italic">almost </hi>a terrible explosion! High Sch. Annl. Meeting: Py. brought forward several grave charges against his Principal (Wood) which Py. had been collecting &amp; salting during 6 years! all heard w. closed doors, &amp; theref. we in dark—but a kind of admonition is the result, <hi rend="italic">re </hi>future of exams. The public are <hi rend="italic">not </hi>satisfied: I think Py. should leave—I do not see how it is poss. to keep both.</p>
+         <p>I thank you for your good advice <hi rend="italic">re </hi>Books, spns., &amp;c, &amp;c,—am still unsettled, <hi rend="underline italic">very</hi>: always <hi rend="italic">putting off </hi>the doing: maybe I shall be <hi rend="italic">caught at last </hi>by the flowing tide! I would I could see them (Books &amp; Papers) <hi rend="italic">fairly </hi>
+            <hi rend="underline italic">settled</hi>. Dr. H. <hi rend="italic">also </hi>gives <hi rend="italic">good advice</hi>: I am as the ass ’tween 2 bundles hay.</p>
+         <p>Among the books to hand from House by late mail, is a new work by Voysey (pubd. Septr.) &amp; <hi rend="italic">from him</hi>! “Theism as a science,” &amp;c. Why he should send <hi rend="italic">me </hi>a copy I don’t know. Did <hi rend="italic">you </hi>hear him at Wgn during last summer? I did <hi rend="italic">not </hi>here.—</p>
+         <p>With you, I regret Luke not being returned as Mayor: no doubt, that telephone job caused the mischief. Angus McKay is <hi rend="italic">ousted</hi> at Dvk. at which I am <hi rend="italic">not sorry</hi>, as Angus was “getting too big for his boots”:—a com. failing—as here w. Swan.</p>
+         <p>And so <hi rend="italic">Smith </hi>is in at last!—well he may do good service in the Leg. Cl. I have not yet heard anything from Govt. Printer <hi rend="italic">re </hi>Lexicon. </p>
+         <p>You mention Works of “Apostol. Fathers”, &amp; several pseudoGospels, &amp;c &amp;c—I have a <hi rend="underline italic">lot</hi>—&amp; with them many other curious books I should greatly like <hi rend="italic">you </hi>to see.—</p>
+         <p>Last Sunday I assisted the Dean at the Cathedral: mg. S., H.C.—I was struck w. the no. of young Maori women at C.S., and could not help thinking some were <hi rend="italic">descendants </hi>of those I had been enabled to bring over from Heathensim, 40–50 yrs. ago: at evg. S. I read the Lessons—but what a grand Congn.!! building <hi rend="italic">filled </hi>choir about 50! the D. <hi rend="italic">preached </hi>an excellent practical thoughtful Xn. Sn. The Sunday <hi rend="italic">before</hi>, I had S. in evg. at St. Augustine’s—Welsh being unwell.</p>
+         <p>I <hi rend="italic">have been </hi>keeping very well, but <hi rend="italic">yesty</hi>. (16<hi rend="sup ">th</hi>) much out of order, &amp; so again today, (<hi rend="italic">general</hi> pains w. Diarrh.)</p>
+         <p>I hope this may find you &amp; yours all “<hi rend="underline italic">right well &amp; hearty</hi>!” and wishing you (all) the <hi rend="italic">good old solid </hi>wishes of our Forefathers at these <hi rend="italic">two </hi>approaching seasons, and with kindest regards           Believe me</p>
+         <p>                                           Yours truly                     W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

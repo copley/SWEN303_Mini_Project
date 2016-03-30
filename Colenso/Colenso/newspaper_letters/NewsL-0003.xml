@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0003">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1857 To the editor. Hawke’s Bay Herald 10 November.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1857-11-10">1857 November 10</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1857-11-02">1857 November 2</date>
+        <name type="place">Waitangi</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1857 To the editor.     <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald</hi>
+        <hi rend="bold"> 10 November.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—In your Supplement of the 24th ult. (only this evening to hand), I note what you say concerning “an effort which is being made to establish a Wesleyan Chapel in Napier, &amp;c.” </p>
+      <p>Allow me to add, that, if such is, or should prove to be, the general wish of the inhabitants of Napier and its vicinity, I too shall be right glad in the same being both heartily and speedily carried out. </p>
+      <p>But, if, as I hope, something less denominational, and (consequently) more Christian, would both suit their wants and be quickly effected; I, for one, would willingly aid it. </p>
+      <p>I would, therefore, propose to my fellow settlers residing at Napier and, indeed, generally throughout the District, (who might, it is to be hoped, all be benefitted thereby,) the speedy erection of a suitable Building for Divine Worship, upon the following simple and Catholic plan:—</p>
+      <p>1st., That it be wholly un-sectarian, and therefore free for any Christian Minister:—</p>
+      <p>2nd., That it be equally free to be used as a Lecture-Room for Useful Knowledge on Week-days, or Week-day Evenings:—</p>
+      <p>3rd., That Admission be free:—and, </p>
+      <p>4th., That the whole be under the super-vision of a Committee of — persons; to be chosen by ballot from among the Subscribers and regular Congregation every six months. </p>
+      <p>In furtherance of which I would be happy to give a building site at Napier, and also a subscription of £50, pledging myself to collect a second £50, should the expenses not exceed £250; and, should the Building Expenses amount to £400, I would then give both the site and £100 towards it. </p>
+      <p>I would also offer my own Personal Services, <hi rend="italic">gratuitously</hi>, during the first year; <hi rend="italic">i.e.</hi> to preach (d.v.) twice on the Sunday, and (if desired,) once a week on some weekday evening; or, assist any other Minister whom they might select:—and also, take upon me to give a Scientific Lecture once a month throughout the same year. </p>
+      <p>As the Clergyman Episcopally ordained to, and, therefore, (speaking Ecclesiastically,) as the Clergyman of the Ahuriri, (although I regret to say, now for 5 years suspended from duty, during which long time, however, I have continued to hope I should yet be saved any approach towards (“<hi rend="italic">Irregularity</hi>”) I cannot but deem it my duty (however painful,)—under existing circumstances—thus to address, through your ready aid, my fellow-Christians and fellow-Settlers of Napier and the District. </p>
+      <p>               I am,</p>
+      <p>                 Sir,</p>
+      <p>                       Very faithfully yours,</p>
+      <p>
+        <hi rend="smallcaps">William Colenso. </hi>
+      </p>
+      <p>Waitangi, Napier, Nov. 2, 1857.</p>
+    </body>
+  </text>
+</TEI>

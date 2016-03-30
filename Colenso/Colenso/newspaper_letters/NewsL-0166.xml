@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0166">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1893 The Moreton Gallery Daily Telegraph 10 April</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1893-04-10">1893 April 10</date>
+          <publisher>
+            <name type="organisation">Daily Telegraph</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1893-04-07">1893 April 7</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1893 The Moreton Gallery<lb/>
+        </hi>
+        <hi rend="bold italic">Daily Telegraph </hi>
+        <hi rend="bold">10 April</hi>
+      </p>
+    </front>
+    <body>
+      <p>The following letter has been addressed by the Rev. W. Colenso, F.R.S., to Mr. S.H. Moreton, in  reference to that artist’s gallery of pictures</p>
+      <p rend="end">Napier, April 7<hi rend="sup ">th</hi>, 1893.</p>
+      <p>
+      <hi rend="smallcaps">Mr. S.H. Moreton</hi>, A.S.A.<lb/>Napier.</p>
+      <p>Dear Sir,—I was very greatly pleased on Wednesday last in reviewing your admirable works, and I hope to revisit your gallery at an early date, for having had some <hi rend="italic">small </hi>experience in the ’30’s and early ’40’s in your special lines (as shown by your <hi rend="italic">drawings </hi>and by your <hi rend="italic">roughing it </hi>in the wild and uninhabited spots of this land), I can, perhaps, the more fully appreciate your labours.</p>
+      <p>But it has occurred to me since leaving your exhibition and looking into your catalogue of pictures, that you may have some difficulty in making up the total number required, at the low charge of only one shilling each, to enable you to dispose of them according to terms of art union, and therefore I write to you now.</p>
+      <p>To aid thereinI will take, say, fifty tickets, but only conditional, viz.: If you can obtain the number required <hi rend="italic">without </hi>my fifty, then I would withdraw my offer, as I do not wish to appear greedy in the matter.</p>
+      <p>If a word from me would have any weight with the professed lovers of Nature’s grand and sublime Alpine scenery, so faithfully depicted by your ready and masterly pencil, and with the encouragers of high art, so little known and less estimated among us, I would say to all such—especially those resident in the country towns and districts—<hi rend="italic">do not fail to see this show</hi>: it will repay you, and give to many of you wonderful and magnificent, new and truthful ideas.</p>
+      <p>Heartily wishing you all success, and thanking you for visiting Napier,</p>
+      <p>I am, Dear Sir,</p>
+      <p>Yours sincerely,</p>
+      <p>W. Colenso, F.R.S.</p>
+      <p>P.S. You can mnake any use you please of this note,—W.C.</p>
+    </body>
+  </text>
+</TEI>

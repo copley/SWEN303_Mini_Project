@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0993">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1897 April 8 to Harding via H. Burnett</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0499.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+      </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1897-04-08"/>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1897 April 8 to Harding via H. Burnett<note xml:id="ftn3-824" place="foot" n="824"> ATL qMS-0499.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Woodville</p>
+         <p rend="end">8 April 1897</p>
+         <p>Dear Sir</p>
+         <p>Mr Colenso has asked me to acknowledge the receipt of your very kind letter of 4<hi rend="sup">th</hi> inst., to thank you also most sincerely for your more than kind offer of service, which was not less gratefully received because it was not necessary to take advantage of it. You will I am sure be glad to hear that Mr Colenso is progressing favourably. He is recovering from the shock and gradually regaining strength. He has been able to leave his bed &amp; sit in an easy chair for some hours yesterday &amp; today. Altogether there seems to be every chance of him making a satisfactory recovery. His spirits are good &amp; his appetite is improving.</p>
+         <p>                 Yours faithfully,</p>
+         <p>                                 Hubert Burnett.</p>
+      </body>
+  </text>
+</TEI>

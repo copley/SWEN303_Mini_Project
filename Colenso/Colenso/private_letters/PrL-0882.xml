@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0882">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1893 September 21: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1893-09-21">1893 September 21</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1893 September 21: to Harding<note xml:id="ftn3-660" place="foot" n="660"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Septr. 21<hi rend="sup ">st</hi>. 1893.</p>
+         <p>Dear Mr Harding</p>
+         <p>Thanks for yr. <hi rend="italic">very kind </hi>letter of 17<hi rend="sup ">th</hi>. (written, too, amid difficulties and <hi rend="italic">troubles</hi>!) I <hi rend="italic">feel </hi>I must write to you to day, to <hi rend="italic">lessen </hi>(if possible) your <hi rend="italic">present </hi>cares—at least <hi rend="italic">re </hi>self &amp; this direction.<lb/>1. I wish to say—<hi rend="underline italic">Do not think of such a thing as reading, &amp;c. “Quatref.” for me: by &amp; by will do</hi>—as I intend, as a matter of course &amp; common courtesy, to send it to Wgn. Sy. to be read there—&amp; <hi rend="italic">that sits late </hi>in season, &amp; Dr. Hector is gone to <hi rend="italic">Adelaide</hi>.<lb/>2.<hi rend="italic">To express </hi>(again) <hi rend="italic">my sympathy w. you </hi>in this repeated weakness, &amp;c, of your dear little son: I had lately heard of <hi rend="italic">his</hi>
+            <hi rend="italic">illness </hi>&amp; <hi rend="italic">your </hi>troubles, &amp; <hi rend="italic">busy </hi>life, from yr. Father w. whom I have been correspg. freqy. of late—the cause—planety. occultation as you may have seen in the papers I have sent you—and <hi rend="italic">I send you another with this</hi>, (D.T.) containing <hi rend="italic">another</hi> letter of mine, on <hi rend="italic">same</hi> subject<note xml:id="ftn3-661" place="foot" n="661"> To the editor. <hi rend="italic">Napier Daily Telegraph</hi> 15 September 1893.</note>—I trust this may find yr. son <hi rend="italic">very much better</hi>. I scarcely need add that your Father &amp; I <hi rend="italic">are one</hi> in the Astronoml. matter: I only wish I could see him often, &amp; that he was not so very deaf.</p>
+         <p>In a packet (?—or roll, “Inland Ptr.” returned) I enclosed a portion of a very ragged wrapper which came to me <hi rend="italic">roughly </hi>rolled round a torn book (pamphlet) <hi rend="italic">no </hi>address visible, &amp; about ½ yard of big dangling cord! I said to my man—this is <hi rend="italic">not </hi>for me!” he replied, “it is for he had asked same qn. through P.Box aperture”: so I opened it, &amp; found it was my no. Linn. Socy’s. Jl. <hi rend="italic">returned </hi>by you, more or less injured &amp; w. blue paper cover torn off! I assure you I was—well, <hi rend="italic">wild</hi>: (1) w. P.O., and (2) w. <hi rend="underline italic">you</hi>! for <hi rend="italic">retg. </hi>it, <hi rend="underline italic">singly</hi> (rolled nicely I suppose) but <hi rend="italic">why, </hi>
+            <hi rend="underline italic">at all now</hi>? &amp; <hi rend="italic">not </hi>w. all <hi rend="italic">the rest—</hi>in a <hi rend="italic">flat </hi>parcel—J. White’s book: “Annals Nat. Hy.”, &amp;c—that <hi rend="italic">went togr. to you</hi>: in the pamphlet were those 2 notes from Haast, junr. to Tregear &amp; these I fancy had been seen by the lynx-eyed P.O. offls. looking into the ends and so the unlucky parcel was torn open with an, “Ah! we’ve got you <hi rend="italic">now</hi>!!”—&amp; then, a drum-head courtmartial held, &amp; there being <hi rend="italic">no infringement </hi>of this law, the lot was spitefully rolled up again, <hi rend="underline italic">anyhow</hi> and chucked into my box.—</p>
+         <p>In “<hi rend="italic">Hd.</hi>” this mg. 2 more deaths of old Napier folks: T. Lound, 79: and Mrs. Tylee, in Sydney, &amp; last week Hutton Troutbeck: Sporte, too, of Waipukurau has lost <hi rend="italic">another</hi> son (making 3!) from Diptheria—&amp; his remg. 2 now laid up w. that <hi rend="italic">fell </hi>disorder! <hi rend="smallcaps">God</hi>, in mercy, <hi rend="italic">help </hi>that poor man!!</p>
+         <p>I did <hi rend="italic">not </hi>go to mtg. of our Socy. last Monday—for (1) I knew the Bp. was coming out w. a paper on <hi rend="italic">Mohammed</hi>—&amp; -<hi rend="italic">ism</hi>—and I did not like, <hi rend="italic">either to sit quiet or to controvert</hi>—as I believe M. to have been a prophet (<hi rend="italic">i.e. </hi>teacher) from the one true <hi rend="smallcaps">God</hi>: and (2) Taylor White’s p. was to be <hi rend="italic">read</hi>—and I did not wish to know anything of it, &amp; so I staid away. I had, however, to go to Augustine’s on the Sunday mg. (17<hi rend="sup ">th</hi>.) to hold S. there—at Bp’s. request, Fox having returned to Gisborne, and now, a note to hand from <hi rend="italic">the Dean</hi> requestg. me to take Service<hi rend="underline">s</hi> there on <hi rend="italic">1</hi>
+            <hi rend="sup italic">st</hi>
+            <hi rend="italic">. proxo.</hi>—this sent <hi rend="italic">now</hi>, bec. I purpose going inland on 25<hi rend="sup ">th</hi> (on <hi rend="italic">priv. </hi>business) &amp; shall return on 29<hi rend="sup ">th</hi>., Bradbury not coming to Augustine’s before <hi rend="italic">Novr.</hi>—when I hope to return to Bush District for a season. </p>
+         <p>I will be sure to send you “<hi rend="italic">Fiat Just</hi>.” A letter to hand last nt. from Gore—at request of Dr. Hector before leaving—to tell me, I was <hi rend="italic">right in my supposition </hi>re the <hi rend="italic">piece </hi>of bone of a whale from Interior by Hutchinson—about wh. so much fuss had been made! (a <hi rend="italic">nice kind</hi> L. from Dr. H.) Dinwiddie was at me yesty. for papers for <hi rend="italic">next mtg</hi>. &amp; I have promised 2, Botl. w. spns., &amp;c.—Hill <hi rend="underline italic">remains</hi>
+            <hi rend="italic"> here</hi>! having done himself <hi rend="italic">no good </hi>by his thoughtless (?) escapade. I am well—but <hi rend="italic">not </hi>bright today. <hi rend="underline italic">No ansr. reqd. to this</hi>. </p>
+         <p>Yours ever</p>
+         <p>W. Colenso.</p>
+         <p>P.S. I wod. gladly subsc. to “<hi rend="italic">Inland Ptr.</hi>”—but for <hi rend="underline italic">age</hi>!</p>
+      </body>
+   </text>
+</TEI>

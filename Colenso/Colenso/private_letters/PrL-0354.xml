@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0354">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1878? to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Undated, but content places it here.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1878">1878?</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1878? to Harding<note xml:id="ftn2-306" place="foot" n="306">Undated, but content places it here.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Thursday night</p>
+         <p>Mr. Harding</p>
+         <p>My dear Sir</p>
+         <p>I have to thank you for your <hi rend="italic">kind </hi>attention this mg.—<hi rend="italic">re</hi> quotn. W. Scott. I looked it up—but, while it agrees in the <hi rend="italic">main</hi>—the <hi rend="italic">underlying principle</hi>—it does not so well suit this branch of it—as that Maori <hi rend="italic">party</hi> from the Isle were <hi rend="italic">known</hi>—but <hi rend="underline italic">not then around.</hi>
+         </p>
+         <p>I return proof: corrections are so <hi rend="italic">few</hi>, that I leave them to you.—</p>
+         <p>I send more copy—<hi rend="italic">all</hi>, indeed, of the origl. paper—w. additions: hope to <hi rend="italic">see</hi> more proofs by Saty. night.</p>
+         <p>I was in town this mg. (w. lawyers, sent for!)—but could not call on you: I hurried back (12.15) fearing rain.</p>
+         <p>Cannot yet make up my mind to go inland next week.—</p>
+         <p>Yours faithy.,</p>
+         <p>W. Colenso.</p>
+      </body>
+  </text>
+</TEI>

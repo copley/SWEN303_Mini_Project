@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0329">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1876 November 2: to McLean</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Object #1007495 from MS-Papers-0032-0222.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1876-11-02">1876 November 2</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1876 November 2: to McLean<note xml:id="ftn2-274" place="foot" n="274"> ATL Object #1007495 from MS-Papers-0032-0222.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier</p>
+         <p rend="end">November 2/76</p>
+         <p>My Dear Sir Donald McLean</p>
+         <p>I very much wish to write you a few lines, and I feel that I must <hi rend="italic">not </hi>allow the “Rangatira” to return this afternoon to Wellington without my doing so. For I have been in town to-day, and I have heard from Locke, how ill you still are, (—who, I think, had seen Mr. Ormond, I have <hi rend="italic">not </hi>seen him yet.) I do not however exactly know how you now are or how this may find you, &amp; though I wish greatly to write, I do not wish to do that which might (in your present weak state) excite you, or retard your recovery.—</p>
+         <p>I have wished to tell you, how <hi rend="italic">thoroughly </hi>I have sympathized with you of late: perhaps (in some peculiar respects) more so than any one else among all your numerous friends and acquaintances. Were you well &amp; in robust health (as of old) you would have had quite enough to bear up against and to battle with in your place in the House. Though (probably) had you been there and well, some of your opponents would not have ventured to go to the lengths they did introducing &amp;c. In reading in the <hi rend="italic">Hansard </hi>the many repeated statements and remarks of your political foes, (including Karaitiana,) I could not help wishing that I, at least, had been there,—to reply, and to acquaint the <hi rend="italic">new </hi>Parliament, (and the, comparatively, strangers to N.Z.,) of a little of <hi rend="italic">the past. </hi>
+         </p>
+         <p>You may recollect how I once stood with those Natives, (not merely in Hawke’s Bay, but Wairarapa, Pov. Bay &amp; the East Coast,)—when you <hi rend="italic">first </hi>travelled this way; and you may also have heard and known how I had laid myself out for them—sacrificing every thing, including my small salary,—and, in later years, nothing cut me more than that base ingratitude of theirs! which, of course, I had more or less always painfully witnessed,—and which caused me feelingly to quote in my Essay on the Maoris (N.Z. Instit. Transactions, Vol.I.), those deep-meaning words of Shakespeare:—</p>
+         <p>“Freeze, freeze, thou bitter sky;<lb/>  Thou dost not bite so nigh<lb/>  As benefits forgot;<lb/>Though thou the waters warp,<lb/>  The sting is not so sharp,<lb/>  As friends remembered not.”</p>
+         <p>Where would Karaitiana (&amp; others) have now been but for you and for me? <hi rend="italic">I</hi>, who taught him (and them) in his Savagery—<hi rend="italic">first </hi>his Alphabet, and then (<hi rend="italic">slowly</hi>) to read, write, and cypher, and, finally, Baptized him, his Parents, &amp; his whole tribe!—and you, from whom &amp; through whom, they have already received thousands, and have, with proper care, untold thousands more certain in prospect and in store! I fear, you cannot help feeling this deep base ingratitude of theirs,—which towards <hi rend="italic">you </hi>(as, indeed, it was towards myself,) has been, and is fomented by <hi rend="italic">pakehas</hi>.—</p>
+         <p>I was pleased, however, at one thing:—that your political <hi rend="italic">pakeha </hi>enemies were obliged to allow the <hi rend="italic">great </hi>benefit of the Maori Schools; though, here, too, the Maoris had neither eyes nor heart to perceive and allow of it.—On the other hand, I was grieved to find the vote for the “<hi rend="italic">Waka Maori</hi>” not carried: that, I am sure, is a step wholly in the wrong direction; and I much fear the Govt. will yet find it to be so.—</p>
+         <p>I hear you are thinking of resigning your Office of Native Minister.—I scarcely need tell you that I deeply regret this; and, if your health would allow of your retaining the office, I would beg—implore—you <hi rend="italic">not </hi>to do so. I <hi rend="italic">never </hi>liked the Maoris being in the Parliament, fearing the <hi rend="italic">ultimate </hi>result,—but now that they are there, they can only be fairly met by yourself (and a <hi rend="italic">few </hi>like you)—who <hi rend="italic">knew </hi>them well in the <hi rend="italic">past</hi>, &amp; who knew how to deal with them.—</p>
+         <p>But I must close, for fear of wearying you.—Were you nearer I would go to see you,—and will, even now (overland by coach) <hi rend="italic">if you desire it.</hi>
+         </p>
+         <p>You can, if you please, direct your secretary to write me a few lines,—just to let me know how you are, &amp; whether I may venture on another note to you. I have been unwell some 5–6 weeks, my old foe, Rheumatism; but now, with the warm weather, I am rapidly getting round again.—would that you were also!</p>
+         <p>And now, my dear Sir Donald, in conclusion I would say, and that with a <hi rend="italic">feeling </hi>sorrowing heart,—try and keep up your spirits, and put your trust <hi rend="italic">quietly</hi> &amp; <hi rend="italic">increasingly</hi> in our <hi rend="italic">good</hi> &amp; <hi rend="italic">loving</hi> Father, ever <hi rend="italic">the same</hi> &amp; <hi rend="italic">ever near</hi>.</p>
+         <p>And, with every good wish,</p>
+         <p>     Believe me, Yours sincerely</p>
+         <p>             Wm Colenso.</p>
+      </body>
+   </text>
+</TEI>

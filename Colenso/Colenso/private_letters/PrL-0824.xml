@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0824">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1892 April 7: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1892-04-07">1892 April 7</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1892 April 7: to Harding<note xml:id="ftn3-582" place="foot" n="582"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke, April 7<hi rend="sup ">th</hi>., 1892.</p>
+         <p>Dear Mr Harding</p>
+         <p>Noon-tide meal over—I am determined to write to you: often, indeed, have I thought of doing so of late; but this mg. during a spare hour I cut the leaves of Morris’ poetry (kindly purchd. &amp; sent on by you) &amp; so concluded as above.</p>
+         <p>I believe my last to you was from this place, &amp; more than a month back! Since then, &amp; while laid-up at Napier, yours of 20<hi rend="sup ">th</hi> March came to hand.—which, while I hailed w. pleasure and thankfully read var. items of interest therein, I must tell you greatly disappointed me. I felt it <hi rend="italic">more </hi>
+            <hi rend="underline italic">then</hi>
+            <hi rend="italic"> </hi>than I do now; but I think, yea am sure, I never recd. a letter from you which so disappd. me. And I had very nearly “there &amp; then” written to you to ask you to return me mine to you of the 4<hi rend="sup ">th</hi> March (but <hi rend="italic">to be sent back to you of course</hi>) that I might be satisfied—as to <hi rend="italic">what</hi> I had said: for it seemed to me (like a dream!) that I had written to you in a very friendly &amp; open way, <hi rend="italic">on several important points, </hi>expecting your valued patient and thoughtful replies—which, after all, were <hi rend="italic">nil</hi>! save as regards one of them. I had also <hi rend="italic">deferred </hi>writing that letter, purposely, so as to give you a more full &amp; complete account, &amp;c. However, so it is: &amp; even now I will thank you to let me <hi rend="italic">see that letter</hi>—to settle my <hi rend="italic">scumbled </hi>thoughts <hi rend="italic">re </hi>same.</p>
+         <p>Another item that served to vex me, in your letter, (Though <hi rend="italic">the causative was entirely my own</hi>,) was your long p. after p. rhapsody <hi rend="italic">re </hi>“flagon” &amp; “wagon”, &amp; <hi rend="italic">such like. </hi>Well: one good, <hi rend="italic">to me </hi>at least, shall result therefrom—viz. <hi rend="italic">never more </hi>to touch on that or any kindred subject in a letter <hi rend="italic">to you</hi>: you may even spell leg = legg; and egg = eg, for me—I shall be <hi rend="italic">quiescent</hi>. Have no time, nor inclination, now for <hi rend="italic">such </hi>things: sand in glass <hi rend="italic">too low.</hi>
+         </p>
+         <p>I recd. from Didsy. the vol. of J.Wh., &amp; have pd. him &amp; got receipt. You did not say what I have to pay for Morris—<hi rend="italic">be sure to let me know. </hi>No <hi rend="italic">old </hi>Parly. Papers sent, so I suppose there are none. Could you, some day, <hi rend="italic">ascertain </hi>if Appx. to H.R. ’61, contains the petition presented <hi rend="italic">against </hi>Renata—from Catchpool, P.M. and <hi rend="underline italic">if so</hi>, please tell Dy. to send me a copy of Appx.</p>
+         <p>While at Napier I recd. from Sir J.H. a copy of proof sheets on that Moa P. you heard; &amp; so I have now seen proofs of <hi rend="italic">all </hi>I wrote: some came <hi rend="italic">here</hi> after my last to you. Perhaps these are my last.</p>
+         <p>Before I left Dvk. I wrote a long letter to Capt. Russell, <hi rend="italic">re </hi>a further <hi rend="italic">resumé </hi>of Mao. Lex. matters, but as I had not a copy of the Py.P. you reprinted I took it on to N. to send one with it. Then came the races! ditto Edn. Board Mtg. &amp; again Races, so that I only last wk. got a reply from Capt. R.—who will <hi rend="italic">aid in any </hi>way. But in <hi rend="italic">what form</hi>—I cannot yet decide. Moreover I am here <hi rend="italic">fixed </hi>(D.V.) for “2 or 3 months” to serve Woodville, yet if any one is found by Bp. to be placed there permanently, I shall be free. You may properly enq. “Why dwell <hi rend="italic">here</hi>, if to serve <hi rend="italic">there</hi>? Bec. of the dampness &amp; <hi rend="italic">cold </hi>of <hi rend="italic">Bickerton’s bed-r. &amp; parlour—the sun never shines into them</hi>! while <hi rend="italic">here </hi>my 2 rooms are warm &amp; dry w. <hi rend="italic">sun into them all day. </hi>Lastly, at Wdv. my rooms were like an ice-house—2 raw cold foggy mornings. I saw Mr Luff’s son there, &amp; we had a pleasant 2–3 hours together;—<hi rend="italic">you</hi>, too, were mentioned: &amp;, also, <hi rend="italic">that Map</hi>!!</p>
+         <p>I returned to N. on the 11<hi rend="sup ">th</hi>. ult., <hi rend="italic">well</hi>, but got laid-up <hi rend="italic">on arriving at my house</hi>: &amp; so for a fortnight. Only in the town after that 3 times: Bp. wished me to serve Woodville but could not come away until 1<hi rend="sup ">st</hi>. inst.; meanwhile Lambert from Wairoa, &amp; Webb’s son took Ch. duty there. Canon Webb is removing to Gisborne in Canon Fox’s place.—Your father kindly called on me a fortt. back, he was well &amp; <hi rend="italic">hearty. </hi>Buller I find by L. from him, is off for England. I hope you &amp; yours are well, and am </p>
+         <p>             My dear Sir, Yours as ever, W. Colenso</p>
+         <p>7<hi rend="sup ">th</hi>. VI.30, p.m. Have had no oppory. since writing of sending to P.O. till now, and so I ask a qu. or two.—–</p>
+         <p>Did I send you (clipping, <hi rend="italic">or </hi>paper) Lytton’s posthumous poetry?—</p>
+         <p>Also, a clipping re the Maori word,—Pahiatua?</p>
+         <p>Also, Did I ask, If <hi rend="italic">you </hi>wrote the <hi rend="italic">Review </hi>of the new Insect-book?</p>
+         <p>&amp; also (I <hi rend="italic">think</hi>), some notice <hi rend="italic">re resumé </hi>Mao. Lex.—I have been expecting from you:—<hi rend="italic">i.e.</hi> If you were not too busy and wrote as formerly; perhaps your not being very well was the cause. I hope you are again “<hi rend="italic">all right.</hi>”</p>
+         <p>The man employed here goes to P.O. for letters <hi rend="italic">twice </hi>a day—at 2, and at VII.30, p.m. so that letters &amp;c by the “Express” train from Napier arriving here about III must remain until VIII or so! the distance <hi rend="italic">now</hi>, is such a long way round, thro <hi rend="italic">mire</hi>, &amp; facing Sy. winds that I don’t attempt it. W.C.</p>
+         <p>“The Earl of Onslow has had his infant son Christened Huia, after the sacred bird of one of the Maori tribes.” (<hi rend="italic">sic</hi>) “The name will have to degenerate into “Hughie” if the youngster desires to preserve his peace of mind at a Board School.”</p>
+         <p rend="end">“Glasgow Weekly Herald,”<lb/>Novr. 21, 1891.</p>
+         <p>[This p. seems a <hi rend="italic">very good </hi>one—such a lot of news, and of <hi rend="italic">good </hi>reading too: much pleased in finding some <hi rend="italic">teetotallers </hi>advocating and carrying the use (under med. direction) of alcohol in workhouses, &amp;c—and an excellent art. on it by the Editor—w. true <hi rend="italic">Scottish </hi>feeling!]</p>
+         <p>I got S. Johnston, Waipawa, to give me the enclosed: it is a pretty little instrument.</p>
+         <p>P.S. In Herald today a letter of mine re “Adventists.” W.C.</p>
+      </body>
+   </text>
+</TEI>

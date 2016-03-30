@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0585">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1884 December 22: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">D. P. Balfour</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1884-12-22">1884 December 22</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1884 December 22: to Balfour<note xml:id="ftn3-279" place="foot" n="279">ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Dec 22<hi rend="sup">nd</hi> 1834 (Monday)</p>
+         <p>Mr D.P. Balfour</p>
+         <p>My dear Sir.</p>
+         <p>Your welcome letter of the 14th I duly received (night of <hi rend="italic">6</hi>th) but I could not <hi rend="italic">well</hi> ansr it by the mail to you of the following day; and now I commence <hi rend="italic">rather early</hi> (having been in town all mg &amp; believing I shall have more visitors tonight).</p>
+         <p>
+            <hi rend="italic">First</hi>—I was sorry to hear of your visit from Rheumatism (lumbago), knowing too well what it is. I hope you have long ago become “all right” again; sometimes it (or he) is <hi rend="italic">obstinate</hi> &amp; will not quit holding possessn.­ 3–5 weeks!!—.</p>
+         <p>
+            <hi rend="italic">Second</hi>—Thanks for your spns, those of Moss not much, if any service, as we need <hi rend="italic">both</hi> their “night caps” &amp; their day caps; (in strict Bot language, their calystra, &amp; operculum:—the <hi rend="italic">C</hi> is always outside and thus</p>
+         <p>
+            <figure>
+               <graphic url="Pictures/10000000000000760000007E0759B751.png"/>
+            </figure>
+         </p>
+         <p>—the <hi rend="italic">O</hi> is beneath (as a cover, or lid) thus</p>
+         <p>
+            <figure>
+               <graphic url="Pictures/100000000000006900000071FBBEF3DF.png"/>
+            </figure>
+         </p>
+         <p>—the little top bit, but these you will not, I expect, find before next winter.—I am pleased at your finding that <hi rend="italic">Pterostylis</hi> with tails <hi rend="italic">reflexed</hi>—just as mine here was.<note xml:id="ftn3-280" place="foot" n="280">
+               <hi rend="italic">Pterostylis patens</hi> Col.</note>
+         </p>
+         <p>
+            <hi rend="italic">Third</hi>—As the “long-stalked Orchis”,—I fancy you will not find that in flower before <hi rend="italic">Autumn</hi>.<note xml:id="ftn3-281" place="foot" n="281">
+               <hi rend="italic">Prasophyllum variegatum</hi> Col. = <hi rend="italic">Corunastylis nuda</hi>.</note> I have now before me the 2 spns you (I think) sent me last season, and <hi rend="italic">very late</hi>—just past flowering. Their stems are very slender, &amp; quite one foot long, one with five <hi rend="italic">small</hi> flowers at top, and the other with only 2, and a little <hi rend="italic">½ inch</hi> leaf just below them. There is a <hi rend="italic">common</hi> green one, something like, but stouter, with a long young onion like leaf, &amp; a longish spike of flowers at top of stalk.<note xml:id="ftn3-282" place="foot" n="282">
+               <hi rend="italic">Prasophyllum colensoi.</hi>
+            </note> This is <hi rend="italic">very common</hi> &amp; of no use. But when well, &amp; convenient, send me any of everything you come across—particularly in the <hi rend="italic">Moss</hi> way, when in flower, &amp;c.</p>
+         <p>I was pleased to find that <hi rend="italic">you</hi> (too) like the essay “On the Maoris”—it caused much talk &amp; writing &amp; enquiry at the time, &amp; may have done some good. I hope the Parly. Offl. Paper on the unfortunate Mao. Lexi­con safely reached you.—</p>
+         <p>I am now on a paper (Botanl.) for the Linnæan Scty London,<note xml:id="ftn3-283" place="foot" n="283"> His paper was read at the 5 March 1885 meeting, and a note to that effect appeared in the Proc. Linn. Soc. Lond. Session 1883–1884, p74: ‘“On recently discovered Flowering Plants from the Interior of New Zealand (North Island), 1883–84.’ By the Rev. W. Colenso, F.L.S.”</note> wishing to get it ready for our next out-going S.F. mail. I had received a very handsome letter from the secretary to that institution, asking for some of my pa­pers; if I get this ready it will contain mention of Glenross. I have also a long &amp; excellent letter by this last mail from Kew. (Sir J.D. Hooker) some day you must see it—and, also, a notice from West of England, of my paper on some of our <hi rend="italic">Fungi</hi> being the <hi rend="italic">first</hi> one read for their winter session<note xml:id="ftn3-284" place="foot" n="284"> Colenso W 1884. On a New Zealand fungus that has of late years become a valuable article of commerce. <hi rend="italic">Transactions of the Penzance Natural History and Antiquarian Society</hi>, 1884–5.</note>—&amp; it pleased, &amp; a “Cartload” of thanks, &amp;c.</p>
+         <p>And I have had two long agreeable evenings here—since my last to you; one with your countryman Judge Gillies, &amp; one with Dr Buller. Last Fri­day night (late) I had to write a letter to our “Dy Telegraph”—it was in­serted in Satys paper.<note xml:id="ftn3-285" place="foot" n="285"> Mr Colenso in reply. <hi rend="italic">Daily Telegraph</hi> 20 December 1884.</note> Do you see that paper?­</p>
+         <p>And now with kind regards &amp; best wishes—of this season (that is, Xmas, &amp; New Year) to you and all at Glenross, believe me</p>
+         <p>Yours truly</p>
+         <p>W. Colenso.</p>
+         <p>P.S. I think I shall be leaving for Bush about 6th Jan, but will write to you again if I can. W.C.</p>
+         <p>P.S. 2nd As to parcel containing Vol I, I altered my mind <hi rend="italic">after</hi> I had written my letter, and so to make sure, sent it by mail. W.C.</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0298">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1875 September 30: to McLean</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Object #1000726 from MS-Papers-0032-0222.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1875-09-30">1875 September 30</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1875 September 30: to McLean<note xml:id="ftn2-232" place="foot" n="232"> ATL Object #1000726 from MS-Papers-0032-0222.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Tuesday Evg.</p>
+         <p rend="end">Sept. 30/75.</p>
+         <p>Dear Sir Donald McLean</p>
+         <p>I am just back from the Country Inspcg. Schools, &amp; my hand is still shaky from motion of train, &amp;c. &amp;c.</p>
+         <p>Enclosed I send you a copy of last Saty’s. “<hi rend="italic">Wananga</hi>,”—I have marked a few passages for your notice. J.W. (to <hi rend="italic">please </hi>his Employers, I suppose,) always translates with a twist <hi rend="italic">against </hi>the Govt.—sometimes the plural for the singular, and sometimes the downright positive statement for a mere allusion.</p>
+         <p>You will also see what he says of the “Waka Maori”! a short time ago he copied a severe &amp; lying article from the <hi rend="italic">Evg. Star </hi>against Mr. Ormond, &amp; then, too, making the black (as in that paper) <hi rend="italic">more black</hi>.—</p>
+         <p>I also noticed in the “Auckland Wkly. News” that G.T.C. (Chapman, I suppose) was very severe upon <hi rend="italic">you</hi>! Outrageously so! Perhaps you saw it.— (I think it was in the paper of 18<hi rend="sup">th</hi>.—or, possibly, 11<hi rend="sup">th</hi>.)—</p>
+         <p>I hope you are <hi rend="italic">still </hi>well in health—<hi rend="italic">strong </hi>against all your pol. foes.</p>
+         <p>Tanner was telling me yesterday that the Court of Appeal had as good as said, that, the mere passing of a Block through the Native Lands Court did not confer such a legal title as a party could take a stand on:—If so; Could not H.L.R. be yet approached <hi rend="italic">re </hi>the old village of Waipukurau? (You may remember I spoke to you about this, some years ago:—as <hi rend="italic">you </hi>reserved it (the village) <hi rend="italic">to &amp; for the poor folks all living in it, in the Name of Her Majesty</hi>; otherwise they would not have signed the Deed of the old (1<hi rend="sup">st</hi>.) Hapuku Block.</p>
+         <p>If the matter of the Mao. Lex. comes up at all, <hi rend="italic">I </hi>shall <hi rend="italic">not </hi>be surprised if Sir G.G. speaks <hi rend="italic">against it</hi>; (or against myself) not withstanding all his former old and long fine talk to me! Should he do so, you may quietly point out to him what I have said of him (in that matter) in my <hi rend="italic">resumé. </hi>I hope, my dear Sir Donald, <hi rend="italic">you will get me that resumé </hi>
+            <hi rend="underline italic">printed</hi>
+            <hi rend="italic">.—</hi>
+         </p>
+         <p>Believe me</p>
+         <p>       ever, Yours very</p>
+         <p>truly, W. Colenso.</p>
+         <p>P.S. <hi rend="italic">Latimer</hi>, whom you <hi rend="italic">once knew</hi>, has gained his Degree of B.A. at the University of Camb., &amp; is now going-in for <hi rend="italic">M.A., </hi>&amp; studying at the Temple, London.—</p>
+      </body>
+   </text>
+</TEI>

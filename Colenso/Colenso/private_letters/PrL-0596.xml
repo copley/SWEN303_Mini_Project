@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0596">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1885 April 26: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1885-04-26">1885 April 26</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1885 April 26: to Balfour<note xml:id="ftn3-301" place="foot" n="301"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Norsewood, Sunday night<lb/>April 26th 1885</p>
+         <p>Mr D.P. Balfour</p>
+         <p>My dear Sir</p>
+         <p>Two days ago I received your long, &amp; prized letter, of the 18th, and I thank you for it, &amp; for the little Botanl. parcel that came with it. From your letter I found, you had not then received mine to you from this place, but no doubt you did get it soon after that date. First I will notice your specimens; the little Orchid I know well (as to genus) having gathered, (and admired and left growing) scores of them at the N, where in <hi rend="italic">clayey</hi> soils they are rather common. I have also seen them among fern on the hill tops between Tangoio &amp; Waikari; &amp; also at Wai­rarapa. I have all about the genus in books at home, so I defer a full reply until I refer to them; the little flowers were full of sand, or dust, no doubt from the Moss; however by washing with Camel-hair pencil I got them tolerably clean &amp;c.</p>
+         <p>The “Mosses” are composed of small <hi rend="italic">Hepaticæ</hi>, and a Moss (the bigger dark­er spn) of which I would like to get good fruiting spns. It is also here in plenty, but not in fruit,—I have known it 2–3 years, and have continually sought <hi rend="italic">perfect</hi> spns. I think it flowers, &amp;c, in winter or early spring.</p>
+         <p>The sprig, with small thick box-like leaves, I should like to see in flower, or with its seeds; imperfect as it is, it is impossible to say what it is, although I have little doubt of its being one of our alpine <hi rend="italic">Olearias</hi>,—and not far from <hi rend="italic">O. nummularifolia</hi>; (which I originally got from Mount Hi­kurangi near E.Cape) if not the same plant. I should like better spns.</p>
+         <p>I should have greatly liked to see all that you have seen (Boty.) on those ranges; would that you had sent me <hi rend="italic">some more scraps</hi>—have you any more in your kit, or cupboard? Let me see a bit of your “<hi rend="italic">Parsley</hi>”. Some­how I think your <hi rend="italic">Cordyline</hi> may prove identical with C. Sturmii, (described) by me a few years ago in the “Transactions”. When you come to N, &amp; <hi rend="italic">can call</hi>, I will show you a living plant.</p>
+         <p>I am still here, and do no intend returning until (say) the 6th or 7th of May,—dependent on the weather. Here, since my last, the weather has been generally fine, but showery &amp; dull; <hi rend="italic">this day</hi> however, was a gloriously bright one, therm up to 63 in my room, (it has been down to 45, &amp; though cold nights I have not yet had fires).</p>
+         <p>I have secured several small Crypts, (various orders) some new, but I have been much <hi rend="italic">at</hi>
+            <hi rend="italic">Home</hi> writing, drawing up descriptions of them from micros­copical investigation, &amp; writing to England, &amp;c, by yesterdays mail. My Rheumatic shoulder still holds out; otherwise I am well. I hope you &amp; yours are so, and with kind regards</p>
+         <p>Believe me</p>
+         <p>Yours truly</p>
+         <p>Wm Colenso</p>
+         <p>P.S. A gentmn. on the Coast sent me a strange insect in a matchbox (tin) well wrapped up, &amp; with it a long letter about it—on opening, there was nothing, not even a dust!. I have suspicion that the package was opened at P.O. Napier, owing to its being so wrapped up.—W.C.</p>
+      </body>
+   </text>
+</TEI>

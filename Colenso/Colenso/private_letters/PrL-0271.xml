@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0271">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1871 November 18: to Grey</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Auckland Council Libraries GLNZ C28.4 (Grey New Zealand letters).</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/48318/">Grey</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1871-11-18">1871 November 18</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1871 November 18: to Grey<note xml:id="ftn2-197" place="foot" n="197"> Auckland Council Libraries GLNZ C28.4 (Grey New Zealand letters).</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier,<lb/>November 18, 1871.</p>
+         <p>Dear Sir George Grey</p>
+         <p>Permit me to trouble you with the following:—</p>
+         <p>During the past month I received several telegrams from Wellington respecting the <hi rend="italic">Mss. </hi>of your Vol. of Maori Poetry published there in 1853. I knew however, nothing of them, never having seen them; and, eventually I referred the enquirers to the note in your Vol. of Poetry (Index, p.18) wherein it is stated, that the said <hi rend="italic">Mss. </hi>had been deposited by you in the Library of the Wellington Athenæum.</p>
+         <p>Yesterday Mr. Locke (who, I think you know,) returned from Wellington, and on my enquiring of him the result of their search, he informed me,—that, after much trouble &amp; repeated personal interviews with Dr. Hector, Mr. Dillon Bell, Mr. Mantell, some of the Members of the Government, Mr. Lyon, &amp; others, he, at last, saw a Mr. Logan, who was formerly the Secretary of the Wellington Athenæum, who stated as follows:— “That, the <hi rend="italic">Mss. </hi>of Sir George Grey’s Maori Poems were left in his charge, and he kept them for many years, until a Mr. J.B. (or J.,) White, a Maori Interpreter, took away the Papers to Auckland, stating he had Sir G. Grey’s authority for so doing; and that he (Logan) had often endeavoured to get them back but without success.”</p>
+         <p>I told Mr. Locke, that, under all the circumstances, I thought you should be informed of it,—especially as (from what he had further heard,) there appeared to be a doubt in the minds of some of the folks at Wellington, as to whether Mr. White was really directed by you to take the said <hi rend="italic">Mss. </hi>away; seeing, that you had in your Work stated publicly where they were deposited, &amp;c. &amp;c.—</p>
+         <p>Moreover, Mr. McLean, in a telegram to me about the Maori Dicty, about a fortnight ago said, that a Mr. John White had been in correspondence with him, offering him for a consideration 150 old Maori words he had collected.</p>
+         <p>—And so I have taken on myself to write this to you.</p>
+         <p>Hoping that you are enjoying sound health in your Paradise-like Island, (of which I have heard so much)</p>
+         <p>I am,</p>
+         <p>Dear Sir G. Grey</p>
+         <p>Yours truly</p>
+         <p>Wm. Colenso.</p>
+      </body>
+   </text>
+</TEI>

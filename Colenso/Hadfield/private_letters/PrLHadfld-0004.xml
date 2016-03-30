@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0004">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Undated enclosure, Octavius to Octavia Hadfield, possibly 1836</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 9)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 20.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="-----">Undated</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key=" http://wtap.vuw.ac.nz/eats/entity/70767/">Octavia Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Undated enclosure, Octavius to Octavia Hadfield, possibly 1836 
+         </p>
+      </front>
+      <body>
+      <p>(Be so good as to tear this page off and give it to Octavia)</p>   
+         <p>My dear Octavia,</p>   
+         <p>We remembered you on your birthday and hope you remembered us.  May your birthdays continue to come round year after year as long as you are useful in the world, and live to the glory of Jehovah.  I have not seen much of the people here, but shall begin to see them a little more.  There have been two deaths since I have been here, (one a boy of about 13 this morning, to whom we have been the last three or four days) both interesting, and both we trust now in glory.  There are several very nice people, (but George says he sees no sign of religion of an older date that Young’s time,) they delight much in George and thank God that he is sent among them.  I heard an old woman with abundant tears rejoicing at the pleasing <supplied>[thought]</supplied> that he was here to afford her comforting consolation.  The late man, who I should hope was a good man, does not appear to have <hi rend="underline">fed</hi> the flock.  George grows in grace and in the knowledge and love of Jesus, and preaches faithfully and fully <hi rend="underline">all</hi> the counsel of God and trusts that God will (as He assuredly will) <hi rend="underline">honour His own Word</hi>.  May our prayers be for him as many of these good peoples’ are, “that the grace of God be not hindered but may have free course”.  I went for a half hour last evening to Mr. Davies’ and met another clergyman.  They are good men but rather high church.  Some of their views astounded me a little.  I think it a blessing that I have been out of all the odd opinions and prejudices held by many, when residing at home. </p>   
+         <p>George seems well adapted for this place.  The dissenters here are quiet people, that is, with respect to George.  I have advised George to get up a Bible Society meeting here with the view of uniting Churchmen and dissenters and I think he can manage it.  Mr. Williams of a neighbouring place, rather an old man, approves of it much.  He is a good sound man and favours all that is good.  Will you ask Maria if she can lend George £10., it will oblige him much; she said she could spare it.  If she can not you an ask my father who offered it, but he thought he did not want it, but finds he has a quarter’s salary to pay the school mistress, which he pays in advance.  If Marian can we would like it.  The new master came yesterday.  Believe me ever</p>   
+         <p>Your affectionate brother,</p>   
+         <p>Octavius Hadfield. </p>   
+         <p>I went to the Sunday school both morn and evening.  There are about 120.  I was much pleased with it; they read very well (I had the first class) and answered questions very well.  I talked to all the school and asked questions, which I hear from some of their parents they were much pleased with.  I was thinking of your school all the time.  You must work for money – we ought to get a sovereign for George’s school here if we can manage it among us; the people here are shabby at least those who have money.  Remember me to all my friends.</p>   
+         <p>O.H.
+</p>
+      </body>
+   </text>
+</TEI>

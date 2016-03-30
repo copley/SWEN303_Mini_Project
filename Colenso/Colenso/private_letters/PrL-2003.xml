@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrL-2003">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1867 November 8: Colenso to McLean</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1867-11-08">1867 November 8</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1867 November 8 Colenso to McLean (#1014955) </p>
+		</front>
+		<body>
+			<p>My dear Sir </p>
+			<p>I have your note of this morning, enquiring if I knew any remedy for the Piripiri.—I am sorry to say that I do not: I only wish I did. I have long been of opinion that this plant was likely to give you (Flock-owners) much more trouble &amp; loss than the thistle,—about which so much has been said.— </p>
+			<p>One thing is certain—the Piripiri is prodigiously spreading and is a Maori &amp; likes (or lives in) all soils &amp; situations. I was astonished—in 1863, in going to Wairoa—to see so much of it at Petane valley, Tangoio, &amp; Mohaka,—all, I think, owing to the sheep carrying the seeds onto bare, or burnt off, land.— </p>
+			<p>I had a plant or two in this paddock,—where the hay is now cutting,—and I worked hard to destroy it, for several years: I think I have prevailed,—but, if so, it was only after a hard &amp; long fight.—I know it springs from portions of old roots—something like sorrel, &amp; dock; and if rooted up &amp; thrown down carelessly, and wet weather comes on, it will take root again.— </p>
+			<p>I think you will have to come to paring it off, with a sharp spade, or good hoe, every season before it seeds, and burning it; an active man could destroy a good deal in a day where the ground is open, as I have known one plant to spread out as large as a dining table, &amp; it is soon turned over. I should think— if turned up in early or midsummer, &amp; then the spots sown with white clover in early autumn, (especially if there is any lime in the soil, as there is here on Scinde Island,) that it could be eradicated.— </p>
+			<p>I hope your present loss of wool, through shearing early, will not occur again—as I suppose your full quantity would be on their backs by the early season of next year.— </p>
+			<p>I am sorry my dear Sir that I can not say anything better respecting the extirpation of this enemy. </p>
+			<p> 	And am </p>
+			<p> 	 	Yours very truly </p>
+			<p> 	 	 	Wm Colenso </p>
+			<p>Novr. 8/67 </p>
+		</body>
+	</text>
+</TEI>

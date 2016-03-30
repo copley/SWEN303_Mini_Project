@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0030">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1840 November 21: Octavius Hadfield to Jones</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 68) </p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 25.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1840-11-21">1840 November 21</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/70954/.">Kapiti</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person">Jones</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1840 November 21: Octavius Hadfield to Jones [typescript incomplete, ?due to illegibility of original?]
+         </p>
+      </front>
+      <body>
+      <p>Kapiti, Cook Straits, Nov 21st, 1840</p>
+      <p>My dear Jones, </p>
+      <p>I received a letter from Mrs Jones, sometime since informing me of your departure for England.  Also forwarding your address that I might write to you.  The letter I answered <!--blank?--> trust to write you a few lines.  My constant occupation however allows me but few intervals for correspondence with friends.  I trust however I shall never neglect to write to you &amp; that you will likewise remember to send me occasionally a few lines.  Ere this reaches you, you will have undergone many trials, many sufferings, &amp; many temptations, having as you wished your Father's <!--blank--> to enter on the wide world  But promised be the Home of the God of all grace, the Father of our Lord Jesus Christ, you are not left to wander in uncertainty &amp; doubt in the barren wilderness without a guide, without a leader, &amp; without support, but you have him <!--blank--> into the path of life &amp; have been mapped by the eye of faith to behold the invisible King in His bounty; Who is your "Host, your Hostage, &amp; your Deliverer."  You who is to the Church a "Wall of fire round about her. &amp; the glory in the midst of her."  Oh my dear Xian friend, little do we know, and much less does he know who now addresses you how much we defraud ourselves by not having our souls, our hearts, &amp; our affections constantly set &amp; fixed on Christ contemplating His glorious Person &amp; considering Him in all His Blessed &amp; adorable perfections &amp; offices, as the Great Being, High Priest &amp; Prophet of His people.  We might indeed enjoy a heaven upon earth if we lived up to you priviledges <!--sic-->, for by contemplating Jesus &amp; then remembering that we are "chosen in Him." "Beloved in Him." in short "complete in Him." &amp; "secure in Him." &amp; remembering <!--blank--> to say "that we are members of His flesh &amp; of His bones."  We might you ought to "rejoice with joy unspeakable &amp; full of glory."  May the Lord give unto us &amp; to His whole Church according to the provisions of the everlasting Covenant <!--blank--> an abundant out-pouring of His Holy Spirit </p>
+      <p>Him on Earth</p>
+      <p>"a chosen</p>
+      <p>priesthood</p>
+      </body>
+   </text>
+</TEI>

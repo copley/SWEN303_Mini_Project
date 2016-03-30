@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0935">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1895 May 17: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0498.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1895-05-17">1895 May 17</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1895 May 17: to Harding<note xml:id="ftn3-738" place="foot" n="738"> ATL qMS-0498.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end"> May 17/95.<lb/>(ix. a.m.)</p>
+         <p>Dear Mr Harding,</p>
+         <p>I am shut up here with <hi rend="italic">rain</hi>: &amp; yet am going, <hi rend="italic">again</hi>, this aftn. to Woodville! &amp; having nothing to do (handy), and wishing to say a few words to you, I have determd. to write—though I wrote to you from Bush on 3<hi rend="sup ">rd</hi>. inst., &amp; though no L.<hi rend="italic"> </hi>to hand have received a <hi rend="italic">paper</hi>, w. clippings.—I had previously recd. a copy of that same paper from a <hi rend="underline italic">new</hi> correspdt. in yr. town, and I fancy were you to put on your guessing-cap &amp; work hard for a week you would not discover him:—only yr. Mayor—Mr. Luke! and with it <hi rend="italic">a most kind &amp; loving letter</hi>, fol. fcp. 3½ pps. closely written: &amp; all because of the <hi rend="italic">donation to our native town</hi>; he, too, being a <hi rend="italic">Penz.</hi> man! so, it appears, I have <hi rend="italic">one more </hi>staunch friend in Wellington. I replied, yesty.; when you write, tell me, <hi rend="italic">what Ch. </hi>he may belong to. I <hi rend="italic">think</hi> I sent you a copy of “D.T.” contg. a rather <hi rend="italic">long article </hi>on that Donation which (w. short local in “Hd.”) took me by surprise. They, of course, got it from a Cornish paper:—I have it now from Mayor of Penzance, &amp;c.</p>
+         <p>Since my last to you I have been at Woodv. (4<hi rend="sup ">th</hi>–8<hi rend="sup ">th</hi>.) very <hi rend="italic">fine </hi>weather! &amp; here from 8<hi rend="sup ">th</hi>. retg. to Wdv. <hi rend="italic">re </hi>Ch. matters, wishing to <hi rend="italic">aid </hi>them in getting their big Ch. finished &amp; so made more warm &amp; comfortable (the chancel end being merely boarded up, &amp; very draughty—<hi rend="italic">and ugly</hi>!) Mr. Robertshawe will be there with us on Monday. Hill has been here all this week, and will be at Wdv. next week, we have had 2–3 <hi rend="italic">long </hi>evengs. together—such a treat!! Last night I posted to you, “Evg. News”, of 14<hi rend="sup ">th</hi> contg. account of our Instit. Mtg. last Monday, (“Herald” had <hi rend="underline italic">no</hi> mentionof it!! “D.T.” a very slight one,) This (Evg.N.) is,<hi rend="italic"> evidently</hi>, a<hi rend="italic"> manufactured</hi> one, &amp; is curious:<hi rend="italic"> note</hi>: names &amp; offices<hi rend="italic"> </hi>particularized! &amp; Large (<hi rend="underline italic">J.P.</hi>!) twitting Hill &amp; H.! (Humphries, too, <hi rend="italic">never </hi>yet produced a single p.!) and then L’s. remark <hi rend="italic">re </hi>Carlile’s production, and advice to <hi rend="italic">future</hi> Presidents (for this <hi rend="italic">latter </hi>overhauled by Dr. M.) but <hi rend="italic">you </hi>will also note—that L. omits <hi rend="italic">me</hi>! Why?—My letter to “Herald” <hi rend="italic">last month</hi>, endorsing one by “<hi rend="italic">Humanity</hi>”,<note xml:id="ftn3-739" place="foot" n="739"> Was it a just judgement? <hi rend="italic">Hawke’s Bay Herald</hi> 26 April 1895.</note> strongly against L’s. &amp; Lascelles’ thoughtless vindictive sentences, has, no doubt, raised the pompous little man’s ire; moreover I had previously to meeting sent to Dinwiddie an Apology for absence—which I have no doubt was only read, or mentioned.</p>
+         <p>Now for your clippings—interesting, as usual. The <hi rend="italic">long </hi>one <hi rend="italic">re </hi>Owen, I had (in past) seen, but certain portions must be taken <hi rend="italic">cum gr. salis.</hi>
+            <hi rend="italic">
+               <note xml:id="ftn3-740" place="foot" n="740"> with a grain of salt.</note>
+            </hi> always the case, when written by <hi rend="italic">near relatives</hi>, witness—our N.Z. memoirs—of H. Williams, Rd. Davis, &amp; others—<hi rend="italic">ad nauseam</hi>! The 2 letters—“Maori”, and “Colonial”—speak for themsleves. “M.”, I notice, was pilfered from one of my papers at close. I suppose there will be plenty of <hi rend="italic">such </hi>in days to come! Your quotation from an old “Graphic”, <hi rend="italic">re </hi>wholesale massacre, &amp;c, (1837) at “Makuta”, N. Isld.—is pretty nearly correct, w. this <hi rend="underline italic">diff</hi>. the killed were <hi rend="italic">Maoris</hi>: place <hi rend="italic">Maketu. </hi>I remember it: nearly their last great fight. The Maori <hi rend="italic">cold-water </hi>cure for fever—(no doubt) was <hi rend="italic">following </hi>my ex., in the ’40’s. I had a very severe case in my household—the patient was getting round nicely—but early &amp; imprudent exposure &amp;c brought a relapse: I was <hi rend="italic">much </hi>concerned, saw little hope! &amp; determined to adopt Dr. Cullen’s remedy, so a large door was placed sloping on edge in garden &amp; patient, naked, deluged w. cold w. from big garden pot &amp; bucket 3ce. daily. Pulse 110 &amp; altg. and in 2–3 days change for better, &amp; in due time wholly recovered: case made great noise at time among Maoris: Wairarapa, <hi rend="italic">then</hi>, under my care: I have told our M.D’s. of it. I <hi rend="italic">greatly dislike </hi>that <hi rend="italic">hurry </hi>of Missionaries to translate Scriptures into barbarous langs., not infrequently done (or attempted) by them when <hi rend="italic">they are yet ignorant themselves</hi>. Yesterday, in Bain’s Bookseller’s shop <hi rend="italic">here</hi>, I saw a <hi rend="underline italic">little</hi> Book (new ed.) by Bp. Williams, Introdn. to Maori, had not time then to look into it, intending to go again; Rain heavy &amp; cold this mg. hinders: Bain told me, it was not liked, &amp; that (my) “<hi rend="italic">Willie’s</hi>
+            <hi rend="italic">A. nui</hi>” was wanted: but out of print; more anon. I suppose you saw long &amp; fulsome account, of “Fashionable Marriage” (<hi rend="italic">large Caps</hi>) Napier. Yg. Swan &amp; (<hi rend="italic">some</hi>) Miss Anderson. “Tongariro”, with Bob’s wife reached England on <hi rend="italic">6</hi>
+            <hi rend="sup italic">th</hi>, 4 days <hi rend="italic">after </hi>fixed time, &amp; <hi rend="underline italic">no</hi>
+            <hi rend="italic"> notice </hi>of her <hi rend="italic">from Rio</hi>, &amp;c.—So <hi rend="italic">he </hi>is getting better! I am keeping well.</p>
+         <p>   Good bye: Kindest regards,</p>
+         <p>                                                           Yours ever</p>
+         <p>                                                                   W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

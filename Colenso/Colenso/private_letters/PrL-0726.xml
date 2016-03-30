@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0726">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1889 September 6: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1889-09-06">1889 September 6</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1889 September 6: to Balfour<note xml:id="ftn3-455" place="foot" n="455"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Friday night <lb/>Sept. 6th. 1889</p>
+         <p>Mr D.P. Balfour</p>
+         <p>My Dear Sir</p>
+         <p>Your kind and most welcome note of 5<hi rend="sup ">th</hi>. came to hand this morning—and the sight of your well-known handwriting—as well as your melancholy relation—have greatly affected me.—I only returned from Bush last Saty.—nearly 7 weeks there, and have had <hi rend="italic">plenty</hi> to do in the writing way to leave by this S.F. Mail—I have just finished (for the time) and am <hi rend="italic">quite tired</hi>! unfit for any more letter-writing at present, but I <hi rend="italic">must</hi> write to you so as to find you at Puketapu tomorrow (Saturday) and not put you off till next week.</p>
+         <p>While in the Bush I very often thought of you, yet not so much at first, as I had no thought of your having to <hi rend="italic">leave Glenross</hi>! at all events not soon—not perhaps till after shearing: the <hi rend="italic">first </hi>thing, however, that opened my eyes, was the kind move in your favour by the people there in the matter of the Library, and while I praised and thanked them for so acting, I could not write to you, not knowing <hi rend="italic">where to</hi> address: indeed, I may truly say, <hi rend="italic">not liking</hi> to address you at any other place until I was sure. Then I saw your own advt. in papers, &amp; this I have watched closely, thinking it would have been stopped before this time. But I suppose the <hi rend="italic">present</hi> is a bad time of the year to enter on fresh engagements. I sincerely hope you may succeed to your heart’s desire and gain a good situation in every sense—for yourself and family.—</p>
+         <p>I suppose you knew that I went off to Bush in midwinter for <hi rend="italic">health</hi> and <hi rend="italic">not </hi>Botanizing: though, as a matter of course, I could not resist doing what I could that way in fine weather, &amp;c. &amp;c. And I have collected some scores (or hundreds) of the <hi rend="italic">smaller</hi> Crypts.—but not all new, I was also hindered—or I should have returned long before, I got well there, and at present am pretty well: and I hope to go thither again by <hi rend="italic">mid</hi> October.</p>
+         <p>I thank you for the pretty spns. you have kindly sent me.—Perhaps, <hi rend="italic">both</hi> are described by me: the <hi rend="italic">Clematis</hi> (or a sp. near it) in Trans. N.Z.I. vol. XIV. p. 329: <hi rend="italic">C. quadribracteolata</hi>:—and the little fern in a later vol., as <hi rend="italic">Asplenium</hi>.</p>
+         <p>This was first found by me, when out with poor dear Lowry (<hi rend="italic">before</hi> he married!) on the rocky summits of Pukekautuku, N. of Okawa: &amp; since found by Hamilton in similar places.—</p>
+         <p>Next week, when I get through a few of my <hi rend="italic">pressing</hi> business jobs, long deferred—I will exmine both and report—if <hi rend="italic">new.</hi>
+         </p>
+         <p>P.D. (dear fellow!) was here with me last night, and we spent 2–3 hours in a regular loving chat. I had previously arranged with my man to take Tuesday next <hi rend="italic">if fine</hi> for settling the <hi rend="italic">new</hi> line of pathway on side of hill leading to town; for until that is made I am a kind of prisoner: P.D. will (if he does not go to Sydney) be here on that day, or on Wednesday, to help in doing it, and if you or Engineer-in-chief—could show up at same time better still—but weather must be fine.—So my dear &amp; good old &amp; loving Botanical helper &amp; Correspondent, Goodbye for the time, Kind regards to Mrs. Balfour, whom I hope, has not taken too much to heart your leaving the Old Nest.</p>
+         <p>             Yours sincerely,</p>
+         <p>                             W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

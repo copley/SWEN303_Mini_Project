@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0253">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1870 July 28: to McLean</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Object #1013447 from MS-Papers-0032-0222.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1870-07-28">1870 July 28</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1870 July 28: to McLean<note xml:id="ftn2-177" place="foot" n="177"> ATL Object #1013447 from MS-Papers-0032-0222.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier</p>
+         <p rend="end">July 28, 1870</p>
+         <p>Dear Mr. McLean</p>
+         <p>For the last 48 hours I have been considering whether I should write to His Excellency or to you,—and if to you, whether officially or non-officially,—and have concluded on the latter.</p>
+         <p>Knowing how very much you must have to do just now, I will be as brief as possible.</p>
+         <p>It is on the subject of the Maori Prisoners at Otago. In the “Otago Witness,” of July 16, (which you may have seen) I find these words:— “Another of the Maori prisoners, Horopapera Hopu by name, died in the hospital on Sunday night. He was a sufferer from chronic asthma, which was the cause of his death. He was 25 years old. This is the <hi rend="italic">eighth </hi>Maori prisoner who has succumbed to asthma.”—In other Dunedin &amp; Southern papers, (which you also may have seen,) I have also noticed it said, that the Maori Prisoners will all be <hi rend="italic">released </hi>by Death before the end of their Sentence (3 years).—</p>
+         <p>And it is just because that I, too, both believe &amp; fear this, that I now take upon myself to write to you.—</p>
+         <p>Were you not so very well acquainted with the real natural wants &amp; ailments of the Maoris, I should consider it a duty to shew them to you; but, as it is, I am sure I need only to call your attention to what you must have frequently noticed in former years, when, like myself, often travelling and sojourning among them: <hi rend="italic">viz. </hi>(1) that they could not stand exposure to cold or wet (like Europeans), even in this Northern Island, where the climate is so very much warmer, especially in the winter season, than the rigorous one of Otago Province: (2) that they never could long exist deprived of fire, even in summer, to which they are invariably accustomed from their infancy: (3) that “chronic asthma” is not a very common complaint among them (when living apart from Europeans), and even to those long afflicted with it, it rarely proves fatal—witness your old friend the aged Porokoru Mapu (who has been a sufferer from it ever since I knew him, in 1843,) old Rihara at Te Waipukurau, &amp; Hoani Waikato: (4) that whenever the Maoris have been attacked with any disorder (real or fancied) and a few die, the remnant, giving way to their foolish belief, that they are doomed &amp; will soon die too, fall off like sheep—and this would have a double effect upon them where they are, as they would be sure to be told that such was in the Papers.</p>
+         <p>In briefly writing on the rapid decrease of the Maoris, (in my Essay on the Maori Race, published by the Govt. in the 1<hi rend="sup ">st</hi>. vol. of “the Transactions of the N.Z. Institute,”) I have therein stated, the exposure to wet, cold or damp, the loss of warmth, &amp; the being subject to gloomy fear, as being among the chief causes.</p>
+         <p>Such being the case, (which I think <hi rend="italic">you </hi>will readily allow,) may I not ask, If something cannot be speedily devised and done by the Government to save the lives of the remnant of the prisoners—even if it should amount to the early removal of them to warmer &amp; more congenial quarters?</p>
+         <p>Prisoners at home, (of a much worse stamp &amp; class than these unhappy men,) when it is shown to the authorities that their health is endangered by confinement, are often humanely removed to other places, and not unfrequently liberated.</p>
+         <p>I notice too, that Kepa has asked for their liberation (which, if I mistake not, he also did in very plain terms on his first interview with the Hon. Mr. Fox at Whanganui last Summer,)—that Wi Tako and others have sent in to the House of Representatives a certain petition as to the one sidedness of our laws, being wholly in our favour &amp; against the Maoris,—and that similar language has been used by Tareha and Mete Kingi both in &amp; out of the House; while here (as doubtless you know) Karaitiana &amp; other Chiefs are loud in expressing similar opinions.</p>
+         <p>I recollect telling Mr. Ormond, that I considered your liberation of those Maori prisoners at Auckland last Summer, as a very excellent measure, both humane &amp; <hi rend="italic">diplomatic</hi>.—Although not a few (who know not the Maori) ventured to disapprove of your doing so.</p>
+         <p>I could say more, but I think I need not to you, and my hand is again very unsteady today. But this I will venture to add, in conclusion,—that I think you may very well and very easily arrange with Kepa &amp; others as to the safe custody of those unhappy fellows.</p>
+         <p>Believing that you, who know me well, will not consider this note as intrusive, and apologizing for troubling you,</p>
+         <p>             I am</p>
+         <p>     dear Mr. McLean,</p>
+         <p>             Yours truly</p>
+         <p>                     Wm Colenso.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1012">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1897 September 30: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0499.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1897-09-30">1897 September 30</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1897 September 30: to Harding<note xml:id="ftn3-850" place="foot" n="850"> ATL qMS-0499.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Septr. 30/97</p>
+         <p>Dear Mr Harding </p>
+         <p>Last night <hi rend="italic">late</hi> I recd your long sad and sorrowing letter of 28<hi rend="sup">th</hi>. <hi rend="italic">Contrary</hi> to my <hi rend="italic">common</hi>
+            <hi rend="italic">practice</hi>, I, after finishing my letter—to Kirk—must forsooth open and read—&amp; it <hi rend="italic">upset</hi>
+            <hi rend="italic">me</hi> not being strong minded <hi rend="italic">now</hi>. Have had you and yours <hi rend="italic">much</hi> in mind (&amp; prayer) during night, and feel I <hi rend="italic">must write</hi>—but as I do <hi rend="italic">not</hi> know your <hi rend="italic">exact</hi>
+            <hi rend="italic">financial</hi> position, I fear I can offer but poor advice. If however <hi rend="italic">£50.</hi> would be of <hi rend="italic">real</hi> service I will send it forthwith—but allow me to say what I mean—viz. not merely to stop a gap for a <hi rend="italic">short time</hi> and then————.</p>
+         <p>If you have <hi rend="italic">no</hi> friends there who both can and will help you, and <hi rend="italic">you see what you fear </hi>
+            <hi rend="underline italic">will come</hi>—better submit, &amp; <hi rend="italic">then</hi> take this £<hi rend="italic">50</hi>. <hi rend="italic">to be of service</hi>. I am <hi rend="italic">much worse</hi> off this year than I have been—in money matters—<hi rend="italic">less </hi>by ⅓—or more in income and even this in doubt, with <hi rend="italic">many heavy extra</hi> calls—<hi rend="italic">here</hi> and in Engd. &amp; elsewhere.—</p>
+         <p>I had a double upsetting in finding <hi rend="italic">both</hi> your hopes so utterly dashed to pieces! I dare hope you may, you will, <hi rend="italic">somehow</hi> obtain help at the last moment.—</p>
+         <p>I will not <hi rend="italic">now</hi> say a word about “Preface” &amp; other matters—leave <hi rend="italic">that</hi> &amp;c. but I will enclose a <hi rend="italic">dedication</hi> I yesterday scrawled for <hi rend="italic">your eye</hi>: more about it anon: (it <hi rend="italic">has been requested </hi>from <hi rend="italic">Home</hi>:) There are <hi rend="italic">other caps</hi> to follow Grey’s name—D.C.L. &amp;c &amp;c. Can you supply them. I scrawl in haste for Mail: Let me hear from you <hi rend="italic">re</hi> your position—Do not let a false (?) pride bar you from making your <hi rend="italic">case known</hi> to your <hi rend="underline italic">rich</hi> friends or acquaintances.</p>
+         <p>With best wishes.</p>
+         <p>Yours sincy.</p>
+         <p>W. Colenso </p>
+      </body>
+   </text>
+</TEI>

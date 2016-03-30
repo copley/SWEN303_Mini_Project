@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0013">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1838 February 1: Octavius Hadfield to his mother Amelia Hadfield (nee White)</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 23)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 23.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1838-02-01">1838 February 1</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/5754/">London</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70719/">Amelia Hadfield (nee White)</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1838 February 1 Octavius Hadfield to his mother Amelia Hadfield (nee White)
+         </p>
+      </front>
+      <body>
+      <p>London,</p>
+      <p>Feb. 1st. 1838</p>
+      <p>My dear Mother,</p>
+      <p>I have a few minutes only before the post goes out and therefore write in haste.  I have begun to address you tho' I think I ought to have written to my father.  I saw Mr. Coates who told me that they provided what they generally thought necessary for men going out tho' of course in a limited way, as a Society supported by public contributions must endeavour to do; but as the salary commences upon my arrival they provide nothing further (no furniture etc.).  He told me that the more I could take out in the way of clothes etc. the better, as I could buy exactly what I wanted and pay nothing for taking with me:  He said it might be possible to advance me money but it is not a customary thing.</p>
+      <p>I saw Mr. Warren today in town and he seemed surprised that I wanted so much, but I have only got what I thought absolutely necessary for my comfort.  Books, clothes and fifty little sundries run away with money in London.  I shall endeavour to see him tomorrow evening.  I know my father's slender resources and would not wish to encroach upon them.  But I think I must tell Mr. Warren tomorrow (for I should not have time to hear from my father) that I cannot do without &#163;100, and that will I hope leave me &#163;20 or &#163;30 in my pocket for any emergency that may arise.  I doubt not this exceeds what my father contemplated, for it exceeds what I did.  But I shall want little more in New Zealand for some time, and therefore should be able to repay it before long, if my father would let me know in his next letter to me.  I write in great haste.  Evans said he would take my picture if I would sit twice.  I went to him this morning and shall go again tomorrow, so I hope you will have <supplied>[it]</supplied>.  I went to the Colonial Office to try and see Lord Glenelg as Coates told me it might be useful but I could not see him; perhaps I shall write to him.</p>
+      <p>With love to all.</p>
+      <p>I am etc.</p>
+      <p>Octavius Hadfield.</p>
+      <p>Perhaps my father will write to Mr. Warren.
+      </p>
+      </body>
+   </text>
+</TEI>

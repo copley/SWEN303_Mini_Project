@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0579">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1884 October 21: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1884-10-21">1884 October 21</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1884 October 21: to Balfour<note xml:id="ftn3-262" place="foot" n="262"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Tuesday evening<lb/>Oct 21st 1884</p>
+         <p>Mr D.P. Balfour</p>
+         <p>My dear Sir</p>
+         <p>I fancy—if you have not been far too busy to think of me—that you have supposed, I had gone over the hills &amp; far awa’; but not so; here I am still—&amp; no fault of mine; kept, delayed, to sign papers drawn up by lawyers; I hope tomorrow to be <hi rend="italic">quite</hi> free—and then—off she goes.</p>
+         <p>From information received this day from inland—I find the weather there still wet &amp; rough, with severe hail storms, injuring trees and potatoes and newly shorn sheep, &amp; killing young lambs. P.D. I fear, has also lost some lambs owing to the weather.—</p>
+         <p>I was in town this morning, and, on enquiry, I heard that <hi rend="italic">you</hi> were <hi rend="italic">not </hi>at the show; &amp; if so, you <hi rend="italic">escaped</hi>. I should scarcely care to write to you now (for I feel very heavy, sleepy, stupid;) were it not that I saw your name in a late Wgn paper, in connection with your patent, published in a late Gov Gazette, <hi rend="italic">thus</hi>,— “The following applications for patents appear in yesterday weeks Gazette:—for the furrow Extender D.P. Balfour, Glenross, Hawkes Bay,”—also “for a hillside reversible plough,G.W. Hattie, Palmerston South, Otago” and several others:—various from “N.Z. Maiil” of 17th. I do not know if you have commenced shearing—but, even if you have <hi rend="italic">not</hi>—you <hi rend="italic">are</hi> busy, and I almost fear you will be too much so, to have an eye on your Orchids, of which the <hi rend="italic">Spring</hi> ones must be in flo­wer; I have had two beauties here flowering, one very fine, &amp; I think, new; they both belong to your “Beacon like” specimen;<note xml:id="ftn3-263" place="foot" n="263">
+               <hi rend="italic">Pterostylis patens</hi> Col.</note> one I received from Winkleman, &amp; it also flowered last year. I should like for you to see these. Should you preserve any flowers of Orchids for me, don’t <hi rend="italic">press</hi> them; put them into a little spirits, or dry them loosely and open hanging up side down on a nail. I mention this as I am about leaving. I would much rather have them fresh.</p>
+         <p>I find that three of my papers,containing some of your plants, were lately read at a meeting of the Scty at Wgn, &amp; now, my very <hi rend="italic">large</hi> paper on some new plants, I have also sent them.</p>
+         <p>I was rather surprised this mng to see in the paper, mention of the marriage of Sir Donalds son to an Irish girl, at Tipperary; I fancy that some of his Country folk, and clan,will scarcely like it. I saw P.D. in town this mng. I believe he is going to Auckland on Saturday next.</p>
+         <p>9 o’clock, pm. Since writing the above our Eng mail has arrived­, <hi rend="italic">very</hi> quick this time from Auckland; it was landed at Taranaki, and thence overland to Napier. All letters tell me of a very fine harvest, and my friends, and family, well.</p>
+         <p>At present I have little to add. If you should be inclined to write, have time to do so, a letter during the <hi rend="italic">next</hi>
+            <hi rend="italic">fortnight</hi> would find me at Norsewood.</p>
+         <p>With kind regards</p>
+         <p>Yours truly W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

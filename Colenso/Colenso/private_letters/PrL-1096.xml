@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1096">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1874 October 24: To the Secretary of the Auckland Institute.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Letters in Auckland Museum Library ref MS-76.</p>
+         <p>Transcription by Ian St George</p>
+            <p>encoded into TEI by Melissa Bryant, 4.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1874-10-28">1874 October 24</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="office" key="http://wtap.vuw.ac.nz/eats/entity/76212/">the Secretary of the Auckland Institute</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>To The Secretary of the Auckland Institute, Napier, October 24th 1874.</p>
+         <p>Letters in Auckland Museum Library ref MS-76.</p>
+      </front>
+      <body>
+      <p>Napier,</p>
+         <p>October 24th 1874.</p>
+         <p>The Secretary
+of the Auckland Institute,</p>
+         <p>Auckland.</p>
+         <p>Sir</p>
+         <p>We have recently succeeded in forming a branch Philosophical Institute here, and as we wish to imitate those older branches in the larger Provinces—at all events in our Rules &amp; Regulations,—I have the honour to request that you will please to send me a copy of the Rules of your Institute to lay before our Council at their next Meeting, which will be held shortly:—and am</p>
+         <p>Yours very truly</p>
+         <p>W Colenso</p>
+         <p>Hon. Secy.</p>
+</body>
+   </text>
+</TEI>

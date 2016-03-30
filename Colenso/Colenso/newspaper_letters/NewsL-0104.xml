@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0104">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1882 Stilling the waves. Daily Telegraph 26 June.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1882-06-26">1882 June 26</date>
+               <publisher>
+                  <name type="organisation">Daily Telegraph</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1882 Stilling the waves.<lb/>
+                  </hi>
+                  <hi rend="bold italic">Daily Telegraph</hi>
+                  <hi rend="bold"> 26 June.</hi>
+               </p>
+      </front>
+      <body>
+         <p>	— “Hold thou the good: define it well:<lb/>	  For fear divine Philosophy<lb/>	Should push beyond her mark, and be<lb/>	  Procuress to the Lords of Hell.”—<hi rend="smallcaps">Tennyson</hi>.</p>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—The highly curious beginning of the long article in your Contemporary (H.B. Herald) of this morning has set me a thinking; and as I do not like to see anything erroneous piled up upon sandy foundation, neither anything publicly asserted to be “Biblical” or from the “New Testament” which is <hi rend="italic">not</hi> so,—and as you in your paper of this evening have not referred to it, I will just do so.</p>
+         <p>Your contemporary begins by saying,— “ ‘Pouring oil upon the troubled waters,’ is a Biblical phrase, used oftener than any other by both clerical and lay writers.... It is to them only a simile—nothing more. Yet even those who deny the inspiration of the New Testament admit that the Apostles used similes thoroughly understood by their hearers, and in those days this knowledge could be developed only by personal and practical acquaintance with the operation referred to. It may therefore, well be inferred, that to ‘pour oil on the troubled waters’ was a common practice among the Galilean fishermen, and that its efficacy in calming the waves was undoubted.” (!!!)</p>
+         <p>I fancy that not a few of the Herald’s readers,—some of whom, in the country, may read this article tomorrow (Sunday),—will consider all the beginning as very fine, and very  “Biblical.”—–</p>
+         <p>But, unfortunately, I (may I not say, We?)— —I don’t know of any such “Biblical phrase” or saying: Will the Herald kindly point out where it is to be found?</p>
+         <p>But the little error of its being called “Biblical,” and it is not, would not alone cause me to write about it, were it not for what follows,—what is built upon it,—of the “common practice of the Galilean fishermen” (the Apostles, to wit,) “pouring oil upon the troubled waters of their lake” in time of severe storms, &amp;c.—–</p>
+         <p>Now, as I view it, there is a large amount of error here, (not, perhaps, intended).—for (1.) What was the size of that lake? About 13 miles long by 5 miles broad; or (say) as long as from Napier to Hastings, and as wide as from Napier to the fifth mile post on the beach beyond Awatoto!—(2.) What necessity could there have possibly been, on such a narrow sheet of water, to use oil for such a purpose? even supposing those freshwater fishermen knew anything of the “calming efficacy of oil when poured on the troubled waters.”—(3.) Those “Galilean fishermen,” with their small craft of lake-boats, were but men of very poor means, and could never have afforded to purchase Olive oil for such a purpose;— the Jews not using common animal oils of any kind.—</p>
+         <p>There is plenty (alas! far too much!) of errors of this kind (so-called “Biblical phrases” and pictures) abounding in books, and in fanciful cuts and plates for the young,—aye, and for the elders too!—which are greedily and wonderingly swallowed as true! Such as are in Raffaelle’s Cartoons of “the Resurrection,” and of the “miraculous draught of fishes” in this same lake, where little boats contain skates and thornbacks and other big <hi rend="italic">salt-water</hi> fishes! and the monstrous birds in the fore-ground are as big as <hi rend="italic">Moas</hi>!—(which picture, possibly, the Editor of the Herald might have been looking at the night before,— or have had “in his mind’s eye” at the time of his writing that article.)</p>
+         <p>I cannot but consider it right to strip all plain and simple truths (especially asserted “Biblical” ones), of all fabulous excess, gewgaw, and fanciful imagery. Only a few years back, on a similar occasion, I had to remind your readers of the real size of the little kingdom of Judea—or “the Holy Land,” (about which such a fuss was being made,)— that the whole of it could be comprised between Napier and Takapau—I am &amp;c.,</p>
+         <p>
+                  <hi rend="smallcaps">William Colenso.</hi>
+               </p>
+         <p>	Napier, June 24th., 1882.</p>
+      </body>
+   </text>
+</TEI>

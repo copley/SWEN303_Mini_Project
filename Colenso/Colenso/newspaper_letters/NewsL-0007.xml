@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0007">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1858 Open column. Hawke’s Bay Herald 3 July.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1858-07-03">1858 July 3</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1858-06-29">1858 June 29</date>
+        <name type="place">Waitangi</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1858 Open column.       <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald </hi>
+        <hi rend="bold">3 July. </hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—No doubt there are many like myself, whose thoughts <hi rend="italic">this day</hi> are on the events of yesterday. And while, on the one hand, the old adage, “<hi rend="italic">Nil sub sole novum</hi>,” is true; on the other hand we have, “<hi rend="italic">many men many minds</hi>” to match it: and therefore (if you may have room) I now trouble you with a tithe of my cogitations. </p>
+      <p>To tell you the truth, I feel somewhat ashamed of the Napier poll; and I wish you would publish the names of <hi rend="italic">all</hi> who voted there <hi rend="italic">pro</hi> and <hi rend="italic">con</hi>; with those of Napier enrolled voters who, being present, held back. For, as Napier has been making some little stir in the cause of Reform during the last year in the New Zealand world, it is but an act of common justice to let those Reformers living at a distance know, how the poll at Napier came to be as it is. Besides, it will the better inform Dr. Featherston (and his party), so that he too may know, who and how many of the really free electors of Napier voted for him. As to those who chose not to vote, at such a critical period, it is but fair that their peculiarities should also be recorded, in order to be remembered. </p>
+      <p>I was the more impressed with painful feelings yesterday, when I saw <hi rend="italic">enrolled voters</hi> refusing to exercise their privilege (although such voters were wholly opposed to the policy of the late government); while others, who valued their birthright, who had been more than a year residing among us, and who had come several miles to vote, found, to their surprise and disgust, that, as the new roll would not be scrutinised Magisterially before the morrow (<hi rend="italic">this day</hi>), they were not allowed to do so! </p>
+      <p>And then I could not help thinking, that (unless some grave and weighty reasons could be assigned,—reasons sufficient to convince the majority of a jury of reasonable men,) such persons so refusing to serve their country, and that, too, at such a juncture, would not be altogether unfairly dealt with, if not allowed to vote in future—seeing they had abused a sacred trust. </p>
+      <p>And when I also saw well known <hi rend="italic">bona fide</hi> and respectable settlers—men who had been some considerable time among us—proprietors of houses and lands and stock—(and that, too, to no small amount,) and also, yourself, Mr. Editor, the common Illuminator of us all—when, I say, I saw that you could not vote (owing to a “dodge,” or a legal quibble,) and saw, moreover, persons voting for Dr. Featherston, whose old registered qualifications, either as to residence or property, were wholly <hi rend="italic">nil</hi>, and knew, besides, that such (barring intoxication) could neither read or write—I could not help thinking on Dr. Featherston’s own words— “that although heretofore all his predilections had run in favour of the people, as he must confess—still nevertheless he now wished to put the representation on <hi rend="italic">some other basis</hi> than that of population.”—</p>
+      <p>And when I further saw (and was much grieved in seeing) the unseemly activity at the doors of the Royal Hotel of some of the <hi rend="italic">Subs</hi>. of the Land Office, (of whose conduct I shall say no more at present,) I could not help thinking, that, however un-English such a Bill may appear, something like the “Gag-Bill”<note xml:id="ftn4" place="foot" n="4"> In 1863 Senator Calhoun introduced a bill to the US Senate, commonly called the Gag Bill, prohibiting postmasters from receiving and forwarding any papers whatsoever containing anything relating to slavery; his aim was to preserve the status quo for the southern states—<hi rend="italic">Ed</hi>.</note> was absolutely necessary. </p>
+      <p>And when I saw a gentleman, (whose arrival among us last summer, as a settler, I was one of the first to welcome,) when I saw him acting the part of a “touter” for Dr Featherston, and leading into the voting-room certain half-sober men who could neither read or write (and whose fitness and real qualification as electors were highly questionable), I could not help thinking, that he appeared much more advantageously and looked far more as a Briton when he trod the quarterdeck of his ship.—</p>
+      <p>And when I also saw my neighbour—the late <hi rend="italic">Secretary</hi> of the Ahuriri Settlers’ Association—now undignifiedly laboring as busy as a bee in getting votes for Dr. Featherston, in order to the undoing of all that he (my neighbour) had so long and ably been engaged in doing, I could not help thinking—<hi rend="italic">sic transit gloria hominis!</hi>
+      </p>
+      <p>And when I turned and saw the upper Tutaekuri <hi rend="italic">runholders</hi>—and knew, too, what a long and rough and dangerous ride they had had, and considered their leaving their untended flocks;—and, also, saw enter the voting-room Mr. Alexander, another runholder and J.P., (and the oldest among us,) and knew, too, that he had left a sickroom to be present; and further, that these had all come to vote <hi rend="italic">for</hi> the PUBLIC good—I thought on Nelson’s last Battle signal, and thankfully felt, that Ahuriri yet had men who both valued their country and knew how and when to do their duty.—</p>
+      <p>And when I yet saw the Napier Schoolmaster enter and give his vote for Dr. Featherston; and considered, how he (the said Schoolmaster) had expressed himself relative to the Education Bill, and also concerning Dr. Featherston’s answers to his repeated applications respecting the Napier School, (<hi rend="italic">endeavouring to view it as I believed he himself had viewed it</hi>,) I could not help exclaiming mentally, “<hi rend="italic">Quid est homo</hi>!”—</p>
+      <p>And when I, once more, looked round, and saw a vacancy—that <hi rend="italic">one</hi> was <hi rend="italic">not</hi> there, whom (if well and able) I could not but think ought to have been there, viz,, the Chairman of the Ahuriri Settlers’ Association—I could not help thinking many thngs.—</p>
+      <p>And here, Mr. Editor, I must end; not but that I had <hi rend="italic">other</hi> thoughts. No doubt, in my thus plainly revealing what passed through my mmd, I shall vex some folks a little: I do not, however, wish to do so; I would very much rather they would by-and-bye quietly review their conduct as <hi rend="italic">Electors</hi>, and its probable consequences. Be this as it may: you know what I once publicly stated— “that I had ever opposed, and would ever oppose, all sham and cant and humbug”;—and I venture to think, that, while I am pretty well-known both faithfully and fearlessly to speak my mind, I am also known, <hi rend="italic">not</hi> to say aught in malice. </p>
+      <p>                               I am, Sir,  Yours very sincerely,</p>
+      <p>
+      <hi rend="smallcaps">Wm. Colenso</hi>. </p>
+      <p>Waitangi, June 29, 1858.</p>
+    </body>
+  </text>
+</TEI>

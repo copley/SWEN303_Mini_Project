@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0838">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1892 July 14: to Chapman</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A copy of this letter was sold at auction in 2012; it was annotated by Colenso in pencil, “N.B. I don’t know Mr. C. never had my correspce. with him. W.C. Have recd. a rather long note in reply—good on the whole. Shall I send it?”</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75122/">Chapman</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1892-07-14">1892 July 14</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1892 July 14: to Chapman<note xml:id="ftn3-599" place="foot" n="599"> A copy of this letter was sold at auction in 2012; it was annotated by Colenso in pencil, “N.B. I <hi rend="italic">don’t</hi> know Mr. C. never had my correspce. with him. W.C. Have recd. a rather long note in reply—good on the whole. Shall I send it?”</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke,<lb/>July 14<hi rend="sup ">th</hi>., 1892.</p>
+         <p>F.R. Chapman, Esq.,<lb/>Dunedin.</p>
+         <p>Dear Sir</p>
+         <p>I have recently received a copy of your paper in vol. xxiv. “Trans. N.Z.I.”, on “Greenstone”: and I suppose it to have been kindly sent me by you; and so I thank you for thus remembering me:—and in my doing so I am obliged to confess my poverty! for I <hi rend="italic">cannot</hi> follow your good example and so reciprocate your kindness by sending you a copy of my papers in the same vol., for I only receive 25 copies (while I require 40) which are <hi rend="italic">quickly despatched</hi>!—</p>
+         <p>I have not yet found time to read your paper (being, too, a very long one), but, on glancing into it, here &amp; there, the thought occurred to me, that you might have <hi rend="italic">selected </hi>more carefully, and so separated the wheat from the chaff. It is a common error, one to be regretted,—<hi rend="italic">one, sure to cause trouble hereafter</hi>, to receive and pick up every scrap of information (good, bad, &amp; indifferent!) <hi rend="italic">re </hi>old Maori matters: for <hi rend="italic">too many</hi> of those retailers of scraps and wonders (!) are <hi rend="italic">not</hi> to be depended on.—This has been too largely done by visitors,—and even by skilled men of science living at a distance, in Europe &amp; America, but aothors <hi rend="italic">resident</hi> in N.Z. should carefully steer clear of this fruitful error.</p>
+         <p>Again thanking you,—<lb/>  I am, Dear Sir,<lb/>  Yours truly,<lb/>  W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

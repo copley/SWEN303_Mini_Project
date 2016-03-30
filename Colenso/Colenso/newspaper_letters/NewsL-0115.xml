@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0115">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1884 A last word on Stamford-Street. Hawke’s Bay Herald 10 March.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1884-03-10">1884 March 10</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1884 A last word on Stamford-Street.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 10 March.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—With your permission I would yet say a little more on Stamford-street. I ought to have inserted it in my former letter, to make that complete, for I had it in mind at the time, but I feared to make my letter too long for your space. And, as I view it, it affects the public as much as myself, if not more so; and therefore I wish to make it known for timely and due consideration.</p>
+         <p>In my letter (of February 22), I said,—quoting Cr. M‘Dougall’s words,—that “the Borough Council should either sell us the bit of street end, or form it, and make it;” and it is to this latter proposal (supposing it should be urged,) that I wish to offer a few remarks.</p>
+         <p>I dare say, that many of my countrymen among your readers will recollect similar holes or blind lanes and alleys at Home in the towns where they formerly resided, especially if those towns were old ones; and also what a nuisance many of them were made. And I have been from time to time informed (by papers and letters from Home), that since the adoption of stringent sanitary measures, all such places have been as far as possible shut up. Besides, there is yet another nuisance connected with them, which the police at Home know something about, namely,—that such dark blind holes in streets are commonly the lurking places of thieves and vagrants, and other disorderlies. I think this will be allowed to be a fair picture, not over-drawn or coloured, of many such spots at Home.</p>
+         <p>But here in Napier such blind alleys may become much worse! especially in such a place as our Southern Suburb—Wellesley Road, with houses only on its Northern side,—and that for several plain reasons;—from the fact of our Napier houses and fences being almost wholly constructed of wood;—from the growing larrikin and vagrant elements;—and from the exposed situation of that end of Stamford Street opening into Wellesley Road, and lying wholly open to the whole force of the southerly gales blowing over the inner sea,—there being no building sites, nor even a fence, on the opposite side of the said Road washed by the sea! or likely to be for some generations.</p>
+         <p>Hence I am driven to conclude, that if that short end of Stamford Street should be retained open and formed and made—leading as it does nowhere! then it will become a kind of catch pool for all manner of filth (which I need not describe); and what is worse (please mark this!) a place for all light stray waifs from the sea and long beach below,—as straw, and shavings, and grasses and rushes, raupo from the neighboring swamp to accumulate; blown thither by the strong winds sweeping along the strait close fences of Wellesley Road, and then into the open <hi rend="italic">depôt</hi>—or public receptacle for rubbish! Which hole, convenient corner, or Noman’s-land,—if not actually made a place of resort for vagrants and other disorderlies,—is sure to become one for match kindling and pipe lighting in windy weather, by day and by night, and probably for the beginning of a serious fire. For should a fire ever happen there at a time when the strong southerly wind is blowing, with those large wooden buildings, and inflammable stores, and so much loose timber in the yard around, it would be a great one, and possibly ruinous to the adjoining railway station. So much for the public good.</p>
+         <p>As for myself, I think I may be permitted to say, (as all Napier knows the loss I have already incurred—in the “corner” section at least—by the taking away and the stopping of Stamford Street,) that if the Borough Council should decide on keeping that bit, or end, of Stamford Street open, it will be another means of lowering the value of that unfortunate corner section of mine (331), for the reasons I have above adduced. On the other hand, one even and continuous line of close fence, and without any unsightly public gaps or breaks, on the N. side of Wellesley Road, would not only be a means of increasing the value of property there, and of making that road much more respectable in appearance, but would also prove to be of great security and protection from fire, &amp;c., &amp;c.,—as well, perhaps, as a reasonable means towards the prevention of any increase of insurance rates in that quarter of the Borough.—I am, &amp;c.,</p>
+         <p>
+                  <hi rend="smallcaps">		William Colenso</hi>.</p>
+         <p> Napier, March 8, 1884.</p>
+      </body>
+   </text>
+</TEI>

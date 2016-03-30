@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0842">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1892 August 25: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1892-08-25">1892 August 25</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1892 August 25: to Harding<note xml:id="ftn3-605" place="foot" n="605"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke, Augt. 25/92<lb/>IX. p.m.</p>
+         <p>Dear Mr Harding</p>
+         <p>Though tired—so much confinement &amp; writing, w. Rheumatism in right arm &amp; hand,—I must write to you <hi rend="italic">tonight</hi>—for if I do not I may not again from this place, nor for some time to come! Besides, I am consy. in yr. debt for letter writing. I took w. me to Woodville on 20<hi rend="sup ">th</hi>. yours of 14<hi rend="sup ">th</hi>., intending to write to you on Sunday aftn. but my room is so dreadfully draughty! all round, that I cod. neither r. nor w. &amp; got this Rheum. besides! Ah me! Your last 2 letters are <hi rend="italic">super</hi>-excellent ones! how I should like to spend a <hi rend="italic">long</hi> evg. w. you! there is <hi rend="italic">much</hi>, as usual, in yr. remarks in which I go w. you.—I think but little of vol. XXIV. However the “powers” came to insert Taylor Wh’s. rubbish, is beyond my comprehension.<note xml:id="ftn3-606" place="foot" n="606"> White T. 1891. On the native dog of New Zealand. <hi rend="italic">Trans. N.Z. Inst.</hi> 24: 540–557.</note> As he has been pleased to bring me out, in his p. on M. dog, I must have another short one on same, w. something <hi rend="italic">new.</hi>
+            <hi rend="italic">
+               <note xml:id="ftn3-607" place="foot" n="607"> Colenso W. 1892. 1892 Observations on Mr. T. White’s Paper “On the Native Dog of New Zealand….” <hi rend="italic">Trans NZ Inst</hi>. 25: 495–503. </note>
+            </hi>
+            <hi rend="italic"> </hi>I shall enclose the copy of my note to Chapman, wh. will interest you: (<hi rend="italic">return</hi> when you next write.) I have not yet read his Greenst. P. &amp; never may!—</p>
+         <p>Old Field of Whanganui is a complete old bore! I think I told you how I was <hi rend="italic">driven </hi>to cut him! His last 2 letters to me are still <hi rend="italic">un</hi>opened. <hi rend="italic">Geaster </hi>Fungus is not uncommon, and we have <hi rend="italic">several </hi>N.Z. sps. <hi rend="italic">now</hi>: Hooker described one, &amp; I have also some ½ doz. or so:—my last, or rather <hi rend="italic">Hamilton’s</hi>, was a very fine one: surely you were <hi rend="italic">present</hi>? Now F. is a Member of N.Z.I., &amp; consy. <hi rend="italic">gets his copy</hi>, (if he pays up!) &amp; so, he could have seen <hi rend="italic">therein </hi>of what had been said <hi rend="italic">re Geasters. </hi>No need to go to Sweden or Norway! there are also several sps. in Tasmania. Our <hi rend="italic">net-like </hi>F. is not a “<hi rend="italic">Clathrus</hi>,” though near it (that is a smaller <hi rend="italic">Brit</hi>. sp.), but an <hi rend="italic">Ileodictyon</hi>: see yr. Hdbook. You say, you had lately seen (or got) 2 spns. tell me <hi rend="italic">their size</hi>, when you next write.—And so, <hi rend="italic">you </hi>did <hi rend="italic">not know </hi>the handwtg. in the address (to me) I sent you! it is <hi rend="italic">Tregear’s</hi>. <hi rend="italic">Thanks</hi>, big &amp; many, for yours re <hi rend="italic">our poet </hi>Morris—<hi rend="italic">that shall go home. </hi>Sorry to hear such a poor acct. of Bassett: hope he may recover in the country &amp; in summer. A line from Butler’s <hi rend="italic">Hudibras </hi>is running through my head &amp; I give it: “For <hi rend="italic">rhyme </hi>the rudder is of verses / by which, like ships, they steer their courses.” And now a few lines <hi rend="italic">re </hi>myself.</p>
+         <p>Last Sy., Eccles &amp; self were at Woodville, Services ’tween us, <hi rend="italic">i.e. </hi>I the organ-<hi rend="italic">blower </hi>as he was down to see his new parish, &amp;c.—I am going thither next Sy. for the <hi rend="underline italic">last</hi> time! I fear I shall (again) <hi rend="italic">feel </hi>the <hi rend="italic">parting</hi>!!! I purpose for leaving here <hi rend="italic">next week</hi>, at end, travelling leisurely to N., there to finish my papers for Society. I got a letter from Hill yesty., from Makaretu; he was well but (like <hi rend="italic">many </hi>more!) lamenting the <hi rend="italic">weather</hi>; he is at Waipawa today: he wrote, mainly to remind me of the Socy’s. Mtg. he had got inserted in “D.T.”, w. a small Report of the last mtg. that <hi rend="underline italic">I</hi>
+            <hi rend="italic"> was coming out next time</hi>!! too bad, that,—I had <hi rend="italic">nearly </hi>written to deny it. A letter today from Rev. Tuke, Taradale, <hi rend="italic">re </hi>the finishing &amp; opening of their enlarged Ch. on last Sy., &amp; the <hi rend="italic">fiasco </hi>caused by “D.T.” inserting in Sat. evg’s. issue—that <hi rend="italic">he </hi>was to preach, &amp;c. both mg. &amp; evg.! consy. many staid away—in part owing to weather—so Bp. disappointed, &amp; Colln. small! “D.T.” <hi rend="italic">since</hi> apologizes. I was much pleased to find you liked those “cuts” in Holloway’s—I had thought you would. And am greatly pleased in hearing such a good account of your dear son: such must be very cheering both to you &amp; to Mrs. Harding. Hamilton has sent me (a loan) the vol. of <hi rend="italic">Embellishments</hi>!! to John White’s book—about 100–120, but <hi rend="italic">no </hi>letter-press! a regular ollapodrida! gathered from <hi rend="italic">all quarters</hi>! some from books before I came to N.Z. many most wretched! among these <hi rend="italic">our </hi>Tareha! not a bit like him: &amp;, of course, “<hi rend="italic">ptd. by Govt</hi>.” I <hi rend="italic">suppose</hi> you have heard <hi rend="italic">nothing re </hi>W.C. &amp; Mao. Dicty., &amp; you don’t know Capt. R. suffy. to enq. of him. Young Luff called on me last Sy. aftn., &amp; told me of his <hi rend="italic">dismissal </hi>suddenly, after <hi rend="italic">so many </hi>years of service! I see his Father is moving in the matter. My arm is very sore: good bye. </p>
+         <p>Kindest regards. </p>
+         <p>Bel. me yours sincerely, </p>
+         <p>W. Colenso.</p>
+         <p>P.S. Yes: <hi rend="italic">I visited</hi> the W. Mission at Hokianga.</p>
+      </body>
+   </text>
+</TEI>

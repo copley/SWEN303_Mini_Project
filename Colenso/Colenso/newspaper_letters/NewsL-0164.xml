@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0164">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1893 “Jackatye.” Hawke’s Bay Herald 6 March.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1893-03-06">1893 March 6</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1893 “Jackatye.” 	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 6 March.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—In your paper of this day, (that is, in its “supplement,”) you have a strange outrageous story headed “Jackatye,” and said to be taken from the <hi rend="italic">Pastoralists’</hi> 
+                  <hi rend="italic">Review</hi> (of this—whether book or paper—I know nothing, never having heard of it before). </p>
+         <p>This story purports giving freely an account of “Jackatye,” and of an encounter that once took place between him and the first Bishop of New Zealand, Dr. Selwyn, and as the whole of it is a most audacious falsehood, without one single atom of reality or truth, and as I am the only European who has it in his power to disprove and to deny it,—I think it a duty incumbent on me to do so. </p>
+         <p>Bishop Selwyn, in making his periodical visits, as a matter of course always came to and remained at the Mission Station, and during his stay we were always together, and when he should leave on his way north I always accompanied him to Waikari—my northern boundary. </p>
+         <p>The Bishop never once visited Waimarama on the outer coast where Tiakitai (not “Jackatye”) resided; and no such meeting of theirs ever took place. </p>
+         <p>The Chief Tiakitai was never baptised, (as the framer of the story states he was—even to the giving his new and European name!), neither was he drowned <hi rend="italic">in that way</hi> mentioned by him.—I am, &amp;c., </p>
+         <p>
+                  <hi rend="smallcaps">		W. Colenso.</hi>
+               </p>
+         <p> Napier, March 4, 1893.</p>
+      </body>
+   </text>
+</TEI>

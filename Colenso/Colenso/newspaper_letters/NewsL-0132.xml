@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0132">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1886 Bishop of Liverpool’s Address. Daily Telegraph 11 December.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1886-12-11">1886 December 11</date>
+          <publisher>
+            <name type="organisation">Daily Telegraph</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1886-12-10">1886 December 10</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1886 Bishop of Liverpool’s Address.<lb/>
+        </hi>
+        <hi rend="bold italic">Daily Telegraph </hi>
+        <hi rend="bold">11 December.</hi>
+        <hi rend="bold">
+          <note xml:id="ftn51" place="foot" n="51">This newspaper has been torn so parts are missing. I have filled in words where appropriate—<hi rend="italic">Ed.</hi>
+          </note>
+        </hi>
+      </p>
+    </front>
+    <body>
+      <p>
+        <hi rend="smallcaps">Sir</hi>,—I thank you for the short notice (in your paper of this evening) of what the Bishop of Liverpool said at the late Church of England meeting in Congress Hall, Wakefield:—<hi rend="italic">viz. </hi>“That it was a delusion to suppose that anybody and everybody was fit to be a country parson.” At the same time I regret your not giving your many readers a little more of which that able, hard-working, and experienced Bishop had said in his noble and plain address on this important subject. To tell you the truth, I was so much struck with it, when reading it a few days ago, that I had half determined to make a few extracts therefrom for the columns of your paper; only I <hi rend="italic">[thought]</hi> you could not find room for them at <hi rend="italic">[this busy] </hi>time of Supreme Court sitting <hi rend="italic">[here, but]</hi> since you have begun, I will, <hi rend="italic">[follow]</hi> your example, give an extract or <hi rend="italic">[two].</hi>
+      </p>
+      <p>
+        <hi rend="italic">[The Bishop]</hi> commenced by observing, <hi rend="italic">[that the best] </hi>35 years of his ministerial <hi rend="italic">[duties were spent] </hi>in purely country parishes.— <hi rend="italic">[****] </hi>was not popular in an immense <hi rend="italic">[****] </hi>of the rural parishes. The <hi rend="italic">[****] </hi>the Church were not valued. <hi rend="italic">[****] </hi>were outnumbered by the <hi rend="italic">[****]</hi>-goers.—In the agricultural districts <hi rend="italic">[****] </hi>disliked<hi rend="italic"> </hi>worldliness in the rectory or vicarage. They had no confidence in a clergyman who seemed nothing more than a clerical sportsman, or farmer, or gardener, or lawn-tennis player, or singer, or ballgoer. – – – It was utter madness to suppose that a highly ornate ritual, psalm-chanting, a surpliced choir, processions, flowers on the Communion table, and daily services, would be at once swallowed down and appreciated by an agricultural population <hi rend="italic">[complet]</hi>ely unaccustomed to such things. <hi rend="italic">[They want]</hi>ed spiritual food. They did not <hi rend="italic">[want to be trea]</hi>ted like children, and if the <hi rend="italic">[Church could n]</hi>ot provide them with something <hi rend="italic">[to nourish th]</hi>eir souls, he must not be sur<hi rend="italic">[prised if they] </hi>walked in the steps of their <hi rend="italic">[great gra]</hi>nd-fathers and preferred <hi rend="italic">[****]</hi>. – – – The Sunday <hi rend="italic">[****]</hi> chief source of instruction. <hi rend="italic">[****] </hi>proportion of the sermons <hi rend="italic">[****] </hi>the clergymen of country <hi rend="italic">[** migh</hi>
+        <anchor xml:id="id__GoBack"/>
+      <hi rend="italic">]</hi>t just as well not be preached <hi rend="italic">[****] </hi>in a country pulpit was <hi rend="italic">[****] </hi>sin. – – – Well-mean<hi rend="italic">[ing ****] </hi>were incessantly taking <hi rend="italic">[****] </hi>this to get up village concerts, <hi rend="italic">[****]</hi>adings<hi rend="italic"> </hi>and questionable amuse<hi rend="italic">[ments]</hi>, and neglecting old-fashioned house to house visitation; but next to preaching the Word of God, nothing would ever do <hi rend="italic">[****]</hi>h good to souls, as quiet, friendly, face-to-face dealing with individuals!</p>
+      <p>Here, in these clear and faithful remarks, is much <hi rend="italic">food for thought</hi>— suitable for all parties. <hi rend="italic">Verb. sap</hi>.—I am, &amp;c., </p>
+      <p rend="end">
+        <hi rend="smallcaps">William Colenso.                                                   </hi>
+      </p>
+      <p>Napier, December 10th, 1886. </p>
+    </body>
+  </text>
+</TEI>

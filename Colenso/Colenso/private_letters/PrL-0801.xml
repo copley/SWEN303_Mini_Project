@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0801">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1891 September 28: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0496.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1891-09-28">1891 September 28</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1891 September 28: to Harding<note xml:id="ftn3-551" place="foot" n="551"> ATL qMS-0496.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke,<lb/>Sept. 28<hi rend="sup">th</hi>, 1891.</p>
+         <p>Dear Mr Harding</p>
+         <p>It is a full fortnight since I last wrote to you, and though in much pain from Rheumatism I must try to scribble a few lines—for I have had you in mind much since I came here; and your kind &amp; long &amp; welcome letter of the 20<hi rend="sup">th</hi>. I brought with me. Soon after my last—I had a visit from D. Guy to induce me to go at <hi rend="italic">once</hi> to D. as my evidence was required in the N. Ld. Court there. I refused, saying I was fixed for St. Augustines until Mr P. returned: the next mg. his partner Dinwiddie called (having come purposely from Dvk. to fetch me!) and I arranged to leave N. on 22<hi rend="sup">nd</hi>—which I did, &amp; came all the way to this place—very well. Next day in Court, giving evidence <hi rend="italic">re</hi> Maoris I found here (<hi rend="italic">upper</hi> Manawatu) in ’44–’50, &amp;c.—and as I had come so far, I thought I would spend a <hi rend="italic">few</hi> days,—I leave for “Pukurau on Wedy., Waipawa on Thursday, N. on Friday—&amp; then I hope to rest—<hi rend="italic">a while</hi>. <hi rend="italic">All that</hi> week from 14<hi rend="sup">th</hi> to 19<hi rend="sup">th</hi>. inclusive was <hi rend="italic">very wet</hi> (such a week of rain I had not seen for many a day!) &amp; we felt it the more <hi rend="italic">after</hi> so many weeks of <hi rend="italic">extra fine w.</hi> Here, last wk. it was cold, w. snow on the hills near us, &amp; frost this mg., but this day turned out a very fine one. In coming hither I could <hi rend="italic">not</hi> get my old room, &amp; had great diffy. in obtaining a room at all! (hotels <hi rend="italic">so crammed</hi>,) but at last got a good bedroom upstairs, but no fire, &amp; the sun does not shine into it, so I am &amp; have been <hi rend="italic">very cold</hi>, &amp; this had brought on a severe attack of Rheumm. this mg. I could scarcely hobble about my room, but am better this evening.—</p>
+         <p>Since my arrival here I have recd. a letter from Hon T. Secy. White, <hi rend="italic">re</hi> any papers of mine “for the next and final meeting”: I have replied, saying, Yes—&amp; how I had written 3 during the winter for the Sy. in fulfilment of my promise, but <hi rend="italic">the most important of them I had arranged to send to Wgn. to ensure it being read</hi>: &amp;, that I considered I had not been courteously dealt w. by the Council. I have also recd. a letter from Profr. Hutton, who strongly advised me to send my Moa &amp; Mantell P. to Wgn.—it is ready, &amp; I purpose sending it early next wk., when I do I will let <hi rend="italic">you</hi> know.</p>
+         <p>Of course you will have seen in the Papers (D.T. or H.) the <hi rend="italic">just</hi> judgement of the C.J. on young Lascelles—it has <hi rend="italic">pleased</hi> me, &amp; others. Rees too, is “in for it”, &amp; I hope <hi rend="italic">he</hi> may also get it, &amp; there are <hi rend="italic">other</hi> similar cases! No doubt you have long had your opinion of <hi rend="italic">that</hi> yg. L.—someone in Wgn. sent me a copy of the “N.Z. Times,” contg. a long account of the <hi rend="italic">Huia</hi> ceremony (!!) at Otaki. I could almost fancy that was got up by B—r.</p>
+         <p>Mr Parkinson returned on the 20<hi rend="sup">th</hi>. he was not very well when I saw him at his Ch. on the evg. of that day; I helped him in the S.—that evg. was a wet one. The Ch.-of-E. <hi rend="italic">Synod</hi> commenced at N. today.</p>
+         <p>I must now note a <hi rend="italic">part</hi> of your last. I sincerely hope your “trouble” (looming when you wrote) <hi rend="italic">re</hi> the Maori Dicty. may not prove so severe as you anticipated. “Ramp-weed”, I suppose will be the same as “Ramps” = <hi rend="italic">Rampion</hi>,—a sp. of <hi rend="italic">Calendula</hi>, that grows thickly in some spots near cultivations: Hooker, in his Brit. Flora, has “<hi rend="italic">Ramps,</hi>” as its com. name. “<hi rend="italic">Mums</hi>” will come-out some day, now that I <hi rend="italic">find it in </hi>“<hi rend="italic">Barbados.</hi>” &amp; only casually mentioned <hi rend="italic">among other well-known British weeds</hi>: Parkinson (in his Journal) has it, in <hi rend="italic">so speaking of the com. weed</hi> he had noticed <hi rend="italic">here</hi> in N.Z.; but I do not know what he alluded to. You tell me of Tregear’s “painful operation” (serious too), but you give no clue to it! I hope he is well out of danger, &amp; will soon get round again. You speak of his <hi rend="italic">wife</hi>: has he any family? I smile, aye laugh! over your graphic narration of your (their?) doings at Phil. Meeting—of Buller’s story from Skipper Fairchild <hi rend="italic">re</hi> Penguin’s preaching! reminding me of Dieffenbach’s mistake (?) or wicked jest <hi rend="italic">re</hi> the shag: (see “3 Lity. Papers”:)—and here, lately, I purchd. at Craig’s, a copy (No.1) of some good plates, pubd. by Cassell, (I have forgotten its name—perhaps “Academy,”)—in which is a curious one of the Grand Jury—all Parrots, &amp; one addressing them!—some ½ asleep, others w. incredulous and fitting physiogs.!! I should have thought that <hi rend="italic">your</hi>
+            <hi rend="italic">calculation</hi> for a <hi rend="italic">reprint</hi> of “Bush Jottings” would have been done by you in less than 5 minutes! I <hi rend="italic">wholly</hi> agree w. you, that “D.McL. was <hi rend="italic">not</hi> the statesman he is sd. to have been.”—</p>
+         <p>I have come out (<hi rend="italic">again</hi>) very strong in the matter of H. Racing &amp; Gambling &amp; Betting: in a Sermon at St. Aug’s! I told them (Members of Band of Hope, in particular) that I consid. Betting &amp; Gambling <hi rend="italic">the curse</hi> of the Colony, &amp; not the Drink! &amp; that my prayer to God would be, that every one of our Xn. yg. men of our Churche<hi rend="underline italic">s</hi>—who might be tempted to invest in the Totalisator might <hi rend="italic">lose</hi>, &amp; this on <hi rend="italic">every</hi> trial of <hi rend="italic">dishonest</hi> “luck”. You, away there at Cook’s straits—don’t see or hear so much of it, as we do: no less than 5 great Races (2 days ea!) are now advd. to come off within a fortnight: &amp; 2 more soon after! I am right <hi rend="italic">sorry</hi> at O. &amp; Capt. R. so madly supporting them.—</p>
+         <p>I read w. interest your account of Victor, &amp; the others, hope this may find him much better, and <hi rend="italic">all</hi> the rest quite well.</p>
+         <p>With kind regards, Believe me, truly yours, W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

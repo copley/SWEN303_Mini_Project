@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1060">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1898 September 6: to Mrs Hill</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-1.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/74906/">Mrs Hill</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1898-09-06">1898 September 6</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1898 September 6: to Mrs Hill<note xml:id="ftn3-915" place="foot" n="915"> ATL MS-Copy-Micro-0485-1.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, September 6<hi rend="sup ">th</hi>, 1898.</p>
+         <p>Dear Mrs. Emily Hill</p>
+         <p>Your long letter of the 5<hi rend="sup ">th</hi>. inst., on behalf of what you (following others) are pleased to term, “Woman’s Christian Temperance Union of New Zealand,” has reached me, and I am driven to reply. I would rather, however, <hi rend="italic">you </hi>had <hi rend="underline italic">not</hi> written it,—not that it shall, or possibly can, alter the high regard I have ever entertained for you, but, believing you are in error, I feel called on to write to you more fully and plainly, than I have either time or inclination for such matters.—–</p>
+         <p>And, here let me tell you, (1.) that <hi rend="italic">I am</hi> a “Christian Temperance” man (to borrow your own rather strange term); I have <hi rend="italic">always </hi>been such; and more than 60 years ago, joined in establishing a Temperance Society in New Zealand; an account of the meeting, &amp;c., being also the <hi rend="underline italic">first</hi>
+            <hi rend="italic"> English </hi>book ever printed in New Zealand; which, together with its writing, was done by me. (2.) That I, too, have had the misfortune to have had a “<hi rend="italic">brother</hi>” (and other <hi rend="italic">near </hi>relatives) who suffered long and seriously from drunkenness; but I must not allow that to blind my eyes or pervert my understanding from what is right.—</p>
+         <p>With you I acknowledge and deplore the habit and vice of drunkenness, but in my doing so, I dare not allow myself to be carried away with the strange notion—or “<hi rend="italic">fad</hi>”, that such is the crying sin the greatest one of our day! for, far beyond such in my estimation (and taking the word of <hi rend="smallcaps">God</hi> for my guide), are the sins of Gambling, of Mammon-worship (in its many seductive and “respectable” forms), of idleness, of “<hi rend="italic">being lovers of pleasure more than lovers of </hi>
+            <hi rend="smallcaps italic">God</hi>
+            <hi rend="italic">, having a form of godliness but denying the power thereof</hi>,—<hi rend="underline italic">from such</hi>” (said the Apostle Paul to Timothy) “<hi rend="underline italic">turn away</hi>”;—an awful and far more perilous state than that of drunkenness, and, I regret to say, <hi rend="italic">far more common</hi>!</p>
+         <p>You ask me, to consider “the Union described as a heading in your letter”: I do—I have done so: and I hesitate not to say it has nothing whatever to do with <hi rend="italic">true</hi> Christianity; and therefore I cannot conscientiously aid you with a donation. It is only one more of those specious “False Prophets,” in the garb of sheep’s clothing: of whom Our Lord <hi rend="italic">repeatedly</hi> warned his disciples; as the Apostle also says concerning them,— “Of this sort are they which creep into houses and lead captive silly women laden with sins led away with divers lusts, ever learning and never able to come to a knowledge of the truth;” to them belong the misguided “Army” mob (and other deluded sects) here among us. Indeed, I have repeatedly told them (their high “officers”(!!), when calling on me for money)— “Put away your “religion” (falsely so called) and I will gladly help you; <hi rend="underline italic">that</hi>, unfortunately for you, <hi rend="underline italic">is the Devil’s Jam</hi>”.—</p>
+         <p>You, Mrs. Hill, further tell me, that “your Union is far from being an ostentatious or Public Womans affair, it being about the only question suitable for Wives and Mothers to take up quietly”, &amp;c. Was such, indeed, the case last season, when those strolling women were here declaiming, publicly, to the merriment and mockery of the public of Napier? Are the self-sufficient <hi rend="italic">Miss</hi> Powell, and <hi rend="italic">Miss</hi> Kirk (named in your letter) either “wives” or “Mothers”? Pity it is that such women do not better know their proper position and <hi rend="italic">true women’s work</hi>, and so remain at home, refraining from gadding and spouting and tale-bearing. All your vain attempts,—your infatuation, will never succeed, never become of real lasting service. You can never obtain <hi rend="smallcaps">God’s</hi> blessing on your endeavours, just because they are unsuited for mankind, and against His expressed will. Gladly would I join a <hi rend="italic">true</hi> “Christian Temperance” Society, and did it heartily with pen, voice, and money, but it must be and wholly in accord with true Christian principles, as taught both in word and deed by Our Lord, and supported by his Apostles. I am a little too old a bird to be caught by plausible irrational chaff.</p>
+         <p>I have recently read in one of our leading English Newspapers, (I think, the “Standard,”) of a Rector in one of the midland counties, who makes the following statement: that he has been the owner of the Inn in his parish for more than 30 years; that on his being placed there he found that Inn to belong to the Rectory endowment and that he could not alter it; so he turned his attention to making the Inn become what it should be, and after some trouble &amp; loss, &amp;c., the parish, which was formerly a drunken one, became the very opposite, and the Inn doing well. Now <hi rend="italic">that</hi> is what I could both wish and aid; for many years I have held and taught,—that our hotels are <hi rend="italic">needed</hi>; that they should be kept by <hi rend="italic">fitting persons</hi>; sell only <hi rend="italic">unadulterated </hi>liquors, and <hi rend="italic">be open</hi> (as at home in England) <hi rend="italic">two hours on the Sunday</hi>.—</p>
+         <p>I enclose a clipping from an English Newspaper to hand by last Mail, it contains some solid truthful authoritative statements on the subject in question, which I think well worthy your attention.—</p>
+         <p>Permit me, dear Mrs. Hill, in conclusion to say,—that I wish you could clearly see your way, to have nothing more to do (at least <hi rend="italic">publicly</hi>) with this <hi rend="italic">fad</hi>, this unnatural Union.—</p>
+         <p>         And with every respect,</p>
+         <p>                         Believe me</p>
+         <p>                                         Yours faithfully</p>
+         <p>                                                         W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

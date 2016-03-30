@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0001">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1847 To the editor. New Zealand Spectator and Cook’s Strait Guardian 28 April.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1847-04-28">1847 April 28</date>
+               <publisher>
+                  <name key="http://wtap.vuw.ac.nz/eats/entity/2450/" type="organisation">New Zealand Spectator and Cook’s Strait Guardian</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <creation>
+          <date when="1847-04-24">1847 April 24</date>
+          <name key="http://wtap.vuw.ac.nz/eats/entity/44759/" type="place">Petoni</name>
+        </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1847 To the editor. </hi>
+            <hi rend="bold italic">New Zealand Spectator and Cook’s Strait Guardian</hi>
+            <hi rend="bold"> 28 April.</hi>
+         </p>
+      </front>
+      <body>
+         <p rend="end">In my tent, at Petoni,</p>
+         <p rend="end">Saturday evening, April 24, 1847.</p>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—I was not a little surprised on reading in your paper of this day’s date, of a “robbery committed by the natives at Ahuriri on the <hi rend="italic">Flying Fish</hi>!” Had the paragraph, Sir, met my eye at any other place than Port Nicholson—or, had I not been well acquainted with the whole transaction—I should not have cared to notice it; but,—1est silence on my part should be construed by any one knowing me to be here into acquiescence—or, the New Zealanders be believed to be worse than they really are,—I feel myself constrained to say a word or two upon the matter. I must, however, necessarily be very brief.</p>
+         <p>The <hi rend="italic">Flying Fish</hi>, Captain Mulholland, came into the Ahuriri harbour to refit rather than to obtain pigs, &amp;c.; she being in such a state as not to be able to proceed on her voyage without it. Before she came in the captain and crew had fallen out; on her coming in they again fell out, and some of the crew subsequently left the vessel.</p>
+         <p>A heathen chief of first rank, K., visited the vessel, and, with the Captain’s consent, “tapu’d” some “trade,” which, shortly after, the Captain sold to another chief. On K.’s returning to the vessel he found his “tapu’d” articles gone, and made a noise about them. The Captain endeavoured (as too many, I am sorry to say, Sir, of my countrymeu do) to ride the high horse—and failed. He got struck—which he told me, himself, was his own fault—and the chief took away some “trade,” for which, however, a certain number of baskets of potatoes were to be paid.</p>
+         <p>In this state of things the Captain called at the Mission Station. I was from home in the Taupo country. Immediately, however, on my return, I visited him at Ahuriri, and had the relating from his own mouth. He had no cornplaint to make against the natives (so far from it, that I should not have known the particulars of K.’s conduct had I not been informed by some natives which led me to enquire of the Captain) but against his own countrymen, (not his crew,) who had robbed him, and who were pursued and taken and brought back by the Christian natives, and their plunder taken from them.</p>
+         <p>On my stating I should write to K., the heathen chief, to hasten his promised payment, as the <hi rend="italic">Flying Fish</hi> would soon be ready for sea, Captain Mulholland said, he thought there was no need of my doing so, as the stipulated day of payment was not yet past. I, however, did so, and requested K. to give him a pig in addition for his having struck the Captain. To this K. assented, and made the payment within 4 days after, as the Captain (who afterwards called upon me) stated and as his note of thanks, written to me the night before he sailed, abundantly testifies.</p>
+         <p>The <hi rend="italic">Flying Fish</hi> had to have every thing taken out of her in order to clean and caulk her without and within. The whole of her “stock-in-trade” and stores, were piled upon the shingle bank at Ahuriri with no other protection than a sail; some hundreds of natives were about; and yet, Sir, her stores were not plundered by any but by Christian Englishmen! In fact, the Captain was obliged to set a native watch, to protect his property against his own countrymen.</p>
+         <p>I do not mean to say, Sir, but that the natives of Hawke’s Bay are difficult to deal with; still, I venture to think that one step towards making them better is for more vessels than one to trade there, and to have those vessels manned (or, if not manned, commanded) by moral, if not Christian men, who will set them a good example. I scarce need add, that such vessels may depend upon what little aid and influence I may possess being exerted in their favor.</p>
+         <p>
+            <hi rend="italic">Apropos</hi>—statements similar to the alleged “robbery” have been formerly concocted in reference to other places in these seas, to secure the monopoly and scare away a new-comer.</p>
+         <p>“Facts,” Mr. Editor, “are stubborn things,”—as you, yourself, have more than once said. And yet (though I believe I have said enough to satisfy any impartial person) I have not told the whole; some of the deeds of some of our countrymen in Hawke’s Bay, I willingly for the present draw a veil over.</p>
+         <p>In conclusion, Sir, I may—as a well-wisher to the peace of the colony—be allowed to remark (though I don’t pretend to know <hi rend="italic">how</hi> it is, yet <hi rend="italic">true</hi> it is)—that your paper too frequently sets matters in a very strong light against the natives. During the last 14 months in particular, I have been several times grieved at the relations therein contained concerning events which happened (I mean the bias—the <hi rend="italic">animus</hi> which too plainly pervaded them), and which I knew were very widely different from what were therein related. I do not mean to say that <hi rend="italic">your aim</hi> is to over colour or unnaturally to distort your statements; but I think, Sir, that when you have been led to publish forth to the world somewhat against the natives, and which, a few days after, has been found to be incorrect, you should, at least, make the <hi rend="italic">amende honorable</hi>, and take the earliest opportunity of stating “the truth, the whole truth, and nothing but the the truth.”</p>
+         <p>Upon the whole, I think, Sir, you should be a little more cautious, in these times of extra excitement, as to what you receive and tell forth to the world as facts. Who can possibly tell the tremendous amount of physical evil (not to say moral guilt) which a continued course of inflammatory—though, it may be, infinitesmal—doses, will ere long cause to the whole system?</p>
+         <p>		I am, Sir, 	Your obedient servant,</p>
+         <p>
+            <hi rend="smallcaps">		William Colenso</hi>,</p>
+         <p>		Resident Missionary at Ahuriri.</p>
+         <p>P.S.—I should also remark—in order to avoid ambiguity—that, the cause of Captain Mulholland’s visit to the Mission Station was, to ascertain if he could obtain any assistance in a pecuniary way to enable him to engage and pay some white men to repair his vessel.—As the whole of his “trade” (tobacco) which he brought with him, did not amount to a fourth part of the quantity mentioned in your paper.</p>
+         <p>		W.C.</p>
+      </body>
+   </text>
+</TEI>

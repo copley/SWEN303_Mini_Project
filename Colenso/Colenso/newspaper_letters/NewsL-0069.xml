@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0069">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1869 Native affairs. Wellington Independent 3 August.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1869-08-03">1869 August 3</date>
+               <publisher>
+                  <name type="organisation">Wellington Independent</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <creation>
+          <date when="1869-07-24">1869 July 24</date>
+          <name type="place">Napier</name>
+        </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1869 Native affairs.<lb/>
+            </hi>
+            <hi rend="bold italic">Wellington Independent</hi>
+            <hi rend="bold"> 3 August.</hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—I trust you will kindly allow room in the columns of your paper for this letter, although it is long. You may not wholly agree with it; nevertheless, though various our endeavors, our object is one—<hi rend="italic">Peace</hi>. Yesterday morning our Hawke’s Bay Herald informed us what a state many of the good folk in your city of Wellington were in, owing to the news reaching you of To Kooti having joined the Maori King at Tokanga-mutu. To me it was really good news (if true) and I will tell you why. (1) Because, as I viewed it, properly followed up, it might lead to peace. (2.) Because it would be very likely to restrain To Kooti and his marauding band from again swooping down on our more exposed out-settlers. </p>
+         <p>1. I have said— “Properly followed up it might lead to peace.” My own opinions on the only sure and proper way to a firm and lasting peace have been some time before the public (see below) and all that has happened since has only confirmed me in those views. I think highly of Mr. Rolleston’s motion for a commission of enquiry (with one alteration), provided it is rightly managed, and believe that real good would result to both races from it. I demur altogether to Mr Attorney General’s statement— “The Maoris now in arms have put forward no grievance for which they seek redress. Their object, so far as it can be collected from their acts, is murder, cannibalism, and rapine. They form themselves into bands, and roam the country seeking a prey.” (Opinion, &amp;c., 30th June, 1869, Parliamentary Paper, p.3.) They have grievances, which they have patiently borne, and they have long endeavored to express them. (See, for instance, the petitions from the Poverty Bay and East Coast tribes to His Excellency Sir G. Bowen, Parliamentary Paper, A. No.16, Session 1868.) And it is because they cannot get their grievances promptly attended to that they have been driven to desperation, and that they are now in arms, and (<hi rend="italic">worse</hi>) in such a state of mind—deadly enmity—towards us, which is sadly increasing, and will, I fear, in time be found to have infected the present “friendlies.” Now from my long and intimate knowledge of the Maori—past and present—I feel convinced, that if they are met by us frankly, honestly, and liberally, they will meet us in the same spirit, and it must be <hi rend="italic">bona fide</hi> on our part. If such is the case, then Mr. Rolleston’s motion is a step in the right direction; but to render it effectual this amendment must be made, viz., to omit all Judges of the Native Lands Court (a well as all other Government Officials, both General and Provincial), and in the selection of Commissioners to be very sure to have no one who has ever obtained any of their lands or runs, for himself or his relatives, or who is, or who may be, interested in the acquiring of any such. The Maoris are naturally very suspicious, and see through all such miserable manœuvres. If no fit persons are to be found in our North Island better then let the Commissioners be chosen from among Middle Island gentlemen, albeit strangers to the Maori manners and customs. Further, if Commissioners should be appointed, let the fourth estate (the Press of N.Z.), and the colonists generally, patriotically refrain for a while from injudicious comment upon the Maori people—their sayings and doings.</p>
+         <p>2. “It would restrain To Kooti and his marauding band, &amp;c.” Yes: thus. Te Kooti would be under the immediate rule of the Maori King and his Executive (shrewd and able men), so that he could no longer act as he pleased, the more so from the fact of his not being <hi rend="italic">by birth</hi> an A1. chief (<hi rend="italic">i.e.,</hi> the acknowledged head of any tribe), and having joined the King party he would have to obey Tawhiao. At the same time, however, we must be careful in rashly concluding that Te Kooti, being an inferior chief, can be therefore easily overcome; we must not forget the Hauhau element,—he is now a name, an authority, a notoriety, among the great and increasing body of Hauhau fanatic, which makes him of far greater importance than if he were the head chief of a tribe, however large that tribe might be.</p>
+         <p>Before I conclude I would also state my belief, that it is far from prudent to be guided by the opinions of any Maori chiefs, however influential or friendly, who may have been with us in arms against the Hauhaus, or whose relatives or people may have in former years suffered from the Waikato tribes, as such cannot but give the old innate Maori opinion, arising either from their never dying hate and love of revenge, or from fear that they themselves may at some future day be retaliated upon by a spared foe.</p>
+         <p>I trust I shall not be deemed to have trespassed in thus once more putting my views on such an important subject before the Colony. It is because I believe them to be correct, that I do so; and because I see no other easy way out of our difficulties.—I am, &amp;c.,</p>
+         <p>
+            <hi rend="smallcaps">William Colenso</hi>.</p>
+         <p>Napier, July 24, 1869.</p>
+         <p>Mr Colenso has sent us another letter which has already appeared in the “Hawke’s Bay Herald.” We have not space for it—<hi rend="italic">Ed. W.I.</hi>
+         </p>
+      </body>
+   </text>
+</TEI>

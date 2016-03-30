@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0016">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1838 February 8: Octavius to Octavia Hadfield</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 29)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 23.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1838-02-08">1838 February 8</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/5754/">London</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key=" http://wtap.vuw.ac.nz/eats/entity/70767/">Octavia Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1838 February 8: Octavius to Octavia Hadfield
+         </p>
+      </front>
+      <body>
+      <p>Saturday</p>
+      <p>February 8th. 1838</p>
+      <p>My dear Octavia,</p>
+      <p>I am in a great hurry.  I have just got a notice that I must be on board in two hours.  I shall sleep on board as the ship goes out of dock before day light in the morning.  If we have a fair wind we shall be out of the channel now in a few days.  I have nothing to say.  I am quite well and have put everything on board.  I had wished to have written more fully to you but I cannot.  May the Lord be with you all.  Give my love to my father and mother and all and believe me</p>
+      <p>Ever your affectionate brother</p>
+      <p>Octavius Hadfield.</p>
+      <p>London</p>
+      <p>I write a few lines to George - farewell.
+      </p>
+      </body>
+   </text>
+</TEI>

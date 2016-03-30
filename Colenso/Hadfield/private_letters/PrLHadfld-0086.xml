@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0086">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1863: Octavius Hadfield to his brother Col. Charles Hadfield</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions, spine title "Hadfield, Typescript Miscellaneous Fragments 1833-1897", stamped 19 Dec 1979.  Section: Fragments - Fragmentary extracts from the letters of Octavius Hadfield.  "EXTRACT NO. 5."  Page 17.</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 10.12.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1863----">Date</date>
+                  
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70819/">Charles Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1863: Octavius Hadfield to his brother Col. Charles Hadfield</p>
+      </front>
+      <body>
+      <p>I have hitherto been dealing only with facts; I must now say something as to the probable future.  There are 500 soldiers in this country: 200 more are expected from England.  It is reported in the Papers that 3000 have been sent for to India.  So that England will soon have sent in all 10,000 men, (about the number sent to Canada in the prospect of a war with America.)  You will observe that all this is the consequence of Colonel Browne's seizure of Waitara, and that I predicted this must be the case, if the British Govt. sanctioned (as it subsequently did) his proceedings.  There are now about 1000 Maoris in arms at and near Tataraimaka.  General Cameron is there with troops.  At present we only hear of skirmishes.  You will get later news by the mail through the papers  The general feeling of the natives is that if the war is confined to Taranaki the natives in that part may fight it out with the Govt; but that if it is turned into a war of races, that is, if any attempt is made to treat all Maoris as enemies, there will be a universal rising all over the country, and what I predicted in a letter to the "Times" which you had printed as a "Sequel etc.", namely, the slaughter of all whites indiscriminately will take place.</p>
+      <p>I have no doubt whatever that the view I state here is the real Maori one.  I confess I am now quite perplexed in endeavouring to form an opinion as to the future.  I am unable to make any suggestion.  Till recently all was clear.  Had Mr Fox remained in office there would have been peace and a firm govt.  If the Tataraimaka natives are thoroughly conquered the difficulty may be settled for a time; but nothing will have been done to put down the King party.  If Govt. undertake to put this down at present by force, they will bring about all the consequences that I have before alluded to.  The fact is we are in a mess -- exactly the same mess, as you will remember, that I predicted as certain to flow from Col. Browne's and his backer the Duke of Newcastle's proceedings. </p>
+      <p>I must now say that Sir G. Grey deserves the trouble now coming on him.  It was his anxiety to be free from an able man like Fox that procured him Bell, whose very name as the unscrupulous supporter of Col. Browne's acts has caused his name to be detested among the natives.  It is quite evident to me that both Sir G.Grey and his ministers thought they were going to do a fine stroke of political prowess in which they have been woefully disappointed.  You will be surprised perhaps, remembering my former very high opinion of Sir G. Grey to find me commenting so freely on his proceedings; but he is no longer the man he was.  I don't care <supplied>[to]</supplied> say more, but it is quite evident to all his old friends here that he is not in earnest as he used to be.  To be sure the Duke of Newcastle could hardly have treated a dog with more disrespect than he has Grey in some of his public despatches.</p>
+      <p>Well, you must excuse my politics, if war can be called politics.  I should have made a very poor adviser in times of calamity.  I foresee difficulties and take great pleasure in pointing out how they can be avoided; but when things through carelessness and folly are allowed to get into a mess I am not the person to afford much help in showing the way out of it.  I have now very little to say.  I hope however that moderation will guide the councils of the Govt.  As I have said we already hear of men being treated wholesale as murderers, and we hear of confiscation of land etc.; but this is not statesmanship.  The misfortune of young colonies that almost supreme powers are intrusted to a community far too soon, where it is quite possible that there is not one <hi rend="underline">single</hi> <hi rend="underline">man</hi> who ever took a leading or even a subordinate part in the government of the mother country.  It is an evil which seems to be overlooked at home.  If I am right that this Tataraimaka move was simply made to gain political support in the next meeting of the General Assembly, how absurd to think that this may occasion Great Britain to maintain 10,000 men at war in this colony.</p>
+      <p>Well, in the midst of all this I endeavour to look above.  In God's providence matters frequently turn out better than we expect.  Mens angry feelings very often subside.  I therefore hope for the best.  After what I have said you may feel alarmed about us, but the most of the natives have still some respect for a clergyman, at least this is the case in this part of the country.  I may perhaps add a few lines before this is sent.</p>
+      <p>Ever your affectionate brother,
+      </p>
+      <p>Octavius Hadfield.</p>
+      <p><!--was this line written by Hadfield or a later editor?:-->Col. Hadfield.</p>
+      </body>
+   </text>
+</TEI>

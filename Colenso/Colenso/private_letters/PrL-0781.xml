@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0781">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1891 May 24: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0496.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1891-05-24">1891 May 24</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1891 May 24: to Harding<note xml:id="ftn3-527" place="foot" n="527"> ATL qMS-0496.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Sunday aftn—,<lb/>May 24<hi rend="sup">th</hi>, 1891.</p>
+         <p>Dear Mr Harding</p>
+         <p>Here I am, again, at <hi rend="italic">our</hi> old Corner, &amp; tho’ I have a dozen, or more, things to do, I decide on writing to you. I left Dvk. on 22<hi rend="sup">nd</hi> in a gale of wind &amp; rain—with plenty of <hi rend="italic">cold</hi>. I was advised &amp; begged <hi rend="italic">not</hi> to travel in such w. but having made several appointments I was detd. to keep them: arrg. at Waipawa, no-one on platform! in that weather—I, engaged in getting out my <hi rend="italic">goods</hi> lost the cab! &amp; so was obliged to remain in that open wet &amp; windy station <hi rend="italic">bower</hi>, 20 m., until trap came again! &amp; the conseq. was, a severe cold and Rheumatism.—The w. was better on Friday, tho’ very cold, &amp; I got here on F. night—<hi rend="italic">tired</hi>.—Found several letters &amp; papers, &amp;c, awaiting me: a note from White, Hony. Secy., asking me to assist at <hi rend="italic">next</hi> meeting, (no Papers!) infg. me—very few at the last mtg. &amp; that Mr H. took up <hi rend="italic">the whole of time</hi>! &amp; that they have <hi rend="italic">not</hi> altered day of meetg.—I have ansd. sayg. “I will <hi rend="italic">try</hi>”.—Just as I was leaving Dvk. a letter from Hislop (Railway) behalf of a Mr Dunne—Station Mr., Wgn., who had heard, there were lots of 2<hi rend="sup">nd</hi> hd. Books on N.Z. for sale at N., &amp; asking, where? &amp;c—I replied, I did not know of any: &amp; <hi rend="italic">supposed</hi> such a rumour might have arisen from <hi rend="italic">our</hi> N. pubs., &amp; if so Craig wod. have ’em on sale—giving a List. I also said Mr Donne could apply to <hi rend="italic">you</hi>, who knew more <hi rend="italic">re</hi> such than anyone. Among my many papers to hand is a copy of the “Wairoa Guardian,” May 9<hi rend="sup">th</hi>., contg. a long 2 col. laudation, &amp;c. &amp;c. of Tregear’s Dy., at <hi rend="italic">first</hi> I thought it might have been from you—but I doubt it: if you wld. like to see it <hi rend="italic">let me know</hi> &amp; I will ford. it. A 4to. pamphlet to hand from Longman &amp; Co. (as usual)—“Notes on Books,” analysis of wks. pubd. during Quarter, contains this sentence—“Ea. art. is confined to an <hi rend="underline italic">analysis</hi>
+            <hi rend="underline italic">of the contents</hi> of the wk. referred to: opinions of the press &amp; laudatory notices are not inserted.”</p>
+         <p>While at Dvk. I had put aside (or, rather <hi rend="italic">used</hi> as dryg. papers for my plants) portions of Londn “Standard” for you—I now send them in one lot <hi rend="italic">as</hi> 2p. Salisbury’s sp. is a grand one, plain, honest, <hi rend="italic">natural</hi>, to the point, would that our Muff papers would introduce such into their cols., instead of so much everlasting rubbish—re sports!—You will also, I think, be interested in <hi rend="italic">other</hi> portions I have marked. Another book, just to hand, is, Copy of 25<hi rend="sup">th</hi>. Report Colonial Museum Geolog. Survey &amp;c contg a full List of Carter’s Donation of Books to Museum Liby., on N.Z. &amp;c., among them “Bidwell’s book”!—<hi rend="italic">but none are to be lent</hi>! C. Has also brought ford. that portion <hi rend="italic">re</hi> N.Zr. from preface to Lit. Billard. (which I had noticed in my paper on Macaulay, &amp; <hi rend="italic">this</hi> p.of mine C. also gives <hi rend="underline italic">after</hi>)—did <hi rend="italic">you</hi> know C.! <hi rend="italic">I did</hi>! among C’s. books are several of value—I shd. like to see, 1 being that early romance we had been writing about: but get a copy of 25<hi rend="sup">th</hi> Report—it is <hi rend="italic">small</hi>—@ 2/- perhaps.</p>
+         <p>I am thinking of writing a short p.—as a kind of addendum to my long <hi rend="italic">Moa</hi> one—bringing forwd. that note in Collier, also what Owen himself says, &amp; a few other items: what do you think of it?—</p>
+         <p>Although I <hi rend="italic">kept</hi> my appointment (at Waipawa) in spite of gale, <hi rend="italic">others</hi>
+            <hi rend="italic">did not</hi>, and so I shall have to go thither, in about 8–10 days, or more, as the principal person is gone to Australia in quest of his brother (interested), to him he &amp; lawyer had cabled <hi rend="italic">3 times</hi> without success, so must wait for his return!—</p>
+         <p>I did not go out yesty., &amp; tomorrow is the big holiday, so I rem. until Tuesday: the weather <hi rend="italic">this day</hi> is delightful—hope it is so with you for the dear boy’s sake. A letter of Enqy. to hand from Profr. Hutton <hi rend="italic">re</hi> Moa bones here, which I must ansr., &amp; then get out spns. plants for Kirk, long promised to aid him in his work. Why do yr. Wgn. p. still style K. “Profr”? The Govt., &amp; others <hi rend="italic">never do so</hi>. Enquiries also to hand re Maori words, &amp;c. I really do not know when I shall find a <hi rend="italic">spare hour</hi> to take up Tregear! A lot of <hi rend="italic">ms.</hi> (painfully written!) to hand from Wgn.—on “Spiritualism”, for me to read, &amp; give an opinion on,—I shall <hi rend="italic">not read</hi>, &amp; return at once, time is too precious to be thus wasted. The writer (copier!) thinks very highly of it! S. Johnson, Waipawa, “own corrt.” “Dy. T.” for yrs, is discharged (<hi rend="italic">he</hi> told me of it,) &amp; is <hi rend="italic">now on</hi> “Herald’s” staff! Fannin is now “<hi rend="italic">Secy.” </hi>instead of Hill:<hi rend="italic">&amp; </hi>F. is gone S. to see after his demented wife! I passed him in train at O. on Thy. I hope you have seen Carr’s Report of hundreds of jagged rocks within the Bk.water basin!! that will cost thousands to remove:—a rate is to be immy. struck!!—</p>
+         <p>Now to your letter of 18<hi rend="sup">th</hi>—<hi rend="italic">Imprimis</hi>: you make me to wonder greatly at your sleepy-headedness!! I cannot understand it: it <hi rend="italic">seems</hi> (to me) as a precursor of some grievous malady coming over you: you say,—“I can sleep to almost any extent—all day as well as all night”!!! It is the very contrary w. <hi rend="italic">me</hi> (although I had always heard, &amp; often seen,—<hi rend="italic">old</hi> folks require much sleep):—If I am to sleep at all—I <hi rend="italic">must</hi> remain up till near, or past, XII, &amp; even then I get but little, &amp; that always broken, &amp; must rise early. As you say—“I hope my memo to Postr. Genl. may prove of some service—if only as a slight kick forwards! I see he is moving in <hi rend="italic">that</hi>
+            <hi rend="italic">direction</hi>. I may be able to help you <hi rend="italic">re</hi> that line you quote—“The pride that apes humility”:<note xml:id="ftn3-528" place="foot" n="528"> Samuel Taylor Coleridge: And the Devil did grin, for his darling sin is pride that apes humility. </note> I have it here, somewhere.—I took both <hi rend="italic">whole </hi>S. at Dvk. on 17<hi rend="sup">th</hi>.—&amp; got through well: day fine, but <hi rend="italic">cold</hi> especially for <hi rend="italic">sitters</hi> in Dvk. Ch.!</p>
+         <p>You say—“<hi rend="italic">I saw</hi> Long’s picture of Pharaoh’s Daughter last yr. <hi rend="italic">at the Exhibition</hi>—<hi rend="italic">where</hi> was it held?</p>
+         <p>I suppose we shall be sure to have a visit from this epidemic—may we be prepared for it! Did you notice the report of <hi rend="italic">Case</hi> between Knowles &amp; Colledge? C. is now photographing: pity he did not stick to some <hi rend="italic">one</hi> thing &amp; work heartily at it: too much “<hi rend="italic">love of money</hi>”, I fear, w. <hi rend="italic">him</hi>.</p>
+         <p>I stay at Home this evg. that Bob. may go to Ch. (tho’ fine, &amp; moonlt., &amp; I <hi rend="italic">ought</hi> to go?)—for, poor fellow, he has <hi rend="italic">no chance</hi> when I am absent: his wife <hi rend="underline italic">will</hi>
+            <hi rend="italic"> go</hi> always of a mg., &amp; will <hi rend="italic">not</hi> be left <hi rend="italic">here alone</hi> of an evg., &amp; so she goes in evgs. also!—I shall call on your Brother on Tuesday.—</p>
+         <p>I did not see Fire in room until I retd. to N. though it was <hi rend="italic">very cold</hi> at Waipawa, now, I have it, a little, &amp; am in for it for the winter. A friend in N. America wrote to me, 2 months ago, saying he had sent me a copy of the “Pacific Magazine”:—I thanked him for it from Dvk. supposing it was <hi rend="italic">here</hi> but it is <hi rend="italic">not</hi>! Do you know the work?</p>
+         <p>I will not trouble you with <hi rend="italic">my views</hi> re “Teetotallism”, merely observing, that w. me this “fad” is exactly collateral w. Drunkenness, and <hi rend="italic">has no true connection whatever w. Temperance</hi>. Let “Teets.” fly their <hi rend="italic">own proper</hi> flag (as Teets. or Blue Ribbonites, Nazarites, Total Abstainers, Water drinkers, &amp;c, &amp;c) and I could respect them—just as I should a Dr. for strait jackets for Maniacs—&amp; would endr. to get inebriates—who cannot control themselves—to join them—as a <hi rend="italic">demier</hi> hope! But <hi rend="italic">no temperate person should do so</hi>. It makes me ½-wild to see the stupids in the Bush, (led by an illiterate uneducated person) daring to call themselves—not only <hi rend="italic">Temperance</hi> but “<hi rend="underline italic">Gospel</hi> Tempce. Society”: to me this savours of blasphemy: for a <hi rend="italic">Teetotaller, </hi>as<hi rend="italic">such</hi>, can find <hi rend="italic">no hold whatever</hi> in Holy ss.</p>
+         <p>
+            <hi rend="italic">25</hi>
+            <hi rend="sup italic">th</hi>. I now proceed to close: 3 p.m. a dull calm warmish day. I heard the firing below in Cl. Sq.—did not go out to brow. Bp. kindly called &amp; spent ¼ hour, he is <hi rend="italic">well</hi>; Dean is <hi rend="italic">not</hi>, &amp; Bp. laments it. Have been engd. this mg. in looking out copies of our Nap. pubs. as <hi rend="italic">gifts</hi> sometime promised to folks inland.—</p>
+         <p>I am pretty well. Did not stay up, neither get up to see eclipse,—can not see such unless I go out to <hi rend="italic">open</hi>—far away from house. Should you buy a Report of Col. Museum—let me know <hi rend="italic">price</hi>, &amp; if to be had from Didsby.—</p>
+         <p>I hope this may find you &amp; yours <hi rend="italic">well</hi>, &amp; with fine <hi rend="italic">weather</hi> at Wgn.</p>
+         <p>Believe me ever—</p>
+         <p>Yours affy. </p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

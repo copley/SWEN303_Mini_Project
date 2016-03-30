@@ -1,0 +1,23 @@
+extends ../node_modules/jade-bootstrap/_bootstrap
+head
+    title=title
+    
+block body
+    +navbar("Colenso Database", "dropdown_menu")
+        +nav_item("/", "active") Home
+        +nav_item("/browse") Browse
+
+    .container
+        h1 #{title} Edit and Download page.
+        p Please click on the links below to edit or download the document.
+          |<br>
+          |<br>
+
+    .container
+        a(href='edit?path=' + path) Edit document.
+        br
+        a(href='download?path=' + path) Download Document.
+        p <br>
+
+        br
+        .row !{search_result}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0863">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1893 March 27: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1893-03-27">1893 March 27</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1893 March 27: to Harding<note xml:id="ftn3-638" place="foot" n="638"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Monday 27<hi rend="sup ">th</hi>
+            <lb/>March, 1893: night.</p>
+         <p>Dear Mr. Harding</p>
+         <p>I do not <hi rend="italic">feel </hi>well, &amp; <hi rend="italic">therefore</hi> I am writing to you!! I went to Taradale last evg. for Ch. S. there, in <hi rend="italic">pouring rain</hi> (got well-nigh wet through before I could reach the <hi rend="italic">little </hi>gate at M. Rd.) &amp; when I got to T., was <hi rend="italic">obliged </hi>not only to keep on my wet boots but also to walk through the <hi rend="italic">thick </hi>grass &amp; water from Parsonage to Ch., &amp; consy. to stand in them in Ch., &amp; then stopping all nt. at Pge., &amp; no fire there! &amp; strange bed-room cold <hi rend="italic">&amp;c &amp;c</hi>—I got up this mg. unwell, &amp; retd. to N. by Rymer—&amp; have (I may truly say) <hi rend="italic">lost this </hi>day! Perhaps I should not have gone, in such fearful weather, had it not been for my unhappy <hi rend="italic">coerced </hi>remaining at N. 3 weeks ago (in very fine w.), and so greatly displeasing them.—I may mention, that the Bp., knowing I had arranged w. Mr. Tuke to go to T. kindly called last wk. (&amp; almost purposely, I think,) to beg me “<hi rend="italic">not </hi>to continue retg. <hi rend="italic">late at night </hi>over those low wet flats.” And today, again, he called, to know about me—believing I had gone forth in that terrible rain.—He, too, had to face it, <hi rend="italic">twice</hi>, to get to the Port Ch., having sent <hi rend="italic">O. </hi>Dean to Waipukurau, to fill (<hi rend="italic">pro tem</hi>) Knipe’s place: the Bp. had only 20, Congn., last night, &amp; mine about the same!!!—</p>
+         <p>Your kind letter of 20<hi rend="sup ">th</hi>. I duly recd. w. Paper &amp; clippings—for all, <hi rend="italic">thanks</hi>. You omitted, howr., to return Dr. Cooke’s (famous!) <hi rend="italic">Pt.Card</hi>,—if it is still <hi rend="italic">alive</hi>! Send it back—<hi rend="italic">anon. </hi>Your<hi rend="italic"> clipping</hi>, re<hi rend="italic"> </hi>“Scents of the Anct. Maoris”, amused me w. its parenthetical heading (“W.C. in Native”,) w. you I suppose it should be “<hi rend="italic">Nature</hi>”, as I happen to <hi rend="italic">know</hi>, that the Ed. of “N.” had recd. from <hi rend="italic">Kew</hi>, a copy of my Paper contg. that extract—which (as you say) was pubd. in “Trans.” <hi rend="italic">last year</hi>. And the “Herald”, this mg., gives the <hi rend="italic">same </hi>mutilated portion! I don’t know who, here, takes in “Nature”, but when I go to town again, I will enq. of Craig.</p>
+         <p>I thank you, <hi rend="italic">trebly</hi>, for your very prompt research <hi rend="italic">re</hi> Bidwell’s book, &amp;c. His omissions (?) evidently help to clear—he says (<hi rend="italic">your </hi>Ms.) “Arrived at Bay Islands <hi rend="italic">5. Feby. 1839</hi>”—and from Deiffenbach’s wk. I copy,—“<hi rend="italic">March 2/39</hi>” as <hi rend="italic">the day </hi>of his ascending Tongariro, so that it was <hi rend="italic">after </hi>(some time in Apl. or in May, perhaps) that he was <hi rend="italic">w. me </hi>in the Bay, as we went over his collns. togr., &amp; I took him off, to the vessel in which he retd. to Sydney. D. gives 8 full pps. 8vo. of <hi rend="italic">very interesting </hi>ext. from B’s. pamphlet, (&amp; this, or a portion of it, you will find in Hill’s p. on Tongariro, in vol. XXIV (?) I was surprised to hear H. read it, &amp; I asked him privately, where he had got it? &amp; he sd.—from <hi rend="italic">my Dieff. </hi>wh. I had lent to him, &amp; I had forgotten!!!—however the book has <hi rend="italic">since</hi> been returned.)</p>
+         <p>D. begins his extract with a curious remark (something like yours): D. says,— “from Mr. B’s. short acct. of his “Rambles in N.Z.” I will here give an ext., taking <hi rend="italic">the liberty to alter the native orthogy. as given by him</hi>”. What I should still like to know, is,—what course did B. take to get to Taupo &amp; Tongariro, <hi rend="italic">where </hi>his starting point? (between 5 Feby. &amp; March 2<hi rend="sup ">nd</hi>.) &amp;, again, by <hi rend="italic">what course</hi> did he <hi rend="italic">return</hi>—to the Thames,—by <hi rend="italic">same </hi>route, or by <hi rend="italic">another</hi>? I tumbled over sevl. pp. of my Journal Autumn/39, but could find no mention of his visit—possy. it was still <hi rend="italic">farther </hi>on in that yr.—I will look <hi rend="italic">again</hi>. A handsome bulbous plant B. sent me (w. many others, seeds, &amp;c.) is <hi rend="italic">now </hi>flg. in my garden: I kept it 25 yrs. before it flowd.—now, &amp; for <hi rend="italic">many </hi>years, it flowers regy. every year.—Did I tell you, I lent B’s. letters to me to Mr. Balfour Bk NZ to show to his wife.</p>
+         <p>You mention meetg. &amp; convg. w. Luff, I wrote him a very long letter on 21<hi rend="sup ">st</hi>. Feby.—to wh. (apparently) he had made no allusions in his talking w. you! (so much like the man!!) I had recd. his letter while in the Bush, &amp; in my coming away had put it up w. several <hi rend="italic">old un</hi>ansd. letters (of wh., I am sorry to say—I have 2 bundles! No 1, &amp; No 2, &amp; I had put it into the <hi rend="italic">wrong </hi>bundle—<hi rend="italic">i.e. </hi>No.2, &amp; only found it out, on writing to Hooker &amp; others in Feby.—hence, too, mine to L. was <hi rend="italic">extra </hi>long!)—I have not since heard from L., &amp; I <hi rend="italic">fancied </hi>he was a wee bit vexed.—</p>
+         <p>I have recd. a letter from a Member of Pt. (of longstanding), enqg., among other matters, of the “Mao. Dy.”—with remarks <hi rend="italic">re </hi>Tregear: possibly, Mr. T. <hi rend="italic">may yet</hi> hear something <hi rend="italic">re </hi>his conduct, &amp;c, in that matter.!! Also, the enqy. made, “If I had seen Atkinson’s critique on T.?” In reply, I asked— “<hi rend="italic">Is such pubd</hi>.?” I think you sent me a <hi rend="italic">bit</hi> of it, in some Paper, or other: enlighten me when you next write.——</p>
+         <p>Did I mention in my last of Wills’ having recd. a vote of censure at a Pub. Mtg. held at Makotuku? he, too, being <hi rend="italic">present</hi>! It is reported <hi rend="italic">fully </hi>in “Bush Adv.”—w. name of writer. It arose (or, “as <hi rend="italic">last </hi>straw”!) from W. in his Sermon <hi rend="italic">pitching into the Com. of Sports </hi>for their agreeing to have a publican’s booth on Recl. Ground on Sports Day—as always hitherto, and no harm resulting therefrom.—I saw Paper<hi rend="underline italic">s</hi> at Athenm., should like to get copies.</p>
+         <p>One thing in yrs. surprised me! “Of Mr. Edwards of Gas wks. I know very little.” Whew! Why? I had <hi rend="italic">supposed you </hi>had selected him as a good Trustee for me under my (projected) will! it is well I <hi rend="italic">did not see him</hi>.—As I am still in quest of a 3<hi rend="sup ">rd</hi>—and as you had <hi rend="italic">kindly </hi>mentd. yr. Cousin Rechab, I would enq. <hi rend="italic">privately </hi>of <hi rend="italic">you</hi>, Do you think he would accept the office? I saw Knowles again last week and I am to give him a List of (say) 4–6 persons, whom I consider “fit &amp; proper”, w. him &amp; Grubb: I wish <hi rend="italic">you </hi>were <hi rend="italic">here</hi>. [Selfish, again!!] Knowles has a nice office now—where R.P. formerly was: R.P’s. being upstairs, &amp; 3 clerks, all new to me, engaged in 2 outer rooms.</p>
+         <p>I have been engaged in tying up parcels of books, &amp;c &amp;c—among them <hi rend="italic">many </hi>of your ptg. (“Tid.L.”, &amp; “Jub.P.”) I had no idea there were so many—hundreds!!! in one of your parcels of “Tid. Lore”, I found <hi rend="italic">3 </hi>“Lity Papers” &amp; 2 “Ruahine” (wh. I welcomed!) &amp; 3 “Sabb. Obsce.”) but how, or why such should have been <hi rend="italic">there </hi>and tied up by <hi rend="italic">you</hi>! passes my skill. I have done but <hi rend="italic">little work</hi> of any kind of late—changeable &amp; cold weather, perhaps, causing a wretched, semi-morbid, state of Rheumatism &amp; <hi rend="italic">feelings.</hi>—Letters from Engd. to hand, inform me of my eldest son still suffg. from Influenza remains, much as I was—in feet &amp; legs:—I am in that respect very much better.</p>
+         <p>
+            <hi rend="italic">Re </hi>that letter, &amp;c, of “Jacky Tye”: I have been thinking on writing to Sir Jas. Hector (as Editor &amp; Director of our “Trans.” vol.) to enquire, If I were to write some narrations of <hi rend="italic">strange </hi>doings—meetings—altercations, &amp;c &amp;c—during my first years of residence—whether he would accept of <hi rend="italic">such </hi>for the yearly vol. (Bearing in mind the fate of “In Memoriam”, &amp; “3 Lity. P.”) What do you think of it? I suppose you scarcely know him sufficiently, to mention it to him.</p>
+         <p>I must conclude: glad was I to read “<hi rend="italic">all well</hi>”—may such <hi rend="italic">long</hi> continue: I also hope, trade has increased w. you: <hi rend="underline italic">to know this would cheer me much</hi>. I did not go to the Govr. reception. Spence the Metht. Mr. has got an <hi rend="italic">awful </hi>dressing from R.P. in D.T. for his remarks in pulpit on Lady Glasgow.—</p>
+         <p>                     Ever yours, W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

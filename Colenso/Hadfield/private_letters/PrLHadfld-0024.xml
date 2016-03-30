@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0024">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1839 October [?day]: Octavius Hadfield to unknown recipient</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960 (page 48).  "Extracts from the Letters of Octavius Hadfield.  EXTRACT NO. 12."</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 24.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1839-10--">1839 October [?day]</date>
+                  
+               </correspAction>
+               
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1839 October [?day]: Octavius Hadfield to unknown recipient
+         </p>
+      </front>
+      <body>
+      <p>Te Rauparaha, the principal chief of Kapiti, Cook's Straits <!--these last three words "Kapiti, Cook's Straits" were added in MS annotation to typescript - ? exact location in sentence--> of the Southern part of the Isl., and who has hitherto by his very name caused terror in all directions, having been a very blood thirsty savage, having in a Providential manner had a few leaves of the Gospel of St. Luke brought among his people; and a native from this, formerly a slave, having given them some instruction, has lately sent two young chiefs to us requesting missionaries.  My wish on this subject being known it was proposed to me to go there and I readily assented.  The Rev. H Williams will accompany me as I as yet no <!--sic; previous editor's comment: "As spelt in text"--> next to nothing of the language, and he will continue with me for a few weeks.  I shall probably be joined ere long by some other person (Mr and Mrs Ford have volunteered).  We sail as soon as the weather will permit and shall probably be accompanied by one of the young chiefs.  I shall take one or two Christian natives for teachers.  I must give you some further idea of the place I am going to.  It is about two hundred miles further to the South than any of our missionaries have yet been.  The name of the place is Kapiti, just by Entry Is in Cooks Straits, about 50 miles from the extreme southern part of the island and <supplied>[about]</supplied> 150 from Cape Egmont. in Taranaki.  <supplied>[Its]</supplied> distance from the opposite Isl is about 17 miles.  From all accounts there are about 8000 natives in the immediate neighbourhood, and large parties of natives all along the coast to Cape Egmont where there are about 4000.  There are also about 600 English and Americans in the neighbourhood of Kapiti, and many on the southern isl within a range of 30 or 40 miles dwelling in Cloudy Bay or Banks.--All these I must endeavour occasionally to visit.  It is in every respect as important a place as a minister of Christ can be placed in.  I should have preferred a more confined sphere of duties and one more entirely among natives-- but as I have made it a matter of much prayer of fervent prayer, of believing prayer that I might be directed by the Lord, I must cheerfully enter upon that path which he has opened to me  You may easily imagine from the outline that I have given that I shall have abundance of employment.  My health is not so good as when I left England, but I trust that when I get into my work and have plenty of exercise that it will improve.  Nevertheless my health and life will last as long as the Lord has work for <hi rend="underline">me</hi> and then I shall enter into rest.  
+      </p>
+     
+      </body>
+   </text>
+</TEI>

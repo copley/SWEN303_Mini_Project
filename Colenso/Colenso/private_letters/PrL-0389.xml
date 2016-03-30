@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0389">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1879 June 14: to Hector</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MTG HB 18568.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">Hector</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1879-06-14">1879 June 14</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1879 June 14: to Hector<note xml:id="ftn3-12" place="foot" n="12"> MTG HB 18568.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, June 14<hi rend="sup">th</hi>., 1879.</p>
+         <p>Dr. Hector,</p>
+         <p>My dear Sir,</p>
+         <p>I was pleased on receiving your telegram of the 3<hi rend="sup">rd</hi>. instant, informing me of the little box of “exhibits” having reached you “all right”: <hi rend="italic">and</hi>, that you would write. Since then I have been on the look-out for a letter, but not greatly so, knowing how much your time is occupied with more important matters.</p>
+         <p>Before that I scribble anything of myself I should say, (to prevent if possible any more enquiries by Mr. Gore,) that our 80 Members are made up thus,—<hi rend="italic">viz. </hi>75 as printed in last Report (forwarded) and 5 since = 80. I fancy that ere long we may tot up 100!</p>
+         <p>I do not know when you will leave Wellington for the warmer clime, but I hope <hi rend="italic">before </hi>you do so you will not fail to return me my two “<hi rend="italic">Ruahine</hi>”<hi rend="italic"> </hi>Papers. I have just received more letters from abroad <hi rend="italic">re </hi>their private publication.</p>
+         <p>At our Meeting last Monday I read a Paper, (No. II of Series “Contributions to a better Knowledge of the Maori Races,”) we had a good attendance, but, I fear, <hi rend="italic">I</hi> shall not do much more, in that way, for the Society. I have a score of things <hi rend="italic">to do </hi>(I may truly say) which have long been accumulating terribly, but I had set them aside to write for our Institute. Now, however, that I have so signally failed in the two <hi rend="italic">Ruahines </hi>I feel as if the spell were <hi rend="italic">broken</hi>; and so I told our <hi rend="italic">Council</hi> on Monday.—</p>
+         <p>I send you enclosed, a clipping from the “H.B. Herald” <hi rend="italic">re </hi>our Meeting,—the reporter being present. Mr. Peppercorne, our Municipal Engineer, has written a Paper for our next month’s meeting, “On the influence of Forests on Climate and Rainfall,”—which I have promised to read for him.—</p>
+         <p>I noticed a few printer’s errors in my 2–3 Papers printed in vol. xi (the <hi rend="italic">one </hi>copy sent for our Library by Mr. Gore)—but such will always be the case, I fear, in <hi rend="italic">Maori </hi>words, unless <hi rend="italic">I correct the sheet</hi>: and surely this can easily be arranged?</p>
+         <p>I am going to ask you a favour, (which is both <hi rend="italic">within </hi>your power &amp; not <hi rend="italic">very </hi>hard or troublesome,) <hi rend="italic">viz.</hi> to get your Mr. Gore to write his name some 50 times on a sheet of paper, so that I may cut them off separately and paste on the coverings of vol. xi. when I send them out by post: our Post Master says, this will do. We, <hi rend="italic">here</hi>, have no one now privileged to frank whom I can ask; Locke did for me last year. But (as I said to you last summer) a single line from the Post Master General to the 5–6 offices where your Branch Societies are,—to allow of the free postage, or <hi rend="italic">mail carriage</hi>, of your publications, would be better still, and save all the bother.</p>
+         <p>Where can I apply for copies of the various works published by your Department? <hi rend="italic">e.g. </hi>Fishes, Birds, Molluscs, &amp;c.,—to <hi rend="italic">buy them</hi>, of course.—</p>
+         <p>                             Believe me ever, &amp;c.,</p>
+         <p>                                             Wm. Colenso.</p>
+      </body>
+   </text>
+</TEI>

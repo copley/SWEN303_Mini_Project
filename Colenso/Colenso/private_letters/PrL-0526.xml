@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0526">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1883 February 13: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861. Endorsed “A 18/2/83 with one seed pod of Divot Plant”.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1883-02-13">1883 February 13</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1883 February 13: to Balfour<note xml:id="ftn3-173" place="foot" n="173"> ATL 88-103-1/07. Original at MTG HB 67861. Endorsed “A 18/2/83 with one seed pod of Divot Plant”.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Feb 13<hi rend="sup">th</hi> 1883</p>
+         <p>Mr D.P. Balfour </p>
+         <p>Dear Sir</p>
+         <p>Your (long expected) letter of the 9<hi rend="sup">th</hi> Feb came to hand yes­terday. Do <hi rend="italic">not</hi> think, that, in my replying at once, I am overflowing with the milk of human kindness; or, that I am not something <hi rend="italic">more</hi> than a wee bit vexed, at your treatment of me. I am vexed, &amp; no mistake. I would not (could not) be vexed at your long silence (21<hi rend="sup">st</hi> Oct–9<hi rend="sup">th</hi> Feb—110 days!!!) had you but saved me a few of your dear <hi rend="italic">Divot</hi> plants flowers; on this I had <hi rend="italic">relied</hi>, &amp; that kept me quiet, or I should have written long ago, over &amp; over, indeed I would have gone to Glenross my­self, to have seen, admired, &amp; fetched them, if I could have for a moment supposed that my friend D.P. Balfour <hi rend="italic">could</hi> have served me so. I did as <hi rend="italic">much </hi>(or more) in Dec, to secure some Orchids I had marked away in 70 mile bush, in Nov. I had given strict charge about them &amp;c, to my Scandinavian friend residing there, &amp; as the weeks passed by &amp; no response I <hi rend="italic">rushed</hi> in—in time too; &amp; got them.</p>
+         <p>I this case of yours (<hi rend="italic">re those plants</hi>) it is <hi rend="italic">worse</hi>—a 1000 times—for I had so much <hi rend="italic">depending</hi> on <hi rend="italic">you</hi> as a kindly loving naturalist—had men­tioned it in my letters to Dr Hector, &amp; to Sir J.D. Hooker;—&amp; now—all is gone.</p>
+         <p>For my part, I would that in this instance, you had acted more “Cannily” (as your people are said to do) &amp; <hi rend="italic">not have told me</hi> of your “28 flowers”; then I should not grieve, &amp; have to grieve. However it is no use grieving over spilt milk;—&amp; so I give in; having said my say, now I must een sleep quietly.</p>
+         <p>It was with the greatest difficulty that I gave way <hi rend="italic">at the last moment</hi>, to re-accept the off. of Hon Secy to our Society. I had given <hi rend="italic">full</hi> no­tice at the Council meeting the month before, &amp; it was only through the several members here (including Dr Sp. &amp; the Bishop—both <hi rend="italic">privately</hi>, &amp; openly, in Council, &amp; at annual meeting, that I gave way—<hi rend="italic">thinking</hi> that in <hi rend="italic">you</hi>, &amp; J.Stewart, Takapau, &amp; Hardy, Hampden, &amp; Hamilton, Petane,—I had some real nature loving friends. I had told them (with bitter feeling) at our annual meeting, that, my toes had been sorely trodden on,—that “A prophet (teacher) was without honour in his own place” &amp;c (which Tan­ner, present, said <hi rend="italic">loudly</hi> “hear hear” to,)—and I do think if your unfor­tunate letter had come to hand a week earlier, I should not have accepted office. But enough of this; you will see that mine is not a toom cask but a full wane—.</p>
+         <p>I have laughed with pleasure over your <hi rend="italic">correct</hi> outline drawing of our long-snouted insect, with horn at tip of his nose. I have long known that gentleman, and when I first got him (some 40 years ago), I stared with astonishment. There is another like him, with horns, half way up the nose. I have 3 here,—2 I got from the Bush in Nov last, in the <hi rend="italic">rain</hi>, &amp; one from Drummond, Ongaonga, but wanting 3 legs. Send me yours (with <hi rend="italic">all other things</hi> for your Museum), as I wish to match them, m &amp; f, if I can do so.</p>
+         <p>It will be a long time (a year at least) before our Museum can show any­thing worthy; much remains to be done.</p>
+         <p>I will send you a “Report” next week (now in printers hands). I sent you a “D.T.” last week.</p>
+         <p>In sending me any insects &amp;c in a bottle, spirits, put in a bit or two of soft worn paper, so as to keep them steady. Just put loosely in, it will float in the spirits, &amp; keep them down. I always do so.</p>
+         <p>
+            <hi rend="italic">No hurry.</hi> I was in Bush all November,—in <hi rend="italic">snow</hi> too, only 2 upper rails above the snow; more than a fortnights rain. I did well however, then, &amp; again in mid Dec,—but had to <hi rend="italic">work hard</hi>, the heat &amp; dust &amp; sun; never worked harder, travelled many miles daily over the roads, exclu­sive of heavy dense forest work.</p>
+         <p>Hope you are all well. I am so, and with kind regards, am, now as ever, </p>
+         <p>             Yours truly</p>
+         <p>                             W.Colenso</p>
+         <p>P.S. If there are any dead flowers or seed vessels to your Divot plants, gather &amp; send them.</p>
+      </body>
+   </text>
+</TEI>

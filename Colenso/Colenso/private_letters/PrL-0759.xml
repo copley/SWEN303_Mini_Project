@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0759">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1890 December 25: to LW McGlashan</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/74971/">LW McGlashan</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1890-12-25">1890 December 25</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1890 December 25: to LW McGlashan</p>
+      </front>
+      <body>
+         <p>(copy)</p>
+         <p rend="end">Napier, December 25<hi rend="sup">th</hi> ‘90</p>
+         <p>Mr L.W. McGlasham—Dr Sir</p>
+         <p>Late last night I retd. to my ho. from the forests (Dvk.), where I had been staying for several weeks. While there I recd. yr. circular-note <hi rend="italic">re</hi> “3 copies Early Histy. N.Z. being shortly ready for me”:—and here I found them,—w. a pencilled memo. on the wrapper of one—“to send you chq. £7.10.0 for the same”—&amp; this I now do, enclosed.</p>
+         <p>Having all my many things to attend to at once, I have not had time to do more than just to look into your big book: my eye, howr., has detected (1) several errors &amp; grave omissions: (2) quotations of questionable authority (some of our books on N.Z. being utterly untrustworthy). (3) small local matters made too much of: (4) well-known old cuts &amp; plates <hi rend="italic">very badly</hi> reproduced: (5) many portraits (!) more like <hi rend="italic">caricatures</hi> (I, unfortunately, having well-known the originals): (6) and some others wonderfully &amp; tawdrily embellished—at the same time there is useful &amp; correct informn. in the Book (though 2<hi rend="sup">nd</hi>-hand) very little being really new—<hi rend="italic">to me.</hi>
+         </p>
+         <p>The work reminds me strongly of that huge compilation—Taylor’s “Ika-a-Maui,” which contains a fairish share of what is true, but so jumbled up with a deal of chaff &amp; worse! as to be of little real service. T. having been largely indebted to others, and not knowing the Maori lang. could neither translate truly nor separate the wheat from the chaff.—</p>
+         <p>Very recently I have had to correct several grave errors, published in a lengthy notice or memoir in the “Evg. Press,” of men, things, &amp; dates, of 50 years ago. To do that I had to refer to documy. &amp; other evid. in my possn. You will find my long semi-historical letter in the Supplement “Evening Press”, of Saturday Novr. 22<hi rend="sup ">nd</hi>.</p>
+         <p>I am, Dr Sir</p>
+         <p>Yours truly,</p>
+         <p>(signed) W. Colenso .</p>
+      </body>
+   </text>
+</TEI>

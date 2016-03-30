@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0299">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1875 October 20: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1875-10-20">1875 October 20</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1875 October 20: to Luff<note xml:id="ftn2-233" place="foot" n="233"> ATL MS-Copy-Micro-0485-4.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, N.Z.,<lb/>October 20 1875.</p>
+         <p>My Dear Sir</p>
+         <p>You can fancy me <hi rend="italic">here</hi>, with <hi rend="italic">all</hi> my surroundings &amp; sitting down this night to write to you! My last to you was on 22<hi rend="sup ">nd</hi>. Sept., which I trust you duly received since then (i.e. <hi rend="italic">last </hi>week) I received your 2 letters of July 26–28, &amp; Augt. 24, both of course by the <hi rend="italic">same </hi>S.F. Mail (Let me tell you: 1. that you began your letter of July 26, saying—the <hi rend="italic">next day</hi> (27) was the Mail day, &amp; yet you add, without a word, a <hi rend="italic">very short</hi> Postscript on <hi rend="underline italic">28</hi>
+            <hi rend="sup underline italic">th</hi> &amp; post your letter <hi rend="italic">on that </hi>day, to slumber nearly a month in the P.O.!! 2. In yours of Aug. 24<hi rend="sup ">th</hi>., you say,— “Last Mail we did not receive any letters from H. Bay,”—I cannot understand why. It seems that I have letters from friends in London, written the <hi rend="italic">day before</hi> (23) acknowledging &amp; answering my letters of both June &amp; July, which of course had been by them received on 23<hi rend="sup ">rd</hi>.—I can only suppose that you must have some how got yours 2 days after!! (I wrote you <hi rend="italic">long</hi> letters in both June &amp; July Mails,—but but I knew the <hi rend="italic">June </hi>one<hi rend="italic"> from</hi>
+            <hi rend="italic">H.B. </hi>did not get to Wgn. in time, owing to the Sy. gale, which made the “Luna” put back to Cape Kidrs.)—but I shall hope to hear by your <hi rend="italic">next</hi> that you did receive them.—</p>
+         <p>I don’t know of any thing in your 2 letters (above mentd.) requiring answer,—I would you had seen Devon &amp;c <hi rend="italic">not</hi> under water,—and that I could hear of your being <hi rend="italic">settled</hi> down somewhere &amp; very very comfortable—that is, if you will, shall, or can settle down in <hi rend="italic">England</hi>—which several of your old acqs. doubt. I hear that J. Rhodes is <hi rend="italic">tired </hi>of it, &amp; is (about this time) leaving for N. India—&amp; then return to N.Z. Col. Whitmore arrived here 2 days ago,—with Ormond, Stokes, Locke &amp; Fannin,—all from Wgn. in “Luna.” Session just over,—Parlt. to be dissolved <hi rend="italic">tomorrow</hi>! Two Bills of note have been passed—Abolition of Provinces (<hi rend="italic">no more P. Councils</hi>! so I have not lost much,) 2 in the new Representn. Bill, a 3<hi rend="sup ">rd</hi>. Member for <hi rend="italic">Napier</hi> (or H. Bay),—then there are 3 other Bills affecting <hi rend="italic">us</hi>:—1. to allow Corporation to borrow ₤10,000—for water works; 2. to enable them to fill swamp &amp;c, &amp;c. 3. to enable the Port Ahuriri Bridge to be built. Fannin went to Wgn. on some matter of disputed, or complicated accounts—went overland, away altogether nearly a fortnight.</p>
+         <p>I have not <hi rend="italic">seen </hi>Mr Sidey since my last (nor for some time previous) I believe he is pretty well. Dr. H. told me <hi rend="italic">here</hi> on Sunday last that Mr &amp; Mrs Sidey were at Miss Ormond’s evening party last wk.,—&amp; of course the Dr.      I have been laid up just all this month but<hi rend="italic">not</hi> from Rheumatism this time. On Sept 30 I went by <hi rend="italic">early </hi>train (7.30) to W. Clive School, &amp; caught a severe cold, which was increased in returning in the <hi rend="italic">draughty</hi> train (<hi rend="italic">door</hi> &amp; windows open!)—in a day or two I had a fearful cough—a raging, horrid one with voice lost, scarcely human and got so bad in the following week, that I began to think of putting my Papers &amp;c. in order, fearing I might not have 24 hours more! Providentially my <hi rend="italic">head</hi> was <hi rend="italic">very clear</hi>—only chest &amp; throat affected:—&amp; it was the anniversary day of my old friend Catchpool’s death! Of course now you are gone, I had <hi rend="italic">no </hi>visitors, &amp; the evenings &amp; <hi rend="italic">long </hi>nights did <hi rend="italic">seem</hi> lonely—aye, <hi rend="underline italic">were so</hi> of a <hi rend="underline italic">reality</hi>! Dr. H. has been very attentive &amp; I still take med. every 4 hours: I am <hi rend="italic">much better</hi>, but far from being all right. I put on my boots on 18<hi rend="sup ">th</hi> (2 days ago) &amp; went to town but could scarcely get back. The weather is <hi rend="italic">delightful</hi>—and I ought to be a-visiting my schools, but cannot just now. Of course, if I don’t, it will seem I shall have to resign—though, for many reasons, I don’t wish to do so just now. Just the state of my health. I have not called to see Mr.O or F.,—&amp; they have <hi rend="italic">not</hi> called on me; I did think that my neighbour would have done so,—perhaps I was wrong in expecting it.</p>
+         <p>Poor Martin Hamlin has returned from Auckland: the Drs. can do nothing for him, so he <hi rend="italic">must</hi> die from Cancer,—his case is much like that of F. Slaters. Sheehan brought up all the Heretaunga &amp; other like matters in the Ho., a long speech: C. took him up, &amp; told him some queer things—insomuch that S. got his motion negatived loudly in the Voices. H.R.R. too has come out very bitter in “Lords”—but, I am told, only to his own cost. I hope you will see the Papers—which Grubb is to send you, instead of me. Wilson has only let <hi rend="italic">2 </hi>of his 4 terrace Houses (the 2 end ones); I fear that may prove to be a bad spec. Dr.H. tells me, that W. had borrd. ₤500. from Tiffen to build them, &amp;c. Some more Houses are going up—on Wh. Rd., &amp; on the Hill—in <hi rend="italic">several places. </hi>Garry got water—Robjohns &amp; Ellis’ Brewery—but lost it again through pipe choking: they are still hard at it. The plot <hi rend="italic">between</hi> your old shop &amp; Morrisons is being built on (I think for McVay), &amp; I also think that N.&amp; C. are going to have <hi rend="italic">his </hi>present shop. Several <hi rend="italic">new</hi> Houses being built at W. Clive, Havelock &amp; Waipukurau. Orr says that W. Clive is going ahead more than any other place, including Napier. At Waipukurau they have also a Branch Bk. (U.B.A.), of which Torr is to be Governor.—only fancy <hi rend="italic">John Alexr. S.</hi> becoming a “Good Templar”, <hi rend="italic">Methodist </hi>Sch. Room Brauch,—of course, he has <hi rend="italic">something</hi> in view. There has been a storm in a teacup at Waipukurau—S. Williams &amp; Eccles v. Levy, Poole, &amp; others, <hi rend="italic">re </hi>Parsonage! Lots of writing in Herald, &amp; more to come. The new Ch. of E. Minister (Mr Sherman) “<hi rend="italic">selected </hi>by Bridge!!” has arrived <hi rend="italic">there</hi> at Waipukurau. 3 new Houses built just below my gate opp. side, next to Drs. <hi rend="italic">old</hi> earth fence: one a Bakehouse! The H.B. <hi rend="italic">Agricl. </hi>Socy. have half their annual show fair of stock at Hastings—<hi rend="italic">much grumbling</hi>. I hear that H.R.R. is fencing between <hi rend="italic">us</hi> at Hampden, but, my informant says, (a <hi rend="italic">resident</hi>) that he does not think he is right as to <hi rend="italic">the line</hi>, as it wholly deprives me of water:—more trouble I suppose. The Wesleyan Ch. below me, is looking well, just shingled—perhaps rather too much of pinnacles, &amp;c &amp;c—seeing it is only wood work.</p>
+         <p>Well now, I must conclude. You owe me much for letter-writing: dinna forget I often,—too often—<hi rend="italic">think of </hi>
+            <hi rend="italic">you: </hi>should it be otherwise?—</p>
+         <p>And with kindest regards and best wishes I am my dear Sir, Yours, W. Colenso.</p>
+         <p>Lee &amp; Cornford have dissolved partnership (just as we thought)—M. Boylan Waipukurau is a Bankrupt. Dr Gibbes’ wife just got a son—a smart Drapers Shop opened on plot—corner—next to Sandy’s <hi rend="italic">old</hi> shop.</p>
+      </body>
+   </text>
+</TEI>

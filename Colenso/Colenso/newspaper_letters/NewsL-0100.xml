@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0100">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1882 The fever scare. Hawke’s Bay Herald 13 April.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1882-04-13">1882 April 13</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1882 The fever scare. 	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 13 April.</hi>
+               </p>
+      </front>
+      <body>
+         <p>“For none but a madman would fling about fire, 	<lb/> And tell you,— ’Tis only in sport!”</p>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—My letter to you of yesterday has been the means of my receiving several communications concerning the anonymous and wilful calumniators of our town. I had little thought they had been so numerous, or had gone so far in the way of mischievous lying. And I do think that something effectual should be done by our municipal authorities to bring those vicious adult larrikins to their proper senses. I am of opinion, that our Mayor should at once take the matter in hand, and first enquire of the Municipal Solicitor whether our public traducers could not be criminally prosecuted for malicious libel; (I believe they can ;) and then call a public meeting of the Burgesses to obtain their consent to the prosecution. And, if money is needed, I am ready to join in a subscription, and to subscribe at once £10 for that purpose, and to double it if required.—And I have no doubt of the Merchants and Burgesses generally of Napier coming forward readily to fill up such a subscription list,— to any amount required for the just punishment of such evil-doers. Our Shakespeare has very truly said, </p>
+         <p>“A little fire is quickly trodden out, 	<lb/> Which, being suffered, rivers cannot quench.”</p>
+         <p>With permission, I will give another brief extract , from another Wellington paper, the <hi rend="italic">Evening Post</hi> of April 1st, just sent to me (which your readers will also see has been taken from another paper;—the <hi rend="italic">Wairarapa Daily</hi>;)— </p>
+         <p>“A recent visitor to Napier writes as follows to the <hi rend="italic">Wairarapa Daily</hi>:— ‘The stink as we passed through the streets was simply sickening. It appears there is a good deal of sickness about, over 400 cases of typhoid fever, and the whole town struck one as plague-stricken; half the shops had a shutter or blind drawn; flags half-mast high; and every token of disease. Carbolic acid choked you in the streets, and chloride of lime was sprinkled thick over every floor of both shops and hotols, making a delightful odour. I was only too pleased to get out again the next morning.’”</p>
+         <p>It is, and ever has been, justly considered to be bad enough to “filch” secretly the “good name” of any private person of the community; but when such depraved minds are further developed into the publishing of open bare-faced brazen lying!—to the far greater injury of the many, of the Commonweal,—the injury done is immense, and cannot be compensated by the infliction of any money fine, however heavy. In all such cases the “purse” would truly be as “trash.” Indeed, my own opinion is, that all such fellows deserve the lash—equally with the garrotter and the wife-beater. </p>
+         <p>I shall hope to hear of this matter of a criminal prosecution being taken up and carried out.—I am, &amp;c., </p>
+         <p>
+                  <hi rend="smallcaps">					Wm. Colenso.</hi>
+               </p>
+         <p> Napier, April 12, 1882.</p>
+         <p>[We received Mr Colenso’s letter early yesterday morning, many hours before the re-publication in an evening paper of the extract from the <hi rend="italic">Post</hi>.— Ed. <hi rend="italic">H.B.H.</hi>]</p>
+      </body>
+   </text>
+</TEI>

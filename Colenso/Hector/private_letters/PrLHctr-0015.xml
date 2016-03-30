@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1123">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>18 May 1883: Hector to Hooker.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33221/">James Hector</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Kew DC174, 671, ATL MS-Micro-Coll-10-17, 260-262.</p>
+         <p>Transcription published in "My Dear Hooker: 
+Transcriptions of letters from James Hector to  
+Joseph Dalton Hooker between 1860 and 1898", Rowan Burns &amp; Simon Nathan.  Geoscience Society of New Zealand miscellaneous publication 133B, 2012.  ISBN 978-1-877480-21-8. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133B.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 13.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1883-05-18">1883 May 18</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hector to Hooker, 18-5-1883, Kew DC174, 671, ATL MS-Micro-Coll-10-17, 260-262.</p>
+      </front>
+      <body>
+      <p> 
+Colonial Museum of New Zealand, Wellington </p>
+            <p>18th May 1883 </p>
+            <p>My dear Hooker, </p>
+            <p>Your letters of Feb. &amp; March both reached 
+me in Auckland as the Govr. was there &amp; they were in his bag.
+ I at once sent on the R. S. Paper re Colenso to Haast and asked him to
+sign &amp; send on to Buller who is at
+ Cambridge at present &amp; I also
+ wrote to Buller to sign &amp;
+return to you direct by this mail – 
+so I hope you will get 
+it without delay.  </p>
+            <p>It is very kind to offer more Pamphlets which I can assure you will be very acceptable. The last lot you kindly sent us I had 
+sorted out &amp; bound as far as possible. </p>
+            <p>I have ------ a Ward Case packed for you 
+with live Alpines that
+ I have had in pots  established for three years – so they should carry! The lot I had in the Case for you about 6
+mos. ago nearly all damped off. I thought it better
+ to keep them for a few months to test them. 
+            </p>
+            <p>I have seen a lot of young Peek &amp; like him very much. He will give you all the N.Z.
+news.</p>
+            <p>Yours very truly</p>
+            <p>James Hector. </p>
+</body>
+   </text>
+</TEI>

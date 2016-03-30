@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0408">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1880 January 22: to Drummond</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/13.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73880/">Drummond</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1880-01-22">1880 January 22</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1880 January 22: to Drummond<note xml:id="ftn3-32" place="foot" n="32"> ATL 88-103-1/13.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier</p>
+         <p rend="end">Thursday Jan 22<hi rend="sup">nd</hi> 1880</p>
+         <p>Mr John Drummond </p>
+         <p>Ongaonga</p>
+         <p>Dear Sir</p>
+         <p>I have to thank you for your kind &amp; welcome note (&amp; its enclosure, £6 (six pounds) on account of your old I.O.U. which I received last week, just as I was leaving for 40 mile Bush;—I only last night returned, having been taken unwell at Waipukurau &amp; so detained. I am now much better, &amp; so lose no time in writing to <hi rend="italic">you</hi>,—although I have not yet looked at my Eng. and other letters—for I feared you have been thinking why it was you got <hi rend="italic">no</hi> answer;—</p>
+         <p>I have termed your note—a “<hi rend="italic">welcome</hi>” one—and this name I have given it (<hi rend="italic">not</hi> on account of the cheque, but) on account of the <hi rend="italic">good news</hi>, of yourself &amp; your artistic labours which you have told me of therein. This has pleased me much, and I hope some day, during the coming autumn, to give you a call, &amp; so <hi rend="italic">see</hi> your works. I purpose visiting Hampden, &amp; so I must (in going or returning) pass through Ongaonga.—As you have a truly <hi rend="italic">natural</hi> bias that way, I hope you will continue to encourage it, &amp; give it full play; there is nothing like <hi rend="italic">practice</hi>—in all the Arts alike, painting, sculpture,—aye, in reaping, mowing, or shoeing of a horse; in fact, everything;—as to whether you should follow out C. Mortons advice is more than I could say;—for here, in a <hi rend="italic">new</hi> country, there are not the opportunities for getting on which there are in the old ones.—At all events, <hi rend="italic">stick to it</hi>,—persevere,—with ever a determination to do better than the last.</p>
+         <p>I am pleased in finding the papers I sent were of some little service; I hope to send you some more, but I regret to have to say, that the large number I had been receiving by every monthly (N.Z.) Mail will not now be kept up, as the good sender of them has left England for Australia and N.Z,<note xml:id="ftn3-33" place="foot" n="33"> Andrew Luff, who returned from London about then.</note> but I am sure to get some, &amp; you shall not be forgotten.</p>
+         <p>Of course you will have heard of Keatings doings; he is now a Bankrupt; that bit of land was conveyed by Mrs Barry to K.—The bank (N.S.W.) I think, put in its claims as K had mortgaged it <hi rend="italic">deeply</hi> to the Bank—for £150!!! I expect soon to be moving in that matter, to see what I can get; fortunately I went to the <hi rend="italic">heavy</hi> expense of registering that precious document, <hi rend="italic">before</hi> the Bank got its mortgage; is there another, document in H. Bay <hi rend="italic">like</hi>
+            <hi rend="italic">that one</hi>? Hoping you are well,</p>
+         <p>     I am, Yours truly<lb/>          W.Colenso.</p>
+      </body>
+   </text>
+</TEI>

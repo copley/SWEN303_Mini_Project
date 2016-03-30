@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1054">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1898 June 12: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0499.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1898-06-12">1898 June 12</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1898 June 12: to Harding<note xml:id="ftn3-908" place="foot" n="908"> ATL qMS-0499.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, June 12<hi rend="sup ">th</hi>., 1898.</p>
+         <p>Dear Mr. Harding</p>
+         <p>Yours of 10<hi rend="sup ">th</hi>. to hand last night—a <hi rend="italic">very early </hi>&amp; unexpected reply: I thank you <hi rend="italic">much</hi> for it—as it serves (in part) to remove a load from my mind—I especially thank you for your manly &amp; Xn. expressed opinion on Taylor, Isilt, &amp; Co.—</p>
+         <p>But I am writing <hi rend="italic">now</hi>, &amp; <hi rend="italic">briefly</hi>, owing to what I consider an error in yours, and I wish to correct it, (for, as it is, I cannot understand it). You say:— “I am quite at a loss as to any suggestion in regard to your A. Lexicon. The type having been distributed on the work proceeded no more copies can be printed &amp; the only thing possible is to define the proportion to be retained by the Govt. for their own purposes.” (I waive entirely the <hi rend="italic">right</hi> of the Govt. to do so, to make up for <hi rend="italic">their own laches</hi>: and I say nothing more <hi rend="italic">re </hi>the <hi rend="italic">distribution</hi> of type, because I mentioned <hi rend="italic">that </hi>in my first letter to you after <hi rend="italic">seeing Seddon</hi>). But the wholly strange portion is your saying— “the only thing possible is to <hi rend="italic">define the proportion to </hi>be retained by the Govt.” Why, man! I had told you of all that being <hi rend="italic">done by them 2 months ago</hi>!! in letter from Under Secy. Dept. Justice, he gave me the Premier’s distribution, viz.—–<lb/>200 to<hi rend="italic">me<lb/>
+            </hi>100 to meet those names (85) sent in by me to S.—<lb/>200 to Seddon (Govt.)<lb/>
+            <hi rend="underline"> 50 re</hi>serve for stock<lb/>
+            <hi rend="doubleunderline underline">550  </hi> To<hi rend="italic">that </hi>(“under present circumstances”) <hi rend="italic">I agreed to</hi>:—of course, my hand was in the Lions mouth, &amp;, seemingly, <hi rend="italic">no alternative.</hi>
+         </p>
+         <p>But <hi rend="italic">why have I not recd.</hi>
+            <hi rend="italic">any</hi>? I wrote a <hi rend="italic">very short </hi>note to Seddon on Friday last—begging him, <hi rend="italic">to pass on the word, to send me those allotted books,——</hi>early. I scarcely expect he will <hi rend="italic">yet </hi>do so, and I <hi rend="italic">can </hi>fancy the reason why!</p>
+         <p>You say— “You mention in that curious N.Z. school-book, that the <hi rend="italic">taro </hi>is described as an <hi rend="italic">Arum</hi>”, &amp;c. <hi rend="italic">Not so</hi>: that, <hi rend="italic">alone</hi>, would not be far wrong, for the <hi rend="italic">Arum</hi> is very closely allied: but what I found fault with—the plant being called a “<hi rend="underline italic">Lily</hi>”! (look again:) while Arum is near— “<hi rend="italic">Lily</hi>” is a league distant.</p>
+         <p>Your mention of Mrs Hetley brought vividly to recollection that I had <hi rend="italic">not</hi> sent you <hi rend="italic">her letter</hi> with copy of my brief reply—which I had set aside, on my return in May, to send to you—but omitted: I now enclose them. Mrs. H. especially put me out, through her scarcely concealed <hi rend="italic">wish</hi>, and the (known) <hi rend="italic">falsities </hi>she told me:—but “<hi rend="italic">arcades ambo</hi>,”<note xml:id="ftn3-909" place="foot" n="909"> both Arcadians =two persons of like occupations or tastes; two rascals.</note>
+            <hi rend="italic">one </hi>only <hi rend="italic">aim</hi> was that of H. &amp; of F.—–</p>
+         <p>—Paterson’s (<hi rend="italic">sudden</hi>) move is a mystery to <hi rend="italic">me</hi>—&amp; to not a few others (Sc. as well as Eng.) <hi rend="italic">You </hi>may know more by-&amp;-by. P, was to call <hi rend="italic">here</hi> to see me—<hi rend="italic">his own </hi>proposal to me, &amp;, also, <hi rend="italic">aftds</hi>. to Mrs Anderson at the great social tea-meeting—but he came <hi rend="italic">not</hi>—perhaps owing to weather, wet. Sidey, fell on pavement, &amp; sprained his ancle, unfort. at <hi rend="italic">such a time</hi>!—Dodds, Sch. nr. Kaikoura, had services <hi rend="italic">there</hi> this mg., Dr.S. is better.</p>
+         <p>Had not heard of Bp. Hadfield’s letter re Chamberlain at Kapiti in /43:—I have, &amp; <hi rend="italic">do</hi>, lamented—all <hi rend="italic">rubbish</hi>
+            <hi rend="italic">re </hi>N.Z. (Mao. &amp; Eng. stories) being <hi rend="italic">so </hi>stored &amp; <hi rend="italic">used</hi>: <hi rend="italic">Hamilton</hi> (spite of <hi rend="italic">warning</hi>) is the greatest sinner that way! <hi rend="underline italic">Glad</hi>
+            <hi rend="italic"> </hi>to know you are better in <hi rend="italic">bodily</hi> health: Keep well <hi rend="italic">while you are so</hi>, and don’t run any risks through over-travelling in mid-winter.<hi rend="italic"> </hi>Kind regards.                      Yours truly</p>
+         <p>W. Colenso</p>
+         <p>A <hi rend="italic">note </hi>from Welsh, 4<hi rend="sup ">th</hi> May,— “A lovely voyage, fine w. every day”.</p>
+         <p>I sent you a “Herald” of Saturday containing MacLean’s speech, &amp;c—see, if you can, D.T. <hi rend="italic">last night</hi>—a <hi rend="italic">good article.</hi>
+         </p>
+      </body>
+   </text>
+</TEI>

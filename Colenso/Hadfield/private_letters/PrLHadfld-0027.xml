@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0027">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1840 July 6: Octavius Hadfield to his brother George</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 57)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 24.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1840-07-06">1840 July 6</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/70954/.">Kapiti</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70976/">George Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1840 July 6: Octavius Hadfield to his brother George
+         </p>
+      </front>
+      <body>
+      <p>Kapiti,</p>
+      <p>Cook Straits,</p>
+      <p>New Zealand</p>
+      <p>July 6th. 1840</p>
+      <p>My dear George,</p>
+      <p>About two months ago I received several letters, from you, from Julia, and from Charles, of October, also from my father.  I wrote in answer to Charles.  Since that I have received one from Octavia of August giving me more particulars concerning the latter days of our dear departed sister, for which I was very thankful.  There is something trying to hear of the death of one beloved when at a distance, but I endeavour to consider myself in every respect as dead to the world and all who are in it.  I have left you all, I trust through the Lord's direction, and I wish to look forward to meeting those who are dear to me and to my Saviour, when I and they shall have finished our course. </p>
+      <p>My soul was indeed refreshed in hearing that dear Charles could now look to our dear Emmanuel as his Saviour and had found that the kingdom of God was righteousness and peace and joy in the Holy Ghost and what a God of mercy our God has been to us; how can we bless and praise him as we ought.</p>
+      <p>Your letter afforded me much pleasure, everything concerning yourself and all at home and your flock at Whitchurch is deeply interesting to me.  I fear I am neglecting some, in not writing to them, but I have but few opportunities form this place and less time.  I intended to have written to my Father and also to Henry, but a few lines to you for the present must suffice.  I purpose starting tomorrow for Port Nicholson and have but little time when I may finish this.  I have not had an opportunity of seeing the Society's report to read the paper you refer to respecting the Society's view with regard to Bishops.  But I lately had a long and kind letter from the Bishop of Australia in answer to one of mine in which he gave me information on all the points I made enquiry concerning, and inasmuch as he confirmed my opinions it was satisfactory and has made my course easy.  I have hitherto his authority to exercise my ministerial office in any part of N.Z., his letters patent are now, <hi rend="underline">I believe,</hi> extended here.  Since my removal from the North I am quite satisfied. I have been living alone and had many difficulties to encounter, especially from my ignorance of the language. It is now eight months since I came down here, and I am now speaking the language tolerably at least I speak it bad enough, but Mr. Williams and the natives say I speak it well, so I have lately taken courage and am improving. My health is also improved, my chest is much better, and except on particular occasions it feels quite well.  My bowels however are not well, being troubled with worms, but I intend to seek medical advice at Port Nicholson.  I am more stout and strong and can undergo a great deal of fatigue and hard work. I frequently sleep out in my tent for a fortnight together in frosty nights and am also often wet in crossing rivers etc. but I never take cold.  Oh, how sweet to trust in a faithful God.  "As the day so shall thy strength be".  How much need have I to say "Lord, increase my faith", as long as He has work for me, he will be faithful to the promise and when that is ended, "to die will be gain".  My only trial at present, is want of time for reading, fasting and prayer, without which the soul cannot flourish. Now that I can speak the language my soul is indeed delighted with my work, the natives all along the coast as I travel, attend to me, and call me their father. Yes, there is a kind of pleasure which is unutterable in the work. For instance, yesterday in this place to see about 500 persons who were but a short time ago buried in darkness and in sin, listening with the <hi rend="underline">greatest possible attention</hi> while I was preaching on Hosea iv.6 <!--in the book "Octavius Hadfield", B. McMorran, 1969, as displayed via the NZETC site, this is transcribed as "Romans 4, 6-7"--> and in the evening on "I am the Good Shepherd". Yes, on such occasions the Spirit seems to shed a fragrance on the soul which leads on to forget one's father's land and all the troubles of this life, and to look forward to the glory that awaits the ransomed of the Lord. However, I feel deeply convinced of the necessity of setting apart much time for prayer, in as much as "every man's work will be tried with fire of what sort it is".  Yea, lest my work should be burned &amp; I myself should suffer loss.  Pray for me that my faith shall fail not, but oh, what a blessing to remember that one prays for<!--sic; typescript originally had "[to]" but this was amended--> One whose intercession must prevail and who will never grow weary.  Oh, how miserable must be those who do not know Jehovah as a Covenant God, as the God of His own pre-ordained people, His elect, His redeemed.  I have too much to do here, and consequently can do nothing properly. I have two houses, 10 miles apart, and am absent from both a great deal, so that I never satisfy myself or any body else. Some of the chiefs told me the other day, that if I had not come here the war would not have ceased, and that many ere this, belonging to both sides, would have been dead. I hope now that Captain Hobson has arrived their war will be put a stop to. I have lately had two journeys to Wanganui one with Mr. H. Williams who went partly to obtain the signatures of the chiefs to a deed of surrender of the sovereignty of the land to the Queen, all I did was to witness them, but I would rather have nothing to do with the Government, however they were very civil to us. I went again with Mr. &amp; Mrs. Mason, who lately arrived here, they stayed in my house a week, and then I took them on to their station at Wanganui, it is about sixty five miles from me. I like them much, but they were exceedingly ignorant of the difficulties of travelling in this country.  The people of the place listened very attentively to my preaching, and interested me much.  The natives vex me at times, but I feel much love for them, they pay such great respect to the word of God, and all confess themselves sinners and in need of a Saviour.  Tho' it is very difficult to make them understand the efficacy of the blood of Christ and of His imputed righteousness.  I have not written to the society since I came down here, I suppose I shall be blamed by them, but so many lies and ridiculous things have been written home that I have been quite disgusted.  And also the notion that mo missionary was to come down here annoyed me much.  However, I must write soon.  You may have seen Dr. Langs work on N.Z. I believe it is a heap of lies.  He is known well in N.S.Wales as a very bad man and consequently his work has had no weight in this part of the world.  I often think of you all and fancy I should like to see you, but I must be about the Lord's work.  I am thankful however I am alone as I can move about without trouble or anxiety.  I have not had a letter from Aleck since his arrival in India.  I wrote to him the other day.  I asked him to come and see me.  This is a beautiful climate; if I could have exactly what I wished I could not have a more pleasant climate.  It is just now rather cold at least there are frosts at night, but beautiful warm days, very unlike our cloudy English days.  I feel interested in hearing of any of my old friends, remember me to all you may meet with, especially the Warren's and the Griffin's and all the good people of Whitchurch.  Give my love to all our party not forgetting Mr. Dawson and believe me, my dearest brother, </p>
+      <p>ever yours with love and affection,</p>
+      <p>Octavius Hadfield.</p>
+      <p>Port Nicholson, July 14.</p>
+      <p>I have been here some days and am now about to return.  There are many hundreds English here.  Most of the settlers here detest me I believe, all the government officers, magistrates etc. have been exceedingly civil to me.  The natives here I fear will not do well.  I had about 300 however at service on Sunday.  I am sorry to hear that there is war with China.</p>
+      <p>Adieu,</p>
+      <p>O.H.</p>
+      </body>
+   </text>
+</TEI>

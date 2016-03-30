@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0396">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1879 September 16: to von Haast</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-papers-0037-046.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9511/">von Haast</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1879-09-16">1879 September 16</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1879 September 16: to von Haast<note xml:id="ftn3-19" place="foot" n="19"> ATL MS-papers-0037-046.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>September 16, 1879.</p>
+         <p>My dear Professor von Haast,</p>
+         <p>Two days ago I received your very welcome letter of Augt. 30<hi rend="sup ">th</hi>.—and as you had therein mentioned your going to Sydney per “Rotorua” this week, and the possibility of your seeing me which you also wished,—I, yesterday, sent you a telegram, thanking you for your letter, and pointing out the great risk you ran of being left behind should you attempt to land here: as those big <hi rend="italic">Mail </hi>Steamers merely bring up in <hi rend="italic">the road-stead</hi>, 2–3 miles from shore, ship their Mails and off! sometimes, not even anchoring, as you yourself may probably see on Saturday next on your arrival: also adding, that I would try &amp; write to you: and I find, this day, on enquiring at P.O., that my letter shall be duly forwarded on board.</p>
+         <p>I have to thank you for the wanting plate of the <hi rend="italic">Moa</hi> for my copy of your new Work. I shall send forthwith to Budden for 2 copies to be bound and forwarded sending him at once a P.O.O. for total amount.—</p>
+         <p>I am much pleased in hearing from you, that your Work on the <hi rend="italic">Moa</hi> is <hi rend="italic">yet to come</hi>, and I hope that what I am now putting together may prove of some service to you. I <hi rend="italic">may tell you </hi>that this (<hi rend="italic">my last </hi>Paper!) is to be read at our Ordinary Monthly Meeting in October, as arranged by our Council last week. I had told them officially that I shall write <hi rend="italic">no more</hi> for the N.Z.I.; but, that this <hi rend="italic">second</hi> paper on the <hi rend="italic">Moa</hi>, (the <hi rend="italic">first</hi> having been read last year,) I would bring forward—if they would officially request me to do so. This they did, and such has been entered in the Minutes, and so I shall produce this. I should add that the Council, singly &amp; together, tried hard to get me to reconsider—my determination not to write any more; but that cannot be while things are as they are with our parent Inst., for I might be served so again!—–</p>
+         <p>I hope to get <hi rend="italic">all </hi>that I have written on the <hi rend="italic">Moa</hi> printed in “Trans.” vol. xii, including that in “Tasmanian Journal of Natural Sc.” with the 2 <hi rend="italic">plates</hi> there of bones, their measurements &amp; descriptions. And rather than have such a mess made of the 2 plates (as, to wit, of my <hi rend="italic">Callorhynchus</hi>!) I will have them executed (through you?) at my own expense at Xt.Ch.—</p>
+         <p>At our last Ordinary Monthly Meeting, held on Monday last, I read a short Paper—on a Cavern at Tolaga Bay said to contain drawings made by Cook’s Tahitian Interpreter Tupaea,—and on other matters there. Of course I was led to this through your Paper on the Cavern in the Wakapau ranges. (And here I would with all due submission, privately remark to you,—that I greatly fear you may yet find those rock paintings <hi rend="italic">not </hi>to be authentic. And, above all, I would that you had not published (in “Trans.” vol. xi.) Cameron’s peculiar &amp; farfetched remarks thereon. However, we shall see: <hi rend="italic">Tempus omnia revelat</hi>.) Dr. Spencer, our V.P., was to have occupied last Monday evening, as had been <hi rend="italic">twice </hi>arranged,—but he suddenly left (2 days before) for the Country, leaving me to do the best I could! (no <hi rend="italic">new </hi>thing).–</p>
+         <p>I think that a very good plan you have mentioned, <hi rend="italic">viz.</hi>: the several Presidents of the Branch Societies selecting for Publication. I hope that it, or something as good, may be adopted. I could say a good deal on this head but I refrain.</p>
+         <p>I should also tell you that our Council, last week, after a long discussion, decided that my two Papers on the Ruahine range, &amp;c, &amp;c, should <hi rend="italic">not </hi>be printed here—<hi rend="italic">i.e. </hi>by them, or with their sanction,—at present; they (strangely) viewing my 2 Papers as <hi rend="italic">not</hi> being “rejected” ones! seeing the Directors and Manager are still for an “Abstract” of them, and that Dr. Hector had specially requested me to return them for that purpose. However, to such a mutilated “abstract” (just one half!) I could <hi rend="underline italic">never</hi> agree: and so that matter remains. I quite expect “a kick up” from the members about it. It came out, that <hi rend="italic">two</hi> (at least) of the members of our little Council had been talking with Dr. Hector about those Papers. I must allow that their <hi rend="italic">unexpected </hi>decision quite surprised me.—</p>
+         <p>And now I must say A Dieu! and once more wishing you every success, and first-rate health, Believe me to be,</p>
+         <p>Yours very truly</p>
+         <p>Wm. Colenso.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0228">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Legislative Council: Evening Post 30 July 1903</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1903-07-30">1903 July 30</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p><hi rend="bold italic">Legislative Council: Evening Post 30 July 1903</hi></p>
+    </front>
+    <body>
+      <p>The Hon. Mr. Bowen asked the Attorney-General what steps had been taken towards the publication of the late William Colenso’s Maori lexicon, and to whose custody the manuscript has been confided? The Minister stated that no steps had yet been taken to publish, and that the document was in the custody of the Native Minister. He would bring the matter before his colleagues, and subsequently give further information.</p>
+    </body>
+  </text>
+</TEI>

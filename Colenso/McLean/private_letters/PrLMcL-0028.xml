@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0028">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1871 July 13: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1014237</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1871-07-13">1871 July 13</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1871 July 13 McLean to Colenso (#1014237) </p>
+		</front>
+		<body>
+			<p>My dear Sir </p>
+			<p>I find that I am obliged to leave for Wellington sooner than I expected so you must excuse my being unable to call up to see you. </p>
+			<p>Will you send the officials respecting the two boys and the subjects we talked of. </p>
+			<p>Yours very truly </p>
+			<p>Donald McLean </p>
+			<p>July 13. 1871. </p>
+			<p>I leave by the Ashley tomorrow. </p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0008">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1837 December 18: Octavius Hadfield to his mother Amelia Hadfield (nee White)</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 16)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 18.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1837-12-18">1837 December 18</date>
+                  <name type="place">London</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70719/">Amelia Hadfield (nee White)</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1837 December 18 to his mother Amelia Hadfield (nee White)
+         </p>
+      </front>
+      <body>
+      <p>5 Hart Street</p>
+      <p>Bloomsbury Square</p>
+      <p>London.     </p>
+     <p>Dec. 18th. 1837</p>
+     <p>My dear Mother,</p>
+     <p>I called at Stannard's this morning and found your letter of Saturday last.  I, as well as you, have been rather astonished at the thought of leaving England so soon, tho' our feelings on the subject differ.  To me the long-expected and wished for time is come.  To you, I fear, it is a time of pain; and I can easily conceive your affection towards me would lead you to wish that we might not part.  My Father's feelings must be the same, and indeed, the feelings of all and especially of near relations must suffer much at parting.  But what is life?  How long can we expect to be together?   What is the condition of most large families?  When will one be found that has hitherto been so much united as ours?  Even of those who remain in this country how little do they for the most part see of each other.  I should feel naturally inclined to life with you all, but whatever I might be engaged in this is next to impossible.  But the Lord has said to me "Go thou and preach the kingdom of God" and "woe is me if I preach not the Gospel".  I have scarcely done anything in the matter, my course has been made clear to me beyond a doubt.  The Lord's hand points out the road and shall I refuse to go in it?  If there is a human being more wretched than another, it is the man who feels his conscience tell him what he ought to do and yet does it not.  May the God of love and all grace strengthen me to serve him to the end with "a pure conscience".  And may I ever say with Paul, "this is our rejoicing, the testimony of our conscience" etc.  </p>
+     <p> With regard to the Bishop of London's refusal to ordain me without a degree (or Islington), I believe that of late years it is almost impossible to get ordained without one.  I should not like on any ground to be shut up at Islington for two years at the least.  Indeed the decision of the Com. in sending me to New Zealand appears quite providential.  Tho' they wished to send me to India, they thought New Zealand would suit my health better than any other <supplied>[place]</supplied> and there is a vacancy at the Waimate station by the absence of Mr. Hobart who is returning to England.  I should then at once relieve Mr. W. Williams who is now oppressed with work.  If I were to delay going I might be sent to a bad climate.  The climate of New Zealand is better than this, and therefore I feel full of thankfulness to the Lord "Who does all things well" for this Fatherly manifestation of His love towards me.  I saw one of the secretaries today, he says they wish me to go at once.  I shall see the Com. tomorrow, but I shall tell them that I cannot go before two or three weeks at least.  I am fully satisfied from the Bishop of Australia's letter to the Com. that he would not hesitate to ordain me as soon as I get to Sydney.  He is well disposed towards the Society and under obligations to them and has promised to ordain me for them.  I purpose seeing you as soon as I have settled matters here and will then explain things to you.  If I learn anything new tomorrow I will send you a few lines.  I do not know when I shall see you but I hope in a few days; however it is quite uncertain what day.  I sent a note to Miss Hales.  I shall see Mr. Warren tomorrow if I can.  Excuse this scrawl, it is written in haste and in the dark.  Give my love to my father and all the others and believe me ever your</p>
+     <p>affectionate son,</p>
+     <p>Octavius Hadfield.
+     </p>
+      </body>
+   </text>
+</TEI>

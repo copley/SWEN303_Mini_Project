@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0979">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1896 December 22: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0499.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1896-12-22">1896 December 22</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1896 December 22: to Harding<note xml:id="ftn3-807" place="foot" n="807"> ATL qMS-0499.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke,<lb/>December 22<hi rend="sup">nd</hi>.<lb/>1896.</p>
+         <p>Dear Mr. Harding</p>
+         <p>It will be a fortnight tomorrow since I left Napier; and having finished my outgoing Eng. Mail with all its Xmas. belongings, &amp;c, &amp;c.—I, in concluding, will write a few lines to you, &amp; this, because it is Xmas. &amp; to send you the enclosed, instead of Xmas. cards, for your “olive branches”. It is about a month since I last wrote to you, and I have been expecting to hear from you since the election, but nothing has come to hand, save the long advt. Maori books, which, curiously enough, came to hand some hours <hi rend="italic">after</hi> the fixed time of sale. If I recollect aright, in my last L. to you were a few items I wished you to notice &amp; reply to; but I am not certain, owing to memory <hi rend="italic">not </hi>being very good.—</p>
+         <p>Of the election I need <hi rend="italic">now </hi>say nothing: <hi rend="italic">you know well our </hi>3 returned Members, and I trust that <hi rend="italic">you </hi>agree in our choice: I had not far to go to vote—a polling booth being in the old Grammar School: I did not move out for some days before, also after, event: it delayed my coming inland, &amp; I came away on 9<hi rend="sup">th</hi>.—first two days &amp; nights at Waipukurau &amp; Waipawa, then hither, &amp; last wk. 3 days at Woodville to name a lot of indig. trees &amp; shrubs planted in Bor. Recreatl. park or ground: unfortunately, ⅓ were dead: it was hot work in the open—in the sun. Last wk., 14<hi rend="sup">th</hi>., I was surprised in receiving more proofs of “<hi rend="italic">A.</hi>” Mao. Lex. from Mackay,—I had been expectg. while at N., but had given it up—that delayed my going to Woodville; and I had hoped to get a Revise before this time: if Govt. printer does not move quicker I think the <hi rend="italic">little </hi>book will not be ready before next Parlt. Session!—</p>
+         <p>The last S.F. Mail arrd. at Napier just before I came away, &amp; among books, &amp;c., is a big one from Macmillan &amp; Co., which I suppose to be “Banks’ Journal,” as I see it is <hi rend="italic">out</hi>.</p>
+         <p>Sunday 5<hi rend="sup">th</hi>. I held S. at St. Augustine’s for Mr. Welch, who is unwell, &amp; wants <hi rend="italic">Rest</hi>, (he wishes me <hi rend="italic">now </hi>to be w. him, for Xmas. Day, &amp; 27<hi rend="sup">th</hi>.) I have promised to help Jany. 3<hi rend="sup">rd</hi>. Of course, <hi rend="italic">here</hi> I do nothing—am <hi rend="underline italic">idle</hi> as to Ch. wk., and <hi rend="italic">so </hi>at Woodville, but have promised Eccles to help him in Autumn (D.V.) I purpose retg. to N. on 30<hi rend="sup">th</hi>. While at Waipukurau, Mr. Grant kindly spent an hour w. me at Gow’s, one evening, &amp; Mr. Tuke, ditto, on another evening. I spent a <hi rend="italic">long </hi>hour with dear Mrs Trestrail—perfectly blind but as cheerful as ever! while with her Mrs Smith came in, and after a ¼ hour more I left,—talking to her many nice flowers <hi rend="italic">re </hi>their mistress. I am much <hi rend="italic">better</hi>,<hi rend="italic">here</hi>, (which I expected to be) being a strong believer in the curative qualities of inland mountain air in <hi rend="italic">chest complaints</hi>: the worst is, I have nothing to do!—I mean, in the way of useful work. You will have heard of the sad Bathing fatality at Napier on Sunday last, but, in my opinion, too much <hi rend="italic">fuss</hi> made about it! Why, in same “Herald”, <hi rend="underline italic">sudden</hi> d. of a Col. &amp; aid-du-camp of Governor, Sydney, in cycling; &amp; now, <hi rend="italic">today</hi>, 5 more <hi rend="italic">equally sudden</hi>, &amp; some <hi rend="italic">much longer in dying</hi>.</p>
+         <p>Hope <hi rend="italic">you </hi>&amp; <hi rend="italic">yours are </hi>
+            <hi rend="underline italic">all quite well</hi>. Large’s <hi rend="italic">big shop</hi>, is become a <hi rend="italic">Music </hi>warehouse, taken &amp; fitted up by Richardson: and Neal &amp; Close gone out of business! Taken by your Wgn. firm Kirkcaldie &amp; Stains.</p>
+         <p>Good bye</p>
+         <p>Kind regards</p>
+         <p>Yours truly</p>
+         <p>W. Colenso</p>
+      </body>
+   </text>
+</TEI>

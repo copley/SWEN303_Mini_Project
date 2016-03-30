@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1081">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1840: to R. Davis</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>transcription by Ian St George, provided to Colenso Project staff at Wai-te-Ata Press on 1.10.15 via email</p>
+            <p>encoded into TEI by Melissa Bryant, 21.10.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1840">1840</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71642/">R. Davis</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1840 ? date to R. Davis (copy: ATL ***)
+         </p>
+      </front>
+      <body>
+      
+<p>Dear Sir,</p>
+<p>I suppose you will copy the foregoing into your Indent: please do so verbatim; as a serious misunderstanding took place— either through the copier here, or the person who looks after those things at “home”— in an indent sent to England in ___ ___ 38, (?) I ordered— “1500 lower case g’s”— and, after waiting until the Box arrived, I found to my chagrin and surprise, that they had sent “1500 q’s”!! a Letter not in use.— </p>
+<p>Sd. W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

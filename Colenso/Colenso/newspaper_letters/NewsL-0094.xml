@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0094">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1881 The first European fighting and killing at Taranaki: A striking incident in the old (modern) history of New Zealand. Waipawa Mail 22, 26, 29 January; 2, 5, 9, 12, 16, 19, 23, 26 February; 2, 5 March.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1881--29 January; 2, 5, 9, 12, 16, 19, 23, 26 February; 2, 5 March 22,">1881 26, 29 January; 2, 5, 9, 12, 16, 19, 23, 26 February; 2, 5 March 22,</date>
+               <publisher>
+                  <name type="organisation">Waipawa Mail</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1881</hi>
+                  <hi rend="bold">The first European fighting and killing at Taranaki: A striking incident in the old (modern) history of New Zealand.</hi>
+                  <hi rend="bold">
+                     <note xml:id="ftn42" place="foot" n="42"> These letters contain an account of incidents involving the wreck of the “Harriet” and the subsequent actions by HMS “Alligator” (briefly mentioned in the 8 January letter to the <hi rend="italic">Wanganui Herald</hi> above); it is very similar to that published as “The first European fighting at Taranaki.” In Sherrin AA. 1890 The Early history of New Zealand, part 1 of Brett’s Historical Series: Early New Zealand. Auckland, pp. 435-458, reproduced in Vol. 3 of this series, <hi rend="italic">What I believe to be genuine and authentic</hi>—<hi rend="italic">Ed.</hi>
+                     </note>
+                  </hi>
+                  <hi rend="bold italic">Waipawa Mail</hi>
+                  <hi rend="bold"> 22, 26, 29 January; 2, 5, 9, 12, 16, 19, 23, 26 February; 2, 5 March.</hi>
+               </p>
+      </front>
+      <body/>
+   </text>
+</TEI>

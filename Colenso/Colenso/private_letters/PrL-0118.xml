@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0118">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1852 April 3: to McLean</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Object #1010567 from MS-Papers-0032-0021.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place">Wairarapa</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1852-04-03">1852 April 3</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1852 April 3: to McLean<note xml:id="ftn1-169" place="foot" n="169">ATL Object #1010567 from MS-Papers-0032-0021.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Wairarapa, April 3/52.</p>
+         <p>Dear Mr. McLean, </p>
+         <p>Your kind note of Feb. 5 duly reached the Mission Station, but being myself absent at Patea, &amp;c., (a second time! this season.) I did not get it until my return; when, there being no opportunity for Wellington, and I only at home for a few days, I brought it with me, intending to answer it during my journey hither, as I expected to meet Mr. Hadfield in the valley.—</p>
+         <p>As I have not any desire to become a Land holder, save for my own residence or use, and as I have not the most distant intention of ever moving farther South, and as (as you state) Scrip will not be received in exchange for Land about us at Ahuriri, I must consequently give up all thoughts about obtaining any—and am really sorry that I have given you so much trouble on my account—at the same time, thanking you heartily for having so kindly interested yourself on my behalf in this matter.—</p>
+         <p>Your pencilled note, written (I believe) from Te Waipukurau, I also received—and, some time in January I visited Hawea. I did not go very far in, as I did not like the aspect of the country thereabouts.—</p>
+         <p>I have also called on Mr. Park, who very kindly shewed me his Map, &amp;c., but as I neither know how, or when, the suburban land of the Ahuriri <hi rend="italic">City</hi>! will be offered, (nor size of allotments, nor price) and as the want of firewood in all that locality is a great drawback to a person selecting thereabouts, (unless he had some specific object in view), I am still at a loss how to act.</p>
+         <p>I think it is likely, I may go upon some of the Native ground (unbought) in order to be near them, and out of the way of others. It is high time that I should do something in the matter.—</p>
+         <p>I have also to thank you for the Newspapers—sent and promised—and shall always welcome a note from <hi rend="italic">you</hi>, whenever you may have time and inclination n to write.</p>
+         <p>Mrs. Colenso was well when I left—ditto, the children who often speak of you, &amp; of your travelling together so far as Te Pokonao, &amp; of your horse, &amp;c.—And I am very sure that Mrs. Colenso would wish me to remember her kindly to Mrs. McLean &amp; to yourself did she know of my now writing—and</p>
+         <p>Believe me, </p>
+         <p>Dear Mr. McLean, </p>
+         <p>Yours sincerely, </p>
+         <p> William Colenso.</p>
+      </body>
+  </text>
+</TEI>

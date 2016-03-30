@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0729">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1889 October 28: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-1.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1889-10-28">1889 October 28</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1889 October 28: to Harding<note xml:id="ftn3-458" place="foot" n="458"> ATL MS-Copy-Micro-0485-1.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Dannevirke<lb/>Octr. 28.89.</p>
+         <p>Mr. R.C. Harding.</p>
+         <p>Dear Sir,</p>
+         <p>Your memo of 26<hi rend="sup ">th</hi>. recd. this afternoon—I thank you for. I fear my man can <hi rend="italic">not</hi> find you those copies you require, (indeed, I may tell <hi rend="italic">you</hi>—he knows <hi rend="italic">nothing </hi>of my matters in <hi rend="italic">back </hi>room ditto ditto in <hi rend="italic">writing </hi>room)—but if you could spare time to run up, I think I can point out their positions suffy.—On eug. room—to the <hi rend="underline italic">right</hi> &amp; <hi rend="italic">opposite</hi> fire place, on the <hi rend="italic">floor</hi> under a <hi rend="italic">small </hi>table, are the “Ruahine” papers:—to the <hi rend="underline italic">left</hi>, just <hi rend="italic">opposite</hi> and also <hi rend="italic">on the floor </hi>are the “3 Lity. Papers”:—close by a pile of “Linn. Socys. Journals”—take what you may require. (I enclose a memo. to Robert).</p>
+         <p>I find you are busy—this I also <hi rend="italic">knew</hi>—must be so at this season—on to <hi rend="italic">end</hi> of ’89: trust you will not injure your health by <hi rend="italic">over</hi>work.—</p>
+         <p>I have several times wished to see you!!and, indeed, <hi rend="italic">did</hi> suppose I should return to N. before this:—a few days after my arrival here, I recd. a letter from my man containing a “delayed telegram” he had (by chance) found in my P. Box; &amp;, instead of taking it round to the counter, he took it up the hill &amp; sent it to me!!! It was rather a long one (2 sheets) from Capt. Russell <hi rend="italic">re</hi> my projected book—Ty. Waitgi, requesting its size, &amp; when MS. ready for Govt. Ptr.—I lost no time in replying—stating a <hi rend="underline italic">portion</hi> (at <hi rend="underline italic">least</hi>) could be sent on <hi rend="italic">early in Decr</hi>. &amp;c—but that it had been <hi rend="italic">delayed</hi> by Govt. <hi rend="italic">not</hi> ansg. my repeated notes—that I was <hi rend="italic">here</hi>, but if it was to be got by then I should leave at once for N. <hi rend="italic">All last week</hi> I was expecting an ansr. but <hi rend="italic">nothing</hi> has come to hand!! &amp; now (again!) have I ceased expecting.</p>
+         <p>Weather here of <hi rend="italic">late </hi>very fine: plenty of rain, followed by high winds at first, &amp; for some time. I have been but <hi rend="italic">little</hi> in the Bush, &amp; tho’ fine not since Thursday having been suddenly attacked by lumbago on Friday mg., which laid me up that day, &amp; made me <hi rend="italic">extra </hi>careful since. I managed, however, to get out to Ch. twice yesty. (evg. mg. Sc. Eng.)—and to <hi rend="italic">Police Station</hi> (!) on Saturday to bail a poor stranger! (See, if you can, “Bush Adv.” of Saturday 26<hi rend="sup">th</hi>—only remember I did <hi rend="underline italic">not</hi> use the word “authority”.)<note xml:id="ftn3-459" place="foot" n="459"> Colenso had acted as bondsman for one David Robertson, accused of shooting horses. “Mr Colenso then … said he spoke with some authority on the matter, and he wished to ask the justice who presided at the last sitting why he refused bail to accused…. if he gave him (Mr Colenso) a satisfactory answer the matter might go no further, otherwise it would not drop. Mr Clayton: I'll give you an answer. I shall not tell you.” The <hi rend="italic">Herald</hi> reported, “It appears that accused was acting under the orders of his employer, who had obtained permission from the natives to shoot the horses. The Maoris seem much annoyed at the arrest of Robertson.”</note>—The remark (from “Woodville Corrspdt.”) in “Herald” of this mg. re that case is nearer the truth.—I am, <hi rend="italic">now, fixed</hi> for <hi rend="italic">this week</hi>; and cannot say when I may return. Were you not so busy I would ask for a good long letter.—–</p>
+         <p>Hoping this may find you well</p>
+         <p>&amp; w. kind regards—Believe me</p>
+         <p>Yours faithy.,</p>
+         <p>W. Colenso.</p>
+         <p>P.S. Craig, I think, has a <hi rend="italic">lot</hi> of each Book on sale.</p>
+      </body>
+   </text>
+</TEI>

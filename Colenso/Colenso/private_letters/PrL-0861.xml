@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0861">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1893 March 16: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1893-03-16">1893 March 16</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1893 March 16: to Harding<note xml:id="ftn3-635" place="foot" n="635"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, March 16/93</p>
+         <p>Dear Mr. Harding</p>
+         <p>Another letter from you today causes me to write: not but that I have been thinking <hi rend="italic">much </hi>of you, even to wishing you were here in N.! moreover, not knowing the exact lat. &amp; long. of “Boulcott St.”, I was fearing you, too, might be a suffr. from the deluge! but, on 2<hi rend="sup ">nd</hi>. thoughts, I was pretty sure you were <hi rend="italic">high </hi>and dry!!like myself <hi rend="italic">here</hi>: we, too, have had <hi rend="italic">very heavy </hi>rain; in <hi rend="italic">front </hi>of this house it ran for some time like a river! my man tells me I could not now go down the <hi rend="italic">old </hi>zig-zag path, so much has it been torn up &amp; carried off by the water; however, today he is repairing it.</p>
+         <p>
+            <hi rend="italic">First</hi>, a little about myself: last Sy. evg. I was at Taradale for D.S. keeping Cunningham there till viii.30 &amp; got back here by ix.45—late, travelling slowly—day fine, ditto night but cold. I might have staid at Parsonage (tho’ I did not know of this until I got there) but I do not like to do so—as it makes such a hole (<hi rend="italic">w. me</hi>) in the next day; &amp; I do not like travelling <hi rend="italic">by night </hi>in the wet season: Mr. T. wrote to me on Monday (13<hi rend="sup ">th</hi>.) asking me to take the <hi rend="underline italic">evg</hi>. S. next Sunday (19<hi rend="sup ">th</hi>.) at Meeanee—this I have <hi rend="italic">declined</hi>, though very desirous of helping him—in his strait. offg. to do so, mg. or aftn. at M., &amp; mg. <hi rend="italic">or </hi>evg. at T., &amp; stay all night at his house if an evg. I cannot (well) do more.—–</p>
+         <p>I was in town one mg. last wk. &amp; was just going to see yr. F.—when I met him w. Ringland’s—we had a short talk, he was looking <hi rend="italic">very well</hi>—face <hi rend="italic">very red</hi>, as I told him; he had recd. a paper from you, contg. yr. reply to F. re “Macaulay’s N.Zr.” I have been unwell some 3–4 days more, since my last, ear-ach &amp; Toothache togr., caught, too, <hi rend="italic">here </hi>in this <hi rend="italic">sheltered </hi>room during the <hi rend="italic">stormy </hi>weather of last wk., through <hi rend="italic">persistently </hi>sitting <hi rend="italic">all day </hi>long at this table putting up spns. of Hepaticæ—for 2 American Botanists (1 at Connt. &amp; 1 Indiana) I had <hi rend="italic">promised </hi>(!!) last year from Bush, &amp; had put it off till I was ashamed, however the job is <hi rend="italic">done </hi>now! but it has cost me dear. Yet there was <hi rend="italic">no perceptible</hi> draught—merely the one side of my face exposed to that quarter.</p>
+         <p>This day—it being fine &amp; I <hi rend="italic">free</hi> from pain!—I recommd. my <hi rend="italic">sorting </hi>wk in Liby. &amp; stuck to it till iv.45 p.m.—when I threw up the sponge! <hi rend="underline italic">done</hi>! Mrs. Anderson blames me—but if I do not work hard &amp; <hi rend="italic">w. a will</hi>, I shall never get my room to rights; as it is I “calculate” it may take me all March (with other matters intervening) even if I keep well. I thought much on <hi rend="italic">you </hi>today, while so engaged—on seeing such a lot of books, pamphlets, papers, &amp;c long forgotten by me!—–I hope my American correspts. will treat me a <hi rend="italic">little</hi> better than Dr. Cooke, &amp; Dr. Stephani (Berlin), from this latter I have <hi rend="italic">no </hi>reply! There is much of truth &amp; sagacity in an old remark of yours—<hi rend="italic">re </hi>some scientific men.</p>
+         <p>I have long been desirous of seeing Knowles (<hi rend="italic">re </hi>my Will, &amp;c.)—so last wk. I dropped him a note—to fix day, hour, place, (as, if at his residence I must ride there &amp; keep trap to retn.) K. very kindly came here, &amp; staid nearly 2 hours: <hi rend="italic">re </hi>my setting aside Grubb, an exr., (<hi rend="italic">entirely</hi> from his dwelling now <hi rend="italic">so far S.</hi>, &amp; Govt. <hi rend="italic">not </hi>his friends) K. did not like it—because G. is one of K’s. exors., &amp; K. lately added a <hi rend="italic">third </hi>(owing to G. living so far off), which is Rev. D.S., &amp; I think, now, I shall do so, too,—but who shall it be. I mentd. ½ dz. to K., but not yet decided, the one (of them) he liked best, was, Edwards of Gas Wks., but <hi rend="italic">I don’t </hi>know him. K. is now <hi rend="italic">daily </hi>at D.T. Office, works hard &amp; <hi rend="italic">likes </hi>it: a <hi rend="underline italic">great loser</hi> thro’ A.P.!! &amp;, thro’ <hi rend="italic">his </hi>own wkg. there has <hi rend="italic">gained 000 £s </hi>already! I am sorry for P.—K. took him back, on <hi rend="italic">trial</hi>, <hi rend="italic">after </hi>he had discharged him—but found him again <hi rend="italic">non comp</hi>., K. has Sidey &amp; L’s. late book-keeper <hi rend="italic">now </hi>in A.P’s. place.</p>
+         <p>
+            <anchor type="bookmark-start" xml:id="id_OLE_LINK2"/>
+            <anchor type="bookmark-start" xml:id="id_OLE_LINK1"/>On seeing a strange par. or rather article, by R.P. in last Tuesday’s “D.T.”—I was obliged to correct it<note xml:id="ftn3-636" place="foot" n="636"> Noxious Weeds. <hi rend="italic">Daily Telegraph</hi> 15 March 1883.</note>—I send you the 2 papers. (I <hi rend="italic">could </hi>have said <hi rend="italic">more </hi>re <hi rend="italic">Kirk</hi>.)—</p>
+         <p>
+            <ptr type="bookmark-end" target="#id_OLE_LINK2"/>
+            <ptr type="bookmark-end" target="#id_OLE_LINK1"/>When an oppy. offers, I should like you to look into a vol. in Gen Assy. Liby. (supposing you <hi rend="italic">can </hi>do so,)—viz. “Bidwells ascent of Tongariro”, &amp;c—<hi rend="italic">near the end, </hi>perhaps; as he staid at my house on his return, &amp; I took him off to his vessel on his leaving N.Z. I should like to know what he says, (if anything) of the Bay Islands, my spns., and me.</p>
+         <p>Among the books I <hi rend="italic">unearthed </hi>today, is Rusden’s “Aureretanga: Groans of the Maoris”—did you ever meet with it? I have also a copy of his <hi rend="italic">first </hi>work in 3 vols. Another work—is Dillon’s finding remains of La Perouse, &amp;c at Mallicollo Islands: I did not know that I was so rich! 2 vols. well-bound, too, in whole-calf—as I <hi rend="italic">knew </hi>Peter—&amp; <hi rend="italic">well</hi>, too, I looked into the wk. today, and was surprised to find so much about N.Z. in <hi rend="italic">early times </hi>(<hi rend="italic">before</hi>
+            <hi rend="italic">me</hi>) and much of it <hi rend="italic">correct</hi>. (Peter was a great scamp!) I don’t think you possess vol.XI, “Trans. N.Z. I.”—I hope however you may have <hi rend="italic">my paper </hi>in it “author’s copy” as I much wish <hi rend="italic">you to see</hi> that,—there you will find in a note a quotn. re N.Z. from “Beauties etc. of Nature” by C. Bucke, which would interest you: look it up.</p>
+         <p>I suppose you will have seen in Wgn. papers, something <hi rend="italic">re </hi>election of Members to our Edn. Bd. Rev. D.S. got in through casting vote of Members, well (adroitly) managed by Carlile: I expect, an overflowing pot of wrath from Evg.N. (&amp; Right I am, “E.N.” of 15<hi rend="sup ">th</hi>). Am glad, Haggen was so <hi rend="italic">low</hi>: I find, that H. is out again, w. some execrably dirty matter against some Woodville sinner! (so S.J. of Waipawa, says,—but too bad for S.J. to repeat!) Rev. Knipe, w. &amp; fy. were to leave to-day for England!! for ever! &amp; Sherman (once there), I <hi rend="italic">hear</hi>, is seeking to come back! (<hi rend="italic">or</hi>, desirous of coming back.)</p>
+         <p>Now to yr. <hi rend="italic">2 letters</hi>! yours of 3<hi rend="sup ">rd</hi> &amp; 5<hi rend="sup ">th</hi> crossed mine of 4<hi rend="sup ">th</hi>. in transit. Shall I tell you? I was a wee bit vexed on recg. it. Why? because of your <hi rend="italic">4d</hi>. in stamps—through your using such dreadfully <hi rend="italic">thick </hi>p. Only <hi rend="italic">2 </hi>sheets of <hi rend="italic">note</hi>, &amp; yet overweight 2d. Allow <hi rend="italic">me</hi> to say you cannot afford to do so. I, at Craig’s, look out such as <hi rend="italic">this </hi>p., that 2 sheets or even 3 w. envel. <hi rend="italic">not over </hi>½ oz.</p>
+         <p>I have 2 vols. of Broun’s <hi rend="italic">Insects</hi> ptd. by Govt.—surely there is not to be<hi rend="italic"> another</hi>! we corresponded<hi rend="italic"> once. </hi>When Archdn’s. Dicty. is bound &amp; for sale—buy me a copy: I will remit. Was very pleased to find your children<hi rend="italic"> well</hi>, &amp; that Feby. was a <hi rend="italic">better </hi>mo. financially than Jany. Your gale was terrible! I never <hi rend="italic">read</hi> “Mahoe Leaves”: <hi rend="italic">supposed </hi>Gudgeon was the author! <hi rend="italic">Park</hi> is the name<hi rend="italic"> </hi>of McLean’s <hi rend="italic">first</hi> surveyor here, <hi rend="italic">before</hi> that T. Fitzgerald came: <hi rend="italic">I knew him well. </hi>Am very glad your bror. William has got such a <hi rend="italic">good</hi> furlough—he <hi rend="italic">richly deserves it</hi>: I sincy. hope he will return to you &amp; N.Z. all the better for his visit to E. &amp; to U.S.A.</p>
+         <p>I shall send you a clipping or two.</p>
+         <p>I have not had any visitors for <hi rend="italic">a long time</hi>—don’t expect any!—Did Luff suffer from rains?—–</p>
+         <p>With kindest regards &amp; best wishes</p>
+         <p>Yours sincerely, W. Colenso.</p>
+         <p>
+            <hi rend="italic">Friday </hi>mg. 17<hi rend="sup ">th</hi>. Letter being <hi rend="italic">under </hi>wt. I add another line or two.</p>
+         <p>Weather superb both yesty. &amp; today, good for Govr. &amp; Lady at races! Public reception tomorrow aftn. I don’t go—having no friends at Court.</p>
+         <p>Did you know a man named Hunt, (Grant’s shepherd at Pakowhai)? died yesty. aged 37—leaving w. &amp; 6 (7) children!</p>
+         <p>I was very ill <hi rend="italic">after</hi> date of last—Monday 6<hi rend="sup ">th</hi>. a <hi rend="italic">sad day</hi>—Tuesday mg. sent to Dr. H.—who <hi rend="italic">speedily </hi>sent med. fm. Welsman’s. I got round <hi rend="italic">slowly</hi>: some day I suppose I shall <hi rend="italic">go off </hi>
+            <hi rend="underline italic">suddenly</hi>. God’s <hi rend="italic">will</hi> be done. Amen.—</p>
+         <p>I close for mail.</p>
+         <p>Nothing <hi rend="italic">to hand </hi>from Tuke re Sunday next. Yours ever</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

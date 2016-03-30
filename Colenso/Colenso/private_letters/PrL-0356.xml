@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0356">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1878 January 4: to Luff</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL MS-Copy-Micro-0485-4. Letter addressed to “A. Luff Esq., 135, East India Road, Poplar, London” and endorsed “Recd Feb. 18/78”.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73426/">Luff</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1878-01-04">1878 January 4</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1878 January 4: to Luff<note xml:id="ftn2-308" place="foot" n="308"> ATL MS-Copy-Micro-0485-4. Letter addressed to “A. Luff Esq., 135, East India Road, Poplar, London” and endorsed “Recd Feb. 18/78”.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, New Zealand<lb/>Jany. 4, 1878.</p>
+         <p>My dear Sir,</p>
+         <p>Your welcome letter of Novr. 14<hi rend="sup">th</hi>. arrived on 1<hi rend="sup">st</hi>. Decr.—so that I really had a New Year’s Gift! And, as I see, in “Herald” of this mg. that our Nov. mail hence reached London on the 1<hi rend="sup">st</hi>., I hope you, too, have recd. mine. My last to you was finally closed on the 16<hi rend="sup">th</hi>. Decr.,—and by a new (&amp; a <hi rend="italic">good</hi>) alteration in our S.F. Mail I have to write you <hi rend="italic">earlier</hi> (by 10 days) than I had expected: this has been done so as to have the 2 outgoing Eng. Mails (Suez &amp; S.F.) running alternately every 2<hi rend="sup">nd</hi>. week, &amp; not, as before, absurdly leaving N.Z. <hi rend="italic">together</hi>!—</p>
+         <p>Well, I was glad to find you were all (then) <hi rend="italic">well</hi>, &amp; that the blasts of your Northern Winter had <hi rend="italic">not yet</hi> burst upon you: though, no doubt you have had them long ere this.</p>
+         <p>It is impossible for me to ansr. your letter in the way you wish. Hitherto I have had no holiday—and I see no one <hi rend="italic">here</hi>,—and I have only been just once into Town since my last, &amp; then hurriedly. If I can learn anything of Alley, &amp;c., I will let you know. But you will see, in an <hi rend="italic">Auckland</hi> paper I now send you, something about it. I have <hi rend="italic">marked</hi> it.</p>
+         <p>My present letter cannot be a long one. I returned by last train on Satdy. evg. 22<hi rend="sup">nd</hi>. Decr., having finished inspectg. Schools for that season! &amp; was quite knocked up. No doubt in great measure owing to long rough ride (Horse) to Tamumu from Waipukurau &amp; back on the 21st. in which (returning) I got thoroughly drenched w. rain, without any <hi rend="italic">extra</hi> garment,—&amp; was very cold withal, riding so many miles against it: I soon get my wet things off, &amp; to bed, but I feel it a little still.—Ever since I have been engaged on the teachers’ accounts &amp;c., &amp;c. for Edn. Board, which meets next week, 10<hi rend="sup">th</hi>. I have not yet heard a sound respecting my office, &amp;c., though the new Act is now law. As the work &amp; duty is increased, the questions for me to consider are:—</p>
+         <p>1. <hi rend="italic">Can</hi> I perform the duty?</p>
+         <p>2. <hi rend="italic">Ought</hi> I to undertake it:—considering age, risks, &amp; the many discomforts in travelling, &amp;c.—</p>
+         <p>I cannot, at <hi rend="italic">present</hi>, answer these; but, if <hi rend="italic">it be right</hi>, then, I shall be able to get on,—as I have ever found the path of duty to be the safe one.—</p>
+         <p>Now for a little <hi rend="italic">news.— </hi>The holidays here have been well kept by <hi rend="sup">19</hi>/<hi rend="sub">20</hi>ths of the people; having had very fine weather throughout. Miss Bourke has been married to a Dr. Pollen (<hi rend="italic">nephew</hi> of old Dr. P.) <hi rend="italic">and, Miss Russell (H.R.R.’s daughter) is engaged</hi> to a Mr. Ogilvy—a clerk at Wgn, w. £200 a year—but, then, a <hi rend="italic">relation </hi>of the Governor!! (so Bridge &amp; Gaisford are thrown over!) H.R.R. had a narrow escape in returning, coach smashing at Takapau &amp; Sheehan fell down and broke (not <hi rend="italic">his</hi>
+            <hi rend="italic">neck</hi>, but) a rib at Auckland. Hans Thompson was (<hi rend="italic">very properly</hi>) acquitted. Brandon has just left B.N.Z., on ½ saly. annuity.—the directors want a <hi rend="italic">younger</hi> man. Brooke, &amp; Mrs. T., called here, during my absence. Bradley has given up Saddlery, &amp; taken to <hi rend="italic">his</hi>
+            <hi rend="italic">Hotel</hi>!! on the new Taradale Road, &amp; near to T. He had a <hi rend="italic">narrow escape</hi>. Brooking has left Lyndon &amp; entd. into partnership w. Bennett. Richardson of Petane is <hi rend="italic">dead</hi>—in Engd.—telm. just arrived. Our 3rd. Wl. Ship, “Langstone” left yesterday with 6 passengers. Newman’s <hi rend="italic">bumptious</hi> advt. is out: I pity the poor souls who may be taken in by it!! I heard it is only the land on the cold S. slope towards Motuotaraia—without wood, water, or shelter! David Hunter, I find, has settled on the <hi rend="italic">W</hi>. Coast, beyond Whanganui, purchasing at £<hi rend="underline italic">13</hi> per acre.—From <hi rend="italic">all parties</hi> I have heard much in praise of the Land thereabouts.—I send you a “<hi rend="italic">Wananga</hi>” of last Saturday, in it you will see a good deal,—notably the <hi rend="italic">last</hi>
+            <hi rend="italic">Maori</hi> declaration <hi rend="italic">here</hi>—which is a true sign of the times. Ere long the watchman <hi rend="italic">may</hi> call out:<note xml:id="ftn2-309" place="foot" n="309"> Colenso had used the pen name “Watchman” in his Māori tract <hi rend="italic">He Manuwiri hou, ko te Wakakite</hi>, in 1849.</note>— “Breakers ahead!”</p>
+         <p>Your friend Mr. Sidey returned yestertay from Melb. to <hi rend="italic">Bluff</hi>, &amp;, I hear, is well. W. Marshall is still ill, unable to take duty. Last night I had 3 notices to “abate nuisances” served on me, signed by the Mayor! for Sections 29, 30 &amp; 316: all (if <hi rend="italic">nuisances</hi>) caused by their <hi rend="italic">own</hi> doings,—damming in water by their roads. I have been waiting for an opportunity to fill in 316 (i.e. what is left to me of it),—but, by the Corpn. giving the Cricketer’s Cl. Sq., it will cost ever so such more to run round the sharp angled fence.—A tall young boy-like chap (rather presumptuous, called Leslie Campbell,—who has always had <hi rend="italic">your office</hi>) was married 2 days ago to a girl who came out emigrant by “Inverness” (2 sisters—both now married): C. was <hi rend="italic">Donelly’s</hi> bridesman! C. is about the ruddiest <hi rend="italic">bare </hi>faced yg. fellow I have ever seen: he would make for a capital woman,—only rather too cheeky looking!</p>
+         <p rend="end">4 p.m.</p>
+         <p>Since writing the foregoing I have been down to town: I went to see Moore, U.B.A., <hi rend="italic">re Witty</hi> &amp; his Deed, &amp; I find he had not yet taken it up, though he told M. he would do so <hi rend="italic">before</hi> this Mail leaves—which he <hi rend="italic">may </hi>yet do,—but if not <hi rend="italic">now</hi>,<hi rend="italic"> </hi>no doubt he will soon: he is hard put to for money, we know. In passing by I noticed that a good large shop (double front) is on <hi rend="italic">Mrs</hi>. Tuke’s land; but who for I don’t know.—G.E. Richardson paid Rochfort £7.7.0 for laying-off his lot &amp; map: aftds. R. laid-off D. Guy’s, adjoining,—and now comes 6 feet into George’s land! pot boiling over!—</p>
+         <p>“P. Blom”—has been making a row about his Land: here 2–3 times in my absence. Fielder also called; &amp; now it turns out that instead of 66 links he has <hi rend="italic">61</hi>—he took (I suppose) the 66 <hi rend="italic">diagonal</hi> for 66 across: I am to go there tomorrow. Monroe Street is formed just as Rochefort laid off in his Map—so giving me (or them) a few feet <hi rend="italic">more</hi>—up to Road; &amp; now P. Blom says, “but where my <hi rend="underline italic">footpath</hi>”.—However I can put him to rights.—</p>
+         <p>During this week I have had Raspberries, Gooseberries, Cherries, &amp; now Apricots, but only a <hi rend="italic">few</hi> of <hi rend="italic">each</hi>, not over 2 qts. of Gooseberries!! &amp; about 6 pounds of the Com. red cherry.—Obliged to gather all at once, owing to horrid Birds <hi rend="italic">introduced</hi>,<hi rend="italic">—</hi> the sparrows are here now!!—And <hi rend="italic">some peculiar</hi> unknown bird—2 pairs I have seen, &amp; my man also—they get on the tip top long buds of the high pine, &amp; there perch,—looking so strange.</p>
+         <p>And now I must say good bye! Hope you have managed well w. Dixon &amp; Lin. Society. Had a letter &amp; a book from Wesley, who has <hi rend="italic">had</hi> the <hi rend="italic">Insurance</hi>. Tell me what you think of him: maybe <hi rend="italic">we </hi>can get a <hi rend="italic">better</hi> hand for our Institute.</p>
+         <p>Believe me, yours truly,             W. Colenso</p>
+         <p>Have not seen Grubb since my last!—Fannin is well but getting too red-nosed &amp; bloated!! Have not yet seen Philip D.!! nor heard from Mackay!</p>
+      </body>
+   </text>
+</TEI>

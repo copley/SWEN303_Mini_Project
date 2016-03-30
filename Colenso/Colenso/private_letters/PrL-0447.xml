@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0447">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1881 February 28: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861. Endorsed “A 3/3/81”.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1881-02-28">1881 February 28</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1881 February 28: to Balfour<note xml:id="ftn3-80" place="foot" n="80"> ATL 88-103-1/07. Original at MTG HB 67861. Endorsed “A 3/3/81”.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier Feb 28/81</p>
+         <p>Mr D.P. Balfour </p>
+         <p>Dear Sir</p>
+         <p>How are you? and all the rest of kind enquiries.—I find it more than a month since the date of your last letter,—which I have again this morning perused carefully,—wondering what on earth your (Gaelic)? “Divot” really means; I suppose, that specimen sample, or the thing in question al­ready mentioned or understood, is what is meant, by your wonderfully expressive word; my auld wifie here (Scotch, of course) cannot well explain the Cabalis­tical &amp; hidden term to me,—though I fancy she <hi rend="italic">knows</hi> its meaning.</p>
+         <p>I wrote you on the 14<hi rend="sup">th</hi>—&amp; I also sent you a copy of our Annual Report, both of which I hope you received.—I note in your letter (27<hi rend="sup ">th</hi> Jan), that you men­tion having received some “W. Mail” papers from me. I would that I knew their <hi rend="italic">date</hi>, as then I could send you a continuation of that story (not yet quite fin­ished) and I don’t wish to send you the same twice over, (that is, if you would care to have the remainder; if so, let me know your last date, or, how many you received).</p>
+         <p>I have been making some enquiries after you, but can learn nothing; hope you and yours (and all the other tutu-longing bairns) are well.</p>
+         <p>One reason of my writing just now (in addition to that of “for Auld Lang Syne”) is, my leaving home for inland tomorrow, or (as it is now raining), on Wednesday, and I expect to be absent a fortnight.</p>
+         <p>I have just had a short letter from Dr Hector, saying that my Zoological paper, (which was delayed in forwarding) will not be published in this Vol (XIII) having arrived too late—this was owing to Prof Von Haast <hi rend="italic">not</hi> answering my enquiry made to him in <hi rend="italic">September</hi> last until about three weeks ago!! Conver­sing with Dr Butler in September, about one of my fine &amp; rare insects (<hi rend="italic">Hemideina</hi>) he said, he thought that Dr Haast had found the same animal in Nelson province several years ago, &amp; had described it; so I wrote to him (with whom I am very <hi rend="italic">friendly</hi>) begging for an <hi rend="italic">early</hi> reply, keeping open my paper until I got it, not thinking it would be so long; indeed I had given it up, &amp; was at work on that same thing when his letter came—full of apologies, &amp; how he had been over and over hunting among his papers (printed in Germany) but could not find it!!.</p>
+         <p>I saw also, in a Wellington Paper, that the Society <hi rend="italic">there</hi>, had been holding their Annual Meeting (Dr H present), when it was stated they had had thirty papers read (&amp; received) during the last session, which were <hi rend="italic">all</hi> sent to Dr H for pub­lication in this forthcoming volume. Such being the case, I doubt if half of ours will be found therein. I had previously written to Dr H (when I sent down our former ones of last year) telling him the reason <hi rend="italic">one</hi> was retained in hand, and <hi rend="italic">one word</hi> from him, either by letter or by wire, would have been sufficient, &amp; so he could have had it in time.</p>
+         <p>I feel this a bit <hi rend="italic">more,</hi> because several of those new insects were collected by <hi rend="italic">our members</hi>,—Ormond, Weber, Tiffen, Rearden, Thomson, &amp;c. And, when you do write, let me know what <hi rend="italic">days</hi> you get your letters, &amp;c, from Puketapu; the impression on my mind is that you only get them on Saturday. I should not omit to tell you that the little orchideous plant, with a broad leaf, that you sent me, is still living. I kept it indoors in a cup (tending it like a sick child) until Friday last, when I tied it to a tree in my garden, there to take its chance, watering it, of course, and now this rain has come it may live; it has but one leaf left; &amp; I know its Genus flowers in Oct–Nov.</p>
+         <p>Keep a good eye over yours.</p>
+         <p>And now with kindest regards to Mrs Balfour &amp; yourself &amp; family</p>
+         <p>             Believe me</p>
+         <p>                             Dear Sir</p>
+         <p>                                             Yours very truly</p>
+         <p>                                                             Wm Colenso.</p>
+         <p>22/3/81</p>
+         <p>Send you 13—all—of the Wellington Mail, containing my Wgn story;<note xml:id="ftn3-81" place="foot" n="81"> A rare slip: Colenso meant the <hi rend="italic">Waipawa Mail</hi>, in 13 issues of which (1 January to 5 March) he had written letters or articles.</note> cannot possibly write a letter to you this week—hope to next. Europe Mail leaving. </p>
+         <p>P.S.</p>
+         <p>After I had sealed up my letter, found I had omitted saying anything about the bones. They are those of a <hi rend="italic">young</hi> Moa and very old, worn (or decayed) &amp; of no value. Curiously enough, Hallett also <hi rend="italic">lately</hi> brought me a bone or two of a <hi rend="italic">young</hi> Moa—but in first state of preservation. W.C.</p>
+      </body>
+   </text>
+</TEI>

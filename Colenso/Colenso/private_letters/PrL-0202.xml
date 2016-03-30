@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0202">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1865 late November: to TB Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Ms-copy-micro-485 Reel 1.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33948/">T. B. Harding</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1865-11">1865 late November</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1865 late November: to TB Harding<note xml:id="ftn2-117" place="foot" n="117">ATL Ms-copy-micro-485 Reel 1.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Friday morng.</p>
+         <p>My dear Sir</p>
+         <p>I thank you much (as a subsr.) for <hi rend="italic">English</hi> news, &amp; for your <hi rend="italic">article</hi> of yesterday.</p>
+         <p>Please send me, next Monday, by your son, 10 copies of the Times of Novr.24<hi rend="sup">th</hi>.</p>
+         <p>I sent you a letter which I should like for you to insert. Please let me have the <hi rend="italic">printed </hi>one back again.</p>
+         <p>If you look into the <hi rend="italic">Advertiser</hi> of 22<hi rend="sup">nd</hi>.—you will see a letter from Wakelin which is one of the <hi rend="italic">best</hi> I have seen from a Wellington man: do read it—his 1–14 reasons do him honour, &amp; would bear republishing. They express my thoughts—if not my words.—</p>
+         <p>Also, see Otago Daily Times of Novr. 16<note xml:id="ftn2-118" place="foot" n="118">This is in the <hi rend="italic">ODT</hi> of 16 November 1865, dating this letter.</note>—which contain MacAndrew’s Resolutions for <hi rend="italic">their </hi>Provl. Council—if these are carried <hi rend="italic">there</hi>, then the Colony may begin to look-out.</p>
+         <p>You might write an excellent article on the Govr. <hi rend="italic">withholding his assent</hi> from the H. Bay Represent. Act. I believe every session (since McL.) our (<hi rend="underline italic">their</hi>) Acts have been thus treated.</p>
+         <p>                             Yours &amp;c</p>
+         <p>                                     (in haste)</p>
+         <p>                                             Wm. Colenso.</p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1107">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>28 November 1868: Holmes to Haast.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70510/">Robert Langley Holmes</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>ATL MS-Papers-0037-088, sheets 33 &amp; 30.</p>
+         <p>Transcription published in "My Dear Dr Haast: 
+Transcriptions of selected letters from Robert Langley 
+Holmes to Julius Haast between 1864-65 and 1868-70 ", Rowan Burns &amp; Simon Nathan.  Geoscience Society of New Zealand miscellaneous publication 133C, 2012.  ISBN 978-1-877480-22-5. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133C.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1868-11-28">1868 November 28</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9511/&gt;Sir Julius von Haast">Sir Julius von Haast</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Holmes to Haast, 28-11-1868, ATL MS-Papers-0037-088, sheets 33 &amp; 30.</p>
+      </front>
+      <body>
+      <p> 
+Colonial Museum </p>
+            <p>Wellington </p>
+            <p>28 Novr. 68 </p>
+            <p>My dear Dr Haast, </p>
+            <p>Having an idle half hour in office I devote 
+it to you, other I have very little news to 
+communicate.</p>
+            <p>Dr Hector left for Nelson last Sunday, en 
+route for the Interior of that Province, he 
+talked however of being back here again in a mo
+nth or so; his marriage is to take place in the 
+first week of January so I question very much 
+if we shall see him before that interesting 
+event. It seems possible he may pay Ch.Ch. a vis
+it, if his wanderings take him any where near 
+the Hurunui. He has however pr
+obably told you about his inte
+nded movements, the more so 
+as you appear to be medita
+ting a trip here yourself. </p>
+            <p>There is nothing doing whatever in the way 
+of meetings of the Phil. Societies, beyond 
+the printing of the vol. of Trans
+actions which is now in the pre
+ss: a day or two ago I corrected 
+the first few sheets, which work falls to my lot, altho I refer the proofs to one or other of the 
+Governors before the final striking off.</p>
+            <p>I think the book will in every way be a success, the type is good and clear, and the 
+illustrations very fair; of the latter there will be some 6 or 8 mostly referring to Auckland 
+papers of Capt. Hutton’s, geologi
+cal, or topographical. A very fair
+ view of Rapa to illustrate 
+Capt. Vine Hall’s paper has been
+ already struck off the stone; Buchanan of course did the 
+designing, the govt. lithographer did 
+the rest. The printing is let to a private printing firm, and 
+the cost will be pretty heavy, but it is uncertain
+ how much it will come to yet. There will be 
+some 300 p.p. of Royal Octavo, quite a respec
+table vol., besides the 5 Exhibition essays which will be bound up with it. The contract for printing binds the firm to complete the whole 
+affair before Janry. 31, but another ten days 
+or fortnight will be required for binding &amp;c. </p>
+            <p>I was directed to write to Mr Fraser a day or two asking, once more
+ for the particulars 
+of your Society required for insertion in the Proceedings: viz list of office bearers, members 
+&amp;c, which information was promptly and fully supplied by the remaining 3 affiliated 
+societies long ago. I had to fill in the
+ office bearers yesterday as the lists appear in the very 
+beginning of the vol., and fortunately I had retained a copy of the 
+Lyt. Times
+ which contained 
+a list of such, but whethe
+r correct or not, I can not 
+say, it must remain as it is now in any case, 
+I hope Mr Fraser will send the me
+mbers list before it is too late, 
+he appears to ta
+ke little or no 
+interest in the affairs,
+ he ought to take a less
+on from Kirk the Auckland Secy. I forgot to say 
+that a long essay by Colenso on the Maori races
+ will also be appended to the vol., it will 
+contain by itself some 100 pages of print. </p>
+            <p>We are to become a nation of Soldiers at last
+, all classes of militia have been called 
+out, and the 1 &amp; 2 are already sworn in, but not 
+yet armed[?]. The Govt. get fearfully abused, 
+but everyone agrees that the militia 
+should have been enrolled long ago
+ if only to show the 
+savages (the word Maori ought to 
+be dropped for the present) that 
+we do not yet intend to see 
+Carlyle’s satyre carried out here, and have a 
+Maori sketching the ruins of Wellington from the 
+end of the Queen’s wharf, and the last Pakeha making off through the Heads. It is however by 
+no means impossible that the 1st
+ Class may be sent to the Front, I rather hope they will, it 
+would be a little excitement in these dull times, provided the 
+officers are not duffers. </p>
+            <p>H. Travers went off to Nelson with Dr 
+Hector, under whose wing he will work for a 
+while, but be enabled to make collections for himself as well; he proposes to be away for 
+about 6 months. Dr Hector is 
+enlarging his House considerably, extending the sitting room 
+back towards the Museum &amp;c. </p>
+            <p>There is to be a small observatory constr
+ucted near the Museum at the back, and the 
+time ball will be removed there, everything to
+ be placed under Dr 
+Hector’s charge, the 
+meteorological business, has been transferred 
+back to this office, as Knowles gave it up, 
+when they reduced his screw.</p>
+            <p>Mr Travers has taken one of the nices
+t houses in Wellington, on the Terrace, near 
+Domett’s, formerly Ledger’s, he will remove into
+ it from the Hutt in
+ about a fortnight, the 
+lease of Fitzherbert’s house expiring then. Olliv
+ier his clerk, who is liv
+ing with me tells me 
+he is doing a very good bus
+iness, a great deal of 
+it being advice of one 
+kind or another to all 
+parts of N.Z. By the bye Miss T. seems to be a 
+very nice girl, no nonsense
+ or little exhibitions 
+of temper
+; I must not however praise up the family to much to you
+. Kind regards to Mrs 
+Haast. </p>
+            <p>Yours very sincerely</p>
+            <p>R. L. Holmes.  </p>
+</body>
+   </text>
+</TEI>

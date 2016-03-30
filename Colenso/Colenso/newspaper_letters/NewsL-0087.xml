@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0087">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1880 A mountain of a molehill— alias roasting a Maori. Hawke’s Bay Herald 28 May.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1880-05-28">1880 May 28</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1880 A mountain of a molehill—</hi>
+                  <hi rend="bold italic">alias </hi>
+                  <hi rend="bold">roasting a Maori.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 28 May.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—In your paper of this mornmg you have a strange story―of a Native having been yesterday actually brought up (on “remand” too!) before the Court in Napier, for putting another Native, who was ill, on a rude kind of earth oven or vapour bath! (Heigho! when are such pragmatic intermeddlings to end?) I write to inform you, that such means of obtaining relief in illness and pain, were formerly commonly practised by the New Zealanders. A notable instance of it was first seen by Captain Cook, who amusingly relates it in true sailor fashion in his <hi rend="italic">large</hi> work. I have also known it to be done and to afford great relief when properly performed (as I have mentioned in my “Essay on the Maoris,” section 21, vol. I., “Transactions N.Z. Institute,” 1866).—Sometimes, however, there would be a “burn” (or scald) left in spots, arising either from the hot steam, or from a <hi rend="italic">porte-moxa</hi> like application of a hot edged, or pointed, stone; but such “burns” were never by the old Maoris considered worthy of the least notice, being indeed far less painful than what they suffered from their tattooing,—and scarcely ever worse than the destruction of skin often caused by a severe blistering with blister plaster! Of course, this latter made and applied by a duly authorised Medical man <hi rend="italic">secundum artem!</hi>
+               </p>
+         <p>Having alluded to a <hi rend="italic">porte-moxa</hi>, I may as well add, that this mode of burning the skin with fire in spots (which has for some time been in use among European Surgeons), has long been used by the Chinese, and by other Oriental nations, to relieve pain, &amp;c. So that some poor John Chinaman may ere long be hauled up, or “run-in,” by some ignorant and fussy Constable,—for such wicked “burns!”</p>
+         <p>To me—the whole affair is most laughable! Constable Livingstone might just as reasonably ferret out and apprehend any poor white (some old woman, perhaps, away in the Country!) for using a rude Turkish vapour bath, or a series of cold water ones; or for Homœopathic treatment,—or for causing a credulous patient to swallow at one time 36 of Holloway’s pills (according to Holloway’s own prescriptions!)</p>
+         <p>You, also, have heightened this story by your sensational heading! And I quite expect to see the same reproduced by telegrams both N. and S., (especially by the Napier correspondent of the <hi rend="italic">Auckland Weekly News,</hi>―so notorious for all such matters,)—as a dreadful act of horrible cannibalism by the Maoris of Hawke’s Bay.—I am, &amp;c.,</p>
+         <p>
+                  <hi rend="smallcaps">	William Colenso.</hi>
+               </p>
+         <p>May 27, 1880.</p>
+      </body>
+   </text>
+</TEI>

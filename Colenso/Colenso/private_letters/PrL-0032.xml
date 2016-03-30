@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0032">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1842 December 30: to Davis</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Hocken Ms-0498/012/358.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/6871/">Paihia</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/71642/">Davis</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1842-12-30">1842 December 30</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1842 December 30: to Davis<note xml:id="ftn1-33" place="foot" n="33"> Hocken Ms-0498/012/358.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="center">(Copy.)</p>
+         <p>Mr. Rd. Davis,<lb/>Secretary,<lb/>N.D.</p>
+         <p rend="end">Paihia, Decr. 30<hi rend="sup">th</hi>. 1842</p>
+         <p>My dear Sir,</p>
+         <p>Understanding that your Committee are to meet at Waimate on Monday next, I embrace the opportunity thus afforded me of acquainting them with my Sentiments, in answer to a certain portion of your official Letter to me of the 19<hi rend="sup">th</hi>. instant, in which you speak of my being “soon at liberty to proceed to a Southern Station.”</p>
+         <p>That prior to my being removed by the Committee of Missionaries from my present occupation (of Sub-Editor and Superintendent of the Press, as expressed in the last Letter from the Parent Committee,) to any part or Station of New Zealand, I should wish such removal to have the full sanction of the Parent Committee.—</p>
+         <p>Believe me,</p>
+         <p>my dear Sir,</p>
+         <p>with every respect,</p>
+         <p>Ever most truly yours</p>
+         <p>Willm. Colenso.</p>
+      </body>
+  </text>
+</TEI>

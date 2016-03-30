@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0193">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1897 The record reign. Hawke’s Bay Herald 8 June.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1897-06-08">1897 June 8</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1897 The record reign.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 8 June.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,— During my prolonged and enforced sojourn in the bush district I have on several occasions observed, in the various papers that I have seen respecting the approaching Jubilee of Her Majesty our Queen, that her accession to the throne took place on the 22nd of June, whereas it really took place on the 20th of that month, as is clearly shown in the order for the form of prayer for thanksgiving, issued by Her Majesty on the 21st June, 1837, as printed in the Book of Common Prayer of the Church of England:— “The twentieth day of June; being the day on which Her Majesty began her happy reign.” This latter and correct date I have seen nowhere noticed. — I am, &amp;c., </p>
+         <p>		W.<hi rend="smallcaps">Colenso</hi>. </p>
+         <p> Danevirke, June 7th, 1897.</p>
+      </body>
+   </text>
+</TEI>

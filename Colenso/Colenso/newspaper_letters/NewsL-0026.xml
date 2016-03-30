@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0026">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: To the independent electors of the town of Napier. Hawke’s Bay Herald 6 August 1859.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1859-08-06">1859 August 6</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1859-08-02">1859 August 2</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">To the independent electors of the town of Napier.      <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald </hi>
+        <hi rend="bold">6 August 1859.</hi>
+      </p>
+    </front>
+    <body>
+      <p>BROTHER SETTLERS!— A few months ago you chose me as one of your Representatives in our first Provincial Council. You did me that honor unsolicited. I entered the Council unfettered as “a Tribune of the People.”—</p>
+      <p>I subsequently accepted the office of Provincial Auditor; and, in consequence thereof, I have (according to law) lost my seat in the Council. Notwithstanding I have every confidence in you; believing, that you will again choose me to be one of your Representatives.— </p>
+      <p>I believe this, lstly, because I accepted this very office I now hold of Provincial Auditor <hi rend="italic">the better to serve your interests</hi>. The Province has great need of a tried man of courage and of independent mind and station to fill that important situation. Had such an office been created and properly filled at the very onset of our separation from Wellington, our Treasury would have been much richer. You know that the salary is small: and you should know that the duties (as laid down by our Superintendent) are important and responsible. They are not merely those of common Auditors, <hi rend="italic">viz.,</hi>: —to cast up and correctly place accounts already paid, (duties which may be performed by common clerks,)—but, to scrutinize all demands on the public purse,—to control and check the expenditure of the public money,—and to see that none is spent beyond the amounts and for the purposes sanctioned by the people’s Representatives in Council;—and all this has to be done before any of the public cash can be drawn or paid. </p>
+      <p>
+      <hi rend="italic">Secondly</hi>:—I believe that you will re-elect me, because you will agree with me that it is highly needful that the Provincial Auditor should have a seat in the Council.— </p>
+      <p>
+      <hi rend="italic">Thirdly</hi>:— I believe that you will again choose me, (notwithstanding any opposition—open or concealed—which my old opponents may raise,) because I fully approve, and have supported, and shall (if elected) cordially support, the highly suitable policy of our worthy Superintendent.—</p>
+      <p>
+      <hi rend="italic">Fourthly</hi>:— I believe, that you will again call me to the honourable post of your Representative; because, during the late sitting of the Council, I served you both faithfully and zealously.— </p>
+      <p>
+      <hi rend="italic">Fifthly</hi>:—I further believe, that I shall again become the man of your choice; because you know that I have ever heartily and fearlessly aided our Common Cause—with head and heart, with tongue and pen—and that our good cause, though strong and settled, is yet too young not to require the watchful and constant care of all its earliest friends.— </p>
+      <p>Believing thus, brother Settlers, and having confidence in you—I ask you for your votes: I calmly await the issue. </p>
+      <p>But, if, on the contrary, you can dispassionately think, that I have not faithfully and zealously served you; and you really know of a man altogether better adapted to serve you as your Representative—by all means choose him. Only (I would beg to be allowed to remind you) be quite sure, that he will fully uphold the policy of your present Superintendent; (particularly that part of the same which referrs to the Provincial Lands and to the Wellington Loan,) which policy I conscientiously believe to be the one best suited to the interests of our Town and Province. </p>
+      <p>In conclusion, allow me further to say,—that I shall, in this present election, pursue precisely the same course that I did in the last: <hi rend="italic">viz</hi>: — I shall solicit no man’s vote: I shall organize no Committee: I shall use neither influence nor friends: I shall not even ask any one either to nominate or to second me on the day of election. Of course I shall be there, to do my duty as the case may be.—</p>
+      <p>I am, Brother Settlers, </p>
+      <p>Your true friend, and </p>
+      <p>Very obedient Servant, </p>
+      <p>WILLIAM COLENSO. </p>
+      <p>Napier, August 2, 1859.</p>
+    </body>
+  </text>
+</TEI>

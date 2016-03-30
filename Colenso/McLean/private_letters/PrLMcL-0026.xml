@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0026">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1871 May 13: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1009693</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1871-05-13">1871 May 13</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1871 May 13 McLean to Colenso (#1009693) </p>
+		</front>
+		<body>
+			<p>My dear Sir, </p>
+			<p>I was very sorry to hear that you were afflicted with rheumatism. I can quite sympathise with you, as it has been an old enemy of mine, from which I have suffered very severely. I shall be glad to see you at any time. </p>
+			<p>Yours truly, (Signed)  Donald McLean May 13. 1871.  </p>
+		</body>
+	</text>
+</TEI>

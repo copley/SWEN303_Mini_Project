@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0172">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1894 The late President Carnot. Hawke’s Bay Herald 29 June.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1894-06-29">1894 June 29</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1894 The late President Carnot.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 29 June.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">S</hi>
+                  <hi rend="smallcaps">ir</hi>,— As one of your old original snbscribers, please allow me to say, that I was not a little surprised this morning in reading in your paper an atrocious letter written on the late shocking murder of the President of France. Such an abominable scribble I think I have never before known to be published by you in your old established and respectable paper. But I am not going to tackle it; it is too low, too anarchical, for me; besides, it is well known that I never notice anonymous letters; and this one, too, without even a disguised name! </p>
+         <p>My object, however, in writing is, (1.) to say, that I think you should not insert<hi rend="italic"> [those letters]</hi> having immoral tendencies; (you do,<hi rend="italic"> [of course]</hi> exercise your undoubted right in <hi rend="italic">[rejecting them]</hi>;) and (2.) that, having published it, you <hi rend="italic">[should]</hi> also give to your readers and to the public generally, the name in full of the wretched writer. Let me know who the creature is, (I would hope:— a visitor, a mere bird of passage, and not a Napier resident,) even to run the risk of his being “tarred and feathered.” Sure I am, Mr Editor, that the steady thinking industrious settlers of New Zealand will—to a man—lament the sad untimely end of President Carnot, and with the civilised world truly feel for the French nation in their very severe and unexpected calamity and national loss.—I am, &amp;c.,<note xml:id="ftn58" place="foot" n="58"> The paper is torn, and some words obscured—<hi rend="italic">Ed.</hi>
+                  </note>
+               </p>
+         <p>
+                  <hi rend="smallcaps">					William Colenso</hi>,</p>
+         <p> Napier, June 26th, 1894.</p>
+         <p>
+                  <hi rend="bold">1894 A correction<lb/>  
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald </hi>
+                  <hi rend="bold">12 July.</hi>
+               </p>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—For the sake of the rising generation I would ask permission to correct an error in the letter from your correspondent “Hopeful,” in your paper of this morning.—I do so, because it is a very common one. He concludes his letter by saying,— “Burns wrote, ‘An honest man is the noblest work of God.’”</p>
+         <p>Of course, I am well aware, that Burns has that line in his delightful heart-felt poem the “Cotter’s Saturday Night”; but the idea was <hi rend="italic">not </hi>original with Burns.The line occurs in Pope’s “Essay on Man,” (Epistle IV, line 248) whence Burns got it. And, indeed, in the large and superior editions of Burns’ works, the line itself is always placed between quotation marks, and Pope, I may observe, died before Burns was born.</p>
+         <p>But I would go a step further: and state (again) my belief—that Pope did not originally use the superlative, “noblest,” but either the comparative, “nobler,” or the positive, “noble”; more likely this latter, as the word is undoubtedly the more correct one there, and more in keeping with Pope’s well-known careful grammatical writing. Though, very likely, Burns, to make it more suitable for his subject, altered “noble” to “noblest.”</p>
+         <p>In my so saying, let no one suppose for a single moment, that I would ever write or utter a word of detraction against Scotland’s first and greatest poet—Burns; for I have ever had  the highest opinion of him as a true and great poet, of whom Scotland may ever and increasingly be truly proud.—I am, &amp;c.,</p>
+         <p>
+                  <hi rend="smallcaps">William Colenso.</hi>
+               </p>
+         <p>Napier, July 10, 1894.</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrLHadfld-0012">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1838 February 1: Octavius to Charles Hadfield</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70582/">Octavius Hadfield</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Wellington City Libraries book of typed transcriptions.  Spine title "Hadfield, Typescript (amended) letters 1833-1854".  Corrected by Gillian Ryan 1960. (page 22)</p>   
+         <p>Re-typed and encoded into TEI by Melissa Bryant, 20.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1838-02-01">1838 February 1</date>
+                  <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/5754/">London</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70819/">Charles Hadfield</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1838 February 1: Octavius to Charles Hadfield
+         </p>
+      </front>
+      <body>
+      <p>London,</p>
+      <p>Feb. 1st. 1838</p>
+      <p>My dear Charles,</p>
+      <p>I have very little time to write but I know you would like even a few hurried lines from me.  I left Ventnor on Monday morn early and came here the same day.  I appeared before the Committee of the Society and received my instructions; I shall on my first going to New Zealand be engaged in a school, but afterwards in work more particularly missionary, that is in preaching the Gospel to perishing sinners.  I have been very busy in town getting all the things that I require.  The ship I am going in is the "<hi rend="underline">John</hi>", bound to Sydney.  She is about 500 tons; a fine looking ship.  I have got a cabin under the poop next to the stern cabin on the larbord side; it is not very large or light, but it will be very quiet and I think comfortable.  The Captain who appears a nice fellow talks of sailing on Saturday.  I shall be ready by that time.  I feel happy at the prospect of going because I think it is to do work which ought to be done.  I feel myself unfit for so important a work but I look to the Lord for strength to support me.  I saw yesterday a man from New Zealand; he says it is a beautiful climate and country. I doubtless feel much pain at leaving you all but I trust we may meet again and at any rate we can write to one another, and I hope will meet by God's mercy, thro' faith in Christ Jesus, in the country of Heaven.  I was sorry to hear of the danger you were in travelling but was thankful that you were preserved.  I hope you will like your new station.  I suppose you will get your promotion before long.  I shall have no time to see any friends in town.  May the Lord bless and preserve us both, and believe me your ever affectionate brother. </p>
+      <p>Octavius Hadfield.</p>
+      <p>I am afraid it is too late to ask you to write to me here.</p>
+      <p><!--Previous editor's note: Attached to the bottom of this letter to Charles is a copy of another to Charles, dated Dec. 19th 1839.  This is filed in the typescript in normal chronological order, following the letter to Maria, August 27th 1839.-->
+      </p>
+      </body>
+   </text>
+</TEI>

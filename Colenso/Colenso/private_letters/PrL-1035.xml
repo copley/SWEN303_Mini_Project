@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1035">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1898 March 8: to Mrs de Lisle</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MTG HB m64/14, m67/37, 57844.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/75566/">Mrs de Lisle</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1898-03-08">1898 March 8</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1898 March 8: to Mrs de Lisle<note xml:id="ftn3-883" place="foot" n="883"> MTG HB m64/14, m67/37, 57844.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>March 8<hi rend="sup ">th</hi>., 1898.</p>
+         <p>Dear Mrs. de Lisle</p>
+         <p>I have just written a wee note to your good husband to prepare the way (as it were) for me to write to you, because, to tell you the truth, I have been some days thinking, you were, or might be, led to suppose, I had clean forgotten both you &amp; Rodolph Maia—owing to my <hi rend="italic">not </hi>calling—not even on the 7<hi rend="sup ">th</hi>. of last month—on which day, exactly 12 months ago, we <hi rend="italic">stood </hi>together with the dear boy in the Cathedral! And now for my apology or explanation, (please consider it kindly,) I have passed by your residence three times during those last three weeks, when I acknowledge <hi rend="italic">I ought to have called</hi>, but the first <hi rend="italic">two</hi>—I was <hi rend="italic">late</hi>, “trap” should have been here by ix.30, but did not arrive till near xi, and so I had scarcely time sufficient to make my <hi rend="italic">business </hi>calls, and back by xii, or so: and why “back by xii”? because the trap drivers all go to dinner by that hour—unless they are paid extra for waiting:—then this <hi rend="italic">third </hi>&amp; <hi rend="italic">last </hi>visit of mine—was on Friday last, &amp; caught in rain on <hi rend="italic">leaving</hi> but obliged to persevere to keep engagements: was thinly clad, got damp, &amp; hurried back: hoping, as I passed by, <hi rend="italic">you did not see me</hi>.—</p>
+         <p>Now, dear lady, will that do? Here in my solitude, under my trees, as a good (?) old Hermit, I have often had both you and Rodolph in mind, and even sometimes wished (for once) that I possessed a telephone. Of course—I could have written but I depended on my <hi rend="italic">next </hi>visit to the town to do better—and call: and this I both hope &amp; intend to do when I next go down.—I trust <hi rend="italic">he </hi>is quite well:—Dear me, how he must have grown since <hi rend="italic">I</hi> last <hi rend="underline italic">saw him</hi>! some months ago.—</p>
+         <p>And you, too, I hope you are quite well—now that our <hi rend="italic">hot </hi>season has, at last! passed:—this genial rain of yesterday &amp; today has already done wonders, a shadowy gleaming of delightful green—like that filmy satiny appearance on a pigeon’s neck when turning in the sun’s rays, is already noticeable on the parched brown bare dry hills. Looking at the plants &amp; shrubs &amp; trees around me, I fancy I see them rejoicing at Nature’s seasonable &amp; welcome boon: and the words of the grand old Hymn come rushing like a flood across one’s mind:—“O all ye <hi rend="italic">Green things </hi>upon the Earth, bless ye the <hi rend="smallcaps">Lord</hi>, praise Him and magnify Him forever.”—</p>
+         <p>I trust I shall not have tired you with my long &amp; prosy note. Please kiss Rodolph <hi rend="italic">extra</hi>—for his <hi rend="underline italic">old</hi> godfather:—I hope to see him <hi rend="italic">soon</hi>. I am better myself in general health, &amp; endeavour to be thankful and cheerful. With very kind regards,</p>
+         <p>Believe me,</p>
+         <p>Yours sincerely,</p>
+         <p>W. Colenso.</p>
+      </body>
+   </text>
+</TEI>

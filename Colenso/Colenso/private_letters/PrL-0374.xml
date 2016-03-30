@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0374">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1878 August 20: to Balfour</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/07. Original at MTG HB 67861.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73378/">Balfour</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1878-08-20">1878 August 20</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1878 August 20: to Balfour<note xml:id="ftn2-335" place="foot" n="335"> ATL 88-103-1/07. Original at MTG HB 67861.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">  Napier<lb/>Aug 20/78</p>
+         <p>Mr. D. Balfour </p>
+         <p>Dear Sir</p>
+         <p>At last I am able to send you your Vol of the “Transactions”, which I would (if I could) have sent you before; but, as Dr Hector tells me, it is a heavy affair—the <hi rend="italic">Binding</hi> of them—seeing there are over 1200 members &amp;c.</p>
+         <p>I hope you, too, will like this Vol. There is one thing in it, I fancy, will amuse <hi rend="italic">you</hi>, viz, an<hi rend="underline"> </hi>account of the <hi rend="italic">first</hi>
+            <hi rend="italic">Haggis </hi>ever made in these parts, see page 131, and <hi rend="italic">what</hi> of.</p>
+         <p>For some time past I have been desirous of writing you a few lines (should I not have the pleasure of meeting with you here in town); </p>
+         <p>1. I have seen in the <hi rend="italic">Auckland</hi> papers—that a Mr. Balfour of Mangawhare, had sent some specimens of the “Vegetable Caterpillar” to the Museum <hi rend="italic">there</hi>, and it occurred to me to ask you if you could not send a few to our (your) Museum here also.—Besides, they are scarcely wanted (I fancy) at Auckland; where they are very common, &amp; where (40 years ago) I used to get them by the scores!</p>
+         <p>2. Have you any ferns near you? in “Bush”.—Mr Nairne, has lately sent me some; and I have also had a lot sent me by Mr Petrie of Dunedin,—and have promises of some from Christchurch. Now if you can gather &amp; put me up a few <hi rend="italic">roughly</hi> (not laid out as if for ladies)—you would do me a favour, as I wish to compare some from various localities. 1 only want a few sorts, which I could point out to you—if you have them handy.</p>
+         <p>I dare say you have found it <hi rend="italic">pretty cold</hi> this winter; snow, perhaps, about you; reminding you of “the Far North”, “where grows the wild heather and thistle so green”.</p>
+         <p>I hope you are quite well, also Mrs Balfour, and all the bairns.</p>
+         <p>Please make my kind respects to Mrs Balfour, and believe me </p>
+         <p>Dear Sir</p>
+         <p>Yours truly </p>
+         <p>Wm Colenso.</p>
+      </body>
+   </text>
+</TEI>

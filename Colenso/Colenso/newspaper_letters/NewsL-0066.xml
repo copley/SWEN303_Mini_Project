@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0066">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1869 The Education Rate. Hawke’s Bay Herald 23 February.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1869-02-23">1869 February 23</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <creation>
+          <date when="1869-02-22">1869 February 22</date>
+          <name type="place">Napier</name>
+        </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1869 The Education Rate. 	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 23 February. </hi>
+         </p>
+      </front>
+      <body>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—In the <hi rend="smallcaps">Herald</hi> of the 20th, in speaking of the Education Rate, you say that you “republish (from the <hi rend="italic">Times</hi>) what is probably a <hi rend="italic">revised</hi> report” of what was said at the meeting on Monday evening; and as the editor of the <hi rend="italic">Times</hi>, in his paper of this morning, has not thought proper to take any notice of your statement, and as his silence might be reasonably taken as meaning assent, I write now to say that I know of no revision of the report, having not only never seen it before it was published, but also had no communication whatever with either reporter or printer. Had I seen it I should have corrected a few words—such as “Te Aute school estate being worth £5000;” what I said was—containing 5000 acres.—Yours, &amp;c., </p>
+         <p>
+            <hi rend="smallcaps">W. Colenso. </hi>
+         </p>
+         <p> Napier, Feb. 22, 1869.</p>
+      </body>
+   </text>
+</TEI>

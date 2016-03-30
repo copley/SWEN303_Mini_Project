@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0012">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1839 February 6: to the CMS Secretaries</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Hocken Library Ms Vol 63; ATL qMS 0491.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+            <correspAction type="received">
+               <name type="organisation" key="http://wtap.vuw.ac.nz/eats/entity/72116/">the CMS Secretaries</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1839-02-06">1839 February 6</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1839 February 6: to the CMS Secretaries<note xml:id="ftn1-13" place="foot" n="13"> Hocken Library Ms Vol 63; ATL qMS 0491.</note>
+         </p>
+      </front>
+      <body>
+         <p>Paihia, Bay of Islands,<lb/>Feby. 6, 1839.</p>
+         <p>Sirs and Brethren,</p>
+         <p>My last Letter to you, was dated June 4/38, which, with 8 Testaments were sent by H.M.S. “Buffalo”: I hope you received them in due time.—</p>
+         <p>It pleased God, of His infinite goodness and mercy, to lay His fatherly hand upon me very shortly after the date of my last—before, indeed, the “Buffalo” was out of the Bay—though brought very low, He was with me, He rebuked the disorder, and, contrary to my expectations, He has restored me to health, and permits me to labor a little longer in His Service. Two months however, passed by before I recovered my strength, so as to be able to attend to my duties.—</p>
+         <p>Since then—we having thought it expedient to divide some Testaments into parts, for the readier distribution in visiting distant places, for Schools, &amp;c., &amp;c.,—I have been engaged in Binding:—have bound a 1000 of these Parts, i.e. 200 Gospels Matthew; 200 Mark &amp; Luke; 200 John–Romans; 200 Corinths:–Philemon; &amp; 200 Hebrews–Revelations. In printing, I have printed 500 Copies of the 1<hi rend="sup">st</hi>. halfsheet of the N. Zealand Grammar, demy 12mo.; composed “Order of Confirmation”, 4 pp., post 8vo., and printed 200 copies; composed “Order of Consecration of a Burial Ground”, 4 pp. post 8vo., and printed 100 Copies; composed 1<hi rend="sup">st</hi>. ½-sheet of Prayer Book, demy 12mo., and printed 7000 copies; and, composed a Tract, demy 12mo., 24 pp., and printed 1000 Copies; this Tract was written by myself. At present, I am engaged with the Prayer Book, which is very much wanted.—</p>
+         <p>By this ship, the “Elizabeth,” Convy. I send you, copies of the first ½ sheet of Prayer Book, and of the first ½ sheet, also, of the N.Z. Grammar, of the Tract, of the Confirmation and Consecration Services, of the Declaration of Independence, (made by the Chiefs on the arrival here of the pretensions of Monsr. Thierry,) of the British Residents Manifesto, &amp;c., &amp;c., &amp;c.—</p>
+         <p>Sickness has prevailed among us to a very great extent; there is hardly, perhaps, a person to be found in this place and its vicinity who has not been visited in a greater or lesser degree with Influenza: Here, however, we have to record our gratitude to <hi rend="italic">our</hi>
+            <hi rend="smallcaps">God</hi>, who (as <hi rend="bold">[2] </hi>always) “in the midst of wrath remembered mercy”, and so the plague has ceased: few have been the number of cases in which this disorder proved mortal.—</p>
+         <p>On the 21<hi rend="sup">st</hi>, Decr., we were unexpectedly and agreeably surprised by the arrival of the Bishop of Australia, who came in H.M.S. “Pelorus,” Capt. Harding, accompanied by the Revd. O. Hadfield; on Saturday, the 22<hi rend="sup">nd</hi>., he landed at the British Resident’s, and on Sunday, the 23<hi rend="sup">rd</hi>., he preached, in the morning, at Paihia, and in the Afternoon at Kororareka. On the 4<hi rend="sup">th</hi>. Jany., he consecrated the Burial Ground at this place, and, also, that at Kororareka; on the 5<hi rend="sup">th</hi>. he held a Confirmation, confirming 44 Native adults, and 20- whites (mostly Missionaries’ children). On the 6<hi rend="sup">th</hi>. he admitted the Revd. O. Hadfield to Priest’s Orders, and, on the 7<hi rend="sup">th</hi>. he sailed for the Thames—where, on the 11<hi rend="sup">th</hi>., he confirmed 3 of Mr. Fairburn’s children, and baptized 2 natives; and, on the 12<hi rend="sup">th</hi>., he sailed thence for Norfolk Island. The Bishop, I am happy to say, gave general satisfaction: the white Residents and Settlers, opposed, as many of them are, to us, seem to have been pleased with the Bishop. Two Addresses were presented to his Lordship, one from ourselves, the other from the British Resident, Settlers, and Residents in the Bay. A third was presented by the Kororareka Settlers, but was, I believe, declined acceptance; this might be called an opposition address,—what it contained I don’t know, but I have heard, that its phraseology reflected much on us, one thing therein, I know, was a request to be furnished with a Ministry by his Lordship, though we have a Church there, and Service regularly performed there every Sabbath-day—the palce, also, within sight of, and only 3 miles from, Paihia. This same body of people applied, 3 days ago, to Dr. Lang, (whose vessel called here to repair in her way to England,) to supply them with a Minister, promising largely what they would do, in case he granted this request. One man, also, applied to the Doctor to baptize his children, this, however, the Dr. (on Mr. Mair’s, an old resident, shewing him who and what the applicant was,) refused to attend to. Dr. Lang paid us a visit, and saw my 2 lads working at the Press (I have just got 2 youths to do a little work there) at which he expressed himself gratified. Mr. Mair took him to visit the Kawakawa village, with which (as Mr M. informs me) the Doctor was much pleased.—</p>
+         <p>Accounts from the Southward are both gloomy and pleasing:—eleven persons were surprised by the Rotorua Tribe, whilst engaged in fishing, who were immediately killed and eaten within sight of the Station. <hi rend="bold">[3] </hi>We, ourselves, are tinctured with it! Oh! may the vine-dresser in mercy, dress His vine, purge, prune &amp; chastise her, and <hi rend="italic">cause </hi>her, yet, to bring forth fruit. I know that a blessing will, yea, <hi rend="italic">shall</hi>, be bestowed on those “who mourn in Zion,” at seeing the desolations. Brethren, I, unworthy I, do conjure you by the mercies of <hi rend="smallcaps">God</hi> that <hi rend="italic">you do not forgetyour privileges </hi>(John xiv. 13, 14; Ps. lxxxi. 10), but that you “pray without ceasing” to <hi rend="smallcaps">God</hi>
+            <hi rend="italic">for us</hi>, that we become not a “reproach to our neighbours, a scorn and derision to them that are round about us.”—</p>
+         <p>With regard to my proposals in my Letter of Mar. 24/38, allow me to say, my mind is unchanged:—If a steady Printer could be found to take the Printing off my hands, I should rejoice to go amongst the Heathens. I believe that <hi rend="smallcaps">God</hi> would protect me every where, and I <hi rend="italic">long </hi>to go forth. Hundreds and thousands there are who have not yet heard of the word of <hi rend="smallcaps">God</hi>, nor will <hi rend="italic">they </hi>hear until some one, who is made to care <hi rend="italic">not</hi> for this world nor its fleeting pleasures, be found to visit them. Brethren! I say no more, only, “Here am I; send me!”</p>
+         <p>Brethren! excuse my way of writing.—If I offend any one thereby, it is not done intentionally. I have no wish to offend any one, no, not in the least. Hoping and praying for better days, yea, for an outpouring of <hi rend="smallcaps">God’s</hi> spirit from on high, and, taking Nil desperandum, Christo Duce, for a motto for 1839———, and Praying, also, that the <hi rend="smallcaps">Lord</hi> may be with you <hi rend="italic">all</hi>, always,</p>
+         <p>I remain,</p>
+         <p>Sirs &amp; Brethren, Yours mo: truly</p>
+         <p>William Colenso.</p>
+         <p>I also enclose in the parcel; herein-spoken of, 5 parts of the Testament and 2 Testaments.—W. Colenso.</p>
+      </body>
+  </text>
+</TEI>

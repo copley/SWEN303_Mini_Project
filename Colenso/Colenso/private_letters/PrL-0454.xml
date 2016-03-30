@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0454">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1881 June 24: to Drummond</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL 88-103-1/13.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73880/">Drummond</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1881-06-24">1881 June 24</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1881 June 24: to Drummond<note xml:id="ftn3-90" place="foot" n="90"> ATL 88-103-1/13.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier June 24/81</p>
+         <p>Mr John Drummond</p>
+         <p>Dear Sir</p>
+         <p>I have just been (again) reading your note to me of the 29<hi rend="sup">th</hi> April(!!)—which I find amongst my unanswered pile of letters,—and from my finding it <hi rend="italic">there</hi>, &amp; not having any recollection of my since writing to you, I fear you may think me forgetful; however, if I have not written you any letters since that date, I have, I know, sent you several papers—from time to time—so that you may know you were <hi rend="italic">not forgotten.</hi>
+         </p>
+         <p>Of course yours of the 29<hi rend="sup">th</hi> April was written when I was at Takapau; after that date at Gows, Waipukurau, where I was taken seriously ill—but managedto return to Napier at end of following week—also<hi rend="bold"> </hi>to<hi rend="bold"> </hi>take the work &amp;c on the Monday following (at our Institute meeting) otherwise <hi rend="italic">it would have fallen through.</hi> I did not get round however, till beginning of June, &amp; only then, perhaps, through the continuous fine weather in May.—</p>
+         <p>I should have written to you last week, but I supposed you would have been at the 2 ploughing matches (Waipukurau, &amp; Kaikoura) &amp; therefore put it off.</p>
+         <p>I hope you &amp; yours are doing well. The information you have given me in this last note of yours, about your amount of rent, &amp;c, &amp;c, agree­ment with Jones, you had <hi rend="italic">not</hi> told me <hi rend="italic">before</hi>—and I cant say I like it; but you must be the best judge in such matters.—I have, again<hi rend="bold">, </hi>had a little trouble in money matters, with Reynolds of Havelock, (Exchange Hotel)—all owing to his careless manner of acting, and perhaps, my trusting too much to others;—Yesterday, however, that miserable state of trouble &amp; worry (extending just six months) was brought to a close, &amp; the premises sold for £1510.—I losing<hi rend="sup">-</hi>(my own share) over £300.—The story is a long and a strange one.</p>
+         <p>On Tuesday last I received from Wellington the <hi rend="italic">second</hi> half of copies of Vol XIII “Transactions” N.Z. Institute, for our members; and have been engaged in issuing them to those who have paid their subscriptions (according to rules),—I have just written to Hardy, Finlay Wilson A.Levy, &amp; others—in the Country near you, <hi rend="italic">re</hi> their overdue subscrip­tions,—and so I say to you—if you send me<hi rend="bold"> </hi>yours, £1.1.0.for this year I will send your copy for you, (Vol XII of <hi rend="italic">last</hi> year) which I obtained from Wellington—<hi rend="italic">this</hi> I shall, with much pleasure present to you,­—and I have kept it to go with the Vol of this year, &amp; so make <hi rend="italic">one parcel</hi>. Let me know, when you write, <hi rend="italic">to whose care at Waipawa, it shall be addressed,</hi> I shall <hi rend="italic">pay carriage to Waipawa</hi>.</p>
+         <p>I hope you are <hi rend="italic">quite well</hi>, ditto bairn, and his mother.</p>
+         <p>The weather here is still very fine, quite mild this week—warm today, and am, Dear Sir<hi rend="bold">, </hi>with very kind regards,</p>
+         <p>Yours truly</p>
+         <p>W.Colenso</p>
+         <p>P.S. Not having received my usual lot, of Eng papers by this last mail I have none to send—but I send you 2 Colonial ones, hoping you may find something good in them.</p>
+      </body>
+   </text>
+</TEI>

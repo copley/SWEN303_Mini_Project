@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0118">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1884 Mr Colenso on bush licenses. Hawke’s Bay Herald 10 June.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1884-06-10">1884 June 10</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1884 Mr Colenso on bush licenses.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 10 June.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>—I am much pleased in reading your reasonable and fitting article on “Bush Licenses” in this morning’s Paper; and hope what you have therein said may prove to be of timely service. Having myself had no small experience during the last 3–4 years, through boarding and lodging at various times at some of those very Licensed Houses that are now proposed to be closed, (and an ounce of fact being worth more than a pound of theory,) I cannot fairly refrain from saying a few words on the subject.</p>
+         <p>It is well-known that I occasionally visit the distant woods (70-mile-Bush), and spend some considerable time there. My sole objects in dong so, are—good health, to please myself, and (perhaps I may be allowed to say) to aid Science,—in seeking after new plants and animals, and in obtaining specimens of them and of others for the Royal Botanical Gardens and Museum, Kew, London. Now this pleasure and duty I should not be able to have were it not for those Licensed Houses.—</p>
+         <p>And here I would particularly mention the Central Hotel at Matamau,—in the very midst of 70-mile-Bush. At this Hotel I have often staid,—On some occasions a month at a time (owing to wet weather), on others a fortnight, or a week; and that, too, under both Landlords,—the first one Mr Towers, and the present one Mr Baddeley; I am a temperance man myself (not a sham one—under the Blue Ribbon or any other such like flag!) and a great disliker of drunkenness and of drunken habits; I have dwelt there as quietly and respectably as I could have done in my own house at Napier, (insomuch that I hope to go thither again,) and I have never seen anything to find fault with; on the contrary I have had ample proof, and that repeatedly,—that such houses, well-conducted, are real blessings, and that to all classes of the travelling community.</p>
+         <p>Indeed, it would be very unreasonable,—aye, an unjust and injurious, thing, to think of closing the new Hotel at Matamau, or of refusing a renewal of its license; seeing it was erected for the convenience of travellers and to meet a crying want, and that nothing has ever been alleged against it; and, on the other hand, its proved great and real service to the many passing travellers,—whether by coach or on horseback, with loaded drays or on foot. Such a high handed proceeding as that of a refusal to renew the License to this Hotel, would have to be met or counteracted somehow, and that immediately, by the Government, otherwise business and travelling that way would suffer materially.</p>
+         <p>To give an instance: the through Mail train leaves Napier at a very early hour, and I, in travelling, have known of several cases where passengers have been obliged to leave Napier without breakfast; on arriving at Makatoku (11.30), the popular Driver of the Mail Coach, Jones, is ready, waiting for Mails and passengers to start, and off they go! Now were it not for those two Licensed Houses on the way,—the one near the Railway Station, and the one at Matamau, where a glass of good beer and a biscuit can be always had (as well a other good drinks),—who can say what evil might not too often follow, if those half-famished passengers were obliged to travel as far as Tahoraite, where the Coach halts to change horses and to dine—say, 2.30, or 3 p.m.,—and then swallowing their breakfast-dinners hastily, being goaded on by excess of hunger and “Coach-ready-Sir”? And then, mark, what might reasonably be expected to follow—dyspepsia, illness, <hi rend="italic">death</hi>,—as in the recent case, 2 months ago, of the unfortunate Engine-cleaner at Makatoku;—through men going too long without refreshment, then eating quickly (and it may be ravenously and too much) for the weakened state of the stomach, which unhealthy state is further increased by the jolting that follows.</p>
+         <p>Thinking over this, reminds me strongly of the old Arabian proverb,— “For want of a nail the shoe was lost,” &amp;c.; and, as it is said, the Railway line is soon to be open as far as Matamau,—and the Coach to run through to Wellington thence daily on the arrival of the train fron Napier,—and then the Matamau Hotel would be the <hi rend="italic">only</hi> place of refreshment on the road for early call; it seems to me both unjust and injurious to the public to think of closing the Matamau Hotel.</p>
+         <p>What is really required everywhere is the following:—</p>
+         <p>1. Good Licensed Houses with proper accommodation:</p>
+         <p>2. Good Masters and Mistresses:</p>
+         <p>3. Good unadulterated liquors.</p>
+         <p>All this I have often endeavoured to impress on several Good Templars and Teetotallers, with whom I have from time to time conversed. And these obtained <hi rend="italic">true</hi> Temperance would be advanced; and other good and reasonable things would surely follow.</p>
+         <p>I could say a good deal more on this subject, but my letter being already long I forbear.—I am, &amp;c.,</p>
+         <p>
+                  <hi rend="smallcaps">William Colenso</hi>.</p>
+         <p> Napier, June 9<hi rend="sup ">th</hi>.</p>
+      </body>
+   </text>
+</TEI>

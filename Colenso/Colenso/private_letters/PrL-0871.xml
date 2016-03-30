@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0871">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1893 July 2: to Harding</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0497.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/115/">Harding</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1893-07-02">1893 July 2</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1893 July 2: to Harding<note xml:id="ftn3-648" place="foot" n="648"> ATL qMS-0497.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier, Sunday<lb/>July 2/93: ix p.m.</p>
+         <p>Dear Mr. Harding</p>
+         <p>I am just back from Augustine’s, whither I went to <hi rend="underline italic">attend</hi> S., the evg. being fine—warm &amp; calm. Can. Fox had the whole S., Congn. small.</p>
+         <p>Now for my confession! On Friday last (30<hi rend="sup ">th</hi>. June) I wrote to you, &amp;, ’mong other things, I said, I had recd. the copy of your Paper in vol. XXV. you so kindly sent me, but had <hi rend="italic">not yet read </hi>it! Yesterday night in clearing my work-table, for the week, I again thought on you &amp; yr. paper—and vowed—to read it first thing this mg. So after bkft. I sat &amp; <hi rend="italic">read</hi>, &amp; now write to tell you so, &amp; that I am <hi rend="italic">greatly pleased</hi> with it—I intend to read it again shortly. Only one bit in it I think you should <hi rend="italic">not </hi>have said but adopted the <hi rend="italic">very contrary, </hi>p.442, <hi rend="italic">short par. before last</hi>: you should have <hi rend="italic">used</hi> &amp;c—<hi rend="italic">all, </hi>good.</p>
+         <p>Yet, while praising to the skies your Paper—it is (as I take it) more <hi rend="underline italic">for your having so deftly woven old gathd. materials</hi>—for <hi rend="italic">almost </hi>every sentence I have certainly known before: thanks to your wondrous retentive memory. And while you (<hi rend="italic">rightly</hi>) laud the “song or charm of Pikea”—there is yet an <hi rend="italic">other</hi>, which for depth &amp;c. goes higher &amp; farther—i.e. that charm used in planting the <hi rend="italic">kumera</hi>—which is <hi rend="italic">more ancient.</hi>
+         </p>
+         <p>I greatly regret my having been <hi rend="italic">stopped </hi>in that work by Holder &amp; Weber &amp; Locke! as I had plenty of material. I cannot again take it up: the spirit to do so is <hi rend="italic">wanting.</hi>
+         </p>
+         <p>I don’t think very much of your “Rainbow” p., and I agree w. your Father in his <hi rend="italic">closing </hi>remark.—</p>
+         <p>
+            <hi rend="italic">Last nt</hi>. <hi rend="italic">late</hi>, another <hi rend="italic">very long </hi>letter from Hamilton (3 pp. fcp. fol.) closely &amp; minutely written!—I shall <hi rend="italic">never pay him</hi>! Cannot keep up w. him. One qn. he asks:—</p>
+         <p>“Did you see by the Papers, that the Auckland Institute want you to resurrect the Dictionary?”—<hi rend="underline">NO</hi>. Do you (Mr. H.) know any thing of <hi rend="italic">this</hi>? If so, please inform me.</p>
+         <p>My head is very shaky this evg. In <hi rend="italic">going</hi> to Ch. <hi rend="italic">pitch dark </hi>in field, I wandered from path to the right in the descent, &amp;, when close to the little gate at the brow, went over &amp; <hi rend="italic">down</hi>, whack– stunned a little but <hi rend="italic">persevered </hi>on! <hi rend="italic">Coming back </hi>had good moonlight.—–</p>
+         <p>I should not now &amp; <hi rend="italic">again so early</hi> write, but to tell you of my having enjoyed your Paper, &amp; so <hi rend="italic">endeavoured to make some amends for having kept it 3–4 days unread</hi>.—–</p>
+         <p>Now that you have <hi rend="italic">yours</hi>, where are mine? &amp; where vol. XXV., is that issued yet?</p>
+         <p>                             Good bye—</p>
+         <p>             Hope you also have had a fine day at Wgn.—</p>
+         <p>                             Yours sincerely</p>
+         <p>                                             W. Colenso</p>
+         <p>P.S. Mg. 3<hi rend="sup ">rd</hi>. In reading, this mg. I add a line lest you might dislike my <hi rend="italic">free </hi>remark re yr. “weaving”—perhaps I ought to have sd. thoughts, conclusions, ideas, &amp;c &amp;c <hi rend="italic">alike</hi>—espy. yours &amp; mine.</p>
+         <p>I <hi rend="italic">feel </hi>my fall—<hi rend="italic">shake</hi>, no <hi rend="italic">hurt</hi>, <hi rend="italic">little </hi>sleep last nt. Rain again this mg. Vale. W.C.</p>
+      </body>
+   </text>
+</TEI>

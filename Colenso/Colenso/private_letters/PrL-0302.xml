@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0302">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1875 November 20: to Cheeseman</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Auckland Museum MS 58/Box 5/Folder 3. A draft of Cheeseman’s polite and supportive reply is in the same box, dated 29 November.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                 
+                 <name key="http://wtap.vuw.ac.nz/eats/entity/4123/" type="place">Napier</name>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/73513/">Cheeseman</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1875-11-20">1875 November 20</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1875 November 20: to Cheeseman<note xml:id="ftn2-235" place="foot" n="235"> Auckland Museum MS 58/Box 5/Folder 3. A draft of Cheeseman’s polite and supportive reply is in the same box, dated 29 November.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Napier<lb/>Novr. 20/75</p>
+         <p>Mr Cheeseman,</p>
+         <p>My Dr Sir,</p>
+         <p>I have some recollection of having some time ago received a very kind note from you—which emboldened me to trouble you w. this.</p>
+         <p>I have lately received from a person of Auckland (a <hi rend="italic">Mrs</hi>. or <hi rend="italic">Miss</hi> Leech, I presume,) a small Book compiled by her of the Ferns of N.Z.—I dare say you too have seen it. Well, in it, she refers to <hi rend="italic">you</hi>, &amp; to a Bk. you had lent her (“Jl. of Botany Brit. &amp; For.”), which <hi rend="italic">restores </hi>to my old Fern (<hi rend="italic">Lindsæa viridis</hi>) its origl. name—as <hi rend="underline italic">published</hi> by me in 1841: then there are other new (<hi rend="italic">to me</hi>) statements therein, e.g. <hi rend="italic">Hymenophyllum</hi>
+            <hi rend="italic">subtilissimum, Lomaria Patersoni</hi>—<hi rend="italic">Gymnogramma Pohoi </hi>&amp;c &amp;c &amp;c—</p>
+         <p>Now I wish to ask you, if you have any <hi rend="italic">small </hi>Books (not bulky)—which would throw any light on those alterations;―which seem to me to be not only against all standard &amp; world-recognised rules (as to <hi rend="italic">right of priority </hi>of nomenclature), but against <hi rend="underline italic">us</hi>
+            <hi rend="italic"> N.Z. field </hi>Botanists in particular.</p>
+         <p>Sir W. Hooker half-allowed my <hi rend="italic">H. Frankliniarum </hi>to be a species (see <hi rend="italic">his Species Filicum</hi>): and his son, subsequently, (in Hand Book, 2<hi rend="sup ">nd</hi> part,)—says, that if distinct from <hi rend="italic">æruginosum </hi>(which I well knew it was) then it must stand as <hi rend="italic">H. Frankliniarum</hi>: now, for Lady Franklin’s sake, I wish to preserve its <hi rend="italic">first-published </hi>name.</p>
+         <p>So also with <hi rend="italic">Polypodium sylvaticum</hi>,—this plant is <hi rend="italic">not </hi>an <hi rend="italic">Aspidium.</hi>
+         </p>
+         <p>Did I send you a copy of my <hi rend="italic">old</hi> publication on Ferns? If I did not, I will, w. pleasure, do so.—</p>
+         <p>I have not received any of the Trans. or Journals of the Linn. Socy. since ’65!! (the fault however is <hi rend="italic">mine</hi>,)—hence I am ignorant of very much.—</p>
+         <p>For many years I have had <hi rend="italic">no time</hi> for Botany,—now, however, it may soon be different.<note xml:id="ftn2-236" place="foot" n="236"> Cheeseman struggled to answer this: he drafted “Should you take up N.Z botany...” then changed it to “Should you return to work in N.Z. botany…” then to “Should you resume active work in N.Z. botany, as you must, and as I hope you will do…” then “I am glad to hear that you (are) thinking of resuming active work in N.Z. botany….” Nothing if not ambivalent!</note>
+         </p>
+         <p>If you send me a parcel for a few days by post—I will of course pay <hi rend="italic">all</hi> Expenses w. thanks.</p>
+         <p>And if you should have a sp. or two <hi rend="italic">to spare</hi> of <hi rend="italic">Hymen. Cheesemanii, Trichomanes rigidum, </hi>&amp;c &amp;c—you could send them: (also <hi rend="italic">T. </hi>
+            <hi rend="italic">Lyallii</hi>, &amp; <hi rend="italic">T. humile</hi>).</p>
+         <p>I shall not now reply to Mrs (or Miss)—<hi rend="italic">tell me which </hi>until I hear from you.</p>
+         <p>I am, Dear Sir</p>
+         <p>Yours (in haste for mail)</p>
+         <p>W. Colenso.</p>
+         <p>
+            <hi rend="italic">Todea superba </hi>(which was also re-named <hi rend="italic">Leptopteris superba</hi>,) I see is come back again to the genus I had originally assigned it!!</p>
+      </body>
+   </text>
+</TEI>

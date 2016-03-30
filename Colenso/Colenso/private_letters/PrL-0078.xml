@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0078">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1848 December 23: to the Colonial Secretary</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0492. Copy.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/70244/">Waitangi</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/72546/">the Colonial Secretary</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1848-12-23">1848 December 23</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1848 December 23: <lb/>to the Colonial Secretary<note xml:id="ftn1-99" place="foot" n="99">ATL qMS-0492. Copy.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Church Mission Station,<lb/>Waitangi, Hawke’s Bay,<lb/>December 23, 1848.</p>
+         <p>Sir, </p>
+         <p>I have the honor to acknowledge the receipt of your Letter of the 7<hi rend="sup">th</hi>. ulto., in which you are pleased to give me a sketch of the plans of the proposed “Canterbury Settlement,” and in which you further wish me to aid (as far as I may be able) H.M. Government in obtaining the <hi rend="underline italic">whole</hi> if this District from the Aboriginal Proprietors, &amp;c.</p>
+         <p>I should have answered your Letter long ere this, but having been absent, travelling among the Natives of the District during the last 2 months, and having only returned to this my Station on the 18<hi rend="sup">th</hi>. instant, I have not been able to do so.</p>
+         <p>In reply to your Letter, Sir, I have to state, that I have attentively read it, and (I trust) duly considered the principal subject thereof in all its various bearings upon the Natives; and I regret, deeply regret, to have to say, that I cannot conscientiously aid or assist or in any ways use any influence which I may possess over the Native Chiefs to prevail upon them to alienate the <hi rend="underline italic">whole</hi> of their Lands to the Crown, or to accept of “Reserves” for themselves (when the Land has become so alienated) in scattered or detached parcels or blocks <hi rend="bold">[2] </hi>among the whites. Both of which plans being, in my humble opinion, equally fraught with no less than the utter and speedy extinction of the whole of the Native race.—</p>
+         <p>I have, however, Sir, in compliance with your request, made known to the Native Chiefs of this neighbourhood, the wish of his Excellency to purchase the District, and the “benefits” arising from the location of the “Canterbury Settlement,” &amp;c., &amp;c., as contained in your Letters.—</p>
+         <p>As I cannot conscientiously advise the Natives to part with the whole of their Lands, nor recommend them (in the event of their doing so) to accept of Scattered or detached reserves—and as I equally wish to live in peace with all, and by no means to bring myself into collision with, or to obstruct the carrying out of the plans of H.M Government—my aim will henceforward be to preserve a strict neutrality in this and other similar matters; and peacefully endeavour to follow out my Calling.</p>
+         <p>Having lately been very ill, and being still but very weak, with an afflicted household, and numerous cases of the usual Summer March Fever of this locality about me—I cannot now remark on many things which I much wish to bring before His Excellency’s <hi rend="bold">[3] </hi>notice concerning the matter in question. But, with His Excellency’s permission, I would beg briefly to call his attention to two important points, both of which I humbly conceive to be to the future general interest of the Colony: the <hi rend="italic">one, the speedy carrying into effect</hi> that portion of the Queen’s Instructions (chap. xiv.) respecting the Aborigines of New Zealand, <hi rend="italic">and the formally setting apart of those Aboriginal Districts therein mentioned</hi>, as the only human means of preserving the Aboriginal Race:—the <hi rend="italic">other</hi>, that in the event of any Tract or Tracts of Land being purchased by H.M. Government in this District, great care shall be made <hi rend="italic">to obtain it only from the rightful and bona fide proprietors</hi>; otherwise you may depend upon similar scenes being acted (only on a larger scale) to those of which the neighbourhood of Port Nicholson so lately became the theatre.</p>
+         <p>Believe me, Sir, (though I may be unfortunate in my views) to be actuated by a conscientious regard for the welfare temporal and eternal of this poor people; and allow me to subscribe myself,</p>
+         <p>Your most obedient servant</p>
+         <p>William Colenso</p>
+         <p>Ch. Missionary.</p>
+      </body>
+  </text>
+</TEI>

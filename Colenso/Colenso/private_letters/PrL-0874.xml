@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0874">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1893 July 17: to the Chairman of the Council of the Hawke’s Bay Philosophical Institute</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MTGHB 66223. Dr Moore was the HBPI Council chairman.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               
+               <correspAction type="received">
+                  <name type="office" key="http://wtap.vuw.ac.nz/eats/entity/76302/">the Chairman of the Council of the Hawke’s Bay Philosophical Institute</name>
+               </correspAction>
+            </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1893-07-17">1893 July 17</date>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1893 July 17: to the Chairman of the Council of the Hawke’s Bay Philosophical Institute<note xml:id="ftn3-652" place="foot" n="652"> MTGHB 66223. Dr Moore was the HBPI Council chairman.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">NAPIER, July 17th, 1893</p>
+         <p>Sir,</p>
+         <p>(1) I have to thank you for permitting me to peruse (at Home) the copy of the Petition to the House of Representatives from the Philosophical Institute of Canterbury New Zealand re the publishing of a New Zealand Flora together with its accompanying papers.</p>
+         <p>(2) I must first express my great surprise on seeing these papers, for—when the said Petition was in part read, and for a short time only, before our monthly Meeting on the 10th instant—those papers were not made known to the Meeting nor even alluded to.</p>
+         <p>(3) It appears to me, that there are 3 or 4 matters mixed up in this petition, which, in my opinion should have been treated separately,—viz.—</p>
+         <p>     (1) That Hooker’s “Handbook of the New Zealand Flora being out of print and still in demand, the necessity of publishing a 2nd edition of the sane is evident.</p>
+         <p>     (2) That such should have incorporated with it all later discoveries of “the flowering plants and ferns.”</p>
+         <p>     (3) That a Handbook of the same should be published for School Teachers, Students, and settlers, its costs being small, as already ascertained from Estimates.</p>
+         <p>     (4) That Mr. T. Kirk should have the publication of the Students’ Handbook, Flora of New Zealand, or of both.</p>
+         <p>With reference to the foregoing I would respectfully observe,—</p>
+         <p>(1) That I cordially agree in the necessity and benefit of republishing Hooker’s “Handbook of the New Zealand Flora,” in a 2nd edition, but without alteration or innovations of any kind, save the insertion of the illustrious author’s own late “corrections and additions” (p.p 722–756) in their proper places, as therein shown by him; and, that this 2nd edition being a reprint might probably be better and cheaper published in London.</p>
+         <p>(2) That a Handbook, No.2, comprising all plants since discovered and described might also be usefully compiled, but not to be mixed with the foregoing (unless such could be undertaken by Sir J.D. Hooker himself—or under his supervision,—which, however, I fear cannot be!—and such a work should not be confined to “the flowering plants and ferns” (as the Petition has it), but embrace all known indigenous plants—as in the original Handbook. A very large number of the smaller Crypts has since the publication of Hooker’s Handbook been discovered and added thereto; I believe more in number than the increased number of “the flowering plants and ferns” given in the Petition. Indeed, in the present vol. of the “Trans. N.Z. Institute” (XXV) just to hand, there are about 100 new species of Mosses described, 80 of them being made known and named by two German botanists, to whom the specimens (with others) were lately sent. I may further observe (from the large number of letters I have received from different parts of the world—from U.S.A., Russia, Germany, France, Spain and Italy, besides England) that the study of the smaller crypts has wonderfully grown during the last 20 years; and there can be no question as to the greater scientific desire after these indigenous plants, than after those of the flowering class; and consequently the publication of “the flowering plants and ferns” only, would be but a lesser matter comparatively; New Zealand being in a great degree the peculiar and famed Home of these interesting Crptogamic plants and of these 5 great Orders of Crypts, (Musci, Hepaticae, Lichenes, Fungi, and Algae) Mr. Kirk probably, knows very little—not having studied them or taken them up. Indeed each single order of them could only now be undertaken by an <hi rend="italic">expert</hi>. Sir J.D. Hooker himself, states how greatly he was indebted to those celebrated Cryptogamic Botanists who so largely assisted him in all those orders, and whose names are also severally affixed thereto in his New Zealand Flora.</p>
+         <p>(3) That the editing of Handbook No.2 should be placed in the Hands of a firstclass English Botanist at Home,—one conversant with General and Geographical Botany etc. etc. As the fame of our first Handbook (or No.1) should be duly maintained. Mr. Kirk might well assist him with specimens and local memoranda (even if he must be paid for doing so), as Sir J.D. Hooker states he was very largely aided and assisted from New Zealand, and free of cost.</p>
+         <p>(4) That a smaller and concise Handbook of the whole New Zealand Flora, for School teachers, Students and settlers, would prove of service, no doubt, and become popular,—if compiled in a plain and useful style.</p>
+         <p>(5) That if this smaller work—Handbook, for School teachers, Students and settlers should be published—then such could be better done here in New Zealand, and the compiling and editing be given to Mr. Kirk.</p>
+         <p>In conclusion, I would further state, that all I have written re any Botanical work being published here in New Zealand has reference only to such works <hi rend="italic">not being illustrated with dissections</hi>; for if such illustrations are to be made and drawn then, to be of any real use, such must be done at Home.</p>
+         <p>                                     Yours very truly,</p>
+         <p>                                                     (Sgd.) W. Colenso.</p>
+         <p>
+            <hi rend="italic">P.S. </hi>Somehow, great stress seems to be laid on the desirability of this projected work being undertaken by a local botanist, but I cannot see it in that light. Indeed, I might well point to the case of Tasmania, whose Flora was also written and published by Sir J.D. Hooker at the same time with this New Zealand, and in 2 smaller 4to. vols.; but in 1878, it was republished in England together with that of Australia, by Bentham in his “Flora Autraliensis”—although there were several skilled and first class local botanists resident there.</p>
+         <p>                                     (Sgd.) W.C.</p>
+      </body>
+   </text>
+</TEI>

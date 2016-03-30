@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0168">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1893 To the editor . Napier Daily Telegraph 15 September.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1893-09-15">1893 September 15</date>
+               <publisher>
+                  <name type="organisation">Napier Daily Telegraph</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1893 </hi>
+                  <hi rend="bold">To the editor</hi>
+                  <hi rend="bold">. 	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Napier Daily Telegraph</hi>
+                  <hi rend="bold"> 15 September.</hi>
+               </p>
+      </front>
+      <body>
+         <p>A correspondent sends us the following:— “You and your contemporaries have often to complain of the errors and blunders received per ‘wires,’ and published by you; and not unfrequently the fault has been placed on the unlucky comp, proof-reader or printer’s devil. Here in your issue of this evening is a notable instance. In your telegram from New Plymouth, it is stated:— ‘The position of the moon and <hi rend="italic">Saturn</hi> in conjunction last  evening at 6 o’clock attracted general attention. The young moon was on his back, and<hi rend="italic">Saturn</hi> appeared touching at the northern horn.’ Now it was not the new moon and <hi rend="italic">Saturn</hi> but the new moon and Venus (the bright ‘evening star’), and it was not a <hi rend="italic">conjunction</hi>, but an <hi rend="italic">occultation</hi>. Alas for the astronomical love of New Plymouth! if such is to be taken as a fair sample; seeing, too, that such a phenomenon must have been witneseed by the many, and made matter of common talk there. A friend and myself, having been aware of this occultation, and deeming it of importance as well as interesting from the size of the planet occulted, we had made the necessary calculations and preparations for observing it, but the state of the atmosphere utterly precluded our doing so! This was felt by us the more keenly from the fact of the sky on the previous evening being s delightfully clear, and the narrow illuminated rim-like crescent of the new moon showing so plainly.”</p>
+         <p>[Editor, <hi rend="italic">Napier Daily Telegraph</hi>, 16 September 1893: “The letter inserted by us yesterday as from a “correspondent,” on the occultation of the new moon and Saturn, was from the pen of the Rev. W. Colenso, F.R.S.]</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0140">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1888 The late Renata Kawepo. Hawke’s Bay Herald 18 April.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1888-04-18">1888 April 18</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1888 The late Renata Kawepo.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 18 April.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>—In your issue of this morning you inform your readers of the lamented decease on Saturday last of the aged and well-known Maori chief, Renata Kawepo. Of course we had first heard the sad news up here in the Bush District on Saturday night.</p>
+         <p>In your mention, however, of his return from the North (Bay of Islands) to Hawke’s Bay, you have (unknowingly) published a few errors, which I would briefly correct. In my doing so at this particular time (with my old friend lying unburied), I would both apologise, and also observe, that I would not do it were it not for my belief, that what you (the oldest journal in Napier and Hawke’s Bay) should say about Renata, will be eagerly copied and republished throughout the colony.</p>
+         <p>You state, “that Renata was converted to Christianity, and became a missionary with the object of bringing his people to the faith he had adopted. His first visit to this district as a missionary was to Patea, and thence round various settlements which were subject to him as a Chief.”</p>
+         <p>Now this is erronious. I brought Renata with me from the Bay of Islands to this place, on my coming here to reside in 1844,—being my second visit to Hawke’s Bay, along with a few other Maori domestics. And it was some considerable time after our arrival that I made him an assistant teacher in my schools; whence he gradually rose, and at last became an assistant in holding Divine Services in my absence from the Mission Station; in which situation for some time he was very useful and did good service.</p>
+         <p>At that time there were <hi rend="italic">no</hi> “various settlements subject to him as a chief;” such a thing was never dreamt of. Indeed, none of his own particular tribe resided here in Hawke’s Bay (with the solitary instance of his sister, who was then one of the many wives of the chief Tiakitai)—his tribe (what remained of them) were all living far down the River Manawatu—between which place and Hawke’s Bay there was at that period no communication.</p>
+         <p>After some time Renata visited Manawatu, and it was chiefly owing to his eventually marrying a young woman of that tribe and place, and the Hawke’s Bay tribes having mainly become Christians, that several of them migrated hither to Hawke’s Bay, and settled down around him at his little and rising village—Te Pokonao—near where Farndon is now.</p>
+         <p>It was not for several years (until, at least, I had been to Patea over the Ruahine range two or three times) that I sent Renata thither.</p>
+         <p>I could fill a small volume with much of interest concerning Renata whose eventful biography is a very strange one; particularly that of our first decade of years here together; which, also, is only known to myself.</p>
+         <p>In conclusion, I would beg of you, (and also of other Editors of newspapers here in the Hawke’s Bay District,) not to be too ready to insert hearsay, or suppositition or interested details concerning Renata and his life during those early years—or say, from 1844 to 1860.—I am, &amp;c,</p>
+         <p>
+                  <hi rend="smallcaps">					William Colenso</hi>.</p>
+         <p> Dannevirke, April 16th, 1888.</p>
+      </body>
+   </text>
+</TEI>

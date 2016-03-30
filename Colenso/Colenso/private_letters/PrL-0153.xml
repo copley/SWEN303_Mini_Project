@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0153">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: Date?: to McLean</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Object #1010181 from MS-Papers-0032-0222.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0"/>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>Date?: to McLean<note xml:id="ftn2-52" place="foot" n="52">ATL Object #1010181 from MS-Papers-0032-0222.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Monday morning</p>
+         <p>Dear Sir</p>
+         <p>I regret not being able to attend the S. Comee. this mg. The mail did <hi rend="italic">not </hi>arrive on Saty. (daylight)—and <hi rend="italic">this </hi>day is the first of the year with all the new Maori Contractors; I shall therefore be engaged at P.O. Tomorrow I hope to be with you.</p>
+         <p>                     Yrs truly</p>
+         <p>                             W. Colenso</p>
+         <p>P.S. I suppose you know <hi rend="italic">3</hi> make a quorum?</p>
+      </body>
+  </text>
+</TEI>

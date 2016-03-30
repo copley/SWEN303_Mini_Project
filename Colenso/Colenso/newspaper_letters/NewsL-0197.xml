@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0197">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1897 Daffodils Hawke’s Bay Herald 15 October</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1897-10-15">1897 Octoer 15</date>
+          <publisher>
+            <name type="organisation">Hawke’s Bay Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1897-10-11">1897 October 11</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1897 Daffodils  <lb/>
+        </hi>
+        <hi rend="bold italic">Hawke’s Bay Herald </hi>
+        <hi rend="bold">15 October</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,— I was much interested this morning in reading your article on “The Modest Daffodil.” One sentence, however, I must take great exception to. You say (from Mr Clayton’s lecture)— “The history of the plant from the earliest records to the present time was a quaint and curious one; <hi rend="italic">one or two varieties in</hi> 1879,” &amp;c. This startled me; as I well recolleot seeing several, during successive spring seasons, in gardens in the West of England before I left the Old Country, more than 60 years ago. This is, also, well supported by botanical works that I happen to have; for instance, in the early volumes of “Curtis’s Botanical Magazine" (<hi rend="smallcaps">a.d</hi>. 1795–1809) there are well-executed colored plates of 24 varieties: indeed of these 24, no less than nine are given in the volume for 1795, more than a 100 years ago! I have no later volumes of the said work than for 1809, although it has been continued down to the present time: yet, as in six of those 15 volumes new varieties are brought forward, I have no doubt of many more having been described and figured before 1879. I bring this to the notice of your readers towards rescuing the memory of our old British florists, who worked so largely under difficulties unknown to the present generation, and without the encouragement given in modern times by Mammon and Fashion.—I am, &amp;c., </p>
+      <p rend="end">W. <hi rend="smallcaps">Colenso</hi>. </p>
+      <p>Napier, October 11th, 1897.</p>
+    </body>
+  </text>
+</TEI>

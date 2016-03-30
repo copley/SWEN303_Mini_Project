@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0059">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1846 January 20: to Owen</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL Micro-Ms-Coll-20-2274.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+          
+               <name type="place" key="http://wtap.vuw.ac.nz/eats/entity/70244/">Waitangi</name>
+            </correspAction>
+            <correspAction type="received">
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/33161/">Owen</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1846-01-20">1846 January 20</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1846 January 20: to Owen<note xml:id="ftn1-64" place="foot" n="64">ATL Micro-Ms-Coll-20-2274.</note>
+         </p>
+      </front>
+      <body>
+         <p rend="end">Waitangi, Hawke’s Bay, E. Coast N. Zealand,<lb/>January 20, 1846.</p>
+         <p>Prof. Owen<lb/>&amp;c  &amp;c  &amp;c</p>
+         <p>Dear Sir</p>
+         <p>Your kind Letter of enquiry of Octr. 23, 1843 only reached me 4 days ago! It came in a case of Books per “Nelson,” which vessel arrived at Wellington on the 27<hi rend="sup">th</hi>. Decr. last, so that it may have slumbered somewhere on your side of the water.—I lose no time however in acknowledging the receipt of it; and in thanking you for the copy of the “Proceedings of the Zoological Society,” for Jany./43, which you have honoured me with.</p>
+         <p>Long ere this you will, doubtless, have seen a few remarks on the Moa (<hi rend="italic">Dinornis</hi>) in a monograph of mine which I drew up for the “Tasm. Philos. Journal,” and which was subsequently published in No. vii of that work. Since which I have sent you (on 2 or more occasions, through Sir W.J. Hooker, such Bones as I had by me—even <hi rend="italic">all </hi>I had as I hoped to get more in this locality. I regret to have to state, that I have not at present any further information to offer you relative to the <hi rend="italic">Dinornis</hi>, nor have I succeeded in obtaining any more Bones, though I have little doubt but that I shall in time be able to obtain a good supply, which, if I do, I shall not fail to remember you at first opportunity. I have (as I suppose you have already noticed) treated, as most chimerical, the idea of the <hi rend="italic">Dinornis</hi> being now alive, and further than that too I have gone; and I have not met with any thing subsequent to cause me to alter from my recorded opinion.—</p>
+         <p>It is rather unfortunate that your Letter should have come so late to hand, as, when I resided at the N. parts of the Island, it was no very difficult matter to obtain an <hi rend="italic">Apterix</hi>. I have had several:—their bodies, I regret to add, I uniformly cast away. On one occasion a Native brought me 7 at one time! I just mention this, that you may be solaced in this belief, that the <hi rend="italic">Apterix </hi>is not so near becoming extinct as you (from casual visitors, and half-enquirers <hi rend="italic">in </hi>N. Zealand,) have been led to believe. The immense and increasing number, however, of wild Cats, Rats, &amp; Dogs, with which the wooded region of N.Z. abounds, are daily carrying on the war of extermination with this Bird and its Congenors. This <hi rend="italic">Apterix</hi> was to be universally found throughout N. Zealand, and is still (though reduced in number) to be obtained pretty generally throughout the Island. Not so, however, the Huia (<hi rend="italic">Neomorpha</hi>), which,—being at best a strictly local Bird, confined to a few spots only, easily snared, and a tempting article of barter among the Natives—promises again to follow the <hi rend="italic">Dodo</hi>, as one of the things which were.—</p>
+         <p>The memoir on the <hi rend="italic">Dinornis</hi> (which you speak of as being engaged in preparing, and of which you kindly promised to send me a copy,) I have not received. Perhaps any future communication you may honor me with, you could make through the Ch. Missionary House; or, by any vessel direct to Wellington, to the care of the Rev. R. Cole, M.A., of that place.</p>
+         <p>This is merely a line written in haste in answer to your Letter: I hope, ere long, to send you some Bones.—By the bye I have a portion of the Jaws of an Amphibious animal (? <hi rend="italic">Phoca leptorix</hi>, Blair,) for <hi rend="italic">you</hi>, which was killed here a short time ago by the Natives—I shall have to send a case of plants to our esteemed friend, Sir W.J. Hooker in a little while, when I will send these Bones.—</p>
+         <p>                       And am,</p>
+         <p>                                       Sir,</p>
+         <p>                               Yours very faithfully</p>
+         <p>                                               William Colenso.</p>
+      </body>
+  </text>
+</TEI>

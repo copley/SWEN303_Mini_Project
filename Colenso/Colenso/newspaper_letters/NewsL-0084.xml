@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0084">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1879 Mr Colenso on the Drainage Poll . Hawke’s Bay Herald 4 October.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1879-10-04">1879 October 4</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+                  <hi rend="bold">1879 </hi>
+                  <hi rend="bold">Mr </hi>
+                  <hi rend="bold">Colenso</hi>
+                  <hi rend="bold"> on the Drainage Poll</hi>
+                  <hi rend="bold">.	<lb/>
+                  </hi>
+                  <hi rend="bold italic">Hawke’s Bay Herald</hi>
+                  <hi rend="bold"> 4 October.</hi>
+               </p>
+      </front>
+      <body>
+         <p>
+                  <hi rend="smallcaps">Sir</hi>,—From our Napier papers I gather, that the opinion of the ratepayers of the borough is to be taken by vote, in order to decide the knotty yet important question of high, low, or middle level. I regret this. I do so, because I cannot bring myself to see that this is the fittest way of arriving at what is really the best for the benefit of the borough. I am no believer in the wisdom of deciding any question by general voting, unless the same is pretty well understood, in all its bearings, by the voters; which, I fear, would not be—indeed, cannot be reasonably expected—in this matter. </p>
+         <p>It seems to me that it would have been far better if a number of our townsmen (say, a dozen), were chosen at a public meeting of ratepayers—to examine closely into the business; to consider all plans, &amp;c.; and with power to call for evidence affecting the same, and having done so, to decide among themselves as to which plan should be adopted, and to report thereon to the Municipal Council. </p>
+         <p>Of course, the selected dozen should include our professional men (surveyors and engineers), and those others among us whose judgment in such matters can well be depended on, and who are themselves interested in the future welfare of the borough. For my own part, I could willingly agree in the decision of such a skilled jury, or committee, so acting; but I cannot say as much for the mere number of votes of the ratepayers; many of whom know nothing about the subject, and not a few of them care less. Indeed, I would just as soon submit the matter to the decision of a cast of dice, as to this determination by general voting.—I am, &amp;c, </p>
+         <p>
+                  <hi rend="smallcaps">	William Colenso</hi>. </p>
+         <p> Napier, October 3, 1879.</p>
+      </body>
+   </text>
+</TEI>

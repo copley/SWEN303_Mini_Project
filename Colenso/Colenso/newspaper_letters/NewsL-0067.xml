@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0067">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter: 1869 To the editor. Hawke’s Bay Herald 26 March.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+               </author>
+               <date when="1869-03-26">1869 March 26</date>
+               <publisher>
+                  <name type="organisation">Hawke’s Bay Herald</name>
+               </publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <creation>
+          <date when="1869-03-23">1869 March 23</date>
+          <name type="place">Napier</name>
+        </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            <hi rend="bold">1869 To the editor.	<lb/>
+            </hi>
+            <hi rend="bold italic">Hawke’s Bay Herald</hi>
+            <hi rend="bold"> 26 March.</hi>
+         </p>
+      </front>
+      <body>
+         <p>“More in sorrow than in anger.”—<hi rend="smallcaps">Shaks</hi>. </p>
+         <p>
+            <hi rend="smallcaps">Sir</hi>,—In your article of this morning you have the following:— “The crowning act of folly on the part of Mr. Stafford and his colleagues, has been consummated in the withdrawal from Mr. M‘Lean of the General Government agency. Ministers, by this act, have deliberately insulted a public man of long experience and high standing,—they have raised on the part of 95 (?) per cent, of the European community the strongest feeling of indignation,—and they have lost the only hold they could be said to have upon the friendly tribes, more especially those of the East Coast. We are glad to find that Mr. Stafford’s insolent treatment of the chief magistrate of this Province is not likely to be overlooked, either in Hawke’s Bay or other parts of New Zealand.” </p>
+         <p>I deeply regret that you should have thus written; and, though I have neither time to waste nor inclination to enter on the unseemly political squabbles of the day, I feel that it would be wholly unbecoming in me to sit silent and allow such statements to go forth to the colony, without at least offering some passing notice. </p>
+         <p>Why don’t you put the matter truly before your readers? You know very well, that Mr. Stafford has not “insulted” nor offered any “insolent (<hi rend="italic">sic</hi>) treatment to the chief magistrate of this province.” The fact of the late Government agent, Mr. M‘Lean, being at the same time our Superintendent, was a purely accidental one; unless, indeed, you believe that Mr. M‘Lean held that office because he was the Superintendent. Supposing that either of our former Superintendents held office now, and Mr. M‘Lean residing here,—do you think that either of them would have been appointed General Government agent in preference to Mr. M‘Lean, merely because one of them happened to be Superintendent? Or, supposing (if you can) that the Government agent in the Auckland province, Dr. Pollen, could go so far as to flatly disobey the Government of the colony, and they were consequently to dismiss him, would any of the Auckland papers (however politically opposed) speak of it in such a silly way, as “insolent treatment” of a medical gentleman of long standing, or, of the medical profession? </p>
+         <p>Mr. M‘Lean was the General Government agent here, and most persons (including myself) approved of the appointment, but all in reality for very various reasons. (Some of which you well know.) The moment however that Mr. M‘Lean, as the agent, the subordinate officer of the Colonial Government, refused to carry out the instructions of his superiors, and not only so but opposed them, and (don’t forget) gratuitously interfered with their arrangements, and that too at a highly critical period, what course remained? As I view it, there really was no other alternative left, if the Government of the colony wished to keep up even the semblance of self respect for themselves as British gentlemen and as a Government. And, mark well, the present Ministry (like Mr. M‘Lean) are all old colonists, persons too who have not only held office for many years but who are absolutely intimately acquainted with all our East Coast localities and people. </p>
+         <p>But even were it otherwise; were Mr. M‘Lean everything that we could wish, or you suppose him to be, and the Colonial Government a set of greenhorns and ignoramuses, I cannot for the life of me see how it were possible for them to have acted differently. Whether in civil, naval, or military service, such conduct on the part of a Government (even when right in itself) must ever be so followed up. History tells us of officers having been shot for much less. And have you (or, even, Mr. M‘Lean,) duly reflected as to how such conduct, if passed over, would operate on our numerous colonial officers and Maori chiefs in the field?—none of whom (it appears) are overburdened with that first requisite of a soldier—prompt obedience. Put the case for a moment, Mr. Editor, to yourself. Supposing you chose to enjoy a little more of your <hi rend="italic">dulce domum</hi> in the country, and you employed an agent—a sub-editor—in town to conduct your paper, how would you act if such an one chose to interfere with your arrangements and to disobey your orders,—your political or semi-political instructions? Would his classical attainments—his being deeply read in Vattel and D’Tocqueville—or his great acquaintance with Maori matters save him? Heaven and Earth! how the <hi rend="italic">Jupiter tonans</hi> of the Herald office would come down! Nasmyth’s steam sledge-hammer, or Mr. Punch’s genteel kick, would be as nothing to it. </p>
+         <p>No doubt several who respect Mr. M‘Lean are sorry that he is no longer the General Government agent,—but, as before, for various reasons. At the same time many of his friends are more sorry that, in the matter of flatly disobeying, he acted as he did. Some say, “he was led away to do so, in the heat of the moment, by his <hi rend="italic">Fidus Achates</hi> or Mephistopheles” (whoever that may be); but while of that I know nothing, I do know this, that many of his friends have not so far lost all their old British belief of what is due to the higher powers as not to agree with me as above—namely, that things having gone so far the Colonial Government really had no other alternative. </p>
+         <p>You further call our attention to the astounding fact, that “the <hi rend="italic">Gazette</hi> notice annulling the appointment of Mr. M‘Lean as General Government agent was inserted without that gentleman having received any intimation whatever of what was intended.” But here, too, I cannot see anything uncommon or irregular. I presume Mr. M‘Lean heard from the Government in the usual way by the first mail, which no doubt also brought the <hi rend="italic">Gazette</hi> to which you refer. I do not see how it could possibly be otherwise with a <hi rend="italic">Gazette</hi> published at Wellington and Mr. M‘Lean living here at a distance; unless you are prepared to show, that the said <hi rend="italic">Gazette</hi> was got out purposely to give that one notification; or, that Mr. M‘Lean was not officially informed of it by the <hi rend="italic">first</hi> mail. And when (in continuation) you go on to say, “It was only, indeed, from the telegram that appeared in the <hi rend="smallcaps">Herald</hi> that he became acquainted with what had been done,”—you surely forget, that you had already told us in the preceding <hi rend="smallcaps">Herald</hi> (of 20th), that “such was not altogether unexpected by you.” And if not by you, an outsider, do you think it was less so by Mr. M‘Lean himself? </p>
+         <p>You also inform us of the indignation meetings which are forthwith to be held—at which, cataracts and avalanches (Oh! terrible), are to be produced. “Well: you and I know a wrinkle about such meetings. Will it be a roaring for Bacchus, or for his train? The “cakes and ale,” and pickings, and all that. </p>
+         <p>But—and pray don’t be offended with me—just consider for a moment how Mr. M‘Lean has ever himself acted towards those who, as Provincial Government officers, were his inferiors and subordinates. (Don’t forget, please, that I emphatically say they were such for the time, through their being Provincial Government Officers.) Has he not mercilessly got rid of several of the best officers of the Provincial Government of Hawke’s Bay—merely because they were politically opposed to him, or would not be his toadies? Don’t wince, man. I’ll give you their names. First, myself, William Colenso, whilom Provincial Treasurer and Inspector of Schools; did not Mr. M‘Lean, in 1863, drive me from my offices, because, as member of the Provincial Council for the town of Napier, I opposed some of his schemes, though only fairly and openly, and in my place in the Council? Was any fault ever found, ever hinted, with the manner of my performing my official duties? And was I not summarily dismissed, although I had but lately come in to Napier from the country at great expense to reside in consequence of my office? Second, the late Crown Lands Commissioner (but he, good man, has so much of blessed charity, or of spaniel-like love, in his disposition, that his case can only be passingly referred to, albeit true). Third, our oldest and best chief clerk, Mr. H.E. Webb. Fourth, and more recently, our talented draughtsman, Mr. August Koch,—all, alike with myself, old officers of the Provincial Government from its very beginning, and all removed by Mr. M‘Lean because we would not toady. And to this sad list, perhaps (as I now learn from your paper of this day) may also be added the name of Capt. Buchanan! </p>
+         <p>Now, such being the case, is it fair for Mr. M‘Lean to wince, or to foster indignation; or for his friends (<hi rend="italic">sic</hi>) to simulate such a hubbub? Fair, why, man, he is just served as he himself has served others. </p>
+         <p>In conclusion, it may, perhaps, be advantageous by-and-bye, for the province and for the colony, to have Mr. M‘Lean again reinstated as General Government Agent. I should have no objections to that, provided that a responsible Purser be also appointed, and that all supplies of every kind for the future be obtained through public tender and contract, in the common way. <hi rend="italic">Verbum sat sap.—</hi>I am, &amp;c., </p>
+         <p>
+            <hi rend="smallcaps">	William Colenso</hi>. </p>
+         <p> Napier March 23, 1869.<note xml:id="ftn28" place="foot" n="28"> Several articulately offensive letters were sent to the Hawke’s Bay Herald 6 April &amp; 30 Mar 1869 in response—<hi rend="italic">Ed.</hi>
+            </note>
+         </p>
+      </body>
+   </text>
+</TEI>

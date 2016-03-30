@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1102">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>10 March 1883: Hooker to Haast.</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70468/">Joseph Dalton Hooker</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>ATL MS-Papers-0037, folder 104-0.</p>
+         <p>Transcription published in "The Correspondence of Julius Haast and Joseph Dalton Hooker, 1861-1886", by Sascha Nolden, Simon Nathan &amp; Esme Mildenhall.  Geoscience Society of New Zealand miscellaneous publication 133H, 2013.  ISBN 978-1-877480-29-4. Openly available at https://securepages.co.nz/~gsnz/siteadmin/uploaded/gs_downloads/MP133H.pdf</p>
+            <p>Encoded into TEI by Melissa Bryant, 12.11.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1883-03-10">1883 March 10</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9511/&gt;Sir Julius von Haast">Sir Julius von Haast</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>Hooker to Haast, 10-3-1883 ATL MS-Papers-0037, folder 104-06.</p>
+      </front>
+      <body>
+      <p> 
+      Royal Gardens Kew</p>
+            <p>March 10/83</p>
+            <p>My dear Von Haast</p>
+            <p>I am desirous of proposing Colenso for the Royal Society, &amp; it is very essential for 
+this purpose that his Certificate should have the signatures 
+of the Fellows in the Colony 
+–
+You could therefore oblige me by signing in the column below my name. Darwin would 
+gladly 
+[2] 
+have signed had he been alive, for he knew Colenso when in the 
+Beagle
+! 
+–
+is this 
+not like going back 
+generations
+in the history of Science, &amp; to the very dawn of New Zealand 
+science!
+We are as busy or rather busier than ever here, as the Kew Reports will show you, &amp; 
+the work of the Establishment has become very laborious, leaving little time for 
+[3] 
+personal 
+correspondence.</p>
+            <p>I hear of you sometimes indirectly, &amp; of your splendid Museum, &amp; I am a devoted 
+reader of the Transactions of your N.Z. Institute.</p>
+            <p>The “Genera Plantarum” is finished at last, thanks to Bentham’s indefatigable 
+industry &amp; his liberality for he has
+provided 
+nearly all
+the funds. He is now in his 83rd year &amp; 
+very feeble, but he comes to Kew 3 days a week from London where he lives.
+[4]</p>
+            <p>No one has succeeded with your noble Alpine 
+Ranunculi
+; &amp; 
+R. lyallii
+&amp; one or 2 
+others have been raised repeatedly, 
+but not even the most skilful gardeners can keep them 
+alive. It is the same or nearly so with 
+Celmisias &amp; with 
+Cordyline indivisa
+. The other 
+Cordylines grow and flower
+luxuriantly with no attention. 
+Myosotidium nobile
+is another 
+instance of a plant often flowered but which will not be kept afterwards.</p>
+            <p>Ever my dear Von Haast</p>
+            <p>very sincerely yours</p>
+            <p>Jos. D. Hooker.</p>
+</body>
+   </text>
+</TEI>

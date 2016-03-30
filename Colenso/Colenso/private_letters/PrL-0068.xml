@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-0068">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1847 July 9: to Te Hapuku</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ATL qMS-0487; appendix to Journals. “This evening I received a terrible threatening letter from the principal Chief Te Hapuku —which I answered in a careless pithy manner. How every thing lowers about me!”</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+        
+            <correspAction type="received">
+               <name type="person">Te Hapuku</name>
+            </correspAction>
+         </correspDesc>
+         <creation xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <date when="1847-07-09">1847 July 9</date>
+         </creation>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p>1847 July 9: to Te Hapuku<note xml:id="ftn1-75" place="foot" n="75">ATL qMS-0487; appendix to Journals. “This evening I received a terrible threatening letter from the principal Chief Te Hapuku —which I answered in a careless pithy manner. How every thing lowers about me!”</note>
+         </p>
+      </front>
+      <body>
+         <p>O sir, O Te Hapuku, greeting to thee.</p>
+         <p>Thy letter to me has indeed arrived, and thy words are good, that is, for thee to use. Notwithstanding, hear me; I utterly dislike such words from my very soul, because they are the very essence of falsehood. Thy letter narrowly escaped being torn to fragments, and thrown into the fire. Thou sayest, tomorrow thou art coming hither. Good; be it so; come; and may that be the last of our seeing each other until thou art altered.</p>
+         <p>From Colenso.</p>
+      </body>
+  </text>
+</TEI>

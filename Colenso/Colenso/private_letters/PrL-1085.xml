@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PrL-1085">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Private Letter: 1864 January 25 to the Attorney General</title>
+            <author>
+               <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+         <p>Archives New Zealand</p>   
+         <p>Transcription by Ian St George, provided to Colenso Project staff at Wai-te-Ata Press on 1.10.15 via email</p>
+            <p>encoded into TEI by Melissa Bryant, 21.10.15</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+               <correspAction type="sent">
+                  <date when="1864-01-25">1864 January 25</date>
+               </correspAction>
+               <correspAction type="received">
+                  <name type="office" key="http://wtap.vuw.ac.nz/eats/entity/76165/">the Attorney General</name>
+               </correspAction>
+            </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>1864 January 25 to the Attorney General (National Archives, Wellington, ref. ***)
+         </p>
+      </front>
+      <body>
+     
+<p>Napier,</p>
+<p>January 25th. 1864.</p>
+<p>Sir</p>
+<p>With reference to a letter from the Superintendent of Hawke’s Bay to you, seeking to invalidate my Seat in the Provincial Council of this Province as well as in the House of Representatives (and of which letter I only last night heard,) I have the honor to inform you, Sir, that, (supposing the Superintendent should write to the General Government concerning that matter, yet not knowing of whom,) I wrote officially on the 23rd. instant, to the Hon. the Colonial Secretary about it:—at the same time begging that Gentleman, should I ought to have written to you kindly to forward my letter. And, as it is possible that the Hon. the Colonial Secretary may be out of town (for business with the Maories,) at the arrival of the “Lord Ashley” at Auckland; and as I should wish you, Sir, to see my Official letter above referred to before you reply to the Superintendent’s letter, I have now written to inform you of it.</p>
+<p>I have the honor to be,</p>
+<p>Sir,</p>
+<p>Your mo. ob. servt.</p>
+<p>Wm. Colenso.</p>
+<p>The Hon.</p>
+<p>The Attorney General</p>
+<p>Auckland.
+</p>
+</body>
+   </text>
+</TEI>

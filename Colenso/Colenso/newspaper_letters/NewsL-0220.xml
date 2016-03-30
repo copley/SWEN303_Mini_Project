@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0220">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: Editorial: The Northern Advocate 18 February 1899.</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <date when="1899-02-18">1899 February 18</date>
+          <publisher>
+            <name type="organisation">The Northern Advocate</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold italic">Editorial:</hi>
+        <hi rend="bold italic">The Northern Advocate 18 February 1899.</hi>
+      </p>
+    </front>
+    <body>
+      <p rend="justify">The Rev. W. Colenso, F.R.S., F.L.S., one of New Zealand’s earliest settlers, died this week at Napier, aged 88. He introduced to New Zealand the first printing press, which was landed at the Bay of Islands on January 3, 1835. He was a devoted student of science and probably the best Maori scholar and antiquarian in New Zealand. He left several charitable bequests. </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="PrLMcL-0005">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1851 November 19: McLean to Colenso</title>
+				<author>
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/70546/">McLean</name>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Alexander Turnbull Library object number 1026827</p>
+				<p>Transcription reprinted by Ian St George in eColenso May 2015 Supplement, available at http://www.colensostudy.id.au/Newsletters/eCol%205%20May15%20supplement.pdf</p>
+				<p>Encoded into TEI by Jamie Norrish, 17.11.15</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc>
+				<correspAction type="sent">
+					<date when="1851-11-19">1851 November 19</date>
+				</correspAction>
+				<correspAction type="received">
+					<name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<p>1851 November 19 McLean to Colenso (#1026827) </p>
+		</front>
+		<body>
+			<p>Ahuriri 19 Novr. 1851 Dear Mr Colenso </p>
+			<p>I should have answered your kind note of Monday on receipt but I daresay your tamarikis will have told you that I was busy paying the natives when I received it. I am extremely obliged to Mrs. Colenso for sending such a nice jar of butter, also for the nuts. I was sorry to hear of your haere noa to Moiengiengi, in a few days I intend going to Mohaka, can I take anything for you? I was sorry that I did not give notice that a messenger was sent to Poverty Bay a few days ago in case you might have anything to send. I do not expect that I can call at the Awapuni till after returning from Mohaka— how strange that we have no kaipuke from No heke. </p>
+			<p>I will make enquiries as you suggest respecting “Mohi Tarapuhi.” I am annoyed that Mr. Villiers did not hand you the price of the tent as it has laid here for months. I now send ₤8. as I have no change. This place is getting quite quiet after the bustle and confusion of the last few days but on the whole I must say that I very much pleased with the conduct of your natives. </p>
+			<p>With kind respects to Mrs. Colenso </p>
+			<p>Ever faithfully yours </p>
+			<p>Donald Mclean  </p>
+		</body>
+	</text>
+</TEI>

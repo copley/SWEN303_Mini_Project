@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0190">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1896 Mr Colenso explains. Daily Telegraph 28 September.</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1896-09-28">1896 September 28</date>
+          <publisher>
+            <name type="organisation">Daily Telegraph</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1896-09-25">1896 September 25</date>
+        <name type="place">Napier</name>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1896 Mr Colenso explains.       <lb/>Daily Telegraph 28 September.</hi>
+      </p>
+    </front>
+    <body>
+      <p>
+      <hi rend="smallcaps">Sir</hi>,—Recently, while in the Bush district, I saw a notice in your paper (August 28<hi rend="sup ">th</hi>) of the death of Mrs Mary Ann Henderson, of Napier, aged 82; “said to have been the first white woman who came to Hawke’s Bay.” At first sight I knew this to be an error—and a great one; and I determined to write to you about it; but a very serious cold, and, also, wishing to make enquiries concerning her arrival, have hitherto prevented me.</p>
+      <p>And now I write, merely (1) to <hi rend="italic">deny </hi>her being the <hi rend="italic">first </hi>white woman who came to Hawke’s Bay; and (2) to state, that there were several here before her, some of whom still remain among us.</p>
+      <p>One intelligent old settler of 43 years residence in Hawke’s Bay, to whom I had also written for information respecting her arrival among us, in his reply, laughs at the outrageous statement made by you and says,— “there were dozens here before her!”</p>
+      <p>If this error were not cotrrected by <hi rend="italic">one who knows</hi>; no doubt, in days to come, your statement concerning her arrival here would be strenuously brought forward as a true one.—I am, &amp;c.,</p>
+      <p>
+        <hi rend="smallcaps">William Colenso</hi>
+      </p>
+      <p>Napier, September 25, 1896.</p>
+    </body>
+  </text>
+</TEI>

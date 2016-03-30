@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Colenso-NewsL-0092a">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter: 1881 Mr. Colenso on an incident of old New Zealand history. Wanganui Herald 8 January</title>
+        <author>
+          <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>
+            <name type="person" key="http://wtap.vuw.ac.nz/eats/entity/9614/">William Colenso</name>
+          </author>
+          <date when="1881-01-05">1881 January 8</date>
+          <publisher>
+            <name type="organisation">Wanganui Herald</name>
+          </publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <p>
+        <hi rend="bold">1881 Mr. Colenso on an incident of old New Zealand history.</hi>
+        <hi rend="bold italic">Wanganui Herald</hi>
+        <hi rend="bold">8 January.</hi>
+      </p>
+    </front>
+    <body>
+      <p>I have this evening been reading in the Weekly News of December 4 (just to hand), a few of Jacky Marmon’s sayings; also Mr Dickson’s letter commenting on some of them, and, while I almost marvel at you caring to publish Marmon’s Baron-Munchausen-like tales (and in extenso, too)! allow me to point out a few errors—both in Marmon’s relation respecting the loss of the barque Harriet, and in Mr Dickson’s letter.</p>
+      <p>I may first state that I happen to know a good deal about this affair, viz,—the loss of the Harriet at Te Waimate (south of Cape Egmont), and the bitter revenge which so quickly followed. For I had at Sydney made the acquaintance of Dr Marshall, the surgeon on board H.M.S. Alligator, on her return thither from that expedition, and had received from him the whole sad account while fresh; besides, I have it now as fully written (journal fashion) by Dr Marshall, who was a truly Christian gentleman. I have also Guard’s statement—official document—made before the Executive Council at Sydney; and, lastly, on my subsequently coming to New Zealand, Guard himself was a fellow-passenger, and a most unpleasant one! during a long voyage in our wretched little and badly-found craft.</p>
+      <p>J. Marmon says:— “The Harriet was wrecked in 1829. That Guard was not the captain. That two of his children, with their mother, were rescued from the Maoris, to whom a few trifling presents were given.”</p>
+      <p>Mr Dickson says: “There was but one child saved with the mother;” he also finds fault with Marmon’s statement that Guard’s wife and child were safe and sound, Mr Dickson saying: “This is hardly to be reconciled with the well known fact (sic) that though the child was uninjured, the mother had been left for dead when the nitives precipitately evacuated the pa in terror at the shells thrown into it by the Alligator.”</p>
+      <p>Now then for the plain truth. The barque Harriet was wrecked near Cape Egmont early in 1834 (not 1829). Guard was her master. Mrs Guard and her two children, together with eight of the crew of the Harriet, were rescued, having been delivered up by the Maoris to the Alligator on separate days, more than a week apart, Mrs Guard and her infant before the heavy firing by the marines and sailors took place. The delay seems to have arisen from, at least, two sources; (1) Guard’s boy being in the possession of the chief of another tribe who was not then present; and (2) the Alligator leaving in the meanwhile for Port Hardy, South Island, where some nautical surveying was executed. The heavy fatal firing (after the delivery of all the prisoners) seems to have been begun wantonly, and without orders, and that too while the British flag of truce was still flying! Of course, several of the Maoris were killed, and their pa, provisions, canoes, &amp;c., burnt and destroyed, even the dead were mutilated and outraged! Such were the few and trifling presents from H.M.S. Alligator.</p>
+      <p>But, as I see that Mr Dickson is rather positive, I had better copy Dr Marshall’s own words respecting Mrs Guard, as they are very interesting; doubly so, I may say, just now, when this recent harrowing tragedy has just been perpetrated there. “When the ship’s boat came within hearing of the Maoris on the beach, they all set up a shout of gratulation, and several waded through the surf, up to their mouths in water, hoping to get near to the boat; but, failing to do so, deposited their female prisoner and her infant in a canoe, launched it from the shore, and brought them off alongside the Alligator’s gig. In a few minutes more, they were safe on board that ship, and under the protection of His Majesty’s pennant. She was dressed in native costume, being completely enveloped from head to foot in two superb mats, the largest and finest of the kind I have ever seen. They were the parting present of the tribe among whom she had been sojourning. She was, however bare-footed, and awakened very naturally, universal sympathy by her appearance.... From her own lips, I gathered all particulars.... and of the treatment she had all along experienced at their hands, her report was extremely favourable,” during her five months’ captivity among them. </p>
+      <p>Dr Marshall further says:— “In the Namu pa (after it was taken by the troops) the lodgings alotted to her were discovered at once by the size of the door—the addition of a small window, on the ledge of which “was the soap she had that day used; and inside her children’s frocks and her own stays. The door had been enlarged for her accommodation, the window had been made in compliance with her request, and a singular proof of considerate kindness and deference to her supposed delicacy of feeling was furnished, in the owner having caused the entrance and window both to be secluded by a close paling set up in front of the house, which effectually screened her from observation from without.”</p>
+      <p>The whole of Dr Marshall’s long and particular narration is a highly interesting one and well suited to your columns (far better, allow me to say, than Marmon’s sayings!); but bearing in mind what you had told me in ths last winter <hi rend="italic">re</hi> my letter and Parliamentary paper sent to you being “too long for insertion;” and also the saying “Once bit, twice shy” I hesitate to copy it.</p>
+      <p>Nevertheless I would also remark that I think Mr Dickson is wrong in supporting that Marmon, in speaking of another murder—that of Puare, in which he had a hand—that he really meant Bishop Broughton (the first Bishop of Sydney), although Marmon’s sentence (as given by you)— “a native missionary named Broughton, afterwards Bishop of Sydney”—seems, at first sight, to mean as much. It is true that Bishop Broughton visited the Bay of Islands at Christmas, 1838, in H.M.S. Pelorus, on official business, but his stay there was short, and, certainly, he was never in New Zealand before; indeed he told me so. How, then, could Bishop Brougton have been there at Hokianga? If there is any truth in Marmon’s rambling statement, <hi rend="italic">re</hi> that murder of Puare, I should say there may be a double confusion arising from the similarity and wrong use of names  (l) Broughton, or Paratene, being a rather common name North, which Marmon (with many others) may have supposed to have been derived from Bishop Broughton, which, however, was not the case, but from a Mr Nicholas Broughton, a good Christian, and a constant friend of both the old Church Missionary Society and their early missionaries; and (2) from the common practice among those low whites of the early days, of calling a baptised or Christian Maori “a missionary”<hi rend="italic">i.e.</hi> one of the missionaries’ followers. However, be that as it may, by merely altering <hi rend="italic">one</hi> word in Marmon’s sentence, <hi rend="italic">viz</hi>., for “afterwards” read “named after the,”—the said sentence is intelligible enough, to me at least; and, so altered, it may be correct—viewing the said transaction from J. Marmon’s standpoint.</p>
+      <p>In conclusion, I may observe, that I should not care to notice any saying of Marmon’s but for Mr Dickson’s letter—I am, &amp;c.,</p>
+      <p>
+        <hi rend="smallcaps">           William Colenso.</hi>
+      </p>
+    </body>
+  </text>
+</TEI>
